@@ -1,0 +1,24 @@
+<!-- 以JSON格式化工具为例 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>在线JSON格式化</title>
+    <style>/* 你的样式 */</style>
+</head>
+<body>
+    <textarea id="input" placeholder="粘贴JSON"></textarea>
+    <button onclick="format()">格式化</button>
+    <pre id="output"></pre>
+    
+    <script>
+        function format() {
+            try {
+                const json = JSON.parse(input.value);
+                output.textContent = JSON.stringify(json, null, 2);
+            } catch(e) {
+                output.textContent = 'JSON格式错误';
+            }
+        }
+    </script>
+</body>
+</html>
