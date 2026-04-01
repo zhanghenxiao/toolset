@@ -1,0 +1,87 @@
+:root {
+  --primary-color: #1a73e8;
+  --primary-hover: #1557b0;
+  --bg-color: #f8f9fa;
+  --card-bg: #ffffff;
+  --text-main: #202124;
+  --text-muted: #5f6368;
+  --border-color: #dadce0;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  --shadow-hover: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  --footer-bg: #0b192f;
+  --header-bg: #ffffff;
+  --header-height: 64px;
+  --dropdown-bg: #ffffff;
+  --dropdown-hover: #f1f3f4;
+}
+
+[data-theme='dark'] {
+  --bg-color: #0f172a;
+  --card-bg: #1e293b;
+  --header-bg: #1e293b;
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  --border-color: #334155;
+  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  --footer-bg: #020617;
+  --dropdown-bg: #1e293b;
+  --dropdown-hover: #334155;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease forwards;
+}
