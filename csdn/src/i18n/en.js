@@ -44,7 +44,7 @@ export default {
     join: 'Join Us',
     privacy: 'Privacy Policy',
     tools: 'Online Tools',
-    blog: 'COOKIEIT Blog',
+    blog: '流氓IT Blog',
     wiki: 'Wiki',
     tracker: 'Task Tracker'
   }

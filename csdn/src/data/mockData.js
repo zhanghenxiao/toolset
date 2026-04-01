@@ -10,7 +10,7 @@ export const contentItems = [
     title: 'Antigravity 最新配额实测：Pro 变试用？Ultra 从 1500 降到 250？付费用户成小丑？',
     image: thumb1,
     date: '2026-03-27',
-    author: 'Cookie',
+    author: '流氓',
     views: '1,120',
     category: '文章',
     duration: '15:20',
@@ -22,7 +22,7 @@ export const contentItems = [
     markdownContent: `
 # 1. 介绍
 本视频讲述了 Google Antigravity Skills 新手入门教程。
-声明：随 Cookie_IT 视频发布，免费使用，禁止任何转售等商业行为。
+声明：随 流氓_IT 视频发布，免费使用，禁止任何转售等商业行为。
 
 # 2. 视频中应用到命令
 ### 2.1. Skill.md en+zh
@@ -43,7 +43,7 @@ When translating tasks, follow these steps:
     title: 'AI 开源大模型 LLM 的 "闭源" 恐慌：一场虚惊还是行业趋势的开端？',
     image: thumb2,
     date: '2026-03-25',
-    author: 'Cookie',
+    author: '流氓',
     views: '850',
     category: '文章',
     duration: '08:45',
@@ -60,13 +60,13 @@ When translating tasks, follow these steps:
     title: 'AI 新手必备：命令行代理设置终极教程 (临时与永久)',
     image: thumb3,
     date: '2026-03-23',
-    author: 'Cookie',
+    author: '流氓',
     views: '2,300',
     category: '教程',
     duration: '12:10',
     excerpt: '在 AI 学习与开发中，网络问题常常是第一道坎。本视频专为新手设计。',
     tags: [{ name: 'AI学习', type: 'blue' }, { name: 'Mac OS', type: 'blue' }],
-    collection: 'Cookie工具箱',
+    collection: '流氓工具箱',
     relatedIds: [1, 2, 7, 8, 4],
     recommendationIds: [1, 2, 4, 5],
     markdownContent: '# 命令行代理教程\n\n## 临时代理\n```bash\nexport http_proxy=http://127.0.0.1:7890\n```\n## 永久代理\n修改 .bashrc 或 .zshrc...'
@@ -77,7 +77,7 @@ When translating tasks, follow these steps:
     title: '重磅消息：Google Gemini 3.1 Pro 正式登陆香港，AI 新时代开启！',
     image: thumb4,
     date: '2026-03-20',
-    author: 'Cookie',
+    author: '流氓',
     views: '5,600',
     category: '新闻',
     duration: '05:30',
@@ -95,7 +95,7 @@ When translating tasks, follow these steps:
     title: 'Claude 4.5 Opus 深度评测：超越 GPT-4o 的逻辑巅峰？',
     image: thumb1,
     date: '2026-03-18',
-    author: 'Cookie',
+    author: '流氓',
     views: '4,200',
     category: '评测',
     duration: '18:40',
@@ -112,7 +112,7 @@ When translating tasks, follow these steps:
     title: 'DeepSeek-V3 开源：万亿参数背后的中国 AI 力量',
     image: thumb2,
     date: '2026-03-15',
-    author: 'Cookie',
+    author: '流氓',
     views: '6,100',
     category: '新闻',
     duration: '10:20',
@@ -129,13 +129,13 @@ When translating tasks, follow these steps:
     title: 'Python + AI：打造你的个人自动化全能助手',
     image: thumb3,
     date: '2026-03-12',
-    author: 'Cookie',
+    author: '流氓',
     views: '3,400',
     category: '教程',
     duration: '25:15',
     excerpt: '使用 Python 结合 LLM API，一步步教你打造属于自己的自动化助手。',
     tags: [{ name: 'Python', type: 'blue' }, { name: '自动化', type: 'blue' }],
-    collection: 'Cookie工具箱',
+    collection: '流氓工具箱',
     relatedIds: [3, 1],
     recommendationIds: [1, 2, 3, 4],
     markdownContent: '# Python AI 助手\n\n从零开始构建你的 AI 代理。'
@@ -146,13 +146,13 @@ When translating tasks, follow these steps:
     title: '未来已来：2026 年 AI 行业年度趋势展望',
     image: thumb4,
     date: '2026-03-10',
-    author: 'Cookie',
+    author: '流氓',
     views: '1,900',
     category: '展望',
     duration: '14:50',
     excerpt: '在 AI 飞速发展的今天，未来的五年行业会走向何方？',
     tags: [{ name: '行业趋势', type: 'blue' }, { name: '未来', type: 'blue' }],
-    collection: 'Cookie 行业研报',
+    collection: '流氓 行业研报',
     relatedIds: [2, 4],
     recommendationIds: [1, 2, 3, 4],
     markdownContent: '# 2026 AI 趋势展望\n\n多模态、Agentic Workflow 将成为主流。'
@@ -163,7 +163,7 @@ When translating tasks, follow these steps:
     title: 'Docker 入门到精通：2026 开发者必备容器技术指南',
     image: thumb1,
     date: '2026-03-08',
-    author: 'Cookie',
+    author: '流氓',
     views: '2,100',
     category: '教程',
     duration: '30:00',
@@ -180,7 +180,7 @@ When translating tasks, follow these steps:
     title: 'iEVE 回忆录：致敬那些陪伴我们成长的经典游戏',
     image: thumb2,
     date: '2026-03-05',
-    author: 'Cookie',
+    author: '流氓',
     views: '9,800',
     category: '文章',
     duration: '15:20',
@@ -197,7 +197,7 @@ When translating tasks, follow these steps:
     title: '远行星号 (Starsector) 0.97a 汉化插件及必备 Mod 推荐',
     image: thumb3,
     date: '2026-03-02',
-    author: 'Cookie',
+    author: '流氓',
     views: '3,500',
     category: '教程',
     duration: '10:45',
@@ -214,7 +214,7 @@ When translating tasks, follow these steps:
     title: '新时代网络：如何配置 2.5G/10G 内网万兆环境',
     image: thumb4,
     date: '2026-03-01',
-    author: 'Cookie',
+    author: '流氓',
     views: '1,200',
     category: '教程',
     duration: '45:00',
@@ -233,7 +233,7 @@ export const allTags = [
 ];
 // 合集
 export const allCollections = [
-  'AI百科', 'Docker百科', 'Cookie工具箱', 'iEVE回忆', '开心串流', '爱快百科', '群晖百科', '远行星号工具', 'Cookie 行业研报'
+  'AI百科', 'Docker百科', '流氓工具箱', 'iEVE回忆', '开心串流', '爱快百科', '群晖百科', '远行星号工具', '流氓 行业研报'
 ];
 // 内容类型：文章
 export const allTypes = [

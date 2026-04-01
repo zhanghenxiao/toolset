@@ -48,7 +48,7 @@
     </div>
     <div class="footer-bottom">
       <div class="container">
-        <p>&copy; 2026 内容创作展示网站 lib00.com 保留所有权利 | 代理条款 | 隐私政策 | Cookie政策</p>
+        <p>&copy; 2026 内容创作展示网站 lib00.com 保留所有权利 | 代理条款 | 隐私政策 | 流氓政策</p>
       </div>
     </div>
     <div class="floating-actions">
