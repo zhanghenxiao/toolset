@@ -8,6 +8,7 @@ import hljs from 'highlight.js';
 import 'highlight.js/styles/github-dark.css'; // You can change this to match your theme
 
 const md = new MarkdownIt({
+  html: true, // 启用HTML标签解析
   highlight: function (str, lang) {
     if (lang && hljs.getLanguage(lang)) {
       try {
@@ -34,9 +35,18 @@ export default {
   },
   mounted() {
     this.$el.addEventListener('click', this.handleCopy);
+    this.addLazyLoading();
   },
   beforeDestroy() {
     this.$el.removeEventListener('click', this.handleCopy);
+  },
+  watch: {
+    content() {
+      // 当内容变化时，重新添加懒加载
+      this.$nextTick(() => {
+        this.addLazyLoading();
+      });
+    }
   },
   methods: {
     handleCopy(e) {
@@ -50,6 +60,12 @@ export default {
           }, 2000);
         });
       }
+    },
+    addLazyLoading() {
+      const images = this.$el.querySelectorAll('img');
+      images.forEach(img => {
+        img.setAttribute('loading', 'lazy');
+      });
     }
   }
 };
@@ -115,5 +131,12 @@ export default {
 
 .markdown-body li {
   margin-bottom: 8px;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 16px auto;
 }
 </style>

@@ -14,9 +14,9 @@
       <nav class="main-nav">
         <ul>
           <li><router-link to="/" exact-active-class="active">{{ $t('nav.home') }}</router-link></li>
-          <li><router-link to="/" active-class="active">{{ $t('nav.content') }}</router-link></li>
+          <!-- <li><router-link to="/" active-class="active">{{ $t('nav.content') }}</router-link></li> -->
           <li><router-link to="/tools" active-class="active">{{ $t('nav.tools') }}</router-link></li>
-          <li><router-link to="/" active-class="active">{{ $t('nav.about') }}</router-link></li>
+          <!-- <li><router-link to="/" active-class="active">{{ $t('nav.about') }}</router-link></li> -->
         </ul>
       </nav>
 
@@ -83,8 +83,8 @@
         </div>
 
         <div class="auth-buttons">
-          <button class="btn btn-outline">{{ $t('header.login') }}</button>
-          <button class="btn btn-primary">{{ $t('header.register') }}</button>
+          <!--  <button class="btn btn-outline">{{ $t('header.login') }}</button>
+          <button class="btn btn-primary">{{ $t('header.register') }}</button> -->
         </div>
       </div>
     </div>

@@ -40,7 +40,7 @@
                             <div class="input-with-action">
                                 <input type="text" v-model="inputDate" placeholder="2024-04-03 10:00:00" />
                                 <button class="btn-primary" @click="toTs">{{ isZh ? '转换为时间戳' : 'To Timestamp'
-                                    }}</button>
+                                }}</button>
                             </div>
                         </div>
                     </div>
@@ -52,8 +52,13 @@
                 </div>
             </section>
 
+            <!-- Video Cutter Section -->
+            <section class="tool-section video-cutter-section">
+                <VideoCutter />
+            </section>
+
             <!-- AI Tools Navigation Section -->
-            <section class="tool-section ai-nav-section">
+            <!-- <section class="tool-section ai-nav-section">
                 <div class="ai-layout">
                     <aside class="ai-sidebar">
                         <div class="sidebar-title">
@@ -94,16 +99,20 @@
                         </div>
                     </main>
                 </div>
-            </section>
+            </section> -->
         </div>
     </div>
 </template>
 
 <script>
 import { aiToolsGroups } from '../data/toolsData';
+import VideoCutter from '../components/VideoCutter.vue';
 
 export default {
     name: 'ToolStation',
+    components: {
+        VideoCutter
+    },
     data() {
         return {
             currentTs: Math.floor(Date.now() / 1000),
@@ -172,7 +181,7 @@ export default {
             this.convertResult = Math.floor(date.getTime() / 1000).toString();
         },
         handleImgError(e) {
-            e.target.src = 'https://api.iowen.cn/favicon/default.png';
+            e.target.src = '/favicon-default.png';
         }
     }
 };

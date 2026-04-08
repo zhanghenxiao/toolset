@@ -16,7 +16,7 @@
           <li><a href="/">{{ $t('footer.company') }}</a></li>
           <li><a href="/">{{ $t('footer.contact') }}</a></li>
           <li><a href="/">{{ $t('footer.join') }}</a></li>
-          <li><a href="/">{{ $t('footer.privacy') }}</a></li>
+          <li><a href="/privacy-policy">{{ $t('footer.privacy') }}</a></li>
         </ul>
       </div>
       <div class="footer-col">

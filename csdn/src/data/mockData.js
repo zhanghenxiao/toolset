@@ -6,12 +6,485 @@ import leafMainThumb from '../assets/images/leaf-main.png';
 import jsonviewThumb from '../assets/images/jsonview-thumb.png';
 import corsThumb from '../assets/images/cors-thumb.png';
 import mapbox3dThumb from '../assets/images/mapbox-3d-thumb.png';
+import llmPanicThumb from '../assets/images/llm-panic-thumb.png';
+import antigravityThumb from '../assets/images/antigravity-thumb.png';
+import unbanGuideThumb from '../assets/images/unban-guide-thumb.png';
 
 const mandatoryFooter = '\n\n---\n专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie';
 
 export const contentItems = [
   {
     id: 1,
+    slug: 'antigravity-unban-guide',
+    title: 'Google Antigravity 账号解封指南, 官方解封教程来了(附唯一申诉入口)',
+    image: unbanGuideThumb,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '2,500',
+    category: '视频',
+    duration: '05:30',
+    excerpt: '近期, 不少开发者反映其用于体验 Google 全新 AI IDE Antigravity(或 Gemini CLI)的账号遭到了封禁. 如果你也遇到了同样的问题, 不必惊慌. 本期视频将为你提供一份详尽的官方解封教程, 帮助你抓住这唯一一次的解封机会.',
+    tags: [{"name":"账号解封","type":"blue"},{"name":"Antigravity","type":"blue"},{"name":"AI工具","type":"green"}],
+    collection: 'AI百科',
+    relatedIds: [2, 3, 4], 
+    recommendationIds: [2, 3, 5, 6],
+    gallery: [unbanGuideThumb],
+    markdownContent: `
+> 1. 账号解封url
+
+\`\`\`
+https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-QY1gz8U0CGA/viewform
+\`\`\`
+
+#####  总结内容
+
+# Google Antigravity 账号解封指南, 官方解封教程来了(附唯一申诉入口)
+
+## Google Antigravity 账号解封终极指南
+
+近期, 不少开发者反映其用于体验 Google 全新 AI IDE **Antigravity**(或 Gemini CLI)的账号遭到了封禁. 如果你也遇到了同样的问题, 不必惊慌. 本期视频将为你提供一份详尽的官方解封教程, 帮助你抓住这**唯一一次**的解封机会.
+
+### 为什么你的 Antigravity 账号会被封禁?
+
+根据官方申诉表单的提示, 封禁的主要原因通常是违反了服务条款(ToS), 例如通过**非官方的第三方工具或方式**来使用 Antigravity 或 Gemini API. 官方旨在确保用户在其指定的环境(如 Gemini CLI)中使用服务.
+
+### 解封步骤详解
+
+整个解封流程围绕一份官方的英文申诉表单展开. 请严格按照以下步骤操作：
+
+1. **找到官方申诉链接**
+   - 视频中提到, 你可以访问 \`tooset.site\` 并搜索关键词“账号解封”来找到包含该链接的文章.
+   - 这个链接是唯一的官方申诉入口. 请务必核对 URL, 确保你访问的是正确的页面.
+2. **填写申诉表单**
+   - **确认邮箱**：表单会要求你确认申诉的 Gmail 邮箱. 请确保选择的是你被封禁的那个 Antigravity 账号所绑定的邮箱.
+   - **勾选承诺复选框**：这是最关键的一步. 你需要勾选一个复选框, 其内容大致为：“我理解并承诺, 我将仅在官方允许的 Antigravity / Gemini CLI 环境下使用该服务, 不再违反用户协议. 如果我再次违规, Google 有权**永久封禁**我的账号. ”
+3. **提交并耐心等待**
+   - 提交表单后, 你需要耐心等待审核结果. 根据经验, 等待时间可能在 **5 小时到 72 小时**之间.
+   - 如果申诉成功, 你会收到一封邮件, 通知你的账号访问权限已经恢复.
+
+### 关键警告：机会仅此一次!
+
+请务必重视申诉表单中的承诺. 明确表示, 如果再次违规, 账号将被**永久封禁**, 届时将再无申诉机会. 因此, 在解封后, 请严格遵守 Google 的服务条款, 避免使用任何第三方或未经授权的工具.
+
+希望这期视频能帮助到所有遇到问题的开发者. 祝大家好运, 也希望你永远用不到这个教程.
+` + mandatoryFooter
+  },
+  {
+    id: 2,
+    slug: 'antigravity-2026-ban-analysis',
+    title: 'Google AI IDE Antigravity 2026大规模封号事件深度解析: 原因与应对策略',
+    image: antigravityThumb,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '1,000',
+    category: '视频',
+    duration: '08:00',
+    excerpt: '2026年2月12日, 科技圈迎来一次震动, 许多开发者登录 Google 的前沿 AI IDE Antigravity 时, 惊讶地发现自己的账号已被封禁. 这次事件波及范围广泛, 从普通用户到付费的Pro乃至Ultra用户都未能幸免...',
+    tags: [{"name":"封号事件","type":"blue"},{"name":"AI工具","type":"blue"},{"name":"Antigravity","type":"green"}],
+    collection: 'AI百科',
+    relatedIds: [3, 4, 5], 
+    recommendationIds: [3, 4, 6, 7],
+    gallery: [antigravityThumb],
+    markdownContent: `
+# Google AI IDE Antigravity 2026大规模封号事件深度解析: 原因与应对策略
+
+## 🚨 警报: Google AI IDE Antigravity 2026大规模封号事件回顾
+
+2026年2月12日, 科技圈迎来一次震动, 许多开发者登录 Google 的前沿 AI IDE Antigravity 时, 惊讶地发现自己的账号已被封禁. 这次事件波及范围广泛, 从普通用户到付费的Pro乃至Ultra用户都未能幸免, 引发了社区的激烈讨论. 本视频将带你深入了解事件的始末、分析背后的原因, 并提供切实可行的应对建议.
+
+### ❓ 如何判断你的账号是否被封禁？
+
+如果你遇到了以下情况, 那么很可能已成为本次封禁潮中的一员:
+
+1. **IDE 登录界面异常**: 登录 Antigravity IDE 时看到特定的封禁提示页面.
+2. **第三方工具返回403错误**: 通过非官方工具调用API时, 收到 \`403 Forbidden\` 的错误码.
+3. **Gemini CLI 确认**: 通过官方的 Gemini 命令行工具登录, 会明确提示账号因“违反用户协议”而被暂停, 并提供一个申诉邮箱.
+
+### 💥 封禁范围: 付费也非“免死金牌”
+
+本次封禁行动覆盖面极广, 明确波及了以下用户群体:
+
+- **Pro 用户** (包括学生Pro和付费Pro)
+- **Ultra 付费用户**
+
+这表明, 仅仅为服务付费, 并不能豁免用户遵守服务条款的义务. 官方对违规行为采取了“一视同仁”的强硬态度.
+
+### 🔍 根本原因: 开源工具的“双刃剑”效应
+
+视频的核心观点指出, 本次大规模封号很可能与**使用绕过官方IDE的开源项目**有关. 演讲者提出了一个发人深省的思考链:
+
+- **开源意味着透明**: 任何旨在“便利”用户、绕过官方限制的开源工具, 其代码都是公开的.
+- **AI 助力审查**: 官方工程师可以轻易获取这些开源代码, 并利用强大的AI模型进行分析, 从而生成一套高精度的检测方案来识别违规用户.
+- **极低的检测成本**: 对于Google这样的巨头来说, 利用AI分析代码并标记违规账号的成本（Token消耗）微乎其微.
+- **高精度标记**: 这套自动化方案可以达到极高的准确率（如95%-99%）, 精准定位违规账号.
+
+因此, 那些看似便捷的开源工具, 在平台收紧政策时, 反而成为了官方精准打击的“靶子”. 这正是开源在这类场景下的“双刃剑”效应.
+
+### 行业趋势与官方态度
+
+值得注意的是, 这并非孤立事件. 视频中也提到了友商（如Kiro）同样在进行类似的封号行动. 这预示着整个行业正在加强对API和服务使用行为的规范化管理, 合规使用将成为新常态.
+
+### 🛡️ 给开发者的建议
+
+面对日益收紧的环境, 视频给出了以下核心建议:
+
+1. **珍惜你的账号**: 随着环境趋严, 每一个合规的、功能完备的账号都将变得越来越宝贵.
+2. **评估违规代价**: 在使用任何非官方工具前, 请深刻思考违反用户协议可能带来的后果（账号永久封禁、数据丢失等）, 并判断自己是否能承受.
+3. **坚持合规使用**: 对于绝大多数普通用户和开发者, 最安全的方式是在官方IDE内完成登录和API调用等所有操作, 严格遵守平台的用户协议.
+
+### 总结
+
+这次 Antigravity 封号事件是一个明确的信号: AI 服务的“蛮荒时代”正在结束. 平台方正利用其技术优势, 以前所未有的效率和精度来执行规则. 对于开发者而言, 理解并尊重规则, 将是未来在AI浪潮中稳健前行的关键.
+` + mandatoryFooter
+  },
+  {
+    id: 3,
+    slug: 'llm-open-source-panic-v2',
+    title: 'AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?',
+    image: llmPanicThumb,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '1,500',
+    category: '视频',
+    duration: '06:30',
+    excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本视频将带你深入探究这一话题的来龙去脉。',
+    tags: [{ name: 'AI趋势', type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [7, 13, 14], 
+    recommendationIds: [7, 12, 13, 14],
+    gallery: [llmPanicThumb],
+    markdownContent: `
+# AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
+
+## 开源模型的“闭源”风波: 是恐慌还是未来?
+
+近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本视频将带你深入探究这一话题的来龙去脉。
+
+### 传闻的源头与真相
+
+一切始于几则看似孤立的行业动态:
+
+- **智谱AI (GLM)**: 官方发布海报安抚社区，承诺 GLM-5.1 将继续开源，这本身就暗示了社区存在恐慌情绪。与此同时，其为特定场景定制的 \`GLM-Turbo\` 模型并未开源。
+- **MiniMax** 和 **小米 (Xiaomi)**: 其新发布的 \`MM-2.7\` 和 \`MiMo-V2-Pro\` 模型同样在发布之初选择了不开源。
+
+然而，经过深入挖掘，我们发现情况更为复杂:
+
+- **MiniMax** 的模型据传只是 **推迟开源**。
+- **小米** 的 \`MiMo-V2-Flash\` 已经开源，并承诺未来将有更多模型开放。
+
+这种商业时代下的不确定性，加上许多模型在宣传时声称“对标或优化了顶级闭源模型”却不开放权重，自然会引发开发者的联想和担忧。
+
+### 开源的两种模式: 你真的了解吗?
+
+视频中用一个生动的“做蛋糕”比喻，解释了开源的两种主流形式:
+
+1. **权重开源 (Weight Open-Source)**: 就像给你一个做好的蛋糕。你可以直接“吃”（使用模型），也可以在上面加奶油（进行微调）。代表模型有 **Qwen (通义千问)** 和 **GLM**。
+2. **完整开源 (Fully Open-Source)**: 不仅给你蛋糕，还附上烤箱设计图和独家烘焙秘方（训练代码、数据集等）。这对于学习和研究意义重大。代表模型是 **DeepSeek**。
+
+### 开源与商业: 混合模式是更优解?
+
+开源与闭源并非完全对立，二者结合往往能形成更成功的商业模式。
+
+- **“开源引流，闭源盈利”**: 厂商通过开源中小型模型构建社区生态，吸引用户，而将最顶尖、性能最强的“Max”或“Turbo”系列作为闭源的商业化产品。Qwen 和 GLM 都是这一策略的踐行者。
+- **理想模式展望**: 视频作者提出了一个大胆的设想——当新一代模型发布时，将上一代模型开源。这虽然充满挑战，但或许能平衡商业利益和社区贡献。
+
+有趣的是，作者认为，当前许多模型的开源并非完全自愿，而是在 **DeepSeek** 毅然决然地选择完整开源后，被市场“推”了一把的结果。因此，未来部分模型选择闭源，是符合商业逻辑的正常现象。
+
+### 对个人和中小企业的影响微乎其微
+
+对于绝大多数个人用户和小型公司而言，顶级大模型（如400B参数量）即使开源，本地部署的硬件门槛和技术难度也极高。因此，我们更应该关注 **小参数模型的开源情况**，这才是真正触手可及的资源。对于极少数因隐私需求而必须自部署的用户，其市场占比过小，难以影响厂商的整体战略。
+
+### 现阶段模型选择建议
+
+- **搜索任务**: 优先考虑 **Grok**
+- **编程辅助**: **Opus-4.6** 或 **GPT-5.4 (Codex驱动)** 是当前的最优解。
+- **UI设计**: **Gemini-3.1-Pro (满血版)** 是目前的首选。
+- **本地部署**: 考虑 **Qwen** 或其他模型的小参数版本。
+
+### 结语
+
+AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停滞。我们特别要感谢 **DeepSeek** 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
+` + mandatoryFooter
+  },{
+    id: 4,
+    slug: 'cli-proxy-settings-ai-beginners',
+    title: 'AI新手必备: 命令行代理设置终极教程(临时与永久)',
+    image: thumb3,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '2,100',
+    category: '教程',
+    duration: '10:30',
+    excerpt: '在探索AI的世界时，网络限制常是第一道坎。本指南手把手教你如何为命令行设置临时与永久代理，助你高效学习。',
+    tags: [{ name: 'AI学习', type: 'blue' }, { name: '命令行', type: 'blue' }, { name: '代理设置', type: 'green' }],
+    collection: '流氓工具箱',
+    relatedIds: [5, 6, 7], 
+    recommendationIds: [5, 6, 8, 9],
+    gallery: [thumb3],
+    markdownContent: `
+# AI新手必备: 命令行代理设置终极教程(临时与永久)
+
+## 告别网络错误: AI新手的命令行代理完全指南
+
+在探索人工智能(AI)的广阔世界时，许多新手开发者会遇到一个共同的障碍: 由于网络限制，无法顺利访问所需的资源、库或模型。这个问题通常可以通过为命令行(Terminal)设置代理来解决。本指南将教你如何配置代理，让你专注于学习和创造。
+
+### 为什么需要为命令行设置代理？
+许多AI工具、包管理器(如pip、conda)和版本控制系统(如Git)都需要通过命令行访问国际网络资源。如果你的网络环境受限，就会导致下载失败、连接超时等一系列问题。
+
+### 方法一: 一次性临时代理
+这种方法最简单快捷，适合临时性的任务。它只在当前的终端窗口中生效。
+
+**核心步骤:**
+1. **设置代理**:
+   \`\`\`bash
+   export https_proxy=http://127.0.0.1:7890
+   export http_proxy=http://127.0.0.1:7890
+   \`\`\`
+2. **验证代理**: \`echo $https_proxy\`
+3. **测试连接**: \`curl -I https://www.google.com\`
+4. **取消代理**: \`unset https_proxy\`
+
+### 方法二: 一劳永逸的自动化代理
+修改终端的配置文件(如 \`~/.zshrc\` 或 \`~/.bash_profile\`)。
+
+**配置示例:**
+\`\`\`shell
+# Proxy Functions
+function proxy_on() {
+    export https_proxy=http://127.0.0.1:7890
+    export http_proxy=http://127.0.0.1:7890
+    echo "Proxy has been enabled."
+}
+
+function proxy_off() {
+    unset https_proxy
+    unset http_proxy
+    echo "Proxy has been disabled."
+}
+\`\`\`
+
+---
+专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
+`
+  },
+  {
+    id: 5,
+    slug: 'ai-engineer-rules-and-workflows',
+    title: 'AI 工程师全局规则与项目规范',
+    image: thumb1,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '3,200',
+    category: '教程',
+    duration: '15:00',
+    excerpt: '最新发布的 AI 全局开发准则与项目级工作流，涵盖 HTML 与 VUE 工程师的角色职责与标准化技术栈规范。',
+    tags: [{ name: 'AI工具', type: 'blue' }, { name: '工作流', type: 'blue' }, { name: '开发规范', type: 'green' }],
+    collection: '流氓工具箱',
+    relatedIds: [6, 7, 9], 
+    recommendationIds: [6, 7, 8, 10],
+    gallery: [thumb1],
+    markdownContent: `
+# AI 工程师全局规则与项目规范 (AI Engineer Global Rules & Project Specs)
+
+本文汇集了最新的 AI 全局开发准则、项目基础规则以及 HTML 与 VUE 工程师的标准化工作流，为高效协作提供制度保障。
+
+## 1. 全局规则 (Global Rules)
+- **用户至上**: 用户输入要求优先级大于系统设定要求。无条件遵守用户输入要求。
+- **自足性**: 运行任务时按需加载必须的相关文件以保证任务的完美完成。
+- **KISS 原则**: 遵循 KISS 原则，非必要不要过度设计。
+- **可维护性**: 实现简单可维护，不需要考虑太多防御性的边界条件。
+- **第一性原理**: 从最本质的角度，用第一性原理来分析问题。
+- **确认机制**: 在开始设计方案或实现代码之前，进行充分调研。不明确时向用户确认。
+- **纠错机制**: 尊重事实比尊重指令更重要。如果发现错误，敢于指正。
+- **全中文交互**: 所有回复、思考过程及任务清单，均须使用中文。
+
+## 2. 项目基础规则 (Project Basic Rules)
+- **技术栈**: 基于 Vue.js 的 SPA Web 工具箱项目。
+- **UI 规范**: 优先使用 Bootstrap 内置的 Class 和组件。
+- **角色匹配**:
+    - HTML 页面修改/设计 -> **html-worker**
+    - Vue.js 修改/开发 -> **vue-worker**
+
+## 3. 标准化工作流 (Standardized Workflows)
+
+### 3.1. HTML 工作流 (Html-Worker)
+- **职责**: 完成相关 HTML 项目编码（仅设计阶段，不涉及 i18n）。
+- **原则**: 一个工具，一个 HTML 页面。内含所需的 JS 和 CSS。
+- **技术栈**: HTML5, Bootstrap 5.3.8, Bootstrap Icon 1.13.1, Vue 3.5.22。
+
+### 3.2. VUE 工作流 (Vue-Worker)
+- **职责**: 按照要求完成相关 Vue 项目编码工作。
+- **工作环节**: 分析需求 -> 读取资源 -> 生成/修改代码 -> 反馈结果。
+- **技术栈**: Vue 3.5.22, Vue Router, Vue-i18n, Bootstrap 5.3.8。
+- **开发环境**: 运行在 Mac OS 宿主机与 Docker (ee-pnpm-frontend-dev) 容器中。
+
+---
+专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
+`
+  },
+  {
+    id: 6,
+    slug: 'gemini-3-1-pro-hongkong',
+    title: '重磅消息：Google Gemini 3.1 Pro 正式登陆香港, AI 新时代开启!',
+    image: thumb4,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '2,800',
+    category: '新闻',
+    duration: '05:45',
+    excerpt: '近日, Google 旗下最先进的大语言模型之一 Gemini 3.1 Pro, 现已通过其 Web 应用正式向香港地区用户开放。',
+    tags: [{ name: 'Gemini', type: 'blue' }, { name: 'Gemini 3.1 Pro', type: 'blue' }, { name: '香港', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [7, 8, 12], 
+    recommendationIds: [7, 8, 9, 10],
+    gallery: [thumb4],
+    markdownContent: `
+# 重磅消息：Google Gemini 3.1 Pro 正式登陆香港, AI 新时代开启!
+
+## 🚀 Google AI 重大进展：Gemini 3.1 Pro 在香港可用
+
+近日, 科技圈迎来一个振奋人心的消息：Google 旗下最先进的大语言模型之一 **Gemini 3.1 Pro**, 现已通过其 Web 应用正式向香港地区用户开放。在过去很长一段时间里, 香港地区的用户都无法直接访问 Google 的高级 AI 模型服务, 而这次更新无疑是一个历史性的突破。
+
+------
+
+## ✅ 解锁“完全体”Gemini 体验
+
+根据用户的实际测试截图, 我们可以确认以下几点关键信息：
+
+1. **Web App 全功能上线**：用户现在可以通过网页端 \`gemini.google.com\` 访问服务。
+2. **顶级模型可用**：界面清晰地显示了 \`Fast\` 和 \`Pro\` 两种模型选项, 并且模型确认其身份为 **Gemini 3.1 Pro**, 这代表着用户可以使用当前业界第一梯队的 AI 模型进行交互。
+3. **付费渠道畅通**：页面下方出现了升级至 \`Google One AI Plus\` 的付费订阅提示。这意味着不仅是模型本身, 与之配套的整个付费生态系统也已在香港落地, 用户可以获得更强大的功能和更高的使用限额。
+
+这表明, 此次开放的并非“阉割版”, 而是一个功能齐备的“完全体”Gemini 应用。
+
+------
+
+## 展望未来：从 Web 端到全平台覆盖
+
+尽管目前仅限于 Web App, 但这通常是 Google 推广新服务的第一步。我们可以合理预期, 在不久的将来, 这一服务将逐步扩展到：
+
+- **原生移动应用 (Android & iOS)**
+- **开发者工具 (Agent, 命令行等)**
+- **集成到更多 Google 产品中**
+
+这次在香港的落地, 不仅仅是增加了一个可用地区, 更是一个强烈的信号：世界顶级的 AI 技术正在加速普及, 区域性的壁垒正在被打破。对于香港乃至周边地区的开发者、研究人员和广大科技爱好者来说, 这意味着能够站在同一起跑线上, 利用最前沿的工具进行创新和学习。
+
+总而言之, 这是一个值得庆祝的重要时刻, 它预示着 AI 应用将迎来更加广阔和光明的未来。
+
+---
+专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
+`
+  },
+
+  {
+    id: 7,
+    slug: 'llm-open-source-panic',
+    title: 'AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?',
+    image: thumb2,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '1,500',
+    category: '新闻',
+    duration: '06:30',
+    excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本文将带你深入探究这一话题的来龙去脉。',
+    tags: [{ name: 'AI趋势',type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [8, 13, 14], 
+    recommendationIds: [8, 12, 13, 14],
+    gallery: [thumb2],
+    markdownContent: `
+# AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
+
+开源模型的“闭源”风波: 是恐慌还是未来?
+近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本文将带你深入探究这一话题的来龙去脉。
+
+## 传闻的源头与真相
+一切始于几则看似孤立的行业动态:
+
+* **智谱AI (GLM)**: 官方发布海报安抚社区，承诺 GLM-5.1 将继续开源，这本身就暗示了社区存在恐慌情绪。与此同时，其为特定场景定制的 GLM-Turbo 模型并未开源。
+* **MiniMax 和 小米 (Xiaomi)**: 其新发布的 MM-2.7 和 MiMo-V2-Pro 模型同样在发布之初选择了不开源。
+
+然而，经过深入挖掘，我们发现情况更为复杂:
+* MiniMax 的模型据传只是 **推迟开源**。
+* 小米 的 MiMo-V2-Flash 已经开源，并承诺未来将有更多模型开放。
+这种商业时代下的不确定性，加上许多模型在宣传时声称“对标或优化了顶级闭源模型”却不开放权重，自然会引发开发者的联想和担忧。
+
+## 开源的两种模式: 你真的了解吗?
+文章中用一个生动的“做蛋糕”比喻，解释了开源的两种主流形式:
+* **权重开源 (Weight Open-Source)**: 就像给你一个做好的蛋糕。你可以直接“吃”（使用模型），也可以在上面加奶油（进行微调）。代表模型有 Qwen (通义千问) 和 GLM。
+* **完整开源 (Fully Open-Source)**: 不仅给你蛋糕，还附上烤箱设计图和独家烘焙秘方（训练代码、数据集等）。这对于学习和研究意义重大。代表模型是 DeepSeek。
+
+## 开源与商业: 混合模式是更优解?
+开源与闭源并非完全对立，二者结合往往能形成更成功的商业模式。
+* **“开源引流，闭源盈利”**: 厂商通过开源中小型模型构建社区生态，吸引用户，而将最顶尖、性能最强的“Max”或“Turbo”系列作为闭源的商业化产品。Qwen 和 GLM 都是这一策略的踐行者。
+* **理想模式展望**: 我们提出了一个大胆的设想——当新一代模型发布时，将上一代模型开源。这虽然充满挑战，但或许能平衡商业利益和社区贡献。
+
+有趣的是，当前许多模型的开源并非完全自愿，而是在 DeepSeek 毅然决然地选择完整开源后，被市场“推”了一把的结果。因此，未来部分模型选择闭源，是符合商业逻辑的正常现象。
+
+## 对个人和中小企业的影响微乎其微
+对于绝大多数个人用户和小型公司而言，顶级大模型（如400B参数量）即使开源，本地部署的硬件门槛和技术难度也极高。因此，我们更应该关注 **小参数模型** 的开源情况，这才是真正触手可及的资源。对于极少数因隐私需求而必须自部署的用户，其市场占比过小，难以影响厂商的整体战略。
+
+## 现阶段模型选择建议
+* **搜索任务**: 优先考虑 Grok
+* **编程辅助**: Opus-4.6 或 GPT-5.4 (Codex驱动) 是当前的最优解。
+* **UI设计**: Gemini-3.1-Pro (满血版) 是目前的首选。
+* **本地部署**: 考虑 Qwen 或其他模型的小参数版本。
+
+## 结语
+AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停滞。我们特别要感谢 DeepSeek 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
+
+---
+专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
+`
+  },
+
+  {
+    id: 8,
+    slug: 'claude-opus-4-6-antigravity',
+    title: 'Claude Opus 4.6 登陆 Antigravity: 是完整升级还是“残血版”? Pro 用户上手初体验',
+    image: thumb1,
+    date: '2026-04-07',
+    author: '流氓',
+    views: '1,000',
+    category: '评测',
+    duration: '08:00',
+    excerpt: '备受期待的 Claude Opus 4.6 模型终于在 Google 的 AI IDE 平台 Antigravity 上线! 本视频将为你详细解析更新内容及1M上下文测试。',
+    tags: [{ name: 'Claude', type: 'blue' }, { name: 'Opus 4.6', type: 'blue' }, { name: 'Antigravity', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [9, 13, 14], 
+    recommendationIds: [9, 13, 14, 15],
+    gallery: [thumb1],
+    markdownContent: `
+# Claude Opus 4.6 登陆 Google AI IDE Antigravity: 你需要知道的一切
+
+备受期待的 Claude Opus 4.6 模型终于在 Google 的 AI IDE 平台 Antigravity 上线! 本次更新为用户带来了新的可能性, 但也引发了一些疑问. 本视频将为你详细解析此次更新的重点内容.
+
+## 🚀 上线详情与配额机制
+* **分层上线**: 与以往类似, Ultra 套餐用户会比 Pro 套餐用户提前 1-2 天体验到新模型.
+* **模型更替**: 目前 Opus 4.5 和 4.6 并存, 但根据产品迭代逻辑, 预计 Opus 4.5 很快会被 4.6 完全替代.
+* **配额平移**: 根据初步测试, Opus 4.5 和 4.6 似乎共享配额. 也就是说, 升级到 4.6 后, 你的消息使用限额（Quota）不会改变. 但值得注意的是, Pro 用户的配额本身存在不确定性, 从 40 到 150 不等, 具体原因未知.
+
+## 🤔 核心争议: 是完整的 Opus 4.6 吗?
+本次更新最大的争议点在于, Antigravity 上的 Opus 4.6 似乎是一个**“残血版”**.
+
+**关键证据: 200K vs 1M 上下文窗口**
+根据社区用户分享的技术测试截图, 我们发现:
+* 模型标识为 \`Opus 4.6 thinking\`.
+* 尽管模型的理论上下文长度（Context Window）应为 1M tokens, 但实际测试中, 当输入内容超过 200K tokens 时便会达到上限.
+* 这意味着, 至少对于 Pro 用户而言, 当前在 Antigravity 上可用的 Opus 4.6 并没有提供其宣传的 1M 超长上下文能力, 而是维持在了 200K 的水平.
+
+## 📢 总结与展望
+总而言之, Claude Opus 4.6 在 Antigravity 的上线虽然带来了新的模型选择, 但其核心能力——1M 上下文窗口——似乎尚未对所有用户完全开放. 这可能是平台方出于稳定性或成本考虑的灰度策略.
+
+我们呼吁正在使用 Ultra 套餐并具备技术测试能力的用户, 可以分享你在 1M 上下文方面的测试结果, 帮助社区更全面地了解此次更新的真实情况.
+
+---
+专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
+`
+  },
+
+  {
+    id: 9,
     slug: 'mapbox-3d-map',
     title: 'Mapbox GL JS 初始化 3D 建筑与地形教程',
     image: mapbox3dThumb,
@@ -23,8 +496,8 @@ export const contentItems = [
     excerpt: '学习如何使用 Mapbox GL JS 快速初始化一个包含 3D 建筑挤压（Fill-Extrusion）和数字高程模型（DEM）地形的交互式 3D 地图。',
     tags: [{ name: 'Mapbox', type: 'blue' }, { name: '3D地图', type: 'blue' }, { name: 'WebGIS', type: 'green' }],
     collection: '地图',
-    relatedIds: [2, 4, 6], 
-    recommendationIds: [2, 3, 4, 5],
+    relatedIds: [10, 12, 14], 
+    recommendationIds: [10, 11, 12, 13],
     gallery: [mapbox3dThumb],
     markdownContent: `
 mapbox初始化一个3D地图
@@ -133,7 +606,7 @@ mapbox初始化一个3D地图
 ` + mandatoryFooter
   },
   {
-    id: 2,
+    id: 10,
     slug: 'chrome-cors-plugin',
     title: 'Chrome & Firefox 跨域插件配置教程',
     image: corsThumb,
@@ -145,44 +618,64 @@ mapbox初始化一个3D地图
     excerpt: '本地开发遇到 Cross-Origin 跨域问题？通过 Chrome 和 Firefox 插件轻松开启 Access-Control-Allow-Origin，加速前后端调试。',
     tags: [{ name: 'Chrome', type: 'blue' }, { name: '插件', type: 'blue' }, { name: '跨域', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [3, 4, 6, 7], 
-    recommendationIds: [3, 4, 5, 6],
-    gallery: [corsThumb],
+    relatedIds: [11, 12, 14, 15], 
+    recommendationIds: [11, 12, 13, 14],
+    gallery: [
+        // '/10/1.png',
+        // '/10/2.png',
+        // '/10/3.png',
+        // '/10/4.png'
+    ],
     markdownContent: `
-目录
-
-1.Chrome跨域插件配置
+## 1.Chrome跨域插件配置
 使用chrome插件“Allow CORS: Access-Control-Allow-origin ”来解决跨域问题。
+<img src="/10/1.png" alt="">
+
 
 点击pin图标，然后插件会显示在地址栏 
+<img src="/10/2.png" alt="">
 
-1.1启动插件
+
+### 1.1启动插件
 点击文本和图标都可以
 
 开启完以后图标就变成彩色的了， 关闭插件图标就变灰的了。
+<img src="/10/3.png" alt="">
 
-1.2. 设置本地调试跨域
+
+
+### 1.2设置本地调试跨域
+
 
 点击Open option page这个页面，这是以下内容
+<img src="/10/4.png" alt="">
+
+
+
 
 这样就完成本地跨域了 
 
-2 Firefox跨域插件
-2.1. 安装插件 CORS Everywhere
+## 2 Firefox跨域插件
+### 2.1安装插件 CORS Everywhere
 CORS Everywhere – Get this Extension for 🦊 Firefox (en-US)
 
-2.2. 启动插件
+
+
+### 2.2启动插件
 下载并安装这个插件。
 安装完以后地址栏后面有这个图标，点击启动就可以。
 
-3 工具下载链接
-夸克网盘：
 
-链接：https://pan.quark.cn/s/811ec5bc5242?pwd=UJJW 提取码：UJJW
+
+## 3 工具下载链接
+夸克网盘：
+\`\`\`html
+https://pan.quark.cn/s/811ec5bc5242?pwd=UJJW 提取码：UJJW
+\`\`\`
 ` + mandatoryFooter
   },
   {
-    id: 3,
+    id: 11,
     slug: 'chrome-jsonview-install',
     title: 'Chrome 安装 JSONview 插件教程',
     image: jsonviewThumb,
@@ -194,40 +687,46 @@ CORS Everywhere – Get this Extension for 🦊 Firefox (en-US)
     excerpt: 'Chrome 安装 JSONview 插件后，可以在浏览器中直接查看格式化后的 JSON 内容，是开发者必备的工具。',
     tags: [{ name: 'Chrome', type: 'blue' }, { name: '插件', type: 'blue' }, { name: 'JSON', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [4, 5, 7], 
-    recommendationIds: [4, 5, 6, 7],
+    relatedIds: [12, 13, 15], 
+    recommendationIds: [12, 13, 14, 15],
     gallery: [
-      'https://i-blog.csdnimg.cn/blog_migrate/3d2ca9661c744c4f5c4a1c9aee4d4c79.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/413d5abf8f0f0ed396ab2163a825851.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/e8a7d71c102c8a521068dfaeafbb2efd.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/c88f91ddc90eb9c29bb148c5da93ef5f.png'
+        '/11/1.png',
+        '/11/2.png',
+        '/11/3.png',
+        '/11/4.png'
     ],
     markdownContent: `
+本文介绍如何安装JSONview插件 美化浏览器查看的JSON数据
+
 chrome安装JSONview插件，即可在浏览中查看json文件
 
-由于浏览器查看返回的json[字符串比较](https://so.csdn.net/so/search?q=字符串比较&spm=1001.2101.3001.7020)乱，安装这个插件后看起来很清爽
- 1、下载JSONview压缩包
+由于浏览器查看返回的json字符串比较乱，安装这个插件后看起来很清爽
+ ### 1、下载JSONview压缩包
 
-夸克网盘
- 链接：https://pan.quark.cn/s/51502e7068de?pwd=fDLE 
+夸克网盘：
+\`\`\`html
+https://pan.quark.cn/s/51502e7068de?pwd=fDLE
+\`\`\`
 
-2.解压
+### 2.解压
 
-3.打开chorme浏览器的扩展程序
+### 3.打开chorme浏览器的扩展程序
+<img src="/11/1.png" alt="">
+或者是在输入框中输入chrome://extensions/
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/3d2ca9661c744c4f5c4a1c9aee4d4c79.png)
+
 
 加载已解压的扩展程序-->选择WebContent文件夹
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/e8a7d71c102c8a521068dfaeafbb2efd.png)
+<img src="/11/2.png" alt="">
 
- 效果图：
+ ### 效果图：
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/c88f91ddc90eb9c29bb148c5da93ef5f.png)
+<img src="/11/3.png" alt="">
 ` + mandatoryFooter
   },
   {
-    id: 4,
+    id: 12,
     slug: 'offline-leaflet-map',
     title: 'Leaflet 离线地图下载与加载教程',
     image: leafMainThumb,
@@ -239,44 +738,27 @@ chrome安装JSONview插件，即可在浏览中查看json文件
     excerpt: '本教程详细介绍了下载离线地图瓦片的两种方式（osm 和 MapTileDownloader），并提供了在 Leaflet 中加载离线地图的代码示例。',
     tags: [{ name: 'Leaflet', type: 'blue' }, { name: '地图', type: 'blue' }],
     collection: '流氓工具箱',
-    relatedIds: [14, 15, 16], 
-    recommendationIds: [5, 6, 7, 8], 
+    relatedIds: [22, 23, 24], 
+    recommendationIds: [13, 14, 15, 16], 
     gallery: [
-      'https://i-blog.csdnimg.cn/blog_migrate/c80ea996965fda6a6c98c2163a825851.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/a87efd5108e5925134acfee3e5488653.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/77bc21362d47271a1344b88f5ac3523f.png',
-      'https://i-blog.csdnimg.cn/blog_migrate/00600e62dd7d7382ed94d443989c8eec.png'
+      
     ],
     markdownContent: `
-**目录**
 
-[效果图：](#效果图：)
-
-[一 下载离线地图的二种方式](#一 下载离线地图的二种方式)
-
-[1.osm 的方式下载瓦片](#1.osm 的方式下载瓦片)
-
-[2、下载MapTileDownloader ](#2、下载MapTileDownloader )
-
-[二 代码（推荐使用osm方式）](#二 代码（推荐使用osm方式）)
-
-------
 
 # 效果图：
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/c80ea996965fda6a6c98c2163a825851.png)
+<img src='/12/1.png'>
 
 # 一 下载离线地图的二种方式
 
 ## 1.osm 的方式下载瓦片
 
-![img](https://i-blog.csdnimg.cn/blog_migrate/a87efd5108e5925134acfee3e5488653.png)
+<img src='/12/2.png'>
 
 ## 2、下载MapTileDownloader 
-
-![img](https://i-blog.csdnimg.cn/blog_migrate/77bc21362d47271a1344b88f5ac3523f.png)
-
- 文件格式选为瓦片![img](https://i-blog.csdnimg.cn/blog_migrate/00600e62dd7d7382ed94d443989c8eec.png)
+ 文件格式选为瓦片!
+ <img src='/12/3.png'>
 
 # 二 代码（推荐使用osm方式）
 
@@ -315,251 +797,24 @@ chrome安装JSONview插件，即可在浏览中查看json文件
 
  官方tool下载地址：http://www.allmapsoft.com/
 
-夸克网盘分享：
-
- osm分享链接：链接：https://pan.quark.cn/s/996f10a338d0?pwd=VUXq
+夸克网盘：
+\`\`\`html
+osm下载：https://pan.quark.cn/s/996f10a338d0?pwd=VUXq
 
 MapTileDownloader下载链接：https://pan.quark.cn/s/369d3d7cd970?pwd=bbvL
-` + mandatoryFooter
-  },
-  {
-    id: 5,
-    slug: 'antigravity-quota',
-    title: 'Antigravity 最新配额实测：Pro 变试用？Ultra 从 1500 降到 250？付费用户成小丑？',
-    image: thumb1,
-    date: '2026-03-27',
-    author: '流氓',
-    views: '1,120',
-    category: '文章',
-    duration: '15:20',
-    excerpt: '本视频深入测试了谷歌 AI IDE Antigravity 的最新配额。我们发现无论是 Pro 还是 Ultra 订阅，其请求额度都被大幅削减。',
-    tags: [{ name: 'AI编程', type: 'blue' }, { name: 'Antigravity', type: 'blue' }, { name: 'AI百科', type: 'green' }],
-    collection: 'AI百科',
-    relatedIds: [6, 7, 9, 12], 
-    recommendationIds: [6, 7, 8, 9], 
-    gallery: [thumb1],
-    markdownContent: `
-# 1. 介绍
-本视频讲述了 Google Antigravity Skills 新手入门教程。
-声明：随 流氓_IT 视频发布，免费使用，禁止任何转售等商业行为。
-
-# 2. 视频中应用到命令
-### 2.1. Skill.md en+zh
-\`\`\`yaml
-name: translator
-description: Translates text between languages. Use when you got translation tasks.
----
-# Translator Skill
-When translating tasks, follow these steps:
-1. When to use this skill
-   - Use for all kinds of translation tasks.
 \`\`\`
 ` + mandatoryFooter
-  },
-  {
-    id: 6,
-    slug: 'llm-open-source',
-    title: 'AI 开源大模型 LLM 的 "闭源" 恐慌：一场虚惊还是行业趋势的开端？',
-    image: thumb2,
-    date: '2026-03-25',
-    author: '流氓',
-    views: '850',
-    category: '文章',
-    duration: '08:45',
-    excerpt: '近期，关于开源大语言模型 (LLM) 可能转向闭源的传闻引发了业内广泛的讨论 and 担忧。',
-    tags: [{ name: 'AI趋势', type: 'blue' }, { name: 'DeepSeek', type: 'blue' }],
-    collection: 'AI百科',
-    relatedIds: [5, 8, 10], 
-    recommendationIds: [5, 7, 8, 9], 
-    gallery: [thumb2],
-    markdownContent: '# AI 趋势深度解析\n\n开源大模型真的要转向闭源吗？\n\n## 行业分析\n目前市场的反馈来看...' + mandatoryFooter
-  },
-  {
-    id: 7,
-    slug: 'cli-proxy',
-    title: 'AI 新手必备：命令行代理设置终极教程 (临时与永久)',
-    image: thumb3,
-    date: '2026-03-23',
-    author: '流氓',
-    views: '2,300',
-    category: '教程',
-    duration: '12:10',
-    excerpt: '在 AI 学习与开发中，网络问题常常是第一道坎。本视频专为新手设计。',
-    tags: [{ name: 'AI学习', type: 'blue' }, { name: 'Mac OS', type: 'blue' }],
-    collection: '流氓工具箱',
-    relatedIds: [5, 6, 11, 12, 8], 
-    recommendationIds: [5, 6, 8, 9], 
-    gallery: [thumb3],
-    markdownContent: '# 命令行代理教程\n\n## 临时代理\n```bash\nexport http_proxy=http://127.0.0.1:7890\n```\n## 永久代理\n修改 .bashrc 或 .zshrc...' + mandatoryFooter
-  },
-  {
-    id: 8,
-    slug: 'gemini-hk',
-    title: '重磅消息：Google Gemini 3.1 Pro 正式登陆香港，AI 新时代开启！',
-    image: thumb4,
-    date: '2026-03-20',
-    author: '流氓',
-    views: '5,600',
-    category: '新闻',
-    duration: '05:30',
-    excerpt: 'Google 终于在香港地区开放其顶尖的 AI 模型 Gemini 3.1 Pro！',
-    tags: [{ name: 'Gemini', type: 'blue' }, { name: 'Gemini 3.1 Pro', type: 'blue' }],
-    collection: 'AI百科',
-    relatedIds: [5, 9, 10, 11], 
-    recommendationIds: [5, 6, 7, 9], 
-    gallery: [thumb4],
-    markdownContent: '# Gemini 3.1 Pro 发布\n\n香港用户现在可以直接访问 Gemini 3.1 Pro 了！' + mandatoryFooter
-  },
-  // Additional items for recommendations
-  {
-    id: 9,
-    slug: 'extra-1',
-    title: 'Claude 4.5 Opus 深度评测：超越 GPT-4o 的逻辑巅峰？',
-    image: thumb1,
-    date: '2026-03-18',
-    author: '流氓',
-    views: '4,200',
-    category: '评测',
-    duration: '18:40',
-    excerpt: 'Claude 4.5 Opus 终于发布，它的逻辑推理能力是否真的如传闻中那样强大？',
-    tags: [{ name: 'Claude', type: 'blue' }, { name: 'Opus', type: 'blue' }],
-    collection: 'AI百科',
-    relatedIds: [5, 6], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb1],
-    markdownContent: '# Claude 4.5 Opus 评测\n\n深度测试其代码编写与逻辑推理能力...' + mandatoryFooter
-  },
-  {
-    id: 10,
-    slug: 'extra-2',
-    title: 'DeepSeek-V3 开源：万亿参数背后的中国 AI 力量',
-    image: thumb2,
-    date: '2026-03-15',
-    author: '流氓',
-    views: '6,100',
-    category: '新闻',
-    duration: '10:20',
-    excerpt: 'DeepSeek 发布了其最新的 V3 模型，性能直逼闭源顶尖水平。',
-    tags: [{ name: 'DeepSeek', type: 'blue' }, { name: '开源', type: 'blue' }],
-    collection: 'AI百科',
-    relatedIds: [6, 8], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb2],
-    markdownContent: '# DeepSeek-V3 发布\n\n中国开源大模型的又一里程碑。' + mandatoryFooter
-  },
-  {
-    id: 11,
-    slug: 'extra-3',
-    title: 'Python + AI：打造你的个人自动化全能助手',
-    image: thumb3,
-    date: '2026-03-12',
-    author: '流氓',
-    views: '3,400',
-    category: '教程',
-    duration: '25:15',
-    excerpt: '使用 Python 结合 LLM API，一步步教你打造属于自己的自动化助手。',
-    tags: [{ name: 'Python', type: 'blue' }, { name: '自动化', type: 'blue' }],
-    collection: '流氓工具箱',
-    relatedIds: [7, 5], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb3],
-    markdownContent: '# Python AI 助手\n\n从零开始构建你的 AI 代理。' + mandatoryFooter
-  },
-  {
-    id: 12,
-    slug: 'extra-4',
-    title: '未来已来：2026 年 AI 行业年度趋势展望',
-    image: thumb4,
-    date: '2026-03-10',
-    author: '流氓',
-    views: '1,900',
-    category: '展望',
-    duration: '14:50',
-    excerpt: '在 AI 飞速发展的今天，未来的五年行业会走向何方？',
-    tags: [{ name: '行业趋势', type: 'blue' }, { name: '未来', type: 'blue' }],
-    collection: '流氓 行业研报',
-    relatedIds: [6, 8], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb4],
-    markdownContent: '# 2026 AI 趋势展望\n\n多模态、Agentic Workflow 将成为主流。' + mandatoryFooter
-  },
-  {
-    id: 13,
-    slug: 'extra-5',
-    title: 'Docker 入门到精通：2026 开发者必备容器技术指南',
-    image: thumb1,
-    date: '2026-03-08',
-    author: '流氓',
-    views: '2,100',
-    category: '教程',
-    duration: '30:00',
-    excerpt: 'Docker 依然是后端开发的基石。本教程涵盖了最新的 Docker Compose 特性。',
-    tags: [{ name: 'Docker', type: 'blue' }, { name: 'Docker百科', type: 'green' }],
-    collection: 'Docker百科',
-    relatedIds: [14, 15, 16], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb1],
-    markdownContent: '# Docker 教程\n\n本教程教你如何构建高效的 Docker 镜像。' + mandatoryFooter
-  },
-  {
-    id: 14,
-    slug: 'extra-6',
-    title: 'iEVE 回忆录：致敬那些陪伴我们成长的经典游戏',
-    image: thumb2,
-    date: '2026-03-05',
-    author: '流氓',
-    views: '9,800',
-    category: '文章',
-    duration: '15:20',
-    excerpt: '在这个 AI 横行的时代，让我们慢下来，回忆一下那些充满情怀的经典瞬间。',
-    tags: [{ name: '游戏', type: 'blue' }, { name: '回忆', type: 'blue' }],
-    collection: 'iEVE回忆',
-    relatedIds: [13, 15], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb2],
-    markdownContent: '# iEVE 回忆\n\n那些年我们一起追过的游戏...' + mandatoryFooter
-  },
-  {
-    id: 15,
-    slug: 'extra-7',
-    title: '远行星号 (Starsector) 0.97a 汉化插件及必备 Mod 推荐',
-    image: thumb3,
-    date: '2026-03-02',
-    author: '流氓',
-    views: '3,500',
-    category: '教程',
-    duration: '10:45',
-    excerpt: '远行星号更新了！这里有最新的汉化插件和必装的实用 Mod。',
-    tags: [{ name: 'Starsector', type: 'blue' }, { name: 'Mod', type: 'blue' }],
-    collection: '远行星号工具',
-    relatedIds: [13, 16], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb3],
-    markdownContent: '# 远行星号工具\n\n下载并安装 these 插件来提升游戏体验。' + mandatoryFooter
-  },
-  {
-    id: 16,
-    slug: 'extra-8',
-    title: '新时代网络：如何配置 2.5G/10G 内网万兆环境',
-    image: thumb4,
-    date: '2026-03-01',
-    author: '流氓',
-    views: '1,200',
-    category: '教程',
-    duration: '45:00',
-    excerpt: '网络速度是第一生产力。手把手教你搭建一套高性价比的万兆内网。',
-    tags: [{ name: '2.5G网络', type: 'blue' }, { name: '网管', type: 'blue' }],
-    collection: '爱快百科',
-    relatedIds: [13, 15], 
-    recommendationIds: [5, 6, 7, 8], 
-    gallery: [thumb4],
-    markdownContent: '# 万兆网络指南\n\n升级你的路由器和交换机。' + mandatoryFooter
   }
-];
+
+
+
+
+
+].reverse();
 
 // 标签
 export const allTags = [
-  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python'
+  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封'
 ];
 // 合集
 export const allCollections = [

@@ -23,6 +23,11 @@ const routes = [
     component: ContentDetail,
     props: true
   },
+  {
+    path: '/privacy-policy',
+    name: 'PrivacyPolicy',
+    component: () => import('../components/PrivacyPolicy.vue')
+  }
 ];
 
 const router = new VueRouter({
