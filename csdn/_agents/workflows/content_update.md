@@ -1,5 +1,5 @@
 ---
-description: 如何根据 x.md 更新项目 Mock 数据
+description: 如何根据 x.md 更新项目 Mock 数据，所有内容使用简体中文回答。
 ---
 
 # 内容更新工作流 (Content Update Workflow)
@@ -14,7 +14,7 @@ description: 如何根据 x.md 更新项目 Mock 数据
 
 ## 2. 数据重索引 (Re-indexing Strategy)
 为了保持最新内容在首位，必须进行物理重排：
-- **新文章 ID**: 始终设置为 `1` 并插入到 `contentItems` 数组的最顶端。
+- **新文章 ID**: 始终设置为 `递增` 并插入到 `contentItems` 数组的最末端。
 - **ID 顺延**: 原有的 ID `1` 变为 `2`，`2` 变为 `3`，依此类推。
 - **引用同步**: 必须批量更新所有文章的 `relatedIds` 和 `recommendationIds`。
   - *计算规则*: `new_ref_id = old_ref_id + 1` (如果该引用指向原有内容)。
