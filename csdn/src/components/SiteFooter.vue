@@ -48,12 +48,16 @@
     </div>
     <div class="footer-bottom">
       <div class="container">
-        <p>&copy; 2026 内容创作展示网站 lib00.com 保留所有权利 | 代理条款 | 隐私政策 | 流氓政策</p>
+        <p>&copy; 2026 内容创作展示网站 toolset.site 保留所有权利 | 代理条款 | <a href="/privacy-policy">隐私政策</a> </p>
       </div>
     </div>
-    <div class="floating-actions">
-      <button class="float-btn to-top">↑</button>
-      <button class="float-btn chat">💬</button>
+    <div class="floating-actions" :class="{ 'show': showScrollTop }">
+      <button class="float-btn to-top" @click="scrollToTop" title="回到顶部">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <path fill="currentColor" d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z" />
+        </svg>
+      </button>
+      <!-- <button class="float-btn chat">💬</button> -->
     </div>
   </footer>
 </template>
@@ -61,6 +65,28 @@
 <script>
 export default {
   name: 'SiteFooter',
+  data() {
+    return {
+      showScrollTop: false
+    };
+  },
+  mounted() {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  beforeDestroy() {
+    window.removeEventListener('scroll', this.handleScroll);
+  },
+  methods: {
+    handleScroll() {
+      this.showScrollTop = window.pageYOffset > 300;
+    },
+    scrollToTop() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }
+  }
 };
 </script>
 
@@ -166,31 +192,100 @@ export default {
 
 .floating-actions {
   position: fixed;
-  right: 20px;
-  bottom: 20px;
+  right: 30px;
+  bottom: 30px;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 15px;
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.floating-actions.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
 }
 
 .float-btn {
-  width: 48px;
-  height: 48px;
-  border-radius: 8px;
-  background: var(--primary-color);
-  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+  background: var(--card-bg);
+  color: var(--text-main);
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
   transition: all 0.3s;
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  backdrop-filter: blur(10px);
 }
 
 .float-btn:hover {
-  transform: scale(1.1);
+  transform: translateY(-5px);
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  box-shadow: 0 8px 25px rgba(26, 115, 232, 0.4);
 }
 
-.float-btn.chat {
-  background: #10b981;
+.float-btn svg {
+  transition: transform 0.3s;
+}
+
+.float-btn:active {
+  transform: scale(0.95);
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 992px) {
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  .site-footer {
+    padding: 40px 0 20px;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+
+  .footer-title {
+    margin-bottom: 16px;
+  }
+
+  .subscribe-form {
+    flex-direction: column;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+    gap: 12px;
+  }
+
+  .subscribe-form input {
+    background: #ffffff;
+    border-radius: 30px;
+  }
+
+  .subscribe-form button {
+    width: 100%;
+    border-radius: 30px;
+  }
+
+  .footer-bottom {
+    padding: 20px 15px;
+    line-height: 1.6;
+  }
 }
 </style>
