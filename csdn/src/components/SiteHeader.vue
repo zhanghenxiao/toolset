@@ -11,12 +11,17 @@
         <span class="logo-text">流氓_IT</span>
       </div>
 
-      <nav class="main-nav">
+      <!-- Hamburger Menu for Mobile -->
+      <button class="mobile-menu-btn" @click="toggleMenu" :class="{ 'active': menuOpen }">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="main-nav" :class="{ 'mobile-open': menuOpen }">
         <ul>
-          <li><router-link to="/" exact-active-class="active">{{ $t('nav.home') }}</router-link></li>
-          <!-- <li><router-link to="/" active-class="active">{{ $t('nav.content') }}</router-link></li> -->
-          <li><router-link to="/tools" active-class="active">{{ $t('nav.tools') }}</router-link></li>
-          <!-- <li><router-link to="/" active-class="active">{{ $t('nav.about') }}</router-link></li> -->
+          <li @click="closeMenu"><router-link to="/" exact-active-class="active">{{ $t('nav.home') }}</router-link></li>
+          <li @click="closeMenu"><router-link to="/tools" active-class="active">{{ $t('nav.tools') }}</router-link></li>
         </ul>
       </nav>
 
@@ -26,9 +31,9 @@
           <div class="action-item lang-selector" @click="toggleLang">
             <svg viewBox="0 0 24 24" width="18" height="18">
               <path fill="currentColor"
-                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95a15.65 15.65 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.92 8zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56A7.987 7.987 0 0 1 5.08 16zm2.95-8H5.08a7.987 7.987 0 0 1 4.33-3.56A15.65 15.65 0 0 0 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.28 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 0 1-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z" />
+                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95a15.65 15.65 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.92 8zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56A7.987 7.987 0 0 1 5.08 16zm2.95-8H5.08a7.987 7.987 0 0 1 4.33-3.56A15.65 15.65 0 0 0 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08-2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.28 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 0 1-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z" />
             </svg>
-            <span>{{ currentLangLabel }}</span>
+            <span class="action-label">{{ currentLangLabel }}</span>
             <svg viewBox="0 0 24 24" width="12" height="12" :class="{ 'rotate': langOpen }">
               <path fill="currentColor" d="M7 10l5 5 5-5z" />
             </svg>
@@ -63,21 +68,21 @@
               <svg viewBox="0 0 24 24" width="14" height="14">
                 <path fill="currentColor" d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5z" />
               </svg>
-              <span>浅色</span>
+              <span>{{ $t('theme.light') || '浅色' }}</span>
             </div>
             <div class="dropdown-item" :class="{ 'active': currentTheme === 'dark' }" @click="setTheme('dark')">
               <svg viewBox="0 0 24 24" width="14" height="14">
                 <path fill="currentColor"
                   d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" />
               </svg>
-              <span>深色</span>
+              <span>{{ $t('theme.dark') || '深色' }}</span>
             </div>
             <div class="dropdown-item" :class="{ 'active': currentTheme === 'auto' }" @click="setTheme('auto')">
               <svg viewBox="0 0 24 24" width="14" height="14">
                 <path fill="currentColor"
                   d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
               </svg>
-              <span>自动</span>
+              <span>{{ $t('theme.auto') || '自动' }}</span>
             </div>
           </div>
         </div>
@@ -113,6 +118,7 @@ export default {
     return {
       langOpen: false,
       themeOpen: false,
+      menuOpen: false,
       currentTheme: 'light',
     };
   },
@@ -137,11 +143,21 @@ export default {
       this.themeOpen = !this.themeOpen;
       this.langOpen = false;
     },
+    toggleMenu() {
+      this.menuOpen = !this.menuOpen;
+      if (this.menuOpen) {
+        this.langOpen = false;
+        this.themeOpen = false;
+      }
+    },
     closeLang() {
       this.langOpen = false;
     },
     closeTheme() {
       this.themeOpen = false;
+    },
+    closeMenu() {
+      this.menuOpen = false;
     },
     setLang(lang) {
       this.$i18n.locale = lang;
@@ -189,6 +205,7 @@ export default {
   display: flex;
   align-items: center;
   gap: 10px;
+  flex-shrink: 0;
 }
 
 .logo-icon {
@@ -211,6 +228,7 @@ export default {
   font-weight: 500;
   color: var(--text-muted);
   transition: color 0.3s;
+  cursor: pointer;
 }
 
 .main-nav li.active,
@@ -296,35 +314,86 @@ export default {
   color: white;
 }
 
-.auth-buttons {
-  display: flex;
-  gap: 12px;
-  margin-left: 10px;
+.mobile-menu-btn {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 24px;
+  height: 18px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 1001;
 }
 
-.btn {
-  padding: 8px 24px;
-  border-radius: 6px;
-  font-weight: 600;
+.mobile-menu-btn span {
+  width: 100%;
+  height: 2px;
+  background-color: var(--text-main);
   transition: all 0.3s;
 }
 
-.btn-outline {
-  border: 1px solid var(--primary-color);
-  color: var(--primary-color);
+.mobile-menu-btn.active span:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
 }
 
-.btn-outline:hover {
-  background: rgba(26, 115, 232, 0.05);
+.mobile-menu-btn.active span:nth-child(2) {
+  opacity: 0;
 }
 
-.btn-primary {
-  background: var(--primary-color);
-  color: white;
+.mobile-menu-btn.active span:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
 }
 
-.btn-primary:hover {
-  background: var(--primary-hover);
-  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.3);
+@media (max-width: 768px) {
+  .mobile-menu-btn {
+    display: flex;
+    order: 3;
+    margin-left: 10px;
+  }
+
+  .logo-section {
+    order: 1;
+  }
+
+  .header-actions {
+    order: 2;
+    margin-left: auto;
+  }
+
+  .action-label {
+    display: none;
+  }
+
+  .main-nav {
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    width: 100%;
+    height: 0;
+    background: var(--header-bg);
+    overflow: hidden;
+    transition: height 0.3s ease;
+    z-index: 99;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .main-nav.mobile-open {
+    height: auto;
+    padding: 20px 0;
+  }
+
+  .main-nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .main-nav li {
+    font-size: 1.1rem;
+    width: 100%;
+    text-align: center;
+  }
 }
 </style>
