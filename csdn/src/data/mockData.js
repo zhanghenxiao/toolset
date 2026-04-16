@@ -9,6 +9,8 @@ import mapbox3dThumb from '../assets/images/mapbox-3d-thumb.png';
 import llmPanicThumb from '../assets/images/llm-panic-thumb.png';
 import antigravityThumb from '../assets/images/antigravity-thumb.png';
 import unbanGuideThumb from '../assets/images/unban-guide-thumb.png';
+import wiresharkThumb from '../assets/images/wireshark-windows-xp-guide-thumb.png';
+import antigravityGuideThumb from '../assets/images/google-antigravity-2026-guide-thumb.png';
 
 const mandatoryFooter = '\n\n---\n专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie';
 
@@ -26,8 +28,8 @@ export const contentItems = [
     excerpt: '近期, 不少开发者反映其用于体验 Google 全新 AI IDE Antigravity(或 Gemini CLI)的账号遭到了封禁. 如果你也遇到了同样的问题, 不必惊慌. 本期视频将为你提供一份详尽的官方解封教程, 帮助你抓住这唯一一次的解封机会.',
     tags: [{"name":"账号解封","type":"blue"},{"name":"Antigravity","type":"blue"},{"name":"AI工具","type":"green"}],
     collection: 'AI百科',
-    relatedIds: [2, 3, 4], 
-    recommendationIds: [2, 3, 5, 6],
+    relatedIds: [13, 2, 3], 
+    recommendationIds: [2, 3, 6, 7],
     gallery: [unbanGuideThumb],
     markdownContent: `
 > 1. 账号解封url
@@ -79,11 +81,11 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
     views: '1,000',
     category: '视频',
     duration: '08:00',
-    excerpt: '2026年2月12日, 科技圈迎来一次震动, 许多开发者登录 Google 的前沿 AI IDE Antigravity 时, 惊讶地发现自己的账号已被封禁. 这次事件波及范围广泛, 从普通用户到付费的Pro乃至Ultra用户都未能幸免...',
+    excerpt: '2026年2月12日, 科技圈迎来一次震动, 许多开发者登录 Google 的前沿 AI IDE Antigravity时, 惊讶地发现自己的账号已被封禁. 这次事件波及范围广泛, 从普通用户到付费的Pro乃至Ultra用户都未能幸免...',
     tags: [{"name":"封号事件","type":"blue"},{"name":"AI工具","type":"blue"},{"name":"Antigravity","type":"green"}],
     collection: 'AI百科',
-    relatedIds: [3, 4, 5], 
-    recommendationIds: [3, 4, 6, 7],
+    relatedIds: [1, 3, 4], 
+    recommendationIds: [3, 4, 7, 8],
     gallery: [antigravityThumb],
     markdownContent: `
 # Google AI IDE Antigravity 2026大规模封号事件深度解析: 原因与应对策略
@@ -130,7 +132,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
 
 1. **珍惜你的账号**: 随着环境趋严, 每一个合规的、功能完备的账号都将变得越来越宝贵.
 2. **评估违规代价**: 在使用任何非官方工具前, 请深刻思考违反用户协议可能带来的后果（账号永久封禁、数据丢失等）, 并判断自己是否能承受.
-3. **坚持合规使用**: 对于绝大多数普通用户和开发者, 最安全的方式是在官方IDE内完成登录和API调用等所有操作, 严格遵守平台的用户协议.
+3. **坚持合规使用**: 对于绝大多数普通用户 and 开发者, 最安全的方式是在官方IDE内完成登录和API调用等所有操作, 严格遵守平台的用户协议.
 
 ### 总结
 
@@ -150,8 +152,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
     excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本视频将带你深入探究这一话题的来龙去脉。',
     tags: [{ name: 'AI趋势', type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
     collection: 'AI百科',
-    relatedIds: [7, 13, 14], 
-    recommendationIds: [7, 12, 13, 14],
+    relatedIds: [1, 7, 14], 
+    recommendationIds: [2, 7, 8, 12],
     gallery: [llmPanicThumb],
     markdownContent: `
 # AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
@@ -205,7 +207,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
 
 AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停滞。我们特别要感谢 **DeepSeek** 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
 ` + mandatoryFooter
-  },{
+  },
+  {
     id: 4,
     slug: 'cli-proxy-settings-ai-beginners',
     title: 'AI新手必备: 命令行代理设置终极教程(临时与永久)',
@@ -218,8 +221,8 @@ AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停�
     excerpt: '在探索AI的世界时，网络限制常是第一道坎。本指南手把手教你如何为命令行设置临时与永久代理，助你高效学习。',
     tags: [{ name: 'AI学习', type: 'blue' }, { name: '命令行', type: 'blue' }, { name: '代理设置', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [5, 6, 7], 
-    recommendationIds: [5, 6, 8, 9],
+    relatedIds: [13, 5, 6], 
+    recommendationIds: [5, 6, 9, 10],
     gallery: [thumb3],
     markdownContent: `
 # AI新手必备: 命令行代理设置终极教程(临时与永久)
@@ -262,10 +265,7 @@ function proxy_off() {
     echo "Proxy has been disabled."
 }
 \`\`\`
-
----
-专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
-`
+` + mandatoryFooter
   },
   {
     id: 5,
@@ -280,8 +280,8 @@ function proxy_off() {
     excerpt: '最新发布的 AI 全局开发准则与项目级工作流，涵盖 HTML 与 VUE 工程师的角色职责与标准化技术栈规范。',
     tags: [{ name: 'AI工具', type: 'blue' }, { name: '工作流', type: 'blue' }, { name: '开发规范', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [6, 7, 9], 
-    recommendationIds: [6, 7, 8, 10],
+    relatedIds: [13, 6, 10], 
+    recommendationIds: [6, 7, 9, 10],
     gallery: [thumb1],
     markdownContent: `
 # AI 工程师全局规则与项目规范 (AI Engineer Global Rules & Project Specs)
@@ -317,10 +317,7 @@ function proxy_off() {
 - **工作环节**: 分析需求 -> 读取资源 -> 生成/修改代码 -> 反馈结果。
 - **技术栈**: Vue 3.5.22, Vue Router, Vue-i18n, Bootstrap 5.3.8。
 - **开发环境**: 运行在 Mac OS 宿主机与 Docker (ee-pnpm-frontend-dev) 容器中。
-
----
-专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
-`
+` + mandatoryFooter
   },
   {
     id: 6,
@@ -335,8 +332,8 @@ function proxy_off() {
     excerpt: '近日, Google 旗下最先进的大语言模型之一 Gemini 3.1 Pro, 现已通过其 Web 应用正式向香港地区用户开放。',
     tags: [{ name: 'Gemini', type: 'blue' }, { name: 'Gemini 3.1 Pro', type: 'blue' }, { name: '香港', type: 'green' }],
     collection: 'AI百科',
-    relatedIds: [7, 8, 12], 
-    recommendationIds: [7, 8, 9, 10],
+    relatedIds: [1, 7, 8], 
+    recommendationIds: [1, 2, 9, 10],
     gallery: [thumb4],
     markdownContent: `
 # 重磅消息：Google Gemini 3.1 Pro 正式登陆香港, AI 新时代开启!
@@ -367,13 +364,10 @@ function proxy_off() {
 - **开发者工具 (Agent, 命令行等)**
 - **集成到更多 Google 产品中**
 
-这次在香港的落地, 不仅仅是增加了一个可用地区, 更是一个强烈的信号：世界顶级的 AI 技术正在加速普及, 区域性的壁垒正在被打破。对于香港乃至周边地区的开发者、研究人员和广大科技爱好者来说, 这意味着能够站在同一起跑线上, 利用最前沿的工具进行创新和学习。
+这次在香港的落地, 不仅仅是增加了一个可用地区, 更是一个强烈的信号：世界顶级的 AI 技术正在加速普及, 区域性的壁垒正在被打破. 对于香港乃至周边地区的开发者、研究人员和广大科技爱好者来说, 这意味着能够站在同一起跑线上, 利用最前沿的工具进行创新和学习。
 
 总而言之, 这是一个值得庆祝的重要时刻, 它预示着 AI 应用将迎来更加广阔和光明的未来。
-
----
-专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
-`
+` + mandatoryFooter
   },
 
   {
@@ -389,8 +383,8 @@ function proxy_off() {
     excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本文将带你深入探究这一话题的来龙去脉。',
     tags: [{ name: 'AI趋势',type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
     collection: 'AI百科',
-    relatedIds: [8, 13, 14], 
-    recommendationIds: [8, 12, 13, 14],
+    relatedIds: [3, 8, 12], 
+    recommendationIds: [3, 12, 14, 15],
     gallery: [thumb2],
     markdownContent: `
 # AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
@@ -415,7 +409,7 @@ function proxy_off() {
 * **完整开源 (Fully Open-Source)**: 不仅给你蛋糕，还附上烤箱设计图和独家烘焙秘方（训练代码、数据集等）。这对于学习和研究意义重大。代表模型是 DeepSeek。
 
 ## 开源与商业: 混合模式是更优解?
-开源与闭源并非完全对立，二者结合往往能形成更成功的商业模式。
+开源与闭源并非完全对立，二者结合往往能形成更成功的商业模式.
 * **“开源引流，闭源盈利”**: 厂商通过开源中小型模型构建社区生态，吸引用户，而将最顶尖、性能最强的“Max”或“Turbo”系列作为闭源的商业化产品。Qwen 和 GLM 都是这一策略的踐行者。
 * **理想模式展望**: 我们提出了一个大胆的设想——当新一代模型发布时，将上一代模型开源。这虽然充满挑战，但或许能平衡商业利益和社区贡献。
 
@@ -431,11 +425,8 @@ function proxy_off() {
 * **本地部署**: 考虑 Qwen 或其他模型的小参数版本。
 
 ## 结语
-AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停滞。我们特别要感谢 DeepSeek 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
-
----
-专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
-`
+AI 发展的历史车轮滚规向前，不会因为某个模型的闭源而停滞。我们特别要感谢 DeepSeek 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
+` + mandatoryFooter
   },
 
   {
@@ -451,8 +442,8 @@ AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停�
     excerpt: '备受期待的 Claude Opus 4.6 模型终于在 Google 的 AI IDE 平台 Antigravity 上线! 本视频将为你详细解析更新内容及1M上下文测试。',
     tags: [{ name: 'Claude', type: 'blue' }, { name: 'Opus 4.6', type: 'blue' }, { name: 'Antigravity', type: 'green' }],
     collection: 'AI百科',
-    relatedIds: [9, 13, 14], 
-    recommendationIds: [9, 13, 14, 15],
+    relatedIds: [1, 9, 10], 
+    recommendationIds: [1, 10, 12, 14],
     gallery: [thumb1],
     markdownContent: `
 # Claude Opus 4.6 登陆 Google AI IDE Antigravity: 你需要知道的一切
@@ -462,7 +453,7 @@ AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停�
 ## 🚀 上线详情与配额机制
 * **分层上线**: 与以往类似, Ultra 套餐用户会比 Pro 套餐用户提前 1-2 天体验到新模型.
 * **模型更替**: 目前 Opus 4.5 和 4.6 并存, 但根据产品迭代逻辑, 预计 Opus 4.5 很快会被 4.6 完全替代.
-* **配额平移**: 根据初步测试, Opus 4.5 和 4.6 似乎共享配额. 也就是说, 升级到 4.6 后, 你的消息使用限额（Quota）不会改变. 但值得注意的是, Pro 用户的配额本身存在不确定性, 从 40 到 150 不等, 具体原因未知.
+* **配额平移**: 根据初步测试, Opus 4.5 and 4.6 似乎共享配额. 也就是说, 升级到 4.6 后, 你的消息使用限额（Quota）不会改变. 但值得注意的是, Pro 用户的配额本身存在不确定性, 从 40 到 150 不等, 具体原因未知.
 
 ## 🤔 核心争议: 是完整的 Opus 4.6 吗?
 本次更新最大的争议点在于, Antigravity 上的 Opus 4.6 似乎是一个**“残血版”**.
@@ -477,10 +468,7 @@ AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停�
 总而言之, Claude Opus 4.6 在 Antigravity 的上线虽然带来了新的模型选择, 但其核心能力——1M 上下文窗口——似乎尚未对所有用户完全开放. 这可能是平台方出于稳定性或成本考虑的灰度策略.
 
 我们呼吁正在使用 Ultra 套餐并具备技术测试能力的用户, 可以分享你在 1M 上下文方面的测试结果, 帮助社区更全面地了解此次更新的真实情况.
-
----
-专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie
-`
+` + mandatoryFooter
   },
 
   {
@@ -496,8 +484,8 @@ AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停�
     excerpt: '学习如何使用 Mapbox GL JS 快速初始化一个包含 3D 建筑挤压（Fill-Extrusion）和数字高程模型（DEM）地形的交互式 3D 地图。',
     tags: [{ name: 'Mapbox', type: 'blue' }, { name: '3D地图', type: 'blue' }, { name: 'WebGIS', type: 'green' }],
     collection: '地图',
-    relatedIds: [10, 12, 14], 
-    recommendationIds: [10, 11, 12, 13],
+    relatedIds: [10, 11, 12], 
+    recommendationIds: [10, 11, 12, 1],
     gallery: [mapbox3dThumb],
     markdownContent: `
 mapbox初始化一个3D地图
@@ -618,14 +606,9 @@ mapbox初始化一个3D地图
     excerpt: '本地开发遇到 Cross-Origin 跨域问题？通过 Chrome 和 Firefox 插件轻松开启 Access-Control-Allow-Origin，加速前后端调试。',
     tags: [{ name: 'Chrome', type: 'blue' }, { name: '插件', type: 'blue' }, { name: '跨域', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [11, 12, 14, 15], 
-    recommendationIds: [11, 12, 13, 14],
-    gallery: [
-        // '/10/1.png',
-        // '/10/2.png',
-        // '/10/3.png',
-        // '/10/4.png'
-    ],
+    relatedIds: [11, 12, 1], 
+    recommendationIds: [11, 12, 1, 2],
+    gallery: [],
     markdownContent: `
 ## 1.Chrome跨域插件配置
 使用chrome插件“Allow CORS: Access-Control-Allow-origin ”来解决跨域问题。
@@ -687,8 +670,8 @@ https://pan.quark.cn/s/811ec5bc5242?pwd=UJJW 提取码：UJJW
     excerpt: 'Chrome 安装 JSONview 插件后，可以在浏览器中直接查看格式化后的 JSON 内容，是开发者必备的工具。',
     tags: [{ name: 'Chrome', type: 'blue' }, { name: '插件', type: 'blue' }, { name: 'JSON', type: 'green' }],
     collection: '流氓工具箱',
-    relatedIds: [12, 13, 15], 
-    recommendationIds: [12, 13, 14, 15],
+    relatedIds: [10, 12, 1], 
+    recommendationIds: [10, 12, 1, 2],
     gallery: [
         '/11/1.png',
         '/11/2.png',
@@ -738,11 +721,9 @@ https://pan.quark.cn/s/51502e7068de?pwd=fDLE
     excerpt: '本教程详细介绍了下载离线地图瓦片的两种方式（osm 和 MapTileDownloader），并提供了在 Leaflet 中加载离线地图的代码示例。',
     tags: [{ name: 'Leaflet', type: 'blue' }, { name: '地图', type: 'blue' }],
     collection: '流氓工具箱',
-    relatedIds: [22, 23, 24], 
-    recommendationIds: [13, 14, 15, 16], 
-    gallery: [
-      
-    ],
+    relatedIds: [13, 1, 2], 
+    recommendationIds: [1, 2, 3, 11], 
+    gallery: [],
     markdownContent: `
 
 
@@ -804,17 +785,202 @@ osm下载：https://pan.quark.cn/s/996f10a338d0?pwd=VUXq
 MapTileDownloader下载链接：https://pan.quark.cn/s/369d3d7cd970?pwd=bbvL
 \`\`\`
 ` + mandatoryFooter
+  },
+  {
+    id: 13,
+    slug: 'wireshark-windows-xp-guide',
+    title: 'Wireshark在Windows XP系统上的安装与使用指南',
+    image: wiresharkThumb,
+    date: '2026-04-15',
+    author: '流氓',
+    views: '1,200',
+    category: '教程',
+    duration: '10:00',
+    excerpt: 'Wireshark在Windows XP系统上运行需要特定的旧版本。本教程为你整理了最稳定的版本下载、WinPcap驱动安装及抓包注意事项。',
+    tags: [{ name: 'Wireshark', type: 'blue' }, { name: 'Windows XP', type: 'blue' }, { name: '抓包', type: 'green' }],
+    collection: '流氓工具箱',
+    relatedIds: [1, 2, 4], 
+    recommendationIds: [1, 2, 6, 7],
+    gallery: [wiresharkThumb],
+    markdownContent: `
+# Wireshark在Windows XP系统上的安装与使用指南
+
+## 📌 概述
+
+Wireshark是一款广泛使用的网络协议分析工具，但在Windows XP系统上运行需要特定的旧版本。由于系统内核和驱动架构的限制，现代的Wireshark版本无法在XP上安装或运行。
+
+## 🏆 兼容版本推荐
+
+### 主要推荐版本
+
+| 版本号 | 推荐理由 | 适用场景 | 稳定性评级 |
+| ------ |------ |------ |------ |
+| **Wireshark 1.10.14** | 最推荐的最终版，功能相对完善，对XP的兼容性最好 | 日常抓包、协议分析 | ⭐⭐⭐⭐⭐ |
+| **Wireshark 1.12.13** | 便携版首选，解压即用，适合维护老机器 | 临时调试、免安装使用 | ⭐⭐⭐⭐ |
+| **Wireshark 2.0.14** | 理论上的极限版本，但对系统环境要求较高 | 高级用户、特定需求 | ⭐⭐ |
+
+
+## 📥 安装步骤指南
+
+### 标准安装流程
+
+**准备工作**
+    - 确保使用Administrator账户登录
+    - 关闭防火墙和杀毒软件（避免安装冲突）
+
+**验证安装**
+    - 启动Wireshark
+    - 检查接口列表是否显示网卡
+    - 尝试进行简单的抓包测试
+
+## 🌐 下载资源
+夸克网盘:
+
+\`\`\`html
+https://pan.quark.cn/s/03159145f730
+\`\`\`
+
+## ⚡ 使用注意事项
+
+### 功能限制
+
+- **HTTPS解密限制**：由于XP时代的加密协议较老，可能只能看到加密的乱码流量
+- **现代协议支持**：对TLS 1.2/1.3等现代协议支持有限
+- **性能问题**：在较老的XP机器上可能运行较慢
+
+### 安全风险
+
+- **系统风险**：Windows XP已停止支持多年
+- **建议环境**：仅在虚拟机或断网隔离环境中运行
+- **网络攻击**：直接连接互联网存在安全风险
+
+## 🛠️ 故障排除
+
+### 常见问题及解决
+
+**问题1：无法找到网卡**
+
+- 重启系统后重试
+- 确认以管理员身份运行
+
+**问题2：权限错误**
+
+- 确保使用Administrator账户
+- 右键以管理员身份运行
+- 检查系统权限设置
+
+**问题3：安装失败**
+
+- 关闭所有安全软件
+- 确保系统满足最低要求
+- 尝试不同的兼容模式
+
+## 📝 总结建议
+
+### 最佳实践
+
+1. **首选方案**：使用Wireshark 1.10.14
+2. **安全考虑**：在虚拟机环境中运行，避免直接连接互联网
+3. **备份准备**：安装前备份重要数据，防止意外情况
+
+### 适用场景
+
+- 老旧系统维护
+- 特定工业控制环境
+- 历史系统调试
+- 学习和研究用途
+` + mandatoryFooter
+  },
+  {
+    id: 14,
+    slug: 'google-antigravity-2026-guide',
+    title: 'Google Antigravity：2026 年 AI 编程终极指南',
+    image: antigravityGuideThumb,
+    date: '2026-04-16',
+    author: '流氓',
+    views: '1,200',
+    category: '教程',
+    duration: '12:00',
+    excerpt: 'Google 于 2025 年底发布的 Agent-First IDE，原生支持 Gemini 3 Pro 和 Claude Sonnet 4.5，开启 Vibe Coding 全栈自动化新纪元。',
+    tags: [{ name: 'Antigravity', type: 'blue' }, { name: 'AI工具', type: 'blue' }, { name: '开发指南', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [1, 2, 9, 13], 
+    recommendationIds: [2, 3, 9, 13],
+    gallery: [antigravityGuideThumb],
+    markdownContent: `
+### 🚀 Google Antigravity：2026 年 AI 编程终极指南
+
+**Google Antigravity** 是 Google 于 2025 年底发布的 **Agent-First IDE**（智能体优先集成开发环境）。它不仅仅是一个代码编辑器，更是一个能够自主规划、执行和验证任务的智能开发平台。
+
+#### 🌟 核心亮点
+
+- **智能体驱动**：AI 不再是辅助，而是主导。它能自主操作终端、浏览器和文件系统。
+- **多模型支持**：原生支持 **Gemini 3 Pro/Flash** 和 **Claude Sonnet 4.5/Opus**，可根据任务灵活切换。
+- **三表面协同**：AI 同时在 **编辑器**、**终端** 和 **浏览器** 中工作，实现全栈自动化。
+- **Vibe Coding**：支持从设计稿（如 Google Stitch）直接生成可运行的原生 App 代码。
+
+#### 🛠️ 安装与配置（避坑必看）
+
+**1. 下载与安装**
+
+- **官网**：访问 Google Antigravity 官网下载对应系统（Windows/macOS/Linux）的安装包，但是需要科学上网。
+
+夸克网盘：
+
+\`\`\`html
+https://pan.quark.cn/s/57d47f19b40e?pwd=mcx1
+\`\`\`
+
+- **迁移配置**：首次启动时，建议选择导入 VS Code 或 Cursor 的配置（主题、快捷键、插件），实现无缝切换。
+
+**2. 网络与账号（关键！）**
+
+**注意**：国内用户直接使用通常会遇到登录问题，请务必检查以下两点：
+
+- **开启 TUN 模式**：必须开启代理软件的 **TUN 模式**（虚拟网卡模式），否则软件无法连接服务器。
+- **账号地区**：建议使用地区设置为 **美国** 的 Google 账号，避免提示“不在服务区域”。
+
+#### 💻 核心工作流
+
+Antigravity 的工作流主要分为两种模式，适应不同复杂度的任务：
+
+| 模式 | 适用场景 | 操作建议 |
+| ------ |------ |------ |
+| **Planning (规划模式)** | 复杂任务、从零开发、重构架构 | AI 会先生成实施计划，经你批准后再执行，确保方向正确。 |
+| **Fast (快速模式)** | 简单修改、解释代码、单文件操作 | 即问即答，速度快，适合日常编码辅助。 |
+
+#### 💡 高效实战技巧
+
+**1. 混合模型策略**
+
+- **前端/视觉**：指定使用 **Gemini 3 Pro**。它能自动截图并调整 CSS，实现“所见即所得”。
+- **后端/逻辑**：切换为 **Claude Sonnet 4.5**。逻辑推理更强，适合处理复杂算法和 Bug。
+
+**2. 多智能体并行**
+在 **Manager（管理中心）** 视图中，你可以同时开启多个智能体：
+
+- **场景**：指派 Agent A 写前端页面，同时指派 Agent B 写数据库接口。
+- **管理**：像项目经理一样监控进度，最后在“Inbox”统一审核合并代码。
+
+**3. 配合 Google Stitch 生成 App**
+这是 2026 年最火的“Vibe Coding”玩法：
+
+1. 在 **Google Stitch** 用文字生成 UI 设计稿。
+2. 导出素材到文件夹。
+3. 在 Antigravity 中打开文件夹，输入指令：“基于 design 目录，使用 Flutter 生成完整代码”。
+4. AI 会自动解析设计图并写出可运行的原生 App 代码。
+
+#### ⚠️ 注意事项
+
+- **额度限制**：免费版对 Gemini 3 Pro 和 Claude 的调用有每周额度限制，用完需等待刷新或切换模型。
+- **保持更新**：作为快速迭代的软件，建议保持最新版本以修复 Bug 并获得新功能。
+` + mandatoryFooter
   }
-
-
-
-
-
 ].reverse();
 
 // 标签
 export const allTags = [
-  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封'
+  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封', 'Wireshark', 'Windows XP', '抓包', '开发指南'
 ];
 // 合集
 export const allCollections = [
