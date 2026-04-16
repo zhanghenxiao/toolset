@@ -22,7 +22,7 @@
       <div class="footer-col">
         <h4 class="footer-title">{{ $t('footer.ecoTitle') }}</h4>
         <ul>
-          <li><a href="/tools" target="_blank" rel="noopener noreferrer">{{ $t('footer.tools') }}</a></li>
+          <li><a href="#/tools" target="_blank" rel="noopener noreferrer">{{ $t('footer.tools') }}</a></li>
           <li><a href="/" target="_blank" rel="noopener noreferrer">{{ $t('footer.blog') }}</a></li>
           <li><a href="/" target="_blank" rel="noopener noreferrer">{{ $t('footer.wiki') }}</a></li>
           <li><a href="https://blog.csdn.net/qq_37550440?type=blog" target="_blank" rel="noopener noreferrer">{{
