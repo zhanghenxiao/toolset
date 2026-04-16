@@ -47,6 +47,6 @@ export default {
     tools: 'Online Tools',
     blog: '流氓IT Blog',
     wiki: 'Wiki',
-    tracker: 'Task Tracker'
+    tracker: 'CSDN Blog'
   }
 };
