@@ -9,6 +9,8 @@ export default defineConfig({
     },
   },
   build: {
+    outDir: '../',
+    emptyOutDir: false,
     chunkSizeWarningLimit: 800,
     rollupOptions: {
       output: {
