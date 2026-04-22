@@ -1,54 +1,113 @@
 <template>
     <div class="tool-station-page">
         <div class="container">
+            <!-- Page Hero Header -->
+            <div class="page-hero">
+                <div class="hero-icon">
+                    <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor"
+                        stroke-width="1.8">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M14.25 9.75 16.5 12l-2.25 2.25m-4.5 0L7.5 12l2.25-2.25M6 20.25h12A2.25 2.25 0 0 0 20.25 18V6A2.25 2.25 0 0 0 18 3.75H6A2.25 2.25 0 0 0 3.75 6v12A2.25 2.25 0 0 0 6 20.25Z" />
+                    </svg>
+                </div>
+                <div>
+                    <h1 class="hero-title">{{ isZh ? '工具站' : 'Tool Station' }}</h1>
+                    <p class="hero-sub">{{ isZh ? '开发者效率工具集合' : 'Developer Productivity Toolkit' }}</p>
+                </div>
+            </div>
+
             <!-- Timestamp Converter Section -->
-            <section class="tool-section timestamp-converter">
+            <section class="tool-section">
                 <div class="section-header">
-                    <h2>{{ isZh ? '时间戳转换工具' : 'Timestamp Converter' }}</h2>
+                    <div class="section-title-group">
+                        <div class="section-icon">
+                            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <circle cx="12" cy="12" r="9" />
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M12 7v5l3 3" />
+                            </svg>
+                        </div>
+                        <h2>{{ isZh ? '时间戳转换工具' : 'Timestamp Converter' }}</h2>
+                    </div>
                     <p class="section-desc">{{ description }}</p>
                 </div>
 
-                <div class="converter-card">
-                    <div class="current-box">
-                        <div class="input-field">
-                            <label>{{ isZh ? '当前时间戳 (秒)' : 'Current Timestamp (s)' }}</label>
-                            <div class="input-with-action">
-                                <input type="text" v-model="currentTs" readonly />
-                                <button class="btn-icon" @click="toggleTimer">
-                                    <svg v-if="timer" viewBox="0 0 24 24" width="20" height="20">
-                                        <path fill="currentColor" d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
-                                    </svg>
-                                    <svg v-else viewBox="0 0 24 24" width="20" height="20">
-                                        <path fill="currentColor" d="M8 5v14l11-7z" />
-                                    </svg>
-                                </button>
-                                <button class="btn-text" @click="copy(currentTs)">{{ isZh ? '复制' : 'Copy' }}</button>
-                            </div>
+                <div class="converter-body">
+                    <!-- Live Timestamp -->
+                    <div class="live-ts-bar">
+                        <div class="live-badge">
+                            <span class="live-dot"></span>
+                            {{ isZh ? 'LIVE' : 'LIVE' }}
+                        </div>
+                        <div class="live-ts-value">{{ currentTs }}</div>
+                        <div class="live-actions">
+                            <button class="btn-icon" @click="toggleTimer"
+                                :title="timer ? (isZh ? '暂停' : 'Pause') : (isZh ? '继续' : 'Resume')">
+                                <svg v-if="timer" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                                </svg>
+                                <svg v-else viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                                    <path d="M8 5v14l11-7z" />
+                                </svg>
+                            </button>
+                            <button class="btn-copy" @click="copy(currentTs)">
+                                <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                                </svg>
+                                {{ isZh ? '复制' : 'Copy' }}
+                            </button>
                         </div>
                     </div>
 
+                    <!-- Converter Grid -->
                     <div class="converter-grid">
-                        <div class="input-field">
-                            <label>Unix 时间戳 (s/ms)</label>
-                            <div class="input-with-action">
-                                <input type="text" v-model="inputTs" placeholder="1712110000" />
-                                <button class="btn-primary" @click="toTime">{{ isZh ? '转换为日期' : 'To Date' }}</button>
+                        <div class="input-group">
+                            <label class="input-label">
+                                <span class="label-tag">Unix</span>
+                                {{ isZh ? '时间戳 (s 或 ms)' : 'Timestamp (s or ms)' }}
+                            </label>
+                            <div class="input-row">
+                                <input class="code-input" type="text" v-model="inputTs" placeholder="1712110000" />
+                                <button class="btn-primary" @click="toTime">
+                                    {{ isZh ? '→ 日期' : '→ Date' }}
+                                </button>
                             </div>
                         </div>
-                        <div class="input-field">
-                            <label>{{ isZh ? '日期时间' : 'Datetime' }}</label>
-                            <div class="input-with-action">
-                                <input type="text" v-model="inputDate" placeholder="2024-04-03 10:00:00" />
-                                <button class="btn-primary" @click="toTs">{{ isZh ? '转换为时间戳' : 'To Timestamp'
-                                }}</button>
+                        <div class="input-group">
+                            <label class="input-label">
+                                <span class="label-tag">ISO</span>
+                                {{ isZh ? '日期时间' : 'Datetime' }}
+                            </label>
+                            <div class="input-row">
+                                <input class="code-input" type="text" v-model="inputDate"
+                                    placeholder="2024-04-03 10:00:00" />
+                                <button class="btn-primary" @click="toTs">
+                                    {{ isZh ? '→ 戳' : '→ Ts' }}
+                                </button>
                             </div>
                         </div>
                     </div>
 
-                    <div v-if="convertResult" class="result-box">
-                        <span class="label">{{ isZh ? '转换结果：' : 'Result:' }}</span>
-                        <span class="value">{{ convertResult }}</span>
-                    </div>
+                    <!-- Result -->
+                    <transition name="slide-fade">
+                        <div v-if="convertResult" class="result-box">
+                            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                            </svg>
+                            <span class="result-label">{{ isZh ? '结果' : 'Result' }}</span>
+                            <span class="result-value">{{ convertResult }}</span>
+                            <button class="btn-copy-sm" @click="copy(convertResult)">
+                                <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                                </svg>
+                            </button>
+                        </div>
+                    </transition>
                 </div>
             </section>
 
@@ -56,50 +115,6 @@
             <section class="tool-section video-cutter-section">
                 <VideoCutter />
             </section>
-
-            <!-- AI Tools Navigation Section -->
-            <!-- <section class="tool-section ai-nav-section">
-                <div class="ai-layout">
-                    <aside class="ai-sidebar">
-                        <div class="sidebar-title">
-                            <svg viewBox="0 0 24 24" width="20" height="20">
-                                <path fill="currentColor"
-                                    d="M4 10h12v2H4zm0-4h12v2H4zm0 8h8v2H4zm15-4.59L17.41 7 16 8.41l1.59 1.59L16 11.59 17.41 13 19 11.41l1.59 1.59L22 11.59l-1.59-1.59L22 8.41 20.59 7z" />
-                            </svg>
-                            <span>AI {{ isZh ? '导航' : 'Nav' }}</span>
-                        </div>
-                        <nav class="sidebar-list">
-                            <button v-for="group in aiToolsGroups" :key="group.category" class="sidebar-item"
-                                :class="{ active: activeCategory === group.category }"
-                                @click="activeCategory = group.category">
-                                <span class="icon">{{ group.icon }}</span>
-                                <span class="text">{{ group.category }}</span>
-                            </button>
-                        </nav>
-                    </aside>
-
-                    <main class="ai-main">
-                        <div v-if="currentGroup" class="category-block">
-                            <div class="cat-header">
-                                <h3>{{ currentGroup.icon }} {{ currentGroup.category }}</h3>
-                                <span class="count">{{ currentGroup.tools.length }}</span>
-                            </div>
-                            <div class="tools-grid">
-                                <a v-for="tool in currentGroup.tools" :key="tool.name" :href="tool.url" target="_blank"
-                                    class="tool-card">
-                                    <div class="tool-icon">
-                                        <img :src="tool.icon" :alt="tool.name" @error="handleImgError" />
-                                    </div>
-                                    <div class="tool-info">
-                                        <h4>{{ tool.name }}</h4>
-                                        <p>{{ tool.desc }}</p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </main>
-                </div>
-            </section> -->
         </div>
     </div>
 </template>
@@ -160,8 +175,12 @@ export default {
             else this.startTimer();
         },
         copy(text) {
-            navigator.clipboard.writeText(text).then(() => {
-                alert(this.isZh ? '已复制到剪贴板' : 'Copied to clipboard');
+            navigator.clipboard.writeText(String(text)).then(() => {
+                const el = document.createElement('div');
+                el.className = 'toast-msg';
+                el.textContent = this.isZh ? '✓ 已复制' : '✓ Copied';
+                document.body.appendChild(el);
+                setTimeout(() => el.remove(), 2000);
             });
         },
         toTime() {
@@ -188,6 +207,7 @@ export default {
 </script>
 
 <style scoped>
+/* ========== Page Layout ========== */
 .tool-station-page {
     padding-top: 40px;
     padding-bottom: 80px;
@@ -195,269 +215,448 @@ export default {
     min-height: calc(100vh - var(--header-height));
 }
 
-.tool-section {
-    background: var(--card-bg);
-    border-radius: 16px;
-    padding: 32px;
-    margin-bottom: 40px;
-    box-shadow: var(--shadow);
-    border: 1px solid var(--border-color);
+/* ========== Page Hero ========== */
+.page-hero {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 36px;
+    padding: 0 4px;
 }
 
+.hero-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #312E81 0%, #1E1B4B 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #818CF8;
+    flex-shrink: 0;
+    box-shadow: 0 4px 16px rgba(99, 102, 241, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.hero-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 0 0 4px;
+    color: var(--text-main);
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+}
+
+.hero-sub {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    margin: 0;
+    font-weight: 400;
+}
+
+/* ========== Section Card ========== */
+.tool-section {
+    background: var(--card-bg);
+    border-radius: 18px;
+    padding: 32px;
+    margin-bottom: 32px;
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow);
+    position: relative;
+    overflow: hidden;
+}
+
+.tool-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #6366F1 0%, #4F46E5 50%, transparent 100%);
+    border-radius: 18px 18px 0 0;
+}
+
+/* ========== Section Header ========== */
 .section-header {
-    margin-bottom: 30px;
+    margin-bottom: 28px;
+}
+
+.section-title-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.section-icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 9px;
+    background: rgba(99, 102, 241, 0.12);
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #818CF8;
+    flex-shrink: 0;
 }
 
 .section-header h2 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin: 0;
     color: var(--text-main);
+    letter-spacing: -0.01em;
 }
 
 .section-desc {
     color: var(--text-muted);
-    font-size: 0.95rem;
+    font-size: 0.875rem;
+    margin: 0;
+    padding-left: 44px;
 }
 
-/* Converter Styles */
-.converter-card {
-    background: rgba(0, 0, 0, 0.02);
-    padding: 24px;
-    border-radius: 12px;
-}
-
-.input-field {
+/* ========== Converter Body ========== */
+.converter-body {
     display: flex;
     flex-direction: column;
-    gap: 8px;
-    margin-bottom: 20px;
+    gap: 20px;
 }
 
-.input-field label {
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--text-muted);
-}
-
-.input-with-action {
+/* Live Timestamp Bar */
+.live-ts-bar {
     display: flex;
-    gap: 10px;
+    align-items: center;
+    gap: 14px;
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.6) 0%, rgba(30, 41, 59, 0.4) 100%);
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    border-radius: 12px;
+    padding: 14px 18px;
+    font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
 }
 
-.input-with-action input {
+.live-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(99, 102, 241, 0.12);
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    border-radius: 6px;
+    padding: 3px 8px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #818CF8;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    font-family: inherit;
+}
+
+.live-dot {
+    width: 7px;
+    height: 7px;
+    background: #818CF8;
+    border-radius: 50%;
+    animation: pulse-dot 1.4s ease-in-out infinite;
+    flex-shrink: 0;
+}
+
+@keyframes pulse-dot {
+
+    0%,
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.4;
+        transform: scale(0.8);
+    }
+}
+
+.live-ts-value {
     flex: 1;
-    padding: 12px 16px;
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-    background: var(--bg-color);
-    color: var(--text-main);
-    font-family: monospace;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #F8FAFC;
+    letter-spacing: 0.04em;
 }
 
+.live-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+/* ========== Input Group ========== */
 .converter-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 24px;
+    gap: 20px;
 }
 
-.result-box {
-    margin-top: 10px;
-    padding: 16px;
-    background: rgba(26, 115, 232, 0.05);
-    border-radius: 8px;
+.input-group {
     display: flex;
-    gap: 10px;
+    flex-direction: column;
+    gap: 8px;
 }
 
-.result-box .label {
+.input-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    font-weight: 600;
     color: var(--text-muted);
 }
 
-.result-box .value {
-    color: var(--primary-color);
+.label-tag {
+    font-size: 10px;
     font-weight: 700;
+    background: rgba(99, 102, 241, 0.12);
+    color: #818CF8;
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    border-radius: 4px;
+    padding: 1px 6px;
+    letter-spacing: 0.05em;
+    font-family: monospace;
 }
 
-/* AI Nav Styles */
-.ai-layout {
-    display: grid;
-    grid-template-columns: 240px 1fr;
-    gap: 32px;
-}
-
-.ai-sidebar {
-    border-right: 1px solid var(--border-color);
-    padding-right: 20px;
-}
-
-.sidebar-title {
+.input-row {
     display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 0 12px 20px;
-    font-weight: 700;
+    gap: 8px;
+}
+
+.code-input {
+    flex: 1;
+    padding: 11px 14px;
+    border-radius: 9px;
+    border: 1px solid var(--border-color);
+    background: var(--bg-color);
     color: var(--text-main);
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.9rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    min-width: 0;
 }
 
-.sidebar-item {
-    width: 100%;
+.code-input::placeholder {
+    color: var(--text-muted);
+    opacity: 0.5;
+}
+
+.code-input:focus {
+    outline: none;
+    border-color: #6366F1;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+/* ========== Buttons ========== */
+.btn-primary {
+    padding: 11px 18px;
+    border-radius: 9px;
+    background: #6366F1;
+    color: #FFFFFF;
+    border: none;
+    font-weight: 700;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s, box-shadow 0.2s;
+    white-space: nowrap;
+    letter-spacing: 0.01em;
+}
+
+.btn-primary:hover {
+    background: #4F46E5;
+    box-shadow: 0 4px 14px rgba(99, 102, 241, 0.35);
+}
+
+.btn-primary:active {
+    transform: scale(0.97);
+}
+
+.btn-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 12px;
-    border-radius: 8px;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #94A3B8;
     cursor: pointer;
     transition: all 0.2s;
-    background: transparent;
-    border: none;
-    color: var(--text-main);
+    flex-shrink: 0;
 }
 
-.sidebar-item:hover {
-    background: var(--dropdown-hover);
+.btn-icon:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #F8FAFC;
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
-.sidebar-item.active {
-    background: var(--primary-color);
-    color: white;
-}
-
-.cat-header {
+.btn-copy {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 24px;
+    gap: 6px;
+    padding: 8px 14px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #94A3B8;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
 }
 
-.cat-header h3 {
-    font-size: 1.2rem;
-    margin: 0;
+.btn-copy:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #F8FAFC;
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
-.cat-header .count {
-    background: var(--dropdown-hover);
-    padding: 2px 8px;
+.btn-copy-sm {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(99, 102, 241, 0.1);
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    color: #818CF8;
+    cursor: pointer;
+    transition: all 0.2s;
+    flex-shrink: 0;
+}
+
+.btn-copy-sm:hover {
+    background: rgba(99, 102, 241, 0.2);
+}
+
+/* ========== Result Box ========== */
+.result-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 18px;
+    background: rgba(99, 102, 241, 0.07);
+    border: 1px solid rgba(99, 102, 241, 0.2);
     border-radius: 10px;
-    font-size: 12px;
-    color: var(--text-muted);
+    color: #818CF8;
 }
 
-.tools-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 16px;
+.result-label {
+    color: #64748B;
+    font-size: 13px;
+    font-weight: 500;
+    white-space: nowrap;
 }
 
-.tool-card {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 16px;
-    border-radius: 12px;
-    background: var(--bg-color);
-    border: 1px solid var(--border-color);
-    text-decoration: none;
-    transition: all 0.3s;
+.result-value {
+    flex: 1;
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #A5B4FC;
+    word-break: break-all;
 }
 
-.tool-card:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-hover);
-    border-color: var(--primary-color);
+/* Slide Fade Transition */
+.slide-fade-enter-active {
+    transition: all 0.25s ease;
 }
 
-.tool-icon {
-    width: 40px;
-    height: 40px;
-    border-radius: 8px;
-    overflow: hidden;
-    background: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.slide-fade-enter-from {
+    opacity: 0;
+    transform: translateY(-8px);
 }
 
-.tool-icon img {
-    width: 24px;
-    height: 24px;
-}
-
-.tool-info h4 {
-    margin: 0 0 4px;
+/* ========== Toast ========== */
+:global(.toast-msg) {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    background: #6366F1;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
     font-size: 14px;
-    color: var(--text-main);
+    z-index: 9999;
+    box-shadow: 0 8px 32px rgba(99, 102, 241, 0.4);
+    animation: toast-in 0.25s ease;
 }
 
-.tool-info p {
-    margin: 0;
-    font-size: 12px;
-    color: var(--text-muted);
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+@keyframes toast-in {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
-/* Buttons */
-.btn-icon {
-    width: 44px;
-    height: 44px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--bg-color);
-    border: 1px solid var(--border-color);
-    color: var(--text-main);
-    cursor: pointer;
+/* Video Cutter Section */
+.video-cutter-section::before {
+    background: linear-gradient(90deg, #3B82F6 0%, #2563EB 50%, transparent 100%);
 }
 
-.btn-text {
-    padding: 0 20px;
-    border-radius: 8px;
-    background: var(--bg-color);
-    border: 1px solid var(--border-color);
-    color: var(--text-main);
-    font-weight: 600;
-    cursor: pointer;
-}
-
-.btn-primary {
-    padding: 0 20px;
-    border-radius: 8px;
-    background: var(--primary-color);
-    color: white;
-    border: none;
-    font-weight: 600;
-    cursor: pointer;
-}
-
+/* ========== Responsive ========== */
 @media (max-width: 768px) {
     .converter-grid {
         grid-template-columns: 1fr;
     }
 
-    .ai-layout {
-        grid-template-columns: 1fr;
-    }
-
-    .ai-sidebar {
-        border: none;
-        padding: 0;
-    }
-
-    .sidebar-list {
-        display: flex;
-        overflow-x: auto;
-        padding-bottom: 10px;
+    .live-ts-bar {
+        flex-wrap: wrap;
         gap: 10px;
     }
 
-    .sidebar-item {
-        white-space: nowrap;
-        width: auto;
+    .live-ts-value {
+        font-size: 1.1rem;
+        width: 100%;
+        order: 2;
+    }
+
+    .live-badge {
+        order: 1;
+    }
+
+    .live-actions {
+        order: 3;
+        width: 100%;
+        justify-content: flex-end;
+    }
+
+    .tool-section {
+        padding: 22px;
+    }
+
+    .page-hero {
+        margin-bottom: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .input-row {
+        flex-direction: column;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 12px;
+    }
+
+    .section-desc {
+        padding-left: 0;
     }
 }
 </style>

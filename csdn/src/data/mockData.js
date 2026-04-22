@@ -11,6 +11,11 @@ import antigravityThumb from '../assets/images/antigravity-thumb.png';
 import unbanGuideThumb from '../assets/images/unban-guide-thumb.png';
 import wiresharkThumb from '../assets/images/wireshark-windows-xp-guide-thumb.png';
 import antigravityGuideThumb from '../assets/images/google-antigravity-2026-guide-thumb.png';
+import webWorkerThumb from '../assets/images/web-worker-service-worker-thumb.png';
+import karpathyRulesThumb from '../assets/images/karpathy-ai-coding-rules-thumb.png';
+import knowledgeVsWorkflowsThumb from '../assets/images/knowledge-vs-workflows-thumb.png';
+import aiKnowledgeAdvancedThumb from '../assets/images/ai-knowledge-advanced-thumb.png';
+import globalSkillConfigurationThumb from '../assets/images/global-skill-configuration-thumb.png';
 
 const mandatoryFooter = '\n\n---\n专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：流氓也是种气质Cookie';
 
@@ -975,12 +980,940 @@ Antigravity 的工作流主要分为两种模式，适应不同复杂度的任�
 - **额度限制**：免费版对 Gemini 3 Pro 和 Claude 的调用有每周额度限制，用完需等待刷新或切换模型。
 - **保持更新**：作为快速迭代的软件，建议保持最新版本以修复 Bug 并获得新功能。
 ` + mandatoryFooter
+  },
+  {
+    id: 15,
+    slug: 'web-worker-vs-service-worker',
+    title: 'Web Worker vs Service Worker：多线程与离线缓存深度对比（含PWA实战）',
+    image: webWorkerThumb,
+    date: '2026-04-21',
+    author: '流氓',
+    views: '1,000',
+    category: '教程',
+    duration: '12:00',
+    excerpt: '深入对比 Web Worker 与 Service Worker 的核心区别：前者专注 CPU 密集型后台计算，后者充当网络代理实现离线缓存与 PWA。本文含完整代码示例与 PWA 实战项目结构。',
+    tags: [{ name: 'Web Worker', type: 'blue' }, { name: 'Service Worker', type: 'blue' }, { name: 'PWA', type: 'green' }],
+    collection: '流氓工具箱',
+    relatedIds: [4, 9, 10],
+    recommendationIds: [4, 9, 10, 12],
+    gallery: ['/15/1.png'],
+    markdownContent: ` **Web Worker** 和 **Service Worker** 都是浏览器提供的 JavaScript 多线程技术，但它们的用途和工作方式有显著区别。
+
+| **对比项**                   | **Web Worker**                                          | **Service Worker**                                           |
+| ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| **用途**                     | 用于在后台线程执行 CPU 密集型任务，避免阻塞主线程       | 主要用于离线缓存、网络请求拦截、推送通知等 PWA（渐进式 Web 应用）功能 |
+| **生命周期**                 | 由页面创建，页面关闭后终止                              | 独立于页面，即使页面关闭也能运行（直到被浏览器终止）         |
+| **DOM 访问**                 | ❌ 不能访问 DOM                                          | ❌ 不能访问 DOM                                               |
+| **网络请求**                 | ⚠️ 可以发起 \`fetch\`，但不能拦截请求                      | ✅ 可以拦截、修改网络请求（\`fetch\` 事件）                     |
+| **存储能力**                 | ⚠️ 可使用 \`IndexedDB\`、\`localStorage\`（同步 API 不可用） | ✅ 可使用 \`Cache API\`、\`IndexedDB\`                            |
+| **通信方式**                 | ✅ \`postMessage\` 与主线程通信                            | ✅ 通过 \`postMessage\` 与页面通信，也支持 \`BroadcastChannel\`   |
+| **典型应用场景**             | 大数据计算、图像处理、复杂算法                          | 离线缓存、资源预加载、后台同步、推送通知                     |
+| **注册方式**                 | \`new Worker('worker.js')\`                               | \`navigator.serviceWorker.register('sw.js')\`                  |
+| **作用范围**                 | 仅影响当前页面                                          | 可控制多个页面（作用域内）                                   |
+| **是否支持 \`importScripts\`** | ✅ 支持                                                  | ✅ 支持                                                       |
+
+## **Web Worker（专用 Worker）**
+
+- **用途**：在独立线程运行脚本，防止主线程卡顿（如计算、数据处理）。
+- **特点**：
+  - 由页面创建，页面关闭后 Worker 终止。
+  - 不能访问 DOM、\`window\`、\`document\`。
+  - 通过 \`postMessage\` 与主线程通信。
+
+\`\`\`html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 主线程 main.js
+const worker = new Worker('./worker.js');
+
+// 接收消息
+worker.onmessage = function(e) {
+    console.log('1111');
+  console.log('收到Worker消息:', e.data);
+};
+
+// 发送消息
+worker.postMessage('开始计算zzz');
+    <\/script>
+</body>
+</html>
+\`\`\`
+
+还需要执行的worker.js
+
+\`\`\`javascript
+// worker.js
+self.onmessage = function(e) {
+    console.log('收到主线程消息:', e.data);
+    
+    // 模拟耗时计算
+    const result = heavyCalculation();
+    
+    // 发送结果
+    self.postMessage(result);
+  };
+  
+  function heavyCalculation() {
+    // 复杂计算逻辑
+    let sum = 0;
+    for(let i = 0; i < 9999; i++) {
+      sum += i;
+    }
+    return sum;
+  }
+\`\`\`
+
+
+
+## **Service Worker 实现PWA页面**
+
+- **用途**：充当网络代理，实现离线缓存、资源预加载、后台同步等 PWA 功能。
+- **特点**：
+  - 独立于页面运行，即使页面关闭也能存活（用于后台同步、推送通知）。
+  - 可以拦截 \`fetch\` 请求，返回缓存数据。
+  - 必须通过 HTTPS（本地开发允许 \`localhost\`）。
+
+ 需要注意的是使用http-server -c-1启动服务需要使用这样的地址访问[ http://127.0.0.1:8080/](http://127.0.0.1:8080/) 才能正常激活service worker
+
+<img src='/15/1.png'>
+
+###  目录结构
+
+
+
+#### index.html
+
+\`\`\`html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service Worker 示例</title>
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+    <h1>Service Worker 演示</h1>
+    <img src="./images/logo.png" alt="Logo">
+    <script src="./scripts/app.js"><\/script>
+    <script>
+        // 注册 Service Worker
+        if ('serviceWorker' in navigator) {
+            console.log('浏览器支持 Service Worker');
+            // 直接执行注册代码
+            navigator.serviceWorker.register('./sw.js')
+               .then(registration => {
+                    console.log('ServiceWorker 注册成功: ', registration.scope);
+                })
+               .catch(err => {
+                    console.error('ServiceWorker 注册失败，错误信息:', err.message, '错误堆栈:', err.stack);
+                });
+        } else {
+            console.log('浏览器不支持 Service Worker');
+        }
+    <\/script>
+</body>
+</html>
+\`\`\`
+
+
+
+#### sw.js
+
+\`\`\`javascript
+const CACHE_NAME = 'my-site-cache-v1';
+// 修改资源路径
+const ASSETS_TO_CACHE = [
+  './',
+  './index.html', // 离线回退页面
+  './styles/main.css',
+  './scripts/app.js',
+  './images/logo.png'
+];
+
+// 安装阶段 - 缓存静态资源
+self.addEventListener('install', event => {
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then(cache => {
+        console.log('正在缓存核心资源');
+        return cache.addAll(ASSETS_TO_CACHE);
+      })
+      .catch(err => {
+        console.log('缓存失败: ', err);
+      })
+  );
+})
+
+// 激活阶段 - 清理旧缓存
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cacheName => {
+          if (cacheName !== CACHE_NAME) {
+            console.log('删除旧缓存: ', cacheName);
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    })
+  );
+});
+
+// 拦截请求 - 缓存优先策略
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request)
+      .then(response => {
+        // 命中缓存则返回，否则网络请求
+        return response || fetch(event.request);
+      })
+  );
+});
+
+// 后台同步示例（需配合 SyncManager API）
+self.addEventListener('sync', (event) => {
+  if (event.tag === 'sync-data') {
+    event.waitUntil(sendOfflineData());
+  }
+});
+
+async function sendOfflineData() {
+  // 在这里实现后台同步逻辑（如提交离线数据到服务器）
+  console.log('后台同步执行...');
+}
+\`\`\`
+
+
+
+#### styles/main.css
+
+\`\`\`css
+.img {
+    height: 100px;
+    width: 100px;
+}
+\`\`\`
+
+
+
+####  scripts/app.js
+
+\`\`\`javascript
+console.log('主应用脚本已加载1');
+
+// 检查 Service Worker 更新
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.ready.then(registration => {
+    registration.addEventListener('updatefound', () => {
+      const newWorker = registration.installing;
+      console.log('发现新版本 Service Worker');
+      
+      newWorker.addEventListener('statechange', () => {
+        if (newWorker.state === 'installed') {
+          if (navigator.serviceWorker.controller) {
+            console.log('新内容已下载，刷新页面即可使用');
+            // 这里可以添加 UI 提示用户刷新
+          } else {
+            console.log('内容已缓存，可离线使用');
+          }
+        }
+      });
+    });
+  });
+}
+\`\`\`
+
+
+
+### **关键功能说明**
+
+1. **预缓存静态资源**
+   - 在 \`install\` 阶段缓存 \`ASSETS_TO_CACHE\` 列表中的文件（如 HTML、CSS、JS）。
+2. **动态缓存**
+   - 在 \`fetch\` 事件中，优先返回缓存，若无则请求网络并缓存响应。
+3. **离线回退**
+   - 当网络请求失败且请求的是 HTML 时，返回 \`fallback.html\`。
+4. **缓存清理**
+   - 在 \`activate\` 阶段删除旧版本的缓存。
+5. **后台同步**
+   - 监听 \`sync\` 事件，在恢复网络后执行离线任务（需浏览器支持）。
+
+------
+
+###  **测试 Service Worker**
+
+1. **首次加载**
+   - 打开页面，检查 DevTools → Application → Service Workers 是否注册成功。
+   - 在 Cache Storage 中应看到缓存的静态资源。
+2. **离线测试**
+   - 关闭网络，刷新页面，静态资源应能正常加载。
+3. **更新 Service Worker**
+   - 修改 \`sw.js\` 或 \`CACHE_NAME\` 版本号，重新加载页面触发更新。
+
+------
+
+### **注意事项**
+
+- **HTTPS 要求**：生产环境必须使用 HTTPS（本地开发可用 \`localhost\`）。
+- **缓存策略**：根据业务需求调整缓存逻辑（如不缓存 API 请求）。
+- **作用域**：\`scope\` 决定 SW 控制的页面范围（如 \`/app/\` 下的页面）。
+
+通过这个示例，你可以快速实现一个支持离线访问的 PWA 应用！
+
+## PWA（**Progressive Web App**，渐进式网页应用）
+
+是一种结合网页和原生应用优势的技术，通过现代 Web 技术提供类似原生应用的体验。以下是它的核心特点和解释：
+
+------
+
+### **1. 核心特点**
+
+- **可离线使用**：通过 Service Worker 缓存资源，即使无网络也能访问。
+- **安装到桌面**：用户可将网页添加到主屏幕，像独立应用一样启动（无需应用商店）。
+- **响应式设计**：适配手机、平板、电脑等多种设备。
+- **推送通知**：支持消息推送（类似原生 App）。
+- **安全性**：必须运行在 HTTPS 环境下，确保数据安全。
+
+------
+
+### **2. 关键技术**
+
+- **Service Worker**：后台运行的脚本，管理缓存和离线功能。
+- **Web App Manifest**：JSON 文件，定义应用名称、图标、启动样式等。
+- **HTTPS**：强制要求，保证安全性。
+- **App Shell 架构**：快速加载核心界面框架，提升性能。
+
+------
+
+### **3. 优势 vs 传统网页/原生应用**
+
+| **对比项** | **PWA**                | **传统网页** | **原生应用**       |
+| ---------- | ---------------------- | ------------ | ------------------ |
+| 安装方式   | 浏览器添加到主屏幕     | 仅浏览器访问 | 应用商店下载       |
+| 离线功能   | ✅ 支持                 | ❌ 不支持     | ✅ 支持             |
+| 更新       | 自动（Service Worker） | 实时刷新     | 需应用商店审核     |
+| 开发成本   | 低（Web 技术）         | 最低         | 高（需多平台开发） |
+
+------
+
+### **4. 典型应用场景**
+
+- 电商（如 AliExpress、京东 Lite）
+- 社交媒体（Twitter Lite）
+- 新闻博客（内容型网站）
+- 工具类应用（计算器、天气预报）
+
+
+
+## **总结**
+
+| **场景**                     | **选择**                                          |
+| ---------------------------- | ------------------------------------------------- |
+| 需要后台计算（如大数据处理） | **Web Worker**                                    |
+| 需要离线缓存、拦截网络请求   | **Service Worker**                                |
+| 需要推送通知、后台同步       | **Service Worker**                                |
+| 需要多线程并行计算           | **Web Worker** 或 **Shared Worker**（跨页面通信） |
+
+两者可以结合使用，例如用 **Web Worker** 处理数据，用 **Service Worker** 缓存结果。
+` + mandatoryFooter
+  },
+  {
+    id: 16,
+    slug: 'karpathy-ai-coding-rules',
+    title: 'GitHub 6万星！Karpathy 的 AI 编码铁律：如何让 AI 乖乖写代码（附 Antigravity Knowledge 配置教程）',
+    image: karpathyRulesThumb,
+    date: '2026-04-22',
+    author: '流氓',
+    views: '8,623',
+    category: '教程',
+    duration: '08:00',
+    excerpt: 'GitHub 趋势榜第一、Star 破6万的 AI 编码规范项目——基于 Karpathy 经验的4条铁律，配合 Antigravity Knowledge 全局配置，让 AI 写出更可控的代码。',
+    tags: [{ name: 'AI工具', type: 'blue' }, { name: 'Antigravity', type: 'blue' }, { name: 'CLAUDE.md', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [1, 2, 5],
+    recommendationIds: [1, 5, 14, 2],
+    gallery: [],
+    markdownContent: `这是目前 GitHub 前端/AI 圈最火的方向。因为大家都在用 AI 写代码，发现 AI 容易"放飞自我"（写得太复杂、乱改代码），所以大神们总结了一套**"如何让 AI 乖乖写代码"**的知识库。
+
+- **项目名称**：**\`andrej-karpathy-skills\`** (或者叫 \`CLAUDE.md\` 规范)
+
+- **火爆程度**：一周内冲上趋势榜第一，Star 数破 6 万。
+
+- 核心内容
+
+  这不是代码，而是一份 Markdown 文档。它基于 AI 大神 Andrej Karpathy 的经验，总结了 4 条 AI 必须遵守的铁律：
+
+  1. **编码前思考**：遇到歧义先问，别瞎猜。
+  2. **简洁优先**：能用 50 行写完，绝不写 200 行（拒绝过度抽象）。
+  3. **精准修改**：只改必须改的地方，别顺手重构别人的代码。
+  4. **目标驱动**：先写测试复现 Bug，再修复它。
+
+- **怎么用**：
+  你可以直接把它的核心内容复制到你 Antigravity 的 \`knowledge\` 目录里，或者在项目根目录放一个 \`CLAUDE.md\` 文件。这能极大提升 AI 写前端代码的"听话程度"。
+
+全局添加 Antigravity 的 Knowledge（知识库）非常简单，这相当于给你的 AI 装上一个"永久记忆体"。一旦配置好，无论你打开哪个项目，AI 都会自动读取这些规则，不需要重复配置。
+
+以下是具体的操作步骤：
+
+### 第一步：找到或创建全局目录
+
+\`Antigravity\`的全局配置通常存储在用户主目录下的 \`.gemini\` 文件夹中。
+
+1. **打开文件资源管理器**（Windows）或 **访达**（Mac）。
+
+2. 进入以下路径
+
+   - **Windows**: \`C:\\\\Users\\\\你的用户名\\\\.gemini\\\\antigravity\\\\\`
+   - **Mac / Linux**: \`~/.gemini/antigravity/\`
+
+3. 检查目录
+
+   查看是否存在名为 \`knowledge\` 的文件夹。
+
+   - **如果没有**：请手动新建一个文件夹，命名为 \`knowledge\`。
+
+> **小贴士**：\`.gemini\` 是隐藏文件夹。
+>
+> - **Windows**: 如果看不到，需要在查看选项中勾选"隐藏的项目"。
+> - **Mac**: 在访达中按 \`Command + Shift + .\` 可以显示隐藏文件。
+
+把对应的CLAUDE.md放在\`knowledge\`这个文件夹下面即可
+
+\`\`\`markdown
+# CLAUDE.md
+
+Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
+
+**Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks, use judgment.
+
+## 1. Think Before Coding
+
+**Don't assume. Don't hide confusion. Surface tradeoffs.**
+
+Before implementing:
+
+- State your assumptions explicitly. If uncertain, ask.
+- If multiple interpretations exist, present them - don't pick silently.
+- If a simpler approach exists, say so. Push back when warranted.
+- If something is unclear, stop. Name what's confusing. Ask.
+
+## 2. Simplicity First
+
+**Minimum code that solves the problem. Nothing speculative.**
+
+- No features beyond what was asked.
+- No abstractions for single-use code.
+- No "flexibility" or "configurability" that wasn't requested.
+- No error handling for impossible scenarios.
+- If you write 200 lines and it could be 50, rewrite it.
+
+Ask yourself: "Would a senior engineer say this is overcomplicated?" If yes, simplify.
+
+## 3. Surgical Changes
+
+**Touch only what you must. Clean up only your own mess.**
+
+When editing existing code:
+
+- Don't "improve" adjacent code, comments, or formatting.
+- Don't refactor things that aren't broken.
+- Match existing style, even if you'd do it differently.
+- If you notice unrelated dead code, mention it - don't delete it.
+
+When your changes create orphans:
+
+- Remove imports/variables/functions that YOUR changes made unused.
+- Don't remove pre-existing dead code unless asked.
+
+The test: Every changed line should trace directly to the user's request.
+
+## 4. Goal-Driven Execution
+
+**Define success criteria. Loop until verified.**
+
+Transform tasks into verifiable goals:
+
+- "Add validation" -> "Write tests for invalid inputs, then make them pass"
+- "Fix the bug" -> "Write a test that reproduces it, then make it pass"
+- "Refactor X" -> "Ensure tests pass before and after"
+
+For multi-step tasks, state a brief plan:
+
+1. [Step] -> verify: [check]
+2. [Step] -> verify: [check]
+3. [Step] -> verify: [check]
+
+Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
+\`\`\`
+
+**Trae** 的全局配置通常在用户主目录下：
+Windows: \`C:\\\\Users\\\\你的用户名\\\\.trae\\\\\`
+Mac: \`~/.trae/\`
+创建规则文件
+在 .trae 目录下，找到或新建一个名为 rules 或 knowledge 的文件夹。
+` + mandatoryFooter
+  },
+  {
+    id: 17,
+    slug: 'knowledge-vs-workflows',
+    title: 'Antigravity 深度解析：Knowledge（知识库）vs Workflows（工作流）——AI 编程的内功与外功',
+    image: knowledgeVsWorkflowsThumb,
+    date: '2026-04-22',
+    author: '流氓',
+    views: '3,450',
+    category: '教程',
+    duration: '06:00',
+    excerpt: 'Knowledge 是 AI 的"内功心法"（静态知识），Workflows 是"外功招式"（动态指令）。前者决定下限，后者决定上限。本文用厨师比喻带你彻底搞懂两者的区别与最佳实践。',
+    tags: [{ name: 'Antigravity', type: 'blue' }, { name: 'Knowledge', type: 'blue' }, { name: 'Workflows', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [16, 5, 14],
+    recommendationIds: [16, 5, 14, 1],
+    gallery: [],
+    markdownContent: `这两个概念虽然都是用来"调教"AI 的，但它们的作用机制完全不同。
+
+简单来说：**Knowledge 是"内功心法"（静态知识），Workflows 是"外功招式"（动态指令）。**
+
+为了让你更直观地理解，我们可以把 AI 想象成一个**厨师**：
+
+### Knowledge (知识库) = 厨师的"参考书"与"口味偏好"
+
+- **性质**：**静态的、被动的**。
+
+- **作用**：它告诉 AI **"是什么"** 和 **"喜欢什么"**。
+
+- 内容
+
+  - 你的技术栈偏好（如：只用 React，不用 Vue）。
+  - 项目的背景文档（如：API 接口文档、数据库结构图）。
+  - 代码风格指南（如：变量命名规范、缩进习惯）。
+
+- **触发方式**：**自动触发**。只要你提问，AI 就会先去翻阅这些"书"，确保回答符合你的规范。
+
+- **你的场景**：你在 \`knowledge\` 目录里写"必须响应式"，AI 写代码时就会**潜意识**地加上媒体查询，不需要你每次都喊口号。
+
+### Workflows (工作流) = 厨师的"标准作业程序"
+
+- **性质**：**动态的、主动的**。
+
+- **作用**：它告诉 AI **"怎么做"** 和 **"步骤是什么"**。
+
+- 内容
+  - 具体的执行步骤（如：第一步先搜索配色，第二步再生成代码）。
+  - 调用的外部工具（如：运行 Python 脚本、执行 Shell 命令）。
+  - 复杂的逻辑判断（如：如果报错，就自动重试）。
+
+- **触发方式**：**手动触发**（通常通过斜杠命令）。你需要明确喊出 \`/ui-ux-pro-max\`，AI 才会启动这一套复杂的流程。
+
+- **你的场景**：\`UI-UX Pro Max\` 就是一个 Workflow。它不仅仅是知道"要好看"，而是**实际运行**了一个 Python 脚本去搜索配色方案，然后把结果填入代码中。
+
+### 总结对比表
+
+| 维度 | Knowledge (知识库) | Workflows (工作流) |
+| --- | --- | --- |
+| **核心逻辑** | 上下文注入 | 任务自动化 |
+| **比喻** | 员工手册、设计规范文档 | 自动化流水线、专用工具 |
+| **AI 的行为** | 哦，原来老板喜欢这样，我记住了 | 收到指令！开始执行操作步骤 |
+| **文件形式** | .md 文档、.txt 文本 | .md (带指令格式)、.json 配置 |
+| **前端应用** | 规定用 Tailwind、TypeScript | 自动搜索配色、运行测试脚本 |
+| **典型指令** | (无，自动生效) | /ui-ux-pro-max, /test, /deploy |
+
+### 针对你的建议
+
+作为前端工程师，这两者你是**都要用**的，它们互补：
+
+1. **用 Knowledge 打底**：
+   在 \`knowledge\` 目录里写好你的《前端规范》（React + Tailwind + 响应式）。这样，哪怕你只是随口问一句"写个按钮"，它生成的代码也是符合你项目标准的。
+2. **用 Workflows 攻坚**：
+   当你需要做一个**非常复杂、需要特定流程**的任务时（比如"帮我设计一套全新的设计系统"），这时候调用 \`/ui-ux-pro-max\` 这个 Workflow，让它去跑脚本、查资料、生成全套方案。
+
+**一句话总结：Knowledge 决定了 AI 的"下限"（不会写出烂代码），Workflows 决定了 AI 的"上限"（能帮你干复杂的大活）。**
+` + mandatoryFooter
+  },
+  {
+    id: 18,
+    slug: 'ai-knowledge-advanced-management',
+    title: 'AI 知识库实战：分类管理进阶与三大核心配置模板',
+    image: aiKnowledgeAdvancedThumb,
+    date: '2026-04-22',
+    author: '流氓',
+    views: '5,102',
+    category: '教程',
+    duration: '07:00',
+    excerpt: '将 AI 规则拆分为前端规范、接口文档和设计系统，附赠直接可用的高频 API 模板与 Tailwind UI/UX 原则，让 AI 秒变全能前端助手。',
+    tags: [{ name: 'AI知识库', type: 'blue' }, { name: '前沿趋势', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [17, 16],
+    recommendationIds: [17, 16, 5, 14],
+    gallery: [],
+    markdownContent: `### 💡 进阶技巧：分类管理
+
+如果你的规则很多，可以把它们拆分成多个文件放在 \`knowledge\` 目录下，Antigravity 会读取该目录下所有的 Markdown 文件：
+
+- \`frontend-rules.md\` (放代码规范)
+- \`company-api-docs.md\` (放公司的 API 文档，方便随时调用)
+- \`ui-design-system.md\` (放设计系统的配色和字体规范)
+
+这样，无论你在哪里，AI 都随身携带着你的"前端开发百科全书"
+
+### 第一步：创建你的"前端规范"文件
+
+在这个 \`knowledge\` 文件夹里，你可以创建任意数量的 \`.md\` (Markdown) 文件。建议创建一个名为 \`frontend-rules.md\` 的文件，专门存放你的前端开发铁律。
+
+**文件内容示例（你可以直接复制并修改）：**
+
+\`\`\`markdown
+1# 前端开发核心规范
+2
+3## 1. 技术栈偏好
+4- **框架**: 始终优先使用 React (Next.js App Router)。
+5- **语言**: 必须使用 TypeScript，严禁使用 \`any\` 类型。
+6- **样式**: 必须使用 Tailwind CSS。禁止使用原生 CSS 文件或 styled-components。
+7- **图标**: 优先使用 \`lucide-react\`。
+8
+9## 2. 代码风格
+10- **组件**: 使用函数式组件和 Hooks。
+11- **命名**: 文件使用 kebab-case (如 \`user-card.tsx\`)，组件使用 PascalCase。
+12- **结构**: 保持组件单一职责，一个文件只导出一个主要组件。
+13
+14## 3. UI/UX 原则
+15- **响应式**: 所有布局必须默认移动端优先 (Mobile First)。
+16- **交互**: 按钮和链接必须有 \`hover\` 状态反馈。
+17- **无障碍**: 图片必须包含 \`alt\` 属性，表单输入必须关联 \`label\`。
+18
+19## 4. 禁止事项
+20- ❌ 禁止使用 jQuery。
+21- ❌ 禁止使用内联样式 \`style="..."\`。
+22- ❌ 禁止在组件中硬编码文字内容。
+\`\`\`
+
+#### 🚀 验证生效
+
+配置完成后，**重启 Antigravity 客户端**（如果它正在运行）。
+
+你可以通过以下方式验证是否生效：
+
+1. 随便打开一个项目（或者新建一个空项目）。
+2. 在对话框输入："帮我写一个登录框"。
+3. 观察结果
+   - 如果 AI 自动使用了 **React + TypeScript**。
+   - 如果 AI 自动使用了 **Tailwind CSS** 类名。
+   - 如果 AI 自动考虑了 **移动端适配**。
+
+那么恭喜你，你的全局 Knowledge 已经成功"附体"到 AI 身上了！
+
+### 第二步：接口文档，变成了 AI 随时能查阅的"随身笔记"
+
+这个文件其实就是把你那些原本要反复复制粘贴的接口文档，变成了 AI 随时能查阅的"随身笔记"。
+
+它的核心目的只有一个：**让 AI 在不联网、不看 Swagger 的情况下，也能精准地写出符合你后端要求的 API 调用代码。**
+
+一个高质量的 \`company-api-docs.md\` 通常包含以下 4 个核心板块。你可以直接参考这个模板来填充你们公司的实际接口信息：
+
+#### 📋 通用配置板块
+
+这部分告诉 AI 请求的基础信息，避免它每次都问你"接口地址是多少"或者"Header 要带什么"。
+
+\`\`\`markdown
+1## 1. 基础配置
+2- **Base URL**: \`https://api.your-company.com/v1\`
+3- **认证方式**: Bearer Token (JWT)
+4- **通用请求头**:
+5  - \`Content-Type\`: \`application/json\`
+6  - \`Authorization\`: \`Bearer <token>\`
+7- **通用响应结构**:
+8  所有接口返回的数据都包裹在一个标准结构中：
+9  \`\`\`json
+10  {
+11    "code": 200, // 200表示成功，非200表示业务错误
+12    "msg": "success", // 错误信息
+13    "data": { ... } // 实际数据载荷
+14  }
+\`\`\`
+
+\`\`\`markdown
+1
+2### 📚 核心数据模型板块
+3不要把所有字段都写上去，只写**高频复用**的实体。这能防止 AI 瞎编字段名（比如把 \`userName\` 写成 \`username\`，导致前端报错）。
+4
+5\`\`\`markdown
+6## 2. 核心数据类型
+7### 用户
+8- \`id\`: string - 用户唯一标识 (UUID)
+9- \`username\`: string - 登录用户名
+10- \`email\`: string - 邮箱
+11- \`role\`: enum - 角色 ('admin', 'editor', 'viewer')
+12- \`status\`: enum - 状态 ('active', 'banned')
+13
+14### 商品
+15- \`sku\`: string - 库存单位编码
+16- \`price\`: number - 价格 (单位: 分，不是元！)
+17- \`stock\`: number - 库存数量
+\`\`\`
+
+#### 🔌 高频接口板块
+
+这是最有价值的部分。只记录**最常用**的接口，或者**逻辑最复杂**的接口。
+
+**格式建议**：使用类似 Swagger 的简洁写法，或者直接贴 curl 示例。
+
+
+
+\`\`\`markdown
+1## 3. 常用接口定义
+2
+3### 获取用户列表 (分页)
+4- **URL**: \`GET /users\`
+5- **参数**:
+6  - \`page\`: number (默认 1)
+7  - \`pageSize\`: number (默认 10)
+8  - \`role\`: string (可选，筛选角色)
+9- **返回示例**:
+10  \`\`\`json
+11  {
+12    "code": 200,
+13    "data": {
+14      "list": [ ...用户数组... ],
+15      "total": 100
+16    }
+17  }
+\`\`\`
+
+#### 创建订单
+
+- **URL**: \`POST /orders\`
+
+- 请求体
+
+  \`\`\`json
+  1{
+  2  "userId": "string",
+  3  "items": [
+  4    { "sku": "string", "count": "number" }
+  5  ]
+  6}
+  \`\`\`
+
+- **特殊逻辑**: 创建订单前必须检查库存，如果库存不足直接返回 code 4001。
+
+\`\`\`markdown
+1
+2### ⚠️ 业务逻辑与坑点板块
+3这是 AI 绝对不知道的"隐形知识"。比如某些字段虽然叫 \`price\`，但其实是"分"不是"元"；或者某些状态流转的特殊规则。
+4
+5\`\`\`markdown
+6## 4. 业务规则与注意事项
+7- **金额处理**: 所有涉及金额的字段（price, totalAmount）后端返回的都是**整数（分）**，前端展示时必须除以 100。
+8- **日期格式**: 后端所有时间字段都是 Unix 时间戳 (毫秒)，不是字符串。
+9- **图片地址**: 接口返回的 \`avatar\` 只是相对路径，前端需要拼接 CDN 域名 \`https://cdn.your-company.com\`。
+10- **状态码**:
+11  - \`401\`: Token 过期，需跳转登录。
+12  - \`4001\`: 库存不足。
+13  - \`4002\`: 优惠券不可用。
+\`\`\`
+
+### 📌 总结：怎么写才好用？
+
+1. **只写"热"数据**：不要把你公司几百个接口全贴上去，AI 会看晕。只贴你每天开发都要用的那 10-20 个核心接口。
+2. **保持更新**：如果后端改了字段（比如把 \`userName\` 改成了 \`nickname\`），记得同步更新这个文件。
+3. **格式清晰**：AI 喜欢结构化的数据，用 Markdown 的列表和代码块排版，它理解得最快。
+
+把这个文件放进全局 \`knowledge\` 目录后，你下次只要说："帮我写个获取用户列表的函数"，AI 就会自动知道要请求 \`/users\`，要处理分页，还要把金额除以 100。
+
+### 第三步：UI 设计系统规范 ui-design-system.md
+
+本文件定义了项目的全局视觉规范。所有前端代码生成必须严格遵循以下变量和原则，以确保 UI 的一致性。
+
+#### 1. 设计令牌
+
+所有样式必须使用 Tailwind CSS 的 \`extend\` 配置或标准工具类，禁止使用硬编码的十六进制颜色或像素值。
+
+**色彩系统**
+
+- **主色调**: \`primary-500\` (#3B82F6) - 用于主要按钮、激活状态、链接。
+
+- 功能色
+  - \`success-500\` (#10B981) - 成功提示、完成状态。
+  - \`warning-500\` (#F59E0B) - 警告提示、待处理状态。
+  - \`danger-500\` (#EF4444) - 错误提示、删除操作。
+
+- 中性色
+  - 背景: \`gray-50\` (浅色模式背景), \`gray-900\` (深色模式背景)。
+  - 文本: \`gray-900\` (主标题), \`gray-600\` (正文), \`gray-400\` (次要文本/占位符)。
+
+- **边框**: \`gray-200\` (默认分割线), \`gray-300\` (输入框边框)。
+
+**排版系统**
+
+- **字体家族**: Inter, system-ui, sans-serif.
+
+- 字号
+  - 超大标题: \`text-4xl\` (2.25rem) - 页面主标题。
+  - 大标题: \`text-2xl\` (1.5rem) - 卡片标题。
+  - 正文: \`text-base\` (1rem) - 标准内容。
+  - 小字: \`text-sm\` (0.875rem) - 辅助说明、图注。
+
+- 字重
+  - 粗体: \`font-bold\` (700) - 强调。
+  - 中等: \`font-medium\` (500) - 按钮、标题。
+  - 常规: \`font-normal\` (400) - 正文。
+
+**间距与布局**
+
+- **基础单位**: 4px (Tailwind 默认单位)。
+
+- 常用间距
+  - 紧凑: \`p-2\`, \`p-4\` (组件内部填充)。
+  - 标准: \`p-6\`, \`p-8\` (卡片、容器填充)。
+  - 宽松: \`gap-4\`, \`gap-6\` (元素间距)。
+
+- 圆角
+  - 小元素: \`rounded\` (4px) - 按钮、标签。
+  - 容器: \`rounded-lg\` (8px) - 卡片、模态框、输入框。
+  - 全屏: \`rounded-full\` - 头像。
+
+**阴影与层级**
+
+- **卡片阴影**: \`shadow-sm\` (默认), \`shadow-md\` (悬浮/悬停)。
+
+- **模态框阴影**: \`shadow-xl\`。
+
+- 层级
+  - 下拉菜单: \`z-10\`。
+  - 模态框: \`z-50\`。
+  - 提示条: \`z-50\`。
+` + mandatoryFooter
+  },
+  {
+    id: 19,
+    slug: 'global-skill-configuration-uipro',
+    title: '全局技能配置实战：如何在所有项目中通用 UI-UX Pro Max',
+    image: globalSkillConfigurationThumb,
+    date: '2026-04-22',
+    author: '流氓',
+    views: '2,109',
+    category: '教程',
+    duration: '06:00',
+    excerpt: '深入解析 Antigravity 技能架构的“全局库+项目引用”模式，两步实现在任意项目中全局调用 UI-UX Pro Max 技能，彻底解放生产力。',
+    tags: [{ name: 'AI工具', type: 'blue' }, { name: '开发指南', type: 'green' }],
+    collection: 'AI百科',
+    relatedIds: [18, 17],
+    recommendationIds: [18, 17, 16, 5],
+    gallery: [],
+    markdownContent: `要在**所有项目**中都使用 \`UI-UX Pro Max Skill\`，你需要理解 Antigravity 的技能架构是**"全局库 + 项目级引用"**的模式。
+
+简单来说，你需要做两件事：
+
+1. **全局安装**：把技能包下载到你电脑的"仓库"里（只需做一次）。
+2. **项目配置**：在每个项目中创建一个"遥控器"（Workflow 文件），告诉 Antigravity 去"仓库"里调用这个技能。
+
+以下是实现"全项目通用"的完整操作指南：
+
+### 🛠️ 第一步：全局安装（只需执行一次）
+
+首先，确保你的电脑里已经有了这个技能的"本体"。
+
+1. 打开终端，运行以下命令安装 CLI 工具（如果之前装过可跳过）：
+
+   \`\`\`bash
+   npm install -g uipro-cli
+   \`\`\`
+
+2. 安装到当前项目
+
+   \`\`\`bash
+   # Go to your project
+   cd /path/to/your/project
+   
+   # Install for your AI assistant
+   uipro init --ai claude      # Claude Code
+   uipro init --ai cursor      # Cursor
+   uipro init --ai windsurf    # Windsurf
+   uipro init --ai antigravity # Antigravity
+   \`\`\`
+
+3. 安装到全局目录
+
+   为了确保所有项目都能找到它，建议确认技能已存在于 Antigravity 的全局目录中。
+
+   - **目录路径**：\`~/.gemini/antigravity/skills/\`
+
+   - 操作
+
+     \`\`\`bash
+     cd ~/.gemini/antigravity/skills
+     # 如果目录下没有 ui-ux-pro-max-skill 文件夹，请运行：
+     git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+     \`\`\`
+
+   - *此时，你的全局仓库里已经有了这个技能。*
+
+---
+
+### 🔌 第二步：如何在"所有项目"中生效
+
+由于 Antigravity 的设计初衷是**项目级隔离**（避免不同项目加载过多无用技能导致变慢），它**没有**一个"一键全局开启"的开关。
+
+要在每个项目中使用，你有两种策略：
+
+#### 策略 A：标准做法（在每个项目中初始化）
+
+这是最推荐的做法，因为它会在项目中生成必要的配置文件，确保技能稳定运行。
+
+1. 进入你的项目目录。
+
+2. 运行初始化命令：
+
+   \`\`\`bash
+   uipro init --ai antigravity
+   \`\`\`
+
+3. **原理**：这个命令会自动在你的项目根目录创建 \`.agent/skills/ui-ux-pro-max.md\` 文件。这个文件就是"遥控器"，它指向你第一步中安装的全局技能。
+
+4. **建议**：将 \`.agent/\` 目录添加到你的 \`.gitignore\` 文件中，以免污染代码库。
+
+#### 策略 B：手动复用（如果你不想在每个项目都敲命令）
+
+如果你已经在一个项目中配置好了，想快速应用到另一个项目，可以直接复制配置文件。
+
+1. 在**已配置好的项目**中，找到 \`.agent/skills/ui-ux-pro-max.md\` 文件。
+2. 将其**复制**到**新项目**的 \`.agent/skills/\` 目录下（如果没有该目录则新建）。
+3. 重启 Antigravity，新项目中即可直接通过 \`/ui-ux-pro-max\` 调用。
+
+---
+
+### 🚀 第三步：验证与使用
+
+配置完成后，你可以在任何项目中通过以下方式验证并使用：
+
+1. **查看技能列表**：
+   在 Antigravity 对话框输入 \`/\`，你应该能看到 \`ui-ux-pro-max\` 出现在列表中。
+
+2. 直接使用
+
+   输入指令即可触发全局技能：
+
+   > \`/ui-ux-pro-max 为这个项目设计一个现代化的登录页面，使用深色模式\`
+
+### 💡 核心提示
+
+- **不要手动修改全局文件**：\`~/.gemini/antigravity/skills/\` 下的内容是"只读"的库。如果你需要微调技能行为，请在**项目级**的 \`.agent/skills/\` 文件中修改，或者创建新的 Workflow 文件指向全局库。
+- **依赖检查**：确保你的每个项目环境（或全局环境）都安装了 **Python 3**，因为 \`UI-UX Pro Max\` 的核心搜索功能依赖 Python 脚本运行。
+` + mandatoryFooter
   }
 ].reverse();
 
 // 标签
 export const allTags = [
-  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封', 'Wireshark', 'Windows XP', '抓包', '开发指南'
+  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封', 'Wireshark', 'Windows XP', '抓包', '开发指南', 'Web Worker', 'Service Worker', 'PWA', 'CLAUDE.md', 'Knowledge', 'Workflows', 'AI知识库', '前沿趋势'
 ];
 // 合集
 export const allCollections = [
