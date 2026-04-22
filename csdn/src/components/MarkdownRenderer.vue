@@ -14,7 +14,7 @@ const md = new MarkdownIt({
       try {
         const highlighted = hljs.highlight(str, { language: lang }).value;
         return `<pre class="hljs"><code>${highlighted}</code><button class="copy-btn" data-clipboard-text="${encodeURIComponent(str)}">Copy</button></pre>`;
-      } catch (__) {}
+      } catch (__) { }
     }
     return `<pre class="hljs"><code>${md.utils.escapeHtml(str)}</code><button class="copy-btn" data-clipboard-text="${encodeURIComponent(str)}">Copy</button></pre>`;
   }
@@ -77,7 +77,9 @@ export default {
   line-height: 1.6;
 }
 
-.markdown-body h1, .markdown-body h2, .markdown-body h3 {
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-weight: 700;
@@ -138,5 +140,71 @@ export default {
   height: auto;
   display: block;
   margin: 16px auto;
+}
+
+/* 表格样式 */
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 0.9rem;
+  overflow-x: auto;
+  display: block;
+}
+
+.markdown-body thead {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-body tbody {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-body th {
+  background: rgba(99, 102, 241, 0.12);
+  color: var(--text-main);
+  font-weight: 700;
+  padding: 10px 14px;
+  text-align: left;
+  border: 1px solid var(--border-color);
+  white-space: nowrap;
+}
+
+.markdown-body td {
+  padding: 9px 14px;
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+}
+
+.markdown-body tbody tr:nth-child(even) {
+  background: rgba(99, 102, 241, 0.04);
+}
+
+.markdown-body tbody tr:hover {
+  background: rgba(99, 102, 241, 0.08);
+}
+
+/* 文章底部强制脚注样式（hr 后的第一个 p） */
+.markdown-body hr {
+  margin: 32px 0 0;
+  border: none;
+}
+
+.markdown-body hr+p {
+  margin-top: 0;
+  padding: 14px 18px 14px 20px;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.12), rgba(139, 92, 246, 0.08));
+  border-left: 4px solid var(--primary-color);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-main);
+  line-height: 1.7;
+  letter-spacing: 0.01em;
+  font-style: normal;
 }
 </style>
