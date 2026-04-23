@@ -222,6 +222,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  display: none;
 }
 
 .play-btn-large {

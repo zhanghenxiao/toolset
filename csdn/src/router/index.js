@@ -31,7 +31,7 @@ const routes = [
 ];
 
 const router = new VueRouter({
-  mode: 'hash',
+  mode: 'history',
   base: import.meta.env.BASE_URL,
   routes,
   scrollBehavior() {
