@@ -45,7 +45,7 @@ export default {
     join: 'Join Us',
     privacy: 'Privacy Policy',
     tools: 'Online Tools',
-    blog: '流氓IT Blog',
+    blog: '数维探索IT Blog',
     wiki: 'Wiki',
     tracker: 'CSDN Blog'
   }
