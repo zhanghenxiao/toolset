@@ -34,7 +34,7 @@ export default {
     subscribeBtn: '订阅',
     navTitle: '网站导航',
     aboutTitle: '关于我们',
-    ecoTitle: 'lib00 生态',
+    ecoTitle: '生态',
     socialTitle: '社交媒体',
     home: '首页',
     contentList: '内容列表',
