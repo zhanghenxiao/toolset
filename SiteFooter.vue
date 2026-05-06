@@ -1,5 +1,52 @@
 <template>
   <footer class="site-footer">
+    <div class="container footer-grid" style="display: none;">
+      <div class="footer-col">
+        <h4 class="footer-title">{{ $t('footer.navTitle') }}</h4>
+        <ul>
+          <li><a href="/">{{ $t('footer.home') }}</a></li>
+          <li><a href="/">{{ $t('footer.contentList') }}</a></li>
+          <li><a href="/">{{ $t('footer.userCenter') }}</a></li>
+          <li><a href="/">{{ $t('footer.favorites') }}</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 class="footer-title">{{ $t('footer.aboutTitle') }}</h4>
+        <ul>
+          <li><a href="/">{{ $t('footer.company') }}</a></li>
+          <li><a href="/">{{ $t('footer.contact') }}</a></li>
+          <li><a href="/">{{ $t('footer.join') }}</a></li>
+          <li><router-link to="/privacy-policy">{{ $t('footer.privacy') }}</router-link></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 class="footer-title">{{ $t('footer.ecoTitle') }}</h4>
+        <ul>
+          <li><a href="#/tools" target="_blank" rel="noopener noreferrer">{{ $t('footer.tools') }}</a></li>
+          <li><a href="/" target="_blank" rel="noopener noreferrer">{{ $t('footer.blog') }}</a></li>
+          <li><a href="/" target="_blank" rel="noopener noreferrer">{{ $t('footer.wiki') }}</a></li>
+          <li><a href="https://blog.csdn.net/qq_37550440?type=blog" target="_blank" rel="noopener noreferrer">{{
+            $t('footer.tracker') }}</a></li>
+        </ul>
+      </div>
+      <div class="footer-col subscribe-col">
+        <h4 class="footer-title">{{ $t('footer.subscribe') }}</h4>
+        <p>{{ $t('footer.subscribeDesc') }}</p>
+        <div class="subscribe-form">
+          <input type="email" :placeholder="$t('footer.emailPlaceholder')" />
+          <button class="btn btn-primary">{{ $t('footer.subscribeBtn') }}</button>
+        </div>
+        <div class="social-links">
+          <h4 class="footer-title">{{ $t('footer.socialTitle') }}</h4>
+          <div class="social-icons">
+            <a href="/" class="social-icon">YT</a>
+            <a href="/" class="social-icon">Bili</a>
+            <a href="/" class="social-icon">抖音</a>
+            <a href="/" class="social-icon">微信</a>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="footer-bottom">
       <div class="container">
         <p>&copy; 2026 内容创作展示网站 toolset.site 保留所有权利 | 代理条款 | <router-link to="/privacy-policy">隐私政策</router-link> </p>

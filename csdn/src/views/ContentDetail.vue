@@ -21,11 +21,11 @@
           <div class="content-info">
             <h1 class="detail-title">{{ item.title }}</h1>
 
-            <div class="social-links-bar">
+            <!-- <div class="social-links-bar">
               <button class="social-btn douyin"><span>DouYin</span></button>
               <button class="social-btn bilibili"><span>BiliBili</span></button>
               <button class="social-btn youtube"><span>Youtube</span></button>
-            </div>
+            </div> -->
 
             <div class="meta-data-section">
               <div class="full-meta">

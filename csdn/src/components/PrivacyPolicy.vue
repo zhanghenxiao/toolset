@@ -9,7 +9,7 @@
                 <p>欢迎访问本网站。我们深知隐私对您的重要性，并致力于保护您的个人信息。本隐私政策解释了我们如何收集、使用和保护通过 Google AdSense 投放广告时产生的信息。</p>
             </section>
 
-            <!--  <section>
+            <section>
                 <h2>2. Google AdSense 与 Cookie</h2>
                 <p>我们使用 Google 作为第三方供应商在本网站投放广告。Google 会利用 Cookie 根据用户访问本网站及互联网上其他网站的情况向用户投放广告。</p>
                 <ul>
@@ -18,7 +18,7 @@
                     <li><strong>退出机制：</strong>您可以访问 <a href="https://adssettings.google.com" target="_blank">Google
                             广告设置</a> 页面来退出个性化广告。</li>
                 </ul>
-            </section> -->
+            </section>
 
             <section>
                 <h2>3. 数据收集与存储</h2>
