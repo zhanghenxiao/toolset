@@ -16,6 +16,8 @@ import karpathyRulesThumb from '../assets/images/karpathy-ai-coding-rules-thumb.
 import knowledgeVsWorkflowsThumb from '../assets/images/knowledge-vs-workflows-thumb.png';
 import aiKnowledgeAdvancedThumb from '../assets/images/ai-knowledge-advanced-thumb.png';
 import globalSkillConfigurationThumb from '../assets/images/global-skill-configuration-thumb.png';
+import antigravityDownloadThumb from '../assets/images/google-antigravity-download-thumb.png';
+import antigravityRulesThumb from '../assets/images/antigravity-rules-troubleshooting-thumb.png';
 
 const mandatoryFooter = '\n\n---\n专注于分享经过验证的开发技巧与实用资源，致力于为你节省检索信息的时间，以及AI工具经验分享获取更多干货。关注微信公众号：数维探索';
 
@@ -1908,12 +1910,328 @@ Mac: \`~/.trae/\`
 - **不要手动修改全局文件**：\`~/.gemini/antigravity/skills/\` 下的内容是"只读"的库。如果你需要微调技能行为，请在**项目级**的 \`.agent/skills/\` 文件中修改，或者创建新的 Workflow 文件指向全局库。
 - **依赖检查**：确保你的每个项目环境（或全局环境）都安装了 **Python 3**，因为 \`UI-UX Pro Max\` 的核心搜索功能依赖 Python 脚本运行。
 ` + mandatoryFooter
+  },
+  {
+    id: 20,
+    slug: 'google-antigravity-download-v1-23-2',
+    title: 'Google Antigravity 最新稳定版 v1.23.2 全平台免费下载 (官方正版)',
+    image: antigravityDownloadThumb,
+    date: '2026-05-08',
+    author: '数维探索',
+    views: '1,200',
+    category: '教程',
+    duration: '06:00',
+    excerpt: 'Google Antigravity 是 2025 年推出的 AI 原生 IDE，内置 Gemini 3.1 Pro，支持多模型切换与智能体自主开发。本文提供 v1.23.2 最新稳定版的各平台下载地址及安装配置指南。',
+    tags: [{ name: 'Antigravity', type: 'blue' }, { name: 'AI工具', type: 'green' }, { name: '下载指南', type: 'blue' }],
+    collection: 'AI百科',
+    relatedIds: [1, 2, 8, 19], 
+    recommendationIds: [1, 8, 13, 19],
+    gallery: [antigravityDownloadThumb],
+    markdownContent: `
+**一句话总结：Google Antigravity 是谷歌推出的「AI 智能体优先」IDE，最新稳定版 v1.23.2，Windows/macOS/Linux 全平台免费下载，内置 Gemini 3.1 Pro，支持 Claude、开源 GPT 等多模型，直接替代 VS Code + 各类 AI 插件。**
+
+------
+
+## 一、Antigravity 是什么？（快速看懂）
+
+**Google Antigravity（反重力）** 是 Google 在 2025 年 11 月 18 日随 Gemini 3 发布会推出的 **AI 原生 IDE**，定位「Agent-first（智能体优先）开发平台」。
+
+- 本质：**基于 VS Code 深度改造**的独立编辑器，不是插件。
+
+- 核心：你只说目标，AI 智能体**自动拆任务、写代码、运行、测试、查资料、出报告**。
+
+- 对比传统 AI 编码：
+
+  - 旧模式：你写一行 → AI 补一行（被动辅助）。
+  - Antigravity：你定目标 → AI 全程自主（主动执行）。
+
+  
+
+------
+
+## 二、当前最新版本（2026-05-07）
+
+- **最新稳定版：v1.23.2**（2026-04-16 发布）
+- 预览版：持续更新，含最新模型支持与功能优化
+- 授权：**完全免费**，个人 / 商业均可使用，Gemini 3.1 Pro 有 generous 免费额度
+
+### 版本更新亮点（v1.23.x）
+
+1. 内置 **Gemini 3.1 Pro / Flash**，编程与推理能力大幅提升。
+2. 支持 **Claude Sonnet 4.6 / Opus 4.6、GPT-OSS-120B** 等多模型切换。
+3. 增强智能体规划（Plan 模式），复杂项目拆解更合理。
+4. 内置浏览器自动化测试，Web 项目可直接在 IDE 内调试验证。
+5. 优化性能，启动更快、内存占用更低，支持大项目流畅编辑。
+6. 新增 **Skills 系统**，支持全局 / 项目级自定义技能，扩展 AI 能力边界。
+7. 底层架构升级为**多会话、多任务并行**，提升复杂任务处理效率。
+8. 新增**隐私控制选项**，可关闭历史与知识记忆，满足企业级隐私需求。
+
+------
+
+## 三、下载地址（官方正版，直接复制打开）
+### 1. 各平台直接链接（v1.23.2 稳定版）
+#### Windows（64 位，Win10/11）
+百度网盘下载链接：https://pan.baidu.com/s/1BJJdOpdgjxHlm6qTnavVSQ?pwd=qsfs 提取码: qsfs
+
+
+#### macOS
+
+- Apple Silicon（M1/M2/M3）：
+百度网盘下载链接：https://pan.baidu.com/s/19vEsonfUrwR-CctuIgvxzw?pwd=vyfj 提取码: vyfj
+- Intel：
+百度网盘下载链接： https://pan.baidu.com/s/1zPrFBAJRzUHtgAHofUYBGA?pwd=ubdg 提取码: ubdg
+#### Linux（Debian/Ubuntu）
+
+
+
+
+\`\`\`bash
+sudo mkdir -p /etc/apt/keyrings
+curl -fsSL https://us-central1-apt.pkg.dev/doc/repo-signing-key.gpg | sudo gpg --dearmor -o /etc/apt/keyrings/antigravity-repo-key.gpg
+echo "deb [signed-by=/etc/apt/keyrings/antigravity-repo-key.gpg] https://us-central1-apt.pkg.dev/projects/antigravity-auto-updater-dev/ antigravity-debian main" | sudo tee /etc/apt/sources.list.d/antigravity.list > /dev/null
+sudo apt update
+sudo apt install antigravity
+\`\`\`
+
+------
+
+## 四、安装步骤（3 步搞定，小白也会）
+
+### Windows 安装
+
+1. 下载 \`.exe\` 安装包，双击运行。
+2. 同意协议 → 选择安装路径 → 点击「Install」。
+3. 安装完成后启动，用**谷歌账号登录**即可使用。
+
+### macOS 安装
+
+1. 下载 \`.dmg\` 镜像，双击打开。
+2. 将 Antigravity 图标拖入「Applications」文件夹。
+3. 从应用程序启动，谷歌账号登录，完成配置。
+
+### Linux 安装
+
+1. 复制上方命令到终端，一键添加源并安装。
+2. 终端输入 \`antigravity\` 启动，谷歌账号登录。
+
+------
+
+## 五、首次使用配置（必做，解锁全部功能）
+
+### 1. 登录谷歌账号
+
+启动后自动跳转登录，**必须用谷歌账号**，否则无法使用 Gemini 及多模型功能。
+
+### 2. 选择默认 AI 模型（右上角切换）
+
+- 推荐：**Gemini 3.1 Pro（High）** → 能力最强，适合复杂项目。
+- 快速：**Gemini 3.1 Flash（Fast）** → 响应快，日常小任务首选。
+- 其他：Claude Sonnet 4.6、GPT-OSS-120B（需对应账号 / 密钥）。
+
+### 3. 中文化（可选）
+
+1. 左侧扩展商店搜索「Chinese」。
+2. 安装中文语言包 → 重启 IDE → 界面变为中文。
+
+------
+
+## 六、核心功能体验（为什么值得下载）
+
+### 1. 智能体自主开发（最强卖点）
+
+- 输入需求：「用 React + TypeScript 写一个待办 App，含增删改查，本地存储」。
+- AI 自动：拆任务 → 建文件 → 写代码 → 运行测试 → 生成说明文档。
+
+### 2. 多模型无缝切换
+
+- 同一项目可随时换模型：复杂逻辑用 Gemini Pro，长文本用 Claude，开源需求用 GPT-OSS。
+
+### 3. 内置浏览器调试
+
+- Web 项目可直接在 IDE 内打开浏览器预览，AI 自动操作测试并反馈结果，无需切换工具。
+
+### 4. 兼容 VS Code 插件
+
+- 大部分 VS Code 插件可直接安装，生态无缝衔接，老用户零学习成本。
+
+### 5. 自定义 Skills 扩展
+
+- 全局技能路径：\`~/.gemini/antigravity/skills/\`
+- 项目技能路径：\`.agent/skills/\`
+- 可自定义工具调用、代码模板、自动化流程等，灵活适配开发场景。
+
+------
+
+## 七、常见问题（避坑指南）
+
+### 1. 下载慢 / 失败
+
+- 解决：换浏览器（Chrome 最佳）、关闭 VPN 重试、或用上方直接链接下载。
+
+### 2. 登录失败 / 无法使用 AI
+
+- 原因：网络限制或谷歌账号未开通 AI 权限。
+- 解决：确保网络可正常访问谷歌服务，账号需开通 Gemini 权限（免费）。
+
+### 3. 启动卡顿 / 内存占用高
+
+- 解决：更新到 v1.23.2+、关闭不必要插件、增加内存（推荐 16GB+）。
+
+### 4. 和 VS Code 冲突吗？
+
+- 不冲突：独立软件，可同时安装，项目可互相打开，配置互不影响。
+
+------
+
+## 八、总结与下载入口
+
+**Antigravity 是 2026 年最值得尝试的 AI 编程工具**：免费、全平台、内置最强模型、智能体自主开发，大幅提升编码效率，适合所有开发者（从新手到资深）。
+` + mandatoryFooter
+  },
+  {
+    id: 21,
+    slug: 'antigravity-v1-23-2-rules-troubleshooting',
+    title: 'Google Antigravity v1.23.2 项目规则不显示排查方案',
+    image: antigravityRulesThumb,
+    date: '2026-05-08',
+    author: '数维探索',
+    views: '1,050',
+    category: '教程',
+    duration: '05:30',
+    excerpt: '针对 Google Antigravity v1.23.2 版本中项目规则（Workspace Rules）无法加载或不显示的问题，提供了一套详尽的排查与修复方案，涵盖路径规范、UI 配置及已知 Bug 处理。',
+    tags: [{ name: 'Antigravity', type: 'blue' }, { name: '故障排查', type: 'green' }, { name: '项目规则', type: 'blue' }],
+    collection: 'AI百科',
+    relatedIds: [1, 5, 20], 
+    recommendationIds: [5, 18, 19, 20],
+    gallery: [antigravityRulesThumb],
+    markdownContent: `
+v1.23.2 「不出项目规则」，基本都是**路径不对、文件没识别、UI 没切到 Workspace、或版本本身的小 Bug**。下面按最常见原因给你一套直接能照做的排查方案（不用重装）。
+
+------
+
+## 一、先确认：v1.23.2 规则的正确位置（很多人放错）
+
+v1.23.x 优先读取：
+
+- 项目规则（只对当前项目生效）：
+
+  \`\`\`plaintext
+  项目根目录/.agent/rules/*.md
+  项目根目录/GEMINI.md 或 AGENTS.md
+  \`\`\`
+
+- 全局规则（所有项目生效）：
+
+  \`\`\`plaintext
+  ~/.gemini/antigravity/rules/*.md
+  ~/.gemini/GEMINI.md
+  \`\`\`
+
+⚠️ **必须是 \`.md\` 后缀（markdown component），普通 \`.md\` 有时不加载**。
+
+------
+
+## 二、UI 里看不到「Workspace 规则」？（最常见）
+
+1. 右上角点 **…（更多）→ Customizations**
+2. 切到 **Rules → 右侧选 Workspace**（不是 Global）
+3. 看有没有你的规则；没有就点 **+ Workspace** 新建
+
+如果切到 Workspace 是空的：
+
+→ 说明 IDE **没识别当前文件夹为 Workspace**（你只是打开了文件，没打开文件夹）。
+
+### 解决：必须「打开文件夹」
+
+- 左上角：**File → Open Folder**，选你的\`项目根目录\`
+- 打开后，左侧资源管理器顶部会显示文件夹名，此时 Workspace 规则才会出现
+
+------
+
+## 三、文件放对了但不生效？（v1.23.2 特有问题）
+
+### 1. 文件名 / 格式问题（严格）
+
+- ✅ 正确：\`.agent/rules/01-project-rules.md\`
+- ❌ 错误：\`.agent/rules/rules.md\` / \`project-rules.txt\` / \`RULES.MD\`（大小写敏感）
+
+### 2. 目录结构必须严格
+
+\`\`\`plaintext
+your-project/
+├── .agent/
+│   └── rules/
+│       └── my-rules.md
+└── GEMINI.md（可选）
+\`\`\`
+
+⚠️ **\`.agent\` 前面有个点**，Windows 要勾选「显示隐藏的文件」才能看到。
+
+### 3. 编码必须是 UTF-8（无 BOM）
+
+- 用 VS Code 打开 → 右下角选「UTF-8」→ 保存
+- 有 BOM 或 GBK 会直接静默不加载
+
+------
+
+## 四、v1.23.2 已知 Bug：首次打开不加载旧规则
+
+现象：从旧版升级到 1.23.2 后，原来的 Workspace 规则列表为空，但文件还在。
+
+### 临时修复（不用删文件）
+
+1. 关闭 Antigravity
+2. 删掉项目里的缓存：
+   \`\`\`plaintext
+   your-project/.agent/cache/
+   \`\`\`
+3. 重新用「Open Folder」打开项目
+4. 再进 Customizations → Rules → Workspace，一般就出来了
+
+------
+
+## 五、日志确认：到底有没有读到规则
+
+1. 右上角 … → **Help → Show Logs**
+2. 搜索关键词：
+   - \`loading workspace rules\`：看是否扫描到 .agent/rules
+   - \`skipped invalid rule file\`：说明文件格式 / 编码错了
+   - \`no workspace rules found\`：路径或文件夹没打开对
+
+------
+
+## 六、最简测试（3 步验证规则是否工作）
+
+1. 新建空文件夹 \`test-rules\`
+2. 里面建：
+   \`\`\`plaintext
+   test-rules/.agent/rules/test.md
+   \`\`\`
+   内容写：
+   \`\`\`md
+   永远用中文回答，开头先写【规则生效】
+   \`\`\`
+3. Antigravity → Open Folder 选 \`test-rules\`
+4. 发一句：\`你好\`
+5. 预期回复：\`【规则生效】你好\`
+
+如果这都不触发：就是版本对 Workspace 规则的识别有问题，可**临时降级到 1.23.1**（官网历史版有），等后续补丁。
+
+------
+
+## 七、一句话总结（你可以直接对照）
+
+1. 必须 **Open Folder**，不是打开文件
+2. 项目规则放 **/.agent/rules/*.md**（点开头、md 后缀）
+3. 编码 **UTF-8 无 BOM**
+4. 1.23.2 有缓存 Bug，删 \`.agent/cache\` 重开
+` + mandatoryFooter
   }
 ].reverse();
 
 // 标签
 export const allTags = [
-  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封', 'Wireshark', 'Windows XP', '抓包', '开发指南', 'Web Worker', 'Service Worker', 'PWA', 'CLAUDE.md', 'Knowledge', 'Workflows', 'AI知识库', '前沿趋势'
+  'AI百科', '2.5G网络', '2026',  'AI', 'AI IDE', 'AI Studio', 'AI工具', 'AI学习', 'AI新闻', 'AI编程', 'AI趋势', 'acme.sh', 'Antigravity', 'Claude', 'DeepSeek', 'Gemini', 'Mac OS', 'Python', '账号解封', 'Wireshark', 'Windows XP', '抓包', '开发指南', 'Web Worker', 'Service Worker', 'PWA', 'CLAUDE.md', 'Knowledge', 'Workflows', 'AI知识库', '前沿趋势', '下载指南', '故障排查', '项目规则'
 ];
 // 合集
 export const allCollections = [
