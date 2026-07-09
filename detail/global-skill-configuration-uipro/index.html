@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/global-skill-configuration-uipro">
 </head>
   <body>
@@ -31,13 +31,114 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">全局技能配置实战：如何在所有项目中通用 UI-UX Pro Max</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-22 · 浏览 2,109 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">深入解析 Antigravity 技能架构的“全局库+项目引用”模式，两步实现在任意项目中全局调用 UI-UX Pro Max 技能，彻底解放生产力。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>深入解析 Antigravity 技能架构的“全局库+项目引用”模式，两步实现在任意项目中全局调用 UI-UX Pro Max 技能，彻底解放生产力。</p>
+      <p>要在<strong>所有项目</strong>中都使用 `UI-UX Pro Max Skill`，你需要理解 Antigravity 的技能架构是**&quot;全局库 + 项目级引用&quot;**的模式。</p>
+<p>简单来说，你需要做两件事：</p>
+<ol>
+<li><strong>全局安装</strong>：把技能包下载到你电脑的&quot;仓库&quot;里（只需做一次）。</li>
+<li><strong>项目配置</strong>：在每个项目中创建一个&quot;遥控器&quot;（Workflow 文件），告诉 Antigravity 去&quot;仓库&quot;里调用这个技能。</li>
+</ol>
+<p>以下是实现&quot;全项目通用&quot;的完整操作指南：</p>
+<h3>🛠️ 第一步：全局安装（只需执行一次）</h3>
+<p>首先，确保你的电脑里已经有了这个技能的&quot;本体&quot;。</p>
+<ol>
+<li>
+<p>打开终端，运行以下命令安装 CLI 工具（如果之前装过可跳过）：</p>
+<p>```bash<br>
+npm install -g uipro-cli<br>
+```</p>
+</li>
+<li>
+<p>安装到当前项目</p>
+<p>```bash</p>
+<h1>Go to your project</h1>
+<p>cd /path/to/your/project</p>
+<h1>Install for your AI assistant</h1>
+<p>uipro init --ai claude      # Claude Code<br>
+uipro init --ai cursor      # Cursor<br>
+uipro init --ai windsurf    # Windsurf<br>
+uipro init --ai antigravity # Antigravity<br>
+```</p>
+</li>
+<li>
+<p>安装到全局目录</p>
+<p>为了确保所有项目都能找到它，建议确认技能已存在于 Antigravity 的全局目录中。</p>
+<ul>
+<li>
+<p><strong>目录路径</strong>：`~/.gemini/antigravity/skills/`</p>
+</li>
+<li>
+<p>操作</p>
+<p>```bash<br>
+cd ~/.gemini/antigravity/skills</p>
+<h1>如果目录下没有 ui-ux-pro-max-skill 文件夹，请运行：</h1>
+<p>git clone <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git</a><br>
+```</p>
+</li>
+<li>
+<p><em>此时，你的全局仓库里已经有了这个技能。</em></p>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3>🔌 第二步：如何在&quot;所有项目&quot;中生效</h3>
+<p>由于 Antigravity 的设计初衷是<strong>项目级隔离</strong>（避免不同项目加载过多无用技能导致变慢），它<strong>没有</strong>一个&quot;一键全局开启&quot;的开关。</p>
+<p>要在每个项目中使用，你有两种策略：</p>
+<h4>策略 A：标准做法（在每个项目中初始化）</h4>
+<p>这是最推荐的做法，因为它会在项目中生成必要的配置文件，确保技能稳定运行。</p>
+<ol>
+<li>
+<p>进入你的项目目录。</p>
+</li>
+<li>
+<p>运行初始化命令：</p>
+<p>```bash<br>
+uipro init --ai antigravity<br>
+```</p>
+</li>
+<li>
+<p><strong>原理</strong>：这个命令会自动在你的项目根目录创建 `.agent/skills/ui-ux-pro-max.md` 文件。这个文件就是&quot;遥控器&quot;，它指向你第一步中安装的全局技能。</p>
+</li>
+<li>
+<p><strong>建议</strong>：将 `.agent/` 目录添加到你的 `.gitignore` 文件中，以免污染代码库。</p>
+</li>
+</ol>
+<h4>策略 B：手动复用（如果你不想在每个项目都敲命令）</h4>
+<p>如果你已经在一个项目中配置好了，想快速应用到另一个项目，可以直接复制配置文件。</p>
+<ol>
+<li>在<strong>已配置好的项目</strong>中，找到 `.agent/skills/ui-ux-pro-max.md` 文件。</li>
+<li>将其<strong>复制</strong>到<strong>新项目</strong>的 `.agent/skills/` 目录下（如果没有该目录则新建）。</li>
+<li>重启 Antigravity，新项目中即可直接通过 `/ui-ux-pro-max` 调用。</li>
+</ol>
+<hr>
+<h3>🚀 第三步：验证与使用</h3>
+<p>配置完成后，你可以在任何项目中通过以下方式验证并使用：</p>
+<ol>
+<li>
+<p><strong>查看技能列表</strong>：<br>
+在 Antigravity 对话框输入 `/`，你应该能看到 `ui-ux-pro-max` 出现在列表中。</p>
+</li>
+<li>
+<p>直接使用</p>
+<p>输入指令即可触发全局技能：</p>
+<blockquote>
+<p>`/ui-ux-pro-max 为这个项目设计一个现代化的登录页面，使用深色模式`</p>
+</blockquote>
+</li>
+</ol>
+<h3>💡 核心提示</h3>
+<ul>
+<li><strong>不要手动修改全局文件</strong>：`~/.gemini/antigravity/skills/` 下的内容是&quot;只读&quot;的库。如果你需要微调技能行为，请在<strong>项目级</strong>的 `.agent/skills/` 文件中修改，或者创建新的 Workflow 文件指向全局库。</li>
+<li><strong>依赖检查</strong>：确保你的每个项目环境（或全局环境）都安装了 <strong>Python 3</strong>，因为 `UI-UX Pro Max` 的核心搜索功能依赖 Python 脚本运行。</li>
+</ul>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

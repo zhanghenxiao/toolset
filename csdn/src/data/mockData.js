@@ -35,8 +35,8 @@ export const contentItems = [
     excerpt: '近期, 不少开发者反映其用于体验 Google 全新 AI IDE Antigravity(或 Gemini CLI)的账号遭到了封禁. 如果你也遇到了同样的问题, 不必惊慌. 本期视频将为你提供一份详尽的官方解封教程, 帮助你抓住这唯一一次的解封机会.',
     tags: [{"name":"账号解封","type":"blue"},{"name":"Antigravity","type":"blue"},{"name":"AI工具","type":"green"}],
     collection: 'AI百科',
-    relatedIds: [13, 2, 3], 
-    recommendationIds: [2, 3, 6, 7],
+    relatedIds: [13, 2, 7],
+    recommendationIds: [2, 7, 6, 8],
     gallery: [unbanGuideThumb],
     markdownContent: `
 > 1. 账号解封url
@@ -91,8 +91,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
     excerpt: '2026年2月12日, 科技圈迎来一次震动, 许多开发者登录 Google 的前沿 AI IDE Antigravity时, 惊讶地发现自己的账号已被封禁. 这次事件波及范围广泛, 从普通用户到付费的Pro乃至Ultra用户都未能幸免...',
     tags: [{"name":"封号事件","type":"blue"},{"name":"AI工具","type":"blue"},{"name":"Antigravity","type":"green"}],
     collection: 'AI百科',
-    relatedIds: [1, 3, 4], 
-    recommendationIds: [3, 4, 7, 8],
+    relatedIds: [1, 7, 4],
+    recommendationIds: [7, 4, 8, 9],
     gallery: [antigravityThumb],
     markdownContent: `
 # Google AI IDE Antigravity 2026大规模封号事件深度解析: 原因与应对策略
@@ -144,75 +144,6 @@ https://docs.google.com/forms/d/e/1FAIpQLScOJWibQ_-hYuVv63kJTgEqlgAaOwRLGFTbXm-Q
 ### 总结
 
 这次 Antigravity 封号事件是一个明确的信号: AI 服务的“蛮荒时代”正在结束. 平台方正利用其技术优势, 以前所未有的效率和精度来执行规则. 对于开发者而言, 理解并尊重规则, 将是未来在AI浪潮中稳健前行的关键.
-` + mandatoryFooter
-  },
-  {
-    id: 3,
-    slug: 'llm-open-source-panic-v2',
-    title: 'AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?',
-    image: llmPanicThumb,
-    date: '2026-04-07',
-    author: '数维探索',
-    views: '1,500',
-    category: '视频',
-    duration: '06:30',
-    excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本视频将带你深入探究这一话题的来龙去脉。',
-    tags: [{ name: 'AI趋势', type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
-    collection: 'AI百科',
-    relatedIds: [1, 7, 14], 
-    recommendationIds: [2, 7, 8, 12],
-    gallery: [llmPanicThumb],
-    markdownContent: `
-# AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
-
-## 开源模型的“闭源”风波: 是恐慌还是未来?
-
-近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本视频将带你深入探究这一话题的来龙去脉。
-
-### 传闻的源头与真相
-
-一切始于几则看似孤立的行业动态:
-
-- **智谱AI (GLM)**: 官方发布海报安抚社区，承诺 GLM-5.1 将继续开源，这本身就暗示了社区存在恐慌情绪。与此同时，其为特定场景定制的 \`GLM-Turbo\` 模型并未开源。
-- **MiniMax** 和 **小米 (Xiaomi)**: 其新发布的 \`MM-2.7\` 和 \`MiMo-V2-Pro\` 模型同样在发布之初选择了不开源。
-
-然而，经过深入挖掘，我们发现情况更为复杂:
-
-- **MiniMax** 的模型据传只是 **推迟开源**。
-- **小米** 的 \`MiMo-V2-Flash\` 已经开源，并承诺未来将有更多模型开放。
-
-这种商业时代下的不确定性，加上许多模型在宣传时声称“对标或优化了顶级闭源模型”却不开放权重，自然会引发开发者的联想和担忧。
-
-### 开源的两种模式: 你真的了解吗?
-
-视频中用一个生动的“做蛋糕”比喻，解释了开源的两种主流形式:
-
-1. **权重开源 (Weight Open-Source)**: 就像给你一个做好的蛋糕。你可以直接“吃”（使用模型），也可以在上面加奶油（进行微调）。代表模型有 **Qwen (通义千问)** 和 **GLM**。
-2. **完整开源 (Fully Open-Source)**: 不仅给你蛋糕，还附上烤箱设计图和独家烘焙秘方（训练代码、数据集等）。这对于学习和研究意义重大。代表模型是 **DeepSeek**。
-
-### 开源与商业: 混合模式是更优解?
-
-开源与闭源并非完全对立，二者结合往往能形成更成功的商业模式。
-
-- **“开源引流，闭源盈利”**: 厂商通过开源中小型模型构建社区生态，吸引用户，而将最顶尖、性能最强的“Max”或“Turbo”系列作为闭源的商业化产品。Qwen 和 GLM 都是这一策略的踐行者。
-- **理想模式展望**: 视频作者提出了一个大胆的设想——当新一代模型发布时，将上一代模型开源。这虽然充满挑战，但或许能平衡商业利益和社区贡献。
-
-有趣的是，作者认为，当前许多模型的开源并非完全自愿，而是在 **DeepSeek** 毅然决然地选择完整开源后，被市场“推”了一把的结果。因此，未来部分模型选择闭源，是符合商业逻辑的正常现象。
-
-### 对个人和中小企业的影响微乎其微
-
-对于绝大多数个人用户和小型公司而言，顶级大模型（如400B参数量）即使开源，本地部署的硬件门槛和技术难度也极高。因此，我们更应该关注 **小参数模型的开源情况**，这才是真正触手可及的资源。对于极少数因隐私需求而必须自部署的用户，其市场占比过小，难以影响厂商的整体战略。
-
-### 现阶段模型选择建议
-
-- **搜索任务**: 优先考虑 **Grok**
-- **编程辅助**: **Opus-4.6** 或 **GPT-5.4 (Codex驱动)** 是当前的最优解。
-- **UI设计**: **Gemini-3.1-Pro (满血版)** 是目前的首选。
-- **本地部署**: 考虑 **Qwen** 或其他模型的小参数版本。
-
-### 结语
-
-AI 发展的历史车轮滚滚向前，不会因为某个模型的闭源而停滞。我们特别要感谢 **DeepSeek** 为开源社区做出的不可磨灭的贡献，它的行动惠及了每一位开发者。无论未来风云如何变幻，持续学习、拥抱变化，才是我们在AI时代立于不败之地的关键。
 ` + mandatoryFooter
   },
   {
@@ -390,8 +321,8 @@ function proxy_off() {
     excerpt: '近期，AI 社区中流传着一个令人不安的消息: 许多主流的开源大语言模型（LLM）可能会转向闭源。这个传闻并非空穴来风，本文将带你深入探究这一话题的来龙去脉。',
     tags: [{ name: 'AI趋势',type: 'blue' }, { name: 'LLM', type: 'blue' }, { name: '开源', type: 'green' }],
     collection: 'AI百科',
-    relatedIds: [3, 8, 12], 
-    recommendationIds: [3, 12, 14, 15],
+    relatedIds: [8, 12, 14],
+    recommendationIds: [12, 14, 15, 2],
     gallery: [thumb2],
     markdownContent: `
 # AI开源大模型LLM的“闭源”恐慌: 一场虚惊还是行业趋势的开端?
@@ -729,7 +660,7 @@ https://pan.quark.cn/s/51502e7068de?pwd=fDLE
     tags: [{ name: 'Leaflet', type: 'blue' }, { name: '地图', type: 'blue' }],
     collection: '数维探索工具箱',
     relatedIds: [13, 1, 2], 
-    recommendationIds: [1, 2, 3, 11], 
+    recommendationIds: [1, 2, 7, 11], 
     gallery: [],
     markdownContent: `
 
@@ -912,7 +843,7 @@ https://pan.quark.cn/s/03159145f730
     tags: [{ name: 'Antigravity', type: 'blue' }, { name: 'AI工具', type: 'blue' }, { name: '开发指南', type: 'green' }],
     collection: 'AI百科',
     relatedIds: [1, 2, 9, 13], 
-    recommendationIds: [2, 3, 9, 13],
+    recommendationIds: [2, 7, 9, 13],
     gallery: [antigravityGuideThumb],
     markdownContent: `
 ### 🚀 Google Antigravity：2026 年 AI 编程终极指南

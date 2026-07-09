@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/offline-leaflet-map">
 </head>
   <body>
@@ -31,13 +31,47 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">Leaflet 离线地图下载与加载教程</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-02 · 浏览 1,200 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">本教程详细介绍了下载离线地图瓦片的两种方式（osm 和 MapTileDownloader），并提供了在 Leaflet 中加载离线地图的代码示例。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>本教程详细介绍了下载离线地图瓦片的两种方式（osm 和 MapTileDownloader），并提供了在 Leaflet 中加载离线地图的代码示例。</p>
+      <h1>效果图：</h1>
+<img src='/12/1.png'>
+<h1>一 下载离线地图的二种方式</h1>
+<h2>1.osm 的方式下载瓦片</h2>
+<img src='/12/2.png'>
+<h2>2、下载MapTileDownloader</h2>
+<p>文件格式选为瓦片!<br>
+<img src='/12/3.png'></p>
+<h1>二 代码（推荐使用osm方式）</h1>
+<blockquote>
+<p>```html</p>
+ <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>offline-leaflet-map-ID15</title><link rel="stylesheet" href="./leaflet/leaflet.css"/><script src="./leaflet/leaflet.js"></script><style>html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden;}#my-offline-leaflet-map{width:100%;height:100%;}</style></style></head><body><div id="my-offline-leaflet-map"></div><script>
+<p>var mymap=L.map('my-offline-leaflet-map',</p>
+<p>{minZoom:9,maxZoom:10})</p>
+<p>.setView([29.55402225, 106.54383115], 9);<br>
+L.TileLayer.Custom = L.TileLayer.extend({getTileUrl : function(coords){<br>
+url='./newtask/'+coords.z+'/'+coords.x+'/'+coords.y+'.png';<br>
+return url;}</p>
+<p>});<br>
+L.tileLayer.Custom = function(){return new L.TileLayer.Custom();}<br>
+L.tileLayer.Custom().addTo(mymap);</p>
+</script>
+</body>
+</html>
+ \`\`\`
+</blockquote>
+<h1>三 osm和MapTileDownloader 下载方式</h1>
+<p>官方tool下载地址：<a href="http://www.allmapsoft.com/">http://www.allmapsoft.com/</a></p>
+<p>夸克网盘：<br>
+```html<br>
+osm下载：<a href="https://pan.quark.cn/s/996f10a338d0?pwd=VUXq">https://pan.quark.cn/s/996f10a338d0?pwd=VUXq</a></p>
+<p>MapTileDownloader下载链接：<a href="https://pan.quark.cn/s/369d3d7cd970?pwd=bbvL">https://pan.quark.cn/s/369d3d7cd970?pwd=bbvL</a><br>
+```</p>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

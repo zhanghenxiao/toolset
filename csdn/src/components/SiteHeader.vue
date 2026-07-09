@@ -22,6 +22,7 @@
         <ul>
           <li @click="closeMenu"><router-link to="/" exact-active-class="active">{{ $t('nav.home') }}</router-link></li>
           <li @click="closeMenu"><router-link to="/tools" active-class="active">{{ $t('nav.tools') }}</router-link></li>
+          <li @click="closeMenu"><router-link to="/about" active-class="active">{{ $t('nav.about') }}</router-link></li>
         </ul>
       </nav>
 

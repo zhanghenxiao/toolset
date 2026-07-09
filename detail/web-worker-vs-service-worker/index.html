@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/web-worker-vs-service-worker">
 </head>
   <body>
@@ -31,13 +31,418 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">Web Worker vs Service Worker：多线程与离线缓存深度对比（含PWA实战）</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-21 · 浏览 1,000 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">深入对比 Web Worker 与 Service Worker 的核心区别：前者专注 CPU 密集型后台计算，后者充当网络代理实现离线缓存与 PWA。本文含完整代码示例与 PWA 实战项目结构。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>深入对比 Web Worker 与 Service Worker 的核心区别：前者专注 CPU 密集型后台计算，后者充当网络代理实现离线缓存与 PWA。本文含完整代码示例与 PWA 实战项目结构。</p>
+      <p><strong>Web Worker</strong> 和 <strong>Service Worker</strong> 都是浏览器提供的 JavaScript 多线程技术，但它们的用途和工作方式有显著区别。</p>
+<table>
+<thead>
+<tr>
+<th><strong>对比项</strong></th>
+<th><strong>Web Worker</strong></th>
+<th><strong>Service Worker</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>用途</strong></td>
+<td>用于在后台线程执行 CPU 密集型任务，避免阻塞主线程</td>
+<td>主要用于离线缓存、网络请求拦截、推送通知等 PWA（渐进式 Web 应用）功能</td>
+</tr>
+<tr>
+<td><strong>生命周期</strong></td>
+<td>由页面创建，页面关闭后终止</td>
+<td>独立于页面，即使页面关闭也能运行（直到被浏览器终止）</td>
+</tr>
+<tr>
+<td><strong>DOM 访问</strong></td>
+<td>❌ 不能访问 DOM</td>
+<td>❌ 不能访问 DOM</td>
+</tr>
+<tr>
+<td><strong>网络请求</strong></td>
+<td>⚠️ 可以发起 `fetch`，但不能拦截请求</td>
+<td>✅ 可以拦截、修改网络请求（`fetch` 事件）</td>
+</tr>
+<tr>
+<td><strong>存储能力</strong></td>
+<td>⚠️ 可使用 `IndexedDB`、`localStorage`（同步 API 不可用）</td>
+<td>✅ 可使用 `Cache API`、`IndexedDB`</td>
+</tr>
+<tr>
+<td><strong>通信方式</strong></td>
+<td>✅ `postMessage` 与主线程通信</td>
+<td>✅ 通过 `postMessage` 与页面通信，也支持 `BroadcastChannel`</td>
+</tr>
+<tr>
+<td><strong>典型应用场景</strong></td>
+<td>大数据计算、图像处理、复杂算法</td>
+<td>离线缓存、资源预加载、后台同步、推送通知</td>
+</tr>
+<tr>
+<td><strong>注册方式</strong></td>
+<td>`new Worker('worker.js')`</td>
+<td>`navigator.serviceWorker.register('sw.js')`</td>
+</tr>
+<tr>
+<td><strong>作用范围</strong></td>
+<td>仅影响当前页面</td>
+<td>可控制多个页面（作用域内）</td>
+</tr>
+<tr>
+<td><strong>是否支持 `importScripts`</strong></td>
+<td>✅ 支持</td>
+<td>✅ 支持</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Web Worker（专用 Worker）</strong></h2>
+<ul>
+<li><strong>用途</strong>：在独立线程运行脚本，防止主线程卡顿（如计算、数据处理）。</li>
+<li><strong>特点</strong>：
+<ul>
+<li>由页面创建，页面关闭后 Worker 终止。</li>
+<li>不能访问 DOM、`window`、`document`。</li>
+<li>通过 `postMessage` 与主线程通信。</li>
+</ul>
+</li>
+</ul>
+<p>```html</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 主线程 main.js
+const worker = new Worker('./worker.js');
+<p>// 接收消息<br>
+worker.onmessage = function(e) {<br>
+console.log('1111');<br>
+console.log('收到Worker消息:', e.data);<br>
+};</p>
+<p>// 发送消息<br>
+worker.postMessage('开始计算zzz');<br>
+&lt;/script&gt;</p>
+</body>
+</html>
+\`\`\`
+<p>还需要执行的worker.js</p>
+<p>```javascript<br>
+// worker.js<br>
+self.onmessage = function(e) {<br>
+console.log('收到主线程消息:', e.data);</p>
+<pre><code>// 模拟耗时计算
+const result = heavyCalculation();
+
+// 发送结果
+self.postMessage(result);
+</code></pre>
+<p>};</p>
+<p>function heavyCalculation() {<br>
+// 复杂计算逻辑<br>
+let sum = 0;<br>
+for(let i = 0; i &lt; 9999; i++) {<br>
+sum += i;<br>
+}<br>
+return sum;<br>
+}<br>
+```</p>
+<h2><strong>Service Worker 实现PWA页面</strong></h2>
+<ul>
+<li><strong>用途</strong>：充当网络代理，实现离线缓存、资源预加载、后台同步等 PWA 功能。</li>
+<li><strong>特点</strong>：
+<ul>
+<li>独立于页面运行，即使页面关闭也能存活（用于后台同步、推送通知）。</li>
+<li>可以拦截 `fetch` 请求，返回缓存数据。</li>
+<li>必须通过 HTTPS（本地开发允许 `localhost`）。</li>
+</ul>
+</li>
+</ul>
+<p>需要注意的是使用http-server -c-1启动服务需要使用这样的地址访问<a href="http://127.0.0.1:8080/"> http://127.0.0.1:8080/</a> 才能正常激活service worker</p>
+<img src='/15/1.png'>
+<h3>目录结构</h3>
+<h4>index.html</h4>
+<p>```html</p>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service Worker 示例</title>
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+    <h1>Service Worker 演示</h1>
+    <img src="./images/logo.png" alt="Logo">
+    <script src="./scripts/app.js"><\/script>
+    <script>
+        // 注册 Service Worker
+        if ('serviceWorker' in navigator) {
+            console.log('浏览器支持 Service Worker');
+            // 直接执行注册代码
+            navigator.serviceWorker.register('./sw.js')
+               .then(registration => {
+                    console.log('ServiceWorker 注册成功: ', registration.scope);
+                })
+               .catch(err => {
+                    console.error('ServiceWorker 注册失败，错误信息:', err.message, '错误堆栈:', err.stack);
+                });
+        } else {
+            console.log('浏览器不支持 Service Worker');
+        }
+    <\/script>
+</body>
+</html>
+\`\`\`
+<h4>sw.js</h4>
+<p>```javascript<br>
+const CACHE_NAME = 'my-site-cache-v1';<br>
+// 修改资源路径<br>
+const ASSETS_TO_CACHE = [<br>
+'./',<br>
+'./index.html', // 离线回退页面<br>
+'./styles/main.css',<br>
+'./scripts/app.js',<br>
+'./images/logo.png'<br>
+];</p>
+<p>// 安装阶段 - 缓存静态资源<br>
+self.addEventListener('install', event =&gt; {<br>
+event.waitUntil(<br>
+caches.open(CACHE_NAME)<br>
+.then(cache =&gt; {<br>
+console.log('正在缓存核心资源');<br>
+return cache.addAll(ASSETS_TO_CACHE);<br>
+})<br>
+.catch(err =&gt; {<br>
+console.log('缓存失败: ', err);<br>
+})<br>
+);<br>
+})</p>
+<p>// 激活阶段 - 清理旧缓存<br>
+self.addEventListener('activate', event =&gt; {<br>
+event.waitUntil(<br>
+caches.keys().then(cacheNames =&gt; {<br>
+return Promise.all(<br>
+cacheNames.map(cacheName =&gt; {<br>
+if (cacheName !== CACHE_NAME) {<br>
+console.log('删除旧缓存: ', cacheName);<br>
+return caches.delete(cacheName);<br>
+}<br>
+})<br>
+);<br>
+})<br>
+);<br>
+});</p>
+<p>// 拦截请求 - 缓存优先策略<br>
+self.addEventListener('fetch', event =&gt; {<br>
+event.respondWith(<br>
+caches.match(event.request)<br>
+.then(response =&gt; {<br>
+// 命中缓存则返回，否则网络请求<br>
+return response || fetch(event.request);<br>
+})<br>
+);<br>
+});</p>
+<p>// 后台同步示例（需配合 SyncManager API）<br>
+self.addEventListener('sync', (event) =&gt; {<br>
+if (event.tag === 'sync-data') {<br>
+event.waitUntil(sendOfflineData());<br>
+}<br>
+});</p>
+<p>async function sendOfflineData() {<br>
+// 在这里实现后台同步逻辑（如提交离线数据到服务器）<br>
+console.log('后台同步执行...');<br>
+}<br>
+```</p>
+<h4>styles/main.css</h4>
+<p>```css<br>
+.img {<br>
+height: 100px;<br>
+width: 100px;<br>
+}<br>
+```</p>
+<h4>scripts/app.js</h4>
+<p>```javascript<br>
+console.log('主应用脚本已加载1');</p>
+<p>// 检查 Service Worker 更新<br>
+if ('serviceWorker' in navigator) {<br>
+navigator.serviceWorker.ready.then(registration =&gt; {<br>
+registration.addEventListener('updatefound', () =&gt; {<br>
+const newWorker = registration.installing;<br>
+console.log('发现新版本 Service Worker');</p>
+<pre><code>  newWorker.addEventListener('statechange', () =&gt; {
+    if (newWorker.state === 'installed') {
+      if (navigator.serviceWorker.controller) {
+        console.log('新内容已下载，刷新页面即可使用');
+        // 这里可以添加 UI 提示用户刷新
+      } else {
+        console.log('内容已缓存，可离线使用');
+      }
+    }
+  });
+});
+</code></pre>
+<p>});<br>
+}<br>
+```</p>
+<h3><strong>关键功能说明</strong></h3>
+<ol>
+<li><strong>预缓存静态资源</strong>
+<ul>
+<li>在 `install` 阶段缓存 `ASSETS_TO_CACHE` 列表中的文件（如 HTML、CSS、JS）。</li>
+</ul>
+</li>
+<li><strong>动态缓存</strong>
+<ul>
+<li>在 `fetch` 事件中，优先返回缓存，若无则请求网络并缓存响应。</li>
+</ul>
+</li>
+<li><strong>离线回退</strong>
+<ul>
+<li>当网络请求失败且请求的是 HTML 时，返回 `fallback.html`。</li>
+</ul>
+</li>
+<li><strong>缓存清理</strong>
+<ul>
+<li>在 `activate` 阶段删除旧版本的缓存。</li>
+</ul>
+</li>
+<li><strong>后台同步</strong>
+<ul>
+<li>监听 `sync` 事件，在恢复网络后执行离线任务（需浏览器支持）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3><strong>测试 Service Worker</strong></h3>
+<ol>
+<li><strong>首次加载</strong>
+<ul>
+<li>打开页面，检查 DevTools → Application → Service Workers 是否注册成功。</li>
+<li>在 Cache Storage 中应看到缓存的静态资源。</li>
+</ul>
+</li>
+<li><strong>离线测试</strong>
+<ul>
+<li>关闭网络，刷新页面，静态资源应能正常加载。</li>
+</ul>
+</li>
+<li><strong>更新 Service Worker</strong>
+<ul>
+<li>修改 `sw.js` 或 `CACHE_NAME` 版本号，重新加载页面触发更新。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3><strong>注意事项</strong></h3>
+<ul>
+<li><strong>HTTPS 要求</strong>：生产环境必须使用 HTTPS（本地开发可用 `localhost`）。</li>
+<li><strong>缓存策略</strong>：根据业务需求调整缓存逻辑（如不缓存 API 请求）。</li>
+<li><strong>作用域</strong>：`scope` 决定 SW 控制的页面范围（如 `/app/` 下的页面）。</li>
+</ul>
+<p>通过这个示例，你可以快速实现一个支持离线访问的 PWA 应用！</p>
+<h2>PWA（<strong>Progressive Web App</strong>，渐进式网页应用）</h2>
+<p>是一种结合网页和原生应用优势的技术，通过现代 Web 技术提供类似原生应用的体验。以下是它的核心特点和解释：</p>
+<hr>
+<h3><strong>1. 核心特点</strong></h3>
+<ul>
+<li><strong>可离线使用</strong>：通过 Service Worker 缓存资源，即使无网络也能访问。</li>
+<li><strong>安装到桌面</strong>：用户可将网页添加到主屏幕，像独立应用一样启动（无需应用商店）。</li>
+<li><strong>响应式设计</strong>：适配手机、平板、电脑等多种设备。</li>
+<li><strong>推送通知</strong>：支持消息推送（类似原生 App）。</li>
+<li><strong>安全性</strong>：必须运行在 HTTPS 环境下，确保数据安全。</li>
+</ul>
+<hr>
+<h3><strong>2. 关键技术</strong></h3>
+<ul>
+<li><strong>Service Worker</strong>：后台运行的脚本，管理缓存和离线功能。</li>
+<li><strong>Web App Manifest</strong>：JSON 文件，定义应用名称、图标、启动样式等。</li>
+<li><strong>HTTPS</strong>：强制要求，保证安全性。</li>
+<li><strong>App Shell 架构</strong>：快速加载核心界面框架，提升性能。</li>
+</ul>
+<hr>
+<h3><strong>3. 优势 vs 传统网页/原生应用</strong></h3>
+<table>
+<thead>
+<tr>
+<th><strong>对比项</strong></th>
+<th><strong>PWA</strong></th>
+<th><strong>传统网页</strong></th>
+<th><strong>原生应用</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>安装方式</td>
+<td>浏览器添加到主屏幕</td>
+<td>仅浏览器访问</td>
+<td>应用商店下载</td>
+</tr>
+<tr>
+<td>离线功能</td>
+<td>✅ 支持</td>
+<td>❌ 不支持</td>
+<td>✅ 支持</td>
+</tr>
+<tr>
+<td>更新</td>
+<td>自动（Service Worker）</td>
+<td>实时刷新</td>
+<td>需应用商店审核</td>
+</tr>
+<tr>
+<td>开发成本</td>
+<td>低（Web 技术）</td>
+<td>最低</td>
+<td>高（需多平台开发）</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3><strong>4. 典型应用场景</strong></h3>
+<ul>
+<li>电商（如 AliExpress、京东 Lite）</li>
+<li>社交媒体（Twitter Lite）</li>
+<li>新闻博客（内容型网站）</li>
+<li>工具类应用（计算器、天气预报）</li>
+</ul>
+<h2><strong>总结</strong></h2>
+<table>
+<thead>
+<tr>
+<th><strong>场景</strong></th>
+<th><strong>选择</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>需要后台计算（如大数据处理）</td>
+<td><strong>Web Worker</strong></td>
+</tr>
+<tr>
+<td>需要离线缓存、拦截网络请求</td>
+<td><strong>Service Worker</strong></td>
+</tr>
+<tr>
+<td>需要推送通知、后台同步</td>
+<td><strong>Service Worker</strong></td>
+</tr>
+<tr>
+<td>需要多线程并行计算</td>
+<td><strong>Web Worker</strong> 或 <strong>Shared Worker</strong>（跨页面通信）</td>
+</tr>
+</tbody>
+</table>
+<p>两者可以结合使用，例如用 <strong>Web Worker</strong> 处理数据，用 <strong>Service Worker</strong> 缓存结果。</p>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

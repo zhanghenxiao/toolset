@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/cli-proxy-settings-ai-beginners">
 </head>
   <body>
@@ -31,13 +31,48 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">AI新手必备: 命令行代理设置终极教程(临时与永久)</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-07 · 浏览 2,100 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">在探索AI的世界时，网络限制常是第一道坎。本指南手把手教你如何为命令行设置临时与永久代理，助你高效学习。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>在探索AI的世界时，网络限制常是第一道坎。本指南手把手教你如何为命令行设置临时与永久代理，助你高效学习。</p>
+      <h1>AI新手必备: 命令行代理设置终极教程(临时与永久)</h1>
+<h2>告别网络错误: AI新手的命令行代理完全指南</h2>
+<p>在探索人工智能(AI)的广阔世界时，许多新手开发者会遇到一个共同的障碍: 由于网络限制，无法顺利访问所需的资源、库或模型。这个问题通常可以通过为命令行(Terminal)设置代理来解决。本指南将教你如何配置代理，让你专注于学习和创造。</p>
+<h3>为什么需要为命令行设置代理？</h3>
+<p>许多AI工具、包管理器(如pip、conda)和版本控制系统(如Git)都需要通过命令行访问国际网络资源。如果你的网络环境受限，就会导致下载失败、连接超时等一系列问题。</p>
+<h3>方法一: 一次性临时代理</h3>
+<p>这种方法最简单快捷，适合临时性的任务。它只在当前的终端窗口中生效。</p>
+<p><strong>核心步骤:</strong></p>
+<ol>
+<li><strong>设置代理</strong>:<br>
+```bash<br>
+export https_proxy=<a href="http://127.0.0.1:7890">http://127.0.0.1:7890</a><br>
+export http_proxy=<a href="http://127.0.0.1:7890">http://127.0.0.1:7890</a><br>
+```</li>
+<li><strong>验证代理</strong>: `echo $https_proxy`</li>
+<li><strong>测试连接</strong>: `curl -I <a href="https://www.google.com">https://www.google.com</a>`</li>
+<li><strong>取消代理</strong>: `unset https_proxy`</li>
+</ol>
+<h3>方法二: 一劳永逸的自动化代理</h3>
+<p>修改终端的配置文件(如 `~/.zshrc` 或 `~/.bash_profile`)。</p>
+<p><strong>配置示例:</strong><br>
+```shell</p>
+<h1>Proxy Functions</h1>
+<p>function proxy_on() {<br>
+export https_proxy=<a href="http://127.0.0.1:7890">http://127.0.0.1:7890</a><br>
+export http_proxy=<a href="http://127.0.0.1:7890">http://127.0.0.1:7890</a><br>
+echo &quot;Proxy has been enabled.&quot;<br>
+}</p>
+<p>function proxy_off() {<br>
+unset https_proxy<br>
+unset http_proxy<br>
+echo &quot;Proxy has been disabled.&quot;<br>
+}<br>
+```</p>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

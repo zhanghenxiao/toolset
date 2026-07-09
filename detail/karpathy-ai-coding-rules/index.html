@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/karpathy-ai-coding-rules">
 </head>
   <body>
@@ -31,13 +31,127 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">GitHub 6万星！Karpathy 的 AI 编码铁律：如何让 AI 乖乖写代码（附 Antigravity Knowledge 配置教程）</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-22 · 浏览 8,623 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">GitHub 趋势榜第一、Star 破6万的 AI 编码规范项目——基于 Karpathy 经验的4条铁律，配合 Antigravity Knowledge 全局配置，让 AI 写出更可控的代码。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>GitHub 趋势榜第一、Star 破6万的 AI 编码规范项目——基于 Karpathy 经验的4条铁律，配合 Antigravity Knowledge 全局配置，让 AI 写出更可控的代码。</p>
+      <p>这是目前 GitHub 前端/AI 圈最火的方向。因为大家都在用 AI 写代码，发现 AI 容易&quot;放飞自我&quot;（写得太复杂、乱改代码），所以大神们总结了一套**&quot;如何让 AI 乖乖写代码&quot;**的知识库。</p>
+<ul>
+<li>
+<p><strong>项目名称</strong>：<strong>`andrej-karpathy-skills`</strong> (或者叫 `CLAUDE.md` 规范)</p>
+</li>
+<li>
+<p><strong>火爆程度</strong>：一周内冲上趋势榜第一，Star 数破 6 万。</p>
+</li>
+<li>
+<p>核心内容</p>
+<p>这不是代码，而是一份 Markdown 文档。它基于 AI 大神 Andrej Karpathy 的经验，总结了 4 条 AI 必须遵守的铁律：</p>
+<ol>
+<li><strong>编码前思考</strong>：遇到歧义先问，别瞎猜。</li>
+<li><strong>简洁优先</strong>：能用 50 行写完，绝不写 200 行（拒绝过度抽象）。</li>
+<li><strong>精准修改</strong>：只改必须改的地方，别顺手重构别人的代码。</li>
+<li><strong>目标驱动</strong>：先写测试复现 Bug，再修复它。</li>
+</ol>
+</li>
+<li>
+<p><strong>怎么用</strong>：<br>
+你可以直接把它的核心内容复制到你 Antigravity 的 `knowledge` 目录里，或者在项目根目录放一个 `CLAUDE.md` 文件。这能极大提升 AI 写前端代码的&quot;听话程度&quot;。</p>
+</li>
+</ul>
+<p>全局添加 Antigravity 的 Knowledge（知识库）非常简单，这相当于给你的 AI 装上一个&quot;永久记忆体&quot;。一旦配置好，无论你打开哪个项目，AI 都会自动读取这些规则，不需要重复配置。</p>
+<p>以下是具体的操作步骤：</p>
+<h3>第一步：找到或创建全局目录</h3>
+<p>`Antigravity`的全局配置通常存储在用户主目录下的 `.gemini` 文件夹中。</p>
+<ol>
+<li>
+<p><strong>打开文件资源管理器</strong>（Windows）或 <strong>访达</strong>（Mac）。</p>
+</li>
+<li>
+<p>进入以下路径</p>
+<ul>
+<li><strong>Windows</strong>: `C:\\Users\\你的用户名\\.gemini\\antigravity\\`</li>
+<li><strong>Mac / Linux</strong>: `~/.gemini/antigravity/`</li>
+</ul>
+</li>
+<li>
+<p>检查目录</p>
+<p>查看是否存在名为 `knowledge` 的文件夹。</p>
+<ul>
+<li><strong>如果没有</strong>：请手动新建一个文件夹，命名为 `knowledge`。</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>小贴士</strong>：`.gemini` 是隐藏文件夹。</p>
+<ul>
+<li><strong>Windows</strong>: 如果看不到，需要在查看选项中勾选&quot;隐藏的项目&quot;。</li>
+<li><strong>Mac</strong>: 在访达中按 `Command + Shift + .` 可以显示隐藏文件。</li>
+</ul>
+</blockquote>
+<p>把对应的CLAUDE.md放在`knowledge`这个文件夹下面即可</p>
+<p>```markdown</p>
+<h1><a href="http://CLAUDE.md">CLAUDE.md</a></h1>
+<p>Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.</p>
+<p><strong>Tradeoff:</strong> These guidelines bias toward caution over speed. For trivial tasks, use judgment.</p>
+<h2>1. Think Before Coding</h2>
+<p><strong>Don't assume. Don't hide confusion. Surface tradeoffs.</strong></p>
+<p>Before implementing:</p>
+<ul>
+<li>State your assumptions explicitly. If uncertain, ask.</li>
+<li>If multiple interpretations exist, present them - don't pick silently.</li>
+<li>If a simpler approach exists, say so. Push back when warranted.</li>
+<li>If something is unclear, stop. Name what's confusing. Ask.</li>
+</ul>
+<h2>2. Simplicity First</h2>
+<p><strong>Minimum code that solves the problem. Nothing speculative.</strong></p>
+<ul>
+<li>No features beyond what was asked.</li>
+<li>No abstractions for single-use code.</li>
+<li>No &quot;flexibility&quot; or &quot;configurability&quot; that wasn't requested.</li>
+<li>No error handling for impossible scenarios.</li>
+<li>If you write 200 lines and it could be 50, rewrite it.</li>
+</ul>
+<p>Ask yourself: &quot;Would a senior engineer say this is overcomplicated?&quot; If yes, simplify.</p>
+<h2>3. Surgical Changes</h2>
+<p><strong>Touch only what you must. Clean up only your own mess.</strong></p>
+<p>When editing existing code:</p>
+<ul>
+<li>Don't &quot;improve&quot; adjacent code, comments, or formatting.</li>
+<li>Don't refactor things that aren't broken.</li>
+<li>Match existing style, even if you'd do it differently.</li>
+<li>If you notice unrelated dead code, mention it - don't delete it.</li>
+</ul>
+<p>When your changes create orphans:</p>
+<ul>
+<li>Remove imports/variables/functions that YOUR changes made unused.</li>
+<li>Don't remove pre-existing dead code unless asked.</li>
+</ul>
+<p>The test: Every changed line should trace directly to the user's request.</p>
+<h2>4. Goal-Driven Execution</h2>
+<p><strong>Define success criteria. Loop until verified.</strong></p>
+<p>Transform tasks into verifiable goals:</p>
+<ul>
+<li>&quot;Add validation&quot; -&gt; &quot;Write tests for invalid inputs, then make them pass&quot;</li>
+<li>&quot;Fix the bug&quot; -&gt; &quot;Write a test that reproduces it, then make it pass&quot;</li>
+<li>&quot;Refactor X&quot; -&gt; &quot;Ensure tests pass before and after&quot;</li>
+</ul>
+<p>For multi-step tasks, state a brief plan:</p>
+<ol>
+<li>[Step] -&gt; verify: [check]</li>
+<li>[Step] -&gt; verify: [check]</li>
+<li>[Step] -&gt; verify: [check]</li>
+</ol>
+<p>Strong success criteria let you loop independently. Weak criteria (&quot;make it work&quot;) require constant clarification.<br>
+```</p>
+<p><strong>Trae</strong> 的全局配置通常在用户主目录下：<br>
+Windows: `C:\\Users\\你的用户名\\.trae\\`<br>
+Mac: `~/.trae/`<br>
+创建规则文件<br>
+在 .trae 目录下，找到或新建一个名为 rules 或 knowledge 的文件夹。</p>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

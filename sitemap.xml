@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://toolset.site/</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://toolset.site/tools</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://toolset.site/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.3</priority><lastmod>2026-05-18</lastmod></url>
+  <url><loc>https://toolset.site/</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2026-07-09</lastmod></url>
+  <url><loc>https://toolset.site/about</loc><changefreq>monthly</changefreq><priority>0.6</priority><lastmod>2026-07-09</lastmod></url>
+  <url><loc>https://toolset.site/tools</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>2026-07-09</lastmod></url>
+  <url><loc>https://toolset.site/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.3</priority><lastmod>2026-07-09</lastmod></url>
   <url><loc>https://toolset.site/detail/antigravity-unban-guide</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
   <url><loc>https://toolset.site/detail/antigravity-2026-ban-analysis</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
-  <url><loc>https://toolset.site/detail/llm-open-source-panic-v2</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
   <url><loc>https://toolset.site/detail/cli-proxy-settings-ai-beginners</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
   <url><loc>https://toolset.site/detail/ai-engineer-rules-and-workflows</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
   <url><loc>https://toolset.site/detail/gemini-3-1-pro-hongkong</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-04-07</lastmod></url>
