@@ -5,6 +5,9 @@
  */
 const fs = require('fs');
 const path = require('path');
+const MarkdownIt = require('markdown-it');
+
+const mdRenderer = new MarkdownIt({ html: true, linkify: true, breaks: true });
 
 // 输出目录（网站根目录）
 const outDir = path.resolve(__dirname, '../../');
@@ -24,11 +27,17 @@ const mockDataRaw = fs.readFileSync(mockDataPath, 'utf-8');
 // ─────────────────────────────────────────────
 function extractItems(src) {
     const items = [];
-    // 逐段提取对象块
-    const blockRe = /\{\s*id:\s*(\d+),\s*slug:\s*'([^']+)'([\s\S]*?)(?=\},\s*\{|\}\s*\])/g;
+    const itemStartRe = /\{\s*id:\s*(\d+),\s*slug:\s*'([^']+)'/g;
+    const starts = [];
     let m;
-    while ((m = blockRe.exec(src)) !== null) {
-        const block = m[3];
+    while ((m = itemStartRe.exec(src)) !== null) {
+        starts.push({ id: parseInt(m[1]), slug: m[2], index: m.index });
+    }
+
+    for (let i = 0; i < starts.length; i++) {
+        const { id, slug, index } = starts[i];
+        const end = i + 1 < starts.length ? starts[i + 1].index : src.length;
+        const block = src.slice(index, end);
 
         const getStr = (key) => {
             const r = new RegExp(`${key}:\\s*'((?:[^'\\\\]|\\\\.)*)'`);
@@ -36,10 +45,7 @@ function extractItems(src) {
             return hit ? hit[1].replace(/\\'/g, "'") : '';
         };
 
-        // markdownContent 用模板字符串，需要特殊处理
-        const mdRe = /markdownContent:\s*`([\s\S]*?)` \+ mandatoryFooter/;
-        const mdHit = block.match(mdRe);
-        const markdown = mdHit ? mdHit[1] : '';
+        const markdown = extractMarkdown(block);
 
         const dateRe = /date:\s*'([^']+)'/;
         const dateHit = block.match(dateRe);
@@ -48,8 +54,8 @@ function extractItems(src) {
         const viewsHit = block.match(viewsRe);
 
         items.push({
-            id: parseInt(m[1]),
-            slug: m[2],
+            id,
+            slug,
             title: getStr('title'),
             excerpt: getStr('excerpt'),
             date: dateHit ? dateHit[1] : '',
@@ -60,56 +66,27 @@ function extractItems(src) {
     return items;
 }
 
+function extractMarkdown(block) {
+    const startMarker = 'markdownContent: `';
+    const endMarker = '` + mandatoryFooter';
+    const startIdx = block.indexOf(startMarker);
+    if (startIdx === -1) return '';
+    const contentStart = startIdx + startMarker.length;
+    const endIdx = block.lastIndexOf(endMarker);
+    if (endIdx === -1 || endIdx <= contentStart) return '';
+    return block.slice(contentStart, endIdx).trim();
+}
+
 const items = extractItems(mockDataRaw);
-console.log(`✅ 提取到 ${items.length} 篇文章`);
+const itemsWithMarkdown = items.filter(item => item.markdown.length > 100).length;
+console.log(`✅ 提取到 ${items.length} 篇文章（${itemsWithMarkdown} 篇含完整正文）`);
 
 // ─────────────────────────────────────────────
-// 2. 极简 Markdown → HTML 转换（无需依赖）
+// 2. Markdown → HTML 转换
 // ─────────────────────────────────────────────
 function mdToHtml(md) {
     if (!md) return '';
-    let html = md
-        // 转义特殊字符（防 XSS）
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        // 代码块
-        .replace(/```[\w]*\n?([\s\S]*?)```/g, '<pre><code>$1</code></pre>')
-        // 行内代码
-        .replace(/`([^`]+)`/g, '<code>$1</code>')
-        // 标题 h1-h6
-        .replace(/^#{6}\s(.+)$/gm, '<h6>$1</h6>')
-        .replace(/^#{5}\s(.+)$/gm, '<h5>$1</h5>')
-        .replace(/^#{4}\s(.+)$/gm, '<h4>$1</h4>')
-        .replace(/^#{3}\s(.+)$/gm, '<h3>$1</h3>')
-        .replace(/^#{2}\s(.+)$/gm, '<h2>$1</h2>')
-        .replace(/^#{1}\s(.+)$/gm, '<h1>$1</h1>')
-        // 加粗
-        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-        // 斜体
-        .replace(/\*(.+?)\*/g, '<em>$1</em>')
-        // 引用
-        .replace(/^&gt;\s(.+)$/gm, '<blockquote>$1</blockquote>')
-        // 无序列表
-        .replace(/^\s*[-*]\s(.+)$/gm, '<li>$1</li>')
-        // 有序列表
-        .replace(/^\d+\.\s(.+)$/gm, '<li>$1</li>')
-        // 分隔线
-        .replace(/^---+$/gm, '<hr>')
-        // 表格行（简单支持）
-        .replace(/^\|(.+)\|$/gm, (_, row) => {
-            if (row.includes('---')) return '';
-            const cells = row.split('|').map(c => `<td>${c.trim()}</td>`).join('');
-            return `<tr>${cells}</tr>`;
-        })
-        // 链接
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" rel="nofollow">$1</a>')
-        // 段落（连续空行分隔）
-        .replace(/\n{2,}/g, '</p><p>')
-        // 换行
-        .replace(/\n/g, '<br>');
-
-    return `<p>${html}</p>`;
+    return mdRenderer.render(md);
 }
 
 // ─────────────────────────────────────────────
@@ -117,7 +94,13 @@ function mdToHtml(md) {
 // ─────────────────────────────────────────────
 const siteHost = 'https://toolset.site';
 
-function buildFallbackDiv(title, description, bodyHtml) {
+function buildSiteFooter() {
+    return `<footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+  </footer>`;
+}
+
+function buildFallbackDiv(title, description, bodyHtml, metaHtml = '') {
     return `<div id="ssr-content" style="max-width:860px;margin:0 auto;padding:32px 20px;font-family:'PingFang SC','Microsoft YaHei',sans-serif;color:#1a1a1a;line-height:1.8;">
   <nav style="margin-bottom:24px;font-size:14px;color:#666;">
     <a href="/" style="color:#6366F1;text-decoration:none;">数维探索_IT</a>
@@ -126,31 +109,27 @@ function buildFallbackDiv(title, description, bodyHtml) {
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">${title}</h1>
+    ${metaHtml}
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">${description}</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
       ${bodyHtml}
     </div>
   </article>
-  <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
-  </footer>
+  ${buildSiteFooter()}
 </div>`;
 }
 
-function generatePage(routeDir, title, description, bodyHtml, canonicalPath) {
+function generatePage(routeDir, title, description, bodyHtml, canonicalPath, metaHtml = '') {
     let html = templateHtml
         .replace(/<title>.*?<\/title>/, `<title>${escHtml(title)} - 数维探索_IT</title>`)
         .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${escHtml(description)}">` )
         .replace(/<html lang="[^"]*">/, '<html lang="zh-CN">');
 
-    // 注入 canonical
-    const canonicalTag = `<link rel="canonical" href="${siteHost}${canonicalPath}">`;
-    if (!html.includes(canonicalTag)) {
-        html = html.replace('</head>', `  ${canonicalTag}\n</head>`);
-    }
+    html = html.replace(/<link rel="canonical" href="[^"]*">\s*/g, '');
+    html = html.replace('</head>', `  <link rel="canonical" href="${siteHost}${canonicalPath}">\n</head>`);
 
     // 精确替换 <div id="app"> 内部全部内容（支持嵌套 div）
-    const fallbackDiv = buildFallbackDiv(title, description, bodyHtml);
+    const fallbackDiv = buildFallbackDiv(title, description, bodyHtml, metaHtml);
     html = replaceAppDiv(html, fallbackDiv);
 
     const dirPath = path.join(outDir, routeDir);
@@ -208,12 +187,16 @@ function replaceAppDiv(html, innerContent) {
 for (const item of items) {
     if (!item.slug) continue;
     const bodyHtml = mdToHtml(item.markdown) || `<p>${escHtml(item.excerpt)}</p>`;
+    const metaHtml = item.date
+        ? `<p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：${escHtml(item.date)} · 浏览 ${escHtml(item.views || '0')} 次</p>`
+        : '';
     generatePage(
         `detail/${item.slug}`,
         item.title,
         item.excerpt,
         bodyHtml,
-        `/detail/${item.slug}`
+        `/detail/${item.slug}`,
+        metaHtml
     );
 }
 
@@ -254,7 +237,7 @@ ${articleListHtml}
   </header>
   ${homeBodyHtml}
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p><a href="/privacy-policy" style="color:#6366F1;">隐私政策</a> · <a href="/tools" style="color:#6366F1;">工具站</a></p>
+    <p><a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a> · <a href="/tools" style="color:#6366F1;">工具站</a></p>
   </footer>
 </div>`;
 
@@ -264,10 +247,8 @@ ${articleListHtml}
         .replace(/<html lang="[^"]*">/, '<html lang="zh-CN">');
 
     // 注入 canonical 并防止多次运行重复注入
-    const homeCanonical = `<link rel="canonical" href="${siteHost}/">`;
-    if (!homeHtml.includes(homeCanonical)) {
-        homeHtml = homeHtml.replace('</head>', `  ${homeCanonical}\n</head>`);
-    }
+    homeHtml = homeHtml.replace(/<link rel="canonical" href="[^"]*">\s*/g, '');
+    homeHtml = homeHtml.replace('</head>', `  <link rel="canonical" href="${siteHost}/">\n</head>`);
 
     // 精确替换 <div id="app"> 内部全部内容（支持嵌套 div）
     homeHtml = replaceAppDiv(homeHtml, fallbackDiv);
@@ -277,7 +258,35 @@ ${articleListHtml}
 }
 
 // ─────────────────────────────────────────────
-// 6. 隐私政策页
+// 6. 关于我们页
+// ─────────────────────────────────────────────
+generatePage(
+    'about',
+    '关于我们',
+    '数维探索_IT 是由资深开发者运营的技术内容平台，专注 AI 工具教程、Web 前端开发与实用开发者工具，为中文开发者提供原创高质量技术文章。',
+    `<h2>我们是谁</h2>
+<p>数维探索_IT（toolset.site）是一个面向中文开发者的技术内容平台，由具有多年 Web 前端与 AI 工程实践经验的团队独立运营。我们不做内容聚合或搬运，所有文章均基于真实项目经验撰写与验证。</p>
+<h2>内容方向</h2>
+<ul style="margin-left:1.5em;line-height:2;">
+  <li><strong>AI 工具实战</strong>：Google Antigravity、Gemini、Claude 等 AI IDE 与模型的深度使用指南</li>
+  <li><strong>Web 前端开发</strong>：Mapbox、Leaflet、Chrome 插件、PWA 等实战教程</li>
+  <li><strong>开发者工具</strong>：时间戳转换、JSON 格式化、Base64 编解码等在线实用工具</li>
+</ul>
+<h2>内容标准</h2>
+<p>我们坚持以下编辑原则，确保每篇文章对读者有实际价值：</p>
+<ul style="margin-left:1.5em;line-height:2;">
+  <li>每篇教程包含完整步骤、代码示例或可操作说明，而非仅有标题与摘要</li>
+  <li>技术信息经过实际验证，版本号与操作路径保持更新</li>
+  <li>拒绝低质量采集、洗稿与重复内容</li>
+</ul>
+<h2>联系我们</h2>
+<p>如有内容建议、纠错反馈或合作意向，请通过微信公众号 <strong>「数维探索」</strong> 与我们联系。我们会在 3 个工作日内回复。</p>
+<p>网站地址：<a href="https://toolset.site">https://toolset.site</a></p>`,
+    '/about'
+);
+
+// ─────────────────────────────────────────────
+// 7. 隐私政策页
 // ─────────────────────────────────────────────
 generatePage(
     'privacy-policy',
@@ -310,7 +319,7 @@ generatePage(
 );
 
 // ─────────────────────────────────────────────
-// 7. 工具站页
+// 8. 工具站页
 // ─────────────────────────────────────────────
 generatePage(
     'tools',
@@ -330,11 +339,12 @@ generatePage(
 );
 
 // ─────────────────────────────────────────────
-// 8. 生成 sitemap.xml
+// 9. 生成 sitemap.xml
 // ─────────────────────────────────────────────
 const today = new Date().toISOString().split('T')[0];
 const sitemapUrls = [
     `<url><loc>${siteHost}/</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>${today}</lastmod></url>`,
+    `<url><loc>${siteHost}/about</loc><changefreq>monthly</changefreq><priority>0.6</priority><lastmod>${today}</lastmod></url>`,
     `<url><loc>${siteHost}/tools</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>${today}</lastmod></url>`,
     `<url><loc>${siteHost}/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.3</priority><lastmod>${today}</lastmod></url>`,
     ...items.map(item =>
@@ -350,7 +360,7 @@ fs.writeFileSync(path.join(outDir, 'sitemap.xml'), sitemapXml, 'utf-8');
 console.log('  ✓ 生成: sitemap.xml');
 
 // ─────────────────────────────────────────────
-// 9. 生成 robots.txt
+// 10. 生成 robots.txt
 // ─────────────────────────────────────────────
 const robotsTxt = `User-agent: *
 Allow: /
@@ -360,4 +370,4 @@ Sitemap: ${siteHost}/sitemap.xml
 fs.writeFileSync(path.join(outDir, 'robots.txt'), robotsTxt, 'utf-8');
 console.log('  ✓ 生成: robots.txt');
 
-console.log(`\n🎉 共生成 ${items.length} 篇文章 + 3 个功能页 + sitemap.xml + robots.txt`);
+console.log(`\n🎉 共生成 ${items.length} 篇文章 + 4 个功能页 + sitemap.xml + robots.txt`);

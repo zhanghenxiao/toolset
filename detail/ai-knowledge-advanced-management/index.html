@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/ai-knowledge-advanced-management">
 </head>
   <body>
@@ -31,13 +31,259 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">AI 知识库实战：分类管理进阶与三大核心配置模板</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-22 · 浏览 5,102 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">将 AI 规则拆分为前端规范、接口文档和设计系统，附赠直接可用的高频 API 模板与 Tailwind UI/UX 原则，让 AI 秒变全能前端助手。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>将 AI 规则拆分为前端规范、接口文档和设计系统，附赠直接可用的高频 API 模板与 Tailwind UI/UX 原则，让 AI 秒变全能前端助手。</p>
+      <h3>💡 进阶技巧：分类管理</h3>
+<p>如果你的规则很多，可以把它们拆分成多个文件放在 `knowledge` 目录下，Antigravity 会读取该目录下所有的 Markdown 文件：</p>
+<ul>
+<li>`frontend-rules.md` (放代码规范)</li>
+<li>`company-api-docs.md` (放公司的 API 文档，方便随时调用)</li>
+<li>`ui-design-system.md` (放设计系统的配色和字体规范)</li>
+</ul>
+<p>这样，无论你在哪里，AI 都随身携带着你的&quot;前端开发百科全书&quot;</p>
+<h3>第一步：创建你的&quot;前端规范&quot;文件</h3>
+<p>在这个 `knowledge` 文件夹里，你可以创建任意数量的 `.md` (Markdown) 文件。建议创建一个名为 `frontend-rules.md` 的文件，专门存放你的前端开发铁律。</p>
+<p><strong>文件内容示例（你可以直接复制并修改）：</strong></p>
+<p>```markdown<br>
+1# 前端开发核心规范<br>
+2<br>
+3## 1. 技术栈偏好<br>
+4- <strong>框架</strong>: 始终优先使用 React (Next.js App Router)。<br>
+5- <strong>语言</strong>: 必须使用 TypeScript，严禁使用 `any` 类型。<br>
+6- <strong>样式</strong>: 必须使用 Tailwind CSS。禁止使用原生 CSS 文件或 styled-components。<br>
+7- <strong>图标</strong>: 优先使用 `lucide-react`。<br>
+8<br>
+9## 2. 代码风格<br>
+10- <strong>组件</strong>: 使用函数式组件和 Hooks。<br>
+11- <strong>命名</strong>: 文件使用 kebab-case (如 `user-card.tsx`)，组件使用 PascalCase。<br>
+12- <strong>结构</strong>: 保持组件单一职责，一个文件只导出一个主要组件。<br>
+13<br>
+14## 3. UI/UX 原则<br>
+15- <strong>响应式</strong>: 所有布局必须默认移动端优先 (Mobile First)。<br>
+16- <strong>交互</strong>: 按钮和链接必须有 `hover` 状态反馈。<br>
+17- <strong>无障碍</strong>: 图片必须包含 `alt` 属性，表单输入必须关联 `label`。<br>
+18<br>
+19## 4. 禁止事项<br>
+20- ❌ 禁止使用 jQuery。<br>
+21- ❌ 禁止使用内联样式 `style=&quot;...&quot;`。<br>
+22- ❌ 禁止在组件中硬编码文字内容。<br>
+```</p>
+<h4>🚀 验证生效</h4>
+<p>配置完成后，<strong>重启 Antigravity 客户端</strong>（如果它正在运行）。</p>
+<p>你可以通过以下方式验证是否生效：</p>
+<ol>
+<li>随便打开一个项目（或者新建一个空项目）。</li>
+<li>在对话框输入：&quot;帮我写一个登录框&quot;。</li>
+<li>观察结果
+<ul>
+<li>如果 AI 自动使用了 <strong>React + TypeScript</strong>。</li>
+<li>如果 AI 自动使用了 <strong>Tailwind CSS</strong> 类名。</li>
+<li>如果 AI 自动考虑了 <strong>移动端适配</strong>。</li>
+</ul>
+</li>
+</ol>
+<p>那么恭喜你，你的全局 Knowledge 已经成功&quot;附体&quot;到 AI 身上了！</p>
+<h3>第二步：接口文档，变成了 AI 随时能查阅的&quot;随身笔记&quot;</h3>
+<p>这个文件其实就是把你那些原本要反复复制粘贴的接口文档，变成了 AI 随时能查阅的&quot;随身笔记&quot;。</p>
+<p>它的核心目的只有一个：<strong>让 AI 在不联网、不看 Swagger 的情况下，也能精准地写出符合你后端要求的 API 调用代码。</strong></p>
+<p>一个高质量的 `company-api-docs.md` 通常包含以下 4 个核心板块。你可以直接参考这个模板来填充你们公司的实际接口信息：</p>
+<h4>📋 通用配置板块</h4>
+<p>这部分告诉 AI 请求的基础信息，避免它每次都问你&quot;接口地址是多少&quot;或者&quot;Header 要带什么&quot;。</p>
+<p>```markdown<br>
+1## 1. 基础配置<br>
+2- <strong>Base URL</strong>: `<a href="https://api.your-company.com/v1%5C%60">https://api.your-company.com/v1\`</a><br>
+3- <strong>认证方式</strong>: Bearer Token (JWT)<br>
+4- <strong>通用请求头</strong>:<br>
+5  - `Content-Type`: `application/json`<br>
+6  - `Authorization`: `Bearer <token>`<br>
+7- <strong>通用响应结构</strong>:<br>
+8  所有接口返回的数据都包裹在一个标准结构中：<br>
+9  ```json<br>
+10  {<br>
+11    &quot;code&quot;: 200, // 200表示成功，非200表示业务错误<br>
+12    &quot;msg&quot;: &quot;success&quot;, // 错误信息<br>
+13    &quot;data&quot;: { ... } // 实际数据载荷<br>
+14  }<br>
+```</p>
+<p>```markdown<br>
+1<br>
+2### 📚 核心数据模型板块<br>
+3不要把所有字段都写上去，只写<strong>高频复用</strong>的实体。这能防止 AI 瞎编字段名（比如把 `userName` 写成 `username`，导致前端报错）。<br>
+4<br>
+5```markdown<br>
+6## 2. 核心数据类型<br>
+7### 用户<br>
+8- `id`: string - 用户唯一标识 (UUID)<br>
+9- `username`: string - 登录用户名<br>
+10- `email`: string - 邮箱<br>
+11- `role`: enum - 角色 ('admin', 'editor', 'viewer')<br>
+12- `status`: enum - 状态 ('active', 'banned')<br>
+13<br>
+14### 商品<br>
+15- `sku`: string - 库存单位编码<br>
+16- `price`: number - 价格 (单位: 分，不是元！)<br>
+17- `stock`: number - 库存数量<br>
+```</p>
+<h4>🔌 高频接口板块</h4>
+<p>这是最有价值的部分。只记录<strong>最常用</strong>的接口，或者<strong>逻辑最复杂</strong>的接口。</p>
+<p><strong>格式建议</strong>：使用类似 Swagger 的简洁写法，或者直接贴 curl 示例。</p>
+<p>```markdown<br>
+1## 3. 常用接口定义<br>
+2<br>
+3### 获取用户列表 (分页)<br>
+4- <strong>URL</strong>: `GET /users`<br>
+5- <strong>参数</strong>:<br>
+6  - `page`: number (默认 1)<br>
+7  - `pageSize`: number (默认 10)<br>
+8  - `role`: string (可选，筛选角色)<br>
+9- <strong>返回示例</strong>:<br>
+10  ```json<br>
+11  {<br>
+12    &quot;code&quot;: 200,<br>
+13    &quot;data&quot;: {<br>
+14      &quot;list&quot;: [ ...用户数组... ],<br>
+15      &quot;total&quot;: 100<br>
+16    }<br>
+17  }<br>
+```</p>
+<h4>创建订单</h4>
+<ul>
+<li>
+<p><strong>URL</strong>: `POST /orders`</p>
+</li>
+<li>
+<p>请求体</p>
+<p>```json<br>
+1{<br>
+2  &quot;userId&quot;: &quot;string&quot;,<br>
+3  &quot;items&quot;: [<br>
+4    { &quot;sku&quot;: &quot;string&quot;, &quot;count&quot;: &quot;number&quot; }<br>
+5  ]<br>
+6}<br>
+```</p>
+</li>
+<li>
+<p><strong>特殊逻辑</strong>: 创建订单前必须检查库存，如果库存不足直接返回 code 4001。</p>
+</li>
+</ul>
+<p>```markdown<br>
+1<br>
+2### ⚠️ 业务逻辑与坑点板块<br>
+3这是 AI 绝对不知道的&quot;隐形知识&quot;。比如某些字段虽然叫 `price`，但其实是&quot;分&quot;不是&quot;元&quot;；或者某些状态流转的特殊规则。<br>
+4<br>
+5```markdown<br>
+6## 4. 业务规则与注意事项<br>
+7- <strong>金额处理</strong>: 所有涉及金额的字段（price, totalAmount）后端返回的都是<strong>整数（分）</strong>，前端展示时必须除以 100。<br>
+8- <strong>日期格式</strong>: 后端所有时间字段都是 Unix 时间戳 (毫秒)，不是字符串。<br>
+9- <strong>图片地址</strong>: 接口返回的 `avatar` 只是相对路径，前端需要拼接 CDN 域名 `<a href="https://cdn.your-company.com">https://cdn.your-company.com</a>`。<br>
+10- <strong>状态码</strong>:<br>
+11  - `401`: Token 过期，需跳转登录。<br>
+12  - `4001`: 库存不足。<br>
+13  - `4002`: 优惠券不可用。<br>
+```</p>
+<h3>📌 总结：怎么写才好用？</h3>
+<ol>
+<li><strong>只写&quot;热&quot;数据</strong>：不要把你公司几百个接口全贴上去，AI 会看晕。只贴你每天开发都要用的那 10-20 个核心接口。</li>
+<li><strong>保持更新</strong>：如果后端改了字段（比如把 `userName` 改成了 `nickname`），记得同步更新这个文件。</li>
+<li><strong>格式清晰</strong>：AI 喜欢结构化的数据，用 Markdown 的列表和代码块排版，它理解得最快。</li>
+</ol>
+<p>把这个文件放进全局 `knowledge` 目录后，你下次只要说：&quot;帮我写个获取用户列表的函数&quot;，AI 就会自动知道要请求 `/users`，要处理分页，还要把金额除以 100。</p>
+<h3>第三步：UI 设计系统规范 <a href="http://ui-design-system.md">ui-design-system.md</a></h3>
+<p>本文件定义了项目的全局视觉规范。所有前端代码生成必须严格遵循以下变量和原则，以确保 UI 的一致性。</p>
+<h4>1. 设计令牌</h4>
+<p>所有样式必须使用 Tailwind CSS 的 `extend` 配置或标准工具类，禁止使用硬编码的十六进制颜色或像素值。</p>
+<p><strong>色彩系统</strong></p>
+<ul>
+<li>
+<p><strong>主色调</strong>: `primary-500` (#3B82F6) - 用于主要按钮、激活状态、链接。</p>
+</li>
+<li>
+<p>功能色</p>
+<ul>
+<li>`success-500` (#10B981) - 成功提示、完成状态。</li>
+<li>`warning-500` (#F59E0B) - 警告提示、待处理状态。</li>
+<li>`danger-500` (#EF4444) - 错误提示、删除操作。</li>
+</ul>
+</li>
+<li>
+<p>中性色</p>
+<ul>
+<li>背景: `gray-50` (浅色模式背景), `gray-900` (深色模式背景)。</li>
+<li>文本: `gray-900` (主标题), `gray-600` (正文), `gray-400` (次要文本/占位符)。</li>
+</ul>
+</li>
+<li>
+<p><strong>边框</strong>: `gray-200` (默认分割线), `gray-300` (输入框边框)。</p>
+</li>
+</ul>
+<p><strong>排版系统</strong></p>
+<ul>
+<li>
+<p><strong>字体家族</strong>: Inter, system-ui, sans-serif.</p>
+</li>
+<li>
+<p>字号</p>
+<ul>
+<li>超大标题: `text-4xl` (2.25rem) - 页面主标题。</li>
+<li>大标题: `text-2xl` (1.5rem) - 卡片标题。</li>
+<li>正文: `text-base` (1rem) - 标准内容。</li>
+<li>小字: `text-sm` (0.875rem) - 辅助说明、图注。</li>
+</ul>
+</li>
+<li>
+<p>字重</p>
+<ul>
+<li>粗体: `font-bold` (700) - 强调。</li>
+<li>中等: `font-medium` (500) - 按钮、标题。</li>
+<li>常规: `font-normal` (400) - 正文。</li>
+</ul>
+</li>
+</ul>
+<p><strong>间距与布局</strong></p>
+<ul>
+<li>
+<p><strong>基础单位</strong>: 4px (Tailwind 默认单位)。</p>
+</li>
+<li>
+<p>常用间距</p>
+<ul>
+<li>紧凑: `p-2`, `p-4` (组件内部填充)。</li>
+<li>标准: `p-6`, `p-8` (卡片、容器填充)。</li>
+<li>宽松: `gap-4`, `gap-6` (元素间距)。</li>
+</ul>
+</li>
+<li>
+<p>圆角</p>
+<ul>
+<li>小元素: `rounded` (4px) - 按钮、标签。</li>
+<li>容器: `rounded-lg` (8px) - 卡片、模态框、输入框。</li>
+<li>全屏: `rounded-full` - 头像。</li>
+</ul>
+</li>
+</ul>
+<p><strong>阴影与层级</strong></p>
+<ul>
+<li>
+<p><strong>卡片阴影</strong>: `shadow-sm` (默认), `shadow-md` (悬浮/悬停)。</p>
+</li>
+<li>
+<p><strong>模态框阴影</strong>: `shadow-xl`。</p>
+</li>
+<li>
+<p>层级</p>
+<ul>
+<li>下拉菜单: `z-10`。</li>
+<li>模态框: `z-50`。</li>
+<li>提示条: `z-50`。</li>
+</ul>
+</li>
+</ul>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

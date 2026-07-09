@@ -13,13 +13,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.cn/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-cd502dd5.js"></script>
+    <script type="module" crossorigin src="/assets/index-779f2ccf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vue-vendor-b0d8f4d9.js">
     <link rel="modulepreload" crossorigin href="/assets/markdown-98eb5fe8.js">
     <link rel="modulepreload" crossorigin href="/assets/ffmpeg-3bd2b020.js">
     <link rel="modulepreload" crossorigin href="/assets/highlight-2a9f9d24.js">
     <link rel="stylesheet" href="/assets/highlight-a597b77c.css">
-    <link rel="stylesheet" href="/assets/index-1812d2e1.css">
+    <link rel="stylesheet" href="/assets/index-5f9552ef.css">
     <link rel="canonical" href="https://toolset.site/detail/knowledge-vs-workflows">
 </head>
   <body>
@@ -31,13 +31,114 @@
   </nav>
   <article>
     <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:12px;color:#111;line-height:1.4;">Antigravity 深度解析：Knowledge（知识库）vs Workflows（工作流）——AI 编程的内功与外功</h1>
+    <p style="color:#888;font-size:0.9rem;margin-bottom:16px;">发布日期：2026-04-22 · 浏览 3,450 次</p>
     <p style="color:#555;font-size:1.05rem;margin-bottom:28px;padding:16px;background:#f8f9fa;border-left:4px solid #6366F1;border-radius:4px;">Knowledge 是 AI 的"内功心法"（静态知识），Workflows 是"外功招式"（动态指令）。前者决定下限，后者决定上限。本文用厨师比喻带你彻底搞懂两者的区别与最佳实践。</p>
     <div class="article-body" style="font-size:1rem;color:#222;">
-      <p>Knowledge 是 AI 的&quot;内功心法&quot;（静态知识），Workflows 是&quot;外功招式&quot;（动态指令）。前者决定下限，后者决定上限。本文用厨师比喻带你彻底搞懂两者的区别与最佳实践。</p>
+      <p>这两个概念虽然都是用来&quot;调教&quot;AI 的，但它们的作用机制完全不同。</p>
+<p>简单来说：<strong>Knowledge 是&quot;内功心法&quot;（静态知识），Workflows 是&quot;外功招式&quot;（动态指令）。</strong></p>
+<p>为了让你更直观地理解，我们可以把 AI 想象成一个<strong>厨师</strong>：</p>
+<h3>Knowledge (知识库) = 厨师的&quot;参考书&quot;与&quot;口味偏好&quot;</h3>
+<ul>
+<li>
+<p><strong>性质</strong>：<strong>静态的、被动的</strong>。</p>
+</li>
+<li>
+<p><strong>作用</strong>：它告诉 AI <strong>&quot;是什么&quot;</strong> 和 <strong>&quot;喜欢什么&quot;</strong>。</p>
+</li>
+<li>
+<p>内容</p>
+<ul>
+<li>你的技术栈偏好（如：只用 React，不用 Vue）。</li>
+<li>项目的背景文档（如：API 接口文档、数据库结构图）。</li>
+<li>代码风格指南（如：变量命名规范、缩进习惯）。</li>
+</ul>
+</li>
+<li>
+<p><strong>触发方式</strong>：<strong>自动触发</strong>。只要你提问，AI 就会先去翻阅这些&quot;书&quot;，确保回答符合你的规范。</p>
+</li>
+<li>
+<p><strong>你的场景</strong>：你在 `knowledge` 目录里写&quot;必须响应式&quot;，AI 写代码时就会<strong>潜意识</strong>地加上媒体查询，不需要你每次都喊口号。</p>
+</li>
+</ul>
+<h3>Workflows (工作流) = 厨师的&quot;标准作业程序&quot;</h3>
+<ul>
+<li>
+<p><strong>性质</strong>：<strong>动态的、主动的</strong>。</p>
+</li>
+<li>
+<p><strong>作用</strong>：它告诉 AI <strong>&quot;怎么做&quot;</strong> 和 <strong>&quot;步骤是什么&quot;</strong>。</p>
+</li>
+<li>
+<p>内容</p>
+<ul>
+<li>具体的执行步骤（如：第一步先搜索配色，第二步再生成代码）。</li>
+<li>调用的外部工具（如：运行 Python 脚本、执行 Shell 命令）。</li>
+<li>复杂的逻辑判断（如：如果报错，就自动重试）。</li>
+</ul>
+</li>
+<li>
+<p><strong>触发方式</strong>：<strong>手动触发</strong>（通常通过斜杠命令）。你需要明确喊出 `/ui-ux-pro-max`，AI 才会启动这一套复杂的流程。</p>
+</li>
+<li>
+<p><strong>你的场景</strong>：`UI-UX Pro Max` 就是一个 Workflow。它不仅仅是知道&quot;要好看&quot;，而是<strong>实际运行</strong>了一个 Python 脚本去搜索配色方案，然后把结果填入代码中。</p>
+</li>
+</ul>
+<h3>总结对比表</h3>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>Knowledge (知识库)</th>
+<th>Workflows (工作流)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>核心逻辑</strong></td>
+<td>上下文注入</td>
+<td>任务自动化</td>
+</tr>
+<tr>
+<td><strong>比喻</strong></td>
+<td>员工手册、设计规范文档</td>
+<td>自动化流水线、专用工具</td>
+</tr>
+<tr>
+<td><strong>AI 的行为</strong></td>
+<td>哦，原来老板喜欢这样，我记住了</td>
+<td>收到指令！开始执行操作步骤</td>
+</tr>
+<tr>
+<td><strong>文件形式</strong></td>
+<td>.md 文档、.txt 文本</td>
+<td>.md (带指令格式)、.json 配置</td>
+</tr>
+<tr>
+<td><strong>前端应用</strong></td>
+<td>规定用 Tailwind、TypeScript</td>
+<td>自动搜索配色、运行测试脚本</td>
+</tr>
+<tr>
+<td><strong>典型指令</strong></td>
+<td>(无，自动生效)</td>
+<td>/ui-ux-pro-max, /test, /deploy</td>
+</tr>
+</tbody>
+</table>
+<h3>针对你的建议</h3>
+<p>作为前端工程师，这两者你是<strong>都要用</strong>的，它们互补：</p>
+<ol>
+<li><strong>用 Knowledge 打底</strong>：<br>
+在 `knowledge` 目录里写好你的《前端规范》（React + Tailwind + 响应式）。这样，哪怕你只是随口问一句&quot;写个按钮&quot;，它生成的代码也是符合你项目标准的。</li>
+<li><strong>用 Workflows 攻坚</strong>：<br>
+当你需要做一个<strong>非常复杂、需要特定流程</strong>的任务时（比如&quot;帮我设计一套全新的设计系统&quot;），这时候调用 `/ui-ux-pro-max` 这个 Workflow，让它去跑脚本、查资料、生成全套方案。</li>
+</ol>
+<p><strong>一句话总结：Knowledge 决定了 AI 的&quot;下限&quot;（不会写出烂代码），Workflows 决定了 AI 的&quot;上限&quot;（能帮你干复杂的大活）。</strong></p>
+
     </div>
   </article>
   <footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
-    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
+    <p>专注于分享经过验证的开发技巧与实用资源 · <a href="/" style="color:#6366F1;">返回首页</a> · <a href="/about" style="color:#6366F1;">关于我们</a> · <a href="/tools" style="color:#6366F1;">工具站</a> · <a href="/privacy-policy" style="color:#6366F1;">隐私政策</a></p>
   </footer>
 </div></div>
     

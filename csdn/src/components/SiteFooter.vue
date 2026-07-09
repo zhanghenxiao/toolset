@@ -2,7 +2,7 @@
   <footer class="site-footer">
     <div class="footer-bottom">
       <div class="container">
-        <p>&copy; 2026 内容创作展示网站 toolset.site 保留所有权利 | 代理条款 | <router-link to="/privacy-policy">隐私政策</router-link> </p>
+        <p>&copy; 2026 内容创作展示网站 toolset.site 保留所有权利 | <router-link to="/about">关于我们</router-link> | <router-link to="/privacy-policy">隐私政策</router-link> </p>
       </div>
     </div>
     <div class="floating-actions" :class="{ 'show': showScrollTop }">

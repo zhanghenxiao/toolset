@@ -24,6 +24,11 @@ const routes = [
     props: true
   },
   {
+    path: '/about',
+    name: 'AboutUs',
+    component: () => import('../components/AboutUs.vue')
+  },
+  {
     path: '/privacy-policy',
     name: 'PrivacyPolicy',
     component: () => import('../components/PrivacyPolicy.vue')
