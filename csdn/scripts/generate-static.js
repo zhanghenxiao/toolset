@@ -121,7 +121,7 @@ function buildFallbackDiv(title, description, bodyHtml, metaHtml = '') {
 
 function generatePage(routeDir, title, description, bodyHtml, canonicalPath, metaHtml = '') {
     let html = templateHtml
-        .replace(/<title>.*?<\/title>/, `<title>${escHtml(title)} - 数维探索_IT</title>`)
+        .replace(/<title>.*?<\/title>/, `<title>${escHtml(title)} - 数维探索</title>`)
         .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${escHtml(description)}">` )
         .replace(/<html lang="[^"]*">/, '<html lang="zh-CN">');
 
@@ -228,7 +228,7 @@ ${articleListHtml}
 
 // 覆盖生产 index.html 的 fallback 内容
 {
-    const homeTitle = '数维探索_IT - AI工具指南与Web开发教程';
+    const homeTitle = '数维探索';
     const homeDesc = '数维探索_IT 专注于分享高质量 AI 工具使用指南、Web 前端开发教程、Google Antigravity、Gemini、Claude 实战经验及实用开发者工具。';
     const fallbackDiv = `<div id="ssr-content" style="max-width:860px;margin:0 auto;padding:32px 20px;font-family:'PingFang SC','Microsoft YaHei',sans-serif;color:#1a1a1a;line-height:1.8;">
   <header style="margin-bottom:32px;text-align:center;">
