@@ -21,7 +21,7 @@
             </button>
         </div>
 
-        <div class="pagination-info">
+        <div v-if="showInfo" class="pagination-info">
             {{ $t('pagination.info', { total: totalItems, current: current, pages: total }) }}
         </div>
     </div>
@@ -33,7 +33,8 @@ export default {
     props: {
         total: { type: Number, required: true },
         current: { type: Number, required: true },
-        totalItems: { type: Number, required: true }
+        totalItems: { type: Number, required: true },
+        showInfo: { type: Boolean, default: true }
     },
     computed: {
         displayedPages() {
