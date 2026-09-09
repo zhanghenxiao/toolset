@@ -2,8 +2,22 @@ export default {
   nav: {
     home: '首页',
     content: '内容',
+    books: '书籍',
     about: '关于',
     tools: '在线工具站'
+  },
+  books: {
+    categoryLabel: '分类筛选',
+    categoryPlaceholder: '请选择分类',
+    tagLabel: '标签搜索',
+    tagPlaceholder: '请选择标签',
+    keywordLabel: '关键词搜索',
+    keywordPlaceholder: '搜索书名、作者、出版社...',
+    resultsCount: '共<span class="highlight">29991</span>本，更多书源分享，更多书源分享，访问网址 <a href="https://toolset.site" target="_blank" rel="noopener noreferrer">https://toolset.site</a>',
+    clear: '清空重置',
+    noResults: '未找到匹配的书籍，请尝试更换关键词或清除筛选条件',
+    read: '阅读',
+    latestChapter: '更新至 {chapter}'
   },
   header: {
     login: '登录',

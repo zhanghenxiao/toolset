@@ -3,14 +3,24 @@ import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import ContentDetail from '../views/ContentDetail.vue';
 import ToolStation from '../views/ToolStation.vue';
+import Books from '../views/Books.vue';
 
 Vue.use(VueRouter);
 
 const routes = [
   {
     path: '/',
+    redirect: '/books',
+  },
+  {
+    path: '/home',
     name: 'Home',
     component: Home,
+  },
+  {
+    path: '/books',
+    name: 'Books',
+    component: Books,
   },
   {
     path: '/tools',

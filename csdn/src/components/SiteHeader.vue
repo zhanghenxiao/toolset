@@ -2,13 +2,15 @@
   <header class="site-header">
     <div class="container header-content">
       <div class="logo-section">
-        <div class="logo-icon">
-          <svg viewBox="0 0 24 24" width="24" height="24">
-            <path fill="currentColor"
-              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z" />
-          </svg>
-        </div>
-        <span class="logo-text">数维探索_IT</span>
+        <router-link to="/books" class="logo-link" @click.native="closeMenu">
+          <div class="logo-icon">
+            <svg viewBox="0 0 24 24" width="24" height="24">
+              <path fill="currentColor"
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z" />
+            </svg>
+          </div>
+          <span class="logo-text">数维探索</span>
+        </router-link>
       </div>
 
       <!-- Hamburger Menu for Mobile -->
@@ -20,7 +22,7 @@
 
       <nav class="main-nav" :class="{ 'mobile-open': menuOpen }">
         <ul>
-          <li @click="closeMenu"><router-link to="/" exact-active-class="active">{{ $t('nav.home') }}</router-link></li>
+          <li @click="closeMenu"><router-link to="/books" exact-active-class="active">{{ $t('nav.books') }}</router-link></li>
           <li @click="closeMenu"><router-link to="/tools" active-class="active">{{ $t('nav.tools') }}</router-link></li>
           <li @click="closeMenu"><router-link to="/about" active-class="active">{{ $t('nav.about') }}</router-link></li>
         </ul>
@@ -207,6 +209,14 @@ export default {
   align-items: center;
   gap: 10px;
   flex-shrink: 0;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
 }
 
 .logo-icon {
