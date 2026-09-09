@@ -54,4 +54,8 @@ const router = new VueRouter({
   },
 });
 
+router.afterEach(() => {
+  document.title = '数维探索';
+});
+
 export default router;
