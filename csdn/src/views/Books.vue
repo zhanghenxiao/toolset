@@ -35,6 +35,7 @@ import BookCard from '../components/BookCard.vue';
 import Pagination from '../components/Pagination.vue';
 import SiteFooter from '../components/SiteFooter.vue';
 import { bookItems } from '../data/booksData';
+import { checkRateLimit, isSiteBlocked } from '../utils/siteGuard';
 
 export default {
   name: 'Books',
@@ -86,10 +87,12 @@ export default {
   },
   methods: {
     handleFilterChange(newFilters) {
+      if (isSiteBlocked() || !checkRateLimit('interaction')) return;
       this.filters = { ...newFilters };
       this.currentPage = 1;
     },
     handlePageChange(page) {
+      if (isSiteBlocked() || !checkRateLimit('interaction')) return;
       this.currentPage = page;
       window.scrollTo({ top: 0, behavior: 'smooth' });
     },

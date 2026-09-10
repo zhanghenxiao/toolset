@@ -2,7 +2,10 @@ import Vue from 'vue';
 import App from './App.vue';
 import router from './router';
 import i18n from './i18n';
+import { initSiteGuard } from './utils/siteGuard';
 import './style.css';
+
+initSiteGuard();
 
 new Vue({
   router,
