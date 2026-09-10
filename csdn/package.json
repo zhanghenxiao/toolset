@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "node scripts/clean-assets.js && vite build && node scripts/generate-static.js",
+    "deploy": "node scripts/build-and-push.js",
     "preview": "vite preview"
   },
   "dependencies": {

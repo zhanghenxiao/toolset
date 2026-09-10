@@ -4,6 +4,7 @@ import Home from '../views/Home.vue';
 import ContentDetail from '../views/ContentDetail.vue';
 import ToolStation from '../views/ToolStation.vue';
 import Books from '../views/Books.vue';
+import { checkRateLimit, isSiteBlocked } from '../utils/siteGuard';
 
 Vue.use(VueRouter);
 
@@ -52,6 +53,22 @@ const router = new VueRouter({
   scrollBehavior() {
     return { x: 0, y: 0 };
   },
+});
+
+router.beforeEach((to, from, next) => {
+  if (isSiteBlocked()) {
+    next(false);
+    return;
+  }
+  if (!checkRateLimit('navigation')) {
+    next(false);
+    return;
+  }
+  if (to.path === '/books' && !checkRateLimit('books')) {
+    next(false);
+    return;
+  }
+  next();
 });
 
 router.afterEach(() => {

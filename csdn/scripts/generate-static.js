@@ -102,6 +102,25 @@ function injectSpaRecovery(html) {
     return html.replace('</head>', `  ${SPA_RECOVERY_SCRIPT}\n</head>`);
 }
 
+const SECURITY_META = [
+    '<meta name="referrer" content="strict-origin-when-cross-origin">',
+    '<meta http-equiv="X-Content-Type-Options" content="nosniff">',
+    '<meta name="robots" content="index, follow, noarchive">',
+].join('\n    ');
+
+const IFRAME_GUARD_SCRIPT = '<script>try{if(window.self!==window.top)window.top.location=window.self.location.href}catch(e){}</script>';
+
+function injectSecurityMeta(html) {
+    let result = html;
+    if (!result.includes('strict-origin-when-cross-origin')) {
+        result = result.replace('</head>', `    ${SECURITY_META}\n</head>`);
+    }
+    if (!result.includes('window.self!==window.top')) {
+        result = result.replace('</head>', `    ${IFRAME_GUARD_SCRIPT}\n</head>`);
+    }
+    return result;
+}
+
 function build404Html() {
     return `<!DOCTYPE html>
 <html lang="zh-CN">
@@ -162,6 +181,7 @@ function generatePage(routeDir, title, description, bodyHtml, canonicalPath, met
     const fallbackDiv = buildFallbackDiv(title, description, bodyHtml, metaHtml);
     html = replaceAppDiv(html, fallbackDiv);
     html = injectSpaRecovery(html);
+    html = injectSecurityMeta(html);
 
     const dirPath = path.join(outDir, routeDir);
     fs.mkdirSync(dirPath, { recursive: true });
@@ -284,6 +304,7 @@ ${articleListHtml}
     // 精确替换 <div id="app"> 内部全部内容（支持嵌套 div）
     homeHtml = replaceAppDiv(homeHtml, fallbackDiv);
     homeHtml = injectSpaRecovery(homeHtml);
+    homeHtml = injectSecurityMeta(homeHtml);
 
     fs.writeFileSync(path.join(outDir, 'index.html'), homeHtml, 'utf-8');
     console.log('  ✓ 更新: /index.html (含文章列表)');
@@ -408,8 +429,27 @@ console.log('  ✓ 生成: sitemap.xml');
 // ─────────────────────────────────────────────
 // 10. 生成 robots.txt
 // ─────────────────────────────────────────────
-const robotsTxt = `User-agent: *
+const robotsTxt = `User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
 Allow: /
+Disallow: /__data-export-all-books.csv
 
 Sitemap: ${siteHost}/sitemap.xml
 `;
