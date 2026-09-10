@@ -1,2 +1,3 @@
-# 书籍正文（体积大，不纳入版本库）
-books/
+# 书籍正文（体积大，不纳入版本库）；保留 SPA 入口页供 GitHub Pages 使用
+books/*
+!books/index.html
