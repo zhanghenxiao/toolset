@@ -1,5 +1,5 @@
 /**
- * 修复 books/ 下 towan('xxx') 假书名文件，并重命名/同步 public
+ * 修复 books/ 下 towan('xxx') 假书名文件并重命名
  * 用法: node fix-towan-book-names.js [startId] [endId]
  */
 const fs = require('fs');
@@ -11,7 +11,6 @@ const {
   discoverBooks,
   getBookPath,
   getWorkDir,
-  syncToPublic,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
@@ -91,20 +90,6 @@ function listMergedTxt(dir) {
   );
 }
 
-function syncPublic(id, filename) {
-  syncToPublic(root, filename);
-  const pubRoot = path.join(root, 'csdn/public/books');
-  for (const name of fs.existsSync(pubRoot) ? fs.readdirSync(pubRoot) : []) {
-    const full = path.join(pubRoot, name);
-    if (fs.statSync(full).isDirectory() && name === String(id)) {
-      for (const f of fs.readdirSync(full)) {
-        fs.unlinkSync(path.join(full, f));
-      }
-      fs.rmdirSync(full);
-    }
-  }
-}
-
 function updateBooksData(id, title, filename) {
   let content = fs.readFileSync(booksDataPath, 'utf8');
   const blockRe = new RegExp(`(\\n  \\{\\n    id: ${id},[\\s\\S]*?\\n  \\},)`, 'm');
@@ -156,19 +141,6 @@ for (let id = startId; id <= endId; id++) {
       fs.unlinkSync(path.join(dir, f));
       results.push(`[${id}] 删除重复 towan: ${f}`);
     }
-    const pubRoot = path.join(root, 'csdn/public/books');
-    if (fs.existsSync(pubRoot)) {
-      for (const f of fs.readdirSync(pubRoot)) {
-        const full = path.join(pubRoot, f);
-        if (fs.statSync(full).isDirectory() && f === String(id)) {
-          for (const pf of fs.readdirSync(full)) {
-            if (isTowanFile(pf)) fs.unlinkSync(path.join(full, pf));
-          }
-        } else if (isTowanFile(f)) {
-          fs.unlinkSync(full);
-        }
-      }
-    }
     continue;
   }
 
@@ -201,7 +173,6 @@ for (let id = startId; id <= endId; id++) {
   writeBookText(newPath, fixed);
   if (towanPath !== newPath) fs.unlinkSync(towanPath);
 
-  syncPublic(id, newName);
   updateBooksData(id, title, newName);
   updateRegistry(id, title, newName);
 

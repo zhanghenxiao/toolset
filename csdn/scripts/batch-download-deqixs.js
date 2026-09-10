@@ -10,7 +10,7 @@ const {
   buildBookDownloadUrl,
   getBookPath,
   getWorkDir,
-  syncToPublic,
+  discoverBooks,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
@@ -43,9 +43,8 @@ function stripHeader(text) {
 }
 
 function hasExistingBook(id) {
-  const dir = path.join(root, 'books', String(id));
-  if (!fs.existsSync(dir)) return false;
-  return fs.readdirSync(dir).some((f) => f.endsWith('.txt') && !f.startsWith('part') && !f.startsWith('_'));
+  const existingIds = new Set(discoverBooks(path.join(root, 'books')).map((b) => b.id));
+  return existingIds.has(id);
 }
 
 function parseMetadata(html, id) {
@@ -185,7 +184,6 @@ function downloadBook(meta) {
   const finalPath = getBookPath(root, filename);
   fs.renameSync(tempOut, finalPath);
   for (const p of partFiles) fs.unlinkSync(path.join(workDir, p));
-  syncToPublic(root, filename);
   if (fs.readdirSync(workDir).length === 0) fs.rmdirSync(workDir);
 
   if (meta.excerpt) fs.writeFileSync(excerptPath, meta.excerpt + '\n', 'utf8');
@@ -265,7 +263,7 @@ async function main() {
     console.log('\n运行清理脚本…');
     execSync('node csdn/scripts/clean-book-txt.js', { cwd: root, stdio: 'inherit' });
     console.log('同步 booksData.js…');
-    execSync('node csdn/scripts/sync-batch-books-data.js', { cwd: root, stdio: 'inherit' });
+    execSync('node csdn/scripts/sync-all-books-data.js', { cwd: root, stdio: 'inherit' });
   }
 }
 

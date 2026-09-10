@@ -8,27 +8,15 @@ const {
   toFlatFilename,
   isBookTxtName,
   getBookPath,
-  getPublicBookPath,
   parseBookFilename,
-  syncToPublic,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
 const booksRoot = path.join(root, 'books');
-const publicRoot = path.join(root, 'csdn/public/books');
 
 function removeDirIfEmpty(dir) {
   if (!fs.existsSync(dir)) return;
   if (fs.readdirSync(dir).length === 0) fs.rmdirSync(dir);
-}
-
-function removeLegacyPublicDir(id) {
-  const legacyDir = path.join(publicRoot, String(id));
-  if (!fs.existsSync(legacyDir)) return;
-  for (const f of fs.readdirSync(legacyDir)) {
-    fs.unlinkSync(path.join(legacyDir, f));
-  }
-  removeDirIfEmpty(legacyDir);
 }
 
 function pickMainTxt(dir, id) {
@@ -71,9 +59,6 @@ for (const name of fs.readdirSync(booksRoot)) {
     report.push(`[${id}] 删除重复: ${file}（已存在 ${flatName}）`);
   }
 
-  syncToPublic(root, flatName);
-  removeLegacyPublicDir(id);
-
   for (const leftover of fs.readdirSync(legacyDir)) {
     if (isBookTxtName(leftover)) {
       fs.unlinkSync(path.join(legacyDir, leftover));
@@ -81,17 +66,6 @@ for (const name of fs.readdirSync(booksRoot)) {
     }
   }
   removeDirIfEmpty(legacyDir);
-}
-
-// 清理 public 下遗留的 id 子目录
-if (fs.existsSync(publicRoot)) {
-  for (const name of fs.readdirSync(publicRoot)) {
-    const dir = path.join(publicRoot, name);
-    if (fs.statSync(dir).isDirectory() && /^\d+$/.test(name)) {
-      removeLegacyPublicDir(name);
-      report.push(`[public/${name}] 删除旧目录`);
-    }
-  }
 }
 
 console.log(report.join('\n') || '无需迁移');

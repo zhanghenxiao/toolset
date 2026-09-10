@@ -1,21 +1,18 @@
 /**
- * 每个 books/ 只保留扁平 TXT：{id}{书名}1-{章节}章.txt
- * 删除 part*.txt、towan*.txt 及多余副本，并同步 csdn/public/books/
+ * 每个 books/ 只保留扁平 TXT：{id}_{书名}1-{章节}章.txt
+ * 删除 part*.txt、towan*.txt 及多余副本
  */
 const fs = require('fs');
 const path = require('path');
 const {
   discoverBooks,
   getBookPath,
-  getPublicBookPath,
   isBookTxtName,
-  syncToPublic,
   toFlatFilename,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
 const booksRoot = path.join(root, 'books');
-const publicRoot = path.join(root, 'csdn/public/books');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 
 const data = fs.readFileSync(booksDataPath, 'utf8');
@@ -61,41 +58,11 @@ for (const name of fs.readdirSync(booksRoot)) {
 
   if (kept) {
     const flatName = toFlatFilename(id, kept);
-    const dst = getBookPath(root, flatName);
-    fs.renameSync(path.join(full, kept), dst);
-    syncToPublic(root, flatName);
+    fs.renameSync(path.join(full, kept), getBookPath(root, flatName));
     if (fs.readdirSync(full).length === 0) fs.rmdirSync(full);
-  }
-}
-
-for (const book of discoverBooks(booksRoot)) {
-  syncToPublic(root, book.filename);
-}
-
-if (fs.existsSync(publicRoot)) {
-  for (const name of fs.readdirSync(publicRoot)) {
-    const full = path.join(publicRoot, name);
-    if (fs.statSync(full).isDirectory() && /^\d+$/.test(name)) {
-      for (const f of fs.readdirSync(full)) {
-        fs.unlinkSync(path.join(full, f));
-        totalDeleted++;
-      }
-      fs.rmdirSync(full);
-      report.push(`[public/${name}] 删除旧目录`);
-    }
-  }
-}
-
-const flatNames = new Set(discoverBooks(booksRoot).map((b) => b.filename));
-for (const name of fs.existsSync(publicRoot) ? fs.readdirSync(publicRoot) : []) {
-  const full = path.join(publicRoot, name);
-  if (!fs.statSync(full).isFile() || !isBookTxtName(name)) continue;
-  if (!flatNames.has(name)) {
-    fs.unlinkSync(full);
-    totalDeleted++;
-    report.push(`[public] 删除孤立文件 ${name}`);
   }
 }
 
 console.log(report.join('\n') || '所有目录已符合要求，无需删除');
 console.log(`\n共删除 ${totalDeleted} 个文件`);
+console.log(`扁平 TXT 共 ${discoverBooks(booksRoot).length} 本`);

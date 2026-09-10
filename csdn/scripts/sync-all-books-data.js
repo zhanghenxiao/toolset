@@ -71,6 +71,18 @@ const READ_URLS = {
   235: 'https://pan.quark.cn/s/d3bdf735c407',
 };
 
+function loadExistingReadUrls() {
+  if (!fs.existsSync(booksDataPath)) return new Map();
+  const content = fs.readFileSync(booksDataPath, 'utf8');
+  const map = new Map();
+  for (const block of content.match(/\n  \{[\s\S]*?\n  \},/g) || []) {
+    const id = block.match(/id: (\d+),/)?.[1];
+    const readUrl = block.match(/readUrl: "([^"]+)"/)?.[1];
+    if (id && readUrl) map.set(Number(id), readUrl);
+  }
+  return map;
+}
+
 function getCoverVar(id) {
   if (id === 145) return 'wudaoCover';
   return `book${id}Cover`;
@@ -174,6 +186,7 @@ const registry = fs.existsSync(registryPath)
 const registryMap = new Map(registry.map((b) => [b.id, b]));
 
 const diskBooks = discoverDiskBooks();
+const existingReadUrls = loadExistingReadUrls();
 console.log(`磁盘书籍: ${diskBooks.length}`);
 
 const merged = [];
@@ -193,7 +206,7 @@ for (const disk of diskBooks) {
     status: reg?.status || '',
     latestChapter: reg?.latestChapter || disk.latestChapterFromFile || '',
     date: reg?.date || '',
-    readUrl: READ_URLS[disk.id],
+    readUrl: READ_URLS[disk.id] || existingReadUrls.get(disk.id) || reg?.readUrl,
     slug: reg?.slug || slugify(disk.title),
     tags: reg?.tags,
   };
