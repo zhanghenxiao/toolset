@@ -1,0 +1,40 @@
+<view wx:if="{{book}}" class="detail-page">
+  <view class="hero">
+    <image class="hero-cover" src="{{book.cover}}" mode="aspectFill" />
+    <view class="hero-info">
+      <text class="hero-title">{{book.title}}</text>
+      <text class="hero-author">作者：{{book.author}}</text>
+      <view class="hero-meta">
+        <text class="meta-item">{{book.category}}</text>
+        <text class="meta-item">{{book.status}}</text>
+        <text class="meta-item">{{book.chapters}}</text>
+      </view>
+      <view class="hero-tags">
+        <text
+          wx:for="{{book.tags}}"
+          wx:key="name"
+          class="tag tag-{{item.type}}"
+        >{{item.name}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view wx:if="{{book.latestChapter}}" class="section">
+    <text class="section-title">最新章节</text>
+    <text class="section-content latest">{{book.latestChapter}}</text>
+  </view>
+
+  <view class="section">
+    <text class="section-title">简介</text>
+    <text class="section-content">{{book.excerpt}}</text>
+  </view>
+
+  <view class="actions">
+    <button class="action-btn primary" bindtap="onCopyReadUrl">复制阅读链接</button>
+    <button class="action-btn secondary" bindtap="onOpenReadUrl">在浏览器打开</button>
+  </view>
+
+  <view class="tip">
+    阅读链接为夸克网盘分享，复制后请在浏览器或夸克 App 中打开。
+  </view>
+</view>

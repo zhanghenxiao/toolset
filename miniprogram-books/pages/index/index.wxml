@@ -1,0 +1,86 @@
+<view class="page">
+  <view class="masthead">
+    <text class="masthead-title">数维探索</text>
+    <text class="masthead-sub">精选小说书单</text>
+  </view>
+
+  <view class="filter-card">
+    <view class="filter-row">
+      <text class="filter-label">分类</text>
+      <picker class="filter-picker" mode="selector" range="{{categoryOptions}}" bindchange="onCategoryChange">
+        <view class="picker-value">{{selectedCategory || '全部分类'}}</view>
+      </picker>
+    </view>
+    <view class="filter-row">
+      <text class="filter-label">标签</text>
+      <picker class="filter-picker" mode="selector" range="{{tagOptions}}" bindchange="onTagChange">
+        <view class="picker-value">{{selectedTag || '全部标签'}}</view>
+      </picker>
+    </view>
+    <view class="filter-row search-row">
+      <text class="filter-label">关键词</text>
+      <view class="search-box">
+        <input
+          class="search-input"
+          placeholder-class="search-placeholder"
+          placeholder="书名、作者、简介"
+          value="{{keyword}}"
+          bindinput="onKeywordInput"
+          confirm-type="search"
+          bindconfirm="onSearch"
+        />
+        <button class="search-btn" size="mini" bindtap="onSearch">搜索</button>
+      </view>
+    </view>
+
+    <view class="results-bar">
+      <view class="results-text">
+        本站已收录 <text class="highlight">{{totalDisplay}}</text> 本小说资源，更多书源分享请访问
+        <text class="site-link" bindtap="onOpenSite">toolset.site</text>
+      </view>
+      <button wx:if="{{hasFilters}}" class="clear-btn" size="mini" bindtap="onClearFilters">清除筛选</button>
+    </view>
+    <view class="filter-summary">当前显示 {{totalFiltered}} 本</view>
+  </view>
+
+  <view wx:if="{{list.length > 0}}" class="book-grid">
+    <view
+      wx:for="{{list}}"
+      wx:key="id"
+      class="book-card"
+      data-id="{{item.id}}"
+      bindtap="onBookTap"
+    >
+      <view class="card-cover">
+        <image class="cover-img" src="{{item.cover}}" mode="aspectFill" lazy-load />
+        <text class="category-badge">{{item.category}}</text>
+        <text wx:if="{{item.latestChapter}}" class="chapter-badge">最新章节</text>
+      </view>
+      <view class="card-body">
+        <text class="card-title">{{item.title}}</text>
+        <text class="card-author">{{item.author}}</text>
+        <text class="card-excerpt">{{item.excerpt}}</text>
+        <view class="card-tags">
+          <text
+            wx:for="{{item.tags}}"
+            wx:for-item="tag"
+            wx:key="name"
+            class="tag tag-{{tag.type}}"
+          >{{tag.name}}</text>
+        </view>
+        <text class="read-btn">查看详情</text>
+      </view>
+    </view>
+  </view>
+
+  <view wx:else class="no-results">
+    <text class="no-results-icon">📚</text>
+    <text>暂无匹配的书籍</text>
+  </view>
+
+  <view wx:if="{{totalPages > 1}}" class="pagination">
+    <button class="page-btn" size="mini" disabled="{{currentPage <= 1}}" bindtap="onPrevPage">上一页</button>
+    <text class="page-info">{{currentPage}} / {{totalPages}}</text>
+    <button class="page-btn" size="mini" disabled="{{currentPage >= totalPages}}" bindtap="onNextPage">下一页</button>
+  </view>
+</view>

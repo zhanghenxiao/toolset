@@ -1,0 +1,7 @@
+{
+  "desc": "数维探索书籍页",
+  "rules": [{
+    "action": "allow",
+    "page": "*"
+  }]
+}

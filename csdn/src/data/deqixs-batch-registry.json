@@ -3498,5 +3498,55 @@
         "type": "blue"
       }
     ]
+  },
+  {
+    "id": 69,
+    "slug": "异度旅社",
+    "title": "异度旅社",
+    "author": "远瞳",
+    "date": "2026-09-07",
+    "category": "科幻",
+    "status": "连载中",
+    "chapters": "1-889章",
+    "latestChapter": "第889章 通讯链路的建立",
+    "excerpt": "在日常之下，在理性尽头，在你所熟悉的世界之外——是你从未想象过的风景。当于生第一次打开那扇门的时候，他所熟悉的世界便轰然倒塌。而那直抵世界根源的“真相”，扑面而来。",
+    "filename": "69_异度旅社1-889章.txt",
+    "downloadUrl": "/books/69_异度旅社1-889章.txt",
+    "sourceUrl": "https://www.deqixs.org/69/txt.html#dir",
+    "tags": [
+      {
+        "name": "科幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "灵境行者",
+    "title": "灵境行者",
+    "author": "卖报小郎君",
+    "date": "2026-04-08",
+    "category": "科幻",
+    "status": "已完结",
+    "chapters": "1-1050章",
+    "latestChapter": "第1020章 后记（一）",
+    "excerpt": "《灵境行者》动画9月3日10点起每周四腾讯视频全网独播，欢迎大家前往观看～ 亘古通今，传闻世有灵境。 关于灵境的说法，历朝历代的名人雅士众说纷纭，诗中记载： “自齐至唐，兹山濅荒，灵境寂寥，罕有人游。” “灵境不可状，鬼工谅难求。”",
+    "filename": "70_灵境行者1-1020章.txt",
+    "downloadUrl": "/books/70_灵境行者1-1020章.txt",
+    "sourceUrl": "https://www.deqixs.org/70/txt.html#dir",
+    "tags": [
+      {
+        "name": "科幻",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ]
   }
 ]
