@@ -339,13 +339,27 @@ generatePage(
 );
 
 // ─────────────────────────────────────────────
-// 9. 生成 sitemap.xml
+// 9. 书籍页（与 books/*.txt 共存，解决 /books 刷新 404）
+// ─────────────────────────────────────────────
+generatePage(
+    'books',
+    '书籍库 - 网络小说精选合集',
+    '数维探索书籍库，收录玄幻、仙侠、都市、历史等多类网络小说，支持分类筛选与关键词搜索，持续更新中。',
+    `<p>欢迎来到数维探索书籍库。本站收录大量网络小说资源，涵盖玄幻、仙侠、都市、历史、科幻等多种类型。</p>
+<p>您可以通过分类、标签或关键词快速筛选感兴趣的书籍。更多书源分享，请访问 <a href="https://toolset.site">https://toolset.site</a>。</p>
+<p>页面加载完成后即可使用完整筛选与分页功能。</p>`,
+    '/books'
+);
+
+// ─────────────────────────────────────────────
+// 10. 生成 sitemap.xml
 // ─────────────────────────────────────────────
 const today = new Date().toISOString().split('T')[0];
 const sitemapUrls = [
     `<url><loc>${siteHost}/</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>${today}</lastmod></url>`,
     `<url><loc>${siteHost}/about</loc><changefreq>monthly</changefreq><priority>0.6</priority><lastmod>${today}</lastmod></url>`,
     `<url><loc>${siteHost}/tools</loc><changefreq>weekly</changefreq><priority>0.7</priority><lastmod>${today}</lastmod></url>`,
+    `<url><loc>${siteHost}/books</loc><changefreq>daily</changefreq><priority>0.8</priority><lastmod>${today}</lastmod></url>`,
     `<url><loc>${siteHost}/privacy-policy</loc><changefreq>monthly</changefreq><priority>0.3</priority><lastmod>${today}</lastmod></url>`,
     ...items.map(item =>
         `<url><loc>${siteHost}/detail/${item.slug}</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>${item.date || today}</lastmod></url>`
@@ -370,4 +384,4 @@ Sitemap: ${siteHost}/sitemap.xml
 fs.writeFileSync(path.join(outDir, 'robots.txt'), robotsTxt, 'utf-8');
 console.log('  ✓ 生成: robots.txt');
 
-console.log(`\n🎉 共生成 ${items.length} 篇文章 + 4 个功能页 + sitemap.xml + robots.txt`);
+console.log(`\n🎉 共生成 ${items.length} 篇文章 + 5 个功能页 + sitemap.xml + robots.txt`);

@@ -172,22 +172,23 @@ export default {
 .results-count {
   color: var(--text-muted);
   font-size: 14px;
+  line-height: 1.5;
 }
 
-.results-count a {
+.results-count :deep(.highlight),
+.results-count :deep(.highlight-link) {
   color: var(--primary-color);
+  font-weight: 800;
+  font-size: 18px;
+  margin: 0 2px;
+}
+
+.results-count :deep(.highlight-link) {
   text-decoration: none;
 }
 
-.results-count a:hover {
+.results-count :deep(.highlight-link:hover) {
   text-decoration: underline;
-}
-
-.highlight {
-  color: var(--primary-color);
-  font-weight: 700;
-  margin: 0 2px;
-  font-size: 16px;
 }
 
 .clear-btn {

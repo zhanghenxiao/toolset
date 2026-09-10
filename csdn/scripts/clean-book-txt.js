@@ -8,9 +8,12 @@ const SPAM_LINE_PATTERNS = [
   /^来源[：:]\s*得奇小说网\s*$/,
   /^网址[：:]\s*https?:\/\/(www\.)?deqixs\.org\s*$/i,
   /记住更新地址不迷路/,
-  /必应搜索.*(嘚齐|德其|得奇)小说网/,
+  /必应搜/,
+  /必应搜索/,
+  /必应搜索.*(嘚齐|德其|德齐|德旗|得奇)小说网/,
   /必应搜索[“"].*[“"].*(可看本书|最新更新)/,
-  /搜索[“"].*(嘚齐|德其|得奇)小说网[“"].*模糊/,
+  /搜索[“"].*(嘚齐|德其|德齐|德旗|得奇)小说网[“"].*模糊/,
+  /前往.*必.*应.*搜.*小说网/,
   /w\)w\)w\)\.\)d\)e\)q\)i\)x\)s\)\.\)o\)r\)g/i,
   /请进\s*w\)w\)w\)/i,
   /更多精彩小说.*得奇小说网/,
@@ -18,6 +21,10 @@ const SPAM_LINE_PATTERNS = [
   /DeQiXs\.Org/i,
   /dEqIxS\.oRg/i,
   /请收「藏「得」「奇」小」说」/,
+  /「德」「旗」「小」「说」「网」/,
+  /「德」「齐」「小」「说」「网」/,
+  /「德」「其」「小」「说」「网」/,
+  /德[旗齐其]小说网/,
   /w「w」w」\.」d」e「q」i」x」s」/,
   /「站」「长」只「有这一个网「站/,
   /本书首发/,
@@ -49,12 +56,17 @@ const SPAM_LINE_PATTERNS = [
 
 const INLINE_SPAM_PATTERNS = [
   /\s*记住更新地址不迷路[：:][^\n]*/g,
+  /\s*必应搜[：:][^\n]*/g,
   /\s*必应搜索[“"][^"”\n]+[”"][^\n]*/g,
+  /\s*【防走失指南】[^\n]*必应[^\n]*/g,
+  /\s*前往(?:「[^」]*」)*必(?:「[^」]*」)*应(?:「[^」]*」)*搜(?:「[^」]*」)*索[^\n]*/g,
   /\s*请进\s*w\)w\)w\)[^\n]*/gi,
   /\s*更多精彩小说，请访问：得奇小说网\s*https?:\/\/(www\.)?deqixs\.org\s*/gi,
   /\s*请收「藏「得」「奇」小」说」[^\n]*/g,
   /\s*请收(?:「[^」]*」)*藏(?:「[^」]*」)*得(?:「[^」]*」)*奇(?:「[^」]*」)*小(?:「[^」]*」)*说(?:「[^」]*」)*[^\n]*/g,
   /\s*「得」「奇」「小」「说」「网」(?:「[^」]*」)*「d」「e」「q」「i」「x」「s」「.」「o」「r」「g」[^\n]*/g,
+  /\s*「德」(?:「[^」]{1,2}」){2,}(?:「手打」)?(?:「更新」)?[^\n]*/g,
+  /\s*前往(?:「[^」]*」)*德(?:「[^」]*」)*[旗齐其](?:「[^」]*」)*小(?:「[^」]*」)*说[^\n]*/g,
   /\s*速读谷\s*www\.sudugu\.org[^\n]*/gi,
   /\s*[,，]?\s*速读谷[,，]?\s*www\.sudugu\.org[^\n]*/gi,
   /\s*速\s*读\s*谷\s*(?:w\s*w\s*w\s*)?[\s.]*s\s*u\s*d\s*u\s*g\s*u\s*[\s.]*o\s*r\s*g[^\n]*/gi,
@@ -76,6 +88,8 @@ const VERTICAL_WATERMARKS = [
   ['得', '奇', '小', '说', '网', 'd', 'e', 'q', 'i', 'x', 's', '.', 'o', 'r', 'g'],
   ['嘚', '齐', '小', '说', '网', 'd', 'e', 'q', 'i', 'x', 's', '.', 'o', 'r', 'g'],
   ['德', '其', '小', '说', '网', 'd', 'e', 'q', 'i', 'x', 's', '.', 'o', 'r', 'g'],
+  ['德', '旗', '小', '说', '网'],
+  ['德', '齐', '小', '说', '网'],
 ];
 
 function tryMatchVerticalWatermark(lines, startIndex) {
@@ -145,6 +159,32 @@ function isBracketDeqixsLine(line) {
   if (/得奇小说网.*deqixs\.org/i.test(normalized)) return true;
   if (/得奇小说网首发/i.test(normalized) && /deqixs/i.test(normalized)) return true;
   if (/「得」/.test(line) && /「奇」/.test(line) && /「d」|deqixs/i.test(line)) return true;
+  if (/德[旗齐其]小说网/.test(normalized)) return true;
+  if (/「德」/.test(line) && /「旗」|「齐」|「其」/.test(line) && /「说」|「小」/.test(line)) return true;
+  return false;
+}
+
+/** 「德」「旗」… 括号分隔推广水印（整行删除） */
+function isDeqiBracketSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  const normalized = normalizeBracketSpam(content).replace(/\s+/g, '');
+  if (/德[旗齐其]小说网/.test(normalized)) return true;
+  if (/德[旗齐其].*手打.*更新/.test(normalized)) return true;
+
+  if (!/「/.test(content)) return false;
+
+  const hasDe = /「德」/.test(content);
+  const hasQiVariant = /「旗」|「齐」|「其」/.test(content);
+  const hasNovel = /「小」|「说」/.test(content) || /小说/.test(normalized);
+  const hasSiteHint = /「网」|手打|更新|首发|章节|搜/.test(content) || /小说网/.test(normalized);
+
+  if (hasDe && hasQiVariant && hasNovel && hasSiteHint) return true;
+
+  const blocks = content.match(/「[^」]{1,2}」/g) || [];
+  if (blocks.length >= 5 && hasDe && hasQiVariant) return true;
+
   return false;
 }
 
@@ -152,6 +192,28 @@ function isBracketSpamLine(line) {
   const normalized = normalizeBracketSpam(line);
   return /请收藏得奇小说唯一网址.*deqixs\.org/.test(normalized) ||
     /请收.*得.*奇.*小.*说.*www\.deqixs\.org.*断更/.test(normalized);
+}
+
+/** 必应搜索推广水印（整行删除）；不误删「有求必应」「想必应该」等正文 */
+function normalizeBingCheck(text) {
+  return normalizeBracketSpam(text).replace(/\s+/g, '');
+}
+
+function isBingSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  const normalized = normalizeBingCheck(content);
+  if (!/必应/.test(normalized)) return false;
+
+  if (/必应搜/.test(normalized)) return true;
+  if (/必应搜索/.test(normalized)) return true;
+  if (/百度/.test(normalized) && /必应/.test(normalized) && /搜/.test(normalized)) return true;
+  if (/前往/.test(normalized) && /必应/.test(normalized) && /搜/.test(normalized)) return true;
+  if (/防走失/.test(normalized) && /必应/.test(normalized)) return true;
+
+  const spamHints = /(?:小说网|最新章|德[齐旗其]|嘚齐|得奇|deqixs|查看本书|首發|首发|可看本书)/i;
+  return spamHints.test(normalized);
 }
 
 const OBFUSCATED_SPAM_PHRASES = [
@@ -265,6 +327,8 @@ function isObfuscatedSpamLine(line) {
 function isSpamLine(line) {
   const trimmed = line.trim();
   if (!trimmed) return false;
+  if (isBingSpamLine(line)) return true;
+  if (isDeqiBracketSpamLine(line)) return true;
   if (isOrgDomainLine(line)) return true;
   if (isBracketSpamLine(trimmed)) return true;
   if (isObfuscatedSpamLine(line)) return true;
@@ -319,26 +383,8 @@ function cleanFile(filePath) {
 }
 
 function discoverBookTargets() {
-  const targets = [];
-  const extra = path.join(rootDir, 'csdn/src/assets/images/books/book-154-1-145.txt');
-  if (fs.existsSync(extra)) targets.push(extra);
-
-  const booksRoot = path.join(rootDir, 'books');
-  if (!fs.existsSync(booksRoot)) return targets;
-
-  for (const id of fs.readdirSync(booksRoot)) {
-    const dir = path.join(booksRoot, id);
-    if (!fs.statSync(dir).isDirectory()) continue;
-    for (const file of fs.readdirSync(dir)) {
-      if (!file.endsWith('.txt')) continue;
-      if (file.startsWith('part') || file.startsWith('_')) continue;
-      if (file.includes('towan(')) continue;
-      targets.push(path.join(dir, file));
-      const pub = path.join(rootDir, 'csdn/public/books', id, file);
-      if (fs.existsSync(pub)) targets.push(pub);
-    }
-  }
-  return targets;
+  const { discoverBookTxtTargets } = require('./book-paths');
+  return discoverBookTxtTargets(rootDir);
 }
 
 const rootDir = path.resolve(__dirname, '../..');

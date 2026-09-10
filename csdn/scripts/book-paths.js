@@ -1,47 +1,25 @@
 /**
- * 书籍 TXT 扁平路径约定：books/{id}{书名}1-{章节}章.txt
+ * 书籍 TXT 扁平路径约定：books/{id}_{书名}1-{章节}章.txt
  */
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^(\d+)(.+?)1-(\d+)章\.txt$/;
+const BOOK_FILE_RE = /^(\d+)_(.+?)1-(\d+)章\.txt$/;
 const LEGACY_BOOK_FILE_RE = /^(.+?)1-(\d+)章\.txt$/;
-
-/** 书名以数字开头时，扁平文件名无法从前缀解析 id */
-const FILENAME_ID_OVERRIDES = {
-  '1984从破产川菜馆开始1-18699章.txt': 97,
-  '1984：从破产川菜馆开始1-18699章.txt': 97,
-  '971984：从破产川菜馆开始1-18699章.txt': 97,
-};
+/** 旧格式（无下划线）：{id}{书名}1-{章节}章.txt */
+const LEGACY_FLAT_FILE_RE = /^(\d+)(.+?)1-(\d+)章\.txt$/;
 
 function buildBookFilename(id, title, maxChapter) {
-  return `${id}${title}1-${maxChapter}章.txt`;
+  return `${id}_${title}1-${maxChapter}章.txt`;
 }
 
 function buildBookDownloadUrl(filename) {
   return `/books/${filename}`;
 }
 
-function parseWithKnownId(filename, id) {
-  let rest = filename;
-  const prefix = String(id);
-  if (rest.startsWith(prefix)) rest = rest.slice(prefix.length);
-  const legacy = parseLegacyBookFilename(rest, id);
-  if (!legacy) return null;
-  return {
-    ...legacy,
-    filename: buildBookFilename(id, legacy.title, legacy.maxChapter),
-  };
-}
-
-function parseBookFilename(filename) {
-  if (FILENAME_ID_OVERRIDES[filename]) {
-    return parseWithKnownId(filename, FILENAME_ID_OVERRIDES[filename]);
-  }
-
+function parseNewFormat(filename) {
   const m = filename.match(BOOK_FILE_RE);
   if (!m) return null;
-
   const id = Number(m[1]);
   const title = m[2];
   const maxChapter = Number(m[3]);
@@ -51,6 +29,70 @@ function parseBookFilename(filename) {
     maxChapter,
     filename: buildBookFilename(id, title, maxChapter),
   };
+}
+
+function hasCoverForId(coverDir, id) {
+  if (!coverDir) return false;
+  if (id === 145) {
+    return fs.existsSync(path.join(coverDir, 'wudao-154.jpg'));
+  }
+  return fs.existsSync(path.join(coverDir, `book-${id}.jpg`));
+}
+
+/** 解析旧格式无下划线文件名（迁移用） */
+function resolveLegacyFlatMeta(filename, coverDir) {
+  if (filename.includes('_') && BOOK_FILE_RE.test(filename)) {
+    return parseNewFormat(filename);
+  }
+
+  const legacy = filename.match(LEGACY_BOOK_FILE_RE);
+  if (!legacy) return null;
+
+  const body = legacy[1];
+  const maxChapter = Number(legacy[2]);
+
+  if (coverDir) {
+    for (let len = Math.min(3, body.length); len >= 1; len--) {
+      const idPart = body.slice(0, len);
+      if (!/^\d+$/.test(idPart)) continue;
+      const id = Number(idPart);
+      const title = body.slice(len);
+      if (!title) continue;
+      if (hasCoverForId(coverDir, id)) {
+        return {
+          id,
+          title,
+          maxChapter,
+          filename: buildBookFilename(id, title, maxChapter),
+        };
+      }
+    }
+  }
+
+  const m = filename.match(LEGACY_FLAT_FILE_RE);
+  if (!m) return null;
+  const id = Number(m[1]);
+  const title = m[2];
+  return {
+    id,
+    title,
+    maxChapter: Number(m[3]),
+    filename: buildBookFilename(id, title, Number(m[3])),
+  };
+}
+
+function resolveFlatBookMeta(filename, coverDir) {
+  const newFmt = parseNewFormat(filename);
+  if (newFmt) return newFmt;
+  return resolveLegacyFlatMeta(filename, coverDir);
+}
+
+function getCoverDirFromBooksRoot(booksRoot) {
+  return path.join(path.dirname(booksRoot), 'csdn/src/assets/images/books');
+}
+
+function parseBookFilename(filename, coverDir) {
+  return resolveFlatBookMeta(filename, coverDir);
 }
 
 function parseLegacyBookFilename(filename, id) {
@@ -65,7 +107,7 @@ function parseLegacyBookFilename(filename, id) {
 }
 
 function toFlatFilename(id, legacyFilename) {
-  const flat = parseBookFilename(legacyFilename);
+  const flat = parseNewFormat(legacyFilename);
   if (flat) return legacyFilename;
   const legacy = parseLegacyBookFilename(legacyFilename, id);
   if (!legacy) return null;
@@ -83,45 +125,23 @@ function getBookPath(rootDir, filename) {
   return path.join(rootDir, 'books', filename);
 }
 
-function getPublicBookPath(rootDir, filename) {
-  return path.join(rootDir, 'csdn/public/books', filename);
-}
-
 function getWorkDir(rootDir, id) {
   return path.join(rootDir, 'books', '_work', String(id));
-}
-
-function syncToPublic(rootDir, filename) {
-  const src = getBookPath(rootDir, filename);
-  if (!fs.existsSync(src)) return false;
-  const pubRoot = path.join(rootDir, 'csdn/public/books');
-  fs.mkdirSync(pubRoot, { recursive: true });
-  const dst = getPublicBookPath(rootDir, filename);
-  fs.copyFileSync(src, dst);
-  return true;
 }
 
 function discoverBooks(booksRoot) {
   const result = [];
   if (!fs.existsSync(booksRoot)) return result;
+  const coverDir = getCoverDirFromBooksRoot(booksRoot);
 
   for (const name of fs.readdirSync(booksRoot)) {
     const fp = path.join(booksRoot, name);
     const stat = fs.statSync(fp);
 
     if (stat.isFile() && isBookTxtName(name)) {
-      const overrideId = FILENAME_ID_OVERRIDES[name];
-      if (overrideId) {
-        const parsed = parseWithKnownId(name, overrideId);
-        if (parsed) {
-          result.push({ ...parsed, filePath: fp, legacyFilename: name });
-        }
-        continue;
-      }
-
-      const parsed = parseBookFilename(name);
+      const parsed = resolveFlatBookMeta(name, coverDir);
       if (parsed) {
-        result.push({ ...parsed, filePath: fp });
+        result.push({ ...parsed, filePath: fp, legacyFilename: name });
       }
       continue;
     }
@@ -146,7 +166,10 @@ function discoverBooks(booksRoot) {
 
   const byId = new Map();
   for (const book of result.sort((a, b) => a.id - b.id)) {
-    if (!byId.has(book.id)) byId.set(book.id, book);
+    const prev = byId.get(book.id);
+    if (!prev || book.maxChapter > prev.maxChapter) {
+      byId.set(book.id, book);
+    }
   }
   return [...byId.values()];
 }
@@ -158,8 +181,6 @@ function discoverBookTxtTargets(rootDir) {
 
   for (const book of discoverBooks(path.join(rootDir, 'books'))) {
     targets.push(book.filePath);
-    const pub = getPublicBookPath(rootDir, book.filename);
-    if (fs.existsSync(pub)) targets.push(pub);
   }
   return targets;
 }
@@ -167,17 +188,19 @@ function discoverBookTxtTargets(rootDir) {
 module.exports = {
   BOOK_FILE_RE,
   LEGACY_BOOK_FILE_RE,
+  LEGACY_FLAT_FILE_RE,
   buildBookFilename,
   buildBookDownloadUrl,
+  parseNewFormat,
+  resolveFlatBookMeta,
+  resolveLegacyFlatMeta,
+  getCoverDirFromBooksRoot,
   parseBookFilename,
   parseLegacyBookFilename,
   toFlatFilename,
   isBookTxtName,
   getBookPath,
-  getPublicBookPath,
   getWorkDir,
-  syncToPublic,
   discoverBooks,
   discoverBookTxtTargets,
-  FILENAME_ID_OVERRIDES,
 };

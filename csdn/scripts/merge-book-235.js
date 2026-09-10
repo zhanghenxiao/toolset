@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { buildBookFilename, getBookPath, getWorkDir, syncToPublic } = require('./book-paths');
+const { buildBookFilename, getBookPath, getWorkDir } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
 const workDir = getWorkDir(root, 235);
@@ -31,5 +31,4 @@ const merged = header + stripHeader(part1) + '\n' + stripHeader(part2);
 const filename = buildBookFilename(235, '我命令你成为密教教主', 835);
 const out = getBookPath(root, filename);
 fs.writeFileSync(out, merged, 'utf8');
-syncToPublic(root, filename);
 console.log(`Merged ${merged.length} chars -> ${out}`);

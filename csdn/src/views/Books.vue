@@ -65,7 +65,7 @@ export default {
           item.title.toLowerCase().includes(keyword) ||
           item.author.toLowerCase().includes(keyword) ||
           (item.publisher || '').toLowerCase().includes(keyword) ||
-          item.excerpt.toLowerCase().includes(keyword);
+          (item.excerpt || '').toLowerCase().includes(keyword);
 
         const categoryMatch = this.filters.categories.length === 0 ||
           this.filters.categories.includes(item.category);
