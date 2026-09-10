@@ -93,6 +93,36 @@ function mdToHtml(md) {
 // 3. 生成完整内容的静态页面
 // ─────────────────────────────────────────────
 const siteHost = 'https://toolset.site';
+const GH_PAGES_SEGMENT_COUNT = 0;
+
+const SPA_RECOVERY_SCRIPT = `<script>(function(l){if(l.search[1]==="/"){var d=l.search.slice(1).split("&").map(function(s){return s.replace(/~and~/g,"&")}).join("?").slice(1);window.history.replaceState(null,null,l.pathname.slice(0,-1)+d+l.hash)}}(window.location));</script>`;
+
+function injectSpaRecovery(html) {
+    if (html.includes('l.search[1]==="/"')) return html;
+    return html.replace('</head>', `  ${SPA_RECOVERY_SCRIPT}\n</head>`);
+}
+
+function build404Html() {
+    return `<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>数维探索</title>
+    <script type="text/javascript">
+      var segmentCount = ${GH_PAGES_SEGMENT_COUNT};
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + segmentCount).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(segmentCount).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body></body>
+</html>`;
+}
 
 function buildSiteFooter() {
     return `<footer style="margin-top:48px;padding-top:24px;border-top:1px solid #eee;text-align:center;color:#888;font-size:13px;">
@@ -131,6 +161,7 @@ function generatePage(routeDir, title, description, bodyHtml, canonicalPath, met
     // 精确替换 <div id="app"> 内部全部内容（支持嵌套 div）
     const fallbackDiv = buildFallbackDiv(title, description, bodyHtml, metaHtml);
     html = replaceAppDiv(html, fallbackDiv);
+    html = injectSpaRecovery(html);
 
     const dirPath = path.join(outDir, routeDir);
     fs.mkdirSync(dirPath, { recursive: true });
@@ -252,6 +283,7 @@ ${articleListHtml}
 
     // 精确替换 <div id="app"> 内部全部内容（支持嵌套 div）
     homeHtml = replaceAppDiv(homeHtml, fallbackDiv);
+    homeHtml = injectSpaRecovery(homeHtml);
 
     fs.writeFileSync(path.join(outDir, 'index.html'), homeHtml, 'utf-8');
     console.log('  ✓ 更新: /index.html (含文章列表)');
@@ -384,4 +416,7 @@ Sitemap: ${siteHost}/sitemap.xml
 fs.writeFileSync(path.join(outDir, 'robots.txt'), robotsTxt, 'utf-8');
 console.log('  ✓ 生成: robots.txt');
 
-console.log(`\n🎉 共生成 ${items.length} 篇文章 + 5 个功能页 + sitemap.xml + robots.txt`);
+fs.writeFileSync(path.join(outDir, '404.html'), build404Html(), 'utf-8');
+console.log('  ✓ 生成: 404.html (GitHub Pages SPA 回退)');
+
+console.log(`\n🎉 共生成 ${items.length} 篇文章 + 5 个功能页 + sitemap.xml + robots.txt + 404.html`);
