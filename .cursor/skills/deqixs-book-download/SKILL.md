@@ -13,8 +13,7 @@ description: >-
 
 | 用途 | 路径 |
 |------|------|
-| 书籍正文 | `books/{id}{书名}1-{最新章节}章.txt` |
-| 公开访问副本 | `csdn/public/books/{id}{书名}1-{最新章节}章.txt` |
+| 书籍正文 | `books/{id}_{书名}1-{最新章节}章.txt` |
 | 封面图 | `csdn/src/assets/images/books/book-{aid}.jpg` |
 | 简介文本 | `csdn/src/data/books/book-{localId}-excerpt.txt` |
 | 书籍数据 | `csdn/src/data/booksData.js` |
@@ -40,10 +39,9 @@ description: >-
 - [ ] 2. 下载封面与 TXT
 - [ ] 3. 分段合并（如需要）
 - [ ] 4. 执行清理脚本
-- [ ] 5. 重命名为「书名1-最新章节章.txt」
-- [ ] 6. 同步 public 目录
-- [ ] 7. 更新 booksData.js 与 clean-book-txt.js
-- [ ] 8. 验证无残留水印
+- [ ] 5. 重命名为 `{id}_{书名}1-{最新章节}章.txt`
+- [ ] 6. 更新 booksData.js
+- [ ] 7. 验证无残留水印
 ```
 
 ### 1. 获取元数据
@@ -131,6 +129,8 @@ node csdn/scripts/clean-book-txt.js
 - 竖排字符水印（得/奇/小/说/网/d/e/q/i/x/s/.o/r/g）
 - 括号分隔水印：`「得」「奇」…「deqixs.org」`
 - 乱码推广行：`，??9`、`??提醒您查看最新内容`、`看本书，??9`
+- **必应推广整行**：含 `必应搜` / `必应搜索` / `百度…必应…搜`；或去「」后含 `必应` 且带小说站关键词（如 `德齐/德旗小说网`、`最新章`、`查看本书`）；含 `前往…必应…搜…小说网` 的括号分隔变体
+- **「德」括号水印整行**：如 `「德」「旗」「小」「说」「网」「手打」「更新」`；去「」后为 `德旗/德齐/德其小说网`；连续 5 个以上「单字」括号块且含 `德`+`旗/齐/其`
 - `必应搜索「嘚齐小说网」`、`w)w)w).)d)e)q)i)x)s).)o)r)g`
 - `速读谷` / `速度谷` / `www.sudugu.org` / `ｓuduɡu.ｃｃ`（含空格模糊变体：`速 读 谷`、`速.读.谷`、`涑￥读 ￥谷`、`s…u…d…u…g…u. o…r…g`、`更新不易，请记住本站…`）
 - **凡含 `.org` 的整行**（含全角点 `。org`、逗号分隔 `.o,r,g` 等变体）
@@ -143,18 +143,12 @@ node csdn/scripts/clean-book-txt.js
 从 TXT 内 grep 实际最新章节（如 `^ 第八百三十五章` 或 `^ 第148章`），命名：
 
 ```
-{id}{书名}1-{最新章节数}章.txt
+{id}_{书名}1-{最新章节数}章.txt
 ```
 
-示例：`145武道！1-148章.txt`、`235我命令你成为密教教主1-835章.txt`
+示例：`145_武道！1-148章.txt`、`1_没钱修什么仙？1-987章.txt`
 
-### 6. 同步 public 目录
-
-```bash
-cp books/{id}{文件名} csdn/public/books/{id}{文件名}
-```
-
-### 7. 更新 booksData.js
+### 6. 更新 booksData.js
 
 在 `bookItems` 数组头部添加条目：
 
@@ -179,7 +173,7 @@ cp books/{id}{文件名} csdn/public/books/{id}{文件名}
 
 同步更新 `allBookCategories` 和 `allBookTags`（如有新分类/标签）。
 
-用户提供夸克分享链接时，设置 `readUrl`（「阅读」按钮跳转网盘）；无则可用 `downloadUrl: '/books/{id}{书名}1-{章节}章.txt'`。
+用户提供夸克分享链接时，设置 `readUrl`（「阅读」按钮跳转网盘）；无则可用 `downloadUrl: '/books/{id}_{书名}1-{章节}章.txt'`。
 
 ## 验证清单
 
