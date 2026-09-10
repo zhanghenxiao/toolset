@@ -1,0 +1,316 @@
+.page {
+  min-height: 100vh;
+  padding-bottom: 60rpx;
+}
+
+/* ---------- 页眉：书阁牌匾 ---------- */
+.masthead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 44rpx 0 8rpx;
+}
+
+.masthead-title {
+  position: relative;
+  font-size: 46rpx;
+  font-weight: 700;
+  color: #4a3728;
+  letter-spacing: 10rpx;
+}
+
+.masthead-title::after {
+  content: '';
+  position: absolute;
+  bottom: -14rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 140rpx;
+  height: 3rpx;
+  background: #c9a97a;
+}
+
+.masthead-sub {
+  margin-top: 30rpx;
+  font-size: 24rpx;
+  color: #8a7355;
+  letter-spacing: 6rpx;
+}
+
+/* ---------- 筛选面板：古籍函套 ---------- */
+.filter-card {
+  margin: 24rpx 32rpx;
+  padding: 28rpx 28rpx 24rpx;
+  background: linear-gradient(180deg, #fffaf0 0%, #f7eeda 100%);
+  border: 1rpx solid #e0d0b2;
+  border-left: 8rpx solid #7a2f2f;
+  border-radius: 10rpx;
+  box-shadow: 0 8rpx 22rpx rgba(122, 96, 58, 0.12);
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.filter-label {
+  width: 120rpx;
+  color: #8a6d4b;
+  font-size: 26rpx;
+  letter-spacing: 2rpx;
+  flex-shrink: 0;
+}
+
+.filter-picker {
+  flex: 1;
+  min-width: 0;
+}
+
+.picker-value {
+  padding: 16rpx 24rpx;
+  background: #fdf9ef;
+  border: 1rpx solid #ddcdae;
+  border-radius: 8rpx;
+  color: #43382d;
+  font-size: 26rpx;
+}
+
+.search-row {
+  align-items: flex-start;
+}
+
+.search-box {
+  flex: 1;
+  display: flex;
+  gap: 16rpx;
+}
+
+.search-input {
+  flex: 1;
+  padding: 16rpx 24rpx;
+  background: #fdf9ef;
+  border: 1rpx solid #ddcdae;
+  border-radius: 8rpx;
+  color: #43382d;
+  font-size: 26rpx;
+}
+
+.search-placeholder {
+  color: #b8a888;
+}
+
+.search-btn {
+  background: linear-gradient(135deg, #8c2f39, #6d2229) !important;
+  color: #f7eeda !important;
+  border: none !important;
+  border-radius: 8rpx !important;
+  margin: 0 !important;
+  padding: 0 28rpx !important;
+  line-height: 64rpx !important;
+  height: 64rpx !important;
+  letter-spacing: 2rpx;
+}
+
+.results-bar {
+  margin-top: 24rpx;
+  padding-top: 24rpx;
+  border-top: 1rpx dashed #d8c6a4;
+}
+
+.results-text {
+  font-size: 24rpx;
+  color: #8a7355;
+  line-height: 1.8;
+}
+
+.highlight {
+  color: #8c2f39;
+  font-weight: 700;
+}
+
+.site-link {
+  color: #7a2f2f;
+  font-weight: 600;
+  border-bottom: 1rpx solid #c9a97a;
+}
+
+.clear-btn {
+  margin-top: 16rpx !important;
+  background: transparent !important;
+  color: #8c2f39 !important;
+  border: 1rpx solid #c9a97a !important;
+  border-radius: 8rpx !important;
+}
+
+.filter-summary {
+  margin-top: 12rpx;
+  font-size: 24rpx;
+  color: #a08a68;
+}
+
+/* ---------- 书卡：竖排书脊 ---------- */
+.book-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 24rpx;
+}
+
+.book-card {
+  width: 49%;
+  margin-bottom: 20rpx;
+  background: #fffdf7;
+  border: 1rpx solid #e5d8bd;
+  border-radius: 8rpx;
+  overflow: hidden;
+  box-shadow: 0 8rpx 18rpx rgba(122, 96, 58, 0.14);
+}
+
+.card-cover {
+  position: relative;
+  width: 100%;
+  height: 320rpx;
+  border-bottom: 1rpx solid #e5d8bd;
+}
+
+.cover-img {
+  width: 100%;
+  height: 100%;
+  background: #efe3cb;
+}
+
+.category-badge {
+  position: absolute;
+  top: 12rpx;
+  left: 12rpx;
+  padding: 4rpx 14rpx;
+  background: rgba(122, 47, 47, 0.92);
+  color: #f7eeda;
+  font-size: 20rpx;
+  letter-spacing: 2rpx;
+  border-radius: 6rpx;
+}
+
+.chapter-badge {
+  position: absolute;
+  bottom: 12rpx;
+  right: 12rpx;
+  padding: 4rpx 14rpx;
+  background: rgba(74, 55, 40, 0.85);
+  color: #e8c976;
+  font-size: 20rpx;
+  border-radius: 6rpx;
+}
+
+.card-body {
+  padding: 20rpx;
+}
+
+.card-title {
+  display: block;
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #3a2f24;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card-author {
+  display: block;
+  margin-top: 8rpx;
+  font-size: 22rpx;
+  color: #8a7355;
+}
+
+.card-excerpt {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin-top: 12rpx;
+  font-size: 22rpx;
+  color: #9c8a70;
+  line-height: 1.6;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8rpx;
+  margin-top: 12rpx;
+}
+
+.tag {
+  padding: 4rpx 12rpx;
+  font-size: 20rpx;
+  border-radius: 6rpx;
+  border: 1rpx solid transparent;
+}
+
+.tag-purple {
+  background: rgba(122, 47, 47, 0.1);
+  color: #8c2f39;
+  border-color: rgba(122, 47, 47, 0.25);
+}
+
+.tag-blue {
+  background: rgba(74, 90, 60, 0.12);
+  color: #4f6b41;
+  border-color: rgba(74, 90, 60, 0.25);
+}
+
+.read-btn {
+  display: inline-block;
+  margin-top: 18rpx;
+  padding: 8rpx 24rpx;
+  background: linear-gradient(135deg, #8c2f39, #6d2229);
+  color: #f7eeda;
+  font-size: 22rpx;
+  letter-spacing: 2rpx;
+  border-radius: 6rpx;
+}
+
+/* ---------- 空状态 & 翻页 ---------- */
+.no-results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120rpx 0;
+  color: #a08a68;
+}
+
+.no-results-icon {
+  font-size: 80rpx;
+  margin-bottom: 24rpx;
+  opacity: 0.55;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32rpx;
+  margin-top: 48rpx;
+  padding: 0 32rpx;
+}
+
+.page-btn {
+  background: #fffdf7 !important;
+  color: #6d2229 !important;
+  border: 1rpx solid #c9a97a !important;
+  border-radius: 8rpx !important;
+  letter-spacing: 2rpx;
+}
+
+.page-btn[disabled] {
+  color: #c3b295 !important;
+  border-color: #e5d8bd !important;
+}
+
+.page-info {
+  font-size: 26rpx;
+  color: #8a7355;
+  letter-spacing: 2rpx;
+}

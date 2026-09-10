@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTitleText": "数维探索",
+    "navigationBarBackgroundColor": "#4a3728",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f3ead8",
+    "backgroundTextStyle": "dark"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
