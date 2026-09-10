@@ -1,5 +1,11 @@
 <template>
-  <div class="book-card fade-in">
+  <component
+    :is="bookUrl ? 'a' : 'div'"
+    class="book-card fade-in"
+    :href="bookUrl || undefined"
+    :target="bookUrl ? '_blank' : undefined"
+    :rel="bookUrl ? 'noopener noreferrer' : undefined"
+  >
     <div class="card-cover">
       <img :src="book.cover" :alt="book.title" />
       <span class="category-badge">{{ book.category }}</span>
@@ -20,11 +26,9 @@
       <div class="card-tags">
         <span v-for="tag in book.tags" :key="tag.name" class="tag" :class="'tag-' + tag.type">{{ tag.name }}</span>
       </div>
-      <a v-if="book.readUrl || book.downloadUrl" class="read-btn" :href="book.readUrl || book.downloadUrl" target="_blank" rel="noopener" @click.stop>
-        {{ $t('books.read') }}
-      </a>
+      <span v-if="bookUrl" class="read-btn">{{ $t('books.read') }}</span>
     </div>
-  </div>
+  </component>
 </template>
 
 <script>
@@ -34,6 +38,11 @@ export default {
     book: {
       type: Object,
       required: true,
+    },
+  },
+  computed: {
+    bookUrl() {
+      return this.book.readUrl || this.book.downloadUrl || '';
     },
   },
 };
@@ -53,6 +62,8 @@ export default {
   width: 100%;
   max-width: 280px;
   margin: 0 auto;
+  text-decoration: none;
+  color: inherit;
 }
 
 .book-card:hover {
