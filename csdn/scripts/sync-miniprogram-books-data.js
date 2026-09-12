@@ -9,22 +9,50 @@ const root = path.resolve(__dirname, '../..');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 const outDir = path.join(root, 'miniprogram-books/data');
 const assetsDir = path.join(root, 'assets');
+const sourceCoverDir = path.join(root, 'csdn/src/assets/images/books');
 const SITE = 'https://toolset.site';
 
-function resolveCoverUrl(id) {
-  if (!fs.existsSync(assetsDir)) {
-    return `${SITE}/assets/book-${id}.jpg`;
+/** 从打包产物 assets/ 构建 id -> 封面文件名 映射 */
+function buildCoverMap() {
+  const map = new Map();
+  if (!fs.existsSync(assetsDir)) return map;
+
+  for (const file of fs.readdirSync(assetsDir)) {
+    const bookMatch = file.match(/^book-(\d+)-[a-f0-9]+\.jpg$/);
+    if (bookMatch) {
+      map.set(Number(bookMatch[1]), file);
+      continue;
+    }
+    if (/^wudao-.*\.jpg$/i.test(file)) {
+      map.set(145, file);
+    }
   }
-  const files = fs.readdirSync(assetsDir);
-  if (id === 145) {
-    const wudao = files.find((f) => /^wudao-.*\.jpg$/i.test(f));
-    if (wudao) return `${SITE}/assets/${wudao}`;
+
+  const bundleFile = fs.readdirSync(assetsDir).find((f) => /^index-[a-f0-9]+\.js$/.test(f));
+  if (bundleFile) {
+    const content = fs.readFileSync(path.join(assetsDir, bundleFile), 'utf8');
+    for (const m of content.matchAll(/book-(\d+)-[a-f0-9]{8}\.jpg/g)) {
+      const id = Number(m[1]);
+      if (!map.has(id)) map.set(id, m[0]);
+    }
   }
-  const match = files.find((f) => new RegExp(`^book-${id}-[a-f0-9]+\\.jpg$`).test(f));
-  return match ? `${SITE}/assets/${match}` : `${SITE}/assets/book-${id}.jpg`;
+
+  return map;
 }
 
-function parseBooksData(content) {
+function resolveCoverUrl(id, coverMap) {
+  const hashed = coverMap.get(id);
+  if (hashed) return `${SITE}/assets/${hashed}`;
+
+  const sourceCover = path.join(sourceCoverDir, id === 145 ? 'wudao-154.jpg' : `book-${id}.jpg`);
+  if (fs.existsSync(sourceCover)) {
+    console.warn(`[${id}] 封面未在 assets/ 找到打包文件，请先 npm run build：${sourceCover}`);
+  }
+
+  return '';
+}
+
+function parseBooksData(content, coverMap) {
   const books = [];
   const blockRe = /\{\s*id:\s*(\d+),[\s\S]*?\n  \},/g;
   let m;
@@ -49,7 +77,7 @@ function parseBooksData(content) {
       excerpt: getStr('excerpt'),
       readUrl: getStr('readUrl'),
       tags,
-      cover: resolveCoverUrl(id),
+      cover: resolveCoverUrl(id, coverMap),
     });
   }
   return books.sort((a, b) => a.id - b.id);
@@ -62,10 +90,13 @@ function parseMeta(content, name) {
   return JSON.parse(match[1].replace(/'/g, '"'));
 }
 
+const coverMap = buildCoverMap();
 const raw = fs.readFileSync(booksDataPath, 'utf8');
-const books = parseBooksData(raw);
+const books = parseBooksData(raw, coverMap);
 const categories = parseMeta(raw, 'allBookCategories');
 const tags = parseMeta(raw, 'allBookTags');
+
+const missingCovers = books.filter((b) => !b.cover).map((b) => b.id);
 
 fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(
@@ -80,3 +111,7 @@ fs.writeFileSync(
 );
 
 console.log(`已写入 ${books.length} 本书 -> miniprogram-books/data/books.js`);
+console.log(`封面映射: ${coverMap.size} 个打包资源`);
+if (missingCovers.length > 0) {
+  console.warn(`缺少封面 URL: ${missingCovers.length} 本`, missingCovers.slice(0, 20).join(', '));
+}
