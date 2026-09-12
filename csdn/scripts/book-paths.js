@@ -9,8 +9,15 @@ const LEGACY_BOOK_FILE_RE = /^(.+?)1-(\d+)章\.txt$/;
 /** 旧格式（无下划线）：{id}{书名}1-{章节}章.txt */
 const LEGACY_FLAT_FILE_RE = /^(\d+)(.+?)1-(\d+)章\.txt$/;
 
+function sanitizeBookTitle(title) {
+  return String(title)
+    .replace(/[\\/:*?"<>|]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function buildBookFilename(id, title, maxChapter) {
-  return `${id}_${title}1-${maxChapter}章.txt`;
+  return `${id}_${sanitizeBookTitle(title)}1-${maxChapter}章.txt`;
 }
 
 function buildBookDownloadUrl(filename) {

@@ -310,6 +310,26 @@ const DEQI_SHOUDA_INLINE_PATTERNS = [
   /手打全[本网]?/g,
 ];
 
+/** HTML 数字实体混淆推广（&#8204;、&#65279; 等拼 deqixs.org） */
+const HTML_ENTITY_SPAM_TAIL_PATTERNS = [
+  /[，,；;]?最新章节不迷路[^。！？\n]*$/g,
+  /[，,；;]?更多无错精彩章节[^。！？\n]*$/g,
+  /[，,；;]?后续章节可以进[：:][^。！？\n]*$/g,
+  /[，,；;]?免费阅读全文[^。！？\n]*$/g,
+  /[，,；;]?全网同步更新[^。！？\n]*$/g,
+  /[，,；;]?避免乱码[^。！？\n]*$/g,
+  /[，,；;]?浏览器直接输入[：:][a-zA-Z.]*$/gi,
+  /[，,；;]?请访问[^。！？\n]*$/g,
+  /[，,；;]?请进[：:][^。！？\n]*$/g,
+  /[，,；;]?请认准[^。！？\n]*$/g,
+  /[，,；;]?文字更新\s*www?\.?\s*$/gi,
+  /[，,；;]?域名防封[^。！？\n]*$/g,
+  /[，,；;]?【紧急公告】[^】\n]*$/g,
+  /[，,；;]?【提示：[^\n]*$/g,
+  /[（(]\s*$/g,
+  /[，,；;]?全文字手打[^。！？\n]*$/g,
+];
+
 function deqiShoudaResidual(compact) {
   return compact
     .replace(/得奇小说网/g, '')
@@ -436,8 +456,17 @@ function isSpamLine(line) {
   return SPAM_LINE_PATTERNS.some((pattern) => pattern.test(trimmed));
 }
 
+function cleanHtmlEntitySpam(line) {
+  if (!line.includes('&#')) return line;
+  let result = line.replace(/&#.*$/g, '');
+  for (const pattern of HTML_ENTITY_SPAM_TAIL_PATTERNS) {
+    result = result.replace(pattern, '');
+  }
+  return result;
+}
+
 function cleanInlineSpam(line) {
-  let result = line;
+  let result = cleanHtmlEntitySpam(line);
   for (const pattern of INLINE_SPAM_PATTERNS) {
     result = result.replace(pattern, '');
   }

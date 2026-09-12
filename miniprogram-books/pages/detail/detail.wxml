@@ -29,10 +29,6 @@
     <text class="section-content">{{book.excerpt}}</text>
   </view>
 
-  <view class="actions">
-    <button class="action-btn secondary" bindtap="onOpenReadUrl">在浏览器打开</button>
-  </view>
-
   <view class="tip">
     阅读链接为夸克网盘分享，复制后请在浏览器或夸克 App 中打开。
   </view>

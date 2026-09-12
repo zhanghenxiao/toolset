@@ -14,8 +14,8 @@ const {
 const root = path.resolve(__dirname, '../..');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 const registryPath = path.join(root, 'csdn/src/data/deqixs-batch-registry.json');
-const startId = Number(process.argv[2] || 200);
-const endId = Number(process.argv[3] || 400);
+const startId = Number(process.argv[2] || 701);
+const endId = Number(process.argv[3] || 1100);
 
 const CN_NUM = { 零: 0, 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9, 十: 10, 百: 100, 千: 1000, 两: 2 };
 
@@ -45,13 +45,13 @@ function findLatestChapterNum(content) {
   for (const line of content.split('\n')) {
     const t = line.trim();
     if (!t || t.length > 80) continue;
-    let m = t.match(/^第(\d+)章/);
+    let m = t.match(/^第(\d+)章[：:\s]?/);
     if (m) {
       const n = Number(m[1]);
       if (n > max && n < 50000) max = n;
       continue;
     }
-    m = t.match(/^第([一二三四五六七八九十百千万零两]+)章/);
+    m = t.match(/^第([一二三四五六七八九十百千万零两]+)章[：:\s]?/);
     if (m) {
       const n = cnToInt(m[1]);
       if (n > max && n < 50000) max = n;
@@ -64,6 +64,20 @@ function findLatestChapterNum(content) {
     }
   }
   return max;
+}
+
+function findMaxFromRangeHeaders(content) {
+  let max = 0;
+  for (const m of content.matchAll(/章节范围：1-(\d+)章/g)) {
+    max = Math.max(max, Number(m[1]));
+  }
+  return max;
+}
+
+function resolveChapterCount(content, regMax) {
+  const fromLines = findLatestChapterNum(content);
+  const fromRange = findMaxFromRangeHeaders(content);
+  return Math.max(fromLines, fromRange, regMax || 0);
 }
 
 function updateBooksData(id, filename, chapters) {
@@ -79,18 +93,18 @@ function updateBooksData(id, filename, chapters) {
   fs.writeFileSync(booksDataPath, content, 'utf8');
 }
 
-const registry = fs.existsSync(registryPath)
-  ? new Map(JSON.parse(fs.readFileSync(registryPath, 'utf8')).map((b) => [b.id, b]))
-  : new Map();
+const registryList = fs.existsSync(registryPath)
+  ? JSON.parse(fs.readFileSync(registryPath, 'utf8'))
+  : [];
+const registry = new Map(registryList.map((b) => [b.id, b]));
 
 let fixed = 0;
 for (const book of discoverBooks(path.join(root, 'books'))) {
   if (book.id < startId || book.id > endId) continue;
   const content = fs.readFileSync(book.filePath, 'utf8');
-  let actual = findLatestChapterNum(content);
   const reg = registry.get(book.id);
   const regMax = Number(reg?.chapters?.match(/1-(\d+)章/)?.[1] || 0);
-  if (!actual && regMax) actual = regMax;
+  const actual = resolveChapterCount(content, regMax);
   if (!actual || actual === book.maxChapter) continue;
 
   const filename = buildBookFilename(book.id, book.title, actual);
@@ -103,8 +117,17 @@ for (const book of discoverBooks(path.join(root, 'books'))) {
   }
   fs.renameSync(book.filePath, newPath);
   updateBooksData(book.id, filename, `1-${actual}章`);
-  console.log(`[${book.id}] ${book.filename} → ${filename}`);
+  if (reg) {
+    reg.filename = filename;
+    reg.downloadUrl = buildBookDownloadUrl(filename);
+    reg.chapters = `1-${actual}章`;
+  }
+  console.log(`[${book.id}] ${path.basename(book.filePath)} → ${filename}`);
   fixed += 1;
+}
+
+if (registryList.length) {
+  fs.writeFileSync(registryPath, JSON.stringify(registryList, null, 2), 'utf8');
 }
 
 console.log(`完成，修正 ${fixed} 个文件名`);

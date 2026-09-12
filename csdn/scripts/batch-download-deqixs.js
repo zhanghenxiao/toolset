@@ -124,23 +124,56 @@ function parseMetadata(html, id) {
   return { id, title, author, status, category, segments: normalizedSegments, excerpt, latestChapter, date };
 }
 
+const CN_NUM = { 零: 0, 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9, 十: 10, 百: 100, 千: 1000, 两: 2 };
+
+function cnToInt(text) {
+  if (/^\d+$/.test(text)) return Number(text);
+  let result = 0;
+  let current = 0;
+  for (const ch of text) {
+    if (ch === '十') {
+      current = current === 0 ? 1 : current;
+      result += current * 10;
+      current = 0;
+      continue;
+    }
+    if (CN_NUM[ch] >= 10) {
+      result += (current || 1) * CN_NUM[ch];
+      current = 0;
+      continue;
+    }
+    if (CN_NUM[ch] !== undefined) current = CN_NUM[ch];
+  }
+  return result + current;
+}
+
 function findLatestChapterNum(content) {
   let max = 0;
   let lastTitle = '';
   for (const line of content.split('\n')) {
     const t = line.trim();
     if (!t || t.length > 80) continue;
-    let m = t.match(/^第(\d+)章\s*(.*)$/);
+    let m = t.match(/^第(\d+)章[：:\s]?(.*)$/);
     if (m) {
       const n = Number(m[1]);
-      if (n > max && n < 10000) { max = n; lastTitle = m[2]; }
+      if (n > max && n < 50000) { max = n; lastTitle = m[2]; }
+      continue;
+    }
+    m = t.match(/^第([一二三四五六七八九十百千万零两]+)章[：:\s]?(.*)$/);
+    if (m) {
+      const n = cnToInt(m[1]);
+      if (n > max && n < 50000) { max = n; lastTitle = m[2]; }
       continue;
     }
     m = t.match(/^(\d+)、\s*(.*)$/);
     if (m) {
       const n = Number(m[1]);
-      if (n > max && n < 10000) { max = n; lastTitle = m[2]; }
+      if (n > max && n < 50000) { max = n; lastTitle = m[2]; }
     }
+  }
+  for (const m of content.matchAll(/章节范围：1-(\d+)章/g)) {
+    const n = Number(m[1]);
+    if (n > max && n < 50000) max = n;
   }
   return { max, lastTitle };
 }
@@ -194,10 +227,12 @@ function downloadBook(meta) {
 
   const { max, lastTitle } = findLatestChapterNum(merged);
   const segEnd = segments[segments.length - 1].end;
-  const chapterNum = meta.latestChapter.match(/第(\d+)章/)?.[1];
-  let finalMax = chapterNum ? Number(chapterNum) : max;
-  if (finalMax > segEnd + 50 || finalMax > 5000) {
-    finalMax = Math.min(max > 0 && max <= segEnd + 50 ? max : segEnd, segEnd);
+  const chapterNum = Number(meta.latestChapter.match(/第(\d+)章/)?.[1] || 0);
+  let finalMax = Math.max(chapterNum, max, segEnd);
+  if (finalMax > segEnd + 50 && max > 0 && max <= segEnd + 50) {
+    finalMax = max;
+  } else if (finalMax > segEnd + 50) {
+    finalMax = segEnd;
   }
   const filename = buildBookFilename(id, title, finalMax);
   const finalPath = getBookPath(root, filename);
