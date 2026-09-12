@@ -14,7 +14,11 @@
             :show-info="false" @change="handlePageChange" />
         </div>
         <div v-else class="no-results fade-in">
-          <div class="no-results-content">
+          <div v-if="isKeywordSearchEmpty" class="no-results-content no-results-scan">
+            <p class="no-results-scan-text">{{ $t('books.noResultsScanText') }}</p>
+            <img src="/image.png" alt="数维小程序二维码" class="no-results-qr" />
+          </div>
+          <div v-else class="no-results-content">
             <svg viewBox="0 0 24 24" width="64" height="64">
               <path fill="currentColor"
                 d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z" />
@@ -83,7 +87,10 @@ export default {
     paginatedItems() {
       const start = (this.currentPage - 1) * this.pageSize;
       return this.filteredItems.slice(start, start + this.pageSize);
-    }
+    },
+    isKeywordSearchEmpty() {
+      return this.filters.keyword.trim().length > 0;
+    },
   },
   methods: {
     handleFilterChange(newFilters) {
@@ -133,6 +140,30 @@ main {
 .no-results-content svg {
   margin-bottom: 20px;
   opacity: 0.2;
+}
+
+.no-results:has(.no-results-scan) {
+  padding: 48px 0 80px;
+}
+
+.no-results-scan {
+  max-width: 320px;
+  margin-top: -24px;
+}
+
+.no-results-scan-text {
+  margin: 0 0 20px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-primary, #1a1a1a);
+}
+
+.no-results-qr {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 0;
+  border-radius: 12px;
+  object-fit: contain;
 }
 
 @media (max-width: 1200px) {

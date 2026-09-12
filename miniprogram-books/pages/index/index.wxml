@@ -32,15 +32,6 @@
         <button class="search-btn" size="mini" bindtap="onSearch">搜索</button>
       </view>
     </view>
-
-    <view class="results-bar">
-      <view class="results-text">
-        本站已收录 <text class="highlight">{{totalDisplay}}</text> 本小说资源，更多书源分享请访问
-        <text class="site-link" bindtap="onOpenSite">toolset.site</text>
-      </view>
-      <button wx:if="{{hasFilters}}" class="clear-btn" size="mini" bindtap="onClearFilters">清除筛选</button>
-    </view>
-    <view class="filter-summary">当前显示 {{totalFiltered}} 本</view>
   </view>
 
   <view wx:if="{{list.length > 0}}" class="book-grid">
@@ -76,6 +67,7 @@
   <view wx:else class="no-results">
     <text class="no-results-icon">📚</text>
     <text>暂无匹配的书籍</text>
+    <text class="no-results-tip">请关注微信公众号「数维探索」留言你想找的书籍</text>
   </view>
 
   <view wx:if="{{totalPages > 1}}" class="pagination">

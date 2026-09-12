@@ -52,6 +52,10 @@ const SPAM_LINE_PATTERNS = [
   /sudugu\.org/i,
   /suduɡu/i,
   /输入速读谷的拼音后缀/,
+  /^关注微信公众号[，,：:\s]*北尘阅读\s*$/,
+  /^微信公众号[，,：:\s]*北尘阅读\s*$/,
+  /^微信搜[：:\s]*北尘阅读\s*$/,
+  /^北尘阅读[，,：:\s]*微信公众号\s*$/,
 ];
 
 const INLINE_SPAM_PATTERNS = [
@@ -82,6 +86,12 @@ const INLINE_SPAM_PATTERNS = [
   /\s*记得分享[^。\n]*速读谷[^。\n]*/g,
   /ｓuduɡu\.ｃｃ[^\n]*/g,
   /\s*速读谷[,，]?\s*www\.sudugu\.org\s*看[^\n]*/gi,
+  /\s*关注微信公众号[，,：:\s]*北尘阅读\s*/g,
+  /\s*微信公众号[，,：:\s]*北尘阅读\s*/g,
+  /\s*微信搜[：:\s]*北尘阅读\s*/g,
+  /\s*北尘阅读[，,：:\s]*微信公众号\s*/g,
+  /\s*手[·．.\s,，、]*打[·．.\s,，、]*全[本网本]?\s*/g,
+  /\s*得[·．.\s,，、]*奇[·．.\s,，、]*小[·．.\s,，、]*说[网]?\s*/g,
 ];
 
 const VERTICAL_WATERMARKS = [
@@ -140,7 +150,8 @@ function removeVerticalWatermarks(lines) {
 function readTextFile(filePath) {
   const buffer = fs.readFileSync(filePath);
   const utf8 = buffer.toString('utf8');
-  if (!utf8.includes('\uFFFD')) {
+  const sample = utf8.slice(0, 4000);
+  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者：/.test(sample)) {
     return utf8;
   }
   try {
@@ -158,9 +169,12 @@ function isBracketDeqixsLine(line) {
   const normalized = normalizeBracketSpam(line).replace(/\s/g, '');
   if (/得奇小说网.*deqixs\.org/i.test(normalized)) return true;
   if (/得奇小说网首发/i.test(normalized) && /deqixs/i.test(normalized)) return true;
+  if (/得奇小说.*deqixs/i.test(normalized)) return true;
+  if (/得奇小说/.test(normalized) && /手打|首发|更新|网址|www/.test(normalized)) return true;
   if (/「得」/.test(line) && /「奇」/.test(line) && /「d」|deqixs/i.test(line)) return true;
   if (/德[旗齐其]小说网/.test(normalized)) return true;
   if (/「德」/.test(line) && /「旗」|「齐」|「其」/.test(line) && /「说」|「小」/.test(line)) return true;
+  if (/「手打」/.test(line) && /「全」/.test(line) && (/「得」|「奇」/.test(line) || /得奇小说/.test(normalized))) return true;
   return false;
 }
 
@@ -252,6 +266,91 @@ function deobfuscateSudugu(text) {
     .toLowerCase();
 }
 
+/** 去除中文推广水印常用分隔符（空格、标点等） */
+function deobfuscateChineseSpam(text) {
+  return text.replace(/[·．.\s,，、•‧！!。．￥¥…:：;；]/g, '');
+}
+
+/** 「秒级更新，精彩不卡顿」类推广水印（模糊匹配） */
+function miaojiSpamResidual(compact) {
+  return compact
+    .replace(/秒级更新精彩不卡顿/g, '')
+    .replace(/秒级更新/g, '')
+    .replace(/精彩不卡顿/g, '');
+}
+
+function isMiaojiSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  const compact = deobfuscateChineseSpam(content);
+  const hasMiaoji = /秒[·．.\s,，、!！]*级[·．.\s,，、]*更[·．.\s,，、]*新/.test(content)
+    || /秒级更新/.test(compact);
+  const hasSmooth = /精[·．.\s,，、]*彩[·．.\s,，、]*不[·．.\s,，、]*卡[·．.\s,，、]*顿/.test(content)
+    || /精彩不卡顿/.test(compact);
+
+  if (!hasMiaoji && !hasSmooth) return false;
+
+  const residual = miaojiSpamResidual(compact);
+  if (residual.length >= 4) return false;
+
+  if (hasMiaoji && hasSmooth) return true;
+  if (/秒级更新精彩不卡顿/.test(compact)) return true;
+  if (content.length <= 48 && hasMiaoji && /卡顿|精彩|不卡/.test(compact)) return true;
+
+  return hasMiaoji;
+}
+
+const MIAOJI_INLINE_PATTERN = /秒[·．.\s,，、!！]*级[·．.\s,，、]*更[·．.\s,，、]*新[·．.\s,，、，,！!：:]*精[·．.\s,，、]*彩[·．.\s,，、]*不[·．.\s,，、]*卡[·．.\s,，、]*顿[！!。．]*/g;
+
+const DEQI_SHOUDA_INLINE_PATTERNS = [
+  /手[·．.\s,，、]*打[·．.\s,，、]*全[本网本]?/g,
+  /得[·．.\s,，、]*奇[·．.\s,，、]*小[·．.\s,，、]*说[网]?/g,
+  /得奇小说[网]?/g,
+  /手打全[本网]?/g,
+];
+
+function deqiShoudaResidual(compact) {
+  return compact
+    .replace(/得奇小说网/g, '')
+    .replace(/得奇小说/g, '')
+    .replace(/手打全网/g, '')
+    .replace(/手打全本/g, '')
+    .replace(/手打全/g, '');
+}
+
+/** 「手打全」「得奇小说」推广水印（模糊匹配） */
+function isDeqiShoudaSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  const compact = deobfuscateChineseSpam(content);
+  const normalized = normalizeBracketSpam(content).replace(/\s+/g, '');
+
+  const hasShoudaQuan = /手[·．.\s,，、]*打[·．.\s,，、]*全/.test(content)
+    || /手打全/.test(compact);
+  const hasDeqiNovel = /得[·．.\s,，、]*奇[·．.\s,，、]*小[·．.\s,，、]*说/.test(content)
+    || /得奇小说/.test(compact);
+  const hasSpamHint = /deqixs|小说网|更新|首发|网址|www|来源|收藏|断更|手打/.test(compact)
+    || /deqixs/i.test(normalized);
+
+  if (!hasShoudaQuan && !hasDeqiNovel) return false;
+
+  const residual = deqiShoudaResidual(compact);
+  if (residual.length >= 4) return false;
+
+  if (hasShoudaQuan && hasDeqiNovel) return true;
+  if (hasShoudaQuan && hasSpamHint) return true;
+  if (hasDeqiNovel && hasSpamHint) return true;
+  if (content.length <= 48 && hasShoudaQuan) return true;
+  if (content.length <= 48 && hasDeqiNovel) return true;
+  if (/「手打」/.test(content) && /「全」/.test(content) && /「得」|「奇」|得奇小说/.test(content + normalized)) {
+    return true;
+  }
+
+  return false;
+}
+
 /** 含 .org 域名水印的整行删除（含全角点、逗号分隔变体） */
 function isOrgDomainLine(line) {
   const content = line.replace(/^[\s　]+/, '').trim();
@@ -327,6 +426,8 @@ function isObfuscatedSpamLine(line) {
 function isSpamLine(line) {
   const trimmed = line.trim();
   if (!trimmed) return false;
+  if (isMiaojiSpamLine(line)) return true;
+  if (isDeqiShoudaSpamLine(line)) return true;
   if (isBingSpamLine(line)) return true;
   if (isDeqiBracketSpamLine(line)) return true;
   if (isOrgDomainLine(line)) return true;
@@ -338,6 +439,10 @@ function isSpamLine(line) {
 function cleanInlineSpam(line) {
   let result = line;
   for (const pattern of INLINE_SPAM_PATTERNS) {
+    result = result.replace(pattern, '');
+  }
+  result = result.replace(MIAOJI_INLINE_PATTERN, '');
+  for (const pattern of DEQI_SHOUDA_INLINE_PATTERNS) {
     result = result.replace(pattern, '');
   }
   // 移除行尾注入的 ?? 水印残留
