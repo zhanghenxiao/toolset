@@ -16,6 +16,7 @@ export default {
     resultsCount: '共 <span class="highlight">29991</span> books. More sources available. Visit <a class="highlight-link" href="https://toolset.site" target="_blank" rel="noopener noreferrer">https://toolset.site</a>',
     clear: 'Clear All',
     noResults: 'No books matched your filters. Please try changing keywords or clearing filters.',
+    noResultsScanText: 'No results found. More titles are available in our mini program — scan the QR code to search.',
     read: 'Read',
     latestChapter: 'Updated to {chapter}'
   },

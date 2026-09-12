@@ -21,7 +21,8 @@ const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.sit
 function readBookText(filePath) {
   const buffer = fs.readFileSync(filePath);
   const utf8 = buffer.toString('utf8');
-  if (!utf8.includes('\uFFFD')) return utf8;
+  const sample = utf8.slice(0, 4000);
+  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者：/.test(sample)) return utf8;
   return new TextDecoder('gb18030').decode(buffer);
 }
 

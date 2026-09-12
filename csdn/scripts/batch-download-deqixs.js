@@ -17,9 +17,26 @@ const root = path.resolve(__dirname, '../..');
 const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
 const registryPath = path.join(__dirname, '../src/data/deqixs-batch-registry.json');
 
+const MAX_SEGMENT = 500;
+
 const [, , startArg, endArg] = process.argv;
 const startId = Number(startArg || 11);
 const endId = Number(endArg || 100);
+
+function normalizeSegments(segments) {
+  const result = [];
+  for (const seg of segments) {
+    const span = seg.end - seg.start + 1;
+    if (span <= MAX_SEGMENT) {
+      result.push(seg);
+      continue;
+    }
+    for (let start = seg.start; start <= seg.end; start += MAX_SEGMENT) {
+      result.push({ start, end: Math.min(start + MAX_SEGMENT - 1, seg.end) });
+    }
+  }
+  return result;
+}
 
 function curl(url, outFile) {
   execSync(`curl.exe -sL -o "${outFile}" "${url}"`, { stdio: 'pipe' });
@@ -32,7 +49,8 @@ function curlText(url) {
 function readBookText(filePath) {
   const buffer = fs.readFileSync(filePath);
   const utf8 = buffer.toString('utf8');
-  if (!utf8.includes('\uFFFD')) return utf8;
+  const sample = utf8.slice(0, 4000);
+  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者：/.test(sample)) return utf8;
   return new TextDecoder('gb18030').decode(buffer);
 }
 
@@ -84,6 +102,7 @@ function parseMetadata(html, id) {
     }
   }
   if (segments.length === 0) return null;
+  const normalizedSegments = normalizeSegments(segments);
 
   const excerpt = html.match(/<div class="des bb"[^>]*>([\s\S]*?)<\/div>/i)?.[1]
     ?.replace(/<br\s*\/?>/gi, ' ')
@@ -102,7 +121,7 @@ function parseMetadata(html, id) {
   const dateMatch = html.match(/更新时间[：:]\s*(\d{4}-\d{2}-\d{2})/);
   const date = dateMatch ? dateMatch[1] : new Date().toISOString().slice(0, 10);
 
-  return { id, title, author, status, category, segments, excerpt, latestChapter, date };
+  return { id, title, author, status, category, segments: normalizedSegments, excerpt, latestChapter, date };
 }
 
 function findLatestChapterNum(content) {

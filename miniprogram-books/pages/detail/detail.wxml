@@ -30,7 +30,6 @@
   </view>
 
   <view class="actions">
-    <button class="action-btn primary" bindtap="onCopyReadUrl">复制阅读链接</button>
     <button class="action-btn secondary" bindtap="onOpenReadUrl">在浏览器打开</button>
   </view>
 

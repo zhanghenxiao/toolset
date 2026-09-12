@@ -155,6 +155,31 @@ function buildTags(category, status) {
   return tags;
 }
 
+function parseExistingBlocks(content) {
+  const map = new Map();
+  for (const block of content.match(/\n  \{[\s\S]*?\n  \},/g) || []) {
+    const id = Number(block.match(/id: (\d+),/)?.[1]);
+    if (id) map.set(id, block);
+  }
+  return map;
+}
+
+function collectMetaFromBlocks(blocks) {
+  const categories = new Set();
+  const tags = new Set();
+  for (const block of blocks) {
+    const cat = block.match(/category: "([^"]+)"/)?.[1];
+    if (cat) categories.add(cat);
+    for (const m of block.matchAll(/name: "([^"]+)", type: "(?:purple|blue)"/g)) {
+      tags.add(m[1]);
+    }
+  }
+  return {
+    categories: [...categories].sort(),
+    tags: [...tags].sort(),
+  };
+}
+
 function entryToBlock(id, entry) {
   const coverVar = getCoverVar(id);
   const lines = [
@@ -247,20 +272,28 @@ if (process.argv.includes('--online')) {
 
 console.log(`在线补全元数据: ${fetched} 本`);
 
-const ids = merged.map((b) => b.id);
+const existingContent = fs.existsSync(booksDataPath)
+  ? fs.readFileSync(booksDataPath, 'utf8')
+  : '';
+const existingBlocks = parseExistingBlocks(existingContent);
+
+for (const { id, entry } of merged) {
+  existingBlocks.set(id, entryToBlock(id, entry));
+}
+
+const allIds = [...existingBlocks.keys()].sort((a, b) => a - b);
+const blocks = allIds.map((id) => existingBlocks.get(id)).join('\n');
+const { categories, tags } = collectMetaFromBlocks(allIds.map((id) => existingBlocks.get(id)));
+
 const importLines = [];
-if (ids.includes(145)) importLines.push("import wudaoCover from '../assets/images/books/wudao-154.jpg';");
-for (const id of ids) {
+if (allIds.includes(145)) importLines.push("import wudaoCover from '../assets/images/books/wudao-154.jpg';");
+for (const id of allIds) {
   if (id === 145) continue;
   const coverFile = path.join(coverDir, `book-${id}.jpg`);
   if (fs.existsSync(coverFile)) {
     importLines.push(`import book${id}Cover from '${coverImportPath(id)}';`);
   }
 }
-
-const blocks = merged.map(({ id, entry }) => entryToBlock(id, entry)).join('\n');
-const categories = [...new Set(merged.map(({ entry }) => entry.category))].sort();
-const tags = [...new Set(merged.flatMap(({ entry }) => entry.tags.map((t) => t.name)))];
 
 const output = `${importLines.join('\n')}
 
@@ -274,4 +307,4 @@ export const allBookTags = ${JSON.stringify(tags)};
 `;
 
 fs.writeFileSync(booksDataPath, output, 'utf8');
-console.log(`已写入 ${merged.length} 本书到 booksData.js`);
+console.log(`已写入 ${allIds.length} 本书到 booksData.js（磁盘更新 ${merged.length} 本）`);

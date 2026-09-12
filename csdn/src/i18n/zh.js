@@ -16,6 +16,7 @@ export default {
     resultsCount: '共<span class="highlight">29991</span>本，更多书源分享，访问网址 <a class="highlight-link" href="https://toolset.site" target="_blank" rel="noopener noreferrer">https://toolset.site</a>',
     clear: '清空重置',
     noResults: '未找到匹配的书籍，请尝试更换关键词或清除筛选条件',
+    noResultsScanText: '未找到，更多精彩好书收录在小程序中，扫码即可查询',
     read: '阅读',
     latestChapter: '更新至 {chapter}'
   },
