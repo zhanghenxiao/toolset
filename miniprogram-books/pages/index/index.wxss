@@ -205,6 +205,7 @@
   position: absolute;
   bottom: 12rpx;
   right: 12rpx;
+  z-index: 2;
   padding: 4rpx 14rpx;
   background: rgba(74, 55, 40, 0.85);
   color: #e8c976;

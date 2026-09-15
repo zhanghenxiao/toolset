@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/clean-assets.js && vite build && node scripts/generate-static.js",
+    "build": "node scripts/clean-assets.js && vite build && node scripts/sync-book-covers.js && node scripts/generate-static.js",
     "deploy": "node scripts/build-and-push.js",
     "sync:miniprogram": "node scripts/sync-miniprogram-books-data.js",
     "preview": "vite preview"

@@ -1,10 +1,35 @@
 /**
  * 书籍 TXT 扁平路径约定：books/{id}_{书名}1-{章节}章.txt
+ * jcxs.org 来源 id 以 s 前缀区分，如 s52266
  */
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^(\d+)_(.+?)1-(\d+)章\.txt$/;
+const BOOK_FILE_RE = /^((?:s\d+|\d+))_(.+?)1-(\d+)章\.txt$/;
+const JCXS_ID_RE = /^s\d+$/;
+
+function isJcxsId(id) {
+  return JCXS_ID_RE.test(String(id));
+}
+
+function jcxsLocalId(siteBookId) {
+  return `s${siteBookId}`;
+}
+
+function parseBookId(raw) {
+  const s = String(raw);
+  return isJcxsId(s) ? s : Number(s);
+}
+
+function compareBookIds(a, b) {
+  const sa = String(a);
+  const sb = String(b);
+  const aj = isJcxsId(sa);
+  const bj = isJcxsId(sb);
+  if (aj !== bj) return aj ? 1 : -1;
+  if (aj) return sa.localeCompare(sb);
+  return Number(sa) - Number(sb);
+}
 const LEGACY_BOOK_FILE_RE = /^(.+?)1-(\d+)章\.txt$/;
 /** 旧格式（无下划线）：{id}{书名}1-{章节}章.txt */
 const LEGACY_FLAT_FILE_RE = /^(\d+)(.+?)1-(\d+)章\.txt$/;
@@ -24,10 +49,16 @@ function buildBookDownloadUrl(filename) {
   return `/books/${filename}`;
 }
 
+function deqixsCoverUrl(id) {
+  const n = Number(id);
+  const shard = Math.floor(n / 1000);
+  return `https://www.deqixs.org/files/article/image/${shard}/${n}/${n}s.jpg`;
+}
+
 function parseNewFormat(filename) {
   const m = filename.match(BOOK_FILE_RE);
   if (!m) return null;
-  const id = Number(m[1]);
+  const id = parseBookId(m[1]);
   const title = m[2];
   const maxChapter = Number(m[3]);
   return {
@@ -172,13 +203,13 @@ function discoverBooks(booksRoot) {
   }
 
   const byId = new Map();
-  for (const book of result.sort((a, b) => a.id - b.id)) {
+  for (const book of result.sort((a, b) => compareBookIds(a.id, b.id))) {
     const prev = byId.get(book.id);
     if (!prev || book.maxChapter > prev.maxChapter) {
       byId.set(book.id, book);
     }
   }
-  return [...byId.values()];
+  return [...byId.values()].sort((a, b) => compareBookIds(a.id, b.id));
 }
 
 function discoverBookTxtTargets(rootDir) {
@@ -194,10 +225,16 @@ function discoverBookTxtTargets(rootDir) {
 
 module.exports = {
   BOOK_FILE_RE,
+  JCXS_ID_RE,
   LEGACY_BOOK_FILE_RE,
   LEGACY_FLAT_FILE_RE,
+  isJcxsId,
+  jcxsLocalId,
+  parseBookId,
+  compareBookIds,
   buildBookFilename,
   buildBookDownloadUrl,
+  deqixsCoverUrl,
   parseNewFormat,
   resolveFlatBookMeta,
   resolveLegacyFlatMeta,

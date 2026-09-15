@@ -11,6 +11,17 @@ const outDir = path.join(root, 'miniprogram-books/data');
 const assetsDir = path.join(root, 'assets');
 const sourceCoverDir = path.join(root, 'csdn/src/assets/images/books');
 const SITE = 'https://toolset.site';
+const bookCoversDir = path.join(root, 'book-covers');
+const { deqixsCoverUrl } = require('./book-paths');
+const DEQIXS_COVER = (id) => deqixsCoverUrl(id);
+
+function sourceCoverPath(id) {
+  if (id === 145) {
+    const wudao = path.join(sourceCoverDir, 'wudao-154.jpg');
+    if (fs.existsSync(wudao)) return wudao;
+  }
+  return path.join(sourceCoverDir, `book-${id}.jpg`);
+}
 
 /** 从打包产物 assets/ 构建 id -> 封面文件名 映射 */
 function buildCoverMap() {
@@ -41,24 +52,38 @@ function buildCoverMap() {
 }
 
 function resolveCoverUrl(id, coverMap) {
-  const hashed = coverMap.get(id);
+  const idStr = String(id);
+  const hashed = coverMap.get(id) || coverMap.get(Number(idStr));
   if (hashed) return `${SITE}/assets/${hashed}`;
 
-  const sourceCover = path.join(sourceCoverDir, id === 145 ? 'wudao-154.jpg' : `book-${id}.jpg`);
-  if (fs.existsSync(sourceCover)) {
-    console.warn(`[${id}] 封面未在 assets/ 找到打包文件，请先 npm run build：${sourceCover}`);
+  const stable = `book-${idStr}.jpg`;
+  const published = path.join(bookCoversDir, stable);
+  const hasLocal = fs.existsSync(published) || fs.existsSync(sourceCoverPath(id));
+
+  if (/^s\d+$/.test(idStr)) {
+    if (process.env.MINIPROGRAM_COVER === 'stable' && hasLocal) {
+      return `${SITE}/book-covers/${stable}`;
+    }
+    if (hasLocal) return `${SITE}/book-covers/${stable}`;
+    return '';
   }
 
-  return '';
+  // 稳定路径需先部署 book-covers/；部署前用得奇封面保证小程序可显示
+  if (process.env.MINIPROGRAM_COVER === 'stable' && hasLocal) {
+    return `${SITE}/book-covers/${stable}`;
+  }
+  if (hasLocal) return DEQIXS_COVER(id);
+
+  return DEQIXS_COVER(id);
 }
 
 function parseBooksData(content, coverMap) {
   const books = [];
-  const blockRe = /\{\s*id:\s*(\d+),[\s\S]*?\n  \},/g;
+  const blockRe = /\{\s*id:\s*(?:"([^"]+)"|(\d+)),[\s\S]*?\n  \},/g;
   let m;
   while ((m = blockRe.exec(content)) !== null) {
     const block = m[0];
-    const id = Number(m[1]);
+    const id = m[1] || Number(m[2]);
     const getStr = (key) => block.match(new RegExp(`${key}:\\s*"([^"]*)"`))?.[1] || '';
     const tags = [];
     const tagRe = /\{\s*name:\s*"([^"]+)",\s*type:\s*"([^"]+)"\s*\}/g;
@@ -76,11 +101,20 @@ function parseBooksData(content, coverMap) {
       latestChapter: getStr('latestChapter'),
       excerpt: getStr('excerpt'),
       readUrl: getStr('readUrl'),
+      downloadUrl: getStr('downloadUrl'),
       tags,
       cover: resolveCoverUrl(id, coverMap),
     });
   }
-  return books.sort((a, b) => a.id - b.id);
+  return books.sort((a, b) => {
+    const sa = String(a.id);
+    const sb = String(b.id);
+    const aj = /^s\d+$/.test(sa);
+    const bj = /^s\d+$/.test(sb);
+    if (aj !== bj) return aj ? 1 : -1;
+    if (aj) return sa.localeCompare(sb);
+    return Number(sa) - Number(sb);
+  });
 }
 
 function parseMeta(content, name) {

@@ -19,17 +19,14 @@
     </view>
   </view>
 
-  <view wx:if="{{book.latestChapter}}" class="section">
+  <view wx:if="{{book.latestChapter}}" class="section section-latest" bindtap="onLatestChapterTap">
     <text class="section-title">最新章节</text>
     <text class="section-content latest">{{book.latestChapter}}</text>
+    <text class="latest-hint">连续点击两次复制夸克分享链接</text>
   </view>
 
   <view class="section">
     <text class="section-title">简介</text>
     <text class="section-content">{{book.excerpt}}</text>
-  </view>
-
-  <view class="tip">
-    阅读链接为夸克网盘分享，复制后请在浏览器或夸克 App 中打开。
   </view>
 </view>

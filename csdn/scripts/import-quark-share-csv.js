@@ -1,6 +1,7 @@
 /**
- * 从夸克分享导出 CSV 导入 readUrl 到 booksData.js
- * 用法: node import-quark-share-csv.js <csv路径> [csv路径2 ...]
+ * 从分享导出 CSV 导入 readUrl 到 booksData.js
+ * 支持：夸克「分享结果导出」、百度「批量分享记录」（文件名,链接,提取码,...）
+ * 用法: node csdn/scripts/import-quark-share-csv.js <csv路径> [csv路径2 ...]
  */
 const fs = require('fs');
 const path = require('path');
@@ -25,13 +26,14 @@ function normalizeKey(name) {
 
 function parseBooksData(content) {
   const books = [];
-  const blockRe = /\n  \{[\s\S]*?\n  \},/g;
+  const blockRe = /\n\{[\s\S]*?\n  \},/g;
   for (const block of content.match(blockRe) || []) {
-    const id = block.match(/^\n  \{\n    id: (\d+),/m)?.[1];
+    const idRaw = block.match(/^\n\{\n    id: ([^,]+),/m)?.[1]?.trim();
     const downloadUrl = block.match(/downloadUrl: "([^"]+)"/)?.[1];
-    if (!id || !downloadUrl) continue;
+    if (!idRaw || !downloadUrl) continue;
+    const id = /^\d+$/.test(idRaw) ? Number(idRaw) : idRaw.replace(/^"|"$/g, '');
     const basename = path.basename(downloadUrl);
-    books.push({ id: Number(id), downloadUrl, basename });
+    books.push({ id, downloadUrl, basename });
   }
   return books;
 }
@@ -52,7 +54,7 @@ function findBook(books, shareName) {
     if (byFlat) return byFlat;
   }
 
-  const idFromShare = shareName.match(/^(\d+)_?/)?.[1];
+  const idFromShare = shareName.match(/^(\d+)_/)?.[1];
   if (idFromShare) {
     const byId = books.find((b) => b.id === Number(idFromShare));
     if (byId) return byId;
@@ -66,21 +68,23 @@ function findBook(books, shareName) {
 }
 
 function updateReadUrl(content, id, url) {
-  const blockRe = new RegExp(`(\\n  \\{\\n    id: ${id},[\\s\\S]*?\\n  \\},)`, 'm');
-  const match = content.match(blockRe);
-  if (!match) return { content, ok: false };
+  const idLine = `\n    id: ${typeof id === 'number' ? id : JSON.stringify(id)},`;
+  const blockRe = /\n\{[\s\S]*?\n  \},/g;
+  const blocks = content.match(blockRe) || [];
+  const block = blocks.find((b) => b.includes(idLine));
+  if (!block) return { content, ok: false };
 
-  let block = match[1];
-  if (/readUrl:/.test(block)) {
-    block = block.replace(/readUrl: "[^"]*"/, `readUrl: ${JSON.stringify(url)}`);
+  let next = block;
+  if (/readUrl:/.test(next)) {
+    next = next.replace(/readUrl: "[^"]*"/, `readUrl: ${JSON.stringify(url)}`);
   } else {
-    block = block.replace(
+    next = next.replace(
       /(\n    downloadUrl:)/,
       `\n    readUrl: ${JSON.stringify(url)},$1`,
     );
   }
 
-  return { content: content.replace(match[1], block), ok: true };
+  return { content: content.replace(block, next), ok: true };
 }
 
 function chapterFromShareName(name) {
@@ -101,7 +105,7 @@ function mergeShare(target, book) {
   target.set(book.shareName, book);
 }
 
-function parseSharesFromCsv(csvPath) {
+function parseQuarkSharesFromCsv(csvPath) {
   const csv = fs.readFileSync(csvPath, 'utf8');
   const shares = new Map();
   const rowRe = /成功,([^,]+\.txt),"[\s\S]*?链接：(https:\/\/pan\.quark\.cn\/s\/[^\s"]+)/g;
@@ -110,6 +114,32 @@ function parseSharesFromCsv(csvPath) {
     mergeShare(shares, { shareName: m[1].trim(), url: m[2].trim() });
   }
   return shares;
+}
+
+/** 百度批量分享：文件名,链接,提取码,分享时间,分享状态 */
+function parseBaiduSharesFromCsv(csvPath) {
+  const csv = fs.readFileSync(csvPath, 'utf8');
+  const shares = new Map();
+  for (const line of csv.split(/\n/)) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('文件名,')) continue;
+    const urlStart = trimmed.indexOf(',http');
+    if (urlStart === -1) continue;
+    const shareName = trimmed.slice(0, urlStart).trim();
+    const afterName = trimmed.slice(urlStart + 1);
+    const url = afterName.split(',')[0]?.trim();
+    if (!shareName.endsWith('.txt') || !url || !url.includes('pan.baidu.com')) continue;
+    mergeShare(shares, { shareName, url });
+  }
+  return shares;
+}
+
+function parseSharesFromCsv(csvPath) {
+  const head = fs.readFileSync(csvPath, 'utf8').slice(0, 300);
+  if (head.startsWith('文件名,链接') || head.includes('pan.baidu.com/s/')) {
+    return parseBaiduSharesFromCsv(csvPath);
+  }
+  return parseQuarkSharesFromCsv(csvPath);
 }
 
 const shares = new Map();
