@@ -1,1001 +1,4 @@
 import wudaoCover from '../assets/images/books/wudao-154.jpg';
-import book1Cover from '../assets/images/books/book-1.jpg';
-import book2Cover from '../assets/images/books/book-2.jpg';
-import book3Cover from '../assets/images/books/book-3.jpg';
-import book4Cover from '../assets/images/books/book-4.jpg';
-import book5Cover from '../assets/images/books/book-5.jpg';
-import book6Cover from '../assets/images/books/book-6.jpg';
-import book7Cover from '../assets/images/books/book-7.jpg';
-import book8Cover from '../assets/images/books/book-8.jpg';
-import book9Cover from '../assets/images/books/book-9.jpg';
-import book10Cover from '../assets/images/books/book-10.jpg';
-import book11Cover from '../assets/images/books/book-11.jpg';
-import book12Cover from '../assets/images/books/book-12.jpg';
-import book13Cover from '../assets/images/books/book-13.jpg';
-import book14Cover from '../assets/images/books/book-14.jpg';
-import book15Cover from '../assets/images/books/book-15.jpg';
-import book16Cover from '../assets/images/books/book-16.jpg';
-import book17Cover from '../assets/images/books/book-17.jpg';
-import book18Cover from '../assets/images/books/book-18.jpg';
-import book19Cover from '../assets/images/books/book-19.jpg';
-import book20Cover from '../assets/images/books/book-20.jpg';
-import book21Cover from '../assets/images/books/book-21.jpg';
-import book22Cover from '../assets/images/books/book-22.jpg';
-import book23Cover from '../assets/images/books/book-23.jpg';
-import book24Cover from '../assets/images/books/book-24.jpg';
-import book25Cover from '../assets/images/books/book-25.jpg';
-import book26Cover from '../assets/images/books/book-26.jpg';
-import book27Cover from '../assets/images/books/book-27.jpg';
-import book28Cover from '../assets/images/books/book-28.jpg';
-import book29Cover from '../assets/images/books/book-29.jpg';
-import book30Cover from '../assets/images/books/book-30.jpg';
-import book31Cover from '../assets/images/books/book-31.jpg';
-import book32Cover from '../assets/images/books/book-32.jpg';
-import book33Cover from '../assets/images/books/book-33.jpg';
-import book34Cover from '../assets/images/books/book-34.jpg';
-import book35Cover from '../assets/images/books/book-35.jpg';
-import book36Cover from '../assets/images/books/book-36.jpg';
-import book37Cover from '../assets/images/books/book-37.jpg';
-import book38Cover from '../assets/images/books/book-38.jpg';
-import book39Cover from '../assets/images/books/book-39.jpg';
-import book40Cover from '../assets/images/books/book-40.jpg';
-import book41Cover from '../assets/images/books/book-41.jpg';
-import book42Cover from '../assets/images/books/book-42.jpg';
-import book43Cover from '../assets/images/books/book-43.jpg';
-import book44Cover from '../assets/images/books/book-44.jpg';
-import book45Cover from '../assets/images/books/book-45.jpg';
-import book46Cover from '../assets/images/books/book-46.jpg';
-import book47Cover from '../assets/images/books/book-47.jpg';
-import book48Cover from '../assets/images/books/book-48.jpg';
-import book49Cover from '../assets/images/books/book-49.jpg';
-import book50Cover from '../assets/images/books/book-50.jpg';
-import book51Cover from '../assets/images/books/book-51.jpg';
-import book52Cover from '../assets/images/books/book-52.jpg';
-import book53Cover from '../assets/images/books/book-53.jpg';
-import book54Cover from '../assets/images/books/book-54.jpg';
-import book55Cover from '../assets/images/books/book-55.jpg';
-import book56Cover from '../assets/images/books/book-56.jpg';
-import book57Cover from '../assets/images/books/book-57.jpg';
-import book58Cover from '../assets/images/books/book-58.jpg';
-import book59Cover from '../assets/images/books/book-59.jpg';
-import book60Cover from '../assets/images/books/book-60.jpg';
-import book61Cover from '../assets/images/books/book-61.jpg';
-import book62Cover from '../assets/images/books/book-62.jpg';
-import book63Cover from '../assets/images/books/book-63.jpg';
-import book64Cover from '../assets/images/books/book-64.jpg';
-import book65Cover from '../assets/images/books/book-65.jpg';
-import book66Cover from '../assets/images/books/book-66.jpg';
-import book67Cover from '../assets/images/books/book-67.jpg';
-import book68Cover from '../assets/images/books/book-68.jpg';
-import book69Cover from '../assets/images/books/book-69.jpg';
-import book70Cover from '../assets/images/books/book-70.jpg';
-import book71Cover from '../assets/images/books/book-71.jpg';
-import book72Cover from '../assets/images/books/book-72.jpg';
-import book73Cover from '../assets/images/books/book-73.jpg';
-import book74Cover from '../assets/images/books/book-74.jpg';
-import book75Cover from '../assets/images/books/book-75.jpg';
-import book76Cover from '../assets/images/books/book-76.jpg';
-import book77Cover from '../assets/images/books/book-77.jpg';
-import book78Cover from '../assets/images/books/book-78.jpg';
-import book79Cover from '../assets/images/books/book-79.jpg';
-import book80Cover from '../assets/images/books/book-80.jpg';
-import book81Cover from '../assets/images/books/book-81.jpg';
-import book82Cover from '../assets/images/books/book-82.jpg';
-import book83Cover from '../assets/images/books/book-83.jpg';
-import book84Cover from '../assets/images/books/book-84.jpg';
-import book85Cover from '../assets/images/books/book-85.jpg';
-import book86Cover from '../assets/images/books/book-86.jpg';
-import book87Cover from '../assets/images/books/book-87.jpg';
-import book88Cover from '../assets/images/books/book-88.jpg';
-import book89Cover from '../assets/images/books/book-89.jpg';
-import book90Cover from '../assets/images/books/book-90.jpg';
-import book91Cover from '../assets/images/books/book-91.jpg';
-import book92Cover from '../assets/images/books/book-92.jpg';
-import book93Cover from '../assets/images/books/book-93.jpg';
-import book94Cover from '../assets/images/books/book-94.jpg';
-import book95Cover from '../assets/images/books/book-95.jpg';
-import book96Cover from '../assets/images/books/book-96.jpg';
-import book97Cover from '../assets/images/books/book-97.jpg';
-import book98Cover from '../assets/images/books/book-98.jpg';
-import book99Cover from '../assets/images/books/book-99.jpg';
-import book100Cover from '../assets/images/books/book-100.jpg';
-import book101Cover from '../assets/images/books/book-101.jpg';
-import book102Cover from '../assets/images/books/book-102.jpg';
-import book103Cover from '../assets/images/books/book-103.jpg';
-import book104Cover from '../assets/images/books/book-104.jpg';
-import book105Cover from '../assets/images/books/book-105.jpg';
-import book106Cover from '../assets/images/books/book-106.jpg';
-import book107Cover from '../assets/images/books/book-107.jpg';
-import book108Cover from '../assets/images/books/book-108.jpg';
-import book109Cover from '../assets/images/books/book-109.jpg';
-import book110Cover from '../assets/images/books/book-110.jpg';
-import book111Cover from '../assets/images/books/book-111.jpg';
-import book112Cover from '../assets/images/books/book-112.jpg';
-import book113Cover from '../assets/images/books/book-113.jpg';
-import book114Cover from '../assets/images/books/book-114.jpg';
-import book115Cover from '../assets/images/books/book-115.jpg';
-import book116Cover from '../assets/images/books/book-116.jpg';
-import book117Cover from '../assets/images/books/book-117.jpg';
-import book118Cover from '../assets/images/books/book-118.jpg';
-import book119Cover from '../assets/images/books/book-119.jpg';
-import book120Cover from '../assets/images/books/book-120.jpg';
-import book121Cover from '../assets/images/books/book-121.jpg';
-import book122Cover from '../assets/images/books/book-122.jpg';
-import book123Cover from '../assets/images/books/book-123.jpg';
-import book124Cover from '../assets/images/books/book-124.jpg';
-import book125Cover from '../assets/images/books/book-125.jpg';
-import book126Cover from '../assets/images/books/book-126.jpg';
-import book127Cover from '../assets/images/books/book-127.jpg';
-import book128Cover from '../assets/images/books/book-128.jpg';
-import book129Cover from '../assets/images/books/book-129.jpg';
-import book130Cover from '../assets/images/books/book-130.jpg';
-import book131Cover from '../assets/images/books/book-131.jpg';
-import book132Cover from '../assets/images/books/book-132.jpg';
-import book133Cover from '../assets/images/books/book-133.jpg';
-import book134Cover from '../assets/images/books/book-134.jpg';
-import book135Cover from '../assets/images/books/book-135.jpg';
-import book136Cover from '../assets/images/books/book-136.jpg';
-import book137Cover from '../assets/images/books/book-137.jpg';
-import book138Cover from '../assets/images/books/book-138.jpg';
-import book139Cover from '../assets/images/books/book-139.jpg';
-import book140Cover from '../assets/images/books/book-140.jpg';
-import book141Cover from '../assets/images/books/book-141.jpg';
-import book142Cover from '../assets/images/books/book-142.jpg';
-import book143Cover from '../assets/images/books/book-143.jpg';
-import book144Cover from '../assets/images/books/book-144.jpg';
-import book146Cover from '../assets/images/books/book-146.jpg';
-import book147Cover from '../assets/images/books/book-147.jpg';
-import book148Cover from '../assets/images/books/book-148.jpg';
-import book149Cover from '../assets/images/books/book-149.jpg';
-import book150Cover from '../assets/images/books/book-150.jpg';
-import book151Cover from '../assets/images/books/book-151.jpg';
-import book152Cover from '../assets/images/books/book-152.jpg';
-import book153Cover from '../assets/images/books/book-153.jpg';
-import book154Cover from '../assets/images/books/book-154.jpg';
-import book155Cover from '../assets/images/books/book-155.jpg';
-import book156Cover from '../assets/images/books/book-156.jpg';
-import book157Cover from '../assets/images/books/book-157.jpg';
-import book158Cover from '../assets/images/books/book-158.jpg';
-import book159Cover from '../assets/images/books/book-159.jpg';
-import book160Cover from '../assets/images/books/book-160.jpg';
-import book161Cover from '../assets/images/books/book-161.jpg';
-import book162Cover from '../assets/images/books/book-162.jpg';
-import book163Cover from '../assets/images/books/book-163.jpg';
-import book164Cover from '../assets/images/books/book-164.jpg';
-import book165Cover from '../assets/images/books/book-165.jpg';
-import book166Cover from '../assets/images/books/book-166.jpg';
-import book167Cover from '../assets/images/books/book-167.jpg';
-import book168Cover from '../assets/images/books/book-168.jpg';
-import book169Cover from '../assets/images/books/book-169.jpg';
-import book170Cover from '../assets/images/books/book-170.jpg';
-import book171Cover from '../assets/images/books/book-171.jpg';
-import book172Cover from '../assets/images/books/book-172.jpg';
-import book173Cover from '../assets/images/books/book-173.jpg';
-import book174Cover from '../assets/images/books/book-174.jpg';
-import book175Cover from '../assets/images/books/book-175.jpg';
-import book176Cover from '../assets/images/books/book-176.jpg';
-import book177Cover from '../assets/images/books/book-177.jpg';
-import book178Cover from '../assets/images/books/book-178.jpg';
-import book179Cover from '../assets/images/books/book-179.jpg';
-import book180Cover from '../assets/images/books/book-180.jpg';
-import book181Cover from '../assets/images/books/book-181.jpg';
-import book182Cover from '../assets/images/books/book-182.jpg';
-import book183Cover from '../assets/images/books/book-183.jpg';
-import book184Cover from '../assets/images/books/book-184.jpg';
-import book185Cover from '../assets/images/books/book-185.jpg';
-import book186Cover from '../assets/images/books/book-186.jpg';
-import book187Cover from '../assets/images/books/book-187.jpg';
-import book188Cover from '../assets/images/books/book-188.jpg';
-import book189Cover from '../assets/images/books/book-189.jpg';
-import book190Cover from '../assets/images/books/book-190.jpg';
-import book191Cover from '../assets/images/books/book-191.jpg';
-import book192Cover from '../assets/images/books/book-192.jpg';
-import book193Cover from '../assets/images/books/book-193.jpg';
-import book194Cover from '../assets/images/books/book-194.jpg';
-import book195Cover from '../assets/images/books/book-195.jpg';
-import book196Cover from '../assets/images/books/book-196.jpg';
-import book197Cover from '../assets/images/books/book-197.jpg';
-import book198Cover from '../assets/images/books/book-198.jpg';
-import book199Cover from '../assets/images/books/book-199.jpg';
-import book200Cover from '../assets/images/books/book-200.jpg';
-import book201Cover from '../assets/images/books/book-201.jpg';
-import book202Cover from '../assets/images/books/book-202.jpg';
-import book203Cover from '../assets/images/books/book-203.jpg';
-import book204Cover from '../assets/images/books/book-204.jpg';
-import book205Cover from '../assets/images/books/book-205.jpg';
-import book206Cover from '../assets/images/books/book-206.jpg';
-import book207Cover from '../assets/images/books/book-207.jpg';
-import book208Cover from '../assets/images/books/book-208.jpg';
-import book209Cover from '../assets/images/books/book-209.jpg';
-import book210Cover from '../assets/images/books/book-210.jpg';
-import book211Cover from '../assets/images/books/book-211.jpg';
-import book212Cover from '../assets/images/books/book-212.jpg';
-import book213Cover from '../assets/images/books/book-213.jpg';
-import book214Cover from '../assets/images/books/book-214.jpg';
-import book215Cover from '../assets/images/books/book-215.jpg';
-import book216Cover from '../assets/images/books/book-216.jpg';
-import book217Cover from '../assets/images/books/book-217.jpg';
-import book218Cover from '../assets/images/books/book-218.jpg';
-import book219Cover from '../assets/images/books/book-219.jpg';
-import book220Cover from '../assets/images/books/book-220.jpg';
-import book221Cover from '../assets/images/books/book-221.jpg';
-import book222Cover from '../assets/images/books/book-222.jpg';
-import book223Cover from '../assets/images/books/book-223.jpg';
-import book224Cover from '../assets/images/books/book-224.jpg';
-import book225Cover from '../assets/images/books/book-225.jpg';
-import book226Cover from '../assets/images/books/book-226.jpg';
-import book227Cover from '../assets/images/books/book-227.jpg';
-import book228Cover from '../assets/images/books/book-228.jpg';
-import book229Cover from '../assets/images/books/book-229.jpg';
-import book230Cover from '../assets/images/books/book-230.jpg';
-import book231Cover from '../assets/images/books/book-231.jpg';
-import book232Cover from '../assets/images/books/book-232.jpg';
-import book233Cover from '../assets/images/books/book-233.jpg';
-import book234Cover from '../assets/images/books/book-234.jpg';
-import book235Cover from '../assets/images/books/book-235.jpg';
-import book236Cover from '../assets/images/books/book-236.jpg';
-import book237Cover from '../assets/images/books/book-237.jpg';
-import book238Cover from '../assets/images/books/book-238.jpg';
-import book239Cover from '../assets/images/books/book-239.jpg';
-import book240Cover from '../assets/images/books/book-240.jpg';
-import book241Cover from '../assets/images/books/book-241.jpg';
-import book242Cover from '../assets/images/books/book-242.jpg';
-import book243Cover from '../assets/images/books/book-243.jpg';
-import book244Cover from '../assets/images/books/book-244.jpg';
-import book245Cover from '../assets/images/books/book-245.jpg';
-import book246Cover from '../assets/images/books/book-246.jpg';
-import book247Cover from '../assets/images/books/book-247.jpg';
-import book248Cover from '../assets/images/books/book-248.jpg';
-import book249Cover from '../assets/images/books/book-249.jpg';
-import book250Cover from '../assets/images/books/book-250.jpg';
-import book251Cover from '../assets/images/books/book-251.jpg';
-import book252Cover from '../assets/images/books/book-252.jpg';
-import book253Cover from '../assets/images/books/book-253.jpg';
-import book254Cover from '../assets/images/books/book-254.jpg';
-import book255Cover from '../assets/images/books/book-255.jpg';
-import book256Cover from '../assets/images/books/book-256.jpg';
-import book257Cover from '../assets/images/books/book-257.jpg';
-import book258Cover from '../assets/images/books/book-258.jpg';
-import book259Cover from '../assets/images/books/book-259.jpg';
-import book260Cover from '../assets/images/books/book-260.jpg';
-import book261Cover from '../assets/images/books/book-261.jpg';
-import book262Cover from '../assets/images/books/book-262.jpg';
-import book263Cover from '../assets/images/books/book-263.jpg';
-import book264Cover from '../assets/images/books/book-264.jpg';
-import book265Cover from '../assets/images/books/book-265.jpg';
-import book266Cover from '../assets/images/books/book-266.jpg';
-import book267Cover from '../assets/images/books/book-267.jpg';
-import book268Cover from '../assets/images/books/book-268.jpg';
-import book269Cover from '../assets/images/books/book-269.jpg';
-import book270Cover from '../assets/images/books/book-270.jpg';
-import book271Cover from '../assets/images/books/book-271.jpg';
-import book272Cover from '../assets/images/books/book-272.jpg';
-import book273Cover from '../assets/images/books/book-273.jpg';
-import book274Cover from '../assets/images/books/book-274.jpg';
-import book275Cover from '../assets/images/books/book-275.jpg';
-import book276Cover from '../assets/images/books/book-276.jpg';
-import book277Cover from '../assets/images/books/book-277.jpg';
-import book278Cover from '../assets/images/books/book-278.jpg';
-import book279Cover from '../assets/images/books/book-279.jpg';
-import book280Cover from '../assets/images/books/book-280.jpg';
-import book281Cover from '../assets/images/books/book-281.jpg';
-import book282Cover from '../assets/images/books/book-282.jpg';
-import book283Cover from '../assets/images/books/book-283.jpg';
-import book284Cover from '../assets/images/books/book-284.jpg';
-import book285Cover from '../assets/images/books/book-285.jpg';
-import book286Cover from '../assets/images/books/book-286.jpg';
-import book287Cover from '../assets/images/books/book-287.jpg';
-import book288Cover from '../assets/images/books/book-288.jpg';
-import book289Cover from '../assets/images/books/book-289.jpg';
-import book290Cover from '../assets/images/books/book-290.jpg';
-import book291Cover from '../assets/images/books/book-291.jpg';
-import book292Cover from '../assets/images/books/book-292.jpg';
-import book293Cover from '../assets/images/books/book-293.jpg';
-import book294Cover from '../assets/images/books/book-294.jpg';
-import book295Cover from '../assets/images/books/book-295.jpg';
-import book296Cover from '../assets/images/books/book-296.jpg';
-import book297Cover from '../assets/images/books/book-297.jpg';
-import book298Cover from '../assets/images/books/book-298.jpg';
-import book299Cover from '../assets/images/books/book-299.jpg';
-import book300Cover from '../assets/images/books/book-300.jpg';
-import book301Cover from '../assets/images/books/book-301.jpg';
-import book302Cover from '../assets/images/books/book-302.jpg';
-import book303Cover from '../assets/images/books/book-303.jpg';
-import book304Cover from '../assets/images/books/book-304.jpg';
-import book305Cover from '../assets/images/books/book-305.jpg';
-import book306Cover from '../assets/images/books/book-306.jpg';
-import book307Cover from '../assets/images/books/book-307.jpg';
-import book308Cover from '../assets/images/books/book-308.jpg';
-import book309Cover from '../assets/images/books/book-309.jpg';
-import book310Cover from '../assets/images/books/book-310.jpg';
-import book311Cover from '../assets/images/books/book-311.jpg';
-import book312Cover from '../assets/images/books/book-312.jpg';
-import book313Cover from '../assets/images/books/book-313.jpg';
-import book314Cover from '../assets/images/books/book-314.jpg';
-import book315Cover from '../assets/images/books/book-315.jpg';
-import book316Cover from '../assets/images/books/book-316.jpg';
-import book317Cover from '../assets/images/books/book-317.jpg';
-import book318Cover from '../assets/images/books/book-318.jpg';
-import book319Cover from '../assets/images/books/book-319.jpg';
-import book320Cover from '../assets/images/books/book-320.jpg';
-import book321Cover from '../assets/images/books/book-321.jpg';
-import book322Cover from '../assets/images/books/book-322.jpg';
-import book323Cover from '../assets/images/books/book-323.jpg';
-import book324Cover from '../assets/images/books/book-324.jpg';
-import book325Cover from '../assets/images/books/book-325.jpg';
-import book326Cover from '../assets/images/books/book-326.jpg';
-import book327Cover from '../assets/images/books/book-327.jpg';
-import book328Cover from '../assets/images/books/book-328.jpg';
-import book329Cover from '../assets/images/books/book-329.jpg';
-import book330Cover from '../assets/images/books/book-330.jpg';
-import book331Cover from '../assets/images/books/book-331.jpg';
-import book332Cover from '../assets/images/books/book-332.jpg';
-import book333Cover from '../assets/images/books/book-333.jpg';
-import book334Cover from '../assets/images/books/book-334.jpg';
-import book335Cover from '../assets/images/books/book-335.jpg';
-import book336Cover from '../assets/images/books/book-336.jpg';
-import book337Cover from '../assets/images/books/book-337.jpg';
-import book338Cover from '../assets/images/books/book-338.jpg';
-import book339Cover from '../assets/images/books/book-339.jpg';
-import book340Cover from '../assets/images/books/book-340.jpg';
-import book341Cover from '../assets/images/books/book-341.jpg';
-import book342Cover from '../assets/images/books/book-342.jpg';
-import book343Cover from '../assets/images/books/book-343.jpg';
-import book344Cover from '../assets/images/books/book-344.jpg';
-import book345Cover from '../assets/images/books/book-345.jpg';
-import book346Cover from '../assets/images/books/book-346.jpg';
-import book347Cover from '../assets/images/books/book-347.jpg';
-import book348Cover from '../assets/images/books/book-348.jpg';
-import book349Cover from '../assets/images/books/book-349.jpg';
-import book350Cover from '../assets/images/books/book-350.jpg';
-import book351Cover from '../assets/images/books/book-351.jpg';
-import book352Cover from '../assets/images/books/book-352.jpg';
-import book353Cover from '../assets/images/books/book-353.jpg';
-import book354Cover from '../assets/images/books/book-354.jpg';
-import book355Cover from '../assets/images/books/book-355.jpg';
-import book356Cover from '../assets/images/books/book-356.jpg';
-import book357Cover from '../assets/images/books/book-357.jpg';
-import book358Cover from '../assets/images/books/book-358.jpg';
-import book359Cover from '../assets/images/books/book-359.jpg';
-import book360Cover from '../assets/images/books/book-360.jpg';
-import book361Cover from '../assets/images/books/book-361.jpg';
-import book362Cover from '../assets/images/books/book-362.jpg';
-import book363Cover from '../assets/images/books/book-363.jpg';
-import book364Cover from '../assets/images/books/book-364.jpg';
-import book365Cover from '../assets/images/books/book-365.jpg';
-import book366Cover from '../assets/images/books/book-366.jpg';
-import book367Cover from '../assets/images/books/book-367.jpg';
-import book368Cover from '../assets/images/books/book-368.jpg';
-import book369Cover from '../assets/images/books/book-369.jpg';
-import book370Cover from '../assets/images/books/book-370.jpg';
-import book371Cover from '../assets/images/books/book-371.jpg';
-import book372Cover from '../assets/images/books/book-372.jpg';
-import book373Cover from '../assets/images/books/book-373.jpg';
-import book374Cover from '../assets/images/books/book-374.jpg';
-import book375Cover from '../assets/images/books/book-375.jpg';
-import book376Cover from '../assets/images/books/book-376.jpg';
-import book377Cover from '../assets/images/books/book-377.jpg';
-import book378Cover from '../assets/images/books/book-378.jpg';
-import book379Cover from '../assets/images/books/book-379.jpg';
-import book380Cover from '../assets/images/books/book-380.jpg';
-import book381Cover from '../assets/images/books/book-381.jpg';
-import book382Cover from '../assets/images/books/book-382.jpg';
-import book383Cover from '../assets/images/books/book-383.jpg';
-import book384Cover from '../assets/images/books/book-384.jpg';
-import book385Cover from '../assets/images/books/book-385.jpg';
-import book386Cover from '../assets/images/books/book-386.jpg';
-import book387Cover from '../assets/images/books/book-387.jpg';
-import book388Cover from '../assets/images/books/book-388.jpg';
-import book389Cover from '../assets/images/books/book-389.jpg';
-import book390Cover from '../assets/images/books/book-390.jpg';
-import book391Cover from '../assets/images/books/book-391.jpg';
-import book392Cover from '../assets/images/books/book-392.jpg';
-import book393Cover from '../assets/images/books/book-393.jpg';
-import book394Cover from '../assets/images/books/book-394.jpg';
-import book395Cover from '../assets/images/books/book-395.jpg';
-import book396Cover from '../assets/images/books/book-396.jpg';
-import book397Cover from '../assets/images/books/book-397.jpg';
-import book398Cover from '../assets/images/books/book-398.jpg';
-import book399Cover from '../assets/images/books/book-399.jpg';
-import book400Cover from '../assets/images/books/book-400.jpg';
-import book401Cover from '../assets/images/books/book-401.jpg';
-import book402Cover from '../assets/images/books/book-402.jpg';
-import book403Cover from '../assets/images/books/book-403.jpg';
-import book404Cover from '../assets/images/books/book-404.jpg';
-import book405Cover from '../assets/images/books/book-405.jpg';
-import book406Cover from '../assets/images/books/book-406.jpg';
-import book407Cover from '../assets/images/books/book-407.jpg';
-import book408Cover from '../assets/images/books/book-408.jpg';
-import book409Cover from '../assets/images/books/book-409.jpg';
-import book410Cover from '../assets/images/books/book-410.jpg';
-import book411Cover from '../assets/images/books/book-411.jpg';
-import book412Cover from '../assets/images/books/book-412.jpg';
-import book413Cover from '../assets/images/books/book-413.jpg';
-import book414Cover from '../assets/images/books/book-414.jpg';
-import book415Cover from '../assets/images/books/book-415.jpg';
-import book416Cover from '../assets/images/books/book-416.jpg';
-import book417Cover from '../assets/images/books/book-417.jpg';
-import book418Cover from '../assets/images/books/book-418.jpg';
-import book419Cover from '../assets/images/books/book-419.jpg';
-import book420Cover from '../assets/images/books/book-420.jpg';
-import book421Cover from '../assets/images/books/book-421.jpg';
-import book422Cover from '../assets/images/books/book-422.jpg';
-import book423Cover from '../assets/images/books/book-423.jpg';
-import book424Cover from '../assets/images/books/book-424.jpg';
-import book425Cover from '../assets/images/books/book-425.jpg';
-import book426Cover from '../assets/images/books/book-426.jpg';
-import book427Cover from '../assets/images/books/book-427.jpg';
-import book428Cover from '../assets/images/books/book-428.jpg';
-import book429Cover from '../assets/images/books/book-429.jpg';
-import book430Cover from '../assets/images/books/book-430.jpg';
-import book431Cover from '../assets/images/books/book-431.jpg';
-import book432Cover from '../assets/images/books/book-432.jpg';
-import book433Cover from '../assets/images/books/book-433.jpg';
-import book434Cover from '../assets/images/books/book-434.jpg';
-import book435Cover from '../assets/images/books/book-435.jpg';
-import book436Cover from '../assets/images/books/book-436.jpg';
-import book437Cover from '../assets/images/books/book-437.jpg';
-import book438Cover from '../assets/images/books/book-438.jpg';
-import book439Cover from '../assets/images/books/book-439.jpg';
-import book440Cover from '../assets/images/books/book-440.jpg';
-import book441Cover from '../assets/images/books/book-441.jpg';
-import book442Cover from '../assets/images/books/book-442.jpg';
-import book443Cover from '../assets/images/books/book-443.jpg';
-import book444Cover from '../assets/images/books/book-444.jpg';
-import book445Cover from '../assets/images/books/book-445.jpg';
-import book446Cover from '../assets/images/books/book-446.jpg';
-import book447Cover from '../assets/images/books/book-447.jpg';
-import book448Cover from '../assets/images/books/book-448.jpg';
-import book449Cover from '../assets/images/books/book-449.jpg';
-import book450Cover from '../assets/images/books/book-450.jpg';
-import book451Cover from '../assets/images/books/book-451.jpg';
-import book452Cover from '../assets/images/books/book-452.jpg';
-import book453Cover from '../assets/images/books/book-453.jpg';
-import book454Cover from '../assets/images/books/book-454.jpg';
-import book455Cover from '../assets/images/books/book-455.jpg';
-import book456Cover from '../assets/images/books/book-456.jpg';
-import book457Cover from '../assets/images/books/book-457.jpg';
-import book458Cover from '../assets/images/books/book-458.jpg';
-import book459Cover from '../assets/images/books/book-459.jpg';
-import book460Cover from '../assets/images/books/book-460.jpg';
-import book461Cover from '../assets/images/books/book-461.jpg';
-import book462Cover from '../assets/images/books/book-462.jpg';
-import book463Cover from '../assets/images/books/book-463.jpg';
-import book464Cover from '../assets/images/books/book-464.jpg';
-import book465Cover from '../assets/images/books/book-465.jpg';
-import book466Cover from '../assets/images/books/book-466.jpg';
-import book467Cover from '../assets/images/books/book-467.jpg';
-import book468Cover from '../assets/images/books/book-468.jpg';
-import book469Cover from '../assets/images/books/book-469.jpg';
-import book470Cover from '../assets/images/books/book-470.jpg';
-import book471Cover from '../assets/images/books/book-471.jpg';
-import book472Cover from '../assets/images/books/book-472.jpg';
-import book473Cover from '../assets/images/books/book-473.jpg';
-import book474Cover from '../assets/images/books/book-474.jpg';
-import book475Cover from '../assets/images/books/book-475.jpg';
-import book476Cover from '../assets/images/books/book-476.jpg';
-import book477Cover from '../assets/images/books/book-477.jpg';
-import book478Cover from '../assets/images/books/book-478.jpg';
-import book479Cover from '../assets/images/books/book-479.jpg';
-import book480Cover from '../assets/images/books/book-480.jpg';
-import book481Cover from '../assets/images/books/book-481.jpg';
-import book482Cover from '../assets/images/books/book-482.jpg';
-import book483Cover from '../assets/images/books/book-483.jpg';
-import book484Cover from '../assets/images/books/book-484.jpg';
-import book485Cover from '../assets/images/books/book-485.jpg';
-import book486Cover from '../assets/images/books/book-486.jpg';
-import book487Cover from '../assets/images/books/book-487.jpg';
-import book488Cover from '../assets/images/books/book-488.jpg';
-import book489Cover from '../assets/images/books/book-489.jpg';
-import book490Cover from '../assets/images/books/book-490.jpg';
-import book491Cover from '../assets/images/books/book-491.jpg';
-import book492Cover from '../assets/images/books/book-492.jpg';
-import book493Cover from '../assets/images/books/book-493.jpg';
-import book494Cover from '../assets/images/books/book-494.jpg';
-import book495Cover from '../assets/images/books/book-495.jpg';
-import book496Cover from '../assets/images/books/book-496.jpg';
-import book497Cover from '../assets/images/books/book-497.jpg';
-import book498Cover from '../assets/images/books/book-498.jpg';
-import book499Cover from '../assets/images/books/book-499.jpg';
-import book500Cover from '../assets/images/books/book-500.jpg';
-import book501Cover from '../assets/images/books/book-501.jpg';
-import book502Cover from '../assets/images/books/book-502.jpg';
-import book503Cover from '../assets/images/books/book-503.jpg';
-import book504Cover from '../assets/images/books/book-504.jpg';
-import book505Cover from '../assets/images/books/book-505.jpg';
-import book506Cover from '../assets/images/books/book-506.jpg';
-import book507Cover from '../assets/images/books/book-507.jpg';
-import book508Cover from '../assets/images/books/book-508.jpg';
-import book509Cover from '../assets/images/books/book-509.jpg';
-import book510Cover from '../assets/images/books/book-510.jpg';
-import book511Cover from '../assets/images/books/book-511.jpg';
-import book512Cover from '../assets/images/books/book-512.jpg';
-import book513Cover from '../assets/images/books/book-513.jpg';
-import book514Cover from '../assets/images/books/book-514.jpg';
-import book515Cover from '../assets/images/books/book-515.jpg';
-import book516Cover from '../assets/images/books/book-516.jpg';
-import book517Cover from '../assets/images/books/book-517.jpg';
-import book518Cover from '../assets/images/books/book-518.jpg';
-import book519Cover from '../assets/images/books/book-519.jpg';
-import book520Cover from '../assets/images/books/book-520.jpg';
-import book521Cover from '../assets/images/books/book-521.jpg';
-import book522Cover from '../assets/images/books/book-522.jpg';
-import book523Cover from '../assets/images/books/book-523.jpg';
-import book524Cover from '../assets/images/books/book-524.jpg';
-import book525Cover from '../assets/images/books/book-525.jpg';
-import book526Cover from '../assets/images/books/book-526.jpg';
-import book527Cover from '../assets/images/books/book-527.jpg';
-import book528Cover from '../assets/images/books/book-528.jpg';
-import book529Cover from '../assets/images/books/book-529.jpg';
-import book530Cover from '../assets/images/books/book-530.jpg';
-import book531Cover from '../assets/images/books/book-531.jpg';
-import book532Cover from '../assets/images/books/book-532.jpg';
-import book533Cover from '../assets/images/books/book-533.jpg';
-import book534Cover from '../assets/images/books/book-534.jpg';
-import book535Cover from '../assets/images/books/book-535.jpg';
-import book536Cover from '../assets/images/books/book-536.jpg';
-import book537Cover from '../assets/images/books/book-537.jpg';
-import book538Cover from '../assets/images/books/book-538.jpg';
-import book539Cover from '../assets/images/books/book-539.jpg';
-import book540Cover from '../assets/images/books/book-540.jpg';
-import book541Cover from '../assets/images/books/book-541.jpg';
-import book542Cover from '../assets/images/books/book-542.jpg';
-import book543Cover from '../assets/images/books/book-543.jpg';
-import book544Cover from '../assets/images/books/book-544.jpg';
-import book545Cover from '../assets/images/books/book-545.jpg';
-import book546Cover from '../assets/images/books/book-546.jpg';
-import book547Cover from '../assets/images/books/book-547.jpg';
-import book548Cover from '../assets/images/books/book-548.jpg';
-import book549Cover from '../assets/images/books/book-549.jpg';
-import book550Cover from '../assets/images/books/book-550.jpg';
-import book551Cover from '../assets/images/books/book-551.jpg';
-import book552Cover from '../assets/images/books/book-552.jpg';
-import book553Cover from '../assets/images/books/book-553.jpg';
-import book554Cover from '../assets/images/books/book-554.jpg';
-import book555Cover from '../assets/images/books/book-555.jpg';
-import book556Cover from '../assets/images/books/book-556.jpg';
-import book557Cover from '../assets/images/books/book-557.jpg';
-import book558Cover from '../assets/images/books/book-558.jpg';
-import book559Cover from '../assets/images/books/book-559.jpg';
-import book560Cover from '../assets/images/books/book-560.jpg';
-import book561Cover from '../assets/images/books/book-561.jpg';
-import book562Cover from '../assets/images/books/book-562.jpg';
-import book563Cover from '../assets/images/books/book-563.jpg';
-import book564Cover from '../assets/images/books/book-564.jpg';
-import book565Cover from '../assets/images/books/book-565.jpg';
-import book566Cover from '../assets/images/books/book-566.jpg';
-import book567Cover from '../assets/images/books/book-567.jpg';
-import book568Cover from '../assets/images/books/book-568.jpg';
-import book569Cover from '../assets/images/books/book-569.jpg';
-import book570Cover from '../assets/images/books/book-570.jpg';
-import book571Cover from '../assets/images/books/book-571.jpg';
-import book572Cover from '../assets/images/books/book-572.jpg';
-import book573Cover from '../assets/images/books/book-573.jpg';
-import book574Cover from '../assets/images/books/book-574.jpg';
-import book575Cover from '../assets/images/books/book-575.jpg';
-import book576Cover from '../assets/images/books/book-576.jpg';
-import book577Cover from '../assets/images/books/book-577.jpg';
-import book578Cover from '../assets/images/books/book-578.jpg';
-import book579Cover from '../assets/images/books/book-579.jpg';
-import book580Cover from '../assets/images/books/book-580.jpg';
-import book581Cover from '../assets/images/books/book-581.jpg';
-import book582Cover from '../assets/images/books/book-582.jpg';
-import book583Cover from '../assets/images/books/book-583.jpg';
-import book584Cover from '../assets/images/books/book-584.jpg';
-import book585Cover from '../assets/images/books/book-585.jpg';
-import book586Cover from '../assets/images/books/book-586.jpg';
-import book587Cover from '../assets/images/books/book-587.jpg';
-import book588Cover from '../assets/images/books/book-588.jpg';
-import book589Cover from '../assets/images/books/book-589.jpg';
-import book590Cover from '../assets/images/books/book-590.jpg';
-import book591Cover from '../assets/images/books/book-591.jpg';
-import book592Cover from '../assets/images/books/book-592.jpg';
-import book593Cover from '../assets/images/books/book-593.jpg';
-import book594Cover from '../assets/images/books/book-594.jpg';
-import book595Cover from '../assets/images/books/book-595.jpg';
-import book596Cover from '../assets/images/books/book-596.jpg';
-import book597Cover from '../assets/images/books/book-597.jpg';
-import book598Cover from '../assets/images/books/book-598.jpg';
-import book599Cover from '../assets/images/books/book-599.jpg';
-import book600Cover from '../assets/images/books/book-600.jpg';
-import book601Cover from '../assets/images/books/book-601.jpg';
-import book602Cover from '../assets/images/books/book-602.jpg';
-import book603Cover from '../assets/images/books/book-603.jpg';
-import book604Cover from '../assets/images/books/book-604.jpg';
-import book605Cover from '../assets/images/books/book-605.jpg';
-import book606Cover from '../assets/images/books/book-606.jpg';
-import book607Cover from '../assets/images/books/book-607.jpg';
-import book608Cover from '../assets/images/books/book-608.jpg';
-import book609Cover from '../assets/images/books/book-609.jpg';
-import book610Cover from '../assets/images/books/book-610.jpg';
-import book611Cover from '../assets/images/books/book-611.jpg';
-import book612Cover from '../assets/images/books/book-612.jpg';
-import book613Cover from '../assets/images/books/book-613.jpg';
-import book614Cover from '../assets/images/books/book-614.jpg';
-import book615Cover from '../assets/images/books/book-615.jpg';
-import book616Cover from '../assets/images/books/book-616.jpg';
-import book617Cover from '../assets/images/books/book-617.jpg';
-import book618Cover from '../assets/images/books/book-618.jpg';
-import book619Cover from '../assets/images/books/book-619.jpg';
-import book620Cover from '../assets/images/books/book-620.jpg';
-import book621Cover from '../assets/images/books/book-621.jpg';
-import book622Cover from '../assets/images/books/book-622.jpg';
-import book623Cover from '../assets/images/books/book-623.jpg';
-import book624Cover from '../assets/images/books/book-624.jpg';
-import book625Cover from '../assets/images/books/book-625.jpg';
-import book626Cover from '../assets/images/books/book-626.jpg';
-import book627Cover from '../assets/images/books/book-627.jpg';
-import book628Cover from '../assets/images/books/book-628.jpg';
-import book629Cover from '../assets/images/books/book-629.jpg';
-import book630Cover from '../assets/images/books/book-630.jpg';
-import book631Cover from '../assets/images/books/book-631.jpg';
-import book632Cover from '../assets/images/books/book-632.jpg';
-import book633Cover from '../assets/images/books/book-633.jpg';
-import book634Cover from '../assets/images/books/book-634.jpg';
-import book635Cover from '../assets/images/books/book-635.jpg';
-import book636Cover from '../assets/images/books/book-636.jpg';
-import book637Cover from '../assets/images/books/book-637.jpg';
-import book638Cover from '../assets/images/books/book-638.jpg';
-import book639Cover from '../assets/images/books/book-639.jpg';
-import book640Cover from '../assets/images/books/book-640.jpg';
-import book641Cover from '../assets/images/books/book-641.jpg';
-import book642Cover from '../assets/images/books/book-642.jpg';
-import book643Cover from '../assets/images/books/book-643.jpg';
-import book644Cover from '../assets/images/books/book-644.jpg';
-import book645Cover from '../assets/images/books/book-645.jpg';
-import book646Cover from '../assets/images/books/book-646.jpg';
-import book647Cover from '../assets/images/books/book-647.jpg';
-import book648Cover from '../assets/images/books/book-648.jpg';
-import book649Cover from '../assets/images/books/book-649.jpg';
-import book650Cover from '../assets/images/books/book-650.jpg';
-import book651Cover from '../assets/images/books/book-651.jpg';
-import book652Cover from '../assets/images/books/book-652.jpg';
-import book653Cover from '../assets/images/books/book-653.jpg';
-import book654Cover from '../assets/images/books/book-654.jpg';
-import book655Cover from '../assets/images/books/book-655.jpg';
-import book656Cover from '../assets/images/books/book-656.jpg';
-import book657Cover from '../assets/images/books/book-657.jpg';
-import book658Cover from '../assets/images/books/book-658.jpg';
-import book659Cover from '../assets/images/books/book-659.jpg';
-import book660Cover from '../assets/images/books/book-660.jpg';
-import book661Cover from '../assets/images/books/book-661.jpg';
-import book662Cover from '../assets/images/books/book-662.jpg';
-import book663Cover from '../assets/images/books/book-663.jpg';
-import book664Cover from '../assets/images/books/book-664.jpg';
-import book665Cover from '../assets/images/books/book-665.jpg';
-import book666Cover from '../assets/images/books/book-666.jpg';
-import book667Cover from '../assets/images/books/book-667.jpg';
-import book668Cover from '../assets/images/books/book-668.jpg';
-import book669Cover from '../assets/images/books/book-669.jpg';
-import book670Cover from '../assets/images/books/book-670.jpg';
-import book671Cover from '../assets/images/books/book-671.jpg';
-import book672Cover from '../assets/images/books/book-672.jpg';
-import book673Cover from '../assets/images/books/book-673.jpg';
-import book674Cover from '../assets/images/books/book-674.jpg';
-import book675Cover from '../assets/images/books/book-675.jpg';
-import book676Cover from '../assets/images/books/book-676.jpg';
-import book677Cover from '../assets/images/books/book-677.jpg';
-import book678Cover from '../assets/images/books/book-678.jpg';
-import book679Cover from '../assets/images/books/book-679.jpg';
-import book680Cover from '../assets/images/books/book-680.jpg';
-import book681Cover from '../assets/images/books/book-681.jpg';
-import book682Cover from '../assets/images/books/book-682.jpg';
-import book683Cover from '../assets/images/books/book-683.jpg';
-import book684Cover from '../assets/images/books/book-684.jpg';
-import book685Cover from '../assets/images/books/book-685.jpg';
-import book686Cover from '../assets/images/books/book-686.jpg';
-import book687Cover from '../assets/images/books/book-687.jpg';
-import book688Cover from '../assets/images/books/book-688.jpg';
-import book689Cover from '../assets/images/books/book-689.jpg';
-import book690Cover from '../assets/images/books/book-690.jpg';
-import book691Cover from '../assets/images/books/book-691.jpg';
-import book692Cover from '../assets/images/books/book-692.jpg';
-import book693Cover from '../assets/images/books/book-693.jpg';
-import book694Cover from '../assets/images/books/book-694.jpg';
-import book695Cover from '../assets/images/books/book-695.jpg';
-import book696Cover from '../assets/images/books/book-696.jpg';
-import book697Cover from '../assets/images/books/book-697.jpg';
-import book698Cover from '../assets/images/books/book-698.jpg';
-import book699Cover from '../assets/images/books/book-699.jpg';
-import book700Cover from '../assets/images/books/book-700.jpg';
-import book701Cover from '../assets/images/books/book-701.jpg';
-import book702Cover from '../assets/images/books/book-702.jpg';
-import book703Cover from '../assets/images/books/book-703.jpg';
-import book704Cover from '../assets/images/books/book-704.jpg';
-import book706Cover from '../assets/images/books/book-706.jpg';
-import book707Cover from '../assets/images/books/book-707.jpg';
-import book708Cover from '../assets/images/books/book-708.jpg';
-import book709Cover from '../assets/images/books/book-709.jpg';
-import book710Cover from '../assets/images/books/book-710.jpg';
-import book711Cover from '../assets/images/books/book-711.jpg';
-import book712Cover from '../assets/images/books/book-712.jpg';
-import book713Cover from '../assets/images/books/book-713.jpg';
-import book714Cover from '../assets/images/books/book-714.jpg';
-import book715Cover from '../assets/images/books/book-715.jpg';
-import book716Cover from '../assets/images/books/book-716.jpg';
-import book717Cover from '../assets/images/books/book-717.jpg';
-import book718Cover from '../assets/images/books/book-718.jpg';
-import book719Cover from '../assets/images/books/book-719.jpg';
-import book720Cover from '../assets/images/books/book-720.jpg';
-import book721Cover from '../assets/images/books/book-721.jpg';
-import book722Cover from '../assets/images/books/book-722.jpg';
-import book723Cover from '../assets/images/books/book-723.jpg';
-import book724Cover from '../assets/images/books/book-724.jpg';
-import book725Cover from '../assets/images/books/book-725.jpg';
-import book726Cover from '../assets/images/books/book-726.jpg';
-import book727Cover from '../assets/images/books/book-727.jpg';
-import book728Cover from '../assets/images/books/book-728.jpg';
-import book729Cover from '../assets/images/books/book-729.jpg';
-import book730Cover from '../assets/images/books/book-730.jpg';
-import book731Cover from '../assets/images/books/book-731.jpg';
-import book732Cover from '../assets/images/books/book-732.jpg';
-import book733Cover from '../assets/images/books/book-733.jpg';
-import book734Cover from '../assets/images/books/book-734.jpg';
-import book735Cover from '../assets/images/books/book-735.jpg';
-import book736Cover from '../assets/images/books/book-736.jpg';
-import book737Cover from '../assets/images/books/book-737.jpg';
-import book738Cover from '../assets/images/books/book-738.jpg';
-import book739Cover from '../assets/images/books/book-739.jpg';
-import book740Cover from '../assets/images/books/book-740.jpg';
-import book741Cover from '../assets/images/books/book-741.jpg';
-import book742Cover from '../assets/images/books/book-742.jpg';
-import book743Cover from '../assets/images/books/book-743.jpg';
-import book744Cover from '../assets/images/books/book-744.jpg';
-import book745Cover from '../assets/images/books/book-745.jpg';
-import book746Cover from '../assets/images/books/book-746.jpg';
-import book747Cover from '../assets/images/books/book-747.jpg';
-import book748Cover from '../assets/images/books/book-748.jpg';
-import book749Cover from '../assets/images/books/book-749.jpg';
-import book750Cover from '../assets/images/books/book-750.jpg';
-import book751Cover from '../assets/images/books/book-751.jpg';
-import book752Cover from '../assets/images/books/book-752.jpg';
-import book753Cover from '../assets/images/books/book-753.jpg';
-import book754Cover from '../assets/images/books/book-754.jpg';
-import book755Cover from '../assets/images/books/book-755.jpg';
-import book756Cover from '../assets/images/books/book-756.jpg';
-import book757Cover from '../assets/images/books/book-757.jpg';
-import book758Cover from '../assets/images/books/book-758.jpg';
-import book759Cover from '../assets/images/books/book-759.jpg';
-import book760Cover from '../assets/images/books/book-760.jpg';
-import book761Cover from '../assets/images/books/book-761.jpg';
-import book762Cover from '../assets/images/books/book-762.jpg';
-import book763Cover from '../assets/images/books/book-763.jpg';
-import book764Cover from '../assets/images/books/book-764.jpg';
-import book765Cover from '../assets/images/books/book-765.jpg';
-import book766Cover from '../assets/images/books/book-766.jpg';
-import book767Cover from '../assets/images/books/book-767.jpg';
-import book768Cover from '../assets/images/books/book-768.jpg';
-import book769Cover from '../assets/images/books/book-769.jpg';
-import book770Cover from '../assets/images/books/book-770.jpg';
-import book771Cover from '../assets/images/books/book-771.jpg';
-import book772Cover from '../assets/images/books/book-772.jpg';
-import book773Cover from '../assets/images/books/book-773.jpg';
-import book774Cover from '../assets/images/books/book-774.jpg';
-import book775Cover from '../assets/images/books/book-775.jpg';
-import book776Cover from '../assets/images/books/book-776.jpg';
-import book777Cover from '../assets/images/books/book-777.jpg';
-import book778Cover from '../assets/images/books/book-778.jpg';
-import book779Cover from '../assets/images/books/book-779.jpg';
-import book780Cover from '../assets/images/books/book-780.jpg';
-import book781Cover from '../assets/images/books/book-781.jpg';
-import book782Cover from '../assets/images/books/book-782.jpg';
-import book783Cover from '../assets/images/books/book-783.jpg';
-import book784Cover from '../assets/images/books/book-784.jpg';
-import book785Cover from '../assets/images/books/book-785.jpg';
-import book786Cover from '../assets/images/books/book-786.jpg';
-import book787Cover from '../assets/images/books/book-787.jpg';
-import book788Cover from '../assets/images/books/book-788.jpg';
-import book789Cover from '../assets/images/books/book-789.jpg';
-import book790Cover from '../assets/images/books/book-790.jpg';
-import book791Cover from '../assets/images/books/book-791.jpg';
-import book792Cover from '../assets/images/books/book-792.jpg';
-import book793Cover from '../assets/images/books/book-793.jpg';
-import book794Cover from '../assets/images/books/book-794.jpg';
-import book795Cover from '../assets/images/books/book-795.jpg';
-import book796Cover from '../assets/images/books/book-796.jpg';
-import book797Cover from '../assets/images/books/book-797.jpg';
-import book798Cover from '../assets/images/books/book-798.jpg';
-import book799Cover from '../assets/images/books/book-799.jpg';
-import book800Cover from '../assets/images/books/book-800.jpg';
-import book801Cover from '../assets/images/books/book-801.jpg';
-import book802Cover from '../assets/images/books/book-802.jpg';
-import book803Cover from '../assets/images/books/book-803.jpg';
-import book804Cover from '../assets/images/books/book-804.jpg';
-import book805Cover from '../assets/images/books/book-805.jpg';
-import book806Cover from '../assets/images/books/book-806.jpg';
-import book807Cover from '../assets/images/books/book-807.jpg';
-import book808Cover from '../assets/images/books/book-808.jpg';
-import book809Cover from '../assets/images/books/book-809.jpg';
-import book810Cover from '../assets/images/books/book-810.jpg';
-import book811Cover from '../assets/images/books/book-811.jpg';
-import book812Cover from '../assets/images/books/book-812.jpg';
-import book813Cover from '../assets/images/books/book-813.jpg';
-import book814Cover from '../assets/images/books/book-814.jpg';
-import book815Cover from '../assets/images/books/book-815.jpg';
-import book816Cover from '../assets/images/books/book-816.jpg';
-import book817Cover from '../assets/images/books/book-817.jpg';
-import book818Cover from '../assets/images/books/book-818.jpg';
-import book819Cover from '../assets/images/books/book-819.jpg';
-import book820Cover from '../assets/images/books/book-820.jpg';
-import book821Cover from '../assets/images/books/book-821.jpg';
-import book822Cover from '../assets/images/books/book-822.jpg';
-import book823Cover from '../assets/images/books/book-823.jpg';
-import book824Cover from '../assets/images/books/book-824.jpg';
-import book825Cover from '../assets/images/books/book-825.jpg';
-import book826Cover from '../assets/images/books/book-826.jpg';
-import book827Cover from '../assets/images/books/book-827.jpg';
-import book828Cover from '../assets/images/books/book-828.jpg';
-import book829Cover from '../assets/images/books/book-829.jpg';
-import book830Cover from '../assets/images/books/book-830.jpg';
-import book831Cover from '../assets/images/books/book-831.jpg';
-import book832Cover from '../assets/images/books/book-832.jpg';
-import book833Cover from '../assets/images/books/book-833.jpg';
-import book834Cover from '../assets/images/books/book-834.jpg';
-import book835Cover from '../assets/images/books/book-835.jpg';
-import book836Cover from '../assets/images/books/book-836.jpg';
-import book837Cover from '../assets/images/books/book-837.jpg';
-import book838Cover from '../assets/images/books/book-838.jpg';
-import book839Cover from '../assets/images/books/book-839.jpg';
-import book840Cover from '../assets/images/books/book-840.jpg';
-import book841Cover from '../assets/images/books/book-841.jpg';
-import book842Cover from '../assets/images/books/book-842.jpg';
-import book843Cover from '../assets/images/books/book-843.jpg';
-import book844Cover from '../assets/images/books/book-844.jpg';
-import book845Cover from '../assets/images/books/book-845.jpg';
-import book846Cover from '../assets/images/books/book-846.jpg';
-import book847Cover from '../assets/images/books/book-847.jpg';
-import book848Cover from '../assets/images/books/book-848.jpg';
-import book849Cover from '../assets/images/books/book-849.jpg';
-import book850Cover from '../assets/images/books/book-850.jpg';
-import book851Cover from '../assets/images/books/book-851.jpg';
-import book852Cover from '../assets/images/books/book-852.jpg';
-import book853Cover from '../assets/images/books/book-853.jpg';
-import book854Cover from '../assets/images/books/book-854.jpg';
-import book855Cover from '../assets/images/books/book-855.jpg';
-import book856Cover from '../assets/images/books/book-856.jpg';
-import book857Cover from '../assets/images/books/book-857.jpg';
-import book858Cover from '../assets/images/books/book-858.jpg';
-import book859Cover from '../assets/images/books/book-859.jpg';
-import book860Cover from '../assets/images/books/book-860.jpg';
-import book861Cover from '../assets/images/books/book-861.jpg';
-import book862Cover from '../assets/images/books/book-862.jpg';
-import book863Cover from '../assets/images/books/book-863.jpg';
-import book864Cover from '../assets/images/books/book-864.jpg';
-import book865Cover from '../assets/images/books/book-865.jpg';
-import book866Cover from '../assets/images/books/book-866.jpg';
-import book867Cover from '../assets/images/books/book-867.jpg';
-import book868Cover from '../assets/images/books/book-868.jpg';
-import book869Cover from '../assets/images/books/book-869.jpg';
-import book870Cover from '../assets/images/books/book-870.jpg';
-import book871Cover from '../assets/images/books/book-871.jpg';
-import book872Cover from '../assets/images/books/book-872.jpg';
-import book873Cover from '../assets/images/books/book-873.jpg';
-import book874Cover from '../assets/images/books/book-874.jpg';
-import book875Cover from '../assets/images/books/book-875.jpg';
-import book876Cover from '../assets/images/books/book-876.jpg';
-import book877Cover from '../assets/images/books/book-877.jpg';
-import book878Cover from '../assets/images/books/book-878.jpg';
-import book879Cover from '../assets/images/books/book-879.jpg';
-import book880Cover from '../assets/images/books/book-880.jpg';
-import book881Cover from '../assets/images/books/book-881.jpg';
-import book882Cover from '../assets/images/books/book-882.jpg';
-import book883Cover from '../assets/images/books/book-883.jpg';
-import book884Cover from '../assets/images/books/book-884.jpg';
-import book885Cover from '../assets/images/books/book-885.jpg';
-import book886Cover from '../assets/images/books/book-886.jpg';
-import book887Cover from '../assets/images/books/book-887.jpg';
-import book888Cover from '../assets/images/books/book-888.jpg';
-import book889Cover from '../assets/images/books/book-889.jpg';
-import book890Cover from '../assets/images/books/book-890.jpg';
-import book891Cover from '../assets/images/books/book-891.jpg';
-import book892Cover from '../assets/images/books/book-892.jpg';
-import book893Cover from '../assets/images/books/book-893.jpg';
-import book894Cover from '../assets/images/books/book-894.jpg';
-import book895Cover from '../assets/images/books/book-895.jpg';
-import book896Cover from '../assets/images/books/book-896.jpg';
-import book897Cover from '../assets/images/books/book-897.jpg';
-import book898Cover from '../assets/images/books/book-898.jpg';
-import book899Cover from '../assets/images/books/book-899.jpg';
-import book900Cover from '../assets/images/books/book-900.jpg';
-import book901Cover from '../assets/images/books/book-901.jpg';
-import book902Cover from '../assets/images/books/book-902.jpg';
-import book903Cover from '../assets/images/books/book-903.jpg';
-import book904Cover from '../assets/images/books/book-904.jpg';
-import book905Cover from '../assets/images/books/book-905.jpg';
-import book906Cover from '../assets/images/books/book-906.jpg';
-import book907Cover from '../assets/images/books/book-907.jpg';
-import book908Cover from '../assets/images/books/book-908.jpg';
-import book909Cover from '../assets/images/books/book-909.jpg';
-import book910Cover from '../assets/images/books/book-910.jpg';
-import book911Cover from '../assets/images/books/book-911.jpg';
-import book912Cover from '../assets/images/books/book-912.jpg';
-import book913Cover from '../assets/images/books/book-913.jpg';
-import book914Cover from '../assets/images/books/book-914.jpg';
-import book915Cover from '../assets/images/books/book-915.jpg';
-import book916Cover from '../assets/images/books/book-916.jpg';
-import book917Cover from '../assets/images/books/book-917.jpg';
-import book918Cover from '../assets/images/books/book-918.jpg';
-import book919Cover from '../assets/images/books/book-919.jpg';
-import book920Cover from '../assets/images/books/book-920.jpg';
-import book921Cover from '../assets/images/books/book-921.jpg';
-import book922Cover from '../assets/images/books/book-922.jpg';
-import book923Cover from '../assets/images/books/book-923.jpg';
-import book924Cover from '../assets/images/books/book-924.jpg';
-import book925Cover from '../assets/images/books/book-925.jpg';
-import book926Cover from '../assets/images/books/book-926.jpg';
-import book927Cover from '../assets/images/books/book-927.jpg';
-import book928Cover from '../assets/images/books/book-928.jpg';
-import book929Cover from '../assets/images/books/book-929.jpg';
-import book930Cover from '../assets/images/books/book-930.jpg';
-import book931Cover from '../assets/images/books/book-931.jpg';
-import book932Cover from '../assets/images/books/book-932.jpg';
-import book933Cover from '../assets/images/books/book-933.jpg';
-import book934Cover from '../assets/images/books/book-934.jpg';
-import book935Cover from '../assets/images/books/book-935.jpg';
-import book936Cover from '../assets/images/books/book-936.jpg';
-import book937Cover from '../assets/images/books/book-937.jpg';
-import book938Cover from '../assets/images/books/book-938.jpg';
-import book939Cover from '../assets/images/books/book-939.jpg';
-import book940Cover from '../assets/images/books/book-940.jpg';
-import book941Cover from '../assets/images/books/book-941.jpg';
-import book942Cover from '../assets/images/books/book-942.jpg';
-import book943Cover from '../assets/images/books/book-943.jpg';
-import book944Cover from '../assets/images/books/book-944.jpg';
-import book945Cover from '../assets/images/books/book-945.jpg';
-import book946Cover from '../assets/images/books/book-946.jpg';
-import book947Cover from '../assets/images/books/book-947.jpg';
-import book948Cover from '../assets/images/books/book-948.jpg';
-import book949Cover from '../assets/images/books/book-949.jpg';
-import book950Cover from '../assets/images/books/book-950.jpg';
-import book951Cover from '../assets/images/books/book-951.jpg';
-import book952Cover from '../assets/images/books/book-952.jpg';
-import book953Cover from '../assets/images/books/book-953.jpg';
-import book954Cover from '../assets/images/books/book-954.jpg';
-import book955Cover from '../assets/images/books/book-955.jpg';
-import book956Cover from '../assets/images/books/book-956.jpg';
-import book957Cover from '../assets/images/books/book-957.jpg';
-import book958Cover from '../assets/images/books/book-958.jpg';
-import book959Cover from '../assets/images/books/book-959.jpg';
-import book960Cover from '../assets/images/books/book-960.jpg';
-import book961Cover from '../assets/images/books/book-961.jpg';
-import book962Cover from '../assets/images/books/book-962.jpg';
-import book963Cover from '../assets/images/books/book-963.jpg';
-import book964Cover from '../assets/images/books/book-964.jpg';
-import book965Cover from '../assets/images/books/book-965.jpg';
-import book966Cover from '../assets/images/books/book-966.jpg';
-import book967Cover from '../assets/images/books/book-967.jpg';
-import book968Cover from '../assets/images/books/book-968.jpg';
-import book969Cover from '../assets/images/books/book-969.jpg';
-import book970Cover from '../assets/images/books/book-970.jpg';
-import book971Cover from '../assets/images/books/book-971.jpg';
-import book972Cover from '../assets/images/books/book-972.jpg';
-import book973Cover from '../assets/images/books/book-973.jpg';
-import book974Cover from '../assets/images/books/book-974.jpg';
-import book975Cover from '../assets/images/books/book-975.jpg';
-import book976Cover from '../assets/images/books/book-976.jpg';
-import book977Cover from '../assets/images/books/book-977.jpg';
-import book978Cover from '../assets/images/books/book-978.jpg';
-import book979Cover from '../assets/images/books/book-979.jpg';
-import book980Cover from '../assets/images/books/book-980.jpg';
-import book981Cover from '../assets/images/books/book-981.jpg';
-import book982Cover from '../assets/images/books/book-982.jpg';
-import book983Cover from '../assets/images/books/book-983.jpg';
-import book984Cover from '../assets/images/books/book-984.jpg';
-import book985Cover from '../assets/images/books/book-985.jpg';
-import book986Cover from '../assets/images/books/book-986.jpg';
-import book987Cover from '../assets/images/books/book-987.jpg';
-import book988Cover from '../assets/images/books/book-988.jpg';
-import book989Cover from '../assets/images/books/book-989.jpg';
-import book990Cover from '../assets/images/books/book-990.jpg';
-import book991Cover from '../assets/images/books/book-991.jpg';
-import book992Cover from '../assets/images/books/book-992.jpg';
-import book993Cover from '../assets/images/books/book-993.jpg';
-import book994Cover from '../assets/images/books/book-994.jpg';
-import book995Cover from '../assets/images/books/book-995.jpg';
-import book996Cover from '../assets/images/books/book-996.jpg';
-import book997Cover from '../assets/images/books/book-997.jpg';
-import book998Cover from '../assets/images/books/book-998.jpg';
-import book999Cover from '../assets/images/books/book-999.jpg';
 import book1000Cover from '../assets/images/books/book-1000.jpg';
 import book1001Cover from '../assets/images/books/book-1001.jpg';
 import book1002Cover from '../assets/images/books/book-1002.jpg';
@@ -1006,6 +9,7 @@ import book1006Cover from '../assets/images/books/book-1006.jpg';
 import book1007Cover from '../assets/images/books/book-1007.jpg';
 import book1008Cover from '../assets/images/books/book-1008.jpg';
 import book1009Cover from '../assets/images/books/book-1009.jpg';
+import book100Cover from '../assets/images/books/book-100.jpg';
 import book1010Cover from '../assets/images/books/book-1010.jpg';
 import book1011Cover from '../assets/images/books/book-1011.jpg';
 import book1012Cover from '../assets/images/books/book-1012.jpg';
@@ -1016,6 +20,7 @@ import book1016Cover from '../assets/images/books/book-1016.jpg';
 import book1017Cover from '../assets/images/books/book-1017.jpg';
 import book1018Cover from '../assets/images/books/book-1018.jpg';
 import book1019Cover from '../assets/images/books/book-1019.jpg';
+import book101Cover from '../assets/images/books/book-101.jpg';
 import book1020Cover from '../assets/images/books/book-1020.jpg';
 import book1021Cover from '../assets/images/books/book-1021.jpg';
 import book1022Cover from '../assets/images/books/book-1022.jpg';
@@ -1026,6 +31,7 @@ import book1026Cover from '../assets/images/books/book-1026.jpg';
 import book1027Cover from '../assets/images/books/book-1027.jpg';
 import book1028Cover from '../assets/images/books/book-1028.jpg';
 import book1029Cover from '../assets/images/books/book-1029.jpg';
+import book102Cover from '../assets/images/books/book-102.jpg';
 import book1030Cover from '../assets/images/books/book-1030.jpg';
 import book1031Cover from '../assets/images/books/book-1031.jpg';
 import book1032Cover from '../assets/images/books/book-1032.jpg';
@@ -1036,6 +42,7 @@ import book1036Cover from '../assets/images/books/book-1036.jpg';
 import book1037Cover from '../assets/images/books/book-1037.jpg';
 import book1038Cover from '../assets/images/books/book-1038.jpg';
 import book1039Cover from '../assets/images/books/book-1039.jpg';
+import book103Cover from '../assets/images/books/book-103.jpg';
 import book1040Cover from '../assets/images/books/book-1040.jpg';
 import book1041Cover from '../assets/images/books/book-1041.jpg';
 import book1042Cover from '../assets/images/books/book-1042.jpg';
@@ -1046,6 +53,7 @@ import book1046Cover from '../assets/images/books/book-1046.jpg';
 import book1047Cover from '../assets/images/books/book-1047.jpg';
 import book1048Cover from '../assets/images/books/book-1048.jpg';
 import book1049Cover from '../assets/images/books/book-1049.jpg';
+import book104Cover from '../assets/images/books/book-104.jpg';
 import book1050Cover from '../assets/images/books/book-1050.jpg';
 import book1051Cover from '../assets/images/books/book-1051.jpg';
 import book1052Cover from '../assets/images/books/book-1052.jpg';
@@ -1056,6 +64,7 @@ import book1056Cover from '../assets/images/books/book-1056.jpg';
 import book1057Cover from '../assets/images/books/book-1057.jpg';
 import book1058Cover from '../assets/images/books/book-1058.jpg';
 import book1059Cover from '../assets/images/books/book-1059.jpg';
+import book105Cover from '../assets/images/books/book-105.jpg';
 import book1060Cover from '../assets/images/books/book-1060.jpg';
 import book1061Cover from '../assets/images/books/book-1061.jpg';
 import book1062Cover from '../assets/images/books/book-1062.jpg';
@@ -1066,6 +75,7 @@ import book1066Cover from '../assets/images/books/book-1066.jpg';
 import book1067Cover from '../assets/images/books/book-1067.jpg';
 import book1068Cover from '../assets/images/books/book-1068.jpg';
 import book1069Cover from '../assets/images/books/book-1069.jpg';
+import book106Cover from '../assets/images/books/book-106.jpg';
 import book1070Cover from '../assets/images/books/book-1070.jpg';
 import book1071Cover from '../assets/images/books/book-1071.jpg';
 import book1072Cover from '../assets/images/books/book-1072.jpg';
@@ -1076,6 +86,7 @@ import book1076Cover from '../assets/images/books/book-1076.jpg';
 import book1077Cover from '../assets/images/books/book-1077.jpg';
 import book1078Cover from '../assets/images/books/book-1078.jpg';
 import book1079Cover from '../assets/images/books/book-1079.jpg';
+import book107Cover from '../assets/images/books/book-107.jpg';
 import book1080Cover from '../assets/images/books/book-1080.jpg';
 import book1081Cover from '../assets/images/books/book-1081.jpg';
 import book1082Cover from '../assets/images/books/book-1082.jpg';
@@ -1086,6 +97,7 @@ import book1086Cover from '../assets/images/books/book-1086.jpg';
 import book1087Cover from '../assets/images/books/book-1087.jpg';
 import book1088Cover from '../assets/images/books/book-1088.jpg';
 import book1089Cover from '../assets/images/books/book-1089.jpg';
+import book108Cover from '../assets/images/books/book-108.jpg';
 import book1090Cover from '../assets/images/books/book-1090.jpg';
 import book1091Cover from '../assets/images/books/book-1091.jpg';
 import book1092Cover from '../assets/images/books/book-1092.jpg';
@@ -1096,11 +108,1598 @@ import book1096Cover from '../assets/images/books/book-1096.jpg';
 import book1097Cover from '../assets/images/books/book-1097.jpg';
 import book1098Cover from '../assets/images/books/book-1098.jpg';
 import book1099Cover from '../assets/images/books/book-1099.jpg';
+import book109Cover from '../assets/images/books/book-109.jpg';
+import book10Cover from '../assets/images/books/book-10.jpg';
 import book1100Cover from '../assets/images/books/book-1100.jpg';
+import book1101Cover from '../assets/images/books/book-1101.jpg';
+import book1102Cover from '../assets/images/books/book-1102.jpg';
+import book1103Cover from '../assets/images/books/book-1103.jpg';
+import book1104Cover from '../assets/images/books/book-1104.jpg';
+import book1105Cover from '../assets/images/books/book-1105.jpg';
+import book1106Cover from '../assets/images/books/book-1106.jpg';
+import book1107Cover from '../assets/images/books/book-1107.jpg';
+import book1108Cover from '../assets/images/books/book-1108.jpg';
+import book1109Cover from '../assets/images/books/book-1109.jpg';
+import book110Cover from '../assets/images/books/book-110.jpg';
+import book1110Cover from '../assets/images/books/book-1110.jpg';
+import book1111Cover from '../assets/images/books/book-1111.jpg';
+import book1112Cover from '../assets/images/books/book-1112.jpg';
+import book1113Cover from '../assets/images/books/book-1113.jpg';
+import book1114Cover from '../assets/images/books/book-1114.jpg';
+import book1115Cover from '../assets/images/books/book-1115.jpg';
+import book1116Cover from '../assets/images/books/book-1116.jpg';
+import book1117Cover from '../assets/images/books/book-1117.jpg';
+import book1118Cover from '../assets/images/books/book-1118.jpg';
+import book1119Cover from '../assets/images/books/book-1119.jpg';
+import book111Cover from '../assets/images/books/book-111.jpg';
+import book1120Cover from '../assets/images/books/book-1120.jpg';
+import book1121Cover from '../assets/images/books/book-1121.jpg';
+import book1122Cover from '../assets/images/books/book-1122.jpg';
+import book1123Cover from '../assets/images/books/book-1123.jpg';
+import book1124Cover from '../assets/images/books/book-1124.jpg';
+import book1125Cover from '../assets/images/books/book-1125.jpg';
+import book1126Cover from '../assets/images/books/book-1126.jpg';
+import book1127Cover from '../assets/images/books/book-1127.jpg';
+import book1128Cover from '../assets/images/books/book-1128.jpg';
+import book1129Cover from '../assets/images/books/book-1129.jpg';
+import book112Cover from '../assets/images/books/book-112.jpg';
+import book1130Cover from '../assets/images/books/book-1130.jpg';
+import book1131Cover from '../assets/images/books/book-1131.jpg';
+import book1132Cover from '../assets/images/books/book-1132.jpg';
+import book1133Cover from '../assets/images/books/book-1133.jpg';
+import book1134Cover from '../assets/images/books/book-1134.jpg';
+import book1135Cover from '../assets/images/books/book-1135.jpg';
+import book1136Cover from '../assets/images/books/book-1136.jpg';
+import book1137Cover from '../assets/images/books/book-1137.jpg';
+import book1138Cover from '../assets/images/books/book-1138.jpg';
+import book1139Cover from '../assets/images/books/book-1139.jpg';
+import book113Cover from '../assets/images/books/book-113.jpg';
+import book1140Cover from '../assets/images/books/book-1140.jpg';
+import book1141Cover from '../assets/images/books/book-1141.jpg';
+import book1142Cover from '../assets/images/books/book-1142.jpg';
+import book1143Cover from '../assets/images/books/book-1143.jpg';
+import book1144Cover from '../assets/images/books/book-1144.jpg';
+import book1145Cover from '../assets/images/books/book-1145.jpg';
+import book1146Cover from '../assets/images/books/book-1146.jpg';
+import book1147Cover from '../assets/images/books/book-1147.jpg';
+import book1148Cover from '../assets/images/books/book-1148.jpg';
+import book1149Cover from '../assets/images/books/book-1149.jpg';
+import book114Cover from '../assets/images/books/book-114.jpg';
+import book1150Cover from '../assets/images/books/book-1150.jpg';
+import book1151Cover from '../assets/images/books/book-1151.jpg';
+import book1152Cover from '../assets/images/books/book-1152.jpg';
+import book1153Cover from '../assets/images/books/book-1153.jpg';
+import book1154Cover from '../assets/images/books/book-1154.jpg';
+import book1155Cover from '../assets/images/books/book-1155.jpg';
+import book1156Cover from '../assets/images/books/book-1156.jpg';
+import book1157Cover from '../assets/images/books/book-1157.jpg';
+import book1158Cover from '../assets/images/books/book-1158.jpg';
+import book1159Cover from '../assets/images/books/book-1159.jpg';
+import book115Cover from '../assets/images/books/book-115.jpg';
+import book1160Cover from '../assets/images/books/book-1160.jpg';
+import book1161Cover from '../assets/images/books/book-1161.jpg';
+import book1162Cover from '../assets/images/books/book-1162.jpg';
+import book1163Cover from '../assets/images/books/book-1163.jpg';
+import book1164Cover from '../assets/images/books/book-1164.jpg';
+import book1165Cover from '../assets/images/books/book-1165.jpg';
+import book1166Cover from '../assets/images/books/book-1166.jpg';
+import book1167Cover from '../assets/images/books/book-1167.jpg';
+import book1168Cover from '../assets/images/books/book-1168.jpg';
+import book1169Cover from '../assets/images/books/book-1169.jpg';
+import book116Cover from '../assets/images/books/book-116.jpg';
+import book1170Cover from '../assets/images/books/book-1170.jpg';
+import book1171Cover from '../assets/images/books/book-1171.jpg';
+import book1172Cover from '../assets/images/books/book-1172.jpg';
+import book1173Cover from '../assets/images/books/book-1173.jpg';
+import book1174Cover from '../assets/images/books/book-1174.jpg';
+import book1175Cover from '../assets/images/books/book-1175.jpg';
+import book1176Cover from '../assets/images/books/book-1176.jpg';
+import book1177Cover from '../assets/images/books/book-1177.jpg';
+import book1178Cover from '../assets/images/books/book-1178.jpg';
+import book1179Cover from '../assets/images/books/book-1179.jpg';
+import book117Cover from '../assets/images/books/book-117.jpg';
+import book1180Cover from '../assets/images/books/book-1180.jpg';
+import book1181Cover from '../assets/images/books/book-1181.jpg';
+import book1182Cover from '../assets/images/books/book-1182.jpg';
+import book1183Cover from '../assets/images/books/book-1183.jpg';
+import book1184Cover from '../assets/images/books/book-1184.jpg';
+import book1185Cover from '../assets/images/books/book-1185.jpg';
+import book1186Cover from '../assets/images/books/book-1186.jpg';
+import book1187Cover from '../assets/images/books/book-1187.jpg';
+import book1188Cover from '../assets/images/books/book-1188.jpg';
+import book1189Cover from '../assets/images/books/book-1189.jpg';
+import book118Cover from '../assets/images/books/book-118.jpg';
+import book1190Cover from '../assets/images/books/book-1190.jpg';
+import book1191Cover from '../assets/images/books/book-1191.jpg';
+import book1192Cover from '../assets/images/books/book-1192.jpg';
+import book1193Cover from '../assets/images/books/book-1193.jpg';
+import book1194Cover from '../assets/images/books/book-1194.jpg';
+import book1195Cover from '../assets/images/books/book-1195.jpg';
+import book1196Cover from '../assets/images/books/book-1196.jpg';
+import book1197Cover from '../assets/images/books/book-1197.jpg';
+import book1198Cover from '../assets/images/books/book-1198.jpg';
+import book1199Cover from '../assets/images/books/book-1199.jpg';
+import book119Cover from '../assets/images/books/book-119.jpg';
+import book11Cover from '../assets/images/books/book-11.jpg';
+import book1200Cover from '../assets/images/books/book-1200.jpg';
+import book1201Cover from '../assets/images/books/book-1201.jpg';
+import book1202Cover from '../assets/images/books/book-1202.jpg';
+import book1203Cover from '../assets/images/books/book-1203.jpg';
+import book1204Cover from '../assets/images/books/book-1204.jpg';
+import book1205Cover from '../assets/images/books/book-1205.jpg';
+import book1206Cover from '../assets/images/books/book-1206.jpg';
+import book1207Cover from '../assets/images/books/book-1207.jpg';
+import book1208Cover from '../assets/images/books/book-1208.jpg';
+import book1209Cover from '../assets/images/books/book-1209.jpg';
+import book120Cover from '../assets/images/books/book-120.jpg';
+import book1210Cover from '../assets/images/books/book-1210.jpg';
+import book1211Cover from '../assets/images/books/book-1211.jpg';
+import book1212Cover from '../assets/images/books/book-1212.jpg';
+import book1213Cover from '../assets/images/books/book-1213.jpg';
+import book1214Cover from '../assets/images/books/book-1214.jpg';
+import book1215Cover from '../assets/images/books/book-1215.jpg';
+import book1216Cover from '../assets/images/books/book-1216.jpg';
+import book1217Cover from '../assets/images/books/book-1217.jpg';
+import book1218Cover from '../assets/images/books/book-1218.jpg';
+import book1219Cover from '../assets/images/books/book-1219.jpg';
+import book121Cover from '../assets/images/books/book-121.jpg';
+import book1220Cover from '../assets/images/books/book-1220.jpg';
+import book1221Cover from '../assets/images/books/book-1221.jpg';
+import book1223Cover from '../assets/images/books/book-1223.jpg';
+import book1224Cover from '../assets/images/books/book-1224.jpg';
+import book1225Cover from '../assets/images/books/book-1225.jpg';
+import book1226Cover from '../assets/images/books/book-1226.jpg';
+import book1227Cover from '../assets/images/books/book-1227.jpg';
+import book1228Cover from '../assets/images/books/book-1228.jpg';
+import book1229Cover from '../assets/images/books/book-1229.jpg';
+import book122Cover from '../assets/images/books/book-122.jpg';
+import book1230Cover from '../assets/images/books/book-1230.jpg';
+import book1231Cover from '../assets/images/books/book-1231.jpg';
+import book1232Cover from '../assets/images/books/book-1232.jpg';
+import book1233Cover from '../assets/images/books/book-1233.jpg';
+import book1234Cover from '../assets/images/books/book-1234.jpg';
+import book1235Cover from '../assets/images/books/book-1235.jpg';
+import book1236Cover from '../assets/images/books/book-1236.jpg';
+import book1237Cover from '../assets/images/books/book-1237.jpg';
+import book1238Cover from '../assets/images/books/book-1238.jpg';
+import book1239Cover from '../assets/images/books/book-1239.jpg';
+import book123Cover from '../assets/images/books/book-123.jpg';
+import book1240Cover from '../assets/images/books/book-1240.jpg';
+import book1241Cover from '../assets/images/books/book-1241.jpg';
+import book1242Cover from '../assets/images/books/book-1242.jpg';
+import book1243Cover from '../assets/images/books/book-1243.jpg';
+import book1244Cover from '../assets/images/books/book-1244.jpg';
+import book1245Cover from '../assets/images/books/book-1245.jpg';
+import book1246Cover from '../assets/images/books/book-1246.jpg';
+import book1247Cover from '../assets/images/books/book-1247.jpg';
+import book1248Cover from '../assets/images/books/book-1248.jpg';
+import book1249Cover from '../assets/images/books/book-1249.jpg';
+import book124Cover from '../assets/images/books/book-124.jpg';
+import book1250Cover from '../assets/images/books/book-1250.jpg';
+import book1251Cover from '../assets/images/books/book-1251.jpg';
+import book1252Cover from '../assets/images/books/book-1252.jpg';
+import book1253Cover from '../assets/images/books/book-1253.jpg';
+import book1254Cover from '../assets/images/books/book-1254.jpg';
+import book1255Cover from '../assets/images/books/book-1255.jpg';
+import book1256Cover from '../assets/images/books/book-1256.jpg';
+import book1257Cover from '../assets/images/books/book-1257.jpg';
+import book1258Cover from '../assets/images/books/book-1258.jpg';
+import book1259Cover from '../assets/images/books/book-1259.jpg';
+import book125Cover from '../assets/images/books/book-125.jpg';
+import book1260Cover from '../assets/images/books/book-1260.jpg';
+import book1261Cover from '../assets/images/books/book-1261.jpg';
+import book1262Cover from '../assets/images/books/book-1262.jpg';
+import book1263Cover from '../assets/images/books/book-1263.jpg';
+import book1264Cover from '../assets/images/books/book-1264.jpg';
+import book1265Cover from '../assets/images/books/book-1265.jpg';
+import book1266Cover from '../assets/images/books/book-1266.jpg';
+import book1267Cover from '../assets/images/books/book-1267.jpg';
+import book1268Cover from '../assets/images/books/book-1268.jpg';
+import book1269Cover from '../assets/images/books/book-1269.jpg';
+import book126Cover from '../assets/images/books/book-126.jpg';
+import book1270Cover from '../assets/images/books/book-1270.jpg';
+import book1271Cover from '../assets/images/books/book-1271.jpg';
+import book1272Cover from '../assets/images/books/book-1272.jpg';
+import book1273Cover from '../assets/images/books/book-1273.jpg';
+import book1274Cover from '../assets/images/books/book-1274.jpg';
+import book1275Cover from '../assets/images/books/book-1275.jpg';
+import book1276Cover from '../assets/images/books/book-1276.jpg';
+import book1277Cover from '../assets/images/books/book-1277.jpg';
+import book1278Cover from '../assets/images/books/book-1278.jpg';
+import book1279Cover from '../assets/images/books/book-1279.jpg';
+import book127Cover from '../assets/images/books/book-127.jpg';
+import book1280Cover from '../assets/images/books/book-1280.jpg';
+import book1281Cover from '../assets/images/books/book-1281.jpg';
+import book1282Cover from '../assets/images/books/book-1282.jpg';
+import book1283Cover from '../assets/images/books/book-1283.jpg';
+import book1284Cover from '../assets/images/books/book-1284.jpg';
+import book1285Cover from '../assets/images/books/book-1285.jpg';
+import book1286Cover from '../assets/images/books/book-1286.jpg';
+import book1287Cover from '../assets/images/books/book-1287.jpg';
+import book1288Cover from '../assets/images/books/book-1288.jpg';
+import book1289Cover from '../assets/images/books/book-1289.jpg';
+import book128Cover from '../assets/images/books/book-128.jpg';
+import book1290Cover from '../assets/images/books/book-1290.jpg';
+import book1291Cover from '../assets/images/books/book-1291.jpg';
+import book1292Cover from '../assets/images/books/book-1292.jpg';
+import book1293Cover from '../assets/images/books/book-1293.jpg';
+import book1294Cover from '../assets/images/books/book-1294.jpg';
+import book1295Cover from '../assets/images/books/book-1295.jpg';
+import book1296Cover from '../assets/images/books/book-1296.jpg';
+import book1297Cover from '../assets/images/books/book-1297.jpg';
+import book1298Cover from '../assets/images/books/book-1298.jpg';
+import book1299Cover from '../assets/images/books/book-1299.jpg';
+import book129Cover from '../assets/images/books/book-129.jpg';
+import book12Cover from '../assets/images/books/book-12.jpg';
+import book1300Cover from '../assets/images/books/book-1300.jpg';
+import book1301Cover from '../assets/images/books/book-1301.jpg';
+import book1302Cover from '../assets/images/books/book-1302.jpg';
+import book1303Cover from '../assets/images/books/book-1303.jpg';
+import book1304Cover from '../assets/images/books/book-1304.jpg';
+import book1305Cover from '../assets/images/books/book-1305.jpg';
+import book1306Cover from '../assets/images/books/book-1306.jpg';
+import book1307Cover from '../assets/images/books/book-1307.jpg';
+import book1308Cover from '../assets/images/books/book-1308.jpg';
+import book1309Cover from '../assets/images/books/book-1309.jpg';
+import book130Cover from '../assets/images/books/book-130.jpg';
+import book1310Cover from '../assets/images/books/book-1310.jpg';
+import book1311Cover from '../assets/images/books/book-1311.jpg';
+import book1312Cover from '../assets/images/books/book-1312.jpg';
+import book1313Cover from '../assets/images/books/book-1313.jpg';
+import book1314Cover from '../assets/images/books/book-1314.jpg';
+import book1315Cover from '../assets/images/books/book-1315.jpg';
+import book1316Cover from '../assets/images/books/book-1316.jpg';
+import book1317Cover from '../assets/images/books/book-1317.jpg';
+import book1318Cover from '../assets/images/books/book-1318.jpg';
+import book1319Cover from '../assets/images/books/book-1319.jpg';
+import book131Cover from '../assets/images/books/book-131.jpg';
+import book1320Cover from '../assets/images/books/book-1320.jpg';
+import book1321Cover from '../assets/images/books/book-1321.jpg';
+import book1322Cover from '../assets/images/books/book-1322.jpg';
+import book1323Cover from '../assets/images/books/book-1323.jpg';
+import book1324Cover from '../assets/images/books/book-1324.jpg';
+import book1325Cover from '../assets/images/books/book-1325.jpg';
+import book1326Cover from '../assets/images/books/book-1326.jpg';
+import book1327Cover from '../assets/images/books/book-1327.jpg';
+import book1328Cover from '../assets/images/books/book-1328.jpg';
+import book1329Cover from '../assets/images/books/book-1329.jpg';
+import book132Cover from '../assets/images/books/book-132.jpg';
+import book1330Cover from '../assets/images/books/book-1330.jpg';
+import book1331Cover from '../assets/images/books/book-1331.jpg';
+import book1332Cover from '../assets/images/books/book-1332.jpg';
+import book1333Cover from '../assets/images/books/book-1333.jpg';
+import book1334Cover from '../assets/images/books/book-1334.jpg';
+import book1335Cover from '../assets/images/books/book-1335.jpg';
+import book1336Cover from '../assets/images/books/book-1336.jpg';
+import book1337Cover from '../assets/images/books/book-1337.jpg';
+import book1338Cover from '../assets/images/books/book-1338.jpg';
+import book1339Cover from '../assets/images/books/book-1339.jpg';
+import book133Cover from '../assets/images/books/book-133.jpg';
+import book1340Cover from '../assets/images/books/book-1340.jpg';
+import book1341Cover from '../assets/images/books/book-1341.jpg';
+import book1342Cover from '../assets/images/books/book-1342.jpg';
+import book1343Cover from '../assets/images/books/book-1343.jpg';
+import book1344Cover from '../assets/images/books/book-1344.jpg';
+import book1345Cover from '../assets/images/books/book-1345.jpg';
+import book1346Cover from '../assets/images/books/book-1346.jpg';
+import book1347Cover from '../assets/images/books/book-1347.jpg';
+import book1348Cover from '../assets/images/books/book-1348.jpg';
+import book1349Cover from '../assets/images/books/book-1349.jpg';
+import book134Cover from '../assets/images/books/book-134.jpg';
+import book1350Cover from '../assets/images/books/book-1350.jpg';
+import book1351Cover from '../assets/images/books/book-1351.jpg';
+import book1352Cover from '../assets/images/books/book-1352.jpg';
+import book1353Cover from '../assets/images/books/book-1353.jpg';
+import book1354Cover from '../assets/images/books/book-1354.jpg';
+import book1355Cover from '../assets/images/books/book-1355.jpg';
+import book1356Cover from '../assets/images/books/book-1356.jpg';
+import book1357Cover from '../assets/images/books/book-1357.jpg';
+import book1358Cover from '../assets/images/books/book-1358.jpg';
+import book1359Cover from '../assets/images/books/book-1359.jpg';
+import book135Cover from '../assets/images/books/book-135.jpg';
+import book1360Cover from '../assets/images/books/book-1360.jpg';
+import book1361Cover from '../assets/images/books/book-1361.jpg';
+import book1362Cover from '../assets/images/books/book-1362.jpg';
+import book1363Cover from '../assets/images/books/book-1363.jpg';
+import book1364Cover from '../assets/images/books/book-1364.jpg';
+import book1365Cover from '../assets/images/books/book-1365.jpg';
+import book1366Cover from '../assets/images/books/book-1366.jpg';
+import book1367Cover from '../assets/images/books/book-1367.jpg';
+import book1368Cover from '../assets/images/books/book-1368.jpg';
+import book1369Cover from '../assets/images/books/book-1369.jpg';
+import book136Cover from '../assets/images/books/book-136.jpg';
+import book1370Cover from '../assets/images/books/book-1370.jpg';
+import book1371Cover from '../assets/images/books/book-1371.jpg';
+import book1372Cover from '../assets/images/books/book-1372.jpg';
+import book1373Cover from '../assets/images/books/book-1373.jpg';
+import book1374Cover from '../assets/images/books/book-1374.jpg';
+import book1375Cover from '../assets/images/books/book-1375.jpg';
+import book1376Cover from '../assets/images/books/book-1376.jpg';
+import book1377Cover from '../assets/images/books/book-1377.jpg';
+import book1378Cover from '../assets/images/books/book-1378.jpg';
+import book1379Cover from '../assets/images/books/book-1379.jpg';
+import book137Cover from '../assets/images/books/book-137.jpg';
+import book1380Cover from '../assets/images/books/book-1380.jpg';
+import book1381Cover from '../assets/images/books/book-1381.jpg';
+import book1382Cover from '../assets/images/books/book-1382.jpg';
+import book1383Cover from '../assets/images/books/book-1383.jpg';
+import book1384Cover from '../assets/images/books/book-1384.jpg';
+import book1385Cover from '../assets/images/books/book-1385.jpg';
+import book1386Cover from '../assets/images/books/book-1386.jpg';
+import book1387Cover from '../assets/images/books/book-1387.jpg';
+import book1388Cover from '../assets/images/books/book-1388.jpg';
+import book1389Cover from '../assets/images/books/book-1389.jpg';
+import book138Cover from '../assets/images/books/book-138.jpg';
+import book1390Cover from '../assets/images/books/book-1390.jpg';
+import book1391Cover from '../assets/images/books/book-1391.jpg';
+import book1392Cover from '../assets/images/books/book-1392.jpg';
+import book1393Cover from '../assets/images/books/book-1393.jpg';
+import book1394Cover from '../assets/images/books/book-1394.jpg';
+import book1395Cover from '../assets/images/books/book-1395.jpg';
+import book1396Cover from '../assets/images/books/book-1396.jpg';
+import book1397Cover from '../assets/images/books/book-1397.jpg';
+import book1398Cover from '../assets/images/books/book-1398.jpg';
+import book1399Cover from '../assets/images/books/book-1399.jpg';
+import book139Cover from '../assets/images/books/book-139.jpg';
+import book13Cover from '../assets/images/books/book-13.jpg';
+import book1400Cover from '../assets/images/books/book-1400.jpg';
+import book1401Cover from '../assets/images/books/book-1401.jpg';
+import book1402Cover from '../assets/images/books/book-1402.jpg';
+import book1403Cover from '../assets/images/books/book-1403.jpg';
+import book1404Cover from '../assets/images/books/book-1404.jpg';
+import book1405Cover from '../assets/images/books/book-1405.jpg';
+import book1406Cover from '../assets/images/books/book-1406.jpg';
+import book1407Cover from '../assets/images/books/book-1407.jpg';
+import book1408Cover from '../assets/images/books/book-1408.jpg';
+import book1409Cover from '../assets/images/books/book-1409.jpg';
+import book140Cover from '../assets/images/books/book-140.jpg';
+import book1410Cover from '../assets/images/books/book-1410.jpg';
+import book1411Cover from '../assets/images/books/book-1411.jpg';
+import book1412Cover from '../assets/images/books/book-1412.jpg';
+import book1413Cover from '../assets/images/books/book-1413.jpg';
+import book1414Cover from '../assets/images/books/book-1414.jpg';
+import book1415Cover from '../assets/images/books/book-1415.jpg';
+import book1416Cover from '../assets/images/books/book-1416.jpg';
+import book1417Cover from '../assets/images/books/book-1417.jpg';
+import book1418Cover from '../assets/images/books/book-1418.jpg';
+import book1419Cover from '../assets/images/books/book-1419.jpg';
+import book141Cover from '../assets/images/books/book-141.jpg';
+import book1420Cover from '../assets/images/books/book-1420.jpg';
+import book1421Cover from '../assets/images/books/book-1421.jpg';
+import book1422Cover from '../assets/images/books/book-1422.jpg';
+import book1423Cover from '../assets/images/books/book-1423.jpg';
+import book1424Cover from '../assets/images/books/book-1424.jpg';
+import book1425Cover from '../assets/images/books/book-1425.jpg';
+import book1426Cover from '../assets/images/books/book-1426.jpg';
+import book1427Cover from '../assets/images/books/book-1427.jpg';
+import book1428Cover from '../assets/images/books/book-1428.jpg';
+import book1429Cover from '../assets/images/books/book-1429.jpg';
+import book142Cover from '../assets/images/books/book-142.jpg';
+import book1430Cover from '../assets/images/books/book-1430.jpg';
+import book1431Cover from '../assets/images/books/book-1431.jpg';
+import book1432Cover from '../assets/images/books/book-1432.jpg';
+import book1433Cover from '../assets/images/books/book-1433.jpg';
+import book1434Cover from '../assets/images/books/book-1434.jpg';
+import book1435Cover from '../assets/images/books/book-1435.jpg';
+import book1436Cover from '../assets/images/books/book-1436.jpg';
+import book1437Cover from '../assets/images/books/book-1437.jpg';
+import book1438Cover from '../assets/images/books/book-1438.jpg';
+import book1439Cover from '../assets/images/books/book-1439.jpg';
+import book143Cover from '../assets/images/books/book-143.jpg';
+import book1440Cover from '../assets/images/books/book-1440.jpg';
+import book1441Cover from '../assets/images/books/book-1441.jpg';
+import book1442Cover from '../assets/images/books/book-1442.jpg';
+import book1443Cover from '../assets/images/books/book-1443.jpg';
+import book1444Cover from '../assets/images/books/book-1444.jpg';
+import book1445Cover from '../assets/images/books/book-1445.jpg';
+import book1446Cover from '../assets/images/books/book-1446.jpg';
+import book1447Cover from '../assets/images/books/book-1447.jpg';
+import book1448Cover from '../assets/images/books/book-1448.jpg';
+import book1449Cover from '../assets/images/books/book-1449.jpg';
+import book144Cover from '../assets/images/books/book-144.jpg';
+import book1450Cover from '../assets/images/books/book-1450.jpg';
+import book1451Cover from '../assets/images/books/book-1451.jpg';
+import book1452Cover from '../assets/images/books/book-1452.jpg';
+import book1453Cover from '../assets/images/books/book-1453.jpg';
+import book1454Cover from '../assets/images/books/book-1454.jpg';
+import book1455Cover from '../assets/images/books/book-1455.jpg';
+import book1456Cover from '../assets/images/books/book-1456.jpg';
+import book1457Cover from '../assets/images/books/book-1457.jpg';
+import book1458Cover from '../assets/images/books/book-1458.jpg';
+import book1459Cover from '../assets/images/books/book-1459.jpg';
+import book1460Cover from '../assets/images/books/book-1460.jpg';
+import book1461Cover from '../assets/images/books/book-1461.jpg';
+import book1462Cover from '../assets/images/books/book-1462.jpg';
+import book1463Cover from '../assets/images/books/book-1463.jpg';
+import book1464Cover from '../assets/images/books/book-1464.jpg';
+import book1465Cover from '../assets/images/books/book-1465.jpg';
+import book1466Cover from '../assets/images/books/book-1466.jpg';
+import book1467Cover from '../assets/images/books/book-1467.jpg';
+import book1468Cover from '../assets/images/books/book-1468.jpg';
+import book1469Cover from '../assets/images/books/book-1469.jpg';
+import book146Cover from '../assets/images/books/book-146.jpg';
+import book1470Cover from '../assets/images/books/book-1470.jpg';
+import book1471Cover from '../assets/images/books/book-1471.jpg';
+import book1472Cover from '../assets/images/books/book-1472.jpg';
+import book1473Cover from '../assets/images/books/book-1473.jpg';
+import book1474Cover from '../assets/images/books/book-1474.jpg';
+import book1475Cover from '../assets/images/books/book-1475.jpg';
+import book1476Cover from '../assets/images/books/book-1476.jpg';
+import book1477Cover from '../assets/images/books/book-1477.jpg';
+import book1478Cover from '../assets/images/books/book-1478.jpg';
+import book1479Cover from '../assets/images/books/book-1479.jpg';
+import book147Cover from '../assets/images/books/book-147.jpg';
+import book1480Cover from '../assets/images/books/book-1480.jpg';
+import book1481Cover from '../assets/images/books/book-1481.jpg';
+import book1482Cover from '../assets/images/books/book-1482.jpg';
+import book1483Cover from '../assets/images/books/book-1483.jpg';
+import book1484Cover from '../assets/images/books/book-1484.jpg';
+import book1485Cover from '../assets/images/books/book-1485.jpg';
+import book1486Cover from '../assets/images/books/book-1486.jpg';
+import book1487Cover from '../assets/images/books/book-1487.jpg';
+import book1488Cover from '../assets/images/books/book-1488.jpg';
+import book1489Cover from '../assets/images/books/book-1489.jpg';
+import book148Cover from '../assets/images/books/book-148.jpg';
+import book1490Cover from '../assets/images/books/book-1490.jpg';
+import book1491Cover from '../assets/images/books/book-1491.jpg';
+import book1492Cover from '../assets/images/books/book-1492.jpg';
+import book1493Cover from '../assets/images/books/book-1493.jpg';
+import book1494Cover from '../assets/images/books/book-1494.jpg';
+import book1495Cover from '../assets/images/books/book-1495.jpg';
+import book1496Cover from '../assets/images/books/book-1496.jpg';
+import book1497Cover from '../assets/images/books/book-1497.jpg';
+import book1498Cover from '../assets/images/books/book-1498.jpg';
+import book1499Cover from '../assets/images/books/book-1499.jpg';
+import book149Cover from '../assets/images/books/book-149.jpg';
+import book14Cover from '../assets/images/books/book-14.jpg';
+import book1500Cover from '../assets/images/books/book-1500.jpg';
+import book1501Cover from '../assets/images/books/book-1501.jpg';
+import book1502Cover from '../assets/images/books/book-1502.jpg';
+import book1503Cover from '../assets/images/books/book-1503.jpg';
+import book1504Cover from '../assets/images/books/book-1504.jpg';
+import book1505Cover from '../assets/images/books/book-1505.jpg';
+import book1506Cover from '../assets/images/books/book-1506.jpg';
+import book1507Cover from '../assets/images/books/book-1507.jpg';
+import book1508Cover from '../assets/images/books/book-1508.jpg';
+import book1509Cover from '../assets/images/books/book-1509.jpg';
+import book150Cover from '../assets/images/books/book-150.jpg';
+import book1510Cover from '../assets/images/books/book-1510.jpg';
+import book1511Cover from '../assets/images/books/book-1511.jpg';
+import book1512Cover from '../assets/images/books/book-1512.jpg';
+import book1513Cover from '../assets/images/books/book-1513.jpg';
+import book1514Cover from '../assets/images/books/book-1514.jpg';
+import book1515Cover from '../assets/images/books/book-1515.jpg';
+import book1516Cover from '../assets/images/books/book-1516.jpg';
+import book1517Cover from '../assets/images/books/book-1517.jpg';
+import book1518Cover from '../assets/images/books/book-1518.jpg';
+import book1519Cover from '../assets/images/books/book-1519.jpg';
+import book151Cover from '../assets/images/books/book-151.jpg';
+import book1520Cover from '../assets/images/books/book-1520.jpg';
+import book1521Cover from '../assets/images/books/book-1521.jpg';
+import book1522Cover from '../assets/images/books/book-1522.jpg';
+import book1523Cover from '../assets/images/books/book-1523.jpg';
+import book1524Cover from '../assets/images/books/book-1524.jpg';
+import book1525Cover from '../assets/images/books/book-1525.jpg';
+import book1526Cover from '../assets/images/books/book-1526.jpg';
+import book1527Cover from '../assets/images/books/book-1527.jpg';
+import book1528Cover from '../assets/images/books/book-1528.jpg';
+import book1529Cover from '../assets/images/books/book-1529.jpg';
+import book152Cover from '../assets/images/books/book-152.jpg';
+import book1530Cover from '../assets/images/books/book-1530.jpg';
+import book1531Cover from '../assets/images/books/book-1531.jpg';
+import book1532Cover from '../assets/images/books/book-1532.jpg';
+import book1533Cover from '../assets/images/books/book-1533.jpg';
+import book1534Cover from '../assets/images/books/book-1534.jpg';
+import book1535Cover from '../assets/images/books/book-1535.jpg';
+import book1536Cover from '../assets/images/books/book-1536.jpg';
+import book1537Cover from '../assets/images/books/book-1537.jpg';
+import book1538Cover from '../assets/images/books/book-1538.jpg';
+import book1539Cover from '../assets/images/books/book-1539.jpg';
+import book153Cover from '../assets/images/books/book-153.jpg';
+import book1540Cover from '../assets/images/books/book-1540.jpg';
+import book1541Cover from '../assets/images/books/book-1541.jpg';
+import book1542Cover from '../assets/images/books/book-1542.jpg';
+import book1543Cover from '../assets/images/books/book-1543.jpg';
+import book1544Cover from '../assets/images/books/book-1544.jpg';
+import book1545Cover from '../assets/images/books/book-1545.jpg';
+import book1546Cover from '../assets/images/books/book-1546.jpg';
+import book1547Cover from '../assets/images/books/book-1547.jpg';
+import book1548Cover from '../assets/images/books/book-1548.jpg';
+import book1549Cover from '../assets/images/books/book-1549.jpg';
+import book154Cover from '../assets/images/books/book-154.jpg';
+import book1550Cover from '../assets/images/books/book-1550.jpg';
+import book1551Cover from '../assets/images/books/book-1551.jpg';
+import book1552Cover from '../assets/images/books/book-1552.jpg';
+import book1553Cover from '../assets/images/books/book-1553.jpg';
+import book1554Cover from '../assets/images/books/book-1554.jpg';
+import book1555Cover from '../assets/images/books/book-1555.jpg';
+import book1556Cover from '../assets/images/books/book-1556.jpg';
+import book1557Cover from '../assets/images/books/book-1557.jpg';
+import book1558Cover from '../assets/images/books/book-1558.jpg';
+import book1559Cover from '../assets/images/books/book-1559.jpg';
+import book155Cover from '../assets/images/books/book-155.jpg';
+import book1560Cover from '../assets/images/books/book-1560.jpg';
+import book1561Cover from '../assets/images/books/book-1561.jpg';
+import book1562Cover from '../assets/images/books/book-1562.jpg';
+import book1563Cover from '../assets/images/books/book-1563.jpg';
+import book1564Cover from '../assets/images/books/book-1564.jpg';
+import book1565Cover from '../assets/images/books/book-1565.jpg';
+import book1566Cover from '../assets/images/books/book-1566.jpg';
+import book1567Cover from '../assets/images/books/book-1567.jpg';
+import book1568Cover from '../assets/images/books/book-1568.jpg';
+import book1569Cover from '../assets/images/books/book-1569.jpg';
+import book156Cover from '../assets/images/books/book-156.jpg';
+import book1570Cover from '../assets/images/books/book-1570.jpg';
+import book1571Cover from '../assets/images/books/book-1571.jpg';
+import book1572Cover from '../assets/images/books/book-1572.jpg';
+import book1573Cover from '../assets/images/books/book-1573.jpg';
+import book1574Cover from '../assets/images/books/book-1574.jpg';
+import book1575Cover from '../assets/images/books/book-1575.jpg';
+import book1576Cover from '../assets/images/books/book-1576.jpg';
+import book1577Cover from '../assets/images/books/book-1577.jpg';
+import book1578Cover from '../assets/images/books/book-1578.jpg';
+import book1579Cover from '../assets/images/books/book-1579.jpg';
+import book157Cover from '../assets/images/books/book-157.jpg';
+import book1580Cover from '../assets/images/books/book-1580.jpg';
+import book1581Cover from '../assets/images/books/book-1581.jpg';
+import book1582Cover from '../assets/images/books/book-1582.jpg';
+import book1583Cover from '../assets/images/books/book-1583.jpg';
+import book1584Cover from '../assets/images/books/book-1584.jpg';
+import book1585Cover from '../assets/images/books/book-1585.jpg';
+import book1586Cover from '../assets/images/books/book-1586.jpg';
+import book1587Cover from '../assets/images/books/book-1587.jpg';
+import book1588Cover from '../assets/images/books/book-1588.jpg';
+import book1589Cover from '../assets/images/books/book-1589.jpg';
+import book158Cover from '../assets/images/books/book-158.jpg';
+import book1590Cover from '../assets/images/books/book-1590.jpg';
+import book1591Cover from '../assets/images/books/book-1591.jpg';
+import book1592Cover from '../assets/images/books/book-1592.jpg';
+import book1593Cover from '../assets/images/books/book-1593.jpg';
+import book1594Cover from '../assets/images/books/book-1594.jpg';
+import book1595Cover from '../assets/images/books/book-1595.jpg';
+import book1596Cover from '../assets/images/books/book-1596.jpg';
+import book1597Cover from '../assets/images/books/book-1597.jpg';
+import book1598Cover from '../assets/images/books/book-1598.jpg';
+import book1599Cover from '../assets/images/books/book-1599.jpg';
+import book159Cover from '../assets/images/books/book-159.jpg';
+import book15Cover from '../assets/images/books/book-15.jpg';
+import book1600Cover from '../assets/images/books/book-1600.jpg';
+import book1601Cover from '../assets/images/books/book-1601.jpg';
+import book1602Cover from '../assets/images/books/book-1602.jpg';
+import book1603Cover from '../assets/images/books/book-1603.jpg';
+import book1604Cover from '../assets/images/books/book-1604.jpg';
+import book1605Cover from '../assets/images/books/book-1605.jpg';
+import book1606Cover from '../assets/images/books/book-1606.jpg';
+import book1607Cover from '../assets/images/books/book-1607.jpg';
+import book1608Cover from '../assets/images/books/book-1608.jpg';
+import book1609Cover from '../assets/images/books/book-1609.jpg';
+import book160Cover from '../assets/images/books/book-160.jpg';
+import book1610Cover from '../assets/images/books/book-1610.jpg';
+import book1611Cover from '../assets/images/books/book-1611.jpg';
+import book1612Cover from '../assets/images/books/book-1612.jpg';
+import book1613Cover from '../assets/images/books/book-1613.jpg';
+import book1614Cover from '../assets/images/books/book-1614.jpg';
+import book1615Cover from '../assets/images/books/book-1615.jpg';
+import book1616Cover from '../assets/images/books/book-1616.jpg';
+import book1617Cover from '../assets/images/books/book-1617.jpg';
+import book1618Cover from '../assets/images/books/book-1618.jpg';
+import book1619Cover from '../assets/images/books/book-1619.jpg';
+import book161Cover from '../assets/images/books/book-161.jpg';
+import book1620Cover from '../assets/images/books/book-1620.jpg';
+import book1621Cover from '../assets/images/books/book-1621.jpg';
+import book1622Cover from '../assets/images/books/book-1622.jpg';
+import book1623Cover from '../assets/images/books/book-1623.jpg';
+import book1624Cover from '../assets/images/books/book-1624.jpg';
+import book1625Cover from '../assets/images/books/book-1625.jpg';
+import book1626Cover from '../assets/images/books/book-1626.jpg';
+import book1627Cover from '../assets/images/books/book-1627.jpg';
+import book1628Cover from '../assets/images/books/book-1628.jpg';
+import book1629Cover from '../assets/images/books/book-1629.jpg';
+import book162Cover from '../assets/images/books/book-162.jpg';
+import book1630Cover from '../assets/images/books/book-1630.jpg';
+import book1631Cover from '../assets/images/books/book-1631.jpg';
+import book1632Cover from '../assets/images/books/book-1632.jpg';
+import book1633Cover from '../assets/images/books/book-1633.jpg';
+import book1634Cover from '../assets/images/books/book-1634.jpg';
+import book1635Cover from '../assets/images/books/book-1635.jpg';
+import book1636Cover from '../assets/images/books/book-1636.jpg';
+import book1637Cover from '../assets/images/books/book-1637.jpg';
+import book1638Cover from '../assets/images/books/book-1638.jpg';
+import book1639Cover from '../assets/images/books/book-1639.jpg';
+import book163Cover from '../assets/images/books/book-163.jpg';
+import book1640Cover from '../assets/images/books/book-1640.jpg';
+import book1641Cover from '../assets/images/books/book-1641.jpg';
+import book1642Cover from '../assets/images/books/book-1642.jpg';
+import book1643Cover from '../assets/images/books/book-1643.jpg';
+import book1644Cover from '../assets/images/books/book-1644.jpg';
+import book1645Cover from '../assets/images/books/book-1645.jpg';
+import book1646Cover from '../assets/images/books/book-1646.jpg';
+import book1647Cover from '../assets/images/books/book-1647.jpg';
+import book1648Cover from '../assets/images/books/book-1648.jpg';
+import book1649Cover from '../assets/images/books/book-1649.jpg';
+import book164Cover from '../assets/images/books/book-164.jpg';
+import book1650Cover from '../assets/images/books/book-1650.jpg';
+import book1651Cover from '../assets/images/books/book-1651.jpg';
+import book1652Cover from '../assets/images/books/book-1652.jpg';
+import book1653Cover from '../assets/images/books/book-1653.jpg';
+import book1654Cover from '../assets/images/books/book-1654.jpg';
+import book1655Cover from '../assets/images/books/book-1655.jpg';
+import book1656Cover from '../assets/images/books/book-1656.jpg';
+import book1657Cover from '../assets/images/books/book-1657.jpg';
+import book1658Cover from '../assets/images/books/book-1658.jpg';
+import book1659Cover from '../assets/images/books/book-1659.jpg';
+import book165Cover from '../assets/images/books/book-165.jpg';
+import book1660Cover from '../assets/images/books/book-1660.jpg';
+import book1661Cover from '../assets/images/books/book-1661.jpg';
+import book1662Cover from '../assets/images/books/book-1662.jpg';
+import book1663Cover from '../assets/images/books/book-1663.jpg';
+import book1664Cover from '../assets/images/books/book-1664.jpg';
+import book1665Cover from '../assets/images/books/book-1665.jpg';
+import book1666Cover from '../assets/images/books/book-1666.jpg';
+import book1667Cover from '../assets/images/books/book-1667.jpg';
+import book1668Cover from '../assets/images/books/book-1668.jpg';
+import book1669Cover from '../assets/images/books/book-1669.jpg';
+import book166Cover from '../assets/images/books/book-166.jpg';
+import book1670Cover from '../assets/images/books/book-1670.jpg';
+import book1671Cover from '../assets/images/books/book-1671.jpg';
+import book1672Cover from '../assets/images/books/book-1672.jpg';
+import book1673Cover from '../assets/images/books/book-1673.jpg';
+import book1674Cover from '../assets/images/books/book-1674.jpg';
+import book1675Cover from '../assets/images/books/book-1675.jpg';
+import book1676Cover from '../assets/images/books/book-1676.jpg';
+import book1677Cover from '../assets/images/books/book-1677.jpg';
+import book1678Cover from '../assets/images/books/book-1678.jpg';
+import book1679Cover from '../assets/images/books/book-1679.jpg';
+import book167Cover from '../assets/images/books/book-167.jpg';
+import book1680Cover from '../assets/images/books/book-1680.jpg';
+import book1681Cover from '../assets/images/books/book-1681.jpg';
+import book1682Cover from '../assets/images/books/book-1682.jpg';
+import book1683Cover from '../assets/images/books/book-1683.jpg';
+import book1684Cover from '../assets/images/books/book-1684.jpg';
+import book1685Cover from '../assets/images/books/book-1685.jpg';
+import book1686Cover from '../assets/images/books/book-1686.jpg';
+import book1687Cover from '../assets/images/books/book-1687.jpg';
+import book1688Cover from '../assets/images/books/book-1688.jpg';
+import book1689Cover from '../assets/images/books/book-1689.jpg';
+import book168Cover from '../assets/images/books/book-168.jpg';
+import book1690Cover from '../assets/images/books/book-1690.jpg';
+import book1691Cover from '../assets/images/books/book-1691.jpg';
+import book1692Cover from '../assets/images/books/book-1692.jpg';
+import book1693Cover from '../assets/images/books/book-1693.jpg';
+import book1694Cover from '../assets/images/books/book-1694.jpg';
+import book1695Cover from '../assets/images/books/book-1695.jpg';
+import book1696Cover from '../assets/images/books/book-1696.jpg';
+import book1697Cover from '../assets/images/books/book-1697.jpg';
+import book1698Cover from '../assets/images/books/book-1698.jpg';
+import book1699Cover from '../assets/images/books/book-1699.jpg';
+import book169Cover from '../assets/images/books/book-169.jpg';
+import book16Cover from '../assets/images/books/book-16.jpg';
+import book1700Cover from '../assets/images/books/book-1700.jpg';
+import book170Cover from '../assets/images/books/book-170.jpg';
+import book171Cover from '../assets/images/books/book-171.jpg';
+import book172Cover from '../assets/images/books/book-172.jpg';
+import book173Cover from '../assets/images/books/book-173.jpg';
+import book174Cover from '../assets/images/books/book-174.jpg';
+import book175Cover from '../assets/images/books/book-175.jpg';
+import book176Cover from '../assets/images/books/book-176.jpg';
+import book177Cover from '../assets/images/books/book-177.jpg';
+import book178Cover from '../assets/images/books/book-178.jpg';
+import book179Cover from '../assets/images/books/book-179.jpg';
+import book17Cover from '../assets/images/books/book-17.jpg';
+import book180Cover from '../assets/images/books/book-180.jpg';
+import book181Cover from '../assets/images/books/book-181.jpg';
+import book182Cover from '../assets/images/books/book-182.jpg';
+import book183Cover from '../assets/images/books/book-183.jpg';
+import book184Cover from '../assets/images/books/book-184.jpg';
+import book185Cover from '../assets/images/books/book-185.jpg';
+import book186Cover from '../assets/images/books/book-186.jpg';
+import book187Cover from '../assets/images/books/book-187.jpg';
+import book188Cover from '../assets/images/books/book-188.jpg';
+import book189Cover from '../assets/images/books/book-189.jpg';
+import book18Cover from '../assets/images/books/book-18.jpg';
+import book190Cover from '../assets/images/books/book-190.jpg';
+import book191Cover from '../assets/images/books/book-191.jpg';
+import book192Cover from '../assets/images/books/book-192.jpg';
+import book193Cover from '../assets/images/books/book-193.jpg';
+import book194Cover from '../assets/images/books/book-194.jpg';
+import book195Cover from '../assets/images/books/book-195.jpg';
+import book196Cover from '../assets/images/books/book-196.jpg';
+import book197Cover from '../assets/images/books/book-197.jpg';
+import book198Cover from '../assets/images/books/book-198.jpg';
+import book199Cover from '../assets/images/books/book-199.jpg';
+import book19Cover from '../assets/images/books/book-19.jpg';
+import book1Cover from '../assets/images/books/book-1.jpg';
+import book200Cover from '../assets/images/books/book-200.jpg';
+import book201Cover from '../assets/images/books/book-201.jpg';
+import book202Cover from '../assets/images/books/book-202.jpg';
+import book203Cover from '../assets/images/books/book-203.jpg';
+import book204Cover from '../assets/images/books/book-204.jpg';
+import book205Cover from '../assets/images/books/book-205.jpg';
+import book206Cover from '../assets/images/books/book-206.jpg';
+import book207Cover from '../assets/images/books/book-207.jpg';
+import book208Cover from '../assets/images/books/book-208.jpg';
+import book209Cover from '../assets/images/books/book-209.jpg';
+import book20Cover from '../assets/images/books/book-20.jpg';
+import book210Cover from '../assets/images/books/book-210.jpg';
+import book211Cover from '../assets/images/books/book-211.jpg';
+import book212Cover from '../assets/images/books/book-212.jpg';
+import book213Cover from '../assets/images/books/book-213.jpg';
+import book214Cover from '../assets/images/books/book-214.jpg';
+import book215Cover from '../assets/images/books/book-215.jpg';
+import book216Cover from '../assets/images/books/book-216.jpg';
+import book217Cover from '../assets/images/books/book-217.jpg';
+import book218Cover from '../assets/images/books/book-218.jpg';
+import book219Cover from '../assets/images/books/book-219.jpg';
+import book21Cover from '../assets/images/books/book-21.jpg';
+import book220Cover from '../assets/images/books/book-220.jpg';
+import book221Cover from '../assets/images/books/book-221.jpg';
+import book222Cover from '../assets/images/books/book-222.jpg';
+import book223Cover from '../assets/images/books/book-223.jpg';
+import book224Cover from '../assets/images/books/book-224.jpg';
+import book225Cover from '../assets/images/books/book-225.jpg';
+import book226Cover from '../assets/images/books/book-226.jpg';
+import book227Cover from '../assets/images/books/book-227.jpg';
+import book228Cover from '../assets/images/books/book-228.jpg';
+import book229Cover from '../assets/images/books/book-229.jpg';
+import book22Cover from '../assets/images/books/book-22.jpg';
+import book230Cover from '../assets/images/books/book-230.jpg';
+import book231Cover from '../assets/images/books/book-231.jpg';
+import book232Cover from '../assets/images/books/book-232.jpg';
+import book233Cover from '../assets/images/books/book-233.jpg';
+import book234Cover from '../assets/images/books/book-234.jpg';
+import book235Cover from '../assets/images/books/book-235.jpg';
+import book236Cover from '../assets/images/books/book-236.jpg';
+import book237Cover from '../assets/images/books/book-237.jpg';
+import book238Cover from '../assets/images/books/book-238.jpg';
+import book239Cover from '../assets/images/books/book-239.jpg';
+import book23Cover from '../assets/images/books/book-23.jpg';
+import book240Cover from '../assets/images/books/book-240.jpg';
+import book241Cover from '../assets/images/books/book-241.jpg';
+import book242Cover from '../assets/images/books/book-242.jpg';
+import book243Cover from '../assets/images/books/book-243.jpg';
+import book244Cover from '../assets/images/books/book-244.jpg';
+import book245Cover from '../assets/images/books/book-245.jpg';
+import book246Cover from '../assets/images/books/book-246.jpg';
+import book247Cover from '../assets/images/books/book-247.jpg';
+import book248Cover from '../assets/images/books/book-248.jpg';
+import book249Cover from '../assets/images/books/book-249.jpg';
+import book24Cover from '../assets/images/books/book-24.jpg';
+import book250Cover from '../assets/images/books/book-250.jpg';
+import book251Cover from '../assets/images/books/book-251.jpg';
+import book252Cover from '../assets/images/books/book-252.jpg';
+import book253Cover from '../assets/images/books/book-253.jpg';
+import book254Cover from '../assets/images/books/book-254.jpg';
+import book255Cover from '../assets/images/books/book-255.jpg';
+import book256Cover from '../assets/images/books/book-256.jpg';
+import book257Cover from '../assets/images/books/book-257.jpg';
+import book258Cover from '../assets/images/books/book-258.jpg';
+import book259Cover from '../assets/images/books/book-259.jpg';
+import book25Cover from '../assets/images/books/book-25.jpg';
+import book260Cover from '../assets/images/books/book-260.jpg';
+import book261Cover from '../assets/images/books/book-261.jpg';
+import book262Cover from '../assets/images/books/book-262.jpg';
+import book263Cover from '../assets/images/books/book-263.jpg';
+import book264Cover from '../assets/images/books/book-264.jpg';
+import book265Cover from '../assets/images/books/book-265.jpg';
+import book266Cover from '../assets/images/books/book-266.jpg';
+import book267Cover from '../assets/images/books/book-267.jpg';
+import book268Cover from '../assets/images/books/book-268.jpg';
+import book269Cover from '../assets/images/books/book-269.jpg';
+import book26Cover from '../assets/images/books/book-26.jpg';
+import book270Cover from '../assets/images/books/book-270.jpg';
+import book271Cover from '../assets/images/books/book-271.jpg';
+import book272Cover from '../assets/images/books/book-272.jpg';
+import book273Cover from '../assets/images/books/book-273.jpg';
+import book274Cover from '../assets/images/books/book-274.jpg';
+import book275Cover from '../assets/images/books/book-275.jpg';
+import book276Cover from '../assets/images/books/book-276.jpg';
+import book277Cover from '../assets/images/books/book-277.jpg';
+import book278Cover from '../assets/images/books/book-278.jpg';
+import book279Cover from '../assets/images/books/book-279.jpg';
+import book27Cover from '../assets/images/books/book-27.jpg';
+import book280Cover from '../assets/images/books/book-280.jpg';
+import book281Cover from '../assets/images/books/book-281.jpg';
+import book282Cover from '../assets/images/books/book-282.jpg';
+import book283Cover from '../assets/images/books/book-283.jpg';
+import book284Cover from '../assets/images/books/book-284.jpg';
+import book285Cover from '../assets/images/books/book-285.jpg';
+import book286Cover from '../assets/images/books/book-286.jpg';
+import book287Cover from '../assets/images/books/book-287.jpg';
+import book288Cover from '../assets/images/books/book-288.jpg';
+import book289Cover from '../assets/images/books/book-289.jpg';
+import book28Cover from '../assets/images/books/book-28.jpg';
+import book290Cover from '../assets/images/books/book-290.jpg';
+import book291Cover from '../assets/images/books/book-291.jpg';
+import book292Cover from '../assets/images/books/book-292.jpg';
+import book293Cover from '../assets/images/books/book-293.jpg';
+import book294Cover from '../assets/images/books/book-294.jpg';
+import book295Cover from '../assets/images/books/book-295.jpg';
+import book296Cover from '../assets/images/books/book-296.jpg';
+import book297Cover from '../assets/images/books/book-297.jpg';
+import book298Cover from '../assets/images/books/book-298.jpg';
+import book299Cover from '../assets/images/books/book-299.jpg';
+import book29Cover from '../assets/images/books/book-29.jpg';
+import book2Cover from '../assets/images/books/book-2.jpg';
+import book300Cover from '../assets/images/books/book-300.jpg';
+import book301Cover from '../assets/images/books/book-301.jpg';
+import book302Cover from '../assets/images/books/book-302.jpg';
+import book303Cover from '../assets/images/books/book-303.jpg';
+import book304Cover from '../assets/images/books/book-304.jpg';
+import book305Cover from '../assets/images/books/book-305.jpg';
+import book306Cover from '../assets/images/books/book-306.jpg';
+import book307Cover from '../assets/images/books/book-307.jpg';
+import book308Cover from '../assets/images/books/book-308.jpg';
+import book309Cover from '../assets/images/books/book-309.jpg';
+import book30Cover from '../assets/images/books/book-30.jpg';
+import book310Cover from '../assets/images/books/book-310.jpg';
+import book311Cover from '../assets/images/books/book-311.jpg';
+import book312Cover from '../assets/images/books/book-312.jpg';
+import book313Cover from '../assets/images/books/book-313.jpg';
+import book314Cover from '../assets/images/books/book-314.jpg';
+import book315Cover from '../assets/images/books/book-315.jpg';
+import book316Cover from '../assets/images/books/book-316.jpg';
+import book317Cover from '../assets/images/books/book-317.jpg';
+import book318Cover from '../assets/images/books/book-318.jpg';
+import book319Cover from '../assets/images/books/book-319.jpg';
+import book31Cover from '../assets/images/books/book-31.jpg';
+import book320Cover from '../assets/images/books/book-320.jpg';
+import book321Cover from '../assets/images/books/book-321.jpg';
+import book322Cover from '../assets/images/books/book-322.jpg';
+import book323Cover from '../assets/images/books/book-323.jpg';
+import book324Cover from '../assets/images/books/book-324.jpg';
+import book325Cover from '../assets/images/books/book-325.jpg';
+import book326Cover from '../assets/images/books/book-326.jpg';
+import book327Cover from '../assets/images/books/book-327.jpg';
+import book328Cover from '../assets/images/books/book-328.jpg';
+import book329Cover from '../assets/images/books/book-329.jpg';
+import book32Cover from '../assets/images/books/book-32.jpg';
+import book330Cover from '../assets/images/books/book-330.jpg';
+import book331Cover from '../assets/images/books/book-331.jpg';
+import book332Cover from '../assets/images/books/book-332.jpg';
+import book333Cover from '../assets/images/books/book-333.jpg';
+import book334Cover from '../assets/images/books/book-334.jpg';
+import book335Cover from '../assets/images/books/book-335.jpg';
+import book336Cover from '../assets/images/books/book-336.jpg';
+import book337Cover from '../assets/images/books/book-337.jpg';
+import book338Cover from '../assets/images/books/book-338.jpg';
+import book339Cover from '../assets/images/books/book-339.jpg';
+import book33Cover from '../assets/images/books/book-33.jpg';
+import book340Cover from '../assets/images/books/book-340.jpg';
+import book341Cover from '../assets/images/books/book-341.jpg';
+import book342Cover from '../assets/images/books/book-342.jpg';
+import book343Cover from '../assets/images/books/book-343.jpg';
+import book344Cover from '../assets/images/books/book-344.jpg';
+import book345Cover from '../assets/images/books/book-345.jpg';
+import book346Cover from '../assets/images/books/book-346.jpg';
+import book347Cover from '../assets/images/books/book-347.jpg';
+import book348Cover from '../assets/images/books/book-348.jpg';
+import book349Cover from '../assets/images/books/book-349.jpg';
+import book34Cover from '../assets/images/books/book-34.jpg';
+import book350Cover from '../assets/images/books/book-350.jpg';
+import book351Cover from '../assets/images/books/book-351.jpg';
+import book352Cover from '../assets/images/books/book-352.jpg';
+import book353Cover from '../assets/images/books/book-353.jpg';
+import book354Cover from '../assets/images/books/book-354.jpg';
+import book355Cover from '../assets/images/books/book-355.jpg';
+import book356Cover from '../assets/images/books/book-356.jpg';
+import book357Cover from '../assets/images/books/book-357.jpg';
+import book358Cover from '../assets/images/books/book-358.jpg';
+import book359Cover from '../assets/images/books/book-359.jpg';
+import book35Cover from '../assets/images/books/book-35.jpg';
+import book360Cover from '../assets/images/books/book-360.jpg';
+import book361Cover from '../assets/images/books/book-361.jpg';
+import book362Cover from '../assets/images/books/book-362.jpg';
+import book363Cover from '../assets/images/books/book-363.jpg';
+import book364Cover from '../assets/images/books/book-364.jpg';
+import book365Cover from '../assets/images/books/book-365.jpg';
+import book366Cover from '../assets/images/books/book-366.jpg';
+import book367Cover from '../assets/images/books/book-367.jpg';
+import book368Cover from '../assets/images/books/book-368.jpg';
+import book369Cover from '../assets/images/books/book-369.jpg';
+import book36Cover from '../assets/images/books/book-36.jpg';
+import book370Cover from '../assets/images/books/book-370.jpg';
+import book371Cover from '../assets/images/books/book-371.jpg';
+import book372Cover from '../assets/images/books/book-372.jpg';
+import book373Cover from '../assets/images/books/book-373.jpg';
+import book374Cover from '../assets/images/books/book-374.jpg';
+import book375Cover from '../assets/images/books/book-375.jpg';
+import book376Cover from '../assets/images/books/book-376.jpg';
+import book377Cover from '../assets/images/books/book-377.jpg';
+import book378Cover from '../assets/images/books/book-378.jpg';
+import book379Cover from '../assets/images/books/book-379.jpg';
+import book37Cover from '../assets/images/books/book-37.jpg';
+import book380Cover from '../assets/images/books/book-380.jpg';
+import book381Cover from '../assets/images/books/book-381.jpg';
+import book382Cover from '../assets/images/books/book-382.jpg';
+import book383Cover from '../assets/images/books/book-383.jpg';
+import book384Cover from '../assets/images/books/book-384.jpg';
+import book385Cover from '../assets/images/books/book-385.jpg';
+import book386Cover from '../assets/images/books/book-386.jpg';
+import book387Cover from '../assets/images/books/book-387.jpg';
+import book388Cover from '../assets/images/books/book-388.jpg';
+import book389Cover from '../assets/images/books/book-389.jpg';
+import book38Cover from '../assets/images/books/book-38.jpg';
+import book390Cover from '../assets/images/books/book-390.jpg';
+import book391Cover from '../assets/images/books/book-391.jpg';
+import book392Cover from '../assets/images/books/book-392.jpg';
+import book393Cover from '../assets/images/books/book-393.jpg';
+import book394Cover from '../assets/images/books/book-394.jpg';
+import book395Cover from '../assets/images/books/book-395.jpg';
+import book396Cover from '../assets/images/books/book-396.jpg';
+import book397Cover from '../assets/images/books/book-397.jpg';
+import book398Cover from '../assets/images/books/book-398.jpg';
+import book399Cover from '../assets/images/books/book-399.jpg';
+import book39Cover from '../assets/images/books/book-39.jpg';
+import book3Cover from '../assets/images/books/book-3.jpg';
+import book400Cover from '../assets/images/books/book-400.jpg';
+import book401Cover from '../assets/images/books/book-401.jpg';
+import book402Cover from '../assets/images/books/book-402.jpg';
+import book403Cover from '../assets/images/books/book-403.jpg';
+import book404Cover from '../assets/images/books/book-404.jpg';
+import book405Cover from '../assets/images/books/book-405.jpg';
+import book406Cover from '../assets/images/books/book-406.jpg';
+import book407Cover from '../assets/images/books/book-407.jpg';
+import book408Cover from '../assets/images/books/book-408.jpg';
+import book409Cover from '../assets/images/books/book-409.jpg';
+import book40Cover from '../assets/images/books/book-40.jpg';
+import book410Cover from '../assets/images/books/book-410.jpg';
+import book411Cover from '../assets/images/books/book-411.jpg';
+import book412Cover from '../assets/images/books/book-412.jpg';
+import book413Cover from '../assets/images/books/book-413.jpg';
+import book414Cover from '../assets/images/books/book-414.jpg';
+import book415Cover from '../assets/images/books/book-415.jpg';
+import book416Cover from '../assets/images/books/book-416.jpg';
+import book417Cover from '../assets/images/books/book-417.jpg';
+import book418Cover from '../assets/images/books/book-418.jpg';
+import book419Cover from '../assets/images/books/book-419.jpg';
+import book41Cover from '../assets/images/books/book-41.jpg';
+import book420Cover from '../assets/images/books/book-420.jpg';
+import book421Cover from '../assets/images/books/book-421.jpg';
+import book422Cover from '../assets/images/books/book-422.jpg';
+import book423Cover from '../assets/images/books/book-423.jpg';
+import book424Cover from '../assets/images/books/book-424.jpg';
+import book425Cover from '../assets/images/books/book-425.jpg';
+import book426Cover from '../assets/images/books/book-426.jpg';
+import book427Cover from '../assets/images/books/book-427.jpg';
+import book428Cover from '../assets/images/books/book-428.jpg';
+import book429Cover from '../assets/images/books/book-429.jpg';
+import book42Cover from '../assets/images/books/book-42.jpg';
+import book430Cover from '../assets/images/books/book-430.jpg';
+import book431Cover from '../assets/images/books/book-431.jpg';
+import book432Cover from '../assets/images/books/book-432.jpg';
+import book433Cover from '../assets/images/books/book-433.jpg';
+import book434Cover from '../assets/images/books/book-434.jpg';
+import book435Cover from '../assets/images/books/book-435.jpg';
+import book436Cover from '../assets/images/books/book-436.jpg';
+import book437Cover from '../assets/images/books/book-437.jpg';
+import book438Cover from '../assets/images/books/book-438.jpg';
+import book439Cover from '../assets/images/books/book-439.jpg';
+import book43Cover from '../assets/images/books/book-43.jpg';
+import book440Cover from '../assets/images/books/book-440.jpg';
+import book441Cover from '../assets/images/books/book-441.jpg';
+import book442Cover from '../assets/images/books/book-442.jpg';
+import book443Cover from '../assets/images/books/book-443.jpg';
+import book444Cover from '../assets/images/books/book-444.jpg';
+import book445Cover from '../assets/images/books/book-445.jpg';
+import book446Cover from '../assets/images/books/book-446.jpg';
+import book447Cover from '../assets/images/books/book-447.jpg';
+import book448Cover from '../assets/images/books/book-448.jpg';
+import book449Cover from '../assets/images/books/book-449.jpg';
+import book44Cover from '../assets/images/books/book-44.jpg';
+import book450Cover from '../assets/images/books/book-450.jpg';
+import book451Cover from '../assets/images/books/book-451.jpg';
+import book452Cover from '../assets/images/books/book-452.jpg';
+import book453Cover from '../assets/images/books/book-453.jpg';
+import book454Cover from '../assets/images/books/book-454.jpg';
+import book455Cover from '../assets/images/books/book-455.jpg';
+import book456Cover from '../assets/images/books/book-456.jpg';
+import book457Cover from '../assets/images/books/book-457.jpg';
+import book458Cover from '../assets/images/books/book-458.jpg';
+import book459Cover from '../assets/images/books/book-459.jpg';
+import book45Cover from '../assets/images/books/book-45.jpg';
+import book460Cover from '../assets/images/books/book-460.jpg';
+import book461Cover from '../assets/images/books/book-461.jpg';
+import book462Cover from '../assets/images/books/book-462.jpg';
+import book463Cover from '../assets/images/books/book-463.jpg';
+import book464Cover from '../assets/images/books/book-464.jpg';
+import book465Cover from '../assets/images/books/book-465.jpg';
+import book466Cover from '../assets/images/books/book-466.jpg';
+import book467Cover from '../assets/images/books/book-467.jpg';
+import book468Cover from '../assets/images/books/book-468.jpg';
+import book469Cover from '../assets/images/books/book-469.jpg';
+import book46Cover from '../assets/images/books/book-46.jpg';
+import book470Cover from '../assets/images/books/book-470.jpg';
+import book471Cover from '../assets/images/books/book-471.jpg';
+import book472Cover from '../assets/images/books/book-472.jpg';
+import book473Cover from '../assets/images/books/book-473.jpg';
+import book474Cover from '../assets/images/books/book-474.jpg';
+import book475Cover from '../assets/images/books/book-475.jpg';
+import book476Cover from '../assets/images/books/book-476.jpg';
+import book477Cover from '../assets/images/books/book-477.jpg';
+import book478Cover from '../assets/images/books/book-478.jpg';
+import book479Cover from '../assets/images/books/book-479.jpg';
+import book47Cover from '../assets/images/books/book-47.jpg';
+import book480Cover from '../assets/images/books/book-480.jpg';
+import book481Cover from '../assets/images/books/book-481.jpg';
+import book482Cover from '../assets/images/books/book-482.jpg';
+import book483Cover from '../assets/images/books/book-483.jpg';
+import book484Cover from '../assets/images/books/book-484.jpg';
+import book485Cover from '../assets/images/books/book-485.jpg';
+import book486Cover from '../assets/images/books/book-486.jpg';
+import book487Cover from '../assets/images/books/book-487.jpg';
+import book488Cover from '../assets/images/books/book-488.jpg';
+import book489Cover from '../assets/images/books/book-489.jpg';
+import book48Cover from '../assets/images/books/book-48.jpg';
+import book490Cover from '../assets/images/books/book-490.jpg';
+import book491Cover from '../assets/images/books/book-491.jpg';
+import book492Cover from '../assets/images/books/book-492.jpg';
+import book493Cover from '../assets/images/books/book-493.jpg';
+import book494Cover from '../assets/images/books/book-494.jpg';
+import book495Cover from '../assets/images/books/book-495.jpg';
+import book496Cover from '../assets/images/books/book-496.jpg';
+import book497Cover from '../assets/images/books/book-497.jpg';
+import book498Cover from '../assets/images/books/book-498.jpg';
+import book499Cover from '../assets/images/books/book-499.jpg';
+import book49Cover from '../assets/images/books/book-49.jpg';
+import book4Cover from '../assets/images/books/book-4.jpg';
+import book500Cover from '../assets/images/books/book-500.jpg';
+import book501Cover from '../assets/images/books/book-501.jpg';
+import book502Cover from '../assets/images/books/book-502.jpg';
+import book503Cover from '../assets/images/books/book-503.jpg';
+import book504Cover from '../assets/images/books/book-504.jpg';
+import book505Cover from '../assets/images/books/book-505.jpg';
+import book506Cover from '../assets/images/books/book-506.jpg';
+import book507Cover from '../assets/images/books/book-507.jpg';
+import book508Cover from '../assets/images/books/book-508.jpg';
+import book509Cover from '../assets/images/books/book-509.jpg';
+import book50Cover from '../assets/images/books/book-50.jpg';
+import book510Cover from '../assets/images/books/book-510.jpg';
+import book511Cover from '../assets/images/books/book-511.jpg';
+import book512Cover from '../assets/images/books/book-512.jpg';
+import book513Cover from '../assets/images/books/book-513.jpg';
+import book514Cover from '../assets/images/books/book-514.jpg';
+import book515Cover from '../assets/images/books/book-515.jpg';
+import book516Cover from '../assets/images/books/book-516.jpg';
+import book517Cover from '../assets/images/books/book-517.jpg';
+import book518Cover from '../assets/images/books/book-518.jpg';
+import book519Cover from '../assets/images/books/book-519.jpg';
+import book51Cover from '../assets/images/books/book-51.jpg';
+import book520Cover from '../assets/images/books/book-520.jpg';
+import book521Cover from '../assets/images/books/book-521.jpg';
+import book522Cover from '../assets/images/books/book-522.jpg';
+import book523Cover from '../assets/images/books/book-523.jpg';
+import book524Cover from '../assets/images/books/book-524.jpg';
+import book525Cover from '../assets/images/books/book-525.jpg';
+import book526Cover from '../assets/images/books/book-526.jpg';
+import book527Cover from '../assets/images/books/book-527.jpg';
+import book528Cover from '../assets/images/books/book-528.jpg';
+import book529Cover from '../assets/images/books/book-529.jpg';
+import book52Cover from '../assets/images/books/book-52.jpg';
+import book530Cover from '../assets/images/books/book-530.jpg';
+import book531Cover from '../assets/images/books/book-531.jpg';
+import book532Cover from '../assets/images/books/book-532.jpg';
+import book533Cover from '../assets/images/books/book-533.jpg';
+import book534Cover from '../assets/images/books/book-534.jpg';
+import book535Cover from '../assets/images/books/book-535.jpg';
+import book536Cover from '../assets/images/books/book-536.jpg';
+import book537Cover from '../assets/images/books/book-537.jpg';
+import book538Cover from '../assets/images/books/book-538.jpg';
+import book539Cover from '../assets/images/books/book-539.jpg';
+import book53Cover from '../assets/images/books/book-53.jpg';
+import book540Cover from '../assets/images/books/book-540.jpg';
+import book541Cover from '../assets/images/books/book-541.jpg';
+import book542Cover from '../assets/images/books/book-542.jpg';
+import book543Cover from '../assets/images/books/book-543.jpg';
+import book544Cover from '../assets/images/books/book-544.jpg';
+import book545Cover from '../assets/images/books/book-545.jpg';
+import book546Cover from '../assets/images/books/book-546.jpg';
+import book547Cover from '../assets/images/books/book-547.jpg';
+import book548Cover from '../assets/images/books/book-548.jpg';
+import book549Cover from '../assets/images/books/book-549.jpg';
+import book54Cover from '../assets/images/books/book-54.jpg';
+import book550Cover from '../assets/images/books/book-550.jpg';
+import book551Cover from '../assets/images/books/book-551.jpg';
+import book552Cover from '../assets/images/books/book-552.jpg';
+import book553Cover from '../assets/images/books/book-553.jpg';
+import book554Cover from '../assets/images/books/book-554.jpg';
+import book555Cover from '../assets/images/books/book-555.jpg';
+import book556Cover from '../assets/images/books/book-556.jpg';
+import book557Cover from '../assets/images/books/book-557.jpg';
+import book558Cover from '../assets/images/books/book-558.jpg';
+import book559Cover from '../assets/images/books/book-559.jpg';
+import book55Cover from '../assets/images/books/book-55.jpg';
+import book560Cover from '../assets/images/books/book-560.jpg';
+import book561Cover from '../assets/images/books/book-561.jpg';
+import book562Cover from '../assets/images/books/book-562.jpg';
+import book563Cover from '../assets/images/books/book-563.jpg';
+import book564Cover from '../assets/images/books/book-564.jpg';
+import book565Cover from '../assets/images/books/book-565.jpg';
+import book566Cover from '../assets/images/books/book-566.jpg';
+import book567Cover from '../assets/images/books/book-567.jpg';
+import book568Cover from '../assets/images/books/book-568.jpg';
+import book569Cover from '../assets/images/books/book-569.jpg';
+import book56Cover from '../assets/images/books/book-56.jpg';
+import book570Cover from '../assets/images/books/book-570.jpg';
+import book571Cover from '../assets/images/books/book-571.jpg';
+import book572Cover from '../assets/images/books/book-572.jpg';
+import book573Cover from '../assets/images/books/book-573.jpg';
+import book574Cover from '../assets/images/books/book-574.jpg';
+import book575Cover from '../assets/images/books/book-575.jpg';
+import book576Cover from '../assets/images/books/book-576.jpg';
+import book577Cover from '../assets/images/books/book-577.jpg';
+import book578Cover from '../assets/images/books/book-578.jpg';
+import book579Cover from '../assets/images/books/book-579.jpg';
+import book57Cover from '../assets/images/books/book-57.jpg';
+import book580Cover from '../assets/images/books/book-580.jpg';
+import book581Cover from '../assets/images/books/book-581.jpg';
+import book582Cover from '../assets/images/books/book-582.jpg';
+import book583Cover from '../assets/images/books/book-583.jpg';
+import book584Cover from '../assets/images/books/book-584.jpg';
+import book585Cover from '../assets/images/books/book-585.jpg';
+import book586Cover from '../assets/images/books/book-586.jpg';
+import book587Cover from '../assets/images/books/book-587.jpg';
+import book588Cover from '../assets/images/books/book-588.jpg';
+import book589Cover from '../assets/images/books/book-589.jpg';
+import book58Cover from '../assets/images/books/book-58.jpg';
+import book590Cover from '../assets/images/books/book-590.jpg';
+import book591Cover from '../assets/images/books/book-591.jpg';
+import book592Cover from '../assets/images/books/book-592.jpg';
+import book593Cover from '../assets/images/books/book-593.jpg';
+import book594Cover from '../assets/images/books/book-594.jpg';
+import book595Cover from '../assets/images/books/book-595.jpg';
+import book596Cover from '../assets/images/books/book-596.jpg';
+import book597Cover from '../assets/images/books/book-597.jpg';
+import book598Cover from '../assets/images/books/book-598.jpg';
+import book599Cover from '../assets/images/books/book-599.jpg';
+import book59Cover from '../assets/images/books/book-59.jpg';
+import book5Cover from '../assets/images/books/book-5.jpg';
+import book600Cover from '../assets/images/books/book-600.jpg';
+import book601Cover from '../assets/images/books/book-601.jpg';
+import book602Cover from '../assets/images/books/book-602.jpg';
+import book603Cover from '../assets/images/books/book-603.jpg';
+import book604Cover from '../assets/images/books/book-604.jpg';
+import book605Cover from '../assets/images/books/book-605.jpg';
+import book606Cover from '../assets/images/books/book-606.jpg';
+import book607Cover from '../assets/images/books/book-607.jpg';
+import book608Cover from '../assets/images/books/book-608.jpg';
+import book609Cover from '../assets/images/books/book-609.jpg';
+import book60Cover from '../assets/images/books/book-60.jpg';
+import book610Cover from '../assets/images/books/book-610.jpg';
+import book611Cover from '../assets/images/books/book-611.jpg';
+import book612Cover from '../assets/images/books/book-612.jpg';
+import book613Cover from '../assets/images/books/book-613.jpg';
+import book614Cover from '../assets/images/books/book-614.jpg';
+import book615Cover from '../assets/images/books/book-615.jpg';
+import book616Cover from '../assets/images/books/book-616.jpg';
+import book617Cover from '../assets/images/books/book-617.jpg';
+import book618Cover from '../assets/images/books/book-618.jpg';
+import book619Cover from '../assets/images/books/book-619.jpg';
+import book61Cover from '../assets/images/books/book-61.jpg';
+import book620Cover from '../assets/images/books/book-620.jpg';
+import book621Cover from '../assets/images/books/book-621.jpg';
+import book622Cover from '../assets/images/books/book-622.jpg';
+import book623Cover from '../assets/images/books/book-623.jpg';
+import book624Cover from '../assets/images/books/book-624.jpg';
+import book625Cover from '../assets/images/books/book-625.jpg';
+import book626Cover from '../assets/images/books/book-626.jpg';
+import book627Cover from '../assets/images/books/book-627.jpg';
+import book628Cover from '../assets/images/books/book-628.jpg';
+import book629Cover from '../assets/images/books/book-629.jpg';
+import book62Cover from '../assets/images/books/book-62.jpg';
+import book630Cover from '../assets/images/books/book-630.jpg';
+import book631Cover from '../assets/images/books/book-631.jpg';
+import book632Cover from '../assets/images/books/book-632.jpg';
+import book633Cover from '../assets/images/books/book-633.jpg';
+import book634Cover from '../assets/images/books/book-634.jpg';
+import book635Cover from '../assets/images/books/book-635.jpg';
+import book636Cover from '../assets/images/books/book-636.jpg';
+import book637Cover from '../assets/images/books/book-637.jpg';
+import book638Cover from '../assets/images/books/book-638.jpg';
+import book639Cover from '../assets/images/books/book-639.jpg';
+import book63Cover from '../assets/images/books/book-63.jpg';
+import book640Cover from '../assets/images/books/book-640.jpg';
+import book641Cover from '../assets/images/books/book-641.jpg';
+import book642Cover from '../assets/images/books/book-642.jpg';
+import book643Cover from '../assets/images/books/book-643.jpg';
+import book644Cover from '../assets/images/books/book-644.jpg';
+import book645Cover from '../assets/images/books/book-645.jpg';
+import book646Cover from '../assets/images/books/book-646.jpg';
+import book647Cover from '../assets/images/books/book-647.jpg';
+import book648Cover from '../assets/images/books/book-648.jpg';
+import book649Cover from '../assets/images/books/book-649.jpg';
+import book64Cover from '../assets/images/books/book-64.jpg';
+import book650Cover from '../assets/images/books/book-650.jpg';
+import book651Cover from '../assets/images/books/book-651.jpg';
+import book652Cover from '../assets/images/books/book-652.jpg';
+import book653Cover from '../assets/images/books/book-653.jpg';
+import book654Cover from '../assets/images/books/book-654.jpg';
+import book655Cover from '../assets/images/books/book-655.jpg';
+import book656Cover from '../assets/images/books/book-656.jpg';
+import book657Cover from '../assets/images/books/book-657.jpg';
+import book658Cover from '../assets/images/books/book-658.jpg';
+import book659Cover from '../assets/images/books/book-659.jpg';
+import book65Cover from '../assets/images/books/book-65.jpg';
+import book660Cover from '../assets/images/books/book-660.jpg';
+import book661Cover from '../assets/images/books/book-661.jpg';
+import book662Cover from '../assets/images/books/book-662.jpg';
+import book663Cover from '../assets/images/books/book-663.jpg';
+import book664Cover from '../assets/images/books/book-664.jpg';
+import book665Cover from '../assets/images/books/book-665.jpg';
+import book666Cover from '../assets/images/books/book-666.jpg';
+import book667Cover from '../assets/images/books/book-667.jpg';
+import book668Cover from '../assets/images/books/book-668.jpg';
+import book669Cover from '../assets/images/books/book-669.jpg';
+import book66Cover from '../assets/images/books/book-66.jpg';
+import book670Cover from '../assets/images/books/book-670.jpg';
+import book671Cover from '../assets/images/books/book-671.jpg';
+import book672Cover from '../assets/images/books/book-672.jpg';
+import book673Cover from '../assets/images/books/book-673.jpg';
+import book674Cover from '../assets/images/books/book-674.jpg';
+import book675Cover from '../assets/images/books/book-675.jpg';
+import book676Cover from '../assets/images/books/book-676.jpg';
+import book677Cover from '../assets/images/books/book-677.jpg';
+import book678Cover from '../assets/images/books/book-678.jpg';
+import book679Cover from '../assets/images/books/book-679.jpg';
+import book67Cover from '../assets/images/books/book-67.jpg';
+import book680Cover from '../assets/images/books/book-680.jpg';
+import book681Cover from '../assets/images/books/book-681.jpg';
+import book682Cover from '../assets/images/books/book-682.jpg';
+import book683Cover from '../assets/images/books/book-683.jpg';
+import book684Cover from '../assets/images/books/book-684.jpg';
+import book685Cover from '../assets/images/books/book-685.jpg';
+import book686Cover from '../assets/images/books/book-686.jpg';
+import book687Cover from '../assets/images/books/book-687.jpg';
+import book688Cover from '../assets/images/books/book-688.jpg';
+import book689Cover from '../assets/images/books/book-689.jpg';
+import book68Cover from '../assets/images/books/book-68.jpg';
+import book690Cover from '../assets/images/books/book-690.jpg';
+import book691Cover from '../assets/images/books/book-691.jpg';
+import book692Cover from '../assets/images/books/book-692.jpg';
+import book693Cover from '../assets/images/books/book-693.jpg';
+import book694Cover from '../assets/images/books/book-694.jpg';
+import book695Cover from '../assets/images/books/book-695.jpg';
+import book696Cover from '../assets/images/books/book-696.jpg';
+import book697Cover from '../assets/images/books/book-697.jpg';
+import book698Cover from '../assets/images/books/book-698.jpg';
+import book699Cover from '../assets/images/books/book-699.jpg';
+import book69Cover from '../assets/images/books/book-69.jpg';
+import book6Cover from '../assets/images/books/book-6.jpg';
+import book700Cover from '../assets/images/books/book-700.jpg';
+import book701Cover from '../assets/images/books/book-701.jpg';
+import book702Cover from '../assets/images/books/book-702.jpg';
+import book703Cover from '../assets/images/books/book-703.jpg';
+import book704Cover from '../assets/images/books/book-704.jpg';
+import book706Cover from '../assets/images/books/book-706.jpg';
+import book707Cover from '../assets/images/books/book-707.jpg';
+import book708Cover from '../assets/images/books/book-708.jpg';
+import book709Cover from '../assets/images/books/book-709.jpg';
+import book70Cover from '../assets/images/books/book-70.jpg';
+import book710Cover from '../assets/images/books/book-710.jpg';
+import book711Cover from '../assets/images/books/book-711.jpg';
+import book712Cover from '../assets/images/books/book-712.jpg';
+import book713Cover from '../assets/images/books/book-713.jpg';
+import book714Cover from '../assets/images/books/book-714.jpg';
+import book715Cover from '../assets/images/books/book-715.jpg';
+import book716Cover from '../assets/images/books/book-716.jpg';
+import book717Cover from '../assets/images/books/book-717.jpg';
+import book718Cover from '../assets/images/books/book-718.jpg';
+import book719Cover from '../assets/images/books/book-719.jpg';
+import book71Cover from '../assets/images/books/book-71.jpg';
+import book720Cover from '../assets/images/books/book-720.jpg';
+import book721Cover from '../assets/images/books/book-721.jpg';
+import book722Cover from '../assets/images/books/book-722.jpg';
+import book723Cover from '../assets/images/books/book-723.jpg';
+import book724Cover from '../assets/images/books/book-724.jpg';
+import book725Cover from '../assets/images/books/book-725.jpg';
+import book726Cover from '../assets/images/books/book-726.jpg';
+import book727Cover from '../assets/images/books/book-727.jpg';
+import book728Cover from '../assets/images/books/book-728.jpg';
+import book729Cover from '../assets/images/books/book-729.jpg';
+import book72Cover from '../assets/images/books/book-72.jpg';
+import book730Cover from '../assets/images/books/book-730.jpg';
+import book731Cover from '../assets/images/books/book-731.jpg';
+import book732Cover from '../assets/images/books/book-732.jpg';
+import book733Cover from '../assets/images/books/book-733.jpg';
+import book734Cover from '../assets/images/books/book-734.jpg';
+import book735Cover from '../assets/images/books/book-735.jpg';
+import book736Cover from '../assets/images/books/book-736.jpg';
+import book737Cover from '../assets/images/books/book-737.jpg';
+import book738Cover from '../assets/images/books/book-738.jpg';
+import book739Cover from '../assets/images/books/book-739.jpg';
+import book73Cover from '../assets/images/books/book-73.jpg';
+import book740Cover from '../assets/images/books/book-740.jpg';
+import book741Cover from '../assets/images/books/book-741.jpg';
+import book742Cover from '../assets/images/books/book-742.jpg';
+import book743Cover from '../assets/images/books/book-743.jpg';
+import book744Cover from '../assets/images/books/book-744.jpg';
+import book745Cover from '../assets/images/books/book-745.jpg';
+import book746Cover from '../assets/images/books/book-746.jpg';
+import book747Cover from '../assets/images/books/book-747.jpg';
+import book748Cover from '../assets/images/books/book-748.jpg';
+import book749Cover from '../assets/images/books/book-749.jpg';
+import book74Cover from '../assets/images/books/book-74.jpg';
+import book750Cover from '../assets/images/books/book-750.jpg';
+import book751Cover from '../assets/images/books/book-751.jpg';
+import book752Cover from '../assets/images/books/book-752.jpg';
+import book753Cover from '../assets/images/books/book-753.jpg';
+import book754Cover from '../assets/images/books/book-754.jpg';
+import book755Cover from '../assets/images/books/book-755.jpg';
+import book756Cover from '../assets/images/books/book-756.jpg';
+import book757Cover from '../assets/images/books/book-757.jpg';
+import book758Cover from '../assets/images/books/book-758.jpg';
+import book759Cover from '../assets/images/books/book-759.jpg';
+import book75Cover from '../assets/images/books/book-75.jpg';
+import book760Cover from '../assets/images/books/book-760.jpg';
+import book761Cover from '../assets/images/books/book-761.jpg';
+import book762Cover from '../assets/images/books/book-762.jpg';
+import book763Cover from '../assets/images/books/book-763.jpg';
+import book764Cover from '../assets/images/books/book-764.jpg';
+import book765Cover from '../assets/images/books/book-765.jpg';
+import book766Cover from '../assets/images/books/book-766.jpg';
+import book767Cover from '../assets/images/books/book-767.jpg';
+import book768Cover from '../assets/images/books/book-768.jpg';
+import book769Cover from '../assets/images/books/book-769.jpg';
+import book76Cover from '../assets/images/books/book-76.jpg';
+import book770Cover from '../assets/images/books/book-770.jpg';
+import book771Cover from '../assets/images/books/book-771.jpg';
+import book772Cover from '../assets/images/books/book-772.jpg';
+import book773Cover from '../assets/images/books/book-773.jpg';
+import book774Cover from '../assets/images/books/book-774.jpg';
+import book775Cover from '../assets/images/books/book-775.jpg';
+import book776Cover from '../assets/images/books/book-776.jpg';
+import book777Cover from '../assets/images/books/book-777.jpg';
+import book778Cover from '../assets/images/books/book-778.jpg';
+import book779Cover from '../assets/images/books/book-779.jpg';
+import book77Cover from '../assets/images/books/book-77.jpg';
+import book780Cover from '../assets/images/books/book-780.jpg';
+import book781Cover from '../assets/images/books/book-781.jpg';
+import book782Cover from '../assets/images/books/book-782.jpg';
+import book783Cover from '../assets/images/books/book-783.jpg';
+import book784Cover from '../assets/images/books/book-784.jpg';
+import book785Cover from '../assets/images/books/book-785.jpg';
+import book786Cover from '../assets/images/books/book-786.jpg';
+import book787Cover from '../assets/images/books/book-787.jpg';
+import book788Cover from '../assets/images/books/book-788.jpg';
+import book789Cover from '../assets/images/books/book-789.jpg';
+import book78Cover from '../assets/images/books/book-78.jpg';
+import book790Cover from '../assets/images/books/book-790.jpg';
+import book791Cover from '../assets/images/books/book-791.jpg';
+import book792Cover from '../assets/images/books/book-792.jpg';
+import book793Cover from '../assets/images/books/book-793.jpg';
+import book794Cover from '../assets/images/books/book-794.jpg';
+import book795Cover from '../assets/images/books/book-795.jpg';
+import book796Cover from '../assets/images/books/book-796.jpg';
+import book797Cover from '../assets/images/books/book-797.jpg';
+import book798Cover from '../assets/images/books/book-798.jpg';
+import book799Cover from '../assets/images/books/book-799.jpg';
+import book79Cover from '../assets/images/books/book-79.jpg';
+import book7Cover from '../assets/images/books/book-7.jpg';
+import book800Cover from '../assets/images/books/book-800.jpg';
+import book801Cover from '../assets/images/books/book-801.jpg';
+import book802Cover from '../assets/images/books/book-802.jpg';
+import book803Cover from '../assets/images/books/book-803.jpg';
+import book804Cover from '../assets/images/books/book-804.jpg';
+import book805Cover from '../assets/images/books/book-805.jpg';
+import book806Cover from '../assets/images/books/book-806.jpg';
+import book807Cover from '../assets/images/books/book-807.jpg';
+import book808Cover from '../assets/images/books/book-808.jpg';
+import book809Cover from '../assets/images/books/book-809.jpg';
+import book80Cover from '../assets/images/books/book-80.jpg';
+import book810Cover from '../assets/images/books/book-810.jpg';
+import book811Cover from '../assets/images/books/book-811.jpg';
+import book812Cover from '../assets/images/books/book-812.jpg';
+import book813Cover from '../assets/images/books/book-813.jpg';
+import book814Cover from '../assets/images/books/book-814.jpg';
+import book815Cover from '../assets/images/books/book-815.jpg';
+import book816Cover from '../assets/images/books/book-816.jpg';
+import book817Cover from '../assets/images/books/book-817.jpg';
+import book818Cover from '../assets/images/books/book-818.jpg';
+import book819Cover from '../assets/images/books/book-819.jpg';
+import book81Cover from '../assets/images/books/book-81.jpg';
+import book820Cover from '../assets/images/books/book-820.jpg';
+import book821Cover from '../assets/images/books/book-821.jpg';
+import book822Cover from '../assets/images/books/book-822.jpg';
+import book823Cover from '../assets/images/books/book-823.jpg';
+import book824Cover from '../assets/images/books/book-824.jpg';
+import book825Cover from '../assets/images/books/book-825.jpg';
+import book826Cover from '../assets/images/books/book-826.jpg';
+import book827Cover from '../assets/images/books/book-827.jpg';
+import book828Cover from '../assets/images/books/book-828.jpg';
+import book829Cover from '../assets/images/books/book-829.jpg';
+import book82Cover from '../assets/images/books/book-82.jpg';
+import book830Cover from '../assets/images/books/book-830.jpg';
+import book831Cover from '../assets/images/books/book-831.jpg';
+import book832Cover from '../assets/images/books/book-832.jpg';
+import book833Cover from '../assets/images/books/book-833.jpg';
+import book834Cover from '../assets/images/books/book-834.jpg';
+import book835Cover from '../assets/images/books/book-835.jpg';
+import book836Cover from '../assets/images/books/book-836.jpg';
+import book837Cover from '../assets/images/books/book-837.jpg';
+import book838Cover from '../assets/images/books/book-838.jpg';
+import book839Cover from '../assets/images/books/book-839.jpg';
+import book83Cover from '../assets/images/books/book-83.jpg';
+import book840Cover from '../assets/images/books/book-840.jpg';
+import book841Cover from '../assets/images/books/book-841.jpg';
+import book842Cover from '../assets/images/books/book-842.jpg';
+import book843Cover from '../assets/images/books/book-843.jpg';
+import book844Cover from '../assets/images/books/book-844.jpg';
+import book845Cover from '../assets/images/books/book-845.jpg';
+import book846Cover from '../assets/images/books/book-846.jpg';
+import book847Cover from '../assets/images/books/book-847.jpg';
+import book848Cover from '../assets/images/books/book-848.jpg';
+import book849Cover from '../assets/images/books/book-849.jpg';
+import book84Cover from '../assets/images/books/book-84.jpg';
+import book850Cover from '../assets/images/books/book-850.jpg';
+import book851Cover from '../assets/images/books/book-851.jpg';
+import book852Cover from '../assets/images/books/book-852.jpg';
+import book853Cover from '../assets/images/books/book-853.jpg';
+import book854Cover from '../assets/images/books/book-854.jpg';
+import book855Cover from '../assets/images/books/book-855.jpg';
+import book856Cover from '../assets/images/books/book-856.jpg';
+import book857Cover from '../assets/images/books/book-857.jpg';
+import book858Cover from '../assets/images/books/book-858.jpg';
+import book859Cover from '../assets/images/books/book-859.jpg';
+import book85Cover from '../assets/images/books/book-85.jpg';
+import book860Cover from '../assets/images/books/book-860.jpg';
+import book861Cover from '../assets/images/books/book-861.jpg';
+import book862Cover from '../assets/images/books/book-862.jpg';
+import book863Cover from '../assets/images/books/book-863.jpg';
+import book864Cover from '../assets/images/books/book-864.jpg';
+import book865Cover from '../assets/images/books/book-865.jpg';
+import book866Cover from '../assets/images/books/book-866.jpg';
+import book867Cover from '../assets/images/books/book-867.jpg';
+import book868Cover from '../assets/images/books/book-868.jpg';
+import book869Cover from '../assets/images/books/book-869.jpg';
+import book86Cover from '../assets/images/books/book-86.jpg';
+import book870Cover from '../assets/images/books/book-870.jpg';
+import book871Cover from '../assets/images/books/book-871.jpg';
+import book872Cover from '../assets/images/books/book-872.jpg';
+import book873Cover from '../assets/images/books/book-873.jpg';
+import book874Cover from '../assets/images/books/book-874.jpg';
+import book875Cover from '../assets/images/books/book-875.jpg';
+import book876Cover from '../assets/images/books/book-876.jpg';
+import book877Cover from '../assets/images/books/book-877.jpg';
+import book878Cover from '../assets/images/books/book-878.jpg';
+import book879Cover from '../assets/images/books/book-879.jpg';
+import book87Cover from '../assets/images/books/book-87.jpg';
+import book880Cover from '../assets/images/books/book-880.jpg';
+import book881Cover from '../assets/images/books/book-881.jpg';
+import book882Cover from '../assets/images/books/book-882.jpg';
+import book883Cover from '../assets/images/books/book-883.jpg';
+import book884Cover from '../assets/images/books/book-884.jpg';
+import book885Cover from '../assets/images/books/book-885.jpg';
+import book886Cover from '../assets/images/books/book-886.jpg';
+import book887Cover from '../assets/images/books/book-887.jpg';
+import book888Cover from '../assets/images/books/book-888.jpg';
+import book889Cover from '../assets/images/books/book-889.jpg';
+import book88Cover from '../assets/images/books/book-88.jpg';
+import book890Cover from '../assets/images/books/book-890.jpg';
+import book891Cover from '../assets/images/books/book-891.jpg';
+import book892Cover from '../assets/images/books/book-892.jpg';
+import book893Cover from '../assets/images/books/book-893.jpg';
+import book894Cover from '../assets/images/books/book-894.jpg';
+import book895Cover from '../assets/images/books/book-895.jpg';
+import book896Cover from '../assets/images/books/book-896.jpg';
+import book897Cover from '../assets/images/books/book-897.jpg';
+import book898Cover from '../assets/images/books/book-898.jpg';
+import book899Cover from '../assets/images/books/book-899.jpg';
+import book89Cover from '../assets/images/books/book-89.jpg';
+import book8Cover from '../assets/images/books/book-8.jpg';
+import book900Cover from '../assets/images/books/book-900.jpg';
+import book901Cover from '../assets/images/books/book-901.jpg';
+import book902Cover from '../assets/images/books/book-902.jpg';
+import book903Cover from '../assets/images/books/book-903.jpg';
+import book904Cover from '../assets/images/books/book-904.jpg';
+import book905Cover from '../assets/images/books/book-905.jpg';
+import book906Cover from '../assets/images/books/book-906.jpg';
+import book907Cover from '../assets/images/books/book-907.jpg';
+import book908Cover from '../assets/images/books/book-908.jpg';
+import book909Cover from '../assets/images/books/book-909.jpg';
+import book90Cover from '../assets/images/books/book-90.jpg';
+import book910Cover from '../assets/images/books/book-910.jpg';
+import book911Cover from '../assets/images/books/book-911.jpg';
+import book912Cover from '../assets/images/books/book-912.jpg';
+import book913Cover from '../assets/images/books/book-913.jpg';
+import book914Cover from '../assets/images/books/book-914.jpg';
+import book915Cover from '../assets/images/books/book-915.jpg';
+import book916Cover from '../assets/images/books/book-916.jpg';
+import book917Cover from '../assets/images/books/book-917.jpg';
+import book918Cover from '../assets/images/books/book-918.jpg';
+import book919Cover from '../assets/images/books/book-919.jpg';
+import book91Cover from '../assets/images/books/book-91.jpg';
+import book920Cover from '../assets/images/books/book-920.jpg';
+import book921Cover from '../assets/images/books/book-921.jpg';
+import book922Cover from '../assets/images/books/book-922.jpg';
+import book923Cover from '../assets/images/books/book-923.jpg';
+import book924Cover from '../assets/images/books/book-924.jpg';
+import book925Cover from '../assets/images/books/book-925.jpg';
+import book926Cover from '../assets/images/books/book-926.jpg';
+import book927Cover from '../assets/images/books/book-927.jpg';
+import book928Cover from '../assets/images/books/book-928.jpg';
+import book929Cover from '../assets/images/books/book-929.jpg';
+import book92Cover from '../assets/images/books/book-92.jpg';
+import book930Cover from '../assets/images/books/book-930.jpg';
+import book931Cover from '../assets/images/books/book-931.jpg';
+import book932Cover from '../assets/images/books/book-932.jpg';
+import book933Cover from '../assets/images/books/book-933.jpg';
+import book934Cover from '../assets/images/books/book-934.jpg';
+import book935Cover from '../assets/images/books/book-935.jpg';
+import book936Cover from '../assets/images/books/book-936.jpg';
+import book937Cover from '../assets/images/books/book-937.jpg';
+import book938Cover from '../assets/images/books/book-938.jpg';
+import book939Cover from '../assets/images/books/book-939.jpg';
+import book93Cover from '../assets/images/books/book-93.jpg';
+import book940Cover from '../assets/images/books/book-940.jpg';
+import book941Cover from '../assets/images/books/book-941.jpg';
+import book942Cover from '../assets/images/books/book-942.jpg';
+import book943Cover from '../assets/images/books/book-943.jpg';
+import book944Cover from '../assets/images/books/book-944.jpg';
+import book945Cover from '../assets/images/books/book-945.jpg';
+import book946Cover from '../assets/images/books/book-946.jpg';
+import book947Cover from '../assets/images/books/book-947.jpg';
+import book948Cover from '../assets/images/books/book-948.jpg';
+import book949Cover from '../assets/images/books/book-949.jpg';
+import book94Cover from '../assets/images/books/book-94.jpg';
+import book950Cover from '../assets/images/books/book-950.jpg';
+import book951Cover from '../assets/images/books/book-951.jpg';
+import book952Cover from '../assets/images/books/book-952.jpg';
+import book953Cover from '../assets/images/books/book-953.jpg';
+import book954Cover from '../assets/images/books/book-954.jpg';
+import book955Cover from '../assets/images/books/book-955.jpg';
+import book956Cover from '../assets/images/books/book-956.jpg';
+import book957Cover from '../assets/images/books/book-957.jpg';
+import book958Cover from '../assets/images/books/book-958.jpg';
+import book959Cover from '../assets/images/books/book-959.jpg';
+import book95Cover from '../assets/images/books/book-95.jpg';
+import book960Cover from '../assets/images/books/book-960.jpg';
+import book961Cover from '../assets/images/books/book-961.jpg';
+import book962Cover from '../assets/images/books/book-962.jpg';
+import book963Cover from '../assets/images/books/book-963.jpg';
+import book964Cover from '../assets/images/books/book-964.jpg';
+import book965Cover from '../assets/images/books/book-965.jpg';
+import book966Cover from '../assets/images/books/book-966.jpg';
+import book967Cover from '../assets/images/books/book-967.jpg';
+import book968Cover from '../assets/images/books/book-968.jpg';
+import book969Cover from '../assets/images/books/book-969.jpg';
+import book96Cover from '../assets/images/books/book-96.jpg';
+import book970Cover from '../assets/images/books/book-970.jpg';
+import book971Cover from '../assets/images/books/book-971.jpg';
+import book972Cover from '../assets/images/books/book-972.jpg';
+import book973Cover from '../assets/images/books/book-973.jpg';
+import book974Cover from '../assets/images/books/book-974.jpg';
+import book975Cover from '../assets/images/books/book-975.jpg';
+import book976Cover from '../assets/images/books/book-976.jpg';
+import book977Cover from '../assets/images/books/book-977.jpg';
+import book978Cover from '../assets/images/books/book-978.jpg';
+import book979Cover from '../assets/images/books/book-979.jpg';
+import book97Cover from '../assets/images/books/book-97.jpg';
+import book980Cover from '../assets/images/books/book-980.jpg';
+import book981Cover from '../assets/images/books/book-981.jpg';
+import book982Cover from '../assets/images/books/book-982.jpg';
+import book983Cover from '../assets/images/books/book-983.jpg';
+import book984Cover from '../assets/images/books/book-984.jpg';
+import book985Cover from '../assets/images/books/book-985.jpg';
+import book986Cover from '../assets/images/books/book-986.jpg';
+import book987Cover from '../assets/images/books/book-987.jpg';
+import book988Cover from '../assets/images/books/book-988.jpg';
+import book989Cover from '../assets/images/books/book-989.jpg';
+import book98Cover from '../assets/images/books/book-98.jpg';
+import book990Cover from '../assets/images/books/book-990.jpg';
+import book991Cover from '../assets/images/books/book-991.jpg';
+import book992Cover from '../assets/images/books/book-992.jpg';
+import book993Cover from '../assets/images/books/book-993.jpg';
+import book994Cover from '../assets/images/books/book-994.jpg';
+import book995Cover from '../assets/images/books/book-995.jpg';
+import book996Cover from '../assets/images/books/book-996.jpg';
+import book997Cover from '../assets/images/books/book-997.jpg';
+import book998Cover from '../assets/images/books/book-998.jpg';
+import book999Cover from '../assets/images/books/book-999.jpg';
+import book99Cover from '../assets/images/books/book-99.jpg';
+import book9Cover from '../assets/images/books/book-9.jpg';
+import books52266Cover from '../assets/images/books/book-s52266.jpg';
 
 export const bookItems = [
-
-  {
+{
     id: 1,
     slug: "没钱修什么仙？",
     title: "没钱修什么仙？",
@@ -1117,8 +1716,7 @@ export const bookItems = [
     downloadUrl: "/books/1_没钱修什么仙？1-987章.txt",
     sourceUrl: "https://www.deqixs.org/1/txt.html#dir",
   },
-
-  {
+{
     id: 2,
     slug: "夜无疆",
     title: "夜无疆",
@@ -1135,8 +1733,7 @@ export const bookItems = [
     downloadUrl: "/books/2_夜无疆1-810章.txt",
     sourceUrl: "https://www.deqixs.org/2/txt.html#dir",
   },
-
-  {
+{
     id: 3,
     slug: "苟在武道世界成圣",
     title: "苟在武道世界成圣",
@@ -1153,8 +1750,7 @@ export const bookItems = [
     downloadUrl: "/books/3_苟在武道世界成圣1-883章.txt",
     sourceUrl: "https://www.deqixs.org/3/txt.html#dir",
   },
-
-  {
+{
     id: 4,
     slug: "都重生了谁考公务员啊",
     title: "都重生了谁考公务员啊",
@@ -1171,8 +1767,7 @@ export const bookItems = [
     downloadUrl: "/books/4_都重生了谁考公务员啊1-887章.txt",
     sourceUrl: "https://www.deqixs.org/4/txt.html#dir",
   },
-
-  {
+{
     id: 5,
     slug: "嗣皇帝",
     title: "嗣皇帝",
@@ -1189,8 +1784,7 @@ export const bookItems = [
     downloadUrl: "/books/5_嗣皇帝1-999章.txt",
     sourceUrl: "https://www.deqixs.org/5/txt.html#dir",
   },
-
-  {
+{
     id: 6,
     slug: "神明调查报告",
     title: "神明调查报告",
@@ -1207,8 +1801,7 @@ export const bookItems = [
     downloadUrl: "/books/6_神明调查报告1-428章.txt",
     sourceUrl: "https://www.deqixs.org/6/txt.html#dir",
   },
-
-  {
+{
     id: 7,
     slug: "吞噬星空2起源大陆",
     title: "吞噬星空2起源大陆",
@@ -1225,8 +1818,7 @@ export const bookItems = [
     downloadUrl: "/books/7_吞噬星空2起源大陆1-452章.txt",
     sourceUrl: "https://www.deqixs.org/7/txt.html#dir",
   },
-
-  {
+{
     id: 8,
     slug: "苟在初圣魔门当人材",
     title: "苟在初圣魔门当人材",
@@ -1243,8 +1835,7 @@ export const bookItems = [
     downloadUrl: "/books/8_苟在初圣魔门当人材1-1444章.txt",
     sourceUrl: "https://www.deqixs.org/8/txt.html#dir",
   },
-
-  {
+{
     id: 9,
     slug: "我在惊悚游戏里封神",
     title: "我在惊悚游戏里封神",
@@ -1261,8 +1852,7 @@ export const bookItems = [
     downloadUrl: "/books/9_我在惊悚游戏里封神1-589章.txt",
     sourceUrl: "https://www.deqixs.org/9/txt.html#dir",
   },
-
-  {
+{
     id: 10,
     slug: "从斩妖除魔开始长生不死",
     title: "从斩妖除魔开始长生不死",
@@ -1279,8 +1869,7 @@ export const bookItems = [
     downloadUrl: "/books/10_从斩妖除魔开始长生不死1-838章.txt",
     sourceUrl: "https://www.deqixs.org/10/txt.html#dir",
   },
-
-  {
+{
     id: 11,
     slug: "谁让他修仙的",
     title: "谁让他修仙的！",
@@ -1297,8 +1886,7 @@ export const bookItems = [
     downloadUrl: "/books/11_谁让他修仙的！1-1364章.txt",
     sourceUrl: "https://www.deqixs.org/11/txt.html#dir",
   },
-
-  {
+{
     id: 12,
     slug: "玄鉴仙族",
     title: "玄鉴仙族",
@@ -1315,8 +1903,7 @@ export const bookItems = [
     downloadUrl: "/books/12_玄鉴仙族1-1559章.txt",
     sourceUrl: "https://www.deqixs.org/12/txt.html#dir",
   },
-
-  {
+{
     id: 13,
     slug: "从水猴子开始成神",
     title: "从水猴子开始成神",
@@ -1333,8 +1920,7 @@ export const bookItems = [
     downloadUrl: "/books/13_从水猴子开始成神1-1482章.txt",
     sourceUrl: "https://www.deqixs.org/13/txt.html#dir",
   },
-
-  {
+{
     id: 14,
     slug: "青山",
     title: "青山",
@@ -1350,8 +1936,7 @@ export const bookItems = [
     downloadUrl: "/books/14_青山1-797章.txt",
     sourceUrl: "https://www.deqixs.org/14/txt.html#dir",
   },
-
-  {
+{
     id: 15,
     slug: "神的模仿犯",
     title: "神的模仿犯",
@@ -1368,8 +1953,7 @@ export const bookItems = [
     downloadUrl: "/books/15_神的模仿犯1-840章.txt",
     sourceUrl: "https://www.deqixs.org/15/txt.html#dir",
   },
-
-  {
+{
     id: 16,
     slug: "我的化身正在成为最终boss",
     title: "我的化身正在成为最终BOSS",
@@ -1386,8 +1970,7 @@ export const bookItems = [
     downloadUrl: "/books/16_我的化身正在成为最终BOSS1-422章.txt",
     sourceUrl: "https://www.deqixs.org/16/txt.html#dir",
   },
-
-  {
+{
     id: 17,
     slug: "元始法则",
     title: "元始法则",
@@ -1403,8 +1986,7 @@ export const bookItems = [
     downloadUrl: "/books/17_元始法则1-1271章.txt",
     sourceUrl: "https://www.deqixs.org/17/txt.html#dir",
   },
-
-  {
+{
     id: 18,
     slug: "冬日重现",
     title: "冬日重现",
@@ -1421,8 +2003,7 @@ export const bookItems = [
     downloadUrl: "/books/18_冬日重现1-500章.txt",
     sourceUrl: "https://www.deqixs.org/18/txt.html#dir",
   },
-
-  {
+{
     id: 19,
     slug: "普罗之主",
     title: "普罗之主",
@@ -1439,8 +2020,7 @@ export const bookItems = [
     downloadUrl: "/books/19_普罗之主1-861章.txt",
     sourceUrl: "https://www.deqixs.org/19/txt.html#dir",
   },
-
-  {
+{
     id: 20,
     slug: "道诡异仙",
     title: "道诡异仙",
@@ -1457,8 +2037,7 @@ export const bookItems = [
     downloadUrl: "/books/20_道诡异仙1-1042章.txt",
     sourceUrl: "https://www.deqixs.org/20/txt.html#dir",
   },
-
-  {
+{
     id: 21,
     slug: "高武纪元",
     title: "高武纪元",
@@ -1475,8 +2054,7 @@ export const bookItems = [
     downloadUrl: "/books/21_高武纪元1-842章.txt",
     sourceUrl: "https://www.deqixs.org/21/txt.html#dir",
   },
-
-  {
+{
     id: 22,
     slug: "故障乌托邦",
     title: "故障乌托邦",
@@ -1493,8 +2071,7 @@ export const bookItems = [
     downloadUrl: "/books/22_故障乌托邦1-650章.txt",
     sourceUrl: "https://www.deqixs.org/22/txt.html#dir",
   },
-
-  {
+{
     id: 23,
     slug: "苟在妖武乱世修仙",
     title: "苟在妖武乱世修仙",
@@ -1511,8 +2088,7 @@ export const bookItems = [
     downloadUrl: "/books/23_苟在妖武乱世修仙1-1102章.txt",
     sourceUrl: "https://www.deqixs.org/23/txt.html#dir",
   },
-
-  {
+{
     id: 24,
     slug: "苟在两界修仙",
     title: "苟在两界修仙",
@@ -1529,8 +2105,7 @@ export const bookItems = [
     downloadUrl: "/books/24_苟在两界修仙1-714章.txt",
     sourceUrl: "https://www.deqixs.org/24/txt.html#dir",
   },
-
-  {
+{
     id: 25,
     slug: "永噩长夜",
     title: "永噩长夜",
@@ -1547,8 +2122,7 @@ export const bookItems = [
     downloadUrl: "/books/25_永噩长夜1-1207章.txt",
     sourceUrl: "https://www.deqixs.org/25/txt.html#dir",
   },
-
-  {
+{
     id: 26,
     slug: "苟圣！",
     title: "苟圣！",
@@ -1565,8 +2139,7 @@ export const bookItems = [
     downloadUrl: "/books/26_苟圣！1-533章.txt",
     sourceUrl: "https://www.deqixs.org/26/txt.html#dir",
   },
-
-  {
+{
     id: 27,
     slug: "浊世武尊",
     title: "浊世武尊",
@@ -1583,8 +2156,7 @@ export const bookItems = [
     downloadUrl: "/books/27_浊世武尊1-505章.txt",
     sourceUrl: "https://www.deqixs.org/27/txt.html#dir",
   },
-
-  {
+{
     id: 28,
     slug: "废土边境检查官",
     title: "废土边境检查官",
@@ -1601,8 +2173,7 @@ export const bookItems = [
     downloadUrl: "/books/28_废土边境检查官1-1700章.txt",
     sourceUrl: "https://www.deqixs.org/28/txt.html#dir",
   },
-
-  {
+{
     id: 29,
     slug: "Z世代艺术家",
     title: "Z世代艺术家",
@@ -1619,8 +2190,7 @@ export const bookItems = [
     downloadUrl: "/books/29_Z世代艺术家1-557章.txt",
     sourceUrl: "https://www.deqixs.org/29/txt.html#dir",
   },
-
-  {
+{
     id: 30,
     slug: "以神通之名",
     title: "以神通之名",
@@ -1637,8 +2207,7 @@ export const bookItems = [
     downloadUrl: "/books/30_以神通之名1-16711章.txt",
     sourceUrl: "https://www.deqixs.org/30/txt.html#dir",
   },
-
-  {
+{
     id: 31,
     slug: "刚准备高考，离婚逆袭系统来了",
     title: "刚准备高考，离婚逆袭系统来了",
@@ -1655,8 +2224,7 @@ export const bookItems = [
     downloadUrl: "/books/31_刚准备高考，离婚逆袭系统来了1-970章.txt",
     sourceUrl: "https://www.deqixs.org/31/txt.html#dir",
   },
-
-  {
+{
     id: 32,
     slug: "都重生了谁谈恋爱啊",
     title: "都重生了谁谈恋爱啊",
@@ -1673,8 +2241,7 @@ export const bookItems = [
     downloadUrl: "/books/32_都重生了谁谈恋爱啊1-766章.txt",
     sourceUrl: "https://www.deqixs.org/32/txt.html#dir",
   },
-
-  {
+{
     id: 33,
     slug: "择日走红",
     title: "择日走红",
@@ -1691,8 +2258,7 @@ export const bookItems = [
     downloadUrl: "/books/33_择日走红1-1006章.txt",
     sourceUrl: "https://www.deqixs.org/33/txt.html#dir",
   },
-
-  {
+{
     id: 34,
     slug: "离婚后，我能听到未来的声音",
     title: "离婚后，我能听到未来的声音",
@@ -1709,8 +2275,7 @@ export const bookItems = [
     downloadUrl: "/books/34_离婚后，我能听到未来的声音1-958章.txt",
     sourceUrl: "https://www.deqixs.org/34/txt.html#dir",
   },
-
-  {
+{
     id: 35,
     slug: "国民法医",
     title: "国民法医",
@@ -1727,8 +2292,7 @@ export const bookItems = [
     downloadUrl: "/books/35_国民法医1-1356章.txt",
     sourceUrl: "https://www.deqixs.org/35/txt.html#dir",
   },
-
-  {
+{
     id: 36,
     slug: "捞尸人",
     title: "捞尸人",
@@ -1745,8 +2309,7 @@ export const bookItems = [
     downloadUrl: "/books/36_捞尸人1-696章.txt",
     sourceUrl: "https://www.deqixs.org/36/txt.html#dir",
   },
-
-  {
+{
     id: 37,
     slug: "踩着魔门妖女成为最强",
     title: "踩着魔门妖女成为最强",
@@ -1763,8 +2326,7 @@ export const bookItems = [
     downloadUrl: "/books/37_踩着魔门妖女成为最强1-859章.txt",
     sourceUrl: "https://www.deqixs.org/37/txt.html#dir",
   },
-
-  {
+{
     id: 38,
     slug: "状元郎",
     title: "状元郎",
@@ -1780,8 +2342,7 @@ export const bookItems = [
     downloadUrl: "/books/38_状元郎1-902章.txt",
     sourceUrl: "https://www.deqixs.org/38/txt.html#dir",
   },
-
-  {
+{
     id: 39,
     slug: "大宋文豪",
     title: "大宋文豪",
@@ -1798,8 +2359,7 @@ export const bookItems = [
     downloadUrl: "/books/39_大宋文豪1-691章.txt",
     sourceUrl: "https://www.deqixs.org/39/txt.html#dir",
   },
-
-  {
+{
     id: 40,
     slug: "红楼芳华，权倾天下",
     title: "红楼芳华，权倾天下",
@@ -1816,8 +2376,7 @@ export const bookItems = [
     downloadUrl: "/books/40_红楼芳华，权倾天下1-598章.txt",
     sourceUrl: "https://www.deqixs.org/40/txt.html#dir",
   },
-
-  {
+{
     id: 41,
     slug: "草芥称王",
     title: "草芥称王",
@@ -1834,8 +2393,7 @@ export const bookItems = [
     downloadUrl: "/books/41_草芥称王1-522章.txt",
     sourceUrl: "https://www.deqixs.org/41/txt.html#dir",
   },
-
-  {
+{
     id: 42,
     slug: "创业在晚唐",
     title: "创业在晚唐",
@@ -1851,8 +2409,7 @@ export const bookItems = [
     downloadUrl: "/books/42_创业在晚唐1-851章.txt",
     sourceUrl: "https://www.deqixs.org/42/txt.html#dir",
   },
-
-  {
+{
     id: 43,
     slug: "光阴之外",
     title: "光阴之外",
@@ -1869,8 +2426,7 @@ export const bookItems = [
     downloadUrl: "/books/43_光阴之外1-1359章.txt",
     sourceUrl: "https://www.deqixs.org/43/txt.html#dir",
   },
-
-  {
+{
     id: 44,
     slug: "我有一个修仙世界",
     title: "我有一个修仙世界",
@@ -1886,8 +2442,7 @@ export const bookItems = [
     downloadUrl: "/books/44_我有一个修仙世界1-1500章.txt",
     sourceUrl: "https://www.deqixs.org/44/txt.html#dir",
   },
-
-  {
+{
     id: 45,
     slug: "从箭术开始修行",
     title: "从箭术开始修行",
@@ -1904,8 +2459,7 @@ export const bookItems = [
     downloadUrl: "/books/45_从箭术开始修行1-573章.txt",
     sourceUrl: "https://www.deqixs.org/45/txt.html#dir",
   },
-
-  {
+{
     id: 46,
     slug: "我的模拟长生路",
     title: "我的模拟长生路",
@@ -1922,8 +2476,7 @@ export const bookItems = [
     downloadUrl: "/books/46_我的模拟长生路1-1782章.txt",
     sourceUrl: "https://www.deqixs.org/46/txt.html#dir",
   },
-
-  {
+{
     id: 47,
     slug: "我真没想重生啊",
     title: "我真没想重生啊",
@@ -1940,8 +2493,7 @@ export const bookItems = [
     downloadUrl: "/books/47_我真没想重生啊1-1075章.txt",
     sourceUrl: "https://www.deqixs.org/47/txt.html#dir",
   },
-
-  {
+{
     id: 48,
     slug: "神探陈益",
     title: "神探陈益",
@@ -1958,8 +2510,7 @@ export const bookItems = [
     downloadUrl: "/books/48_神探陈益1-808章.txt",
     sourceUrl: "https://www.deqixs.org/48/txt.html#dir",
   },
-
-  {
+{
     id: 49,
     slug: "重启人生",
     title: "重启人生",
@@ -1976,8 +2527,7 @@ export const bookItems = [
     downloadUrl: "/books/49_重启人生1-610章.txt",
     sourceUrl: "https://www.deqixs.org/49/txt.html#dir",
   },
-
-  {
+{
     id: 50,
     slug: "三国-夫人-我乃正经人家",
     title: "三国：夫人，我乃正经人家",
@@ -1994,8 +2544,7 @@ export const bookItems = [
     downloadUrl: "/books/50_三国：夫人，我乃正经人家1-816章.txt",
     sourceUrl: "https://www.deqixs.org/50/txt.html#dir",
   },
-
-  {
+{
     id: 51,
     slug: "晋末长剑",
     title: "晋末长剑",
@@ -2012,8 +2561,7 @@ export const bookItems = [
     downloadUrl: "/books/51_晋末长剑1-1516章.txt",
     sourceUrl: "https://www.deqixs.org/51/txt.html#dir",
   },
-
-  {
+{
     id: 52,
     slug: "红楼之挽天倾",
     title: "红楼之挽天倾",
@@ -2030,8 +2578,7 @@ export const bookItems = [
     downloadUrl: "/books/52_红楼之挽天倾1-1726章.txt",
     sourceUrl: "https://www.deqixs.org/52/txt.html#dir",
   },
-
-  {
+{
     id: 53,
     slug: "明朝败家子",
     title: "明朝败家子",
@@ -2047,8 +2594,7 @@ export const bookItems = [
     downloadUrl: "/books/53_明朝败家子1-0章.txt",
     sourceUrl: "https://www.deqixs.org/53/txt.html#dir",
   },
-
-  {
+{
     id: 54,
     slug: "家父汉高祖",
     title: "家父汉高祖",
@@ -2065,8 +2611,7 @@ export const bookItems = [
     downloadUrl: "/books/54_家父汉高祖1-913章.txt",
     sourceUrl: "https://www.deqixs.org/54/txt.html#dir",
   },
-
-  {
+{
     id: 55,
     slug: "终宋",
     title: "终宋",
@@ -2083,8 +2628,7 @@ export const bookItems = [
     downloadUrl: "/books/55_终宋1-1369章.txt",
     sourceUrl: "https://www.deqixs.org/55/txt.html#dir",
   },
-
-  {
+{
     id: 56,
     slug: "炮火弧线",
     title: "炮火弧线",
@@ -2100,8 +2644,7 @@ export const bookItems = [
     downloadUrl: "/books/56_炮火弧线1-788章.txt",
     sourceUrl: "https://www.deqixs.org/56/txt.html#dir",
   },
-
-  {
+{
     id: 57,
     slug: "我的谍战岁月",
     title: "我的谍战岁月",
@@ -2117,8 +2660,7 @@ export const bookItems = [
     downloadUrl: "/books/57_我的谍战岁月1-2106章.txt",
     sourceUrl: "https://www.deqixs.org/57/txt.html#dir",
   },
-
-  {
+{
     id: 58,
     slug: "谍影：命令与征服",
     title: "谍影：命令与征服",
@@ -2135,8 +2677,7 @@ export const bookItems = [
     downloadUrl: "/books/58_谍影：命令与征服1-2074章.txt",
     sourceUrl: "https://www.deqixs.org/58/txt.html#dir",
   },
-
-  {
+{
     id: 59,
     slug: "谍海猎影",
     title: "谍海猎影",
@@ -2152,8 +2693,7 @@ export const bookItems = [
     downloadUrl: "/books/59_谍海猎影1-1407章.txt",
     sourceUrl: "https://www.deqixs.org/59/txt.html#dir",
   },
-
-  {
+{
     id: 60,
     slug: "佣兵我为王",
     title: "佣兵我为王",
@@ -2170,8 +2710,7 @@ export const bookItems = [
     downloadUrl: "/books/60_佣兵我为王1-1850章.txt",
     sourceUrl: "https://www.deqixs.org/60/txt.html#dir",
   },
-
-  {
+{
     id: 61,
     slug: "谍影风云",
     title: "谍影风云",
@@ -2188,8 +2727,7 @@ export const bookItems = [
     downloadUrl: "/books/61_谍影风云1-1222章.txt",
     sourceUrl: "https://www.deqixs.org/61/txt.html#dir",
   },
-
-  {
+{
     id: 62,
     slug: "谁教你这么当兵的！",
     title: "谁教你这么当兵的！",
@@ -2206,8 +2744,7 @@ export const bookItems = [
     downloadUrl: "/books/62_谁教你这么当兵的！1-729章.txt",
     sourceUrl: "https://www.deqixs.org/62/txt.html#dir",
   },
-
-  {
+{
     id: 63,
     slug: "横推亮剑",
     title: "横推亮剑",
@@ -2224,8 +2761,7 @@ export const bookItems = [
     downloadUrl: "/books/63_横推亮剑1-1163章.txt",
     sourceUrl: "https://www.deqixs.org/63/txt.html#dir",
   },
-
-  {
+{
     id: 64,
     slug: "谍战-都别猜了-我真是卧底啊",
     title: "谍战，都别猜了，我真是卧底啊",
@@ -2242,8 +2778,7 @@ export const bookItems = [
     downloadUrl: "/books/64_谍战，都别猜了，我真是卧底啊1-353章.txt",
     sourceUrl: "https://www.deqixs.org/64/txt.html#dir",
   },
-
-  {
+{
     id: 65,
     slug: "谍战：我能扫描万物信息",
     title: "谍战：我能扫描万物信息",
@@ -2260,8 +2795,7 @@ export const bookItems = [
     downloadUrl: "/books/65_谍战：我能扫描万物信息1-712章.txt",
     sourceUrl: "https://www.deqixs.org/65/txt.html#dir",
   },
-
-  {
+{
     id: 66,
     slug: "堑壕大栓与魔法",
     title: "堑壕大栓与魔法",
@@ -2278,8 +2812,7 @@ export const bookItems = [
     downloadUrl: "/books/66_堑壕大栓与魔法1-596章.txt",
     sourceUrl: "https://www.deqixs.org/66/txt.html#dir",
   },
-
-  {
+{
     id: 67,
     slug: "四十九条末世规则",
     title: "四十九条末世规则",
@@ -2296,8 +2829,7 @@ export const bookItems = [
     downloadUrl: "/books/67_四十九条末世规则1-707章.txt",
     sourceUrl: "https://www.deqixs.org/67/txt.html#dir",
   },
-
-  {
+{
     id: 68,
     slug: "第一序列",
     title: "第一序列",
@@ -2313,8 +2845,7 @@ export const bookItems = [
     downloadUrl: "/books/68_第一序列1-1260章.txt",
     sourceUrl: "https://www.deqixs.org/68/txt.html#dir",
   },
-
-  {
+{
     id: 69,
     slug: "异度旅社",
     title: "异度旅社",
@@ -2331,8 +2862,7 @@ export const bookItems = [
     downloadUrl: "/books/69_异度旅社1-889章.txt",
     sourceUrl: "https://www.deqixs.org/69/txt.html#dir",
   },
-
-  {
+{
     id: 70,
     slug: "灵境行者",
     title: "灵境行者",
@@ -2349,8 +2879,7 @@ export const bookItems = [
     downloadUrl: "/books/70_灵境行者1-1020章.txt",
     sourceUrl: "https://www.deqixs.org/70/txt.html#dir",
   },
-
-  {
+{
     id: 71,
     slug: "超人灭绝指南",
     title: "超人灭绝指南",
@@ -2367,8 +2896,7 @@ export const bookItems = [
     downloadUrl: "/books/71_超人灭绝指南1-223章.txt",
     sourceUrl: "https://www.deqixs.org/71/txt.html#dir",
   },
-
-  {
+{
     id: 72,
     slug: "吞噬星空",
     title: "吞噬星空",
@@ -2384,8 +2912,7 @@ export const bookItems = [
     downloadUrl: "/books/72_吞噬星空1-1522章.txt",
     sourceUrl: "https://www.deqixs.org/72/txt.html#dir",
   },
-
-  {
+{
     id: 73,
     slug: "黎明之剑",
     title: "黎明之剑",
@@ -2402,8 +2929,7 @@ export const bookItems = [
     downloadUrl: "/books/73_黎明之剑1-1597章.txt",
     sourceUrl: "https://www.deqixs.org/73/txt.html#dir",
   },
-
-  {
+{
     id: 74,
     slug: "黄昏分界",
     title: "黄昏分界",
@@ -2420,8 +2946,7 @@ export const bookItems = [
     downloadUrl: "/books/74_黄昏分界1-871章.txt",
     sourceUrl: "https://www.deqixs.org/74/txt.html#dir",
   },
-
-  {
+{
     id: 75,
     slug: "学霸的军工科研系统",
     title: "学霸的军工科研系统",
@@ -2438,8 +2963,7 @@ export const bookItems = [
     downloadUrl: "/books/75_学霸的军工科研系统1-1708章.txt",
     sourceUrl: "https://www.deqixs.org/75/txt.html#dir",
   },
-
-  {
+{
     id: 76,
     slug: "百世飞升",
     title: "百世飞升",
@@ -2456,8 +2980,7 @@ export const bookItems = [
     downloadUrl: "/books/76_百世飞升1-963章.txt",
     sourceUrl: "https://www.deqixs.org/76/txt.html#dir",
   },
-
-  {
+{
     id: 77,
     slug: "恭喜发财",
     title: "恭喜发财",
@@ -2474,8 +2997,7 @@ export const bookItems = [
     downloadUrl: "/books/77_恭喜发财1-45章.txt",
     sourceUrl: "https://www.deqixs.org/77/txt.html#dir",
   },
-
-  {
+{
     id: 78,
     slug: "窈窕贵女-疯犬好逑",
     title: "窈窕贵女，疯犬好逑",
@@ -2492,8 +3014,7 @@ export const bookItems = [
     downloadUrl: "/books/78_窈窕贵女，疯犬好逑1-87章.txt",
     sourceUrl: "https://www.deqixs.org/78/txt.html#dir",
   },
-
-  {
+{
     id: 79,
     slug: "剑走偏锋的大明",
     title: "剑走偏锋的大明",
@@ -2509,8 +3030,7 @@ export const bookItems = [
     downloadUrl: "/books/79_剑走偏锋的大明1-1126章.txt",
     sourceUrl: "https://www.deqixs.org/79/txt.html#dir",
   },
-
-  {
+{
     id: 80,
     slug: "圣女来时不纳粮",
     title: "圣女来时不纳粮",
@@ -2527,8 +3047,7 @@ export const bookItems = [
     downloadUrl: "/books/80_圣女来时不纳粮1-1372章.txt",
     sourceUrl: "https://www.deqixs.org/80/txt.html#dir",
   },
-
-  {
+{
     id: 81,
     slug: "攻略咸鱼的错误方式",
     title: "攻略咸鱼的错误方式",
@@ -2545,8 +3064,7 @@ export const bookItems = [
     downloadUrl: "/books/81_攻略咸鱼的错误方式1-79章.txt",
     sourceUrl: "https://www.deqixs.org/81/txt.html#dir",
   },
-
-  {
+{
     id: 82,
     slug: "哥你不许打我老公！！",
     title: "哥你不许打我老公！！",
@@ -2563,8 +3081,7 @@ export const bookItems = [
     downloadUrl: "/books/82_哥你不许打我老公！！1-409章.txt",
     sourceUrl: "https://www.deqixs.org/82/txt.html#dir",
   },
-
-  {
+{
     id: 83,
     slug: "理想之城",
     title: "理想之城",
@@ -2581,8 +3098,7 @@ export const bookItems = [
     downloadUrl: "/books/83_理想之城1-132章.txt",
     sourceUrl: "https://www.deqixs.org/83/txt.html#dir",
   },
-
-  {
+{
     id: 84,
     slug: "卷崽穿到反派幼年期[快穿]",
     title: "卷崽穿到反派幼年期[快穿]",
@@ -2599,8 +3115,7 @@ export const bookItems = [
     downloadUrl: "/books/84_卷崽穿到反派幼年期[快穿]1-269章.txt",
     sourceUrl: "https://www.deqixs.org/84/txt.html#dir",
   },
-
-  {
+{
     id: 85,
     slug: "我，枪神！",
     title: "我，枪神！",
@@ -2617,8 +3132,7 @@ export const bookItems = [
     downloadUrl: "/books/85_我，枪神！1-527章.txt",
     sourceUrl: "https://www.deqixs.org/85/txt.html#dir",
   },
-
-  {
+{
     id: 86,
     slug: "情天娃娃气象电台",
     title: "情天娃娃气象电台",
@@ -2635,8 +3149,7 @@ export const bookItems = [
     downloadUrl: "/books/86_情天娃娃气象电台1-90章.txt",
     sourceUrl: "https://www.deqixs.org/86/txt.html#dir",
   },
-
-  {
+{
     id: 87,
     slug: "直男卖腐天打雷劈",
     title: "直男卖腐天打雷劈",
@@ -2653,8 +3166,7 @@ export const bookItems = [
     downloadUrl: "/books/87_直男卖腐天打雷劈1-191章.txt",
     sourceUrl: "https://www.deqixs.org/87/txt.html#dir",
   },
-
-  {
+{
     id: 88,
     slug: "再婚abo",
     title: "再婚abo",
@@ -2671,8 +3183,7 @@ export const bookItems = [
     downloadUrl: "/books/88_再婚abo1-84章.txt",
     sourceUrl: "https://www.deqixs.org/88/txt.html#dir",
   },
-
-  {
+{
     id: 89,
     slug: "剑烛大荒",
     title: "剑烛大荒",
@@ -2688,8 +3199,7 @@ export const bookItems = [
     downloadUrl: "/books/89_剑烛大荒1-0章.txt",
     sourceUrl: "https://www.deqixs.org/89/txt.html#dir",
   },
-
-  {
+{
     id: 90,
     slug: "星河之主",
     title: "星河之主",
@@ -2706,8 +3216,7 @@ export const bookItems = [
     downloadUrl: "/books/90_星河之主1-387章.txt",
     sourceUrl: "https://www.deqixs.org/90/txt.html#dir",
   },
-
-  {
+{
     id: 91,
     slug: "我正经学生-每天只吃九种魔药",
     title: "我正经学生，每天只吃九种魔药",
@@ -2724,8 +3233,7 @@ export const bookItems = [
     downloadUrl: "/books/91_我正经学生，每天只吃九种魔药1-303章.txt",
     sourceUrl: "https://www.deqixs.org/91/txt.html#dir",
   },
-
-  {
+{
     id: 92,
     slug: "廓晋",
     title: "廓晋",
@@ -2742,8 +3250,7 @@ export const bookItems = [
     downloadUrl: "/books/92_廓晋1-2章.txt",
     sourceUrl: "https://www.deqixs.org/92/txt.html#dir",
   },
-
-  {
+{
     id: 93,
     slug: "谁让他当假面骑士的",
     title: "谁让他当假面骑士的！",
@@ -2760,8 +3267,7 @@ export const bookItems = [
     downloadUrl: "/books/93_谁让他当假面骑士的！1-324章.txt",
     sourceUrl: "https://www.deqixs.org/93/txt.html#dir",
   },
-
-  {
+{
     id: 94,
     slug: "我加载了神秘学面板",
     title: "我加载了神秘学面板",
@@ -2778,8 +3284,7 @@ export const bookItems = [
     downloadUrl: "/books/94_我加载了神秘学面板1-507章.txt",
     sourceUrl: "https://www.deqixs.org/94/txt.html#dir",
   },
-
-  {
+{
     id: 95,
     slug: "真实历史游戏-只有我知道剧情",
     title: "真实历史游戏：只有我知道剧情",
@@ -2796,8 +3301,7 @@ export const bookItems = [
     downloadUrl: "/books/95_真实历史游戏：只有我知道剧情1-448章.txt",
     sourceUrl: "https://www.deqixs.org/95/txt.html#dir",
   },
-
-  {
+{
     id: 96,
     slug: "让仙门再次伟大",
     title: "让仙门再次伟大",
@@ -2814,8 +3318,7 @@ export const bookItems = [
     downloadUrl: "/books/96_让仙门再次伟大1-8262章.txt",
     sourceUrl: "https://www.deqixs.org/96/txt.html#dir",
   },
-
-  {
+{
     id: 97,
     slug: "1984：从破产川菜馆开始",
     title: "1984：从破产川菜馆开始",
@@ -2832,8 +3335,7 @@ export const bookItems = [
     downloadUrl: "/books/97_1984：从破产川菜馆开始1-18699章.txt",
     sourceUrl: "https://www.deqixs.org/97/txt.html#dir",
   },
-
-  {
+{
     id: 98,
     slug: "我在永夜打造庇护所",
     title: "我在永夜打造庇护所",
@@ -2850,8 +3352,7 @@ export const bookItems = [
     downloadUrl: "/books/98_我在永夜打造庇护所1-411章.txt",
     sourceUrl: "https://www.deqixs.org/98/txt.html#dir",
   },
-
-  {
+{
     id: 99,
     slug: "这个武圣太谨慎了无删减",
     title: "这个武圣太谨慎了无删减",
@@ -2868,8 +3369,7 @@ export const bookItems = [
     downloadUrl: "/books/99_这个武圣太谨慎了无删减1-265章.txt",
     sourceUrl: "https://www.deqixs.org/99/txt.html#dir",
   },
-
-  {
+{
     id: 100,
     slug: "这个武圣太谨慎了",
     title: "这个武圣太谨慎了",
@@ -2886,8 +3386,7 @@ export const bookItems = [
     downloadUrl: "/books/100_这个武圣太谨慎了1-322章.txt",
     sourceUrl: "https://www.deqixs.org/100/txt.html#dir",
   },
-
-  {
+{
     id: 101,
     slug: "我的学习群里全是真大佬",
     title: "我的学习群里全是真大佬",
@@ -2904,8 +3403,7 @@ export const bookItems = [
     downloadUrl: "/books/101_我的学习群里全是真大佬1-595章.txt",
     sourceUrl: "https://www.deqixs.org/101/txt.html#dir",
   },
-
-  {
+{
     id: 102,
     slug: "姐姐-我也要一起当女仆吗",
     title: "姐姐，我也要一起当女仆吗？",
@@ -2922,8 +3420,7 @@ export const bookItems = [
     downloadUrl: "/books/102_姐姐，我也要一起当女仆吗？1-304章.txt",
     sourceUrl: "https://www.deqixs.org/102/txt.html#dir",
   },
-
-  {
+{
     id: 103,
     slug: "人在美利坚-我的叔叔堂吉诃德",
     title: "人在美利坚：我的叔叔堂吉诃德",
@@ -2940,8 +3437,7 @@ export const bookItems = [
     downloadUrl: "/books/103_人在美利坚：我的叔叔堂吉诃德1-471章.txt",
     sourceUrl: "https://www.deqixs.org/103/txt.html#dir",
   },
-
-  {
+{
     id: 104,
     slug: "北望江山",
     title: "北望江山",
@@ -2958,8 +3454,7 @@ export const bookItems = [
     downloadUrl: "/books/104_北望江山1-131章.txt",
     sourceUrl: "https://www.deqixs.org/104/txt.html#dir",
   },
-
-  {
+{
     id: 105,
     slug: "夺嫡在嘉靖朝",
     title: "夺嫡在嘉靖朝",
@@ -2976,8 +3471,7 @@ export const bookItems = [
     downloadUrl: "/books/105_夺嫡在嘉靖朝1-126章.txt",
     sourceUrl: "https://www.deqixs.org/105/txt.html#dir",
   },
-
-  {
+{
     id: 106,
     slug: "同时穿越-继承万界遗产",
     title: "同时穿越：继承万界遗产",
@@ -2994,8 +3488,7 @@ export const bookItems = [
     downloadUrl: "/books/106_同时穿越：继承万界遗产1-814章.txt",
     sourceUrl: "https://www.deqixs.org/106/txt.html#dir",
   },
-
-  {
+{
     id: 107,
     slug: "清光宝鉴",
     title: "清光宝鉴",
@@ -3012,8 +3505,7 @@ export const bookItems = [
     downloadUrl: "/books/107_清光宝鉴1-103章.txt",
     sourceUrl: "https://www.deqixs.org/107/txt.html#dir",
   },
-
-  {
+{
     id: 108,
     slug: "万生痴魔",
     title: "万生痴魔",
@@ -3030,8 +3522,7 @@ export const bookItems = [
     downloadUrl: "/books/108_万生痴魔1-367章.txt",
     sourceUrl: "https://www.deqixs.org/108/txt.html#dir",
   },
-
-  {
+{
     id: 109,
     slug: "律师-从合法报复出轨开始",
     title: "律师：从合法报复出轨开始！",
@@ -3048,8 +3539,7 @@ export const bookItems = [
     downloadUrl: "/books/109_律师：从合法报复出轨开始！1-330章.txt",
     sourceUrl: "https://www.deqixs.org/109/txt.html#dir",
   },
-
-  {
+{
     id: 110,
     slug: "鬼灭-我的呼吸法能加点",
     title: "鬼灭：我的呼吸法能加点",
@@ -3066,8 +3556,7 @@ export const bookItems = [
     downloadUrl: "/books/110_鬼灭：我的呼吸法能加点1-554章.txt",
     sourceUrl: "https://www.deqixs.org/110/txt.html#dir",
   },
-
-  {
+{
     id: 111,
     slug: "戾天子",
     title: "戾天子",
@@ -3084,8 +3573,7 @@ export const bookItems = [
     downloadUrl: "/books/111_戾天子1-948章.txt",
     sourceUrl: "https://www.deqixs.org/111/txt.html#dir",
   },
-
-  {
+{
     id: 112,
     slug: "谁说我不是正经冒险者",
     title: "谁说我不是正经冒险者",
@@ -3102,8 +3590,7 @@ export const bookItems = [
     downloadUrl: "/books/112_谁说我不是正经冒险者1-595章.txt",
     sourceUrl: "https://www.deqixs.org/112/txt.html#dir",
   },
-
-  {
+{
     id: 113,
     slug: "东京-崇华的我竟成了日娱之王",
     title: "东京：崇华的我竟成了日娱之王",
@@ -3120,8 +3607,7 @@ export const bookItems = [
     downloadUrl: "/books/113_东京：崇华的我竟成了日娱之王1-308章.txt",
     sourceUrl: "https://www.deqixs.org/113/txt.html#dir",
   },
-
-  {
+{
     id: 114,
     slug: "魔王大人深不可测",
     title: "魔王大人深不可测",
@@ -3138,8 +3624,7 @@ export const bookItems = [
     downloadUrl: "/books/114_魔王大人深不可测1-750章.txt",
     sourceUrl: "https://www.deqixs.org/114/txt.html#dir",
   },
-
-  {
+{
     id: 115,
     slug: "我的魔法没有上限",
     title: "我的魔法没有上限！",
@@ -3156,8 +3641,7 @@ export const bookItems = [
     downloadUrl: "/books/115_我的魔法没有上限！1-501章.txt",
     sourceUrl: "https://www.deqixs.org/115/txt.html#dir",
   },
-
-  {
+{
     id: 116,
     slug: "临圣",
     title: "临圣",
@@ -3174,8 +3658,7 @@ export const bookItems = [
     downloadUrl: "/books/116_临圣1-0章.txt",
     sourceUrl: "https://www.deqixs.org/116/txt.html#dir",
   },
-
-  {
+{
     id: 117,
     slug: "腐朽世界",
     title: "腐朽世界",
@@ -3191,8 +3674,7 @@ export const bookItems = [
     downloadUrl: "/books/117_腐朽世界1-608章.txt",
     sourceUrl: "https://www.deqixs.org/117/txt.html#dir",
   },
-
-  {
+{
     id: 118,
     slug: "白衣卿相",
     title: "白衣卿相",
@@ -3209,8 +3691,7 @@ export const bookItems = [
     downloadUrl: "/books/118_白衣卿相1-181章.txt",
     sourceUrl: "https://www.deqixs.org/118/txt.html#dir",
   },
-
-  {
+{
     id: 119,
     slug: "我能活化技能",
     title: "我能活化技能",
@@ -3227,8 +3708,7 @@ export const bookItems = [
     downloadUrl: "/books/119_我能活化技能1-44章.txt",
     sourceUrl: "https://www.deqixs.org/119/txt.html#dir",
   },
-
-  {
+{
     id: 120,
     slug: "仙道尽头",
     title: "仙道尽头",
@@ -3245,8 +3725,7 @@ export const bookItems = [
     downloadUrl: "/books/120_仙道尽头1-518章.txt",
     sourceUrl: "https://www.deqixs.org/120/txt.html#dir",
   },
-
-  {
+{
     id: 121,
     slug: "首富从ai浪潮开始",
     title: "首富从AI浪潮开始",
@@ -3263,8 +3742,7 @@ export const bookItems = [
     downloadUrl: "/books/121_首富从AI浪潮开始1-176章.txt",
     sourceUrl: "https://www.deqixs.org/121/txt.html#dir",
   },
-
-  {
+{
     id: 122,
     slug: "一人之下-吾名秽元真君",
     title: "一人之下：吾名秽元真君！",
@@ -3281,8 +3759,7 @@ export const bookItems = [
     downloadUrl: "/books/122_一人之下：吾名秽元真君！1-463章.txt",
     sourceUrl: "https://www.deqixs.org/122/txt.html#dir",
   },
-
-  {
+{
     id: 123,
     slug: "急急如律令",
     title: "急急如律令",
@@ -3299,8 +3776,7 @@ export const bookItems = [
     downloadUrl: "/books/123_急急如律令1-138章.txt",
     sourceUrl: "https://www.deqixs.org/123/txt.html#dir",
   },
-
-  {
+{
     id: 124,
     slug: "诳言法师的十三试炼",
     title: "诳言法师的十三试炼",
@@ -3317,8 +3793,7 @@ export const bookItems = [
     downloadUrl: "/books/124_诳言法师的十三试炼1-72章.txt",
     sourceUrl: "https://www.deqixs.org/124/txt.html#dir",
   },
-
-  {
+{
     id: 125,
     slug: "尸祸一六四四",
     title: "尸祸一六四四",
@@ -3335,8 +3810,7 @@ export const bookItems = [
     downloadUrl: "/books/125_尸祸一六四四1-264章.txt",
     sourceUrl: "https://www.deqixs.org/125/txt.html#dir",
   },
-
-  {
+{
     id: 126,
     slug: "请勿高考时渡劫",
     title: "请勿高考时渡劫",
@@ -3353,8 +3827,7 @@ export const bookItems = [
     downloadUrl: "/books/126_请勿高考时渡劫1-0章.txt",
     sourceUrl: "https://www.deqixs.org/126/txt.html#dir",
   },
-
-  {
+{
     id: 127,
     slug: "我绑定了夏弥",
     title: "我绑定了夏弥",
@@ -3371,8 +3844,7 @@ export const bookItems = [
     downloadUrl: "/books/127_我绑定了夏弥1-194章.txt",
     sourceUrl: "https://www.deqixs.org/127/txt.html#dir",
   },
-
-  {
+{
     id: 128,
     slug: "从魔法少女开始独断万古",
     title: "从魔法少女开始独断万古",
@@ -3389,8 +3861,7 @@ export const bookItems = [
     downloadUrl: "/books/128_从魔法少女开始独断万古1-371章.txt",
     sourceUrl: "https://www.deqixs.org/128/txt.html#dir",
   },
-
-  {
+{
     id: 129,
     slug: "天才只是我的门槛",
     title: "天才只是我的门槛！",
@@ -3407,8 +3878,7 @@ export const bookItems = [
     downloadUrl: "/books/129_天才只是我的门槛！1-354章.txt",
     sourceUrl: "https://www.deqixs.org/129/txt.html#dir",
   },
-
-  {
+{
     id: 130,
     slug: "我在俄国当文豪",
     title: "我在俄国当文豪",
@@ -3425,8 +3895,7 @@ export const bookItems = [
     downloadUrl: "/books/130_我在俄国当文豪1-456章.txt",
     sourceUrl: "https://www.deqixs.org/130/txt.html#dir",
   },
-
-  {
+{
     id: 131,
     slug: "我在美国搞内战",
     title: "我在美国搞内战",
@@ -3443,8 +3912,7 @@ export const bookItems = [
     downloadUrl: "/books/131_我在美国搞内战1-389章.txt",
     sourceUrl: "https://www.deqixs.org/131/txt.html#dir",
   },
-
-  {
+{
     id: 132,
     slug: "东京医途",
     title: "东京医途",
@@ -3461,8 +3929,7 @@ export const bookItems = [
     downloadUrl: "/books/132_东京医途1-492章.txt",
     sourceUrl: "https://www.deqixs.org/132/txt.html#dir",
   },
-
-  {
+{
     id: 133,
     slug: "战锤-群星与蝼蚁",
     title: "战锤：群星与蝼蚁",
@@ -3479,8 +3946,7 @@ export const bookItems = [
     downloadUrl: "/books/133_战锤：群星与蝼蚁1-65章.txt",
     sourceUrl: "https://www.deqixs.org/133/txt.html#dir",
   },
-
-  {
+{
     id: 134,
     slug: "1997-罪案追凶",
     title: "1997：罪案追凶",
@@ -3497,8 +3963,7 @@ export const bookItems = [
     downloadUrl: "/books/134_1997：罪案追凶1-969章.txt",
     sourceUrl: "https://www.deqixs.org/134/txt.html#dir",
   },
-
-  {
+{
     id: 135,
     slug: "贫民窟的游戏王",
     title: "贫民窟的游戏王",
@@ -3515,8 +3980,7 @@ export const bookItems = [
     downloadUrl: "/books/135_贫民窟的游戏王1-300章.txt",
     sourceUrl: "https://www.deqixs.org/135/txt.html#dir",
   },
-
-  {
+{
     id: 136,
     slug: "重生高考前99天",
     title: "重生高考前99天",
@@ -3533,8 +3997,7 @@ export const bookItems = [
     downloadUrl: "/books/136_重生高考前99天1-887章.txt",
     sourceUrl: "https://www.deqixs.org/136/txt.html#dir",
   },
-
-  {
+{
     id: 137,
     slug: "开局相亲女神捕-获独孤九剑",
     title: "开局相亲女神捕，获独孤九剑",
@@ -3551,8 +4014,7 @@ export const bookItems = [
     downloadUrl: "/books/137_开局相亲女神捕，获独孤九剑1-231章.txt",
     sourceUrl: "https://www.deqixs.org/137/txt.html#dir",
   },
-
-  {
+{
     id: 138,
     slug: "拔剑",
     title: "拔剑",
@@ -3569,8 +4031,7 @@ export const bookItems = [
     downloadUrl: "/books/138_拔剑1-173章.txt",
     sourceUrl: "https://www.deqixs.org/138/txt.html#dir",
   },
-
-  {
+{
     id: 139,
     slug: "从金刚功开始肉身成圣",
     title: "从金刚功开始肉身成圣",
@@ -3587,8 +4048,7 @@ export const bookItems = [
     downloadUrl: "/books/139_从金刚功开始肉身成圣1-541章.txt",
     sourceUrl: "https://www.deqixs.org/139/txt.html#dir",
   },
-
-  {
+{
     id: 140,
     slug: "倚天崆峒掌派人",
     title: "倚天崆峒掌派人",
@@ -3605,8 +4065,7 @@ export const bookItems = [
     downloadUrl: "/books/140_倚天崆峒掌派人1-168章.txt",
     sourceUrl: "https://www.deqixs.org/140/txt.html#dir",
   },
-
-  {
+{
     id: 141,
     slug: "今天他飞升了吗",
     title: "今天他飞升了吗",
@@ -3623,8 +4082,7 @@ export const bookItems = [
     downloadUrl: "/books/141_今天他飞升了吗1-590章.txt",
     sourceUrl: "https://www.deqixs.org/141/txt.html#dir",
   },
-
-  {
+{
     id: 142,
     slug: "蜀山镇世地仙",
     title: "蜀山镇世地仙",
@@ -3641,8 +4099,7 @@ export const bookItems = [
     downloadUrl: "/books/142_蜀山镇世地仙1-666章.txt",
     sourceUrl: "https://www.deqixs.org/142/txt.html#dir",
   },
-
-  {
+{
     id: 143,
     slug: "山海提灯",
     title: "山海提灯",
@@ -3659,8 +4116,7 @@ export const bookItems = [
     downloadUrl: "/books/143_山海提灯1-905章.txt",
     sourceUrl: "https://www.deqixs.org/143/txt.html#dir",
   },
-
-  {
+{
     id: 144,
     slug: "仙工开物",
     title: "仙工开物",
@@ -3677,8 +4133,7 @@ export const bookItems = [
     downloadUrl: "/books/144_仙工开物1-700章.txt",
     sourceUrl: "https://www.deqixs.org/144/txt.html#dir",
   },
-
-  {
+{
     id: 145,
     slug: "武道！",
     title: "武道！",
@@ -3695,8 +4150,7 @@ export const bookItems = [
     downloadUrl: "/books/145_武道！1-148章.txt",
     sourceUrl: "https://www.deqixs.org/145/txt.html#dir",
   },
-
-  {
+{
     id: 146,
     slug: "谁把遗言落这了",
     title: "谁把遗言落这了？",
@@ -3713,8 +4167,7 @@ export const bookItems = [
     downloadUrl: "/books/146_谁把遗言落这了？1-303章.txt",
     sourceUrl: "https://www.deqixs.org/146/txt.html#dir",
   },
-
-  {
+{
     id: 147,
     slug: "谍战-让你卧底-你领五份工资",
     title: "谍战：让你卧底，你领五份工资？",
@@ -3731,8 +4184,7 @@ export const bookItems = [
     downloadUrl: "/books/147_谍战：让你卧底，你领五份工资？1-699章.txt",
     sourceUrl: "https://www.deqixs.org/147/txt.html#dir",
   },
-
-  {
+{
     id: 148,
     slug: "主人说抽到的词条不能浪费",
     title: "主人说抽到的词条不能浪费",
@@ -3749,8 +4201,7 @@ export const bookItems = [
     downloadUrl: "/books/148_主人说抽到的词条不能浪费1-563章.txt",
     sourceUrl: "https://www.deqixs.org/148/txt.html#dir",
   },
-
-  {
+{
     id: 149,
     slug: "哥布林重度依赖",
     title: "哥布林重度依赖",
@@ -3767,8 +4218,7 @@ export const bookItems = [
     downloadUrl: "/books/149_哥布林重度依赖1-636章.txt",
     sourceUrl: "https://www.deqixs.org/149/txt.html#dir",
   },
-
-  {
+{
     id: 150,
     slug: "无限-来自遮天的我只好重拳出击",
     title: "无限：来自遮天的我只好重拳出击",
@@ -3785,8 +4235,7 @@ export const bookItems = [
     downloadUrl: "/books/150_无限：来自遮天的我只好重拳出击1-153章.txt",
     sourceUrl: "https://www.deqixs.org/150/txt.html#dir",
   },
-
-  {
+{
     id: 151,
     slug: "你也是我的未来女友吗",
     title: "你也是我的未来女友吗？",
@@ -3803,8 +4252,7 @@ export const bookItems = [
     downloadUrl: "/books/151_你也是我的未来女友吗？1-186章.txt",
     sourceUrl: "https://www.deqixs.org/151/txt.html#dir",
   },
-
-  {
+{
     id: 152,
     slug: "东京1991-从银行职员开始",
     title: "东京1991，从银行职员开始",
@@ -3821,8 +4269,7 @@ export const bookItems = [
     downloadUrl: "/books/152_东京1991，从银行职员开始1-335章.txt",
     sourceUrl: "https://www.deqixs.org/152/txt.html#dir",
   },
-
-  {
+{
     id: 153,
     slug: "东京-从租借男友开始当完美男神",
     title: "东京：从租借男友开始当完美男神",
@@ -3839,8 +4286,7 @@ export const bookItems = [
     downloadUrl: "/books/153_东京：从租借男友开始当完美男神1-277章.txt",
     sourceUrl: "https://www.deqixs.org/153/txt.html#dir",
   },
-
-  {
+{
     id: 154,
     slug: "武道",
     title: "武道！",
@@ -3857,8 +4303,7 @@ export const bookItems = [
     downloadUrl: "/books/154_武道！1-182章.txt",
     sourceUrl: "https://www.deqixs.org/154/txt.html#dir",
   },
-
-  {
+{
     id: 155,
     slug: "御兽-我能看到进化路线",
     title: "御兽：我能看到进化路线",
@@ -3875,8 +4320,7 @@ export const bookItems = [
     downloadUrl: "/books/155_御兽：我能看到进化路线1-116章.txt",
     sourceUrl: "https://www.deqixs.org/155/txt.html#dir",
   },
-
-  {
+{
     id: 156,
     slug: "巫师-从合成宝石开始",
     title: "巫师：从合成宝石开始",
@@ -3893,8 +4337,7 @@ export const bookItems = [
     downloadUrl: "/books/156_巫师：从合成宝石开始1-1077章.txt",
     sourceUrl: "https://www.deqixs.org/156/txt.html#dir",
   },
-
-  {
+{
     id: 157,
     slug: "仙朝鹰犬",
     title: "仙朝鹰犬",
@@ -3911,8 +4354,7 @@ export const bookItems = [
     downloadUrl: "/books/157_仙朝鹰犬1-384章.txt",
     sourceUrl: "https://www.deqixs.org/157/txt.html#dir",
   },
-
-  {
+{
     id: 158,
     slug: "龙藏",
     title: "龙藏",
@@ -3929,8 +4371,7 @@ export const bookItems = [
     downloadUrl: "/books/158_龙藏1-1450章.txt",
     sourceUrl: "https://www.deqixs.org/158/txt.html#dir",
   },
-
-  {
+{
     id: 159,
     slug: "从效法万妖开始成就真仙",
     title: "从效法万妖开始成就真仙",
@@ -3947,8 +4388,7 @@ export const bookItems = [
     downloadUrl: "/books/159_从效法万妖开始成就真仙1-80章.txt",
     sourceUrl: "https://www.deqixs.org/159/txt.html#dir",
   },
-
-  {
+{
     id: 160,
     slug: "地仙只想种田",
     title: "地仙只想种田",
@@ -3965,8 +4405,7 @@ export const bookItems = [
     downloadUrl: "/books/160_地仙只想种田1-898章.txt",
     sourceUrl: "https://www.deqixs.org/160/txt.html#dir",
   },
-
-  {
+{
     id: 161,
     slug: "西游-拦路人",
     title: "西游：拦路人！",
@@ -3983,8 +4422,7 @@ export const bookItems = [
     downloadUrl: "/books/161_西游：拦路人！1-487章.txt",
     sourceUrl: "https://www.deqixs.org/161/txt.html#dir",
   },
-
-  {
+{
     id: 162,
     slug: "我在1984当祥子",
     title: "我在1984当祥子",
@@ -4001,8 +4439,7 @@ export const bookItems = [
     downloadUrl: "/books/162_我在1984当祥子1-312章.txt",
     sourceUrl: "https://www.deqixs.org/162/txt.html#dir",
   },
-
-  {
+{
     id: 163,
     slug: "天下无敌",
     title: "天下无敌！",
@@ -4019,8 +4456,7 @@ export const bookItems = [
     downloadUrl: "/books/163_天下无敌！1-715章.txt",
     sourceUrl: "https://www.deqixs.org/163/txt.html#dir",
   },
-
-  {
+{
     id: 164,
     slug: "从易书开始摘夺果位",
     title: "从易书开始摘夺果位",
@@ -4037,8 +4473,7 @@ export const bookItems = [
     downloadUrl: "/books/164_从易书开始摘夺果位1-281章.txt",
     sourceUrl: "https://www.deqixs.org/164/txt.html#dir",
   },
-
-  {
+{
     id: 165,
     slug: "太尊",
     title: "太尊！",
@@ -4055,8 +4490,7 @@ export const bookItems = [
     downloadUrl: "/books/165_太尊！1-269章.txt",
     sourceUrl: "https://www.deqixs.org/165/txt.html#dir",
   },
-
-  {
+{
     id: 166,
     slug: "天人图谱",
     title: "天人图谱",
@@ -4073,8 +4507,7 @@ export const bookItems = [
     downloadUrl: "/books/166_天人图谱1-2080章.txt",
     sourceUrl: "https://www.deqixs.org/166/txt.html#dir",
   },
-
-  {
+{
     id: 167,
     slug: "星渊纪元",
     title: "星渊纪元",
@@ -4091,8 +4524,7 @@ export const bookItems = [
     downloadUrl: "/books/167_星渊纪元1-583章.txt",
     sourceUrl: "https://www.deqixs.org/167/txt.html#dir",
   },
-
-  {
+{
     id: 168,
     slug: "我略微出手-就是系统的极限",
     title: "我略微出手，就是系统的极限",
@@ -4109,8 +4541,7 @@ export const bookItems = [
     downloadUrl: "/books/168_我略微出手，就是系统的极限1-677章.txt",
     sourceUrl: "https://www.deqixs.org/168/txt.html#dir",
   },
-
-  {
+{
     id: 169,
     slug: "方仙外道",
     title: "方仙外道",
@@ -4127,8 +4558,7 @@ export const bookItems = [
     downloadUrl: "/books/169_方仙外道1-456章.txt",
     sourceUrl: "https://www.deqixs.org/169/txt.html#dir",
   },
-
-  {
+{
     id: 170,
     slug: "仙业",
     title: "仙业",
@@ -4145,8 +4575,7 @@ export const bookItems = [
     downloadUrl: "/books/170_仙业1-710章.txt",
     sourceUrl: "https://www.deqixs.org/170/txt.html#dir",
   },
-
-  {
+{
     id: 171,
     slug: "集群重炮轰杀修仙者",
     title: "集群重炮轰杀修仙者",
@@ -4163,8 +4592,7 @@ export const bookItems = [
     downloadUrl: "/books/171_集群重炮轰杀修仙者1-2765章.txt",
     sourceUrl: "https://www.deqixs.org/171/txt.html#dir",
   },
-
-  {
+{
     id: 172,
     slug: "仙人消失之后",
     title: "仙人消失之后",
@@ -4181,8 +4609,7 @@ export const bookItems = [
     downloadUrl: "/books/172_仙人消失之后1-3085章.txt",
     sourceUrl: "https://www.deqixs.org/172/txt.html#dir",
   },
-
-  {
+{
     id: 173,
     slug: "御兽仙朝-我能设计进化形态",
     title: "御兽仙朝：我能设计进化形态",
@@ -4199,8 +4626,7 @@ export const bookItems = [
     downloadUrl: "/books/173_御兽仙朝：我能设计进化形态1-228章.txt",
     sourceUrl: "https://www.deqixs.org/173/txt.html#dir",
   },
-
-  {
+{
     id: 174,
     slug: "邪修天王",
     title: "邪修天王",
@@ -4217,8 +4643,7 @@ export const bookItems = [
     downloadUrl: "/books/174_邪修天王1-91章.txt",
     sourceUrl: "https://www.deqixs.org/174/txt.html#dir",
   },
-
-  {
+{
     id: 175,
     slug: "大赤仙门",
     title: "大赤仙门",
@@ -4235,8 +4660,7 @@ export const bookItems = [
     downloadUrl: "/books/175_大赤仙门1-1143章.txt",
     sourceUrl: "https://www.deqixs.org/175/txt.html#dir",
   },
-
-  {
+{
     id: 176,
     slug: "乌龙山修行笔记",
     title: "乌龙山修行笔记",
@@ -4253,8 +4677,7 @@ export const bookItems = [
     downloadUrl: "/books/176_乌龙山修行笔记1-1135章.txt",
     sourceUrl: "https://www.deqixs.org/176/txt.html#dir",
   },
-
-  {
+{
     id: 177,
     slug: "公若不弃-愿拜为义父",
     title: "公若不弃，愿拜为义父",
@@ -4271,8 +4694,7 @@ export const bookItems = [
     downloadUrl: "/books/177_公若不弃，愿拜为义父1-2040章.txt",
     sourceUrl: "https://www.deqixs.org/177/txt.html#dir",
   },
-
-  {
+{
     id: 178,
     slug: "祸主",
     title: "祸主",
@@ -4289,8 +4711,7 @@ export const bookItems = [
     downloadUrl: "/books/178_祸主1-83章.txt",
     sourceUrl: "https://www.deqixs.org/178/txt.html#dir",
   },
-
-  {
+{
     id: 179,
     slug: "长生修仙-与龟同行",
     title: "长生修仙，与龟同行",
@@ -4307,8 +4728,7 @@ export const bookItems = [
     downloadUrl: "/books/179_长生修仙，与龟同行1-894章.txt",
     sourceUrl: "https://www.deqixs.org/179/txt.html#dir",
   },
-
-  {
+{
     id: 180,
     slug: "谁说我是靠女人升官的",
     title: "谁说我是靠女人升官的？",
@@ -4325,8 +4745,7 @@ export const bookItems = [
     downloadUrl: "/books/180_谁说我是靠女人升官的？1-598章.txt",
     sourceUrl: "https://www.deqixs.org/180/txt.html#dir",
   },
-
-  {
+{
     id: 181,
     slug: "接管地府后-我成了诡异头子",
     title: "接管地府后，我成了诡异头子",
@@ -4343,8 +4762,7 @@ export const bookItems = [
     downloadUrl: "/books/181_接管地府后，我成了诡异头子1-874章.txt",
     sourceUrl: "https://www.deqixs.org/181/txt.html#dir",
   },
-
-  {
+{
     id: 182,
     slug: "羽化登仙-从炼药童子开始",
     title: "羽化登仙，从炼药童子开始",
@@ -4361,8 +4779,7 @@ export const bookItems = [
     downloadUrl: "/books/182_羽化登仙，从炼药童子开始1-686章.txt",
     sourceUrl: "https://www.deqixs.org/182/txt.html#dir",
   },
-
-  {
+{
     id: 183,
     slug: "凡人-从五百年前开始",
     title: "凡人：从五百年前开始",
@@ -4379,8 +4796,7 @@ export const bookItems = [
     downloadUrl: "/books/183_凡人：从五百年前开始1-429章.txt",
     sourceUrl: "https://www.deqixs.org/183/txt.html#dir",
   },
-
-  {
+{
     id: 184,
     slug: "华娱-顶流没有假期",
     title: "华娱：顶流没有假期",
@@ -4397,8 +4813,7 @@ export const bookItems = [
     downloadUrl: "/books/184_华娱：顶流没有假期1-95章.txt",
     sourceUrl: "https://www.deqixs.org/184/txt.html#dir",
   },
-
-  {
+{
     id: 185,
     slug: "整座大山都是我的猎场",
     title: "整座大山都是我的猎场",
@@ -4415,8 +4830,7 @@ export const bookItems = [
     downloadUrl: "/books/185_整座大山都是我的猎场1-2094章.txt",
     sourceUrl: "https://www.deqixs.org/185/txt.html#dir",
   },
-
-  {
+{
     id: 186,
     slug: "1979黄金时代",
     title: "1979黄金时代",
@@ -4433,8 +4847,7 @@ export const bookItems = [
     downloadUrl: "/books/186_1979黄金时代1-1442章.txt",
     sourceUrl: "https://www.deqixs.org/186/txt.html#dir",
   },
-
-  {
+{
     id: 187,
     slug: "重生08-我被确诊为医学泰斗",
     title: "重生08，我被确诊为医学泰斗",
@@ -4451,8 +4864,7 @@ export const bookItems = [
     downloadUrl: "/books/187_重生08，我被确诊为医学泰斗1-407章.txt",
     sourceUrl: "https://www.deqixs.org/187/txt.html#dir",
   },
-
-  {
+{
     id: 188,
     slug: "神通者",
     title: "神通者",
@@ -4469,8 +4881,7 @@ export const bookItems = [
     downloadUrl: "/books/188_神通者1-75章.txt",
     sourceUrl: "https://www.deqixs.org/188/txt.html#dir",
   },
-
-  {
+{
     id: 189,
     slug: "大奉打更人",
     title: "大奉打更人",
@@ -4487,8 +4898,7 @@ export const bookItems = [
     downloadUrl: "/books/189_大奉打更人1-918章.txt",
     sourceUrl: "https://www.deqixs.org/189/txt.html#dir",
   },
-
-  {
+{
     id: 190,
     slug: "视死如归魏君子",
     title: "视死如归魏君子",
@@ -4505,8 +4915,7 @@ export const bookItems = [
     downloadUrl: "/books/190_视死如归魏君子1-449章.txt",
     sourceUrl: "https://www.deqixs.org/190/txt.html#dir",
   },
-
-  {
+{
     id: 191,
     slug: "朕只是一个演员",
     title: "朕只是一个演员",
@@ -4523,8 +4932,7 @@ export const bookItems = [
     downloadUrl: "/books/191_朕只是一个演员1-983章.txt",
     sourceUrl: "https://www.deqixs.org/191/txt.html#dir",
   },
-
-  {
+{
     id: 192,
     slug: "速通修仙",
     title: "速通修仙！",
@@ -4541,8 +4949,7 @@ export const bookItems = [
     downloadUrl: "/books/192_速通修仙！1-565章.txt",
     sourceUrl: "https://www.deqixs.org/192/txt.html#dir",
   },
-
-  {
+{
     id: 193,
     slug: "武动乾坤",
     title: "武动乾坤",
@@ -4559,8 +4966,7 @@ export const bookItems = [
     downloadUrl: "/books/193_武动乾坤1-1328章.txt",
     sourceUrl: "https://www.deqixs.org/193/txt.html#dir",
   },
-
-  {
+{
     id: 194,
     slug: "人在荒岛-灵气怎么复苏了",
     title: "人在荒岛，灵气怎么复苏了？",
@@ -4577,8 +4983,7 @@ export const bookItems = [
     downloadUrl: "/books/194_人在荒岛，灵气怎么复苏了？1-224章.txt",
     sourceUrl: "https://www.deqixs.org/194/txt.html#dir",
   },
-
-  {
+{
     id: 195,
     slug: "从斩杀线到华尔街之神",
     title: "从斩杀线到华尔街之神",
@@ -4595,8 +5000,7 @@ export const bookItems = [
     downloadUrl: "/books/195_从斩杀线到华尔街之神1-185章.txt",
     sourceUrl: "https://www.deqixs.org/195/txt.html#dir",
   },
-
-  {
+{
     id: 196,
     slug: "万相之王",
     title: "万相之王",
@@ -4613,8 +5017,7 @@ export const bookItems = [
     downloadUrl: "/books/196_万相之王1-1851章.txt",
     sourceUrl: "https://www.deqixs.org/196/txt.html#dir",
   },
-
-  {
+{
     id: 197,
     slug: "大主宰",
     title: "大主宰",
@@ -4631,8 +5034,7 @@ export const bookItems = [
     downloadUrl: "/books/197_大主宰1-1666章.txt",
     sourceUrl: "https://www.deqixs.org/197/txt.html#dir",
   },
-
-  {
+{
     id: 198,
     slug: "斗破苍穹",
     title: "斗破苍穹",
@@ -4649,8 +5051,7 @@ export const bookItems = [
     downloadUrl: "/books/198_斗破苍穹1-1661章.txt",
     sourceUrl: "https://www.deqixs.org/198/txt.html#dir",
   },
-
-  {
+{
     id: 199,
     slug: "元尊",
     title: "元尊",
@@ -4667,8 +5068,7 @@ export const bookItems = [
     downloadUrl: "/books/199_元尊1-1498章.txt",
     sourceUrl: "https://www.deqixs.org/199/txt.html#dir",
   },
-
-  {
+{
     id: 200,
     slug: "盖世双谐",
     title: "盖世双谐",
@@ -4685,8 +5085,7 @@ export const bookItems = [
     downloadUrl: "/books/200_盖世双谐1-702章.txt",
     sourceUrl: "https://www.deqixs.org/200/txt.html#dir",
   },
-
-  {
+{
     id: 201,
     slug: "灭门夜-我易筋经大圆满",
     title: "灭门夜，我易筋经大圆满！",
@@ -4703,8 +5102,7 @@ export const bookItems = [
     downloadUrl: "/books/201_灭门夜，我易筋经大圆满！1-478章.txt",
     sourceUrl: "https://www.deqixs.org/201/txt.html#dir",
   },
-
-  {
+{
     id: 202,
     slug: "拳之下",
     title: "拳之下",
@@ -4721,8 +5119,7 @@ export const bookItems = [
     downloadUrl: "/books/202_拳之下1-600章.txt",
     sourceUrl: "https://www.deqixs.org/202/txt.html#dir",
   },
-
-  {
+{
     id: 203,
     slug: "我在武侠世界当王爷",
     title: "我在武侠世界当王爷",
@@ -4739,8 +5136,7 @@ export const bookItems = [
     downloadUrl: "/books/203_我在武侠世界当王爷1-278章.txt",
     sourceUrl: "https://www.deqixs.org/203/txt.html#dir",
   },
-
-  {
+{
     id: 204,
     slug: "美利坚-我的系统来自1885年",
     title: "美利坚，我的系统来自1885年",
@@ -4757,8 +5153,7 @@ export const bookItems = [
     downloadUrl: "/books/204_美利坚，我的系统来自1885年1-1919章.txt",
     sourceUrl: "https://www.deqixs.org/204/txt.html#dir",
   },
-
-  {
+{
     id: 205,
     slug: "从大学球探开始",
     title: "从大学球探开始",
@@ -4775,8 +5170,7 @@ export const bookItems = [
     downloadUrl: "/books/205_从大学球探开始1-83章.txt",
     sourceUrl: "https://www.deqixs.org/205/txt.html#dir",
   },
-
-  {
+{
     id: 206,
     slug: "半岛-目标大满贯",
     title: "半岛：目标大满贯",
@@ -4793,8 +5187,7 @@ export const bookItems = [
     downloadUrl: "/books/206_半岛：目标大满贯1-285章.txt",
     sourceUrl: "https://www.deqixs.org/206/txt.html#dir",
   },
-
-  {
+{
     id: 207,
     slug: "喧嚣未及之处",
     title: "喧嚣未及之处",
@@ -4811,8 +5204,7 @@ export const bookItems = [
     downloadUrl: "/books/207_喧嚣未及之处1-622章.txt",
     sourceUrl: "https://www.deqixs.org/207/txt.html#dir",
   },
-
-  {
+{
     id: 208,
     slug: "什么叫进攻型后腰啊",
     title: "什么叫进攻型后腰啊",
@@ -4829,8 +5221,7 @@ export const bookItems = [
     downloadUrl: "/books/208_什么叫进攻型后腰啊1-443章.txt",
     sourceUrl: "https://www.deqixs.org/208/txt.html#dir",
   },
-
-  {
+{
     id: 209,
     slug: "永不独行",
     title: "永不独行！",
@@ -4847,8 +5238,7 @@ export const bookItems = [
     downloadUrl: "/books/209_永不独行！1-252章.txt",
     sourceUrl: "https://www.deqixs.org/209/txt.html#dir",
   },
-
-  {
+{
     id: 210,
     slug: "明尊",
     title: "明尊",
@@ -4865,8 +5255,7 @@ export const bookItems = [
     downloadUrl: "/books/210_明尊1-3500章.txt",
     sourceUrl: "https://www.deqixs.org/210/txt.html#dir",
   },
-
-  {
+{
     id: 211,
     slug: "我名黄天-苍天已死什么鬼",
     title: "我名黄天，苍天已死什么鬼？",
@@ -4883,8 +5272,7 @@ export const bookItems = [
     downloadUrl: "/books/211_我名黄天，苍天已死什么鬼？1-443章.txt",
     sourceUrl: "https://www.deqixs.org/211/txt.html#dir",
   },
-
-  {
+{
     id: 212,
     slug: "灵幻世界的道士",
     title: "灵幻世界的道士",
@@ -4901,8 +5289,7 @@ export const bookItems = [
     downloadUrl: "/books/212_灵幻世界的道士1-231章.txt",
     sourceUrl: "https://www.deqixs.org/212/txt.html#dir",
   },
-
-  {
+{
     id: 213,
     slug: "噩梦使徒",
     title: "噩梦使徒",
@@ -4919,8 +5306,7 @@ export const bookItems = [
     downloadUrl: "/books/213_噩梦使徒1-1252章.txt",
     sourceUrl: "https://www.deqixs.org/213/txt.html#dir",
   },
-
-  {
+{
     id: 214,
     slug: "重生97-我在市局破悬案",
     title: "重生97，我在市局破悬案",
@@ -4937,8 +5323,7 @@ export const bookItems = [
     downloadUrl: "/books/214_重生97，我在市局破悬案1-5159章.txt",
     sourceUrl: "https://www.deqixs.org/214/txt.html#dir",
   },
-
-  {
+{
     id: 215,
     slug: "谁说这里有怪谈的",
     title: "谁说这里有怪谈的？",
@@ -4955,8 +5340,7 @@ export const bookItems = [
     downloadUrl: "/books/215_谁说这里有怪谈的？1-356章.txt",
     sourceUrl: "https://www.deqixs.org/215/txt.html#dir",
   },
-
-  {
+{
     id: 216,
     slug: "赶尸匠",
     title: "赶尸匠",
@@ -4973,8 +5357,7 @@ export const bookItems = [
     downloadUrl: "/books/216_赶尸匠1-214章.txt",
     sourceUrl: "https://www.deqixs.org/216/txt.html#dir",
   },
-
-  {
+{
     id: 217,
     slug: "升格耀变体",
     title: "升格耀变体",
@@ -4991,8 +5374,7 @@ export const bookItems = [
     downloadUrl: "/books/217_升格耀变体1-123章.txt",
     sourceUrl: "https://www.deqixs.org/217/txt.html#dir",
   },
-
-  {
+{
     id: 218,
     slug: "天运玩家",
     title: "天运玩家",
@@ -5009,8 +5391,7 @@ export const bookItems = [
     downloadUrl: "/books/218_天运玩家1-220章.txt",
     sourceUrl: "https://www.deqixs.org/218/txt.html#dir",
   },
-
-  {
+{
     id: 219,
     slug: "lol-刚打职业-你说联盟凉了",
     title: "LOL：刚打职业，你说联盟凉了",
@@ -5027,8 +5408,7 @@ export const bookItems = [
     downloadUrl: "/books/219_LOL：刚打职业，你说联盟凉了1-174章.txt",
     sourceUrl: "https://www.deqixs.org/219/txt.html#dir",
   },
-
-  {
+{
     id: 220,
     slug: "艾泽拉斯绿野仙踪",
     title: "艾泽拉斯绿野仙踪",
@@ -5045,8 +5425,7 @@ export const bookItems = [
     downloadUrl: "/books/220_艾泽拉斯绿野仙踪1-461章.txt",
     sourceUrl: "https://www.deqixs.org/220/txt.html#dir",
   },
-
-  {
+{
     id: 221,
     slug: "美利坚-游戏制作教父",
     title: "美利坚：游戏制作教父",
@@ -5063,8 +5442,7 @@ export const bookItems = [
     downloadUrl: "/books/221_美利坚：游戏制作教父1-667章.txt",
     sourceUrl: "https://www.deqixs.org/221/txt.html#dir",
   },
-
-  {
+{
     id: 222,
     slug: "lol-我的虎扑评分不会低",
     title: "LOL，我的虎扑评分不会低",
@@ -5081,8 +5459,7 @@ export const bookItems = [
     downloadUrl: "/books/222_LOL，我的虎扑评分不会低1-350章.txt",
     sourceUrl: "https://www.deqixs.org/222/txt.html#dir",
   },
-
-  {
+{
     id: 223,
     slug: "曼联王储-但不会踢球",
     title: "曼联王储，但不会踢球",
@@ -5099,8 +5476,7 @@ export const bookItems = [
     downloadUrl: "/books/223_曼联王储，但不会踢球1-328章.txt",
     sourceUrl: "https://www.deqixs.org/223/txt.html#dir",
   },
-
-  {
+{
     id: 224,
     slug: "谁说我做的魔法卡牌有问题",
     title: "谁说我做的魔法卡牌有问题？",
@@ -5117,8 +5493,7 @@ export const bookItems = [
     downloadUrl: "/books/224_谁说我做的魔法卡牌有问题？1-808章.txt",
     sourceUrl: "https://www.deqixs.org/224/txt.html#dir",
   },
-
-  {
+{
     id: 225,
     slug: "宇智波赤石之旅",
     title: "宇智波赤石之旅",
@@ -5135,8 +5510,7 @@ export const bookItems = [
     downloadUrl: "/books/225_宇智波赤石之旅1-222章.txt",
     sourceUrl: "https://www.deqixs.org/225/txt.html#dir",
   },
-
-  {
+{
     id: 226,
     slug: "是-伟大魔女2077",
     title: "是，伟大魔女2077",
@@ -5153,8 +5527,7 @@ export const bookItems = [
     downloadUrl: "/books/226_是，伟大魔女20771-531章.txt",
     sourceUrl: "https://www.deqixs.org/226/txt.html#dir",
   },
-
-  {
+{
     id: 227,
     slug: "在美漫当心灵导师的日子",
     title: "在美漫当心灵导师的日子",
@@ -5171,8 +5544,7 @@ export const bookItems = [
     downloadUrl: "/books/227_在美漫当心灵导师的日子1-4986章.txt",
     sourceUrl: "https://www.deqixs.org/227/txt.html#dir",
   },
-
-  {
+{
     id: 228,
     slug: "明日之神",
     title: "明日之神",
@@ -5189,8 +5561,7 @@ export const bookItems = [
     downloadUrl: "/books/228_明日之神1-314章.txt",
     sourceUrl: "https://www.deqixs.org/228/txt.html#dir",
   },
-
-  {
+{
     id: 229,
     slug: "说好体验人生-仙子你怎么成真了",
     title: "说好体验人生，仙子你怎么成真了",
@@ -5207,8 +5578,7 @@ export const bookItems = [
     downloadUrl: "/books/229_说好体验人生，仙子你怎么成真了1-705章.txt",
     sourceUrl: "https://www.deqixs.org/229/txt.html#dir",
   },
-
-  {
+{
     id: 230,
     slug: "作家手册",
     title: "作家手册",
@@ -5225,8 +5595,7 @@ export const bookItems = [
     downloadUrl: "/books/230_作家手册1-181章.txt",
     sourceUrl: "https://www.deqixs.org/230/txt.html#dir",
   },
-
-  {
+{
     id: 231,
     slug: "战锤-开局撞残瓦半仙",
     title: "战锤：开局撞残瓦半仙",
@@ -5243,8 +5612,7 @@ export const bookItems = [
     downloadUrl: "/books/231_战锤：开局撞残瓦半仙1-277章.txt",
     sourceUrl: "https://www.deqixs.org/231/txt.html#dir",
   },
-
-  {
+{
     id: 232,
     slug: "东京-从假冒男友开始",
     title: "东京：从假冒男友开始",
@@ -5261,8 +5629,7 @@ export const bookItems = [
     downloadUrl: "/books/232_东京：从假冒男友开始1-214章.txt",
     sourceUrl: "https://www.deqixs.org/232/txt.html#dir",
   },
-
-  {
+{
     id: 233,
     slug: "你做的副本是给人玩的吗",
     title: "你做的副本是给人玩的吗？",
@@ -5279,8 +5646,7 @@ export const bookItems = [
     downloadUrl: "/books/233_你做的副本是给人玩的吗？1-334章.txt",
     sourceUrl: "https://www.deqixs.org/233/txt.html#dir",
   },
-
-  {
+{
     id: 234,
     slug: "怪猎-荒野的指针",
     title: "怪猎：荒野的指针",
@@ -5297,8 +5663,7 @@ export const bookItems = [
     downloadUrl: "/books/234_怪猎：荒野的指针1-1100章.txt",
     sourceUrl: "https://www.deqixs.org/234/txt.html#dir",
   },
-
-  {
+{
     id: 235,
     slug: "我命令你成为密教教主",
     title: "我命令你成为密教教主",
@@ -5314,8 +5679,7 @@ export const bookItems = [
     downloadUrl: "/books/235_我命令你成为密教教主1-835章.txt",
     sourceUrl: "https://www.deqixs.org/235/txt.html#dir",
   },
-
-  {
+{
     id: 236,
     slug: "战锤-我也要坐黄金王座吗",
     title: "战锤：我也要坐黄金王座吗？",
@@ -5332,8 +5696,7 @@ export const bookItems = [
     downloadUrl: "/books/236_战锤：我也要坐黄金王座吗？1-110章.txt",
     sourceUrl: "https://www.deqixs.org/236/txt.html#dir",
   },
-
-  {
+{
     id: 237,
     slug: "战锤-帝国重启",
     title: "战锤：帝国重启",
@@ -5350,8 +5713,7 @@ export const bookItems = [
     downloadUrl: "/books/237_战锤：帝国重启1-313章.txt",
     sourceUrl: "https://www.deqixs.org/237/txt.html#dir",
   },
-
-  {
+{
     id: 238,
     slug: "同时穿越-从诡秘开始的命途行者",
     title: "同时穿越：从诡秘开始的命途行者",
@@ -5368,8 +5730,7 @@ export const bookItems = [
     downloadUrl: "/books/238_同时穿越：从诡秘开始的命途行者1-175章.txt",
     sourceUrl: "https://www.deqixs.org/238/txt.html#dir",
   },
-
-  {
+{
     id: 239,
     slug: "青梅消失那天",
     title: "青梅消失那天",
@@ -5386,8 +5747,7 @@ export const bookItems = [
     downloadUrl: "/books/239_青梅消失那天1-129章.txt",
     sourceUrl: "https://www.deqixs.org/239/txt.html#dir",
   },
-
-  {
+{
     id: 240,
     slug: "霍格沃茨的雷古勒斯-星空之主",
     title: "霍格沃茨的雷古勒斯：星空之主",
@@ -5404,8 +5764,7 @@ export const bookItems = [
     downloadUrl: "/books/240_霍格沃茨的雷古勒斯：星空之主1-558章.txt",
     sourceUrl: "https://www.deqixs.org/240/txt.html#dir",
   },
-
-  {
+{
     id: 241,
     slug: "cs-转生少女-圈米就能变强",
     title: "CS：转生少女，圈米就能变强？",
@@ -5422,8 +5781,7 @@ export const bookItems = [
     downloadUrl: "/books/241_CS：转生少女，圈米就能变强？1-3131章.txt",
     sourceUrl: "https://www.deqixs.org/241/txt.html#dir",
   },
-
-  {
+{
     id: 242,
     slug: "柯南里的捡尸人",
     title: "柯南里的捡尸人",
@@ -5440,8 +5798,7 @@ export const bookItems = [
     downloadUrl: "/books/242_柯南里的捡尸人1-4143章.txt",
     sourceUrl: "https://www.deqixs.org/242/txt.html#dir",
   },
-
-  {
+{
     id: 243,
     slug: "穿越三代-让木叶再次伟大",
     title: "穿越三代：让木叶再次伟大！",
@@ -5458,8 +5815,7 @@ export const bookItems = [
     downloadUrl: "/books/243_穿越三代：让木叶再次伟大！1-279章.txt",
     sourceUrl: "https://www.deqixs.org/243/txt.html#dir",
   },
-
-  {
+{
     id: 244,
     slug: "没钱上大学的我只能去屠龙了",
     title: "没钱上大学的我只能去屠龙了",
@@ -5476,8 +5832,7 @@ export const bookItems = [
     downloadUrl: "/books/244_没钱上大学的我只能去屠龙了1-2145章.txt",
     sourceUrl: "https://www.deqixs.org/244/txt.html#dir",
   },
-
-  {
+{
     id: 245,
     slug: "阿斯塔特家的计事本",
     title: "阿斯塔特家的计事本",
@@ -5494,8 +5849,7 @@ export const bookItems = [
     downloadUrl: "/books/245_阿斯塔特家的计事本1-536章.txt",
     sourceUrl: "https://www.deqixs.org/245/txt.html#dir",
   },
-
-  {
+{
     id: 246,
     slug: "美利坚-从流浪汉走上权力之巅",
     title: "美利坚：从流浪汉走上权力之巅！",
@@ -5512,8 +5866,7 @@ export const bookItems = [
     downloadUrl: "/books/246_美利坚：从流浪汉走上权力之巅！1-2011章.txt",
     sourceUrl: "https://www.deqixs.org/246/txt.html#dir",
   },
-
-  {
+{
     id: 247,
     slug: "在须弥-假装是一个学者",
     title: "在须弥，假装是一个学者！",
@@ -5530,8 +5883,7 @@ export const bookItems = [
     downloadUrl: "/books/247_在须弥，假装是一个学者！1-344章.txt",
     sourceUrl: "https://www.deqixs.org/247/txt.html#dir",
   },
-
-  {
+{
     id: 248,
     slug: "北派盗墓笔记",
     title: "北派盗墓笔记",
@@ -5548,8 +5900,7 @@ export const bookItems = [
     downloadUrl: "/books/248_北派盗墓笔记1-632章.txt",
     sourceUrl: "https://www.deqixs.org/248/txt.html#dir",
   },
-
-  {
+{
     id: 249,
     slug: "从满仓a股开始成为资本",
     title: "从满仓A股开始成为资本",
@@ -5566,8 +5917,7 @@ export const bookItems = [
     downloadUrl: "/books/249_从满仓A股开始成为资本1-1577章.txt",
     sourceUrl: "https://www.deqixs.org/249/txt.html#dir",
   },
-
-  {
+{
     id: 250,
     slug: "华娱申公豹",
     title: "华娱申公豹",
@@ -5584,8 +5934,7 @@ export const bookItems = [
     downloadUrl: "/books/250_华娱申公豹1-198章.txt",
     sourceUrl: "https://www.deqixs.org/250/txt.html#dir",
   },
-
-  {
+{
     id: 251,
     slug: "港综-大有可为",
     title: "港综：大有可为",
@@ -5602,8 +5951,7 @@ export const bookItems = [
     downloadUrl: "/books/251_港综：大有可为1-376章.txt",
     sourceUrl: "https://www.deqixs.org/251/txt.html#dir",
   },
-
-  {
+{
     id: 252,
     slug: "艺术家从监狱开始",
     title: "艺术家从监狱开始",
@@ -5620,8 +5968,7 @@ export const bookItems = [
     downloadUrl: "/books/252_艺术家从监狱开始1-200章.txt",
     sourceUrl: "https://www.deqixs.org/252/txt.html#dir",
   },
-
-  {
+{
     id: 253,
     slug: "水浒-从杀高俅开始",
     title: "水浒：从杀高俅开始",
@@ -5638,8 +5985,7 @@ export const bookItems = [
     downloadUrl: "/books/253_水浒：从杀高俅开始1-202章.txt",
     sourceUrl: "https://www.deqixs.org/253/txt.html#dir",
   },
-
-  {
+{
     id: 254,
     slug: "盖世神医",
     title: "盖世神医",
@@ -5656,8 +6002,7 @@ export const bookItems = [
     downloadUrl: "/books/254_盖世神医1-4419章.txt",
     sourceUrl: "https://www.deqixs.org/254/txt.html#dir",
   },
-
-  {
+{
     id: 255,
     slug: "九星霸体诀",
     title: "九星霸体诀",
@@ -5674,8 +6019,7 @@ export const bookItems = [
     downloadUrl: "/books/255_九星霸体诀1-7302章.txt",
     sourceUrl: "https://www.deqixs.org/255/txt.html#dir",
   },
-
-  {
+{
     id: 256,
     slug: "全职剑修",
     title: "全职剑修",
@@ -5692,8 +6036,7 @@ export const bookItems = [
     downloadUrl: "/books/256_全职剑修1-2086章.txt",
     sourceUrl: "https://www.deqixs.org/256/txt.html#dir",
   },
-
-  {
+{
     id: 257,
     slug: "灰烬领主",
     title: "灰烬领主",
@@ -5710,8 +6053,7 @@ export const bookItems = [
     downloadUrl: "/books/257_灰烬领主1-6268章.txt",
     sourceUrl: "https://www.deqixs.org/257/txt.html#dir",
   },
-
-  {
+{
     id: 258,
     slug: "同时穿越-全员杂鱼",
     title: "同时穿越：全员杂鱼？",
@@ -5728,8 +6070,7 @@ export const bookItems = [
     downloadUrl: "/books/258_同时穿越：全员杂鱼？1-485章.txt",
     sourceUrl: "https://www.deqixs.org/258/txt.html#dir",
   },
-
-  {
+{
     id: 259,
     slug: "财阀小甜妻-老公-乖乖宠我",
     title: "财阀小甜妻：老公，乖乖宠我",
@@ -5746,8 +6087,7 @@ export const bookItems = [
     downloadUrl: "/books/259_财阀小甜妻：老公，乖乖宠我1-3496章.txt",
     sourceUrl: "https://www.deqixs.org/259/txt.html#dir",
   },
-
-  {
+{
     id: 260,
     slug: "离婚后她惊艳了世界",
     title: "离婚后她惊艳了世界",
@@ -5764,8 +6104,7 @@ export const bookItems = [
     downloadUrl: "/books/260_离婚后她惊艳了世界1-3980章.txt",
     sourceUrl: "https://www.deqixs.org/260/txt.html#dir",
   },
-
-  {
+{
     id: 261,
     slug: "太荒吞天诀",
     title: "太荒吞天诀",
@@ -5782,8 +6121,7 @@ export const bookItems = [
     downloadUrl: "/books/261_太荒吞天诀1-6230章.txt",
     sourceUrl: "https://www.deqixs.org/261/txt.html#dir",
   },
-
-  {
+{
     id: 262,
     slug: "快穿-小暴躁他拒当舔狗",
     title: "快穿：小暴躁他拒当舔狗",
@@ -5800,8 +6138,7 @@ export const bookItems = [
     downloadUrl: "/books/262_快穿：小暴躁他拒当舔狗1-285章.txt",
     sourceUrl: "https://www.deqixs.org/262/txt.html#dir",
   },
-
-  {
+{
     id: 263,
     slug: "八零-玄学破案-警局请我当专家惊动全国",
     title: "八零：玄学破案，警局请我当专家惊动全国",
@@ -5818,8 +6155,7 @@ export const bookItems = [
     downloadUrl: "/books/263_八零：玄学破案，警局请我当专家惊动全国1-513章.txt",
     sourceUrl: "https://www.deqixs.org/263/txt.html#dir",
   },
-
-  {
+{
     id: 264,
     slug: "末世修罗场-恶女她只想暴扣丧尸",
     title: "末世修罗场？恶女她只想暴扣丧尸",
@@ -5836,8 +6172,7 @@ export const bookItems = [
     downloadUrl: "/books/264_末世修罗场？恶女她只想暴扣丧尸1-342章.txt",
     sourceUrl: "https://www.deqixs.org/264/txt.html#dir",
   },
-
-  {
+{
     id: 265,
     slug: "哪家正经妖王被正道小辈压着亲啊",
     title: "哪家正经妖王被正道小辈压着亲啊",
@@ -5854,8 +6189,7 @@ export const bookItems = [
     downloadUrl: "/books/265_哪家正经妖王被正道小辈压着亲啊1-271章.txt",
     sourceUrl: "https://www.deqixs.org/265/txt.html#dir",
   },
-
-  {
+{
     id: 266,
     slug: "大院来了个带空间的小萌宝",
     title: "大院来了个带空间的小萌宝",
@@ -5872,8 +6206,7 @@ export const bookItems = [
     downloadUrl: "/books/266_大院来了个带空间的小萌宝1-405章.txt",
     sourceUrl: "https://www.deqixs.org/266/txt.html#dir",
   },
-
-  {
+{
     id: 267,
     slug: "闪婚夫妻宠娃日常",
     title: "闪婚夫妻宠娃日常",
@@ -5890,8 +6223,7 @@ export const bookItems = [
     downloadUrl: "/books/267_闪婚夫妻宠娃日常1-3125章.txt",
     sourceUrl: "https://www.deqixs.org/267/txt.html#dir",
   },
-
-  {
+{
     id: 268,
     slug: "凡人修仙-疯了吧-你一百岁了还要修仙",
     title: "凡人修仙：疯了吧！你一百岁了还要修仙",
@@ -5908,8 +6240,7 @@ export const bookItems = [
     downloadUrl: "/books/268_凡人修仙：疯了吧！你一百岁了还要修仙1-572章.txt",
     sourceUrl: "https://www.deqixs.org/268/txt.html#dir",
   },
-
-  {
+{
     id: 269,
     slug: "九龙归一诀",
     title: "九龙归一诀",
@@ -5926,8 +6257,7 @@ export const bookItems = [
     downloadUrl: "/books/269_九龙归一诀1-5437章.txt",
     sourceUrl: "https://www.deqixs.org/269/txt.html#dir",
   },
-
-  {
+{
     id: 270,
     slug: "盛总-太太让您签的是去父留子协议",
     title: "盛总，太太让您签的是去父留子协议",
@@ -5944,8 +6274,7 @@ export const bookItems = [
     downloadUrl: "/books/270_盛总，太太让您签的是去父留子协议1-444章.txt",
     sourceUrl: "https://www.deqixs.org/270/txt.html#dir",
   },
-
-  {
+{
     id: 271,
     slug: "天降神豪妈-反派崽崽别黑化",
     title: "天降神豪妈，反派崽崽别黑化",
@@ -5962,8 +6291,7 @@ export const bookItems = [
     downloadUrl: "/books/271_天降神豪妈，反派崽崽别黑化1-964章.txt",
     sourceUrl: "https://www.deqixs.org/271/txt.html#dir",
   },
-
-  {
+{
     id: 272,
     slug: "斗罗绝世-多情剑客无情剑",
     title: "斗罗绝世：多情剑客无情剑",
@@ -5980,8 +6308,7 @@ export const bookItems = [
     downloadUrl: "/books/272_斗罗绝世：多情剑客无情剑1-158章.txt",
     sourceUrl: "https://www.deqixs.org/272/txt.html#dir",
   },
-
-  {
+{
     id: 273,
     slug: "抢我婚约嫁太子-我携孕肚嫁皇帝",
     title: "抢我婚约嫁太子？我携孕肚嫁皇帝",
@@ -5998,8 +6325,7 @@ export const bookItems = [
     downloadUrl: "/books/273_抢我婚约嫁太子？我携孕肚嫁皇帝1-1012章.txt",
     sourceUrl: "https://www.deqixs.org/273/txt.html#dir",
   },
-
-  {
+{
     id: 274,
     slug: "万人迷女主的追求者-都成了我裙下臣",
     title: "万人迷女主的追求者，都成了我裙下臣",
@@ -6016,8 +6342,7 @@ export const bookItems = [
     downloadUrl: "/books/274_万人迷女主的追求者，都成了我裙下臣1-704章.txt",
     sourceUrl: "https://www.deqixs.org/274/txt.html#dir",
   },
-
-  {
+{
     id: 275,
     slug: "穿成大龄通房后",
     title: "穿成大龄通房后",
@@ -6034,8 +6359,7 @@ export const bookItems = [
     downloadUrl: "/books/275_穿成大龄通房后1-502章.txt",
     sourceUrl: "https://www.deqixs.org/275/txt.html#dir",
   },
-
-  {
+{
     id: 276,
     slug: "星际溺宠-疯批黑龙又要娇娇柔哄",
     title: "星际溺宠！疯批黑龙又要娇娇柔哄！",
@@ -6052,8 +6376,7 @@ export const bookItems = [
     downloadUrl: "/books/276_星际溺宠！疯批黑龙又要娇娇柔哄！1-164章.txt",
     sourceUrl: "https://www.deqixs.org/276/txt.html#dir",
   },
-
-  {
+{
     id: 277,
     slug: "八零团宠-弹幕出现后我成了小福星",
     title: "八零团宠：弹幕出现后我成了小福星",
@@ -6070,8 +6393,7 @@ export const bookItems = [
     downloadUrl: "/books/277_八零团宠：弹幕出现后我成了小福星1-491章.txt",
     sourceUrl: "https://www.deqixs.org/277/txt.html#dir",
   },
-
-  {
+{
     id: 278,
     slug: "倒霉老实人-但万人迷",
     title: "倒霉老实人？但万人迷",
@@ -6088,8 +6410,7 @@ export const bookItems = [
     downloadUrl: "/books/278_倒霉老实人？但万人迷1-203章.txt",
     sourceUrl: "https://www.deqixs.org/278/txt.html#dir",
   },
-
-  {
+{
     id: 279,
     slug: "飒美小神医虐渣忙-随军误撩首长被疯宠",
     title: "飒美小神医虐渣忙，随军误撩首长被疯宠",
@@ -6106,8 +6427,7 @@ export const bookItems = [
     downloadUrl: "/books/279_飒美小神医虐渣忙，随军误撩首长被疯宠1-621章.txt",
     sourceUrl: "https://www.deqixs.org/279/txt.html#dir",
   },
-
-  {
+{
     id: 280,
     slug: "烧火丫鬟会婴语-在古代开贵族幼儿园",
     title: "烧火丫鬟会婴语，在古代开贵族幼儿园",
@@ -6124,8 +6444,7 @@ export const bookItems = [
     downloadUrl: "/books/280_烧火丫鬟会婴语，在古代开贵族幼儿园1-212章.txt",
     sourceUrl: "https://www.deqixs.org/280/txt.html#dir",
   },
-
-  {
+{
     id: 281,
     slug: "八零拒认豪门妈-真千金东北打猎养全家",
     title: "八零拒认豪门妈，真千金东北打猎养全家",
@@ -6142,8 +6461,7 @@ export const bookItems = [
     downloadUrl: "/books/281_八零拒认豪门妈，真千金东北打猎养全家1-451章.txt",
     sourceUrl: "https://www.deqixs.org/281/txt.html#dir",
   },
-
-  {
+{
     id: 282,
     slug: "我靠杀死攻略者飞升成仙",
     title: "我靠杀死攻略者飞升成仙",
@@ -6160,8 +6478,7 @@ export const bookItems = [
     downloadUrl: "/books/282_我靠杀死攻略者飞升成仙1-232章.txt",
     sourceUrl: "https://www.deqixs.org/282/txt.html#dir",
   },
-
-  {
+{
     id: 283,
     slug: "被逼自刎-嫡女重生撕婚书覆皇朝",
     title: "被逼自刎，嫡女重生撕婚书覆皇朝",
@@ -6178,8 +6495,7 @@ export const bookItems = [
     downloadUrl: "/books/283_被逼自刎，嫡女重生撕婚书覆皇朝1-764章.txt",
     sourceUrl: "https://www.deqixs.org/283/txt.html#dir",
   },
-
-  {
+{
     id: 284,
     slug: "死后三年被挖坟-侯府大小姐带全家改运",
     title: "死后三年被挖坟，侯府大小姐带全家改运",
@@ -6196,8 +6512,7 @@ export const bookItems = [
     downloadUrl: "/books/284_死后三年被挖坟，侯府大小姐带全家改运1-287章.txt",
     sourceUrl: "https://www.deqixs.org/284/txt.html#dir",
   },
-
-  {
+{
     id: 285,
     slug: "穿书六零-我一个女配坏一点怎么了",
     title: "穿书六零，我一个女配坏一点怎么了",
@@ -6214,8 +6529,7 @@ export const bookItems = [
     downloadUrl: "/books/285_穿书六零，我一个女配坏一点怎么了1-591章.txt",
     sourceUrl: "https://www.deqixs.org/285/txt.html#dir",
   },
-
-  {
+{
     id: 286,
     slug: "大明-朕-崇祯-只想摆烂",
     title: "大明：朕，崇祯，只想摆烂",
@@ -6232,8 +6546,7 @@ export const bookItems = [
     downloadUrl: "/books/286_大明：朕，崇祯，只想摆烂1-1295章.txt",
     sourceUrl: "https://www.deqixs.org/286/txt.html#dir",
   },
-
-  {
+{
     id: 287,
     slug: "分手六年-贺律师又沦陷了",
     title: "分手六年，贺律师又沦陷了",
@@ -6250,8 +6563,7 @@ export const bookItems = [
     downloadUrl: "/books/287_分手六年，贺律师又沦陷了1-453章.txt",
     sourceUrl: "https://www.deqixs.org/287/txt.html#dir",
   },
-
-  {
+{
     id: 288,
     slug: "锦鲤崽崽三岁半-捡小破烂重整家族荣耀",
     title: "锦鲤崽崽三岁半，捡小破烂重整家族荣耀",
@@ -6268,8 +6580,7 @@ export const bookItems = [
     downloadUrl: "/books/288_锦鲤崽崽三岁半，捡小破烂重整家族荣耀1-484章.txt",
     sourceUrl: "https://www.deqixs.org/288/txt.html#dir",
   },
-
-  {
+{
     id: 289,
     slug: "神豪-恶女今天也在努力扮演白富美",
     title: "神豪：恶女今天也在努力扮演白富美",
@@ -6286,8 +6597,7 @@ export const bookItems = [
     downloadUrl: "/books/289_神豪：恶女今天也在努力扮演白富美1-439章.txt",
     sourceUrl: "https://www.deqixs.org/289/txt.html#dir",
   },
-
-  {
+{
     id: 290,
     slug: "狂龙出狱",
     title: "狂龙出狱",
@@ -6304,8 +6614,7 @@ export const bookItems = [
     downloadUrl: "/books/290_狂龙出狱1-3142章.txt",
     sourceUrl: "https://www.deqixs.org/290/txt.html#dir",
   },
-
-  {
+{
     id: 291,
     slug: "神算甜妻-傅总独宠玄学小祖宗",
     title: "神算甜妻：傅总独宠玄学小祖宗！",
@@ -6322,8 +6631,7 @@ export const bookItems = [
     downloadUrl: "/books/291_神算甜妻：傅总独宠玄学小祖宗！1-274章.txt",
     sourceUrl: "https://www.deqixs.org/291/txt.html#dir",
   },
-
-  {
+{
     id: 292,
     slug: "神算嫡女不好惹-回京嘎嘎乱杀",
     title: "神算嫡女不好惹，回京嘎嘎乱杀",
@@ -6340,8 +6648,7 @@ export const bookItems = [
     downloadUrl: "/books/292_神算嫡女不好惹，回京嘎嘎乱杀1-618章.txt",
     sourceUrl: "https://www.deqixs.org/292/txt.html#dir",
   },
-
-  {
+{
     id: 293,
     slug: "深雾缠吻",
     title: "深雾缠吻",
@@ -6358,8 +6665,7 @@ export const bookItems = [
     downloadUrl: "/books/293_深雾缠吻1-560章.txt",
     sourceUrl: "https://www.deqixs.org/293/txt.html#dir",
   },
-
-  {
+{
     id: 294,
     slug: "裂春风",
     title: "裂春风",
@@ -6376,8 +6682,7 @@ export const bookItems = [
     downloadUrl: "/books/294_裂春风1-432章.txt",
     sourceUrl: "https://www.deqixs.org/294/txt.html#dir",
   },
-
-  {
+{
     id: 295,
     slug: "天骄录",
     title: "天骄录",
@@ -6394,8 +6699,7 @@ export const bookItems = [
     downloadUrl: "/books/295_天骄录1-629章.txt",
     sourceUrl: "https://www.deqixs.org/295/txt.html#dir",
   },
-
-  {
+{
     id: 296,
     slug: "霍二爷-新婚请克制",
     title: "霍二爷，新婚请克制！",
@@ -6412,8 +6716,7 @@ export const bookItems = [
     downloadUrl: "/books/296_霍二爷，新婚请克制！1-373章.txt",
     sourceUrl: "https://www.deqixs.org/296/txt.html#dir",
   },
-
-  {
+{
     id: 297,
     slug: "京婚难攀-到期不续",
     title: "京婚难攀，到期不续",
@@ -6430,8 +6733,7 @@ export const bookItems = [
     downloadUrl: "/books/297_京婚难攀，到期不续1-419章.txt",
     sourceUrl: "https://www.deqixs.org/297/txt.html#dir",
   },
-
-  {
+{
     id: 298,
     slug: "皇叔借点功德-王妃把符画猛了",
     title: "皇叔借点功德，王妃把符画猛了",
@@ -6448,8 +6750,7 @@ export const bookItems = [
     downloadUrl: "/books/298_皇叔借点功德，王妃把符画猛了1-2593章.txt",
     sourceUrl: "https://www.deqixs.org/298/txt.html#dir",
   },
-
-  {
+{
     id: 299,
     slug: "女总裁的全能兵王",
     title: "女总裁的全能兵王",
@@ -6466,8 +6767,7 @@ export const bookItems = [
     downloadUrl: "/books/299_女总裁的全能兵王1-7018章.txt",
     sourceUrl: "https://www.deqixs.org/299/txt.html#dir",
   },
-
-  {
+{
     id: 300,
     slug: "御兽从零分开始",
     title: "御兽从零分开始",
@@ -6484,8 +6784,7 @@ export const bookItems = [
     downloadUrl: "/books/300_御兽从零分开始1-1008章.txt",
     sourceUrl: "https://www.deqixs.org/300/txt.html#dir",
   },
-
-  {
+{
     id: 301,
     slug: "穿成恶雌想跑路-反派逼我当团宠",
     title: "穿成恶雌想跑路，反派逼我当团宠",
@@ -6502,8 +6801,7 @@ export const bookItems = [
     downloadUrl: "/books/301_穿成恶雌想跑路，反派逼我当团宠1-1032章.txt",
     sourceUrl: "https://www.deqixs.org/301/txt.html#dir",
   },
-
-  {
+{
     id: 302,
     slug: "跨国疯批强制爱-宝贝乖-亲一个",
     title: "跨国疯批强制爱！宝贝乖，亲一个",
@@ -6520,8 +6818,7 @@ export const bookItems = [
     downloadUrl: "/books/302_跨国疯批强制爱！宝贝乖，亲一个1-692章.txt",
     sourceUrl: "https://www.deqixs.org/302/txt.html#dir",
   },
-
-  {
+{
     id: 303,
     slug: "死后第十年-白月光大师姐回来了",
     title: "死后第十年，白月光大师姐回来了",
@@ -6538,8 +6835,7 @@ export const bookItems = [
     downloadUrl: "/books/303_死后第十年，白月光大师姐回来了1-625章.txt",
     sourceUrl: "https://www.deqixs.org/303/txt.html#dir",
   },
-
-  {
+{
     id: 304,
     slug: "星际茶雌七零来-绑定魅魔修罗场",
     title: "星际茶雌七零来，绑定魅魔修罗场",
@@ -6556,8 +6852,7 @@ export const bookItems = [
     downloadUrl: "/books/304_星际茶雌七零来，绑定魅魔修罗场1-547章.txt",
     sourceUrl: "https://www.deqixs.org/304/txt.html#dir",
   },
-
-  {
+{
     id: 305,
     slug: "天灾第十年跟我去种田",
     title: "天灾第十年跟我去种田",
@@ -6574,8 +6869,7 @@ export const bookItems = [
     downloadUrl: "/books/305_天灾第十年跟我去种田1-2151章.txt",
     sourceUrl: "https://www.deqixs.org/305/txt.html#dir",
   },
-
-  {
+{
     id: 306,
     slug: "八零孕肚进京-被高冷前夫亲晕了",
     title: "八零孕肚进京：被高冷前夫亲晕了",
@@ -6592,8 +6886,7 @@ export const bookItems = [
     downloadUrl: "/books/306_八零孕肚进京：被高冷前夫亲晕了1-457章.txt",
     sourceUrl: "https://www.deqixs.org/306/txt.html#dir",
   },
-
-  {
+{
     id: 307,
     slug: "全家夺我军功-重生嫡女屠了满门",
     title: "全家夺我军功，重生嫡女屠了满门",
@@ -6610,8 +6903,7 @@ export const bookItems = [
     downloadUrl: "/books/307_全家夺我军功，重生嫡女屠了满门1-1602章.txt",
     sourceUrl: "https://www.deqixs.org/307/txt.html#dir",
   },
-
-  {
+{
     id: 308,
     slug: "七零随军抽盲盒-国家追着我喂饭",
     title: "七零随军抽盲盒，国家追着我喂饭",
@@ -6628,8 +6920,7 @@ export const bookItems = [
     downloadUrl: "/books/308_七零随军抽盲盒，国家追着我喂饭1-304章.txt",
     sourceUrl: "https://www.deqixs.org/308/txt.html#dir",
   },
-
-  {
+{
     id: 309,
     slug: "直播捡垃圾-我成警局常客",
     title: "直播捡垃圾，我成警局常客",
@@ -6646,8 +6937,7 @@ export const bookItems = [
     downloadUrl: "/books/309_直播捡垃圾，我成警局常客1-1121章.txt",
     sourceUrl: "https://www.deqixs.org/309/txt.html#dir",
   },
-
-  {
+{
     id: 310,
     slug: "最高权力",
     title: "最高权力",
@@ -6664,8 +6954,7 @@ export const bookItems = [
     downloadUrl: "/books/310_最高权力1-930章.txt",
     sourceUrl: "https://www.deqixs.org/310/txt.html#dir",
   },
-
-  {
+{
     id: 311,
     slug: "谢太太都显怀了-京圈太子爷还没释怀",
     title: "谢太太都显怀了，京圈太子爷还没释怀",
@@ -6682,8 +6971,7 @@ export const bookItems = [
     downloadUrl: "/books/311_谢太太都显怀了，京圈太子爷还没释怀1-313章.txt",
     sourceUrl: "https://www.deqixs.org/311/txt.html#dir",
   },
-
-  {
+{
     id: 312,
     slug: "铁血残明",
     title: "铁血残明",
@@ -6700,8 +6988,7 @@ export const bookItems = [
     downloadUrl: "/books/312_铁血残明1-619章.txt",
     sourceUrl: "https://www.deqixs.org/312/txt.html#dir",
   },
-
-  {
+{
     id: 313,
     slug: "绑定种地系统-全网排队求我卖灵果",
     title: "绑定种地系统，全网排队求我卖灵果",
@@ -6718,8 +7005,7 @@ export const bookItems = [
     downloadUrl: "/books/313_绑定种地系统，全网排队求我卖灵果1-994章.txt",
     sourceUrl: "https://www.deqixs.org/313/txt.html#dir",
   },
-
-  {
+{
     id: 314,
     slug: "山村小神医",
     title: "山村小神医",
@@ -6736,8 +7022,7 @@ export const bookItems = [
     downloadUrl: "/books/314_山村小神医1-5793章.txt",
     sourceUrl: "https://www.deqixs.org/314/txt.html#dir",
   },
-
-  {
+{
     id: 315,
     slug: "原主网恋谈三个-她翻车翻成团宠",
     title: "原主网恋谈三个，她翻车翻成团宠",
@@ -6754,8 +7039,7 @@ export const bookItems = [
     downloadUrl: "/books/315_原主网恋谈三个，她翻车翻成团宠1-257章.txt",
     sourceUrl: "https://www.deqixs.org/315/txt.html#dir",
   },
-
-  {
+{
     id: 316,
     slug: "娇娇随军认错夫-糙汉军官沦陷了",
     title: "娇娇随军认错夫：糙汉军官沦陷了",
@@ -6772,8 +7056,7 @@ export const bookItems = [
     downloadUrl: "/books/316_娇娇随军认错夫：糙汉军官沦陷了1-314章.txt",
     sourceUrl: "https://www.deqixs.org/316/txt.html#dir",
   },
-
-  {
+{
     id: 317,
     slug: "七零送爹入赘-我靠后娘享清福",
     title: "七零送爹入赘，我靠后娘享清福",
@@ -6790,8 +7073,7 @@ export const bookItems = [
     downloadUrl: "/books/317_七零送爹入赘，我靠后娘享清福1-304章.txt",
     sourceUrl: "https://www.deqixs.org/317/txt.html#dir",
   },
-
-  {
+{
     id: 318,
     slug: "穿书七零-小可怜搬空家产去下乡",
     title: "穿书七零，小可怜搬空家产去下乡",
@@ -6808,8 +7090,7 @@ export const bookItems = [
     downloadUrl: "/books/318_穿书七零，小可怜搬空家产去下乡1-1181章.txt",
     sourceUrl: "https://www.deqixs.org/318/txt.html#dir",
   },
-
-  {
+{
     id: 319,
     slug: "高门小祖母",
     title: "高门小祖母",
@@ -6826,8 +7107,7 @@ export const bookItems = [
     downloadUrl: "/books/319_高门小祖母1-774章.txt",
     sourceUrl: "https://www.deqixs.org/319/txt.html#dir",
   },
-
-  {
+{
     id: 320,
     slug: "穿成六零炮灰-她靠六国语言赢麻了",
     title: "穿成六零炮灰，她靠六国语言赢麻了",
@@ -6844,8 +7124,7 @@ export const bookItems = [
     downloadUrl: "/books/320_穿成六零炮灰，她靠六国语言赢麻了1-443章.txt",
     sourceUrl: "https://www.deqixs.org/320/txt.html#dir",
   },
-
-  {
+{
     id: 321,
     slug: "八零-被全家抛弃后-嫁海归教授宠上天",
     title: "八零：被全家抛弃后，嫁海归教授宠上天",
@@ -6862,8 +7141,7 @@ export const bookItems = [
     downloadUrl: "/books/321_八零：被全家抛弃后，嫁海归教授宠上天1-310章.txt",
     sourceUrl: "https://www.deqixs.org/321/txt.html#dir",
   },
-
-  {
+{
     id: 322,
     slug: "破洞小木屋求生指南",
     title: "破洞小木屋求生指南",
@@ -6880,8 +7158,7 @@ export const bookItems = [
     downloadUrl: "/books/322_破洞小木屋求生指南1-597章.txt",
     sourceUrl: "https://www.deqixs.org/322/txt.html#dir",
   },
-
-  {
+{
     id: 323,
     slug: "穿成海王庶女掉马后-权贵们争红眼",
     title: "穿成海王庶女掉马后，权贵们争红眼",
@@ -6898,8 +7175,7 @@ export const bookItems = [
     downloadUrl: "/books/323_穿成海王庶女掉马后，权贵们争红眼1-229章.txt",
     sourceUrl: "https://www.deqixs.org/323/txt.html#dir",
   },
-
-  {
+{
     id: 324,
     slug: "八零骗婚夺岗-我预知未来让渣男悔断肠",
     title: "八零骗婚夺岗？我预知未来让渣男悔断肠",
@@ -6916,8 +7192,7 @@ export const bookItems = [
     downloadUrl: "/books/324_八零骗婚夺岗？我预知未来让渣男悔断肠1-463章.txt",
     sourceUrl: "https://www.deqixs.org/324/txt.html#dir",
   },
-
-  {
+{
     id: 325,
     slug: "恋综直播挖尸骨-警局给我送锦旗",
     title: "恋综直播挖尸骨，警局给我送锦旗",
@@ -6934,8 +7209,7 @@ export const bookItems = [
     downloadUrl: "/books/325_恋综直播挖尸骨，警局给我送锦旗1-1096章.txt",
     sourceUrl: "https://www.deqixs.org/325/txt.html#dir",
   },
-
-  {
+{
     id: 326,
     slug: "快穿-妖孽美人他天天腰酸腿软",
     title: "快穿：妖孽美人他天天腰酸腿软",
@@ -6952,8 +7226,7 @@ export const bookItems = [
     downloadUrl: "/books/326_快穿：妖孽美人他天天腰酸腿软1-121章.txt",
     sourceUrl: "https://www.deqixs.org/326/txt.html#dir",
   },
-
-  {
+{
     id: 327,
     slug: "死对头失忆后-张口就喊我老婆",
     title: "死对头失忆后，张口就喊我老婆",
@@ -6970,8 +7243,7 @@ export const bookItems = [
     downloadUrl: "/books/327_死对头失忆后，张口就喊我老婆1-203章.txt",
     sourceUrl: "https://www.deqixs.org/327/txt.html#dir",
   },
-
-  {
+{
     id: 328,
     slug: "咸鱼嘴开光-我把反派权臣训成狗",
     title: "咸鱼嘴开光？我把反派权臣训成狗",
@@ -6988,8 +7260,7 @@ export const bookItems = [
     downloadUrl: "/books/328_咸鱼嘴开光？我把反派权臣训成狗1-438章.txt",
     sourceUrl: "https://www.deqixs.org/328/txt.html#dir",
   },
-
-  {
+{
     id: 329,
     slug: "首辅绝嗣-我连生三子全家宠上天",
     title: "首辅绝嗣，我连生三子全家宠上天",
@@ -7006,8 +7277,7 @@ export const bookItems = [
     downloadUrl: "/books/329_首辅绝嗣，我连生三子全家宠上天1-345章.txt",
     sourceUrl: "https://www.deqixs.org/329/txt.html#dir",
   },
-
-  {
+{
     id: 330,
     slug: "不是游戏吗-怎么你们真修仙啊",
     title: "不是游戏吗？怎么你们真修仙啊！",
@@ -7024,8 +7294,7 @@ export const bookItems = [
     downloadUrl: "/books/330_不是游戏吗？怎么你们真修仙啊！1-451章.txt",
     sourceUrl: "https://www.deqixs.org/330/txt.html#dir",
   },
-
-  {
+{
     id: 331,
     slug: "快穿之钓系美人娇宠日常",
     title: "快穿之钓系美人娇宠日常",
@@ -7042,8 +7311,7 @@ export const bookItems = [
     downloadUrl: "/books/331_快穿之钓系美人娇宠日常1-2885章.txt",
     sourceUrl: "https://www.deqixs.org/331/txt.html#dir",
   },
-
-  {
+{
     id: 332,
     slug: "系统绑错人-我被校花养成了武神",
     title: "系统绑错人，我被校花养成了武神",
@@ -7060,8 +7328,7 @@ export const bookItems = [
     downloadUrl: "/books/332_系统绑错人，我被校花养成了武神1-360章.txt",
     sourceUrl: "https://www.deqixs.org/332/txt.html#dir",
   },
-
-  {
+{
     id: 333,
     slug: "司火-虐渣途中发现白月光竟是我自己",
     title: "司火：虐渣途中发现白月光竟是我自己",
@@ -7078,8 +7345,7 @@ export const bookItems = [
     downloadUrl: "/books/333_司火：虐渣途中发现白月光竟是我自己1-173章.txt",
     sourceUrl: "https://www.deqixs.org/333/txt.html#dir",
   },
-
-  {
+{
     id: 334,
     slug: "人间有剑",
     title: "人间有剑",
@@ -7096,8 +7362,7 @@ export const bookItems = [
     downloadUrl: "/books/334_人间有剑1-784章.txt",
     sourceUrl: "https://www.deqixs.org/334/txt.html#dir",
   },
-
-  {
+{
     id: 335,
     slug: "不是炮灰吗-怎么黑化后都想亲哭他",
     title: "不是炮灰吗？怎么黑化后都想亲哭他",
@@ -7114,8 +7379,7 @@ export const bookItems = [
     downloadUrl: "/books/335_不是炮灰吗？怎么黑化后都想亲哭他1-197章.txt",
     sourceUrl: "https://www.deqixs.org/335/txt.html#dir",
   },
-
-  {
+{
     id: 336,
     slug: "折煞",
     title: "折煞",
@@ -7132,8 +7396,7 @@ export const bookItems = [
     downloadUrl: "/books/336_折煞1-537章.txt",
     sourceUrl: "https://www.deqixs.org/336/txt.html#dir",
   },
-
-  {
+{
     id: 337,
     slug: "随亲爹入赘-我靠吃软饭稳坐团宠",
     title: "随亲爹入赘，我靠吃软饭稳坐团宠",
@@ -7150,8 +7413,7 @@ export const bookItems = [
     downloadUrl: "/books/337_随亲爹入赘，我靠吃软饭稳坐团宠1-622章.txt",
     sourceUrl: "https://www.deqixs.org/337/txt.html#dir",
   },
-
-  {
+{
     id: 338,
     slug: "诡异入侵-你契约华夏鬼神",
     title: "诡异入侵，你契约华夏鬼神？",
@@ -7168,8 +7430,7 @@ export const bookItems = [
     downloadUrl: "/books/338_诡异入侵，你契约华夏鬼神？1-205章.txt",
     sourceUrl: "https://www.deqixs.org/338/txt.html#dir",
   },
-
-  {
+{
     id: 339,
     slug: "锦绣盛唐-我的父亲是李世民",
     title: "锦绣盛唐：我的父亲是李世民",
@@ -7186,8 +7447,7 @@ export const bookItems = [
     downloadUrl: "/books/339_锦绣盛唐：我的父亲是李世民1-1815章.txt",
     sourceUrl: "https://www.deqixs.org/339/txt.html#dir",
   },
-
-  {
+{
     id: 340,
     slug: "娇软妹宝勾勾手-阴湿大佬失控了",
     title: "娇软妹宝勾勾手，阴湿大佬失控了",
@@ -7204,8 +7464,7 @@ export const bookItems = [
     downloadUrl: "/books/340_娇软妹宝勾勾手，阴湿大佬失控了1-267章.txt",
     sourceUrl: "https://www.deqixs.org/340/txt.html#dir",
   },
-
-  {
+{
     id: 341,
     slug: "七零宠婚-嫁给第一硬汉",
     title: "七零宠婚，嫁给第一硬汉",
@@ -7222,8 +7481,7 @@ export const bookItems = [
     downloadUrl: "/books/341_七零宠婚，嫁给第一硬汉1-2848章.txt",
     sourceUrl: "https://www.deqixs.org/341/txt.html#dir",
   },
-
-  {
+{
     id: 342,
     slug: "继承精神病院后-我执掌了疯神榜",
     title: "继承精神病院后，我执掌了疯神榜",
@@ -7240,8 +7498,7 @@ export const bookItems = [
     downloadUrl: "/books/342_继承精神病院后，我执掌了疯神榜1-401章.txt",
     sourceUrl: "https://www.deqixs.org/342/txt.html#dir",
   },
-
-  {
+{
     id: 343,
     slug: "重生78-三个绝美前妻-我一人挑全家",
     title: "重生78：三个绝美前妻，我一人挑全家",
@@ -7258,8 +7515,7 @@ export const bookItems = [
     downloadUrl: "/books/343_重生78：三个绝美前妻，我一人挑全家1-905章.txt",
     sourceUrl: "https://www.deqixs.org/343/txt.html#dir",
   },
-
-  {
+{
     id: 344,
     slug: "众仙俯首",
     title: "众仙俯首",
@@ -7276,8 +7532,7 @@ export const bookItems = [
     downloadUrl: "/books/344_众仙俯首1-1100章.txt",
     sourceUrl: "https://www.deqixs.org/344/txt.html#dir",
   },
-
-  {
+{
     id: 345,
     slug: "1960-我叔叔是fbi局长",
     title: "1960：我叔叔是FBI局长",
@@ -7294,8 +7549,7 @@ export const bookItems = [
     downloadUrl: "/books/345_1960：我叔叔是FBI局长1-455章.txt",
     sourceUrl: "https://www.deqixs.org/345/txt.html#dir",
   },
-
-  {
+{
     id: 346,
     slug: "我的天-他做菜会发光",
     title: "我的天，他做菜会发光",
@@ -7312,8 +7566,7 @@ export const bookItems = [
     downloadUrl: "/books/346_我的天，他做菜会发光1-845章.txt",
     sourceUrl: "https://www.deqixs.org/346/txt.html#dir",
   },
-
-  {
+{
     id: 347,
     slug: "解春衫",
     title: "解春衫",
@@ -7330,8 +7583,7 @@ export const bookItems = [
     downloadUrl: "/books/347_解春衫1-762章.txt",
     sourceUrl: "https://www.deqixs.org/347/txt.html#dir",
   },
-
-  {
+{
     id: 348,
     slug: "重生1958-从窝在深山打猎开始",
     title: "重生1958：从窝在深山打猎开始",
@@ -7348,8 +7600,7 @@ export const bookItems = [
     downloadUrl: "/books/348_重生1958：从窝在深山打猎开始1-2653章.txt",
     sourceUrl: "https://www.deqixs.org/348/txt.html#dir",
   },
-
-  {
+{
     id: 349,
     slug: "抢我姻缘-转身嫁暴君夺后位",
     title: "抢我姻缘？转身嫁暴君夺后位",
@@ -7366,8 +7617,7 @@ export const bookItems = [
     downloadUrl: "/books/349_抢我姻缘？转身嫁暴君夺后位1-2332章.txt",
     sourceUrl: "https://www.deqixs.org/349/txt.html#dir",
   },
-
-  {
+{
     id: 350,
     slug: "太后娘娘请开门-奴才来请安了",
     title: "太后娘娘请开门，奴才来请安了",
@@ -7384,8 +7634,7 @@ export const bookItems = [
     downloadUrl: "/books/350_太后娘娘请开门，奴才来请安了1-1358章.txt",
     sourceUrl: "https://www.deqixs.org/350/txt.html#dir",
   },
-
-  {
+{
     id: 351,
     slug: "直播养娃-百万古人惊掉下巴",
     title: "直播养娃，百万古人惊掉下巴",
@@ -7402,8 +7651,7 @@ export const bookItems = [
     downloadUrl: "/books/351_直播养娃，百万古人惊掉下巴1-566章.txt",
     sourceUrl: "https://www.deqixs.org/351/txt.html#dir",
   },
-
-  {
+{
     id: 352,
     slug: "星际恶雌觉醒后-七个大佬修罗场",
     title: "星际恶雌觉醒后，七个大佬修罗场",
@@ -7420,8 +7668,7 @@ export const bookItems = [
     downloadUrl: "/books/352_星际恶雌觉醒后，七个大佬修罗场1-577章.txt",
     sourceUrl: "https://www.deqixs.org/352/txt.html#dir",
   },
-
-  {
+{
     id: 353,
     slug: "万古第一神",
     title: "万古第一神",
@@ -7438,8 +7685,7 @@ export const bookItems = [
     downloadUrl: "/books/353_万古第一神1-7715章.txt",
     sourceUrl: "https://www.deqixs.org/353/txt.html#dir",
   },
-
-  {
+{
     id: 354,
     slug: "你拖婚不娶-军侯万金聘礼堵我门",
     title: "你拖婚不娶？军侯万金聘礼堵我门",
@@ -7456,8 +7702,7 @@ export const bookItems = [
     downloadUrl: "/books/354_你拖婚不娶？军侯万金聘礼堵我门1-625章.txt",
     sourceUrl: "https://www.deqixs.org/354/txt.html#dir",
   },
-
-  {
+{
     id: 355,
     slug: "惊喜吗-开局送五个兽夫受不了",
     title: "惊喜吗？开局送五个兽夫受不了",
@@ -7474,8 +7719,7 @@ export const bookItems = [
     downloadUrl: "/books/355_惊喜吗？开局送五个兽夫受不了1-483章.txt",
     sourceUrl: "https://www.deqixs.org/355/txt.html#dir",
   },
-
-  {
+{
     id: 356,
     slug: "非正常女天师",
     title: "非正常女天师",
@@ -7492,8 +7736,7 @@ export const bookItems = [
     downloadUrl: "/books/356_非正常女天师1-3843章.txt",
     sourceUrl: "https://www.deqixs.org/356/txt.html#dir",
   },
-
-  {
+{
     id: 357,
     slug: "穿成星际废雌-捡漏sss级兽夫赢麻了",
     title: "穿成星际废雌，捡漏SSS级兽夫赢麻了",
@@ -7510,8 +7753,7 @@ export const bookItems = [
     downloadUrl: "/books/357_穿成星际废雌，捡漏SSS级兽夫赢麻了1-442章.txt",
     sourceUrl: "https://www.deqixs.org/357/txt.html#dir",
   },
-
-  {
+{
     id: 358,
     slug: "大佬十代单传-我为他一胎生四宝",
     title: "大佬十代单传，我为他一胎生四宝",
@@ -7528,8 +7770,7 @@ export const bookItems = [
     downloadUrl: "/books/358_大佬十代单传，我为他一胎生四宝1-2239章.txt",
     sourceUrl: "https://www.deqixs.org/358/txt.html#dir",
   },
-
-  {
+{
     id: 359,
     slug: "错认金丝雀-金主今天也在跪求原谅",
     title: "错认金丝雀，金主今天也在跪求原谅",
@@ -7546,8 +7787,7 @@ export const bookItems = [
     downloadUrl: "/books/359_错认金丝雀，金主今天也在跪求原谅1-147章.txt",
     sourceUrl: "https://www.deqixs.org/359/txt.html#dir",
   },
-
-  {
+{
     id: 360,
     slug: "改修无情道后-师兄们哭着求原谅",
     title: "改修无情道后，师兄们哭着求原谅",
@@ -7564,8 +7804,7 @@ export const bookItems = [
     downloadUrl: "/books/360_改修无情道后，师兄们哭着求原谅1-856章.txt",
     sourceUrl: "https://www.deqixs.org/360/txt.html#dir",
   },
-
-  {
+{
     id: 361,
     slug: "八零-瞒着渣男中巨款-转头嫁京圈大院",
     title: "八零：瞒着渣男中巨款，转头嫁京圈大院",
@@ -7582,8 +7821,7 @@ export const bookItems = [
     downloadUrl: "/books/361_八零：瞒着渣男中巨款，转头嫁京圈大院1-415章.txt",
     sourceUrl: "https://www.deqixs.org/361/txt.html#dir",
   },
-
-  {
+{
     id: 362,
     slug: "朱门春闺",
     title: "朱门春闺",
@@ -7600,8 +7838,7 @@ export const bookItems = [
     downloadUrl: "/books/362_朱门春闺1-861章.txt",
     sourceUrl: "https://www.deqixs.org/362/txt.html#dir",
   },
-
-  {
+{
     id: 363,
     slug: "夫人她马甲又轰动全城了",
     title: "夫人她马甲又轰动全城了",
@@ -7618,8 +7855,7 @@ export const bookItems = [
     downloadUrl: "/books/363_夫人她马甲又轰动全城了1-7695章.txt",
     sourceUrl: "https://www.deqixs.org/363/txt.html#dir",
   },
-
-  {
+{
     id: 364,
     slug: "从军赋",
     title: "从军赋",
@@ -7636,8 +7872,7 @@ export const bookItems = [
     downloadUrl: "/books/364_从军赋1-1843章.txt",
     sourceUrl: "https://www.deqixs.org/364/txt.html#dir",
   },
-
-  {
+{
     id: 365,
     slug: "步步登阶",
     title: "步步登阶",
@@ -7654,8 +7889,7 @@ export const bookItems = [
     downloadUrl: "/books/365_步步登阶1-1335章.txt",
     sourceUrl: "https://www.deqixs.org/365/txt.html#dir",
   },
-
-  {
+{
     id: 366,
     slug: "吞噬古帝",
     title: "吞噬古帝",
@@ -7672,8 +7906,7 @@ export const bookItems = [
     downloadUrl: "/books/366_吞噬古帝1-6788章.txt",
     sourceUrl: "https://www.deqixs.org/366/txt.html#dir",
   },
-
-  {
+{
     id: 367,
     slug: "千亿前妻带崽归来-把沈总踢出户口本",
     title: "千亿前妻带崽归来，把沈总踢出户口本",
@@ -7690,8 +7923,7 @@ export const bookItems = [
     downloadUrl: "/books/367_千亿前妻带崽归来，把沈总踢出户口本1-2076章.txt",
     sourceUrl: "https://www.deqixs.org/367/txt.html#dir",
   },
-
-  {
+{
     id: 368,
     slug: "我不过演演戏-京圈大佬怎么沦陷了",
     title: "我不过演演戏，京圈大佬怎么沦陷了？",
@@ -7708,8 +7940,7 @@ export const bookItems = [
     downloadUrl: "/books/368_我不过演演戏，京圈大佬怎么沦陷了？1-173章.txt",
     sourceUrl: "https://www.deqixs.org/368/txt.html#dir",
   },
-
-  {
+{
     id: 369,
     slug: "守活寡五十年-重生后改嫁纯爱大佬",
     title: "守活寡五十年，重生后改嫁纯爱大佬",
@@ -7726,8 +7957,7 @@ export const bookItems = [
     downloadUrl: "/books/369_守活寡五十年，重生后改嫁纯爱大佬1-342章.txt",
     sourceUrl: "https://www.deqixs.org/369/txt.html#dir",
   },
-
-  {
+{
     id: 370,
     slug: "八零-误把双胞胎哥哥当成老公后-亡夫回来了",
     title: "八零：误把双胞胎哥哥当成老公后，亡夫回来了！",
@@ -7744,8 +7974,7 @@ export const bookItems = [
     downloadUrl: "/books/370_八零：误把双胞胎哥哥当成老公后，亡夫回来了！1-206章.txt",
     sourceUrl: "https://www.deqixs.org/370/txt.html#dir",
   },
-
-  {
+{
     id: 371,
     slug: "七零-生生生-就知道生-军少养不起了",
     title: "七零：生生生，就知道生！军少养不起了",
@@ -7762,8 +7991,7 @@ export const bookItems = [
     downloadUrl: "/books/371_七零：生生生，就知道生！军少养不起了1-319章.txt",
     sourceUrl: "https://www.deqixs.org/371/txt.html#dir",
   },
-
-  {
+{
     id: 372,
     slug: "重生急诊医生-从挽救市长千金开始",
     title: "重生急诊医生：从挽救市长千金开始",
@@ -7780,8 +8008,7 @@ export const bookItems = [
     downloadUrl: "/books/372_重生急诊医生：从挽救市长千金开始1-1834章.txt",
     sourceUrl: "https://www.deqixs.org/372/txt.html#dir",
   },
-
-  {
+{
     id: 373,
     slug: "七零沪上富贵花-撩动军官心间芽",
     title: "七零沪上富贵花，撩动军官心间芽",
@@ -7798,8 +8025,7 @@ export const bookItems = [
     downloadUrl: "/books/373_七零沪上富贵花，撩动军官心间芽1-721章.txt",
     sourceUrl: "https://www.deqixs.org/373/txt.html#dir",
   },
-
-  {
+{
     id: 374,
     slug: "六零换亲北大荒-守寡后丈夫又活了",
     title: "六零换亲北大荒，守寡后丈夫又活了",
@@ -7816,8 +8042,7 @@ export const bookItems = [
     downloadUrl: "/books/374_六零换亲北大荒，守寡后丈夫又活了1-230章.txt",
     sourceUrl: "https://www.deqixs.org/374/txt.html#dir",
   },
-
-  {
+{
     id: 375,
     slug: "全城植物当线人-国家求我别辞职",
     title: "全城植物当线人，国家求我别辞职",
@@ -7834,8 +8059,7 @@ export const bookItems = [
     downloadUrl: "/books/375_全城植物当线人，国家求我别辞职1-192章.txt",
     sourceUrl: "https://www.deqixs.org/375/txt.html#dir",
   },
-
-  {
+{
     id: 376,
     slug: "夫人绝不原谅-高冷渣夫失控了",
     title: "夫人绝不原谅，高冷渣夫失控了",
@@ -7852,8 +8076,7 @@ export const bookItems = [
     downloadUrl: "/books/376_夫人绝不原谅，高冷渣夫失控了1-617章.txt",
     sourceUrl: "https://www.deqixs.org/376/txt.html#dir",
   },
-
-  {
+{
     id: 377,
     slug: "虐文剧本已撕-我成修仙界第一疯批",
     title: "虐文剧本已撕，我成修仙界第一疯批",
@@ -7870,8 +8093,7 @@ export const bookItems = [
     downloadUrl: "/books/377_虐文剧本已撕，我成修仙界第一疯批1-283章.txt",
     sourceUrl: "https://www.deqixs.org/377/txt.html#dir",
   },
-
-  {
+{
     id: 378,
     slug: "穿成太子爷的恶毒初恋-已老实",
     title: "穿成太子爷的恶毒初恋，已老实",
@@ -7888,8 +8110,7 @@ export const bookItems = [
     downloadUrl: "/books/378_穿成太子爷的恶毒初恋，已老实1-288章.txt",
     sourceUrl: "https://www.deqixs.org/378/txt.html#dir",
   },
-
-  {
+{
     id: 379,
     slug: "极道剑尊",
     title: "极道剑尊",
@@ -7906,8 +8127,7 @@ export const bookItems = [
     downloadUrl: "/books/379_极道剑尊1-4653章.txt",
     sourceUrl: "https://www.deqixs.org/379/txt.html#dir",
   },
-
-  {
+{
     id: 380,
     slug: "抢遍气运机缘后-我被反派团宠了",
     title: "抢遍气运机缘后，我被反派团宠了",
@@ -7924,8 +8144,7 @@ export const bookItems = [
     downloadUrl: "/books/380_抢遍气运机缘后，我被反派团宠了1-358章.txt",
     sourceUrl: "https://www.deqixs.org/380/txt.html#dir",
   },
-
-  {
+{
     id: 381,
     slug: "穿六零-对照组女配嚣张点怎么了",
     title: "穿六零：对照组女配嚣张点怎么了",
@@ -7942,8 +8161,7 @@ export const bookItems = [
     downloadUrl: "/books/381_穿六零：对照组女配嚣张点怎么了1-1443章.txt",
     sourceUrl: "https://www.deqixs.org/381/txt.html#dir",
   },
-
-  {
+{
     id: 382,
     slug: "渣了上司后-海王他滑跪求原谅",
     title: "渣了上司后，海王他滑跪求原谅",
@@ -7960,8 +8178,7 @@ export const bookItems = [
     downloadUrl: "/books/382_渣了上司后，海王他滑跪求原谅1-294章.txt",
     sourceUrl: "https://www.deqixs.org/382/txt.html#dir",
   },
-
-  {
+{
     id: 383,
     slug: "顶级安抚剂-疯批哨兵争着标记我",
     title: "顶级安抚剂：疯批哨兵争着标记我",
@@ -7978,8 +8195,7 @@ export const bookItems = [
     downloadUrl: "/books/383_顶级安抚剂：疯批哨兵争着标记我1-94章.txt",
     sourceUrl: "https://www.deqixs.org/383/txt.html#dir",
   },
-
-  {
+{
     id: 384,
     slug: "七零绑定植灵空间-带黑土地从海岛火遍全国",
     title: "七零绑定植灵空间，带黑土地从海岛火遍全国",
@@ -7996,8 +8212,7 @@ export const bookItems = [
     downloadUrl: "/books/384_七零绑定植灵空间，带黑土地从海岛火遍全国1-253章.txt",
     sourceUrl: "https://www.deqixs.org/384/txt.html#dir",
   },
-
-  {
+{
     id: 385,
     slug: "国家爸爸请接收-我抓几个丧尸你研究",
     title: "国家爸爸请接收，我抓几个丧尸你研究",
@@ -8014,8 +8229,7 @@ export const bookItems = [
     downloadUrl: "/books/385_国家爸爸请接收，我抓几个丧尸你研究1-482章.txt",
     sourceUrl: "https://www.deqixs.org/385/txt.html#dir",
   },
-
-  {
+{
     id: 386,
     slug: "夫君死后第二天-她决定生个继承人",
     title: "夫君死后第二天，她决定生个继承人",
@@ -8032,8 +8246,7 @@ export const bookItems = [
     downloadUrl: "/books/386_夫君死后第二天，她决定生个继承人1-704章.txt",
     sourceUrl: "https://www.deqixs.org/386/txt.html#dir",
   },
-
-  {
+{
     id: 387,
     slug: "穿书七零-炮灰知青靠拆快递躺赢",
     title: "穿书七零，炮灰知青靠拆快递躺赢",
@@ -8050,8 +8263,7 @@ export const bookItems = [
     downloadUrl: "/books/387_穿书七零，炮灰知青靠拆快递躺赢1-397章.txt",
     sourceUrl: "https://www.deqixs.org/387/txt.html#dir",
   },
-
-  {
+{
     id: 388,
     slug: "六年婚姻失望至极-她走后渣总却疯了",
     title: "六年婚姻失望至极，她走后渣总却疯了",
@@ -8068,8 +8280,7 @@ export const bookItems = [
     downloadUrl: "/books/388_六年婚姻失望至极，她走后渣总却疯了1-783章.txt",
     sourceUrl: "https://www.deqixs.org/388/txt.html#dir",
   },
-
-  {
+{
     id: 389,
     slug: "当众掉马女儿身-三界大佬抢疯了",
     title: "当众掉马女儿身，三界大佬抢疯了",
@@ -8086,8 +8297,7 @@ export const bookItems = [
     downloadUrl: "/books/389_当众掉马女儿身，三界大佬抢疯了1-345章.txt",
     sourceUrl: "https://www.deqixs.org/389/txt.html#dir",
   },
-
-  {
+{
     id: 390,
     slug: "六零香江-我搬空家产嫁港城大佬",
     title: "六零香江，我搬空家产嫁港城大佬",
@@ -8104,8 +8314,7 @@ export const bookItems = [
     downloadUrl: "/books/390_六零香江，我搬空家产嫁港城大佬1-214章.txt",
     sourceUrl: "https://www.deqixs.org/390/txt.html#dir",
   },
-
-  {
+{
     id: 391,
     slug: "欲囚明珠",
     title: "欲囚明珠",
@@ -8122,8 +8331,7 @@ export const bookItems = [
     downloadUrl: "/books/391_欲囚明珠1-194章.txt",
     sourceUrl: "https://www.deqixs.org/391/txt.html#dir",
   },
-
-  {
+{
     id: 392,
     slug: "逼失忆太子入赘后-恶毒女配觉醒了",
     title: "逼失忆太子入赘后，恶毒女配觉醒了",
@@ -8140,8 +8348,7 @@ export const bookItems = [
     downloadUrl: "/books/392_逼失忆太子入赘后，恶毒女配觉醒了1-267章.txt",
     sourceUrl: "https://www.deqixs.org/392/txt.html#dir",
   },
-
-  {
+{
     id: 393,
     slug: "她偿",
     title: "她偿",
@@ -8158,8 +8365,7 @@ export const bookItems = [
     downloadUrl: "/books/393_她偿1-252章.txt",
     sourceUrl: "https://www.deqixs.org/393/txt.html#dir",
   },
-
-  {
+{
     id: 394,
     slug: "婚色诱瘾",
     title: "婚色诱瘾",
@@ -8176,8 +8382,7 @@ export const bookItems = [
     downloadUrl: "/books/394_婚色诱瘾1-529章.txt",
     sourceUrl: "https://www.deqixs.org/394/txt.html#dir",
   },
-
-  {
+{
     id: 395,
     slug: "修仙从做杂役开始",
     title: "修仙从做杂役开始",
@@ -8194,8 +8399,7 @@ export const bookItems = [
     downloadUrl: "/books/395_修仙从做杂役开始1-938章.txt",
     sourceUrl: "https://www.deqixs.org/395/txt.html#dir",
   },
-
-  {
+{
     id: 396,
     slug: "百炼飞升录",
     title: "百炼飞升录",
@@ -8211,8 +8415,7 @@ export const bookItems = [
     downloadUrl: "/books/396_百炼飞升录1-8220章.txt",
     sourceUrl: "https://www.deqixs.org/396/txt.html#dir",
   },
-
-  {
+{
     id: 397,
     slug: "碎婚",
     title: "碎婚",
@@ -8229,8 +8432,7 @@ export const bookItems = [
     downloadUrl: "/books/397_碎婚1-461章.txt",
     sourceUrl: "https://www.deqixs.org/397/txt.html#dir",
   },
-
-  {
+{
     id: 398,
     slug: "刚认亲就流放-我在西北种粮仓",
     title: "刚认亲就流放？我在西北种粮仓",
@@ -8247,8 +8449,7 @@ export const bookItems = [
     downloadUrl: "/books/398_刚认亲就流放？我在西北种粮仓1-294章.txt",
     sourceUrl: "https://www.deqixs.org/398/txt.html#dir",
   },
-
-  {
+{
     id: 399,
     slug: "捡来的乖乖夫君竟是反派疯批大佬",
     title: "捡来的乖乖夫君竟是反派疯批大佬",
@@ -8265,8 +8466,7 @@ export const bookItems = [
     downloadUrl: "/books/399_捡来的乖乖夫君竟是反派疯批大佬1-114章.txt",
     sourceUrl: "https://www.deqixs.org/399/txt.html#dir",
   },
-
-  {
+{
     id: 400,
     slug: "皇妃来自地府-百鬼退散",
     title: "皇妃来自地府，百鬼退散",
@@ -8282,8 +8482,7 @@ export const bookItems = [
     downloadUrl: "/books/400_皇妃来自地府，百鬼退散1-517章.txt",
     sourceUrl: "https://www.deqixs.org/400/txt.html#dir",
   },
-
-  {
+{
     id: 401,
     slug: "全家重生抢机缘-我拉佛子乱乾坤",
     title: "全家重生抢机缘，我拉佛子乱乾坤",
@@ -8300,8 +8499,7 @@ export const bookItems = [
     downloadUrl: "/books/401_全家重生抢机缘，我拉佛子乱乾坤1-303章.txt",
     sourceUrl: "https://www.deqixs.org/401/txt.html#dir",
   },
-
-  {
+{
     id: 402,
     slug: "穿越星际妻荣夫贵",
     title: "穿越星际妻荣夫贵",
@@ -8318,8 +8516,7 @@ export const bookItems = [
     downloadUrl: "/books/402_穿越星际妻荣夫贵1-8028章.txt",
     sourceUrl: "https://www.deqixs.org/402/txt.html#dir",
   },
-
-  {
+{
     id: 403,
     slug: "傲世潜龙",
     title: "傲世潜龙",
@@ -8336,8 +8533,7 @@ export const bookItems = [
     downloadUrl: "/books/403_傲世潜龙1-4042章.txt",
     sourceUrl: "https://www.deqixs.org/403/txt.html#dir",
   },
-
-  {
+{
     id: 404,
     slug: "破产后-上门老公成了我的金主",
     title: "破产后，上门老公成了我的金主",
@@ -8354,8 +8550,7 @@ export const bookItems = [
     downloadUrl: "/books/404_破产后，上门老公成了我的金主1-1412章.txt",
     sourceUrl: "https://www.deqixs.org/404/txt.html#dir",
   },
-
-  {
+{
     id: 405,
     slug: "不原谅-不复合-苏小姐独美",
     title: "不原谅，不复合，苏小姐独美",
@@ -8372,8 +8567,7 @@ export const bookItems = [
     downloadUrl: "/books/405_不原谅，不复合，苏小姐独美1-1267章.txt",
     sourceUrl: "https://www.deqixs.org/405/txt.html#dir",
   },
-
-  {
+{
     id: 406,
     slug: "o装a后-假少爷被真少爷强取豪夺了",
     title: "O装A后，假少爷被真少爷强取豪夺了",
@@ -8390,8 +8584,7 @@ export const bookItems = [
     downloadUrl: "/books/406_O装A后，假少爷被真少爷强取豪夺了1-260章.txt",
     sourceUrl: "https://www.deqixs.org/406/txt.html#dir",
   },
-
-  {
+{
     id: 407,
     slug: "重生你娶白月光-我艳冠京城你心慌",
     title: "重生你娶白月光，我艳冠京城你心慌",
@@ -8408,8 +8601,7 @@ export const bookItems = [
     downloadUrl: "/books/407_重生你娶白月光，我艳冠京城你心慌1-482章.txt",
     sourceUrl: "https://www.deqixs.org/407/txt.html#dir",
   },
-
-  {
+{
     id: 408,
     slug: "带着团购群回七零-猪肉粮油敞开吃",
     title: "带着团购群回七零，猪肉粮油敞开吃",
@@ -8426,8 +8618,7 @@ export const bookItems = [
     downloadUrl: "/books/408_带着团购群回七零，猪肉粮油敞开吃1-326章.txt",
     sourceUrl: "https://www.deqixs.org/408/txt.html#dir",
   },
-
-  {
+{
     id: 409,
     slug: "万人嫌怎么了-我养的崽全是修仙大佬",
     title: "万人嫌怎么了？我养的崽全是修仙大佬",
@@ -8444,8 +8635,7 @@ export const bookItems = [
     downloadUrl: "/books/409_万人嫌怎么了？我养的崽全是修仙大佬1-244章.txt",
     sourceUrl: "https://www.deqixs.org/409/txt.html#dir",
   },
-
-  {
+{
     id: 410,
     slug: "婆婆随军进京-满级厨艺馋哭大院",
     title: "婆婆随军进京：满级厨艺馋哭大院",
@@ -8462,8 +8652,7 @@ export const bookItems = [
     downloadUrl: "/books/410_婆婆随军进京：满级厨艺馋哭大院1-688章.txt",
     sourceUrl: "https://www.deqixs.org/410/txt.html#dir",
   },
-
-  {
+{
     id: 411,
     slug: "神算真千金-傅太太被豪门圈宠爆",
     title: "神算真千金，傅太太被豪门圈宠爆",
@@ -8480,8 +8669,7 @@ export const bookItems = [
     downloadUrl: "/books/411_神算真千金，傅太太被豪门圈宠爆1-1006章.txt",
     sourceUrl: "https://www.deqixs.org/411/txt.html#dir",
   },
-
-  {
+{
     id: 412,
     slug: "万界邪尊",
     title: "万界邪尊",
@@ -8498,8 +8686,7 @@ export const bookItems = [
     downloadUrl: "/books/412_万界邪尊1-2659章.txt",
     sourceUrl: "https://www.deqixs.org/412/txt.html#dir",
   },
-
-  {
+{
     id: 413,
     slug: "离婚后-霸总亲手撕了我的马甲",
     title: "离婚后，霸总亲手撕了我的马甲",
@@ -8516,8 +8703,7 @@ export const bookItems = [
     downloadUrl: "/books/413_离婚后，霸总亲手撕了我的马甲1-12127章.txt",
     sourceUrl: "https://www.deqixs.org/413/txt.html#dir",
   },
-
-  {
+{
     id: 414,
     slug: "她是剑修",
     title: "她是剑修",
@@ -8534,8 +8720,7 @@ export const bookItems = [
     downloadUrl: "/books/414_她是剑修1-1520章.txt",
     sourceUrl: "https://www.deqixs.org/414/txt.html#dir",
   },
-
-  {
+{
     id: 415,
     slug: "都市怪谈-相亲群只有我一个活人",
     title: "都市怪谈：相亲群只有我一个活人",
@@ -8552,8 +8737,7 @@ export const bookItems = [
     downloadUrl: "/books/415_都市怪谈：相亲群只有我一个活人1-541章.txt",
     sourceUrl: "https://www.deqixs.org/415/txt.html#dir",
   },
-
-  {
+{
     id: 416,
     slug: "人生登阶",
     title: "人生登阶",
@@ -8570,8 +8754,7 @@ export const bookItems = [
     downloadUrl: "/books/416_人生登阶1-1069章.txt",
     sourceUrl: "https://www.deqixs.org/416/txt.html#dir",
   },
-
-  {
+{
     id: 417,
     slug: "随军后-小资太太被空军大佬娇养了",
     title: "随军后，小资太太被空军大佬娇养了",
@@ -8588,8 +8771,7 @@ export const bookItems = [
     downloadUrl: "/books/417_随军后，小资太太被空军大佬娇养了1-300章.txt",
     sourceUrl: "https://www.deqixs.org/417/txt.html#dir",
   },
-
-  {
+{
     id: 418,
     slug: "闪婚夜-被残疾老公撩到腿软",
     title: "闪婚夜，被残疾老公撩到腿软",
@@ -8606,8 +8788,7 @@ export const bookItems = [
     downloadUrl: "/books/418_闪婚夜，被残疾老公撩到腿软1-1733章.txt",
     sourceUrl: "https://www.deqixs.org/418/txt.html#dir",
   },
-
-  {
+{
     id: 419,
     slug: "军王龙首-九五之尊",
     title: "军王龙首（九五之尊）",
@@ -8624,8 +8805,7 @@ export const bookItems = [
     downloadUrl: "/books/419_军王龙首（九五之尊）1-4224章.txt",
     sourceUrl: "https://www.deqixs.org/419/txt.html#dir",
   },
-
-  {
+{
     id: 420,
     slug: "六零下乡对照组-女主吃苦我享福",
     title: "六零下乡对照组：女主吃苦我享福",
@@ -8642,8 +8822,7 @@ export const bookItems = [
     downloadUrl: "/books/420_六零下乡对照组：女主吃苦我享福1-287章.txt",
     sourceUrl: "https://www.deqixs.org/420/txt.html#dir",
   },
-
-  {
+{
     id: 421,
     slug: "撩的野-玩的花-再坏他们也爱她",
     title: "撩的野！玩的花！再坏他们也爱她",
@@ -8660,8 +8839,7 @@ export const bookItems = [
     downloadUrl: "/books/421_撩的野！玩的花！再坏他们也爱她1-500章.txt",
     sourceUrl: "https://www.deqixs.org/421/txt.html#dir",
   },
-
-  {
+{
     id: 422,
     slug: "七零真千金搬空渣爹家产嫁兵王",
     title: "七零真千金搬空渣爹家产嫁兵王",
@@ -8678,8 +8856,7 @@ export const bookItems = [
     downloadUrl: "/books/422_七零真千金搬空渣爹家产嫁兵王1-429章.txt",
     sourceUrl: "https://www.deqixs.org/422/txt.html#dir",
   },
-
-  {
+{
     id: 423,
     slug: "救命-女扮男装后网骗对象竟是我室友",
     title: "救命！女扮男装后网骗对象竟是我室友！",
@@ -8696,8 +8873,7 @@ export const bookItems = [
     downloadUrl: "/books/423_救命！女扮男装后网骗对象竟是我室友！1-264章.txt",
     sourceUrl: "https://www.deqixs.org/423/txt.html#dir",
   },
-
-  {
+{
     id: 424,
     slug: "抓到喂鲨鱼-穿成渣浪女配后她每天都在装乖",
     title: "抓到喂鲨鱼！穿成渣浪女配后她每天都在装乖",
@@ -8714,8 +8890,7 @@ export const bookItems = [
     downloadUrl: "/books/424_抓到喂鲨鱼！穿成渣浪女配后她每天都在装乖1-280章.txt",
     sourceUrl: "https://www.deqixs.org/424/txt.html#dir",
   },
-
-  {
+{
     id: 425,
     slug: "七零-被换亲后我成了人生赢家",
     title: "七零：被换亲后我成了人生赢家",
@@ -8732,8 +8907,7 @@ export const bookItems = [
     downloadUrl: "/books/425_七零：被换亲后我成了人生赢家1-1403章.txt",
     sourceUrl: "https://www.deqixs.org/425/txt.html#dir",
   },
-
-  {
+{
     id: 426,
     slug: "大理寺小饭堂",
     title: "大理寺小饭堂",
@@ -8750,8 +8924,7 @@ export const bookItems = [
     downloadUrl: "/books/426_大理寺小饭堂1-1086章.txt",
     sourceUrl: "https://www.deqixs.org/426/txt.html#dir",
   },
-
-  {
+{
     id: 427,
     slug: "重生再嫁皇胄-我只想乱帝心夺凤位",
     title: "重生再嫁皇胄，我只想乱帝心夺凤位",
@@ -8768,8 +8941,7 @@ export const bookItems = [
     downloadUrl: "/books/427_重生再嫁皇胄，我只想乱帝心夺凤位1-1248章.txt",
     sourceUrl: "https://www.deqixs.org/427/txt.html#dir",
   },
-
-  {
+{
     id: 428,
     slug: "九转星辰诀",
     title: "九转星辰诀",
@@ -8786,8 +8958,7 @@ export const bookItems = [
     downloadUrl: "/books/428_九转星辰诀1-9223章.txt",
     sourceUrl: "https://www.deqixs.org/428/txt.html#dir",
   },
-
-  {
+{
     id: 429,
     slug: "饥荒年-我囤货娇养了古代大将军",
     title: "饥荒年，我囤货娇养了古代大将军",
@@ -8804,8 +8975,7 @@ export const bookItems = [
     downloadUrl: "/books/429_饥荒年，我囤货娇养了古代大将军1-1467章.txt",
     sourceUrl: "https://www.deqixs.org/429/txt.html#dir",
   },
-
-  {
+{
     id: 430,
     slug: "重生八零嫁给全军第一硬汉",
     title: "重生八零嫁给全军第一硬汉",
@@ -8822,8 +8992,7 @@ export const bookItems = [
     downloadUrl: "/books/430_重生八零嫁给全军第一硬汉1-3230章.txt",
     sourceUrl: "https://www.deqixs.org/430/txt.html#dir",
   },
-
-  {
+{
     id: 431,
     slug: "鉴宝金瞳",
     title: "鉴宝金瞳",
@@ -8840,8 +9009,7 @@ export const bookItems = [
     downloadUrl: "/books/431_鉴宝金瞳1-12071章.txt",
     sourceUrl: "https://www.deqixs.org/431/txt.html#dir",
   },
-
-  {
+{
     id: 432,
     slug: "逼我假结婚-小叔-你兄弟玩真的",
     title: "逼我假结婚？小叔，你兄弟玩真的！",
@@ -8858,8 +9026,7 @@ export const bookItems = [
     downloadUrl: "/books/432_逼我假结婚？小叔，你兄弟玩真的！1-488章.txt",
     sourceUrl: "https://www.deqixs.org/432/txt.html#dir",
   },
-
-  {
+{
     id: 433,
     slug: "抢什么太子-皇帝怀里不香吗",
     title: "抢什么太子，皇帝怀里不香吗？",
@@ -8876,8 +9043,7 @@ export const bookItems = [
     downloadUrl: "/books/433_抢什么太子，皇帝怀里不香吗？1-432章.txt",
     sourceUrl: "https://www.deqixs.org/433/txt.html#dir",
   },
-
-  {
+{
     id: 434,
     slug: "敲骨吸髓-重生另选家人宠我如宝",
     title: "敲骨吸髓？重生另选家人宠我如宝",
@@ -8894,8 +9060,7 @@ export const bookItems = [
     downloadUrl: "/books/434_敲骨吸髓？重生另选家人宠我如宝1-884章.txt",
     sourceUrl: "https://www.deqixs.org/434/txt.html#dir",
   },
-
-  {
+{
     id: 435,
     slug: "结婚三年分房睡-提离婚傅总急红眼",
     title: "结婚三年分房睡，提离婚傅总急红眼",
@@ -8912,8 +9077,7 @@ export const bookItems = [
     downloadUrl: "/books/435_结婚三年分房睡，提离婚傅总急红眼1-676章.txt",
     sourceUrl: "https://www.deqixs.org/435/txt.html#dir",
   },
-
-  {
+{
     id: 436,
     slug: "重回1990-真千金她是科研大佬",
     title: "重回1990：真千金她是科研大佬",
@@ -8930,8 +9094,7 @@ export const bookItems = [
     downloadUrl: "/books/436_重回1990：真千金她是科研大佬1-285章.txt",
     sourceUrl: "https://www.deqixs.org/436/txt.html#dir",
   },
-
-  {
+{
     id: 437,
     slug: "被赶出家门-我盖房囤粮肉满仓",
     title: "被赶出家门，我盖房囤粮肉满仓",
@@ -8948,8 +9111,7 @@ export const bookItems = [
     downloadUrl: "/books/437_被赶出家门，我盖房囤粮肉满仓1-1479章.txt",
     sourceUrl: "https://www.deqixs.org/437/txt.html#dir",
   },
-
-  {
+{
     id: 438,
     slug: "玉露凝香",
     title: "玉露凝香",
@@ -8966,8 +9128,7 @@ export const bookItems = [
     downloadUrl: "/books/438_玉露凝香1-408章.txt",
     sourceUrl: "https://www.deqixs.org/438/txt.html#dir",
   },
-
-  {
+{
     id: 439,
     slug: "听懂动物说话-炮灰前妻成全家团宠",
     title: "听懂动物说话，炮灰前妻成全家团宠",
@@ -8984,8 +9145,7 @@ export const bookItems = [
     downloadUrl: "/books/439_听懂动物说话，炮灰前妻成全家团宠1-384章.txt",
     sourceUrl: "https://www.deqixs.org/439/txt.html#dir",
   },
-
-  {
+{
     id: 440,
     slug: "挖灵根-逼退婚-六界神魔替我杀疯了",
     title: "挖灵根，逼退婚？六界神魔替我杀疯了",
@@ -9002,8 +9162,7 @@ export const bookItems = [
     downloadUrl: "/books/440_挖灵根，逼退婚？六界神魔替我杀疯了1-1866章.txt",
     sourceUrl: "https://www.deqixs.org/440/txt.html#dir",
   },
-
-  {
+{
     id: 441,
     slug: "融合狼蛛基因-在俄乌战场杀疯了",
     title: "融合狼蛛基因，在俄乌战场杀疯了",
@@ -9020,8 +9179,7 @@ export const bookItems = [
     downloadUrl: "/books/441_融合狼蛛基因，在俄乌战场杀疯了1-256章.txt",
     sourceUrl: "https://www.deqixs.org/441/txt.html#dir",
   },
-
-  {
+{
     id: 442,
     slug: "人在俄乌当佣兵-杀敌就能爆属性",
     title: "人在俄乌当佣兵，杀敌就能爆属性",
@@ -9038,8 +9196,7 @@ export const bookItems = [
     downloadUrl: "/books/442_人在俄乌当佣兵，杀敌就能爆属性1-181章.txt",
     sourceUrl: "https://www.deqixs.org/442/txt.html#dir",
   },
-
-  {
+{
     id: 443,
     slug: "全民-无限僵尸入侵-你说天师职业没用",
     title: "全民：无限僵尸入侵，你说天师职业没用？",
@@ -9056,8 +9213,7 @@ export const bookItems = [
     downloadUrl: "/books/443_全民：无限僵尸入侵，你说天师职业没用？1-450章.txt",
     sourceUrl: "https://www.deqixs.org/443/txt.html#dir",
   },
-
-  {
+{
     id: 444,
     slug: "星辰大道",
     title: "星辰大道",
@@ -9074,8 +9230,7 @@ export const bookItems = [
     downloadUrl: "/books/444_星辰大道1-5268章.txt",
     sourceUrl: "https://www.deqixs.org/444/txt.html#dir",
   },
-
-  {
+{
     id: 445,
     slug: "公车唯一男人-末日求生-子嗣万倍暴击返还",
     title: "公车唯一男人：末日求生，子嗣万倍暴击返还",
@@ -9092,8 +9247,7 @@ export const bookItems = [
     downloadUrl: "/books/445_公车唯一男人：末日求生，子嗣万倍暴击返还1-511章.txt",
     sourceUrl: "https://www.deqixs.org/445/txt.html#dir",
   },
-
-  {
+{
     id: 446,
     slug: "不败战神",
     title: "不败战神",
@@ -9110,8 +9264,7 @@ export const bookItems = [
     downloadUrl: "/books/446_不败战神1-5197章.txt",
     sourceUrl: "https://www.deqixs.org/446/txt.html#dir",
   },
-
-  {
+{
     id: 447,
     slug: "玩家请上车",
     title: "玩家请上车",
@@ -9128,8 +9281,7 @@ export const bookItems = [
     downloadUrl: "/books/447_玩家请上车1-3279章.txt",
     sourceUrl: "https://www.deqixs.org/447/txt.html#dir",
   },
-
-  {
+{
     id: 448,
     slug: "顾总-太太又去男科给你挂号了",
     title: "顾总，太太又去男科给你挂号了",
@@ -9146,8 +9298,7 @@ export const bookItems = [
     downloadUrl: "/books/448_顾总，太太又去男科给你挂号了1-1333章.txt",
     sourceUrl: "https://www.deqixs.org/448/txt.html#dir",
   },
-
-  {
+{
     id: 449,
     slug: "深渊片场",
     title: "深渊片场",
@@ -9164,8 +9315,7 @@ export const bookItems = [
     downloadUrl: "/books/449_深渊片场1-44章.txt",
     sourceUrl: "https://www.deqixs.org/449/txt.html#dir",
   },
-
-  {
+{
     id: 450,
     slug: "神秘复苏-假如",
     title: "神秘复苏：假如",
@@ -9182,8 +9332,7 @@ export const bookItems = [
     downloadUrl: "/books/450_神秘复苏：假如1-616章.txt",
     sourceUrl: "https://www.deqixs.org/450/txt.html#dir",
   },
-
-  {
+{
     id: 451,
     slug: "超级警探",
     title: "超级警探",
@@ -9200,8 +9349,7 @@ export const bookItems = [
     downloadUrl: "/books/451_超级警探1-572章.txt",
     sourceUrl: "https://www.deqixs.org/451/txt.html#dir",
   },
-
-  {
+{
     id: 452,
     slug: "我在神异司斩邪",
     title: "我在神异司斩邪",
@@ -9218,8 +9366,7 @@ export const bookItems = [
     downloadUrl: "/books/452_我在神异司斩邪1-306章.txt",
     sourceUrl: "https://www.deqixs.org/452/txt.html#dir",
   },
-
-  {
+{
     id: 453,
     slug: "不务正夜",
     title: "不务正夜",
@@ -9236,8 +9383,7 @@ export const bookItems = [
     downloadUrl: "/books/453_不务正夜1-500章.txt",
     sourceUrl: "https://www.deqixs.org/453/txt.html#dir",
   },
-
-  {
+{
     id: 454,
     slug: "囤物资穿五零-炮灰原配翻身了",
     title: "囤物资穿五零，炮灰原配翻身了",
@@ -9254,8 +9400,7 @@ export const bookItems = [
     downloadUrl: "/books/454_囤物资穿五零，炮灰原配翻身了1-174章.txt",
     sourceUrl: "https://www.deqixs.org/454/txt.html#dir",
   },
-
-  {
+{
     id: 455,
     slug: "去父留子后才知-前夫爱的人竟是我",
     title: "去父留子后才知，前夫爱的人竟是我",
@@ -9272,8 +9417,7 @@ export const bookItems = [
     downloadUrl: "/books/455_去父留子后才知，前夫爱的人竟是我1-812章.txt",
     sourceUrl: "https://www.deqixs.org/455/txt.html#dir",
   },
-
-  {
+{
     id: 456,
     slug: "流放荒星-系统逼我种田称霸星际",
     title: "流放荒星，系统逼我种田称霸星际",
@@ -9290,8 +9434,7 @@ export const bookItems = [
     downloadUrl: "/books/456_流放荒星，系统逼我种田称霸星际1-202章.txt",
     sourceUrl: "https://www.deqixs.org/456/txt.html#dir",
   },
-
-  {
+{
     id: 457,
     slug: "惊-被豪门认回的校草是千金",
     title: "惊！被豪门认回的校草是千金！",
@@ -9308,8 +9451,7 @@ export const bookItems = [
     downloadUrl: "/books/457_惊！被豪门认回的校草是千金！1-386章.txt",
     sourceUrl: "https://www.deqixs.org/457/txt.html#dir",
   },
-
-  {
+{
     id: 458,
     slug: "离婚吧-傅太太掀桌不干了",
     title: "离婚吧！傅太太掀桌不干了",
@@ -9326,8 +9468,7 @@ export const bookItems = [
     downloadUrl: "/books/458_离婚吧！傅太太掀桌不干了1-529章.txt",
     sourceUrl: "https://www.deqixs.org/458/txt.html#dir",
   },
-
-  {
+{
     id: 459,
     slug: "听懂植物心声-我扶全家纨绔上青云",
     title: "听懂植物心声，我扶全家纨绔上青云",
@@ -9344,8 +9485,7 @@ export const bookItems = [
     downloadUrl: "/books/459_听懂植物心声，我扶全家纨绔上青云1-275章.txt",
     sourceUrl: "https://www.deqixs.org/459/txt.html#dir",
   },
-
-  {
+{
     id: 460,
     slug: "七零-穿成福宝对照组-开局求爹去高考",
     title: "七零：穿成福宝对照组，开局求爹去高考！",
@@ -9362,8 +9502,7 @@ export const bookItems = [
     downloadUrl: "/books/460_七零：穿成福宝对照组，开局求爹去高考！1-448章.txt",
     sourceUrl: "https://www.deqixs.org/460/txt.html#dir",
   },
-
-  {
+{
     id: 461,
     slug: "嫌我不孕-另嫁京圈首富一胎又一胎",
     title: "嫌我不孕？另嫁京圈首富一胎又一胎",
@@ -9380,8 +9519,7 @@ export const bookItems = [
     downloadUrl: "/books/461_嫌我不孕？另嫁京圈首富一胎又一胎1-548章.txt",
     sourceUrl: "https://www.deqixs.org/461/txt.html#dir",
   },
-
-  {
+{
     id: 462,
     slug: "逃荒路上老弱残-我带全村建桃源",
     title: "逃荒路上老弱残，我带全村建桃源",
@@ -9398,8 +9536,7 @@ export const bookItems = [
     downloadUrl: "/books/462_逃荒路上老弱残，我带全村建桃源1-420章.txt",
     sourceUrl: "https://www.deqixs.org/462/txt.html#dir",
   },
-
-  {
+{
     id: 463,
     slug: "恶毒女配在娃综被崽反向贴贴",
     title: "恶毒女配在娃综被崽反向贴贴",
@@ -9416,8 +9553,7 @@ export const bookItems = [
     downloadUrl: "/books/463_恶毒女配在娃综被崽反向贴贴1-2章.txt",
     sourceUrl: "https://www.deqixs.org/463/txt.html#dir",
   },
-
-  {
+{
     id: 464,
     slug: "你跟白月光领证-我嫁人你疯什么",
     title: "你跟白月光领证，我嫁人你疯什么",
@@ -9434,8 +9570,7 @@ export const bookItems = [
     downloadUrl: "/books/464_你跟白月光领证，我嫁人你疯什么1-648章.txt",
     sourceUrl: "https://www.deqixs.org/464/txt.html#dir",
   },
-
-  {
+{
     id: 465,
     slug: "多子多福-开局师娘逼我娶妻",
     title: "多子多福，开局师娘逼我娶妻",
@@ -9452,8 +9587,7 @@ export const bookItems = [
     downloadUrl: "/books/465_多子多福，开局师娘逼我娶妻1-1150章.txt",
     sourceUrl: "https://www.deqixs.org/465/txt.html#dir",
   },
-
-  {
+{
     id: 466,
     slug: "她在豪门做月嫂-被大佬们抢疯",
     title: "她在豪门做月嫂，被大佬们抢疯！",
@@ -9470,8 +9604,7 @@ export const bookItems = [
     downloadUrl: "/books/466_她在豪门做月嫂，被大佬们抢疯！1-531章.txt",
     sourceUrl: "https://www.deqixs.org/466/txt.html#dir",
   },
-
-  {
+{
     id: 467,
     slug: "诡异直播-早死的老公是疯批boss",
     title: "诡异直播，早死的老公是疯批boss",
@@ -9488,8 +9621,7 @@ export const bookItems = [
     downloadUrl: "/books/467_诡异直播，早死的老公是疯批boss1-415章.txt",
     sourceUrl: "https://www.deqixs.org/467/txt.html#dir",
   },
-
-  {
+{
     id: 468,
     slug: "植物塔防-我以无限诛万界",
     title: "植物塔防：我以无限诛万界",
@@ -9506,8 +9638,7 @@ export const bookItems = [
     downloadUrl: "/books/468_植物塔防：我以无限诛万界1-196章.txt",
     sourceUrl: "https://www.deqixs.org/468/txt.html#dir",
   },
-
-  {
+{
     id: 469,
     slug: "参军第一年-国家派战机接我去授勋",
     title: "参军第一年，国家派战机接我去授勋",
@@ -9524,8 +9655,7 @@ export const bookItems = [
     downloadUrl: "/books/469_参军第一年，国家派战机接我去授勋1-643章.txt",
     sourceUrl: "https://www.deqixs.org/469/txt.html#dir",
   },
-
-  {
+{
     id: 470,
     slug: "快穿之女配能有什么坏心眼呢",
     title: "快穿之女配能有什么坏心眼呢",
@@ -9542,8 +9672,7 @@ export const bookItems = [
     downloadUrl: "/books/470_快穿之女配能有什么坏心眼呢1-1773章.txt",
     sourceUrl: "https://www.deqixs.org/470/txt.html#dir",
   },
-
-  {
+{
     id: 471,
     slug: "火红年代-开发北大荒-种田赶山养全家",
     title: "火红年代：开发北大荒，种田赶山养全家",
@@ -9560,8 +9689,7 @@ export const bookItems = [
     downloadUrl: "/books/471_火红年代：开发北大荒，种田赶山养全家1-1003章.txt",
     sourceUrl: "https://www.deqixs.org/471/txt.html#dir",
   },
-
-  {
+{
     id: 472,
     slug: "江山绝色榜",
     title: "江山绝色榜",
@@ -9578,8 +9706,7 @@ export const bookItems = [
     downloadUrl: "/books/472_江山绝色榜1-356章.txt",
     sourceUrl: "https://www.deqixs.org/472/txt.html#dir",
   },
-
-  {
+{
     id: 473,
     slug: "边关兵王-从领娶罪女开始崛起",
     title: "边关兵王：从领娶罪女开始崛起",
@@ -9596,8 +9723,7 @@ export const bookItems = [
     downloadUrl: "/books/473_边关兵王：从领娶罪女开始崛起1-1322章.txt",
     sourceUrl: "https://www.deqixs.org/473/txt.html#dir",
   },
-
-  {
+{
     id: 474,
     slug: "窃医术-夺至亲-神医嫡女杀疯了",
     title: "窃医术，夺至亲？神医嫡女杀疯了！",
@@ -9614,8 +9740,7 @@ export const bookItems = [
     downloadUrl: "/books/474_窃医术，夺至亲？神医嫡女杀疯了！1-365章.txt",
     sourceUrl: "https://www.deqixs.org/474/txt.html#dir",
   },
-
-  {
+{
     id: 475,
     slug: "收野菜-挖药材-恶婆婆通过异界搞倒卖",
     title: "收野菜！挖药材！恶婆婆通过异界搞倒卖",
@@ -9632,8 +9757,7 @@ export const bookItems = [
     downloadUrl: "/books/475_收野菜！挖药材！恶婆婆通过异界搞倒卖1-498章.txt",
     sourceUrl: "https://www.deqixs.org/475/txt.html#dir",
   },
-
-  {
+{
     id: 476,
     slug: "高武-武大名额被抢-我成圣了你怕啥",
     title: "高武：武大名额被抢？我成圣了你怕啥？",
@@ -9650,8 +9774,7 @@ export const bookItems = [
     downloadUrl: "/books/476_高武：武大名额被抢？我成圣了你怕啥？1-308章.txt",
     sourceUrl: "https://www.deqixs.org/476/txt.html#dir",
   },
-
-  {
+{
     id: 477,
     slug: "七零重生改嫁绝嗣大佬-渣夫急眼了",
     title: "七零重生改嫁绝嗣大佬，渣夫急眼了",
@@ -9668,8 +9791,7 @@ export const bookItems = [
     downloadUrl: "/books/477_七零重生改嫁绝嗣大佬，渣夫急眼了1-282章.txt",
     sourceUrl: "https://www.deqixs.org/477/txt.html#dir",
   },
-
-  {
+{
     id: 478,
     slug: "狩猎美利坚-开局养成未亡人太太",
     title: "狩猎美利坚，开局养成未亡人太太",
@@ -9686,8 +9808,7 @@ export const bookItems = [
     downloadUrl: "/books/478_狩猎美利坚，开局养成未亡人太太1-312章.txt",
     sourceUrl: "https://www.deqixs.org/478/txt.html#dir",
   },
-
-  {
+{
     id: 479,
     slug: "席先生-你被太太踢出局了",
     title: "席先生，你被太太踢出局了！",
@@ -9704,8 +9825,7 @@ export const bookItems = [
     downloadUrl: "/books/479_席先生，你被太太踢出局了！1-275章.txt",
     sourceUrl: "https://www.deqixs.org/479/txt.html#dir",
   },
-
-  {
+{
     id: 480,
     slug: "重生1998-发家致富娶校花",
     title: "重生1998，发家致富娶校花",
@@ -9722,8 +9842,7 @@ export const bookItems = [
     downloadUrl: "/books/480_重生1998，发家致富娶校花1-262章.txt",
     sourceUrl: "https://www.deqixs.org/480/txt.html#dir",
   },
-
-  {
+{
     id: 481,
     slug: "捡到小福星后-绝嗣侯府起飞了",
     title: "捡到小福星后，绝嗣侯府起飞了！",
@@ -9740,8 +9859,7 @@ export const bookItems = [
     downloadUrl: "/books/481_捡到小福星后，绝嗣侯府起飞了！1-449章.txt",
     sourceUrl: "https://www.deqixs.org/481/txt.html#dir",
   },
-
-  {
+{
     id: 482,
     slug: "特种兵王在山村",
     title: "特种兵王在山村",
@@ -9758,8 +9876,7 @@ export const bookItems = [
     downloadUrl: "/books/482_特种兵王在山村1-4755章.txt",
     sourceUrl: "https://www.deqixs.org/482/txt.html#dir",
   },
-
-  {
+{
     id: 483,
     slug: "穿书七零-炮灰她逆天了",
     title: "穿书七零，炮灰她逆天了",
@@ -9776,8 +9893,7 @@ export const bookItems = [
     downloadUrl: "/books/483_穿书七零，炮灰她逆天了1-531章.txt",
     sourceUrl: "https://www.deqixs.org/483/txt.html#dir",
   },
-
-  {
+{
     id: 484,
     slug: "七零相亲走错桌-团长追妻上瘾求生崽",
     title: "七零相亲走错桌，团长追妻上瘾求生崽",
@@ -9794,8 +9910,7 @@ export const bookItems = [
     downloadUrl: "/books/484_七零相亲走错桌，团长追妻上瘾求生崽1-406章.txt",
     sourceUrl: "https://www.deqixs.org/484/txt.html#dir",
   },
-
-  {
+{
     id: 485,
     slug: "穷鬼奇袭豪门-女配手撕霸总文",
     title: "穷鬼奇袭豪门，女配手撕霸总文！",
@@ -9812,8 +9927,7 @@ export const bookItems = [
     downloadUrl: "/books/485_穷鬼奇袭豪门，女配手撕霸总文！1-259章.txt",
     sourceUrl: "https://www.deqixs.org/485/txt.html#dir",
   },
-
-  {
+{
     id: 486,
     slug: "桃枝枕玉",
     title: "桃枝枕玉",
@@ -9830,8 +9944,7 @@ export const bookItems = [
     downloadUrl: "/books/486_桃枝枕玉1-184章.txt",
     sourceUrl: "https://www.deqixs.org/486/txt.html#dir",
   },
-
-  {
+{
     id: 487,
     slug: "坐月子时你不在-我带娃离婚你哭什么",
     title: "坐月子时你不在，我带娃离婚你哭什么",
@@ -9848,8 +9961,7 @@ export const bookItems = [
     downloadUrl: "/books/487_坐月子时你不在，我带娃离婚你哭什么1-508章.txt",
     sourceUrl: "https://www.deqixs.org/487/txt.html#dir",
   },
-
-  {
+{
     id: 488,
     slug: "藏娇骨",
     title: "藏娇骨",
@@ -9866,8 +9978,7 @@ export const bookItems = [
     downloadUrl: "/books/488_藏娇骨1-255章.txt",
     sourceUrl: "https://www.deqixs.org/488/txt.html#dir",
   },
-
-  {
+{
     id: 489,
     slug: "福晋",
     title: "福晋",
@@ -9884,8 +9995,7 @@ export const bookItems = [
     downloadUrl: "/books/489_福晋1-1438章.txt",
     sourceUrl: "https://www.deqixs.org/489/txt.html#dir",
   },
-
-  {
+{
     id: 490,
     slug: "软饭爹-穷鬼娘-魔丸宝宝当自强",
     title: "软饭爹，穷鬼娘，魔丸宝宝当自强！",
@@ -9902,8 +10012,7 @@ export const bookItems = [
     downloadUrl: "/books/490_软饭爹，穷鬼娘，魔丸宝宝当自强！1-667章.txt",
     sourceUrl: "https://www.deqixs.org/490/txt.html#dir",
   },
-
-  {
+{
     id: 491,
     slug: "特种女兵之利刃",
     title: "特种女兵之利刃",
@@ -9920,8 +10029,7 @@ export const bookItems = [
     downloadUrl: "/books/491_特种女兵之利刃1-280章.txt",
     sourceUrl: "https://www.deqixs.org/491/txt.html#dir",
   },
-
-  {
+{
     id: 492,
     slug: "深情失控-他服软低哄别离婚",
     title: "深情失控，他服软低哄别离婚",
@@ -9938,8 +10046,7 @@ export const bookItems = [
     downloadUrl: "/books/492_深情失控，他服软低哄别离婚1-481章.txt",
     sourceUrl: "https://www.deqixs.org/492/txt.html#dir",
   },
-
-  {
+{
     id: 493,
     slug: "动物园打工-疯批哨兵排队求训",
     title: "动物园打工，疯批哨兵排队求训",
@@ -9956,8 +10063,7 @@ export const bookItems = [
     downloadUrl: "/books/493_动物园打工，疯批哨兵排队求训1-268章.txt",
     sourceUrl: "https://www.deqixs.org/493/txt.html#dir",
   },
-
-  {
+{
     id: 494,
     slug: "明撩暗恋-霍律师下手轻点",
     title: "明撩暗恋！霍律师下手轻点",
@@ -9974,8 +10080,7 @@ export const bookItems = [
     downloadUrl: "/books/494_明撩暗恋！霍律师下手轻点1-2503章.txt",
     sourceUrl: "https://www.deqixs.org/494/txt.html#dir",
   },
-
-  {
+{
     id: 495,
     slug: "我-满级舅舅-把外甥女宠上天",
     title: "我，满级舅舅！把外甥女宠上天",
@@ -9992,8 +10097,7 @@ export const bookItems = [
     downloadUrl: "/books/495_我，满级舅舅！把外甥女宠上天1-986章.txt",
     sourceUrl: "https://www.deqixs.org/495/txt.html#dir",
   },
-
-  {
+{
     id: 496,
     slug: "斗罗-我生物学者-觉醒器武魂",
     title: "斗罗：我生物学者，觉醒器武魂？",
@@ -10010,8 +10114,7 @@ export const bookItems = [
     downloadUrl: "/books/496_斗罗：我生物学者，觉醒器武魂？1-281章.txt",
     sourceUrl: "https://www.deqixs.org/496/txt.html#dir",
   },
-
-  {
+{
     id: 497,
     slug: "分手后-收留三个精神小妹-返现亿万资产",
     title: "分手后，收留三个精神小妹，返现亿万资产！",
@@ -10028,8 +10131,7 @@ export const bookItems = [
     downloadUrl: "/books/497_分手后，收留三个精神小妹，返现亿万资产！1-185章.txt",
     sourceUrl: "https://www.deqixs.org/497/txt.html#dir",
   },
-
-  {
+{
     id: 498,
     slug: "大明状元郎-拒娶公主后-我在大明搞科研",
     title: "大明状元郎：拒娶公主后，我在大明搞科研！",
@@ -10046,8 +10148,7 @@ export const bookItems = [
     downloadUrl: "/books/498_大明状元郎：拒娶公主后，我在大明搞科研！1-140章.txt",
     sourceUrl: "https://www.deqixs.org/498/txt.html#dir",
   },
-
-  {
+{
     id: 499,
     slug: "abo-我老婆今天也没离婚",
     title: "【ABO】我老婆今天也没离婚",
@@ -10064,8 +10165,7 @@ export const bookItems = [
     downloadUrl: "/books/499_【ABO】我老婆今天也没离婚1-120章.txt",
     sourceUrl: "https://www.deqixs.org/499/txt.html#dir",
   },
-
-  {
+{
     id: 500,
     slug: "全民战车-每级一个概念词条-拉爆所有",
     title: "全民战车：每级一个概念词条，拉爆所有！",
@@ -10082,8 +10182,7 @@ export const bookItems = [
     downloadUrl: "/books/500_全民战车：每级一个概念词条，拉爆所有！1-382章.txt",
     sourceUrl: "https://www.deqixs.org/500/txt.html#dir",
   },
-
-  {
+{
     id: 501,
     slug: "封总-太太想跟你离婚很久了",
     title: "封总，太太想跟你离婚很久了",
@@ -10100,8 +10199,7 @@ export const bookItems = [
     downloadUrl: "/books/501_封总，太太想跟你离婚很久了1-701章.txt",
     sourceUrl: "https://www.deqixs.org/501/txt.html#dir",
   },
-
-  {
+{
     id: 502,
     slug: "人在美利坚-觉醒武侠金手指",
     title: "人在美利坚，觉醒武侠金手指",
@@ -10118,8 +10216,7 @@ export const bookItems = [
     downloadUrl: "/books/502_人在美利坚，觉醒武侠金手指1-194章.txt",
     sourceUrl: "https://www.deqixs.org/502/txt.html#dir",
   },
-
-  {
+{
     id: 503,
     slug: "全民-让你御兽-你孵化异形女王",
     title: "全民：让你御兽，你孵化异形女王？",
@@ -10136,8 +10233,7 @@ export const bookItems = [
     downloadUrl: "/books/503_全民：让你御兽，你孵化异形女王？1-2072章.txt",
     sourceUrl: "https://www.deqixs.org/503/txt.html#dir",
   },
-
-  {
+{
     id: 504,
     slug: "七年陪伴你不娶-我提分手你别疯啊",
     title: "七年陪伴你不娶，我提分手你别疯啊",
@@ -10154,8 +10250,7 @@ export const bookItems = [
     downloadUrl: "/books/504_七年陪伴你不娶，我提分手你别疯啊1-646章.txt",
     sourceUrl: "https://www.deqixs.org/504/txt.html#dir",
   },
-
-  {
+{
     id: 505,
     slug: "丑女圈钱成万人迷-榜一大哥争又抢",
     title: "丑女圈钱成万人迷，榜一大哥争又抢",
@@ -10172,8 +10267,7 @@ export const bookItems = [
     downloadUrl: "/books/505_丑女圈钱成万人迷，榜一大哥争又抢1-231章.txt",
     sourceUrl: "https://www.deqixs.org/505/txt.html#dir",
   },
-
-  {
+{
     id: 506,
     slug: "九零下岗潮卖卤蛋-系统却说我炼丹",
     title: "九零下岗潮卖卤蛋，系统却说我炼丹",
@@ -10190,8 +10284,7 @@ export const bookItems = [
     downloadUrl: "/books/506_九零下岗潮卖卤蛋，系统却说我炼丹1-278章.txt",
     sourceUrl: "https://www.deqixs.org/506/txt.html#dir",
   },
-
-  {
+{
     id: 507,
     slug: "腿控竹马嫌我微胖-重欲太子爷却爱不释手",
     title: "腿控竹马嫌我微胖，重欲太子爷却爱不释手",
@@ -10208,8 +10301,7 @@ export const bookItems = [
     downloadUrl: "/books/507_腿控竹马嫌我微胖，重欲太子爷却爱不释手1-357章.txt",
     sourceUrl: "https://www.deqixs.org/507/txt.html#dir",
   },
-
-  {
+{
     id: 508,
     slug: "八零小保姆的美食养崽日常",
     title: "八零小保姆的美食养崽日常",
@@ -10226,8 +10318,7 @@ export const bookItems = [
     downloadUrl: "/books/508_八零小保姆的美食养崽日常1-255章.txt",
     sourceUrl: "https://www.deqixs.org/508/txt.html#dir",
   },
-
-  {
+{
     id: 509,
     slug: "穿成奶娘后-全府靠我带娃转运",
     title: "穿成奶娘后，全府靠我带娃转运",
@@ -10244,8 +10335,7 @@ export const bookItems = [
     downloadUrl: "/books/509_穿成奶娘后，全府靠我带娃转运1-323章.txt",
     sourceUrl: "https://www.deqixs.org/509/txt.html#dir",
   },
-
-  {
+{
     id: 510,
     slug: "开局嫁给病弱老公-她靠田园系统带全家逆袭",
     title: "开局嫁给病弱老公，她靠田园系统带全家逆袭",
@@ -10262,8 +10352,7 @@ export const bookItems = [
     downloadUrl: "/books/510_开局嫁给病弱老公，她靠田园系统带全家逆袭1-234章.txt",
     sourceUrl: "https://www.deqixs.org/510/txt.html#dir",
   },
-
-  {
+{
     id: 511,
     slug: "快穿-变成动物幼崽后-位面大佬都偏爱",
     title: "快穿：变成动物幼崽后，位面大佬都偏爱",
@@ -10280,8 +10369,7 @@ export const bookItems = [
     downloadUrl: "/books/511_快穿：变成动物幼崽后，位面大佬都偏爱1-278章.txt",
     sourceUrl: "https://www.deqixs.org/511/txt.html#dir",
   },
-
-  {
+{
     id: 512,
     slug: "生子就变强-废物老祖竟是武帝",
     title: "生子就变强，废物老祖竟是武帝",
@@ -10298,8 +10386,7 @@ export const bookItems = [
     downloadUrl: "/books/512_生子就变强，废物老祖竟是武帝1-296章.txt",
     sourceUrl: "https://www.deqixs.org/512/txt.html#dir",
   },
-
-  {
+{
     id: 513,
     slug: "全宗卷修炼-我在养老系统种田修仙",
     title: "全宗卷修炼，我在养老系统种田修仙",
@@ -10316,8 +10403,7 @@ export const bookItems = [
     downloadUrl: "/books/513_全宗卷修炼，我在养老系统种田修仙1-218章.txt",
     sourceUrl: "https://www.deqixs.org/513/txt.html#dir",
   },
-
-  {
+{
     id: 514,
     slug: "穿越1958-我的系统能购买万物",
     title: "穿越1958：我的系统能购买万物",
@@ -10334,8 +10420,7 @@ export const bookItems = [
     downloadUrl: "/books/514_穿越1958：我的系统能购买万物1-579章.txt",
     sourceUrl: "https://www.deqixs.org/514/txt.html#dir",
   },
-
-  {
+{
     id: 515,
     slug: "沪上娇娇细腰轻颤-草原糙汉不撒手",
     title: "沪上娇娇细腰轻颤，草原糙汉不撒手",
@@ -10352,8 +10437,7 @@ export const bookItems = [
     downloadUrl: "/books/515_沪上娇娇细腰轻颤，草原糙汉不撒手1-327章.txt",
     sourceUrl: "https://www.deqixs.org/515/txt.html#dir",
   },
-
-  {
+{
     id: 516,
     slug: "高位禁锢",
     title: "高位禁锢",
@@ -10370,8 +10454,7 @@ export const bookItems = [
     downloadUrl: "/books/516_高位禁锢1-101章.txt",
     sourceUrl: "https://www.deqixs.org/516/txt.html#dir",
   },
-
-  {
+{
     id: 517,
     slug: "八零丈夫兼祧两房-我带娃改嫁",
     title: "八零丈夫兼祧两房？我带娃改嫁！",
@@ -10388,8 +10471,7 @@ export const bookItems = [
     downloadUrl: "/books/517_八零丈夫兼祧两房？我带娃改嫁！1-633章.txt",
     sourceUrl: "https://www.deqixs.org/517/txt.html#dir",
   },
-
-  {
+{
     id: 518,
     slug: "天幕-带徐妙锦游现代-华夏君王都疯了",
     title: "天幕：带徐妙锦游现代，华夏君王都疯了",
@@ -10406,8 +10488,7 @@ export const bookItems = [
     downloadUrl: "/books/518_天幕：带徐妙锦游现代，华夏君王都疯了1-804章.txt",
     sourceUrl: "https://www.deqixs.org/518/txt.html#dir",
   },
-
-  {
+{
     id: 519,
     slug: "海上求生-我靠种蘑菇成为榜一",
     title: "海上求生：我靠种蘑菇成为榜一",
@@ -10424,8 +10505,7 @@ export const bookItems = [
     downloadUrl: "/books/519_海上求生：我靠种蘑菇成为榜一1-621章.txt",
     sourceUrl: "https://www.deqixs.org/519/txt.html#dir",
   },
-
-  {
+{
     id: 520,
     slug: "天命纨绔",
     title: "天命纨绔",
@@ -10442,8 +10522,7 @@ export const bookItems = [
     downloadUrl: "/books/520_天命纨绔1-788章.txt",
     sourceUrl: "https://www.deqixs.org/520/txt.html#dir",
   },
-
-  {
+{
     id: 521,
     slug: "怀了禁欲首长的崽-八零美人被宠坏",
     title: "怀了禁欲首长的崽，八零美人被宠坏",
@@ -10460,8 +10539,7 @@ export const bookItems = [
     downloadUrl: "/books/521_怀了禁欲首长的崽，八零美人被宠坏1-469章.txt",
     sourceUrl: "https://www.deqixs.org/521/txt.html#dir",
   },
-
-  {
+{
     id: 522,
     slug: "此刻-我为华夏守护神",
     title: "此刻，我为华夏守护神",
@@ -10478,8 +10556,7 @@ export const bookItems = [
     downloadUrl: "/books/522_此刻，我为华夏守护神1-1494章.txt",
     sourceUrl: "https://www.deqixs.org/522/txt.html#dir",
   },
-
-  {
+{
     id: 523,
     slug: "八零随军认错夫-禁欲首长赖上了",
     title: "八零随军认错夫，禁欲首长赖上了",
@@ -10496,8 +10573,7 @@ export const bookItems = [
     downloadUrl: "/books/523_八零随军认错夫，禁欲首长赖上了1-206章.txt",
     sourceUrl: "https://www.deqixs.org/523/txt.html#dir",
   },
-
-  {
+{
     id: 524,
     slug: "重生六八-女知青窑洞种田养猪",
     title: "重生六八：女知青窑洞种田养猪",
@@ -10514,8 +10590,7 @@ export const bookItems = [
     downloadUrl: "/books/524_重生六八：女知青窑洞种田养猪1-1413章.txt",
     sourceUrl: "https://www.deqixs.org/524/txt.html#dir",
   },
-
-  {
+{
     id: 525,
     slug: "斗罗-武魂嫁衣诡帝-全魂兽献祭",
     title: "斗罗：武魂嫁衣诡帝，全魂兽献祭",
@@ -10532,8 +10607,7 @@ export const bookItems = [
     downloadUrl: "/books/525_斗罗：武魂嫁衣诡帝，全魂兽献祭1-566章.txt",
     sourceUrl: "https://www.deqixs.org/525/txt.html#dir",
   },
-
-  {
+{
     id: 526,
     slug: "全班穿七零-小寡妇带军工大佬们卷疯了",
     title: "全班穿七零，小寡妇带军工大佬们卷疯了",
@@ -10550,8 +10624,7 @@ export const bookItems = [
     downloadUrl: "/books/526_全班穿七零，小寡妇带军工大佬们卷疯了1-224章.txt",
     sourceUrl: "https://www.deqixs.org/526/txt.html#dir",
   },
-
-  {
+{
     id: 527,
     slug: "岁岁夏至",
     title: "岁岁夏至",
@@ -10568,8 +10641,7 @@ export const bookItems = [
     downloadUrl: "/books/527_岁岁夏至1-473章.txt",
     sourceUrl: "https://www.deqixs.org/527/txt.html#dir",
   },
-
-  {
+{
     id: 528,
     slug: "我-穿越金渐层-被暴脾气女帝给契约了!",
     title: "我，穿越金渐层，被暴脾气女帝给契约了!",
@@ -10586,8 +10658,7 @@ export const bookItems = [
     downloadUrl: "/books/528_我，穿越金渐层，被暴脾气女帝给契约了!1-499章.txt",
     sourceUrl: "https://www.deqixs.org/528/txt.html#dir",
   },
-
-  {
+{
     id: 529,
     slug: "军区大院小保姆",
     title: "军区大院小保姆",
@@ -10604,8 +10675,7 @@ export const bookItems = [
     downloadUrl: "/books/529_军区大院小保姆1-184章.txt",
     sourceUrl: "https://www.deqixs.org/529/txt.html#dir",
   },
-
-  {
+{
     id: 530,
     slug: "冷婚五年偷生崽-心死离婚他却悔了",
     title: "冷婚五年偷生崽，心死离婚他却悔了",
@@ -10622,8 +10692,7 @@ export const bookItems = [
     downloadUrl: "/books/530_冷婚五年偷生崽，心死离婚他却悔了1-298章.txt",
     sourceUrl: "https://www.deqixs.org/530/txt.html#dir",
   },
-
-  {
+{
     id: 531,
     slug: "寻仙道徒",
     title: "寻仙道徒",
@@ -10640,8 +10709,7 @@ export const bookItems = [
     downloadUrl: "/books/531_寻仙道徒1-780章.txt",
     sourceUrl: "https://www.deqixs.org/531/txt.html#dir",
   },
-
-  {
+{
     id: 532,
     slug: "裴总-夫人撕掉假结婚证嫁大佬了",
     title: "裴总，夫人撕掉假结婚证嫁大佬了",
@@ -10658,8 +10726,7 @@ export const bookItems = [
     downloadUrl: "/books/532_裴总，夫人撕掉假结婚证嫁大佬了1-503章.txt",
     sourceUrl: "https://www.deqixs.org/532/txt.html#dir",
   },
-
-  {
+{
     id: 533,
     slug: "疯犬玫瑰",
     title: "疯犬玫瑰",
@@ -10676,8 +10743,7 @@ export const bookItems = [
     downloadUrl: "/books/533_疯犬玫瑰1-258章.txt",
     sourceUrl: "https://www.deqixs.org/533/txt.html#dir",
   },
-
-  {
+{
     id: 534,
     slug: "景区工资三百块-古人争着求上岗",
     title: "景区工资三百块，古人争着求上岗",
@@ -10694,8 +10760,7 @@ export const bookItems = [
     downloadUrl: "/books/534_景区工资三百块，古人争着求上岗1-291章.txt",
     sourceUrl: "https://www.deqixs.org/534/txt.html#dir",
   },
-
-  {
+{
     id: 535,
     slug: "诡异入侵-我反杀不过分吧",
     title: "诡异入侵，我反杀不过分吧？",
@@ -10712,8 +10777,7 @@ export const bookItems = [
     downloadUrl: "/books/535_诡异入侵，我反杀不过分吧？1-744章.txt",
     sourceUrl: "https://www.deqixs.org/535/txt.html#dir",
   },
-
-  {
+{
     id: 536,
     slug: "隐婚三年-改嫁小叔后霍总跪求复合",
     title: "隐婚三年，改嫁小叔后霍总跪求复合",
@@ -10730,8 +10794,7 @@ export const bookItems = [
     downloadUrl: "/books/536_隐婚三年，改嫁小叔后霍总跪求复合1-182章.txt",
     sourceUrl: "https://www.deqixs.org/536/txt.html#dir",
   },
-
-  {
+{
     id: 537,
     slug: "庶女知意",
     title: "庶女知意",
@@ -10748,8 +10811,7 @@ export const bookItems = [
     downloadUrl: "/books/537_庶女知意1-261章.txt",
     sourceUrl: "https://www.deqixs.org/537/txt.html#dir",
   },
-
-  {
+{
     id: 538,
     slug: "快穿之不服来战呀",
     title: "快穿之不服来战呀",
@@ -10766,8 +10828,7 @@ export const bookItems = [
     downloadUrl: "/books/538_快穿之不服来战呀1-3429章.txt",
     sourceUrl: "https://www.deqixs.org/538/txt.html#dir",
   },
-
-  {
+{
     id: 539,
     slug: "重生75-我家三代贫农-截胡资本大小姐",
     title: "重生75：我家三代贫农，截胡资本大小姐",
@@ -10784,8 +10845,7 @@ export const bookItems = [
     downloadUrl: "/books/539_重生75：我家三代贫农，截胡资本大小姐1-766章.txt",
     sourceUrl: "https://www.deqixs.org/539/txt.html#dir",
   },
-
-  {
+{
     id: 540,
     slug: "从赘婿开始建立长生家族",
     title: "从赘婿开始建立长生家族",
@@ -10802,8 +10862,7 @@ export const bookItems = [
     downloadUrl: "/books/540_从赘婿开始建立长生家族1-1215章.txt",
     sourceUrl: "https://www.deqixs.org/540/txt.html#dir",
   },
-
-  {
+{
     id: 541,
     slug: "让你军转民-你干成中东军火商",
     title: "让你军转民，你干成中东军火商？",
@@ -10820,8 +10879,7 @@ export const bookItems = [
     downloadUrl: "/books/541_让你军转民，你干成中东军火商？1-284章.txt",
     sourceUrl: "https://www.deqixs.org/541/txt.html#dir",
   },
-
-  {
+{
     id: 542,
     slug: "逍遥四公子",
     title: "逍遥四公子",
@@ -10838,8 +10896,7 @@ export const bookItems = [
     downloadUrl: "/books/542_逍遥四公子1-2871章.txt",
     sourceUrl: "https://www.deqixs.org/542/txt.html#dir",
   },
-
-  {
+{
     id: 543,
     slug: "流放的大小姐-在现代赚钱养全家",
     title: "流放的大小姐，在现代赚钱养全家",
@@ -10856,8 +10913,7 @@ export const bookItems = [
     downloadUrl: "/books/543_流放的大小姐，在现代赚钱养全家1-198章.txt",
     sourceUrl: "https://www.deqixs.org/543/txt.html#dir",
   },
-
-  {
+{
     id: 544,
     slug: "通房妩媚-清冷世子又又又破戒了",
     title: "通房妩媚，清冷世子又又又破戒了",
@@ -10874,8 +10930,7 @@ export const bookItems = [
     downloadUrl: "/books/544_通房妩媚，清冷世子又又又破戒了1-411章.txt",
     sourceUrl: "https://www.deqixs.org/544/txt.html#dir",
   },
-
-  {
+{
     id: 545,
     slug: "直播古人种地-全网找我挖野菜",
     title: "直播古人种地，全网找我挖野菜",
@@ -10892,8 +10947,7 @@ export const bookItems = [
     downloadUrl: "/books/545_直播古人种地，全网找我挖野菜1-214章.txt",
     sourceUrl: "https://www.deqixs.org/545/txt.html#dir",
   },
-
-  {
+{
     id: 546,
     slug: "停电亲错人-妹宝惹上冷傲机长",
     title: "停电亲错人，妹宝惹上冷傲机长",
@@ -10910,8 +10964,7 @@ export const bookItems = [
     downloadUrl: "/books/546_停电亲错人，妹宝惹上冷傲机长1-243章.txt",
     sourceUrl: "https://www.deqixs.org/546/txt.html#dir",
   },
-
-  {
+{
     id: 547,
     slug: "一枕春深",
     title: "一枕春深",
@@ -10928,8 +10981,7 @@ export const bookItems = [
     downloadUrl: "/books/547_一枕春深1-339章.txt",
     sourceUrl: "https://www.deqixs.org/547/txt.html#dir",
   },
-
-  {
+{
     id: 548,
     slug: "上京审刑录",
     title: "上京审刑录",
@@ -10946,8 +10998,7 @@ export const bookItems = [
     downloadUrl: "/books/548_上京审刑录1-463章.txt",
     sourceUrl: "https://www.deqixs.org/548/txt.html#dir",
   },
-
-  {
+{
     id: 549,
     slug: "穿书七零-未婚夫逃婚-我嫁他弟",
     title: "穿书七零：未婚夫逃婚，我嫁他弟",
@@ -10964,8 +11015,7 @@ export const bookItems = [
     downloadUrl: "/books/549_穿书七零：未婚夫逃婚，我嫁他弟1-268章.txt",
     sourceUrl: "https://www.deqixs.org/549/txt.html#dir",
   },
-
-  {
+{
     id: 550,
     slug: "葬神棺",
     title: "葬神棺",
@@ -10982,8 +11032,7 @@ export const bookItems = [
     downloadUrl: "/books/550_葬神棺1-2911章.txt",
     sourceUrl: "https://www.deqixs.org/550/txt.html#dir",
   },
-
-  {
+{
     id: 551,
     slug: "小可怜闪婚带娃大叔-三年后成首富",
     title: "小可怜闪婚带娃大叔，三年后成首富",
@@ -11000,8 +11049,7 @@ export const bookItems = [
     downloadUrl: "/books/551_小可怜闪婚带娃大叔，三年后成首富1-377章.txt",
     sourceUrl: "https://www.deqixs.org/551/txt.html#dir",
   },
-
-  {
+{
     id: 552,
     slug: "不熟-但和冷脸糙汉同居了",
     title: "不熟，但和冷脸糙汉同居了！",
@@ -11018,8 +11066,7 @@ export const bookItems = [
     downloadUrl: "/books/552_不熟，但和冷脸糙汉同居了！1-264章.txt",
     sourceUrl: "https://www.deqixs.org/552/txt.html#dir",
   },
-
-  {
+{
     id: 553,
     slug: "离婚证到手-裴总你却说忘不掉",
     title: "离婚证到手，裴总你却说忘不掉？",
@@ -11036,8 +11083,7 @@ export const bookItems = [
     downloadUrl: "/books/553_离婚证到手，裴总你却说忘不掉？1-419章.txt",
     sourceUrl: "https://www.deqixs.org/553/txt.html#dir",
   },
-
-  {
+{
     id: 554,
     slug: "人前冷脸-人后争宠-商队他日日求复婚",
     title: "人前冷脸，人后争宠，商队他日日求复婚",
@@ -11054,8 +11100,7 @@ export const bookItems = [
     downloadUrl: "/books/554_人前冷脸，人后争宠，商队他日日求复婚1-361章.txt",
     sourceUrl: "https://www.deqixs.org/554/txt.html#dir",
   },
-
-  {
+{
     id: 555,
     slug: "月落星沉",
     title: "月落星沉",
@@ -11072,8 +11117,7 @@ export const bookItems = [
     downloadUrl: "/books/555_月落星沉1-732章.txt",
     sourceUrl: "https://www.deqixs.org/555/txt.html#dir",
   },
-
-  {
+{
     id: 556,
     slug: "当女配拥有美颜系统后",
     title: "当女配拥有美颜系统后",
@@ -11090,8 +11134,7 @@ export const bookItems = [
     downloadUrl: "/books/556_当女配拥有美颜系统后1-1538章.txt",
     sourceUrl: "https://www.deqixs.org/556/txt.html#dir",
   },
-
-  {
+{
     id: 557,
     slug: "舔狗反派只想苟-女主不按套路走",
     title: "舔狗反派只想苟，女主不按套路走！",
@@ -11108,8 +11151,7 @@ export const bookItems = [
     downloadUrl: "/books/557_舔狗反派只想苟，女主不按套路走！1-2645章.txt",
     sourceUrl: "https://www.deqixs.org/557/txt.html#dir",
   },
-
-  {
+{
     id: 558,
     slug: "老太太重生八零-抛弃儿孙我享福",
     title: "老太太重生八零，抛弃儿孙我享福",
@@ -11126,8 +11168,7 @@ export const bookItems = [
     downloadUrl: "/books/558_老太太重生八零，抛弃儿孙我享福1-987章.txt",
     sourceUrl: "https://www.deqixs.org/558/txt.html#dir",
   },
-
-  {
+{
     id: 559,
     slug: "我死后-嫡兄们都疯了",
     title: "我死后，嫡兄们都疯了",
@@ -11144,8 +11185,7 @@ export const bookItems = [
     downloadUrl: "/books/559_我死后，嫡兄们都疯了1-1533章.txt",
     sourceUrl: "https://www.deqixs.org/559/txt.html#dir",
   },
-
-  {
+{
     id: 560,
     slug: "垂涎",
     title: "垂涎",
@@ -11162,8 +11202,7 @@ export const bookItems = [
     downloadUrl: "/books/560_垂涎1-811章.txt",
     sourceUrl: "https://www.deqixs.org/560/txt.html#dir",
   },
-
-  {
+{
     id: 561,
     slug: "混沌天帝诀",
     title: "混沌天帝诀",
@@ -11180,8 +11219,7 @@ export const bookItems = [
     downloadUrl: "/books/561_混沌天帝诀1-8094章.txt",
     sourceUrl: "https://www.deqixs.org/561/txt.html#dir",
   },
-
-  {
+{
     id: 562,
     slug: "绝不原谅-离婚后季小姐独美",
     title: "绝不原谅！离婚后季小姐独美",
@@ -11198,8 +11236,7 @@ export const bookItems = [
     downloadUrl: "/books/562_绝不原谅！离婚后季小姐独美1-161章.txt",
     sourceUrl: "https://www.deqixs.org/562/txt.html#dir",
   },
-
-  {
+{
     id: 563,
     slug: "七零空间-知青腰太软-糙汉脸红了",
     title: "七零空间：知青腰太软，糙汉脸红了",
@@ -11216,8 +11253,7 @@ export const bookItems = [
     downloadUrl: "/books/563_七零空间：知青腰太软，糙汉脸红了1-1479章.txt",
     sourceUrl: "https://www.deqixs.org/563/txt.html#dir",
   },
-
-  {
+{
     id: 564,
     slug: "救命-男朋友和他哥都想强占我",
     title: "救命！男朋友和他哥都想强占我",
@@ -11234,8 +11270,7 @@ export const bookItems = [
     downloadUrl: "/books/564_救命！男朋友和他哥都想强占我1-187章.txt",
     sourceUrl: "https://www.deqixs.org/564/txt.html#dir",
   },
-
-  {
+{
     id: 565,
     slug: "强制标记后-假少爷成了死对头的专属o",
     title: "强制标记后，假少爷成了死对头的专属O",
@@ -11252,8 +11287,7 @@ export const bookItems = [
     downloadUrl: "/books/565_强制标记后，假少爷成了死对头的专属O1-386章.txt",
     sourceUrl: "https://www.deqixs.org/565/txt.html#dir",
   },
-
-  {
+{
     id: 566,
     slug: "带着空间养兽夫-恶雌成团宠了",
     title: "带着空间养兽夫，恶雌成团宠了",
@@ -11270,8 +11304,7 @@ export const bookItems = [
     downloadUrl: "/books/566_带着空间养兽夫，恶雌成团宠了1-1123章.txt",
     sourceUrl: "https://www.deqixs.org/566/txt.html#dir",
   },
-
-  {
+{
     id: 567,
     slug: "贤良主母掀桌第三天-高傲国公低头了",
     title: "贤良主母掀桌第三天，高傲国公低头了",
@@ -11288,8 +11321,7 @@ export const bookItems = [
     downloadUrl: "/books/567_贤良主母掀桌第三天，高傲国公低头了1-308章.txt",
     sourceUrl: "https://www.deqixs.org/567/txt.html#dir",
   },
-
-  {
+{
     id: 568,
     slug: "后娘别卷了-三崽外卖都送进朝堂了",
     title: "后娘别卷了，三崽外卖都送进朝堂了",
@@ -11306,8 +11338,7 @@ export const bookItems = [
     downloadUrl: "/books/568_后娘别卷了，三崽外卖都送进朝堂了1-305章.txt",
     sourceUrl: "https://www.deqixs.org/568/txt.html#dir",
   },
-
-  {
+{
     id: 569,
     slug: "八零军医软娇娇-禁欲首长馋疯了",
     title: "八零军医软娇娇，禁欲首长馋疯了",
@@ -11324,8 +11355,7 @@ export const bookItems = [
     downloadUrl: "/books/569_八零军医软娇娇，禁欲首长馋疯了1-268章.txt",
     sourceUrl: "https://www.deqixs.org/569/txt.html#dir",
   },
-
-  {
+{
     id: 570,
     slug: "都分房睡了-改嫁禁欲太子爷你跪什么",
     title: "都分房睡了，改嫁禁欲太子爷你跪什么？",
@@ -11342,8 +11372,7 @@ export const bookItems = [
     downloadUrl: "/books/570_都分房睡了，改嫁禁欲太子爷你跪什么？1-532章.txt",
     sourceUrl: "https://www.deqixs.org/570/txt.html#dir",
   },
-
-  {
+{
     id: 571,
     slug: "领证爽约-我转嫁你哥哭什么",
     title: "领证爽约？我转嫁你哥哭什么",
@@ -11360,8 +11389,7 @@ export const bookItems = [
     downloadUrl: "/books/571_领证爽约？我转嫁你哥哭什么1-989章.txt",
     sourceUrl: "https://www.deqixs.org/571/txt.html#dir",
   },
-
-  {
+{
     id: 572,
     slug: "送我入狱后-渣夫一夜白头",
     title: "送我入狱后，渣夫一夜白头",
@@ -11378,8 +11406,7 @@ export const bookItems = [
     downloadUrl: "/books/572_送我入狱后，渣夫一夜白头1-471章.txt",
     sourceUrl: "https://www.deqixs.org/572/txt.html#dir",
   },
-
-  {
+{
     id: 573,
     slug: "九零野痞大佬强制爱-乖-坐腿上亲",
     title: "九零野痞大佬强制爱！乖，坐腿上亲",
@@ -11396,8 +11423,7 @@ export const bookItems = [
     downloadUrl: "/books/573_九零野痞大佬强制爱！乖，坐腿上亲1-143章.txt",
     sourceUrl: "https://www.deqixs.org/573/txt.html#dir",
   },
-
-  {
+{
     id: 574,
     slug: "军婚五十年不圆房-重生改嫁他上司",
     title: "军婚五十年不圆房，重生改嫁他上司",
@@ -11414,8 +11440,7 @@ export const bookItems = [
     downloadUrl: "/books/574_军婚五十年不圆房，重生改嫁他上司1-582章.txt",
     sourceUrl: "https://www.deqixs.org/574/txt.html#dir",
   },
-
-  {
+{
     id: 575,
     slug: "八零-改我志愿-我虐翻极品成富婆",
     title: "八零：改我志愿？我虐翻极品成富婆",
@@ -11432,8 +11457,7 @@ export const bookItems = [
     downloadUrl: "/books/575_八零：改我志愿？我虐翻极品成富婆1-280章.txt",
     sourceUrl: "https://www.deqixs.org/575/txt.html#dir",
   },
-
-  {
+{
     id: 576,
     slug: "上辈子蠢够了-重生谁还当牛做马",
     title: "上辈子蠢够了，重生谁还当牛做马",
@@ -11450,8 +11474,7 @@ export const bookItems = [
     downloadUrl: "/books/576_上辈子蠢够了，重生谁还当牛做马1-550章.txt",
     sourceUrl: "https://www.deqixs.org/576/txt.html#dir",
   },
-
-  {
+{
     id: 577,
     slug: "欢迎来到诡诞游戏",
     title: "欢迎来到诡诞游戏",
@@ -11468,8 +11491,7 @@ export const bookItems = [
     downloadUrl: "/books/577_欢迎来到诡诞游戏1-191章.txt",
     sourceUrl: "https://www.deqixs.org/577/txt.html#dir",
   },
-
-  {
+{
     id: 578,
     slug: "渣夫别跪了-夫人嫁顶级大佬显怀啦",
     title: "渣夫别跪了，夫人嫁顶级大佬显怀啦",
@@ -11486,8 +11508,7 @@ export const bookItems = [
     downloadUrl: "/books/578_渣夫别跪了，夫人嫁顶级大佬显怀啦1-555章.txt",
     sourceUrl: "https://www.deqixs.org/578/txt.html#dir",
   },
-
-  {
+{
     id: 579,
     slug: "拐个张家女人下墓-佛爷坐不住了",
     title: "拐个张家女人下墓，佛爷坐不住了",
@@ -11504,8 +11525,7 @@ export const bookItems = [
     downloadUrl: "/books/579_拐个张家女人下墓，佛爷坐不住了1-120章.txt",
     sourceUrl: "https://www.deqixs.org/579/txt.html#dir",
   },
-
-  {
+{
     id: 580,
     slug: "老宅通万界-我用泡面养活了1950",
     title: "老宅通万界：我用泡面养活了1950",
@@ -11522,8 +11542,7 @@ export const bookItems = [
     downloadUrl: "/books/580_老宅通万界：我用泡面养活了19501-277章.txt",
     sourceUrl: "https://www.deqixs.org/580/txt.html#dir",
   },
-
-  {
+{
     id: 581,
     slug: "带着超市穿七零-炮灰知青搬空家产去下乡",
     title: "带着超市穿七零，炮灰知青搬空家产去下乡",
@@ -11540,8 +11559,7 @@ export const bookItems = [
     downloadUrl: "/books/581_带着超市穿七零，炮灰知青搬空家产去下乡1-128章.txt",
     sourceUrl: "https://www.deqixs.org/581/txt.html#dir",
   },
-
-  {
+{
     id: 582,
     slug: "八零老太重生后-耳光扇飞全大院",
     title: "八零老太重生后，耳光扇飞全大院",
@@ -11558,8 +11576,7 @@ export const bookItems = [
     downloadUrl: "/books/582_八零老太重生后，耳光扇飞全大院1-538章.txt",
     sourceUrl: "https://www.deqixs.org/582/txt.html#dir",
   },
-
-  {
+{
     id: 583,
     slug: "豪门老公捂不热-离婚分居又求复合",
     title: "豪门老公捂不热，离婚分居又求复合",
@@ -11576,8 +11593,7 @@ export const bookItems = [
     downloadUrl: "/books/583_豪门老公捂不热，离婚分居又求复合1-322章.txt",
     sourceUrl: "https://www.deqixs.org/583/txt.html#dir",
   },
-
-  {
+{
     id: 584,
     slug: "不是不爱吗-太太带娃跑路你急什么",
     title: "不是不爱吗？太太带娃跑路你急什么",
@@ -11594,8 +11610,7 @@ export const bookItems = [
     downloadUrl: "/books/584_不是不爱吗？太太带娃跑路你急什么1-202章.txt",
     sourceUrl: "https://www.deqixs.org/584/txt.html#dir",
   },
-
-  {
+{
     id: 585,
     slug: "领证日换嫁首长-随军后我连生两胎",
     title: "领证日换嫁首长，随军后我连生两胎",
@@ -11612,8 +11627,7 @@ export const bookItems = [
     downloadUrl: "/books/585_领证日换嫁首长，随军后我连生两胎1-290章.txt",
     sourceUrl: "https://www.deqixs.org/585/txt.html#dir",
   },
-
-  {
+{
     id: 586,
     slug: "穿越荒年-闺蜜成了我的金手指",
     title: "穿越荒年，闺蜜成了我的金手指",
@@ -11630,8 +11644,7 @@ export const bookItems = [
     downloadUrl: "/books/586_穿越荒年，闺蜜成了我的金手指1-301章.txt",
     sourceUrl: "https://www.deqixs.org/586/txt.html#dir",
   },
-
-  {
+{
     id: 587,
     slug: "纪念日你和寡嫂过-我离婚独美",
     title: "纪念日你和寡嫂过，我离婚独美",
@@ -11648,8 +11661,7 @@ export const bookItems = [
     downloadUrl: "/books/587_纪念日你和寡嫂过，我离婚独美1-1330章.txt",
     sourceUrl: "https://www.deqixs.org/587/txt.html#dir",
   },
-
-  {
+{
     id: 588,
     slug: "恶毒炮灰也要被轮流亲亲",
     title: "恶毒炮灰也要被轮流亲亲",
@@ -11666,8 +11678,7 @@ export const bookItems = [
     downloadUrl: "/books/588_恶毒炮灰也要被轮流亲亲1-88章.txt",
     sourceUrl: "https://www.deqixs.org/588/txt.html#dir",
   },
-
-  {
+{
     id: 589,
     slug: "八零抢婚随军-被绝嗣硬汉疼哭了",
     title: "八零抢婚随军，被绝嗣硬汉疼哭了",
@@ -11684,8 +11695,7 @@ export const bookItems = [
     downloadUrl: "/books/589_八零抢婚随军，被绝嗣硬汉疼哭了1-203章.txt",
     sourceUrl: "https://www.deqixs.org/589/txt.html#dir",
   },
-
-  {
+{
     id: 590,
     slug: "捡到病弱哥哥后-疯批全家强势宠",
     title: "捡到病弱哥哥后，疯批全家强势宠",
@@ -11702,8 +11712,7 @@ export const bookItems = [
     downloadUrl: "/books/590_捡到病弱哥哥后，疯批全家强势宠1-206章.txt",
     sourceUrl: "https://www.deqixs.org/590/txt.html#dir",
   },
-
-  {
+{
     id: 591,
     slug: "假扮女修钓了魔龙后-这条鱼炸了",
     title: "假扮女修钓了魔龙后，这条鱼炸了",
@@ -11720,8 +11729,7 @@ export const bookItems = [
     downloadUrl: "/books/591_假扮女修钓了魔龙后，这条鱼炸了1-229章.txt",
     sourceUrl: "https://www.deqixs.org/591/txt.html#dir",
   },
-
-  {
+{
     id: 592,
     slug: "寒门童养媳-养出了一门两状元",
     title: "寒门童养媳，养出了一门两状元",
@@ -11738,8 +11746,7 @@ export const bookItems = [
     downloadUrl: "/books/592_寒门童养媳，养出了一门两状元1-560章.txt",
     sourceUrl: "https://www.deqixs.org/592/txt.html#dir",
   },
-
-  {
+{
     id: 593,
     slug: "换嫁冷脸飞行员-一胎三宝赢麻了",
     title: "换嫁冷脸飞行员，一胎三宝赢麻了",
@@ -11756,8 +11763,7 @@ export const bookItems = [
     downloadUrl: "/books/593_换嫁冷脸飞行员，一胎三宝赢麻了1-454章.txt",
     sourceUrl: "https://www.deqixs.org/593/txt.html#dir",
   },
-
-  {
+{
     id: 594,
     slug: "凡人修仙-从废丹房杂役开始",
     title: "凡人修仙：从废丹房杂役开始",
@@ -11774,8 +11780,7 @@ export const bookItems = [
     downloadUrl: "/books/594_凡人修仙：从废丹房杂役开始1-910章.txt",
     sourceUrl: "https://www.deqixs.org/594/txt.html#dir",
   },
-
-  {
+{
     id: 595,
     slug: "重生78-开局被女知青退婚",
     title: "重生78，开局被女知青退婚",
@@ -11792,8 +11797,7 @@ export const bookItems = [
     downloadUrl: "/books/595_重生78，开局被女知青退婚1-2449章.txt",
     sourceUrl: "https://www.deqixs.org/595/txt.html#dir",
   },
-
-  {
+{
     id: 596,
     slug: "丰腴美人小保姆-满级婴语成团宠",
     title: "丰腴美人小保姆，满级婴语成团宠",
@@ -11810,8 +11814,7 @@ export const bookItems = [
     downloadUrl: "/books/596_丰腴美人小保姆，满级婴语成团宠1-148章.txt",
     sourceUrl: "https://www.deqixs.org/596/txt.html#dir",
   },
-
-  {
+{
     id: 597,
     slug: "病秧子早逝-换亲后我旺他全族百年",
     title: "病秧子早逝？换亲后我旺他全族百年！",
@@ -11828,8 +11831,7 @@ export const bookItems = [
     downloadUrl: "/books/597_病秧子早逝？换亲后我旺他全族百年！1-1214章.txt",
     sourceUrl: "https://www.deqixs.org/597/txt.html#dir",
   },
-
-  {
+{
     id: 598,
     slug: "看守废丹房三年-我偷偷成仙了",
     title: "看守废丹房三年，我偷偷成仙了",
@@ -11846,8 +11848,7 @@ export const bookItems = [
     downloadUrl: "/books/598_看守废丹房三年，我偷偷成仙了1-1143章.txt",
     sourceUrl: "https://www.deqixs.org/598/txt.html#dir",
   },
-
-  {
+{
     id: 599,
     slug: "星际-我的杂货店在万界爆火",
     title: "星际：我的杂货店在万界爆火",
@@ -11864,8 +11865,7 @@ export const bookItems = [
     downloadUrl: "/books/599_星际：我的杂货店在万界爆火1-133章.txt",
     sourceUrl: "https://www.deqixs.org/599/txt.html#dir",
   },
-
-  {
+{
     id: 600,
     slug: "重生捉奸宴-改嫁绝嗣战神好孕来",
     title: "重生捉奸宴，改嫁绝嗣战神好孕来",
@@ -11882,8 +11882,7 @@ export const bookItems = [
     downloadUrl: "/books/600_重生捉奸宴，改嫁绝嗣战神好孕来1-443章.txt",
     sourceUrl: "https://www.deqixs.org/600/txt.html#dir",
   },
-
-  {
+{
     id: 601,
     slug: "综影视之妖后她人美心狠",
     title: "综影视之妖后她人美心狠",
@@ -11900,8 +11899,7 @@ export const bookItems = [
     downloadUrl: "/books/601_综影视之妖后她人美心狠1-2014章.txt",
     sourceUrl: "https://www.deqixs.org/601/txt.html#dir",
   },
-
-  {
+{
     id: 602,
     slug: "警报-真龙出狱",
     title: "警报！真龙出狱！",
@@ -11918,8 +11916,7 @@ export const bookItems = [
     downloadUrl: "/books/602_警报！真龙出狱！1-1808章.txt",
     sourceUrl: "https://www.deqixs.org/602/txt.html#dir",
   },
-
-  {
+{
     id: 603,
     slug: "这个冒险者过分正义",
     title: "这个冒险者过分正义",
@@ -11936,8 +11933,7 @@ export const bookItems = [
     downloadUrl: "/books/603_这个冒险者过分正义1-216章.txt",
     sourceUrl: "https://www.deqixs.org/603/txt.html#dir",
   },
-
-  {
+{
     id: 604,
     slug: "覆明",
     title: "覆明！",
@@ -11954,8 +11950,7 @@ export const bookItems = [
     downloadUrl: "/books/604_覆明！1-640章.txt",
     sourceUrl: "https://www.deqixs.org/604/txt.html#dir",
   },
-
-  {
+{
     id: 605,
     slug: "她们都想成为轻小说女主角",
     title: "她们都想成为轻小说女主角",
@@ -11972,8 +11967,7 @@ export const bookItems = [
     downloadUrl: "/books/605_她们都想成为轻小说女主角1-239章.txt",
     sourceUrl: "https://www.deqixs.org/605/txt.html#dir",
   },
-
-  {
+{
     id: 606,
     slug: "半岛-我被顶流偶像供养了",
     title: "半岛：我被顶流偶像供养了",
@@ -11990,8 +11984,7 @@ export const bookItems = [
     downloadUrl: "/books/606_半岛：我被顶流偶像供养了1-540章.txt",
     sourceUrl: "https://www.deqixs.org/606/txt.html#dir",
   },
-
-  {
+{
     id: 607,
     slug: "蒸汽世界的奥秘侦探",
     title: "蒸汽世界的奥秘侦探",
@@ -12008,8 +12001,7 @@ export const bookItems = [
     downloadUrl: "/books/607_蒸汽世界的奥秘侦探1-389章.txt",
     sourceUrl: "https://www.deqixs.org/607/txt.html#dir",
   },
-
-  {
+{
     id: 608,
     slug: "修罗武神",
     title: "修罗武神",
@@ -12026,8 +12018,7 @@ export const bookItems = [
     downloadUrl: "/books/608_修罗武神1-6779章.txt",
     sourceUrl: "https://www.deqixs.org/608/txt.html#dir",
   },
-
-  {
+{
     id: 609,
     slug: "1986-从厂二代开始",
     title: "1986：从厂二代开始",
@@ -12044,8 +12035,7 @@ export const bookItems = [
     downloadUrl: "/books/609_1986：从厂二代开始1-300章.txt",
     sourceUrl: "https://www.deqixs.org/609/txt.html#dir",
   },
-
-  {
+{
     id: 610,
     slug: "医学美利坚-我靠恶魔度过斩杀线",
     title: "医学美利坚：我靠恶魔度过斩杀线",
@@ -12062,8 +12052,7 @@ export const bookItems = [
     downloadUrl: "/books/610_医学美利坚：我靠恶魔度过斩杀线1-434章.txt",
     sourceUrl: "https://www.deqixs.org/610/txt.html#dir",
   },
-
-  {
+{
     id: 611,
     slug: "年代1982-每天一条赚钱情报",
     title: "年代1982：每天一条赚钱情报",
@@ -12080,8 +12069,7 @@ export const bookItems = [
     downloadUrl: "/books/611_年代1982：每天一条赚钱情报1-437章.txt",
     sourceUrl: "https://www.deqixs.org/611/txt.html#dir",
   },
-
-  {
+{
     id: 612,
     slug: "腹黑青梅根本藏不住对我的喜欢",
     title: "腹黑青梅根本藏不住对我的喜欢",
@@ -12098,8 +12086,7 @@ export const bookItems = [
     downloadUrl: "/books/612_腹黑青梅根本藏不住对我的喜欢1-344章.txt",
     sourceUrl: "https://www.deqixs.org/612/txt.html#dir",
   },
-
-  {
+{
     id: 613,
     slug: "柴门通现代-小村姑靠倒卖致富",
     title: "柴门通现代：小村姑靠倒卖致富",
@@ -12116,8 +12103,7 @@ export const bookItems = [
     downloadUrl: "/books/613_柴门通现代：小村姑靠倒卖致富1-227章.txt",
     sourceUrl: "https://www.deqixs.org/613/txt.html#dir",
   },
-
-  {
+{
     id: 614,
     slug: "万世之名",
     title: "万世之名",
@@ -12134,8 +12120,7 @@ export const bookItems = [
     downloadUrl: "/books/614_万世之名1-713章.txt",
     sourceUrl: "https://www.deqixs.org/614/txt.html#dir",
   },
-
-  {
+{
     id: 615,
     slug: "还不起学贷的我只好兼职猎魔",
     title: "还不起学贷的我只好兼职猎魔",
@@ -12152,8 +12137,7 @@ export const bookItems = [
     downloadUrl: "/books/615_还不起学贷的我只好兼职猎魔1-197章.txt",
     sourceUrl: "https://www.deqixs.org/615/txt.html#dir",
   },
-
-  {
+{
     id: 616,
     slug: "东京少女们大有问题",
     title: "东京少女们大有问题",
@@ -12170,8 +12154,7 @@ export const bookItems = [
     downloadUrl: "/books/616_东京少女们大有问题1-480章.txt",
     sourceUrl: "https://www.deqixs.org/616/txt.html#dir",
   },
-
-  {
+{
     id: 617,
     slug: "都重生了谁还正经创业啊",
     title: "都重生了谁还正经创业啊",
@@ -12188,8 +12171,7 @@ export const bookItems = [
     downloadUrl: "/books/617_都重生了谁还正经创业啊1-1029章.txt",
     sourceUrl: "https://www.deqixs.org/617/txt.html#dir",
   },
-
-  {
+{
     id: 618,
     slug: "华娱-分手之后当巨星",
     title: "华娱：分手之后当巨星",
@@ -12206,8 +12188,7 @@ export const bookItems = [
     downloadUrl: "/books/618_华娱：分手之后当巨星1-496章.txt",
     sourceUrl: "https://www.deqixs.org/618/txt.html#dir",
   },
-
-  {
+{
     id: 619,
     slug: "修仙-从阴兵法坛开始",
     title: "修仙：从阴兵法坛开始",
@@ -12224,8 +12205,7 @@ export const bookItems = [
     downloadUrl: "/books/619_修仙：从阴兵法坛开始1-1388章.txt",
     sourceUrl: "https://www.deqixs.org/619/txt.html#dir",
   },
-
-  {
+{
     id: 620,
     slug: "好莱坞1952",
     title: "好莱坞1952",
@@ -12242,8 +12222,7 @@ export const bookItems = [
     downloadUrl: "/books/620_好莱坞19521-527章.txt",
     sourceUrl: "https://www.deqixs.org/620/txt.html#dir",
   },
-
-  {
+{
     id: 621,
     slug: "五仙门",
     title: "五仙门",
@@ -12260,8 +12239,7 @@ export const bookItems = [
     downloadUrl: "/books/621_五仙门1-3085章.txt",
     sourceUrl: "https://www.deqixs.org/621/txt.html#dir",
   },
-
-  {
+{
     id: 622,
     slug: "混沌塔",
     title: "混沌塔",
@@ -12278,8 +12256,7 @@ export const bookItems = [
     downloadUrl: "/books/622_混沌塔1-2127章.txt",
     sourceUrl: "https://www.deqixs.org/622/txt.html#dir",
   },
-
-  {
+{
     id: 623,
     slug: "陆地剑仙-剑阁守剑八十年",
     title: "陆地剑仙：剑阁守剑八十年",
@@ -12296,8 +12273,7 @@ export const bookItems = [
     downloadUrl: "/books/623_陆地剑仙：剑阁守剑八十年1-1098章.txt",
     sourceUrl: "https://www.deqixs.org/623/txt.html#dir",
   },
-
-  {
+{
     id: 624,
     slug: "什么-我的二次元手办都成真了",
     title: "什么？我的二次元手办都成真了！",
@@ -12314,8 +12290,7 @@ export const bookItems = [
     downloadUrl: "/books/624_什么？我的二次元手办都成真了！1-332章.txt",
     sourceUrl: "https://www.deqixs.org/624/txt.html#dir",
   },
-
-  {
+{
     id: 625,
     slug: "华娱从继承视频网站开始",
     title: "华娱从继承视频网站开始",
@@ -12332,8 +12307,7 @@ export const bookItems = [
     downloadUrl: "/books/625_华娱从继承视频网站开始1-193章.txt",
     sourceUrl: "https://www.deqixs.org/625/txt.html#dir",
   },
-
-  {
+{
     id: 626,
     slug: "东京-你管这叫正常装备",
     title: "东京：你管这叫正常装备？",
@@ -12350,8 +12324,7 @@ export const bookItems = [
     downloadUrl: "/books/626_东京：你管这叫正常装备？1-726章.txt",
     sourceUrl: "https://www.deqixs.org/626/txt.html#dir",
   },
-
-  {
+{
     id: 627,
     slug: "棺香美人",
     title: "棺香美人",
@@ -12368,8 +12341,7 @@ export const bookItems = [
     downloadUrl: "/books/627_棺香美人1-2809章.txt",
     sourceUrl: "https://www.deqixs.org/627/txt.html#dir",
   },
-
-  {
+{
     id: 628,
     slug: "开局被超人捡到的维星人",
     title: "开局被超人捡到的维星人",
@@ -12386,8 +12358,7 @@ export const bookItems = [
     downloadUrl: "/books/628_开局被超人捡到的维星人1-469章.txt",
     sourceUrl: "https://www.deqixs.org/628/txt.html#dir",
   },
-
-  {
+{
     id: 629,
     slug: "敢让邪修老祖宗当舔狗-你活腻了",
     title: "敢让邪修老祖宗当舔狗？你活腻了",
@@ -12404,8 +12375,7 @@ export const bookItems = [
     downloadUrl: "/books/629_敢让邪修老祖宗当舔狗？你活腻了1-323章.txt",
     sourceUrl: "https://www.deqixs.org/629/txt.html#dir",
   },
-
-  {
+{
     id: 630,
     slug: "手握炮灰剧本-卷王改命易如反掌",
     title: "手握炮灰剧本，卷王改命易如反掌",
@@ -12422,8 +12392,7 @@ export const bookItems = [
     downloadUrl: "/books/630_手握炮灰剧本，卷王改命易如反掌1-1569章.txt",
     sourceUrl: "https://www.deqixs.org/630/txt.html#dir",
   },
-
-  {
+{
     id: 631,
     slug: "无限恐怖入侵诸天",
     title: "无限恐怖入侵诸天",
@@ -12440,8 +12409,7 @@ export const bookItems = [
     downloadUrl: "/books/631_无限恐怖入侵诸天1-353章.txt",
     sourceUrl: "https://www.deqixs.org/631/txt.html#dir",
   },
-
-  {
+{
     id: 632,
     slug: "长生-我的天赋无限叠加",
     title: "长生：我的天赋无限叠加",
@@ -12458,8 +12426,7 @@ export const bookItems = [
     downloadUrl: "/books/632_长生：我的天赋无限叠加1-610章.txt",
     sourceUrl: "https://www.deqixs.org/632/txt.html#dir",
   },
-
-  {
+{
     id: 633,
     slug: "假千金在抢男人-七零真千金已上交国家",
     title: "假千金在抢男人，七零真千金已上交国家",
@@ -12476,8 +12443,7 @@ export const bookItems = [
     downloadUrl: "/books/633_假千金在抢男人，七零真千金已上交国家1-270章.txt",
     sourceUrl: "https://www.deqixs.org/633/txt.html#dir",
   },
-
-  {
+{
     id: 634,
     slug: "登神-从双职业开始",
     title: "登神：从双职业开始",
@@ -12494,8 +12460,7 @@ export const bookItems = [
     downloadUrl: "/books/634_登神：从双职业开始1-477章.txt",
     sourceUrl: "https://www.deqixs.org/634/txt.html#dir",
   },
-
-  {
+{
     id: 635,
     slug: "乖乖女断联-偏执靳总却上瘾了",
     title: "乖乖女断联，偏执靳总却上瘾了",
@@ -12512,8 +12477,7 @@ export const bookItems = [
     downloadUrl: "/books/635_乖乖女断联，偏执靳总却上瘾了1-210章.txt",
     sourceUrl: "https://www.deqixs.org/635/txt.html#dir",
   },
-
-  {
+{
     id: 636,
     slug: "京夜逢君",
     title: "京夜逢君",
@@ -12530,8 +12494,7 @@ export const bookItems = [
     downloadUrl: "/books/636_京夜逢君1-268章.txt",
     sourceUrl: "https://www.deqixs.org/636/txt.html#dir",
   },
-
-  {
+{
     id: 637,
     slug: "吃软饭怎么了-军队都是媳妇养的",
     title: "吃软饭怎么了？军队都是媳妇养的",
@@ -12548,8 +12511,7 @@ export const bookItems = [
     downloadUrl: "/books/637_吃软饭怎么了？军队都是媳妇养的1-522章.txt",
     sourceUrl: "https://www.deqixs.org/637/txt.html#dir",
   },
-
-  {
+{
     id: 638,
     slug: "改嫁死对头一夜怀崽-将军悔疯了",
     title: "改嫁死对头一夜怀崽，将军悔疯了",
@@ -12566,8 +12528,7 @@ export const bookItems = [
     downloadUrl: "/books/638_改嫁死对头一夜怀崽，将军悔疯了1-474章.txt",
     sourceUrl: "https://www.deqixs.org/638/txt.html#dir",
   },
-
-  {
+{
     id: 639,
     slug: "一念神魔",
     title: "一念神魔",
@@ -12584,8 +12545,7 @@ export const bookItems = [
     downloadUrl: "/books/639_一念神魔1-2710章.txt",
     sourceUrl: "https://www.deqixs.org/639/txt.html#dir",
   },
-
-  {
+{
     id: 640,
     slug: "夜雾撩港",
     title: "夜雾撩港",
@@ -12602,8 +12562,7 @@ export const bookItems = [
     downloadUrl: "/books/640_夜雾撩港1-265章.txt",
     sourceUrl: "https://www.deqixs.org/640/txt.html#dir",
   },
-
-  {
+{
     id: 641,
     slug: "八零炮灰女配-被绝嗣大佬拦腰宠",
     title: "八零炮灰女配，被绝嗣大佬拦腰宠",
@@ -12620,8 +12579,7 @@ export const bookItems = [
     downloadUrl: "/books/641_八零炮灰女配，被绝嗣大佬拦腰宠1-236章.txt",
     sourceUrl: "https://www.deqixs.org/641/txt.html#dir",
   },
-
-  {
+{
     id: 642,
     slug: "八零易孕娇软美人-馋哭绝嗣军少",
     title: "八零易孕娇软美人，馋哭绝嗣军少",
@@ -12638,8 +12596,7 @@ export const bookItems = [
     downloadUrl: "/books/642_八零易孕娇软美人，馋哭绝嗣军少1-106章.txt",
     sourceUrl: "https://www.deqixs.org/642/txt.html#dir",
   },
-
-  {
+{
     id: 643,
     slug: "天道都怕-你竟敢夺她凤凰命格",
     title: "天道都怕，你竟敢夺她凤凰命格？",
@@ -12656,8 +12613,7 @@ export const bookItems = [
     downloadUrl: "/books/643_天道都怕，你竟敢夺她凤凰命格？1-488章.txt",
     sourceUrl: "https://www.deqixs.org/643/txt.html#dir",
   },
-
-  {
+{
     id: 644,
     slug: "七零哑女懂兽语-随母改嫁旺军区",
     title: "七零哑女懂兽语，随母改嫁旺军区",
@@ -12674,8 +12630,7 @@ export const bookItems = [
     downloadUrl: "/books/644_七零哑女懂兽语，随母改嫁旺军区1-167章.txt",
     sourceUrl: "https://www.deqixs.org/644/txt.html#dir",
   },
-
-  {
+{
     id: 645,
     slug: "一婚二宝-帝少宠妻无节制",
     title: "一婚二宝：帝少宠妻无节制",
@@ -12692,8 +12647,7 @@ export const bookItems = [
     downloadUrl: "/books/645_一婚二宝：帝少宠妻无节制1-2427章.txt",
     sourceUrl: "https://www.deqixs.org/645/txt.html#dir",
   },
-
-  {
+{
     id: 646,
     slug: "官场之权势滔天",
     title: "官场之权势滔天",
@@ -12710,8 +12664,7 @@ export const bookItems = [
     downloadUrl: "/books/646_官场之权势滔天1-1882章.txt",
     sourceUrl: "https://www.deqixs.org/646/txt.html#dir",
   },
-
-  {
+{
     id: 647,
     slug: "侯府弃女-从修仙界回来了",
     title: "侯府弃女，从修仙界回来了",
@@ -12728,8 +12681,7 @@ export const bookItems = [
     downloadUrl: "/books/647_侯府弃女，从修仙界回来了1-448章.txt",
     sourceUrl: "https://www.deqixs.org/647/txt.html#dir",
   },
-
-  {
+{
     id: 648,
     slug: "穿成三岁半奶娃-绝嗣大佬我来靠",
     title: "穿成三岁半奶娃，绝嗣大佬我来靠",
@@ -12746,8 +12698,7 @@ export const bookItems = [
     downloadUrl: "/books/648_穿成三岁半奶娃，绝嗣大佬我来靠1-366章.txt",
     sourceUrl: "https://www.deqixs.org/648/txt.html#dir",
   },
-
-  {
+{
     id: 649,
     slug: "幼崽靠宠妃系统在诡异世界成团宠",
     title: "幼崽靠宠妃系统在诡异世界成团宠",
@@ -12764,8 +12715,7 @@ export const bookItems = [
     downloadUrl: "/books/649_幼崽靠宠妃系统在诡异世界成团宠1-643章.txt",
     sourceUrl: "https://www.deqixs.org/649/txt.html#dir",
   },
-
-  {
+{
     id: 650,
     slug: "我以扭曲恋爱拯救病态少女",
     title: "我以扭曲恋爱拯救病态少女",
@@ -12782,8 +12732,7 @@ export const bookItems = [
     downloadUrl: "/books/650_我以扭曲恋爱拯救病态少女1-495章.txt",
     sourceUrl: "https://www.deqixs.org/650/txt.html#dir",
   },
-
-  {
+{
     id: 651,
     slug: "葬天神帝",
     title: "葬天神帝",
@@ -12800,8 +12749,7 @@ export const bookItems = [
     downloadUrl: "/books/651_葬天神帝1-3639章.txt",
     sourceUrl: "https://www.deqixs.org/651/txt.html#dir",
   },
-
-  {
+{
     id: 652,
     slug: "分手四年后-傅机长失了控",
     title: "分手四年后，傅机长失了控",
@@ -12818,8 +12766,7 @@ export const bookItems = [
     downloadUrl: "/books/652_分手四年后，傅机长失了控1-309章.txt",
     sourceUrl: "https://www.deqixs.org/652/txt.html#dir",
   },
-
-  {
+{
     id: 653,
     slug: "替身三年赚一亿-转头去撩他小叔",
     title: "替身三年赚一亿，转头去撩他小叔",
@@ -12836,8 +12783,7 @@ export const bookItems = [
     downloadUrl: "/books/653_替身三年赚一亿，转头去撩他小叔1-106章.txt",
     sourceUrl: "https://www.deqixs.org/653/txt.html#dir",
   },
-
-  {
+{
     id: 654,
     slug: "夏家有宝",
     title: "夏家有宝",
@@ -12854,8 +12800,7 @@ export const bookItems = [
     downloadUrl: "/books/654_夏家有宝1-679章.txt",
     sourceUrl: "https://www.deqixs.org/654/txt.html#dir",
   },
-
-  {
+{
     id: 655,
     slug: "宝可梦-但是文化入侵",
     title: "宝可梦，但是文化入侵",
@@ -12872,8 +12817,7 @@ export const bookItems = [
     downloadUrl: "/books/655_宝可梦，但是文化入侵1-180章.txt",
     sourceUrl: "https://www.deqixs.org/655/txt.html#dir",
   },
-
-  {
+{
     id: 656,
     slug: "见诡法则",
     title: "见诡法则",
@@ -12890,8 +12834,7 @@ export const bookItems = [
     downloadUrl: "/books/656_见诡法则1-299章.txt",
     sourceUrl: "https://www.deqixs.org/656/txt.html#dir",
   },
-
-  {
+{
     id: 657,
     slug: "恶毒女配不当人-死对头气疯了",
     title: "恶毒女配不当人，死对头气疯了",
@@ -12908,8 +12851,7 @@ export const bookItems = [
     downloadUrl: "/books/657_恶毒女配不当人，死对头气疯了1-319章.txt",
     sourceUrl: "https://www.deqixs.org/657/txt.html#dir",
   },
-
-  {
+{
     id: 658,
     slug: "全京城都等我破案",
     title: "全京城都等我破案",
@@ -12926,8 +12868,7 @@ export const bookItems = [
     downloadUrl: "/books/658_全京城都等我破案1-345章.txt",
     sourceUrl: "https://www.deqixs.org/658/txt.html#dir",
   },
-
-  {
+{
     id: 659,
     slug: "穿七零-假千金是科研大佬",
     title: "穿七零，假千金是科研大佬",
@@ -12944,8 +12885,7 @@ export const bookItems = [
     downloadUrl: "/books/659_穿七零，假千金是科研大佬1-184章.txt",
     sourceUrl: "https://www.deqixs.org/659/txt.html#dir",
   },
-
-  {
+{
     id: 660,
     slug: "醋婚",
     title: "醋婚",
@@ -12962,8 +12902,7 @@ export const bookItems = [
     downloadUrl: "/books/660_醋婚1-426章.txt",
     sourceUrl: "https://www.deqixs.org/660/txt.html#dir",
   },
-
-  {
+{
     id: 661,
     slug: "穿书七零-娇软美人撩得团长心尖颤",
     title: "穿书七零，娇软美人撩得团长心尖颤",
@@ -12980,8 +12919,7 @@ export const bookItems = [
     downloadUrl: "/books/661_穿书七零，娇软美人撩得团长心尖颤1-534章.txt",
     sourceUrl: "https://www.deqixs.org/661/txt.html#dir",
   },
-
-  {
+{
     id: 662,
     slug: "人族镇守使",
     title: "人族镇守使",
@@ -12998,8 +12936,7 @@ export const bookItems = [
     downloadUrl: "/books/662_人族镇守使1-4022章.txt",
     sourceUrl: "https://www.deqixs.org/662/txt.html#dir",
   },
-
-  {
+{
     id: 663,
     slug: "被疯批暴君和病娇权臣一起盯上后",
     title: "被疯批暴君和病娇权臣一起盯上后",
@@ -13016,8 +12953,7 @@ export const bookItems = [
     downloadUrl: "/books/663_被疯批暴君和病娇权臣一起盯上后1-466章.txt",
     sourceUrl: "https://www.deqixs.org/663/txt.html#dir",
   },
-
-  {
+{
     id: 664,
     slug: "谢邀-妖在人界但精神稳定",
     title: "谢邀，妖在人界但精神稳定",
@@ -13034,8 +12970,7 @@ export const bookItems = [
     downloadUrl: "/books/664_谢邀，妖在人界但精神稳定1-271章.txt",
     sourceUrl: "https://www.deqixs.org/664/txt.html#dir",
   },
-
-  {
+{
     id: 665,
     slug: "海岛随军-夺回身体后拿下海军少校",
     title: "海岛随军：夺回身体后拿下海军少校",
@@ -13052,8 +12987,7 @@ export const bookItems = [
     downloadUrl: "/books/665_海岛随军：夺回身体后拿下海军少校1-172章.txt",
     sourceUrl: "https://www.deqixs.org/665/txt.html#dir",
   },
-
-  {
+{
     id: 666,
     slug: "冷面首长野又强-一言不合就拆床",
     title: "冷面首长野又强，一言不合就拆床",
@@ -13070,8 +13004,7 @@ export const bookItems = [
     downloadUrl: "/books/666_冷面首长野又强，一言不合就拆床1-544章.txt",
     sourceUrl: "https://www.deqixs.org/666/txt.html#dir",
   },
-
-  {
+{
     id: 667,
     slug: "我的职业太有个性",
     title: "我的职业太有个性",
@@ -13088,8 +13021,7 @@ export const bookItems = [
     downloadUrl: "/books/667_我的职业太有个性1-729章.txt",
     sourceUrl: "https://www.deqixs.org/667/txt.html#dir",
   },
-
-  {
+{
     id: 668,
     slug: "我的民俗游戏机",
     title: "我的民俗游戏机",
@@ -13106,8 +13038,7 @@ export const bookItems = [
     downloadUrl: "/books/668_我的民俗游戏机1-290章.txt",
     sourceUrl: "https://www.deqixs.org/668/txt.html#dir",
   },
-
-  {
+{
     id: 669,
     slug: "小明星的私生都是阴湿大佬怎么办",
     title: "小明星的私生都是阴湿大佬怎么办",
@@ -13124,8 +13055,7 @@ export const bookItems = [
     downloadUrl: "/books/669_小明星的私生都是阴湿大佬怎么办1-160章.txt",
     sourceUrl: "https://www.deqixs.org/669/txt.html#dir",
   },
-
-  {
+{
     id: 670,
     slug: "亡灵法师-召唤055什么鬼",
     title: "亡灵法师，召唤055什么鬼？",
@@ -13142,8 +13072,7 @@ export const bookItems = [
     downloadUrl: "/books/670_亡灵法师，召唤055什么鬼？1-6816章.txt",
     sourceUrl: "https://www.deqixs.org/670/txt.html#dir",
   },
-
-  {
+{
     id: 671,
     slug: "系统逼我收徒-如何防止师有徒攻-在线急等",
     title: "系统逼我收徒，如何防止师有徒攻，在线急等",
@@ -13160,8 +13089,7 @@ export const bookItems = [
     downloadUrl: "/books/671_系统逼我收徒，如何防止师有徒攻，在线急等1-102章.txt",
     sourceUrl: "https://www.deqixs.org/671/txt.html#dir",
   },
-
-  {
+{
     id: 672,
     slug: "你送我入狱-我带娃离婚你哭什么",
     title: "你送我入狱，我带娃离婚你哭什么",
@@ -13178,8 +13106,7 @@ export const bookItems = [
     downloadUrl: "/books/672_你送我入狱，我带娃离婚你哭什么1-1057章.txt",
     sourceUrl: "https://www.deqixs.org/672/txt.html#dir",
   },
-
-  {
+{
     id: 673,
     slug: "诸天领主",
     title: "诸天领主",
@@ -13196,8 +13123,7 @@ export const bookItems = [
     downloadUrl: "/books/673_诸天领主1-808章.txt",
     sourceUrl: "https://www.deqixs.org/673/txt.html#dir",
   },
-
-  {
+{
     id: 674,
     slug: "序列-八道横行",
     title: "序列：八道横行",
@@ -13214,8 +13140,7 @@ export const bookItems = [
     downloadUrl: "/books/674_序列：八道横行1-568章.txt",
     sourceUrl: "https://www.deqixs.org/674/txt.html#dir",
   },
-
-  {
+{
     id: 675,
     slug: "禁咒师短命-我拥有不死之身",
     title: "禁咒师短命？我拥有不死之身",
@@ -13232,8 +13157,7 @@ export const bookItems = [
     downloadUrl: "/books/675_禁咒师短命？我拥有不死之身1-1769章.txt",
     sourceUrl: "https://www.deqixs.org/675/txt.html#dir",
   },
-
-  {
+{
     id: 676,
     slug: "龙游令",
     title: "龙游令",
@@ -13250,8 +13174,7 @@ export const bookItems = [
     downloadUrl: "/books/676_龙游令1-206章.txt",
     sourceUrl: "https://www.deqixs.org/676/txt.html#dir",
   },
-
-  {
+{
     id: 677,
     slug: "大夏补天人",
     title: "大夏补天人",
@@ -13268,8 +13191,7 @@ export const bookItems = [
     downloadUrl: "/books/677_大夏补天人1-591章.txt",
     sourceUrl: "https://www.deqixs.org/677/txt.html#dir",
   },
-
-  {
+{
     id: 678,
     slug: "女装网恋掉马-被重欲反派强制爱了",
     title: "女装网恋掉马，被重欲反派强制爱了！",
@@ -13286,8 +13208,7 @@ export const bookItems = [
     downloadUrl: "/books/678_女装网恋掉马，被重欲反派强制爱了！1-110章.txt",
     sourceUrl: "https://www.deqixs.org/678/txt.html#dir",
   },
-
-  {
+{
     id: 679,
     slug: "分手四年重逢-乔先生再次沦陷",
     title: "分手四年重逢，乔先生再次沦陷",
@@ -13304,8 +13225,7 @@ export const bookItems = [
     downloadUrl: "/books/679_分手四年重逢，乔先生再次沦陷1-254章.txt",
     sourceUrl: "https://www.deqixs.org/679/txt.html#dir",
   },
-
-  {
+{
     id: 680,
     slug: "两界打零工-我在流放路上顿顿吃肉",
     title: "两界打零工，我在流放路上顿顿吃肉",
@@ -13322,8 +13242,7 @@ export const bookItems = [
     downloadUrl: "/books/680_两界打零工，我在流放路上顿顿吃肉1-199章.txt",
     sourceUrl: "https://www.deqixs.org/680/txt.html#dir",
   },
-
-  {
+{
     id: 681,
     slug: "假千金回乡种田-灵蔬卖爆全世界",
     title: "假千金回乡种田，灵蔬卖爆全世界",
@@ -13340,8 +13259,7 @@ export const bookItems = [
     downloadUrl: "/books/681_假千金回乡种田，灵蔬卖爆全世界1-167章.txt",
     sourceUrl: "https://www.deqixs.org/681/txt.html#dir",
   },
-
-  {
+{
     id: 682,
     slug: "六零荒年有灵泉-我专蹭同行空间偷菜",
     title: "六零荒年有灵泉，我专蹭同行空间偷菜",
@@ -13358,8 +13276,7 @@ export const bookItems = [
     downloadUrl: "/books/682_六零荒年有灵泉，我专蹭同行空间偷菜1-198章.txt",
     sourceUrl: "https://www.deqixs.org/682/txt.html#dir",
   },
-
-  {
+{
     id: 683,
     slug: "运河边上小食肆-咸鱼小厨娘成首富了",
     title: "运河边上小食肆，咸鱼小厨娘成首富了！",
@@ -13376,8 +13293,7 @@ export const bookItems = [
     downloadUrl: "/books/683_运河边上小食肆，咸鱼小厨娘成首富了！1-292章.txt",
     sourceUrl: "https://www.deqixs.org/683/txt.html#dir",
   },
-
-  {
+{
     id: 684,
     slug: "兼挑两房-我换嫁你亡兄牌位生三胎",
     title: "兼挑两房？我换嫁你亡兄牌位生三胎！",
@@ -13394,8 +13310,7 @@ export const bookItems = [
     downloadUrl: "/books/684_兼挑两房？我换嫁你亡兄牌位生三胎！1-416章.txt",
     sourceUrl: "https://www.deqixs.org/684/txt.html#dir",
   },
-
-  {
+{
     id: 685,
     slug: "锦鲤下山-娘亲被害后我集邮了五个爹",
     title: "锦鲤下山，娘亲被害后我集邮了五个爹",
@@ -13412,8 +13327,7 @@ export const bookItems = [
     downloadUrl: "/books/685_锦鲤下山，娘亲被害后我集邮了五个爹1-303章.txt",
     sourceUrl: "https://www.deqixs.org/685/txt.html#dir",
   },
-
-  {
+{
     id: 686,
     slug: "边军悍卒",
     title: "边军悍卒",
@@ -13430,8 +13344,7 @@ export const bookItems = [
     downloadUrl: "/books/686_边军悍卒1-1902章.txt",
     sourceUrl: "https://www.deqixs.org/686/txt.html#dir",
   },
-
-  {
+{
     id: 687,
     slug: "绑定神豪系统后-漂亮炮灰深陷修罗场",
     title: "绑定神豪系统后，漂亮炮灰深陷修罗场",
@@ -13448,8 +13361,7 @@ export const bookItems = [
     downloadUrl: "/books/687_绑定神豪系统后，漂亮炮灰深陷修罗场1-96章.txt",
     sourceUrl: "https://www.deqixs.org/687/txt.html#dir",
   },
-
-  {
+{
     id: 688,
     slug: "糟糕-大婚夜-和嫡姐进错洞房了",
     title: "糟糕！大婚夜，和嫡姐进错洞房了",
@@ -13466,8 +13378,7 @@ export const bookItems = [
     downloadUrl: "/books/688_糟糕！大婚夜，和嫡姐进错洞房了1-385章.txt",
     sourceUrl: "https://www.deqixs.org/688/txt.html#dir",
   },
-
-  {
+{
     id: 689,
     slug: "星际兽世-姐魅力跟武力都拉满了",
     title: "星际兽世：姐魅力跟武力都拉满了",
@@ -13484,8 +13395,7 @@ export const bookItems = [
     downloadUrl: "/books/689_星际兽世：姐魅力跟武力都拉满了1-371章.txt",
     sourceUrl: "https://www.deqixs.org/689/txt.html#dir",
   },
-
-  {
+{
     id: 690,
     slug: "纯恨道侣死后-还不忘拉我双修",
     title: "纯恨道侣死后，还不忘拉我双修",
@@ -13502,8 +13412,7 @@ export const bookItems = [
     downloadUrl: "/books/690_纯恨道侣死后，还不忘拉我双修1-110章.txt",
     sourceUrl: "https://www.deqixs.org/690/txt.html#dir",
   },
-
-  {
+{
     id: 691,
     slug: "离婚当天-前夫跪求我复合",
     title: "离婚当天，前夫跪求我复合",
@@ -13520,8 +13429,7 @@ export const bookItems = [
     downloadUrl: "/books/691_离婚当天，前夫跪求我复合1-3332章.txt",
     sourceUrl: "https://www.deqixs.org/691/txt.html#dir",
   },
-
-  {
+{
     id: 692,
     slug: "封疆悍卒",
     title: "封疆悍卒",
@@ -13538,8 +13446,7 @@ export const bookItems = [
     downloadUrl: "/books/692_封疆悍卒1-2930章.txt",
     sourceUrl: "https://www.deqixs.org/692/txt.html#dir",
   },
-
-  {
+{
     id: 693,
     slug: "九转吞天诀",
     title: "九转吞天诀",
@@ -13556,8 +13463,7 @@ export const bookItems = [
     downloadUrl: "/books/693_九转吞天诀1-3608章.txt",
     sourceUrl: "https://www.deqixs.org/693/txt.html#dir",
   },
-
-  {
+{
     id: 694,
     slug: "娇娇假千金随军认错老公后-禁欲军官沦陷了",
     title: "娇娇假千金随军认错老公后，禁欲军官沦陷了",
@@ -13574,8 +13480,7 @@ export const bookItems = [
     downloadUrl: "/books/694_娇娇假千金随军认错老公后，禁欲军官沦陷了1-221章.txt",
     sourceUrl: "https://www.deqixs.org/694/txt.html#dir",
   },
-
-  {
+{
     id: 695,
     slug: "荒年捡个现代爹-崽崽成两界团宠",
     title: "荒年捡个现代爹，崽崽成两界团宠",
@@ -13592,8 +13497,7 @@ export const bookItems = [
     downloadUrl: "/books/695_荒年捡个现代爹，崽崽成两界团宠1-204章.txt",
     sourceUrl: "https://www.deqixs.org/695/txt.html#dir",
   },
-
-  {
+{
     id: 696,
     slug: "玄学小祖宗五岁半-糟心子孙立正站好",
     title: "玄学小祖宗五岁半，糟心子孙立正站好",
@@ -13610,8 +13514,7 @@ export const bookItems = [
     downloadUrl: "/books/696_玄学小祖宗五岁半，糟心子孙立正站好1-252章.txt",
     sourceUrl: "https://www.deqixs.org/696/txt.html#dir",
   },
-
-  {
+{
     id: 697,
     slug: "综影视之杠上送子观音",
     title: "综影视之杠上送子观音",
@@ -13628,8 +13531,7 @@ export const bookItems = [
     downloadUrl: "/books/697_综影视之杠上送子观音1-5252章.txt",
     sourceUrl: "https://www.deqixs.org/697/txt.html#dir",
   },
-
-  {
+{
     id: 698,
     slug: "鸿蒙霸体诀",
     title: "鸿蒙霸体诀",
@@ -13646,8 +13548,7 @@ export const bookItems = [
     downloadUrl: "/books/698_鸿蒙霸体诀1-3498章.txt",
     sourceUrl: "https://www.deqixs.org/698/txt.html#dir",
   },
-
-  {
+{
     id: 699,
     slug: "重生七零-换婚后渣男日日悔断肠",
     title: "重生七零：换婚后渣男日日悔断肠",
@@ -13664,8 +13565,7 @@ export const bookItems = [
     downloadUrl: "/books/699_重生七零：换婚后渣男日日悔断肠1-295章.txt",
     sourceUrl: "https://www.deqixs.org/699/txt.html#dir",
   },
-
-  {
+{
     id: 700,
     slug: "大明-暴君崇祯-杀出万世帝国",
     title: "大明：暴君崇祯，杀出万世帝国",
@@ -13682,7 +13582,7 @@ export const bookItems = [
     downloadUrl: "/books/700_大明：暴君崇祯，杀出万世帝国1-2006章.txt",
     sourceUrl: "https://www.deqixs.org/700/txt.html#dir",
   },
-  {
+{
     id: 701,
     slug: "综影视之桃花缘",
     title: "综影视之桃花缘",
@@ -13699,7 +13599,7 @@ export const bookItems = [
     downloadUrl: "/books/701_综影视之桃花缘1-1310章.txt",
     sourceUrl: "https://www.deqixs.org/701/txt.html#dir",
   },
-  {
+{
     id: 702,
     slug: "综影视之皎皎",
     title: "综影视之皎皎",
@@ -13716,7 +13616,7 @@ export const bookItems = [
     downloadUrl: "/books/702_综影视之皎皎1-1149章.txt",
     sourceUrl: "https://www.deqixs.org/702/txt.html#dir",
   },
-  {
+{
     id: 703,
     slug: "权力巅峰",
     title: "权力巅峰",
@@ -13733,7 +13633,7 @@ export const bookItems = [
     downloadUrl: "/books/703_权力巅峰1-2790章.txt",
     sourceUrl: "https://www.deqixs.org/703/txt.html#dir",
   },
-  {
+{
     id: 704,
     slug: "快穿-神豪-开局暴富-儿女躺赢",
     title: "快穿：神豪！开局暴富，儿女躺赢",
@@ -13750,7 +13650,7 @@ export const bookItems = [
     downloadUrl: "/books/704_快穿：神豪！开局暴富，儿女躺赢1-342章.txt",
     sourceUrl: "https://www.deqixs.org/704/txt.html#dir",
   },
-  {
+{
     id: 706,
     slug: "修仙居然靠种地-全城疯狂求她卖菜",
     title: "修仙居然靠种地？全城疯狂求她卖菜",
@@ -13767,7 +13667,7 @@ export const bookItems = [
     downloadUrl: "/books/706_修仙居然靠种地？全城疯狂求她卖菜1-250章.txt",
     sourceUrl: "https://www.deqixs.org/706/txt.html#dir",
   },
-  {
+{
     id: 707,
     slug: "逼我做平妻-我单开女户后富甲天下",
     title: "逼我做平妻？我单开女户后富甲天下",
@@ -13784,7 +13684,7 @@ export const bookItems = [
     downloadUrl: "/books/707_逼我做平妻？我单开女户后富甲天下1-978章.txt",
     sourceUrl: "https://www.deqixs.org/707/txt.html#dir",
   },
-  {
+{
     id: 708,
     slug: "七零小可怜三岁半-捡了七个大佬爹",
     title: "七零小可怜三岁半，捡了七个大佬爹",
@@ -13801,7 +13701,7 @@ export const bookItems = [
     downloadUrl: "/books/708_七零小可怜三岁半，捡了七个大佬爹1-118章.txt",
     sourceUrl: "https://www.deqixs.org/708/txt.html#dir",
   },
-  {
+{
     id: 709,
     slug: "太子不好啦-你闺女又朝大臣扔符",
     title: "太子不好啦，你闺女又朝大臣扔符",
@@ -13818,7 +13718,7 @@ export const bookItems = [
     downloadUrl: "/books/709_太子不好啦，你闺女又朝大臣扔符1-397章.txt",
     sourceUrl: "https://www.deqixs.org/709/txt.html#dir",
   },
-  {
+{
     id: 710,
     slug: "首长-你那农村媳妇成首富啦",
     title: "首长，你那农村媳妇成首富啦！",
@@ -13835,7 +13735,7 @@ export const bookItems = [
     downloadUrl: "/books/710_首长，你那农村媳妇成首富啦！1-167章.txt",
     sourceUrl: "https://www.deqixs.org/710/txt.html#dir",
   },
-  {
+{
     id: 711,
     slug: "外室登堂-状元嫡女踹翻全家",
     title: "外室登堂？状元嫡女踹翻全家",
@@ -13852,7 +13752,7 @@ export const bookItems = [
     downloadUrl: "/books/711_外室登堂？状元嫡女踹翻全家1-282章.txt",
     sourceUrl: "https://www.deqixs.org/711/txt.html#dir",
   },
-  {
+{
     id: 712,
     slug: "七零修罗场-小炮灰她商城通万界",
     title: "七零修罗场：小炮灰她商城通万界",
@@ -13869,7 +13769,7 @@ export const bookItems = [
     downloadUrl: "/books/712_七零修罗场：小炮灰她商城通万界1-124章.txt",
     sourceUrl: "https://www.deqixs.org/712/txt.html#dir",
   },
-  {
+{
     id: 713,
     slug: "骗我假结婚-认亲后我另嫁大佬你哭什么",
     title: "骗我假结婚，认亲后我另嫁大佬你哭什么",
@@ -13886,7 +13786,7 @@ export const bookItems = [
     downloadUrl: "/books/713_骗我假结婚，认亲后我另嫁大佬你哭什么1-635章.txt",
     sourceUrl: "https://www.deqixs.org/713/txt.html#dir",
   },
-  {
+{
     id: 714,
     slug: "你出轨在先-我离婚你哭什么",
     title: "你出轨在先，我离婚你哭什么",
@@ -13903,7 +13803,7 @@ export const bookItems = [
     downloadUrl: "/books/714_你出轨在先，我离婚你哭什么1-506章.txt",
     sourceUrl: "https://www.deqixs.org/714/txt.html#dir",
   },
-  {
+{
     id: 715,
     slug: "武逆九千界",
     title: "武逆九千界",
@@ -13920,7 +13820,7 @@ export const bookItems = [
     downloadUrl: "/books/715_武逆九千界1-6217章.txt",
     sourceUrl: "https://www.deqixs.org/715/txt.html#dir",
   },
-  {
+{
     id: 716,
     slug: "断绝关系后-玄学真千金杀疯了",
     title: "断绝关系后，玄学真千金杀疯了",
@@ -13937,7 +13837,7 @@ export const bookItems = [
     downloadUrl: "/books/716_断绝关系后，玄学真千金杀疯了1-429章.txt",
     sourceUrl: "https://www.deqixs.org/716/txt.html#dir",
   },
-  {
+{
     id: 717,
     slug: "弃妇厨门通两届-当npc带飞娘家人",
     title: "弃妇厨门通两届，当NPC带飞娘家人",
@@ -13954,7 +13854,7 @@ export const bookItems = [
     downloadUrl: "/books/717_弃妇厨门通两届，当NPC带飞娘家人1-237章.txt",
     sourceUrl: "https://www.deqixs.org/717/txt.html#dir",
   },
-  {
+{
     id: 718,
     slug: "未婚当奶娘-可她婴语满级啊",
     title: "未婚当奶娘？可她婴语满级啊！",
@@ -13971,7 +13871,7 @@ export const bookItems = [
     downloadUrl: "/books/718_未婚当奶娘？可她婴语满级啊！1-230章.txt",
     sourceUrl: "https://www.deqixs.org/718/txt.html#dir",
   },
-  {
+{
     id: 719,
     slug: "绑定祸国捞金系统后-我被弹幕剧透成福星",
     title: "绑定祸国捞金系统后，我被弹幕剧透成福星",
@@ -13988,7 +13888,7 @@ export const bookItems = [
     downloadUrl: "/books/719_绑定祸国捞金系统后，我被弹幕剧透成福星1-84章.txt",
     sourceUrl: "https://www.deqixs.org/719/txt.html#dir",
   },
-  {
+{
     id: 720,
     slug: "极品小姑景区上班-回古代买田盖屋",
     title: "极品小姑景区上班，回古代买田盖屋",
@@ -14005,7 +13905,7 @@ export const bookItems = [
     downloadUrl: "/books/720_极品小姑景区上班，回古代买田盖屋1-238章.txt",
     sourceUrl: "https://www.deqixs.org/720/txt.html#dir",
   },
-  {
+{
     id: 721,
     slug: "最强大佬带空间穿七零带飞祖国",
     title: "最强大佬带空间穿七零带飞祖国",
@@ -14022,7 +13922,7 @@ export const bookItems = [
     downloadUrl: "/books/721_最强大佬带空间穿七零带飞祖国1-60章.txt",
     sourceUrl: "https://www.deqixs.org/721/txt.html#dir",
   },
-  {
+{
     id: 722,
     slug: "末世菟丝花-绑定魅魔系统后被亲哭了",
     title: "末世菟丝花：绑定魅魔系统后被亲哭了",
@@ -14039,7 +13939,7 @@ export const bookItems = [
     downloadUrl: "/books/722_末世菟丝花：绑定魅魔系统后被亲哭了1-30章.txt",
     sourceUrl: "https://www.deqixs.org/722/txt.html#dir",
   },
-  {
+{
     id: 723,
     slug: "重生恶毒假千金-孕肚下乡成团宠",
     title: "重生恶毒假千金，孕肚下乡成团宠",
@@ -14056,7 +13956,7 @@ export const bookItems = [
     downloadUrl: "/books/723_重生恶毒假千金，孕肚下乡成团宠1-349章.txt",
     sourceUrl: "https://www.deqixs.org/723/txt.html#dir",
   },
-  {
+{
     id: 724,
     slug: "劲爆-离婚后夫人给总裁挂男科了",
     title: "劲爆，离婚后夫人给总裁挂男科了",
@@ -14073,7 +13973,7 @@ export const bookItems = [
     downloadUrl: "/books/724_劲爆，离婚后夫人给总裁挂男科了1-604章.txt",
     sourceUrl: "https://www.deqixs.org/724/txt.html#dir",
   },
-  {
+{
     id: 725,
     slug: "都说秦少凶-可他叫我小心肝",
     title: "都说秦少凶，可他叫我小心肝",
@@ -14090,7 +13990,7 @@ export const bookItems = [
     downloadUrl: "/books/725_都说秦少凶，可他叫我小心肝1-257章.txt",
     sourceUrl: "https://www.deqixs.org/725/txt.html#dir",
   },
-  {
+{
     id: 726,
     slug: "贵族学院全员恶人-她轻松当团宠",
     title: "贵族学院全员恶人？她轻松当团宠",
@@ -14107,7 +14007,7 @@ export const bookItems = [
     downloadUrl: "/books/726_贵族学院全员恶人？她轻松当团宠1-207章.txt",
     sourceUrl: "https://www.deqixs.org/726/txt.html#dir",
   },
-  {
+{
     id: 727,
     slug: "分手后-我让垃圾竹马跪地喊婶婶",
     title: "分手后，我让垃圾竹马跪地喊婶婶",
@@ -14124,7 +14024,7 @@ export const bookItems = [
     downloadUrl: "/books/727_分手后，我让垃圾竹马跪地喊婶婶1-2591章.txt",
     sourceUrl: "https://www.deqixs.org/727/txt.html#dir",
   },
-  {
+{
     id: 728,
     slug: "送爹入赘-这软饭团宠崽崽越吃越香",
     title: "送爹入赘，这软饭团宠崽崽越吃越香",
@@ -14141,7 +14041,7 @@ export const bookItems = [
     downloadUrl: "/books/728_送爹入赘，这软饭团宠崽崽越吃越香1-174章.txt",
     sourceUrl: "https://www.deqixs.org/728/txt.html#dir",
   },
-  {
+{
     id: 729,
     slug: "穿成炮灰嫡女后-我掀了全书",
     title: "穿成炮灰嫡女后，我掀了全书",
@@ -14158,7 +14058,7 @@ export const bookItems = [
     downloadUrl: "/books/729_穿成炮灰嫡女后，我掀了全书1-280章.txt",
     sourceUrl: "https://www.deqixs.org/729/txt.html#dir",
   },
-  {
+{
     id: 730,
     slug: "读心训狗-毒舌美人又被烈犬舔手了",
     title: "读心训狗，毒舌美人又被烈犬舔手了",
@@ -14175,7 +14075,7 @@ export const bookItems = [
     downloadUrl: "/books/730_读心训狗，毒舌美人又被烈犬舔手了1-102章.txt",
     sourceUrl: "https://www.deqixs.org/730/txt.html#dir",
   },
-  {
+{
     id: 731,
     slug: "快穿之审美异常真可怕",
     title: "快穿之审美异常真可怕",
@@ -14192,7 +14092,7 @@ export const bookItems = [
     downloadUrl: "/books/731_快穿之审美异常真可怕1-540章.txt",
     sourceUrl: "https://www.deqixs.org/731/txt.html#dir",
   },
-  {
+{
     id: 732,
     slug: "深夜沉溺",
     title: "深夜沉溺",
@@ -14209,7 +14109,7 @@ export const bookItems = [
     downloadUrl: "/books/732_深夜沉溺1-475章.txt",
     sourceUrl: "https://www.deqixs.org/732/txt.html#dir",
   },
-  {
+{
     id: 733,
     slug: "别惹小奶团-听到心声的战王超护短",
     title: "别惹小奶团！听到心声的战王超护短",
@@ -14226,7 +14126,7 @@ export const bookItems = [
     downloadUrl: "/books/733_别惹小奶团！听到心声的战王超护短1-170章.txt",
     sourceUrl: "https://www.deqixs.org/733/txt.html#dir",
   },
-  {
+{
     id: 734,
     slug: "开局被扔池塘-锦鲤崽崽旺出个侯府",
     title: "开局被扔池塘，锦鲤崽崽旺出个侯府",
@@ -14243,7 +14143,7 @@ export const bookItems = [
     downloadUrl: "/books/734_开局被扔池塘，锦鲤崽崽旺出个侯府1-464章.txt",
     sourceUrl: "https://www.deqixs.org/734/txt.html#dir",
   },
-  {
+{
     id: 735,
     slug: "夫君独宠青梅-我和离出府嫁国舅",
     title: "夫君独宠青梅，我和离出府嫁国舅",
@@ -14260,7 +14160,7 @@ export const bookItems = [
     downloadUrl: "/books/735_夫君独宠青梅，我和离出府嫁国舅1-367章.txt",
     sourceUrl: "https://www.deqixs.org/735/txt.html#dir",
   },
-  {
+{
     id: 736,
     slug: "证物全是话痨-我在九零疯狂破案",
     title: "证物全是话痨，我在九零疯狂破案",
@@ -14277,7 +14177,7 @@ export const bookItems = [
     downloadUrl: "/books/736_证物全是话痨，我在九零疯狂破案1-172章.txt",
     sourceUrl: "https://www.deqixs.org/736/txt.html#dir",
   },
-  {
+{
     id: 737,
     slug: "联姻a失忆后提离婚-转头又跪求名分",
     title: "联姻A失忆后提离婚，转头又跪求名分",
@@ -14294,7 +14194,7 @@ export const bookItems = [
     downloadUrl: "/books/737_联姻A失忆后提离婚，转头又跪求名分1-107章.txt",
     sourceUrl: "https://www.deqixs.org/737/txt.html#dir",
   },
-  {
+{
     id: 738,
     slug: "说好讨厌omega呢-霍总你别闻了",
     title: "说好讨厌Omega呢？霍总你别闻了",
@@ -14311,7 +14211,7 @@ export const bookItems = [
     downloadUrl: "/books/738_说好讨厌Omega呢？霍总你别闻了1-166章.txt",
     sourceUrl: "https://www.deqixs.org/738/txt.html#dir",
   },
-  {
+{
     id: 739,
     slug: "流放恶雌勾勾手-顶级兽夫争当狗",
     title: "流放恶雌勾勾手，顶级兽夫争当狗",
@@ -14328,7 +14228,7 @@ export const bookItems = [
     downloadUrl: "/books/739_流放恶雌勾勾手，顶级兽夫争当狗1-119章.txt",
     sourceUrl: "https://www.deqixs.org/739/txt.html#dir",
   },
-  {
+{
     id: 740,
     slug: "出家为尼后-哥哥们跪求我还俗",
     title: "出家为尼后，哥哥们跪求我还俗",
@@ -14345,7 +14245,7 @@ export const bookItems = [
     downloadUrl: "/books/740_出家为尼后，哥哥们跪求我还俗1-976章.txt",
     sourceUrl: "https://www.deqixs.org/740/txt.html#dir",
   },
-  {
+{
     id: 741,
     slug: "恶雌作精想跑路-兽夫们跪地求收留",
     title: "恶雌作精想跑路，兽夫们跪地求收留",
@@ -14362,7 +14262,7 @@ export const bookItems = [
     downloadUrl: "/books/741_恶雌作精想跑路，兽夫们跪地求收留1-293章.txt",
     sourceUrl: "https://www.deqixs.org/741/txt.html#dir",
   },
-  {
+{
     id: 742,
     slug: "万古第一剑",
     title: "万古第一剑",
@@ -14379,7 +14279,7 @@ export const bookItems = [
     downloadUrl: "/books/742_万古第一剑1-2236章.txt",
     sourceUrl: "https://www.deqixs.org/742/txt.html#dir",
   },
-  {
+{
     id: 743,
     slug: "夜夜岑欢",
     title: "夜夜岑欢",
@@ -14396,7 +14296,7 @@ export const bookItems = [
     downloadUrl: "/books/743_夜夜岑欢1-229章.txt",
     sourceUrl: "https://www.deqixs.org/743/txt.html#dir",
   },
-  {
+{
     id: 744,
     slug: "七零空间通两界-假千金下乡被全家团宠",
     title: "七零空间通两界？假千金下乡被全家团宠",
@@ -14413,7 +14313,7 @@ export const bookItems = [
     downloadUrl: "/books/744_七零空间通两界？假千金下乡被全家团宠1-117章.txt",
     sourceUrl: "https://www.deqixs.org/744/txt.html#dir",
   },
-  {
+{
     id: 745,
     slug: "开局病秧子-我女扮男装科举做权臣",
     title: "开局病秧子，我女扮男装科举做权臣",
@@ -14430,7 +14330,7 @@ export const bookItems = [
     downloadUrl: "/books/745_开局病秧子，我女扮男装科举做权臣1-206章.txt",
     sourceUrl: "https://www.deqixs.org/745/txt.html#dir",
   },
-  {
+{
     id: 746,
     slug: "妈咪离婚吧-我搬空渣爹小金库养你啊",
     title: "妈咪离婚吧！我搬空渣爹小金库养你啊",
@@ -14447,7 +14347,7 @@ export const bookItems = [
     downloadUrl: "/books/746_妈咪离婚吧！我搬空渣爹小金库养你啊1-482章.txt",
     sourceUrl: "https://www.deqixs.org/746/txt.html#dir",
   },
-  {
+{
     id: 747,
     slug: "综影视-女配就是要苏",
     title: "综影视：女配就是要苏！",
@@ -14464,7 +14364,7 @@ export const bookItems = [
     downloadUrl: "/books/747_综影视：女配就是要苏！1-3903章.txt",
     sourceUrl: "https://www.deqixs.org/747/txt.html#dir",
   },
-  {
+{
     id: 748,
     slug: "吞天神体-从仙女奉献开始无敌",
     title: "吞天神体：从仙女奉献开始无敌",
@@ -14481,7 +14381,7 @@ export const bookItems = [
     downloadUrl: "/books/748_吞天神体：从仙女奉献开始无敌1-1721章.txt",
     sourceUrl: "https://www.deqixs.org/748/txt.html#dir",
   },
-  {
+{
     id: 749,
     slug: "美人棺",
     title: "美人棺",
@@ -14498,7 +14398,7 @@ export const bookItems = [
     downloadUrl: "/books/749_美人棺1-2637章.txt",
     sourceUrl: "https://www.deqixs.org/749/txt.html#dir",
   },
-  {
+{
     id: 750,
     slug: "拒替寡嫂顶罪-我搬空渣男嫁首长",
     title: "拒替寡嫂顶罪，我搬空渣男嫁首长",
@@ -14515,7 +14415,7 @@ export const bookItems = [
     downloadUrl: "/books/750_拒替寡嫂顶罪，我搬空渣男嫁首长1-1112章.txt",
     sourceUrl: "https://www.deqixs.org/750/txt.html#dir",
   },
-  {
+{
     id: 751,
     slug: "重生七零-真千金断亲下乡后被大佬宠",
     title: "重生七零，真千金断亲下乡后被大佬宠",
@@ -14532,7 +14432,7 @@ export const bookItems = [
     downloadUrl: "/books/751_重生七零，真千金断亲下乡后被大佬宠1-323章.txt",
     sourceUrl: "https://www.deqixs.org/751/txt.html#dir",
   },
-  {
+{
     id: 752,
     slug: "十年七碗堕胎药-我好孕嫁绝嗣他悔疯了",
     title: "十年七碗堕胎药，我好孕嫁绝嗣他悔疯了",
@@ -14549,7 +14449,7 @@ export const bookItems = [
     downloadUrl: "/books/752_十年七碗堕胎药，我好孕嫁绝嗣他悔疯了1-369章.txt",
     sourceUrl: "https://www.deqixs.org/752/txt.html#dir",
   },
-  {
+{
     id: 753,
     slug: "七零随军认错老公-野痞大佬沦陷了",
     title: "七零随军认错老公，野痞大佬沦陷了",
@@ -14566,7 +14466,7 @@ export const bookItems = [
     downloadUrl: "/books/753_七零随军认错老公，野痞大佬沦陷了1-244章.txt",
     sourceUrl: "https://www.deqixs.org/753/txt.html#dir",
   },
-  {
+{
     id: 754,
     slug: "全能真千金她马甲又被拆了",
     title: "全能真千金她马甲又被拆了",
@@ -14583,7 +14483,7 @@ export const bookItems = [
     downloadUrl: "/books/754_全能真千金她马甲又被拆了1-3231章.txt",
     sourceUrl: "https://www.deqixs.org/754/txt.html#dir",
   },
-  {
+{
     id: 755,
     slug: "星际猎人",
     title: "星际猎人",
@@ -14600,7 +14500,7 @@ export const bookItems = [
     downloadUrl: "/books/755_星际猎人1-1531章.txt",
     sourceUrl: "https://www.deqixs.org/755/txt.html#dir",
   },
-  {
+{
     id: 756,
     slug: "妙手大仙医",
     title: "妙手大仙医",
@@ -14617,7 +14517,7 @@ export const bookItems = [
     downloadUrl: "/books/756_妙手大仙医1-2035章.txt",
     sourceUrl: "https://www.deqixs.org/756/txt.html#dir",
   },
-  {
+{
     id: 757,
     slug: "从黄包车夫到覆海大圣",
     title: "从黄包车夫到覆海大圣",
@@ -14634,7 +14534,7 @@ export const bookItems = [
     downloadUrl: "/books/757_从黄包车夫到覆海大圣1-421章.txt",
     sourceUrl: "https://www.deqixs.org/757/txt.html#dir",
   },
-  {
+{
     id: 758,
     slug: "星际小恶雌降维打击-五位疯批大佬跪求名分",
     title: "星际小恶雌降维打击，五位疯批大佬跪求名分",
@@ -14651,7 +14551,7 @@ export const bookItems = [
     downloadUrl: "/books/758_星际小恶雌降维打击，五位疯批大佬跪求名分1-108章.txt",
     sourceUrl: "https://www.deqixs.org/758/txt.html#dir",
   },
-  {
+{
     id: 759,
     slug: "反派不作妖后-满朝文武偷听八卦",
     title: "反派不作妖后，满朝文武偷听八卦",
@@ -14668,7 +14568,7 @@ export const bookItems = [
     downloadUrl: "/books/759_反派不作妖后，满朝文武偷听八卦1-524章.txt",
     sourceUrl: "https://www.deqixs.org/759/txt.html#dir",
   },
-  {
+{
     id: 760,
     slug: "星痕之门",
     title: "星痕之门",
@@ -14685,7 +14585,7 @@ export const bookItems = [
     downloadUrl: "/books/760_星痕之门1-1166章.txt",
     sourceUrl: "https://www.deqixs.org/760/txt.html#dir",
   },
-  {
+{
     id: 761,
     slug: "你的技能很好-现在我也有了",
     title: "你的技能很好，现在我也有了",
@@ -14702,7 +14602,7 @@ export const bookItems = [
     downloadUrl: "/books/761_你的技能很好，现在我也有了1-372章.txt",
     sourceUrl: "https://www.deqixs.org/761/txt.html#dir",
   },
-  {
+{
     id: 762,
     slug: "农妇被赶出家门后-相公儿子悔疯了",
     title: "农妇被赶出家门后，相公儿子悔疯了",
@@ -14719,7 +14619,7 @@ export const bookItems = [
     downloadUrl: "/books/762_农妇被赶出家门后，相公儿子悔疯了1-253章.txt",
     sourceUrl: "https://www.deqixs.org/762/txt.html#dir",
   },
-  {
+{
     id: 763,
     slug: "综影-女主从来不走心",
     title: "综影：女主从来不走心",
@@ -14736,7 +14636,7 @@ export const bookItems = [
     downloadUrl: "/books/763_综影：女主从来不走心1-1537章.txt",
     sourceUrl: "https://www.deqixs.org/763/txt.html#dir",
   },
-  {
+{
     id: 764,
     slug: "无敌逍遥侯",
     title: "无敌逍遥侯",
@@ -14753,7 +14653,7 @@ export const bookItems = [
     downloadUrl: "/books/764_无敌逍遥侯1-1444章.txt",
     sourceUrl: "https://www.deqixs.org/764/txt.html#dir",
   },
-  {
+{
     id: 765,
     slug: "综影视-云栖",
     title: "综影视：云栖",
@@ -14770,7 +14670,7 @@ export const bookItems = [
     downloadUrl: "/books/765_综影视：云栖1-3517章.txt",
     sourceUrl: "https://www.deqixs.org/765/txt.html#dir",
   },
-  {
+{
     id: 766,
     slug: "系统多子多福-开局上交合欢宗",
     title: "系统多子多福，开局上交合欢宗？",
@@ -14787,7 +14687,7 @@ export const bookItems = [
     downloadUrl: "/books/766_系统多子多福，开局上交合欢宗？1-551章.txt",
     sourceUrl: "https://www.deqixs.org/766/txt.html#dir",
   },
-  {
+{
     id: 767,
     slug: "大秦-隐忍十八年-废柴皇子杀疯了",
     title: "大秦：隐忍十八年，废柴皇子杀疯了",
@@ -14804,7 +14704,7 @@ export const bookItems = [
     downloadUrl: "/books/767_大秦：隐忍十八年，废柴皇子杀疯了1-858章.txt",
     sourceUrl: "https://www.deqixs.org/767/txt.html#dir",
   },
-  {
+{
     id: 768,
     slug: "大周第一武夫",
     title: "大周第一武夫",
@@ -14821,7 +14721,7 @@ export const bookItems = [
     downloadUrl: "/books/768_大周第一武夫1-959章.txt",
     sourceUrl: "https://www.deqixs.org/768/txt.html#dir",
   },
-  {
+{
     id: 769,
     slug: "没钱当什么导演啊",
     title: "没钱当什么导演啊",
@@ -14838,7 +14738,7 @@ export const bookItems = [
     downloadUrl: "/books/769_没钱当什么导演啊1-2005章.txt",
     sourceUrl: "https://www.deqixs.org/769/txt.html#dir",
   },
-  {
+{
     id: 770,
     slug: "杀敌换媳妇-我一人屠城",
     title: "杀敌换媳妇？我一人屠城！",
@@ -14855,7 +14755,7 @@ export const bookItems = [
     downloadUrl: "/books/770_杀敌换媳妇？我一人屠城！1-1154章.txt",
     sourceUrl: "https://www.deqixs.org/770/txt.html#dir",
   },
-  {
+{
     id: 771,
     slug: "龙族-打瓦归来-我的妈妈路明非",
     title: "龙族：打瓦归来，我的妈妈路明非",
@@ -14872,7 +14772,7 @@ export const bookItems = [
     downloadUrl: "/books/771_龙族：打瓦归来，我的妈妈路明非1-263章.txt",
     sourceUrl: "https://www.deqixs.org/771/txt.html#dir",
   },
-  {
+{
     id: 772,
     slug: "这个悟空来自诸天",
     title: "这个悟空来自诸天",
@@ -14889,7 +14789,7 @@ export const bookItems = [
     downloadUrl: "/books/772_这个悟空来自诸天1-728章.txt",
     sourceUrl: "https://www.deqixs.org/772/txt.html#dir",
   },
-  {
+{
     id: 773,
     slug: "大乾武圣",
     title: "大乾武圣",
@@ -14906,7 +14806,7 @@ export const bookItems = [
     downloadUrl: "/books/773_大乾武圣1-1100章.txt",
     sourceUrl: "https://www.deqixs.org/773/txt.html#dir",
   },
-  {
+{
     id: 774,
     slug: "武道大帝",
     title: "武道大帝",
@@ -14923,7 +14823,7 @@ export const bookItems = [
     downloadUrl: "/books/774_武道大帝1-6439章.txt",
     sourceUrl: "https://www.deqixs.org/774/txt.html#dir",
   },
-  {
+{
     id: 775,
     slug: "什么叫我与妹卡有缘",
     title: "什么叫我与妹卡有缘？",
@@ -14940,7 +14840,7 @@ export const bookItems = [
     downloadUrl: "/books/775_什么叫我与妹卡有缘？1-291章.txt",
     sourceUrl: "https://www.deqixs.org/775/txt.html#dir",
   },
-  {
+{
     id: 776,
     slug: "你也不想秘密满朝皆知吧",
     title: "你也不想秘密满朝皆知吧",
@@ -14957,7 +14857,7 @@ export const bookItems = [
     downloadUrl: "/books/776_你也不想秘密满朝皆知吧1-597章.txt",
     sourceUrl: "https://www.deqixs.org/776/txt.html#dir",
   },
-  {
+{
     id: 777,
     slug: "综影视-美人多娇-男神折腰",
     title: "综影视：美人多娇，男神折腰",
@@ -14974,7 +14874,7 @@ export const bookItems = [
     downloadUrl: "/books/777_综影视：美人多娇，男神折腰1-2355章.txt",
     sourceUrl: "https://www.deqixs.org/777/txt.html#dir",
   },
-  {
+{
     id: 778,
     slug: "日月同错-谁让他求法的",
     title: "日月同错，谁让他求法的？",
@@ -14991,7 +14891,7 @@ export const bookItems = [
     downloadUrl: "/books/778_日月同错，谁让他求法的？1-163章.txt",
     sourceUrl: "https://www.deqixs.org/778/txt.html#dir",
   },
-  {
+{
     id: 779,
     slug: "我都成超人了-灵气才复苏",
     title: "我都成超人了，灵气才复苏？",
@@ -15008,7 +14908,7 @@ export const bookItems = [
     downloadUrl: "/books/779_我都成超人了，灵气才复苏？1-260章.txt",
     sourceUrl: "https://www.deqixs.org/779/txt.html#dir",
   },
-  {
+{
     id: 780,
     slug: "我在修行世界当古神",
     title: "我在修行世界当古神",
@@ -15025,7 +14925,7 @@ export const bookItems = [
     downloadUrl: "/books/780_我在修行世界当古神1-653章.txt",
     sourceUrl: "https://www.deqixs.org/780/txt.html#dir",
   },
-  {
+{
     id: 781,
     slug: "华娱-谁让他拍电影的",
     title: "华娱：谁让他拍电影的？",
@@ -15042,7 +14942,7 @@ export const bookItems = [
     downloadUrl: "/books/781_华娱：谁让他拍电影的？1-297章.txt",
     sourceUrl: "https://www.deqixs.org/781/txt.html#dir",
   },
-  {
+{
     id: 782,
     slug: "玄鉴-从魔宗开始当人材",
     title: "玄鉴：从魔宗开始当人材",
@@ -15059,7 +14959,7 @@ export const bookItems = [
     downloadUrl: "/books/782_玄鉴：从魔宗开始当人材1-166章.txt",
     sourceUrl: "https://www.deqixs.org/782/txt.html#dir",
   },
-  {
+{
     id: 783,
     slug: "从寒微杂役到万世帝尊",
     title: "从寒微杂役到万世帝尊",
@@ -15076,7 +14976,7 @@ export const bookItems = [
     downloadUrl: "/books/783_从寒微杂役到万世帝尊1-634章.txt",
     sourceUrl: "https://www.deqixs.org/783/txt.html#dir",
   },
-  {
+{
     id: 784,
     slug: "穿书七零-黑心大小姐下乡-专治各种不服",
     title: "穿书七零：黑心大小姐下乡，专治各种不服",
@@ -15093,7 +14993,7 @@ export const bookItems = [
     downloadUrl: "/books/784_穿书七零：黑心大小姐下乡，专治各种不服1-203章.txt",
     sourceUrl: "https://www.deqixs.org/784/txt.html#dir",
   },
-  {
+{
     id: 785,
     slug: "掌出笑傲-睥睨诸天",
     title: "掌出笑傲，睥睨诸天",
@@ -15110,7 +15010,7 @@ export const bookItems = [
     downloadUrl: "/books/785_掌出笑傲，睥睨诸天1-805章.txt",
     sourceUrl: "https://www.deqixs.org/785/txt.html#dir",
   },
-  {
+{
     id: 786,
     slug: "重回巅峰-我不给京圈太子爷当妈了",
     title: "重回巅峰，我不给京圈太子爷当妈了",
@@ -15127,7 +15027,7 @@ export const bookItems = [
     downloadUrl: "/books/786_重回巅峰，我不给京圈太子爷当妈了1-415章.txt",
     sourceUrl: "https://www.deqixs.org/786/txt.html#dir",
   },
-  {
+{
     id: 787,
     slug: "boss脑补太多-我和竹马领证他破防了",
     title: "boss脑补太多，我和竹马领证他破防了",
@@ -15144,7 +15044,7 @@ export const bookItems = [
     downloadUrl: "/books/787_boss脑补太多，我和竹马领证他破防了1-158章.txt",
     sourceUrl: "https://www.deqixs.org/787/txt.html#dir",
   },
-  {
+{
     id: 788,
     slug: "斗罗-转生星核精-被天幕曝光",
     title: "斗罗：转生星核精，被天幕曝光",
@@ -15161,7 +15061,7 @@ export const bookItems = [
     downloadUrl: "/books/788_斗罗：转生星核精，被天幕曝光1-387章.txt",
     sourceUrl: "https://www.deqixs.org/788/txt.html#dir",
   },
-  {
+{
     id: 789,
     slug: "随机美食摆摊-我怎么就爆火全球了",
     title: "随机美食摆摊，我怎么就爆火全球了",
@@ -15178,7 +15078,7 @@ export const bookItems = [
     downloadUrl: "/books/789_随机美食摆摊，我怎么就爆火全球了1-178章.txt",
     sourceUrl: "https://www.deqixs.org/789/txt.html#dir",
   },
-  {
+{
     id: 790,
     slug: "重生年代大院娇媳美又飒",
     title: "重生年代大院娇媳美又飒",
@@ -15195,7 +15095,7 @@ export const bookItems = [
     downloadUrl: "/books/790_重生年代大院娇媳美又飒1-1378章.txt",
     sourceUrl: "https://www.deqixs.org/790/txt.html#dir",
   },
-  {
+{
     id: 791,
     slug: "开局荒年-带着俩媳妇逆天改命",
     title: "开局荒年，带着俩媳妇逆天改命",
@@ -15212,7 +15112,7 @@ export const bookItems = [
     downloadUrl: "/books/791_开局荒年，带着俩媳妇逆天改命1-649章.txt",
     sourceUrl: "https://www.deqixs.org/791/txt.html#dir",
   },
-  {
+{
     id: 792,
     slug: "替嫁婚宠-顾少宠妻花样多",
     title: "替嫁婚宠：顾少宠妻花样多",
@@ -15229,7 +15129,7 @@ export const bookItems = [
     downloadUrl: "/books/792_替嫁婚宠：顾少宠妻花样多1-6729章.txt",
     sourceUrl: "https://www.deqixs.org/792/txt.html#dir",
   },
-  {
+{
     id: 793,
     slug: "倒斗",
     title: "倒斗",
@@ -15246,7 +15146,7 @@ export const bookItems = [
     downloadUrl: "/books/793_倒斗1-660章.txt",
     sourceUrl: "https://www.deqixs.org/793/txt.html#dir",
   },
-  {
+{
     id: 794,
     slug: "我-下山之后",
     title: "我，下山之后",
@@ -15263,7 +15163,7 @@ export const bookItems = [
     downloadUrl: "/books/794_我，下山之后1-2128章.txt",
     sourceUrl: "https://www.deqixs.org/794/txt.html#dir",
   },
-  {
+{
     id: 795,
     slug: "我在修仙世界开农场",
     title: "我在修仙世界开农场",
@@ -15280,7 +15180,7 @@ export const bookItems = [
     downloadUrl: "/books/795_我在修仙世界开农场1-4612章.txt",
     sourceUrl: "https://www.deqixs.org/795/txt.html#dir",
   },
-  {
+{
     id: 796,
     slug: "鸿蒙鼎-从被太子妃掠夺元阳开始",
     title: "鸿蒙鼎：从被太子妃掠夺元阳开始",
@@ -15297,7 +15197,7 @@ export const bookItems = [
     downloadUrl: "/books/796_鸿蒙鼎：从被太子妃掠夺元阳开始1-649章.txt",
     sourceUrl: "https://www.deqixs.org/796/txt.html#dir",
   },
-  {
+{
     id: 797,
     slug: "谍战-我成了最大的特务头子",
     title: "谍战：我成了最大的特务头子",
@@ -15314,7 +15214,7 @@ export const bookItems = [
     downloadUrl: "/books/797_谍战：我成了最大的特务头子1-2268章.txt",
     sourceUrl: "https://www.deqixs.org/797/txt.html#dir",
   },
-  {
+{
     id: 798,
     slug: "开局自曝系统-父皇举国助我娶妻",
     title: "开局自曝系统，父皇举国助我娶妻",
@@ -15331,7 +15231,7 @@ export const bookItems = [
     downloadUrl: "/books/798_开局自曝系统，父皇举国助我娶妻1-427章.txt",
     sourceUrl: "https://www.deqixs.org/798/txt.html#dir",
   },
-  {
+{
     id: 799,
     slug: "说好参军戒网瘾-你成顶级黑客",
     title: "说好参军戒网瘾，你成顶级黑客？",
@@ -15348,7 +15248,7 @@ export const bookItems = [
     downloadUrl: "/books/799_说好参军戒网瘾，你成顶级黑客？1-502章.txt",
     sourceUrl: "https://www.deqixs.org/799/txt.html#dir",
   },
-  {
+{
     id: 800,
     slug: "权势滔天-从拯救省府千金开始",
     title: "权势滔天：从拯救省府千金开始",
@@ -15365,7 +15265,7 @@ export const bookItems = [
     downloadUrl: "/books/800_权势滔天：从拯救省府千金开始1-703章.txt",
     sourceUrl: "https://www.deqixs.org/800/txt.html#dir",
   },
-  {
+{
     id: 801,
     slug: "斩命",
     title: "斩命！",
@@ -15382,7 +15282,7 @@ export const bookItems = [
     downloadUrl: "/books/801_斩命！1-526章.txt",
     sourceUrl: "https://www.deqixs.org/801/txt.html#dir",
   },
-  {
+{
     id: 802,
     slug: "我在诡异世界谨慎修仙",
     title: "我在诡异世界谨慎修仙",
@@ -15399,7 +15299,7 @@ export const bookItems = [
     downloadUrl: "/books/802_我在诡异世界谨慎修仙1-2551章.txt",
     sourceUrl: "https://www.deqixs.org/802/txt.html#dir",
   },
-  {
+{
     id: 803,
     slug: "我-赊刀人-斗鬼神",
     title: "我，赊刀人，斗鬼神",
@@ -15416,7 +15316,7 @@ export const bookItems = [
     downloadUrl: "/books/803_我，赊刀人，斗鬼神1-57章.txt",
     sourceUrl: "https://www.deqixs.org/803/txt.html#dir",
   },
-  {
+{
     id: 804,
     slug: "穿成景区npc-农门长女养活全家",
     title: "穿成景区npc，农门长女养活全家",
@@ -15433,7 +15333,7 @@ export const bookItems = [
     downloadUrl: "/books/804_穿成景区npc，农门长女养活全家1-161章.txt",
     sourceUrl: "https://www.deqixs.org/804/txt.html#dir",
   },
-  {
+{
     id: 805,
     slug: "孤主",
     title: "孤主",
@@ -15450,7 +15350,7 @@ export const bookItems = [
     downloadUrl: "/books/805_孤主1-100章.txt",
     sourceUrl: "https://www.deqixs.org/805/txt.html#dir",
   },
-  {
+{
     id: 806,
     slug: "谁说我不是正道少侠",
     title: "谁说我不是正道少侠",
@@ -15467,7 +15367,7 @@ export const bookItems = [
     downloadUrl: "/books/806_谁说我不是正道少侠1-106章.txt",
     sourceUrl: "https://www.deqixs.org/806/txt.html#dir",
   },
-  {
+{
     id: 807,
     slug: "车祸只救白月光-儿子死了你别哭",
     title: "车祸只救白月光？儿子死了你别哭",
@@ -15484,7 +15384,7 @@ export const bookItems = [
     downloadUrl: "/books/807_车祸只救白月光？儿子死了你别哭1-322章.txt",
     sourceUrl: "https://www.deqixs.org/807/txt.html#dir",
   },
-  {
+{
     id: 808,
     slug: "修仙界唯一出马仙",
     title: "修仙界唯一出马仙",
@@ -15501,7 +15401,7 @@ export const bookItems = [
     downloadUrl: "/books/808_修仙界唯一出马仙1-356章.txt",
     sourceUrl: "https://www.deqixs.org/808/txt.html#dir",
   },
-  {
+{
     id: 809,
     slug: "末世囤百万物资后-白眼狼悔哭了",
     title: "末世囤百万物资后，白眼狼悔哭了",
@@ -15518,7 +15418,7 @@ export const bookItems = [
     downloadUrl: "/books/809_末世囤百万物资后，白眼狼悔哭了1-591章.txt",
     sourceUrl: "https://www.deqixs.org/809/txt.html#dir",
   },
-  {
+{
     id: 810,
     slug: "将作妖",
     title: "将作妖",
@@ -15535,7 +15435,7 @@ export const bookItems = [
     downloadUrl: "/books/810_将作妖1-352章.txt",
     sourceUrl: "https://www.deqixs.org/810/txt.html#dir",
   },
-  {
+{
     id: 811,
     slug: "神魂丹帝",
     title: "神魂丹帝",
@@ -15552,7 +15452,7 @@ export const bookItems = [
     downloadUrl: "/books/811_神魂丹帝1-4112章.txt",
     sourceUrl: "https://www.deqixs.org/811/txt.html#dir",
   },
-  {
+{
     id: 812,
     slug: "半岛-我的宠物是爱豆",
     title: "半岛：我的宠物是爱豆",
@@ -15569,7 +15469,7 @@ export const bookItems = [
     downloadUrl: "/books/812_半岛：我的宠物是爱豆1-164章.txt",
     sourceUrl: "https://www.deqixs.org/812/txt.html#dir",
   },
-  {
+{
     id: 813,
     slug: "全民-让你锻器-你打造出满级剑娘",
     title: "全民：让你锻器，你打造出满级剑娘？",
@@ -15586,7 +15486,7 @@ export const bookItems = [
     downloadUrl: "/books/813_全民：让你锻器，你打造出满级剑娘？1-309章.txt",
     sourceUrl: "https://www.deqixs.org/813/txt.html#dir",
   },
-  {
+{
     id: 814,
     slug: "镇运亨通-开局娇妻求我收留小姨子",
     title: "镇运亨通：开局娇妻求我收留小姨子",
@@ -15603,7 +15503,7 @@ export const bookItems = [
     downloadUrl: "/books/814_镇运亨通：开局娇妻求我收留小姨子1-375章.txt",
     sourceUrl: "https://www.deqixs.org/814/txt.html#dir",
   },
-  {
+{
     id: 815,
     slug: "祖上三代诈骗-你说你是正经投资商",
     title: "祖上三代诈骗，你说你是正经投资商？",
@@ -15620,7 +15520,7 @@ export const bookItems = [
     downloadUrl: "/books/815_祖上三代诈骗，你说你是正经投资商？1-711章.txt",
     sourceUrl: "https://www.deqixs.org/815/txt.html#dir",
   },
-  {
+{
     id: 816,
     slug: "从武道世界开始击穿深渊",
     title: "从武道世界开始击穿深渊",
@@ -15637,7 +15537,7 @@ export const bookItems = [
     downloadUrl: "/books/816_从武道世界开始击穿深渊1-654章.txt",
     sourceUrl: "https://www.deqixs.org/816/txt.html#dir",
   },
-  {
+{
     id: 817,
     slug: "lol-闭眼请神-什么叫人死了",
     title: "LOL：闭眼请神，什么叫人死了",
@@ -15654,7 +15554,7 @@ export const bookItems = [
     downloadUrl: "/books/817_LOL：闭眼请神，什么叫人死了1-150章.txt",
     sourceUrl: "https://www.deqixs.org/817/txt.html#dir",
   },
-  {
+{
     id: 818,
     slug: "穿越1969-我的工分系统能换万物",
     title: "穿越1969：我的工分系统能换万物",
@@ -15671,7 +15571,7 @@ export const bookItems = [
     downloadUrl: "/books/818_穿越1969：我的工分系统能换万物1-387章.txt",
     sourceUrl: "https://www.deqixs.org/818/txt.html#dir",
   },
-  {
+{
     id: 819,
     slug: "陆地键仙",
     title: "陆地键仙",
@@ -15688,7 +15588,7 @@ export const bookItems = [
     downloadUrl: "/books/819_陆地键仙1-2980章.txt",
     sourceUrl: "https://www.deqixs.org/819/txt.html#dir",
   },
-  {
+{
     id: 820,
     slug: "华娱2015-光影艺术家",
     title: "华娱2015，光影艺术家",
@@ -15705,7 +15605,7 @@ export const bookItems = [
     downloadUrl: "/books/820_华娱2015，光影艺术家1-171章.txt",
     sourceUrl: "https://www.deqixs.org/820/txt.html#dir",
   },
-  {
+{
     id: 821,
     slug: "唐舞麟-你已有取死之道",
     title: "唐舞麟，你已有取死之道！",
@@ -15722,7 +15622,7 @@ export const bookItems = [
     downloadUrl: "/books/821_唐舞麟，你已有取死之道！1-359章.txt",
     sourceUrl: "https://www.deqixs.org/821/txt.html#dir",
   },
-  {
+{
     id: 822,
     slug: "1983从供销社保卫处开始",
     title: "1983从供销社保卫处开始",
@@ -15739,7 +15639,7 @@ export const bookItems = [
     downloadUrl: "/books/822_1983从供销社保卫处开始1-327章.txt",
     sourceUrl: "https://www.deqixs.org/822/txt.html#dir",
   },
-  {
+{
     id: 823,
     slug: "循规蹈矩能叫重生吗",
     title: "循规蹈矩能叫重生吗？",
@@ -15756,7 +15656,7 @@ export const bookItems = [
     downloadUrl: "/books/823_循规蹈矩能叫重生吗？1-610章.txt",
     sourceUrl: "https://www.deqixs.org/823/txt.html#dir",
   },
-  {
+{
     id: 824,
     slug: "我在异界收破烂-国家称我为国宝",
     title: "我在异界收破烂，国家称我为国宝",
@@ -15773,7 +15673,7 @@ export const bookItems = [
     downloadUrl: "/books/824_我在异界收破烂，国家称我为国宝1-818章.txt",
     sourceUrl: "https://www.deqixs.org/824/txt.html#dir",
   },
-  {
+{
     id: 825,
     slug: "让你当收尸人-你直接解刨了前女友",
     title: "让你当收尸人，你直接解刨了前女友",
@@ -15790,7 +15690,7 @@ export const bookItems = [
     downloadUrl: "/books/825_让你当收尸人，你直接解刨了前女友1-2574章.txt",
     sourceUrl: "https://www.deqixs.org/825/txt.html#dir",
   },
-  {
+{
     id: 826,
     slug: "重生2012-从拿下极品校花开始",
     title: "重生2012：从拿下极品校花开始",
@@ -15807,7 +15707,7 @@ export const bookItems = [
     downloadUrl: "/books/826_重生2012：从拿下极品校花开始1-1429章.txt",
     sourceUrl: "https://www.deqixs.org/826/txt.html#dir",
   },
-  {
+{
     id: 827,
     slug: "绑定落魄女帝-老婆筑基我成仙",
     title: "绑定落魄女帝！老婆筑基我成仙",
@@ -15824,7 +15724,7 @@ export const bookItems = [
     downloadUrl: "/books/827_绑定落魄女帝！老婆筑基我成仙1-350章.txt",
     sourceUrl: "https://www.deqixs.org/827/txt.html#dir",
   },
-  {
+{
     id: 828,
     slug: "长生武尊",
     title: "长生武尊",
@@ -15841,7 +15741,7 @@ export const bookItems = [
     downloadUrl: "/books/828_长生武尊1-996章.txt",
     sourceUrl: "https://www.deqixs.org/828/txt.html#dir",
   },
-  {
+{
     id: 829,
     slug: "后娘逼我换嫁糙汉-我搬空她家去逃荒",
     title: "后娘逼我换嫁糙汉？我搬空她家去逃荒",
@@ -15858,7 +15758,7 @@ export const bookItems = [
     downloadUrl: "/books/829_后娘逼我换嫁糙汉？我搬空她家去逃荒1-237章.txt",
     sourceUrl: "https://www.deqixs.org/829/txt.html#dir",
   },
-  {
+{
     id: 830,
     slug: "无敌天命",
     title: "无敌天命",
@@ -15875,7 +15775,7 @@ export const bookItems = [
     downloadUrl: "/books/830_无敌天命1-1719章.txt",
     sourceUrl: "https://www.deqixs.org/830/txt.html#dir",
   },
-  {
+{
     id: 831,
     slug: "黄泉逆行",
     title: "黄泉逆行",
@@ -15892,7 +15792,7 @@ export const bookItems = [
     downloadUrl: "/books/831_黄泉逆行1-1075章.txt",
     sourceUrl: "https://www.deqixs.org/831/txt.html#dir",
   },
-  {
+{
     id: 832,
     slug: "魔法少女也有强度焦虑",
     title: "魔法少女也有强度焦虑",
@@ -15909,7 +15809,7 @@ export const bookItems = [
     downloadUrl: "/books/832_魔法少女也有强度焦虑1-488章.txt",
     sourceUrl: "https://www.deqixs.org/832/txt.html#dir",
   },
-  {
+{
     id: 833,
     slug: "冒险者重度依赖",
     title: "冒险者重度依赖！",
@@ -15926,7 +15826,7 @@ export const bookItems = [
     downloadUrl: "/books/833_冒险者重度依赖！1-337章.txt",
     sourceUrl: "https://www.deqixs.org/833/txt.html#dir",
   },
-  {
+{
     id: 834,
     slug: "全人类只有我做梦",
     title: "全人类只有我做梦",
@@ -15943,7 +15843,7 @@ export const bookItems = [
     downloadUrl: "/books/834_全人类只有我做梦1-764章.txt",
     sourceUrl: "https://www.deqixs.org/834/txt.html#dir",
   },
-  {
+{
     id: 835,
     slug: "阴司有旨",
     title: "阴司有旨",
@@ -15960,7 +15860,7 @@ export const bookItems = [
     downloadUrl: "/books/835_阴司有旨1-1117章.txt",
     sourceUrl: "https://www.deqixs.org/835/txt.html#dir",
   },
-  {
+{
     id: 836,
     slug: "让你代管废材班-怎么成武神殿了",
     title: "让你代管废材班，怎么成武神殿了",
@@ -15977,7 +15877,7 @@ export const bookItems = [
     downloadUrl: "/books/836_让你代管废材班，怎么成武神殿了1-1987章.txt",
     sourceUrl: "https://www.deqixs.org/836/txt.html#dir",
   },
-  {
+{
     id: 837,
     slug: "全能王妃火爆京城",
     title: "全能王妃火爆京城",
@@ -15994,7 +15894,7 @@ export const bookItems = [
     downloadUrl: "/books/837_全能王妃火爆京城1-1710章.txt",
     sourceUrl: "https://www.deqixs.org/837/txt.html#dir",
   },
-  {
+{
     id: 838,
     slug: "寻龙天师",
     title: "寻龙天师",
@@ -16011,7 +15911,7 @@ export const bookItems = [
     downloadUrl: "/books/838_寻龙天师1-3274章.txt",
     sourceUrl: "https://www.deqixs.org/838/txt.html#dir",
   },
-  {
+{
     id: 839,
     slug: "恶毒女配系统带崽开大-小鼻嘎整顿全家",
     title: "恶毒女配系统带崽开大？小鼻嘎整顿全家",
@@ -16028,7 +15928,7 @@ export const bookItems = [
     downloadUrl: "/books/839_恶毒女配系统带崽开大？小鼻嘎整顿全家1-242章.txt",
     sourceUrl: "https://www.deqixs.org/839/txt.html#dir",
   },
-  {
+{
     id: 840,
     slug: "七零懂兽语-随母改嫁惊艳全军区",
     title: "七零懂兽语，随母改嫁惊艳全军区",
@@ -16045,7 +15945,7 @@ export const bookItems = [
     downloadUrl: "/books/840_七零懂兽语，随母改嫁惊艳全军区1-208章.txt",
     sourceUrl: "https://www.deqixs.org/840/txt.html#dir",
   },
-  {
+{
     id: 841,
     slug: "真假千金-不稀罕-我有系统给我的拼多多",
     title: "真假千金？不稀罕，我有系统给我的拼多多",
@@ -16062,7 +15962,7 @@ export const bookItems = [
     downloadUrl: "/books/841_真假千金？不稀罕，我有系统给我的拼多多1-200章.txt",
     sourceUrl: "https://www.deqixs.org/841/txt.html#dir",
   },
-  {
+{
     id: 842,
     slug: "被偷气运又如何-我地府有人脉",
     title: "被偷气运又如何，我地府有人脉",
@@ -16079,7 +15979,7 @@ export const bookItems = [
     downloadUrl: "/books/842_被偷气运又如何，我地府有人脉1-163章.txt",
     sourceUrl: "https://www.deqixs.org/842/txt.html#dir",
   },
-  {
+{
     id: 843,
     slug: "?八零娇妻美又飒-冷硬团长扛不住",
     title: "八零娇妻美又飒，冷硬团长扛不住",
@@ -16096,7 +15996,7 @@ export const bookItems = [
     downloadUrl: "/books/843_八零娇妻美又飒，冷硬团长扛不住1-230章.txt",
     sourceUrl: "https://www.deqixs.org/843/txt.html#dir",
   },
-  {
+{
     id: 844,
     slug: "废雌魅魔太勾人-深陷兽夫修罗场",
     title: "废雌魅魔太勾人，深陷兽夫修罗场",
@@ -16113,7 +16013,7 @@ export const bookItems = [
     downloadUrl: "/books/844_废雌魅魔太勾人，深陷兽夫修罗场1-158章.txt",
     sourceUrl: "https://www.deqixs.org/844/txt.html#dir",
   },
-  {
+{
     id: 845,
     slug: "星际超级植培师",
     title: "星际超级植培师",
@@ -16130,7 +16030,7 @@ export const bookItems = [
     downloadUrl: "/books/845_星际超级植培师1-1166章.txt",
     sourceUrl: "https://www.deqixs.org/845/txt.html#dir",
   },
-  {
+{
     id: 846,
     slug: "高武-我的武道天赋逐年递增",
     title: "高武：我的武道天赋逐年递增",
@@ -16147,7 +16047,7 @@ export const bookItems = [
     downloadUrl: "/books/846_高武：我的武道天赋逐年递增1-444章.txt",
     sourceUrl: "https://www.deqixs.org/846/txt.html#dir",
   },
-  {
+{
     id: 847,
     slug: "全村被屠前-我靠卜卦带着全村去逃荒",
     title: "全村被屠前，我靠卜卦带着全村去逃荒",
@@ -16164,7 +16064,7 @@ export const bookItems = [
     downloadUrl: "/books/847_全村被屠前，我靠卜卦带着全村去逃荒1-537章.txt",
     sourceUrl: "https://www.deqixs.org/847/txt.html#dir",
   },
-  {
+{
     id: 848,
     slug: "贫道看事-只杀不渡",
     title: "贫道看事，只杀不渡！",
@@ -16181,7 +16081,7 @@ export const bookItems = [
     downloadUrl: "/books/848_贫道看事，只杀不渡！1-409章.txt",
     sourceUrl: "https://www.deqixs.org/848/txt.html#dir",
   },
-  {
+{
     id: 849,
     slug: "上交时空门-我带钢铁洪流踏碎列强",
     title: "上交时空门，我带钢铁洪流踏碎列强",
@@ -16198,7 +16098,7 @@ export const bookItems = [
     downloadUrl: "/books/849_上交时空门，我带钢铁洪流踏碎列强1-351章.txt",
     sourceUrl: "https://www.deqixs.org/849/txt.html#dir",
   },
-  {
+{
     id: 850,
     slug: "重回77-我靠赶猎抓鱼-一人养三家",
     title: "重回77：我靠赶猎抓鱼，一人养三家",
@@ -16215,7 +16115,7 @@ export const bookItems = [
     downloadUrl: "/books/850_重回77：我靠赶猎抓鱼，一人养三家1-890章.txt",
     sourceUrl: "https://www.deqixs.org/850/txt.html#dir",
   },
-  {
+{
     id: 851,
     slug: "御兽-转生龙蛋-软萌校花亲自孵化",
     title: "御兽：转生龙蛋，软萌校花亲自孵化",
@@ -16232,7 +16132,7 @@ export const bookItems = [
     downloadUrl: "/books/851_御兽：转生龙蛋，软萌校花亲自孵化1-2056章.txt",
     sourceUrl: "https://www.deqixs.org/851/txt.html#dir",
   },
-  {
+{
     id: 852,
     slug: "无敌剑道",
     title: "无敌剑道",
@@ -16249,7 +16149,7 @@ export const bookItems = [
     downloadUrl: "/books/852_无敌剑道1-778章.txt",
     sourceUrl: "https://www.deqixs.org/852/txt.html#dir",
   },
-  {
+{
     id: 853,
     slug: "重生99-开局破获悬案-震惊全局",
     title: "重生99：开局破获悬案，震惊全局",
@@ -16266,7 +16166,7 @@ export const bookItems = [
     downloadUrl: "/books/853_重生99：开局破获悬案，震惊全局1-985章.txt",
     sourceUrl: "https://www.deqixs.org/853/txt.html#dir",
   },
-  {
+{
     id: 854,
     slug: "权力巅峰-从省府秘书开始",
     title: "权力巅峰：从省府秘书开始",
@@ -16283,7 +16183,7 @@ export const bookItems = [
     downloadUrl: "/books/854_权力巅峰：从省府秘书开始1-822章.txt",
     sourceUrl: "https://www.deqixs.org/854/txt.html#dir",
   },
-  {
+{
     id: 855,
     slug: "开局选黑胡子-只有我懂伟大航路",
     title: "开局选黑胡子，只有我懂伟大航路",
@@ -16300,7 +16200,7 @@ export const bookItems = [
     downloadUrl: "/books/855_开局选黑胡子，只有我懂伟大航路1-433章.txt",
     sourceUrl: "https://www.deqixs.org/855/txt.html#dir",
   },
-  {
+{
     id: 856,
     slug: "求生-一封遗书通蓝星-十四亿同胞助我成神",
     title: "求生：一封遗书通蓝星，十四亿同胞助我成神",
@@ -16317,7 +16217,7 @@ export const bookItems = [
     downloadUrl: "/books/856_求生：一封遗书通蓝星，十四亿同胞助我成神1-518章.txt",
     sourceUrl: "https://www.deqixs.org/856/txt.html#dir",
   },
-  {
+{
     id: 857,
     slug: "神女录-我以阴阳证大道",
     title: "神女录，我以阴阳证大道！",
@@ -16334,7 +16234,7 @@ export const bookItems = [
     downloadUrl: "/books/857_神女录，我以阴阳证大道！1-569章.txt",
     sourceUrl: "https://www.deqixs.org/857/txt.html#dir",
   },
-  {
+{
     id: 858,
     slug: "仕途青云之扶摇直上",
     title: "仕途青云之扶摇直上",
@@ -16351,7 +16251,7 @@ export const bookItems = [
     downloadUrl: "/books/858_仕途青云之扶摇直上1-1007章.txt",
     sourceUrl: "https://www.deqixs.org/858/txt.html#dir",
   },
-  {
+{
     id: 859,
     slug: "酒剑仙-醉闯校花宿舍-惊呆众人",
     title: "酒剑仙：醉闯校花宿舍，惊呆众人",
@@ -16368,7 +16268,7 @@ export const bookItems = [
     downloadUrl: "/books/859_酒剑仙：醉闯校花宿舍，惊呆众人1-527章.txt",
     sourceUrl: "https://www.deqixs.org/859/txt.html#dir",
   },
-  {
+{
     id: 860,
     slug: "国运求生-我每日一卦-助力龙国登临神座",
     title: "国运求生：我每日一卦，助力龙国登临神座！",
@@ -16385,7 +16285,7 @@ export const bookItems = [
     downloadUrl: "/books/860_国运求生：我每日一卦，助力龙国登临神座！1-531章.txt",
     sourceUrl: "https://www.deqixs.org/860/txt.html#dir",
   },
-  {
+{
     id: 861,
     slug: "家电维修-你修光刻机-国家是我最爱的家",
     title: "家电维修，你修光刻机？国家是我最爱的家！",
@@ -16402,7 +16302,7 @@ export const bookItems = [
     downloadUrl: "/books/861_家电维修，你修光刻机？国家是我最爱的家！1-1035章.txt",
     sourceUrl: "https://www.deqixs.org/861/txt.html#dir",
   },
-  {
+{
     id: 862,
     slug: "高武-诸天老己送礼助我成神",
     title: "高武：诸天老己送礼助我成神",
@@ -16419,7 +16319,7 @@ export const bookItems = [
     downloadUrl: "/books/862_高武：诸天老己送礼助我成神1-281章.txt",
     sourceUrl: "https://www.deqixs.org/862/txt.html#dir",
   },
-  {
+{
     id: 863,
     slug: "重燃2005-从矫正校花取向开始",
     title: "重燃2005：从矫正校花取向开始",
@@ -16436,7 +16336,7 @@ export const bookItems = [
     downloadUrl: "/books/863_重燃2005：从矫正校花取向开始1-590章.txt",
     sourceUrl: "https://www.deqixs.org/863/txt.html#dir",
   },
-  {
+{
     id: 864,
     slug: "亲弟弟抢我龙蛟-我反手缔造神话御兽",
     title: "亲弟弟抢我龙蛟，我反手缔造神话御兽！",
@@ -16453,7 +16353,7 @@ export const bookItems = [
     downloadUrl: "/books/864_亲弟弟抢我龙蛟，我反手缔造神话御兽！1-903章.txt",
     sourceUrl: "https://www.deqixs.org/864/txt.html#dir",
   },
-  {
+{
     id: 865,
     slug: "截运道师",
     title: "截运道师",
@@ -16470,7 +16370,7 @@ export const bookItems = [
     downloadUrl: "/books/865_截运道师1-1632章.txt",
     sourceUrl: "https://www.deqixs.org/865/txt.html#dir",
   },
-  {
+{
     id: 866,
     slug: "网游之我有十倍攻速",
     title: "网游之我有十倍攻速",
@@ -16487,7 +16387,7 @@ export const bookItems = [
     downloadUrl: "/books/866_网游之我有十倍攻速1-682章.txt",
     sourceUrl: "https://www.deqixs.org/866/txt.html#dir",
   },
-  {
+{
     id: 867,
     slug: "悟性逆天-摩托爆改巡飞弹-中东客户抢疯了",
     title: "悟性逆天：摩托爆改巡飞弹，中东客户抢疯了",
@@ -16504,7 +16404,7 @@ export const bookItems = [
     downloadUrl: "/books/867_悟性逆天：摩托爆改巡飞弹，中东客户抢疯了1-314章.txt",
     sourceUrl: "https://www.deqixs.org/867/txt.html#dir",
   },
-  {
+{
     id: 868,
     slug: "毕业当天-清冷女教授带俩萌娃叫爸爸",
     title: "毕业当天，清冷女教授带俩萌娃叫爸爸",
@@ -16521,7 +16421,7 @@ export const bookItems = [
     downloadUrl: "/books/868_毕业当天，清冷女教授带俩萌娃叫爸爸1-906章.txt",
     sourceUrl: "https://www.deqixs.org/868/txt.html#dir",
   },
-  {
+{
     id: 869,
     slug: "让你模拟作案-没让你完美犯罪啊",
     title: "让你模拟作案，没让你完美犯罪啊",
@@ -16538,7 +16438,7 @@ export const bookItems = [
     downloadUrl: "/books/869_让你模拟作案，没让你完美犯罪啊1-462章.txt",
     sourceUrl: "https://www.deqixs.org/869/txt.html#dir",
   },
-  {
+{
     id: 870,
     slug: "御兽奄奄一息-契约后我的御兽个个神级",
     title: "御兽奄奄一息？契约后我的御兽个个神级",
@@ -16555,7 +16455,7 @@ export const bookItems = [
     downloadUrl: "/books/870_御兽奄奄一息？契约后我的御兽个个神级1-515章.txt",
     sourceUrl: "https://www.deqixs.org/870/txt.html#dir",
   },
-  {
+{
     id: 871,
     slug: "三国-我爹魏延不是反贼",
     title: "三国：我爹魏延不是反贼",
@@ -16572,7 +16472,7 @@ export const bookItems = [
     downloadUrl: "/books/871_三国：我爹魏延不是反贼1-334章.txt",
     sourceUrl: "https://www.deqixs.org/871/txt.html#dir",
   },
-  {
+{
     id: 872,
     slug: "每日签到的我-养活主播老婆",
     title: "每日签到的我，养活主播老婆",
@@ -16589,7 +16489,7 @@ export const bookItems = [
     downloadUrl: "/books/872_每日签到的我，养活主播老婆1-299章.txt",
     sourceUrl: "https://www.deqixs.org/872/txt.html#dir",
   },
-  {
+{
     id: 873,
     slug: "娱乐-开局蘑菇屋就被烧了",
     title: "娱乐：开局蘑菇屋就被烧了！",
@@ -16606,7 +16506,7 @@ export const bookItems = [
     downloadUrl: "/books/873_娱乐：开局蘑菇屋就被烧了！1-837章.txt",
     sourceUrl: "https://www.deqixs.org/873/txt.html#dir",
   },
-  {
+{
     id: 874,
     slug: "我体内有条龙",
     title: "我体内有条龙",
@@ -16623,7 +16523,7 @@ export const bookItems = [
     downloadUrl: "/books/874_我体内有条龙1-790章.txt",
     sourceUrl: "https://www.deqixs.org/874/txt.html#dir",
   },
-  {
+{
     id: 875,
     slug: "三国-开局一万个李存孝",
     title: "三国：开局一万个李存孝！",
@@ -16640,7 +16540,7 @@ export const bookItems = [
     downloadUrl: "/books/875_三国：开局一万个李存孝！1-475章.txt",
     sourceUrl: "https://www.deqixs.org/875/txt.html#dir",
   },
-  {
+{
     id: 876,
     slug: "国运登顶-我从未来拿科技",
     title: "国运登顶：我从未来拿科技",
@@ -16657,7 +16557,7 @@ export const bookItems = [
     downloadUrl: "/books/876_国运登顶：我从未来拿科技1-549章.txt",
     sourceUrl: "https://www.deqixs.org/876/txt.html#dir",
   },
-  {
+{
     id: 877,
     slug: "武考成绩被掉包-我一路杀成军神",
     title: "武考成绩被掉包，我一路杀成军神！",
@@ -16674,7 +16574,7 @@ export const bookItems = [
     downloadUrl: "/books/877_武考成绩被掉包，我一路杀成军神！1-989章.txt",
     sourceUrl: "https://www.deqixs.org/877/txt.html#dir",
   },
-  {
+{
     id: 878,
     slug: "刚成儒圣-告诉我这特么是西游",
     title: "刚成儒圣，告诉我这特么是西游？",
@@ -16691,7 +16591,7 @@ export const bookItems = [
     downloadUrl: "/books/878_刚成儒圣，告诉我这特么是西游？1-709章.txt",
     sourceUrl: "https://www.deqixs.org/878/txt.html#dir",
   },
-  {
+{
     id: 879,
     slug: "我-影帝",
     title: "我，影帝！",
@@ -16708,7 +16608,7 @@ export const bookItems = [
     downloadUrl: "/books/879_我，影帝！1-521章.txt",
     sourceUrl: "https://www.deqixs.org/879/txt.html#dir",
   },
-  {
+{
     id: 880,
     slug: "东北风云-黑血漫过松花江",
     title: "东北风云：黑血漫过松花江",
@@ -16725,7 +16625,7 @@ export const bookItems = [
     downloadUrl: "/books/880_东北风云：黑血漫过松花江1-497章.txt",
     sourceUrl: "https://www.deqixs.org/880/txt.html#dir",
   },
-  {
+{
     id: 881,
     slug: "克拉夫特异态学笔记",
     title: "克拉夫特异态学笔记",
@@ -16742,7 +16642,7 @@ export const bookItems = [
     downloadUrl: "/books/881_克拉夫特异态学笔记1-417章.txt",
     sourceUrl: "https://www.deqixs.org/881/txt.html#dir",
   },
-  {
+{
     id: 882,
     slug: "制作全息精灵游戏-全球玩疯了",
     title: "制作全息精灵游戏，全球玩疯了！",
@@ -16759,7 +16659,7 @@ export const bookItems = [
     downloadUrl: "/books/882_制作全息精灵游戏，全球玩疯了！1-299章.txt",
     sourceUrl: "https://www.deqixs.org/882/txt.html#dir",
   },
-  {
+{
     id: 883,
     slug: "我的俗世成神笔记",
     title: "我的俗世成神笔记",
@@ -16776,7 +16676,7 @@ export const bookItems = [
     downloadUrl: "/books/883_我的俗世成神笔记1-810章.txt",
     sourceUrl: "https://www.deqixs.org/883/txt.html#dir",
   },
-  {
+{
     id: 884,
     slug: "我瞎编魔法-教出灭世魔女",
     title: "我瞎编魔法，教出灭世魔女？",
@@ -16793,7 +16693,7 @@ export const bookItems = [
     downloadUrl: "/books/884_我瞎编魔法，教出灭世魔女？1-267章.txt",
     sourceUrl: "https://www.deqixs.org/884/txt.html#dir",
   },
-  {
+{
     id: 885,
     slug: "盗墓被抓-我挖自家祖坟还犯法",
     title: "盗墓被抓：我挖自家祖坟还犯法？",
@@ -16810,7 +16710,7 @@ export const bookItems = [
     downloadUrl: "/books/885_盗墓被抓：我挖自家祖坟还犯法？1-299章.txt",
     sourceUrl: "https://www.deqixs.org/885/txt.html#dir",
   },
-  {
+{
     id: 886,
     slug: "dnf-疯了-你管这叫搬砖主播",
     title: "dnf：疯了，你管这叫搬砖主播",
@@ -16827,7 +16727,7 @@ export const bookItems = [
     downloadUrl: "/books/886_dnf：疯了，你管这叫搬砖主播1-784章.txt",
     sourceUrl: "https://www.deqixs.org/886/txt.html#dir",
   },
-  {
+{
     id: 887,
     slug: "北洋之梦",
     title: "北洋之梦",
@@ -16844,7 +16744,7 @@ export const bookItems = [
     downloadUrl: "/books/887_北洋之梦1-268章.txt",
     sourceUrl: "https://www.deqixs.org/887/txt.html#dir",
   },
-  {
+{
     id: 888,
     slug: "重生后你把对方恋爱军师搞到了",
     title: "重生后你把对方恋爱军师搞到了？",
@@ -16861,7 +16761,7 @@ export const bookItems = [
     downloadUrl: "/books/888_重生后你把对方恋爱军师搞到了？1-592章.txt",
     sourceUrl: "https://www.deqixs.org/888/txt.html#dir",
   },
-  {
+{
     id: 889,
     slug: "高武暴君-我四眼仔-我摘眼镜你下跪干什么",
     title: "高武暴君：我四眼仔？我摘眼镜你下跪干什么",
@@ -16878,7 +16778,7 @@ export const bookItems = [
     downloadUrl: "/books/889_高武暴君：我四眼仔？我摘眼镜你下跪干什么1-579章.txt",
     sourceUrl: "https://www.deqixs.org/889/txt.html#dir",
   },
-  {
+{
     id: 890,
     slug: "是谁教他这么练剑的",
     title: "是谁教他这么练剑的？",
@@ -16895,7 +16795,7 @@ export const bookItems = [
     downloadUrl: "/books/890_是谁教他这么练剑的？1-429章.txt",
     sourceUrl: "https://www.deqixs.org/890/txt.html#dir",
   },
-  {
+{
     id: 891,
     slug: "我都打了三年nba-系统才来",
     title: "我都打了三年NBA，系统才来？",
@@ -16912,7 +16812,7 @@ export const bookItems = [
     downloadUrl: "/books/891_我都打了三年NBA，系统才来？1-207章.txt",
     sourceUrl: "https://www.deqixs.org/891/txt.html#dir",
   },
-  {
+{
     id: 892,
     slug: "我-警神-觉醒最强犯罪系统",
     title: "我，警神，觉醒最强犯罪系统？",
@@ -16929,7 +16829,7 @@ export const bookItems = [
     downloadUrl: "/books/892_我，警神，觉醒最强犯罪系统？1-364章.txt",
     sourceUrl: "https://www.deqixs.org/892/txt.html#dir",
   },
-  {
+{
     id: 893,
     slug: "末日边缘",
     title: "末日边缘",
@@ -16946,7 +16846,7 @@ export const bookItems = [
     downloadUrl: "/books/893_末日边缘1-475章.txt",
     sourceUrl: "https://www.deqixs.org/893/txt.html#dir",
   },
-  {
+{
     id: 894,
     slug: "女富婆的第一神医",
     title: "女富婆的第一神医",
@@ -16963,7 +16863,7 @@ export const bookItems = [
     downloadUrl: "/books/894_女富婆的第一神医1-2759章.txt",
     sourceUrl: "https://www.deqixs.org/894/txt.html#dir",
   },
-  {
+{
     id: 895,
     slug: "科技入侵现代",
     title: "科技入侵现代",
@@ -16980,7 +16880,7 @@ export const bookItems = [
     downloadUrl: "/books/895_科技入侵现代1-804章.txt",
     sourceUrl: "https://www.deqixs.org/895/txt.html#dir",
   },
-  {
+{
     id: 896,
     slug: "匹夫有责",
     title: "匹夫有责",
@@ -16997,7 +16897,7 @@ export const bookItems = [
     downloadUrl: "/books/896_匹夫有责1-680章.txt",
     sourceUrl: "https://www.deqixs.org/896/txt.html#dir",
   },
-  {
+{
     id: 897,
     slug: "激情岁月-在北大荒渔猎的日子",
     title: "激情岁月：在北大荒渔猎的日子",
@@ -17014,7 +16914,7 @@ export const bookItems = [
     downloadUrl: "/books/897_激情岁月：在北大荒渔猎的日子1-460章.txt",
     sourceUrl: "https://www.deqixs.org/897/txt.html#dir",
   },
-  {
+{
     id: 898,
     slug: "要当总统了-你告诉我是纸牌屋",
     title: "要当总统了，你告诉我是纸牌屋？",
@@ -17031,7 +16931,7 @@ export const bookItems = [
     downloadUrl: "/books/898_要当总统了，你告诉我是纸牌屋？1-331章.txt",
     sourceUrl: "https://www.deqixs.org/898/txt.html#dir",
   },
-  {
+{
     id: 899,
     slug: "饥荒逃亡-每日一卦-从两个童养媳开始",
     title: "饥荒逃亡：每日一卦，从两个童养媳开始",
@@ -17048,7 +16948,7 @@ export const bookItems = [
     downloadUrl: "/books/899_饥荒逃亡：每日一卦，从两个童养媳开始1-437章.txt",
     sourceUrl: "https://www.deqixs.org/899/txt.html#dir",
   },
-  {
+{
     id: 900,
     slug: "斗罗-执掌生与死-复活历代教皇",
     title: "斗罗：执掌生与死，复活历代教皇",
@@ -17065,7 +16965,7 @@ export const bookItems = [
     downloadUrl: "/books/900_斗罗：执掌生与死，复活历代教皇1-247章.txt",
     sourceUrl: "https://www.deqixs.org/900/txt.html#dir",
   },
-  {
+{
     id: 901,
     slug: "死遁-前夫夜夜哭坟-我在硬汉怀里生崽",
     title: "死遁！前夫夜夜哭坟，我在硬汉怀里生崽",
@@ -17082,7 +16982,7 @@ export const bookItems = [
     downloadUrl: "/books/901_死遁！前夫夜夜哭坟，我在硬汉怀里生崽1-81章.txt",
     sourceUrl: "https://www.deqixs.org/901/txt.html#dir",
   },
-  {
+{
     id: 902,
     slug: "娱乐-开局被杨老板签约",
     title: "娱乐：开局被杨老板签约",
@@ -17099,7 +16999,7 @@ export const bookItems = [
     downloadUrl: "/books/902_娱乐：开局被杨老板签约1-908章.txt",
     sourceUrl: "https://www.deqixs.org/902/txt.html#dir",
   },
-  {
+{
     id: 903,
     slug: "多我一个后富怎么了",
     title: "多我一个后富怎么了",
@@ -17116,7 +17016,7 @@ export const bookItems = [
     downloadUrl: "/books/903_多我一个后富怎么了1-834章.txt",
     sourceUrl: "https://www.deqixs.org/903/txt.html#dir",
   },
-  {
+{
     id: 904,
     slug: "乱世灾年-我穿成贅婿苟活发育",
     title: "乱世灾年：我穿成贅婿苟活发育",
@@ -17133,7 +17033,7 @@ export const bookItems = [
     downloadUrl: "/books/904_乱世灾年：我穿成贅婿苟活发育1-270章.txt",
     sourceUrl: "https://www.deqixs.org/904/txt.html#dir",
   },
-  {
+{
     id: 905,
     slug: "高武-一块钱买一年修为-天赋差怎么了",
     title: "高武：一块钱买一年修为，天赋差怎么了？",
@@ -17150,7 +17050,7 @@ export const bookItems = [
     downloadUrl: "/books/905_高武：一块钱买一年修为，天赋差怎么了？1-135章.txt",
     sourceUrl: "https://www.deqixs.org/905/txt.html#dir",
   },
-  {
+{
     id: 906,
     slug: "前世毁你清白-赶海宠妻-从契约虎鲸开始",
     title: "前世毁你清白：赶海宠妻，从契约虎鲸开始！",
@@ -17167,7 +17067,7 @@ export const bookItems = [
     downloadUrl: "/books/906_前世毁你清白：赶海宠妻，从契约虎鲸开始！1-768章.txt",
     sourceUrl: "https://www.deqixs.org/906/txt.html#dir",
   },
-  {
+{
     id: 907,
     slug: "权力巅峰-从第一秘书开始",
     title: "权力巅峰：从第一秘书开始",
@@ -17184,7 +17084,7 @@ export const bookItems = [
     downloadUrl: "/books/907_权力巅峰：从第一秘书开始1-1238章.txt",
     sourceUrl: "https://www.deqixs.org/907/txt.html#dir",
   },
-  {
+{
     id: 908,
     slug: "我在乱世开无双",
     title: "我在乱世开无双",
@@ -17201,7 +17101,7 @@ export const bookItems = [
     downloadUrl: "/books/908_我在乱世开无双1-160章.txt",
     sourceUrl: "https://www.deqixs.org/908/txt.html#dir",
   },
-  {
+{
     id: 909,
     slug: "诸天-一切从拜师石坚开始",
     title: "诸天：一切从拜师石坚开始！",
@@ -17218,7 +17118,7 @@ export const bookItems = [
     downloadUrl: "/books/909_诸天：一切从拜师石坚开始！1-155章.txt",
     sourceUrl: "https://www.deqixs.org/909/txt.html#dir",
   },
-  {
+{
     id: 910,
     slug: "完美人生-从改变时间线开始",
     title: "完美人生，从改变时间线开始",
@@ -17235,7 +17135,7 @@ export const bookItems = [
     downloadUrl: "/books/910_完美人生，从改变时间线开始1-759章.txt",
     sourceUrl: "https://www.deqixs.org/910/txt.html#dir",
   },
-  {
+{
     id: 911,
     slug: "美人关",
     title: "美人关",
@@ -17252,7 +17152,7 @@ export const bookItems = [
     downloadUrl: "/books/911_美人关1-1114章.txt",
     sourceUrl: "https://www.deqixs.org/911/txt.html#dir",
   },
-  {
+{
     id: 912,
     slug: "勉传之缘起元落",
     title: "勉传之缘起元落",
@@ -17269,7 +17169,7 @@ export const bookItems = [
     downloadUrl: "/books/912_勉传之缘起元落1-338章.txt",
     sourceUrl: "https://www.deqixs.org/912/txt.html#dir",
   },
-  {
+{
     id: 913,
     slug: "网贷买号你要分手-游戏入侵你已急哭",
     title: "网贷买号你要分手，游戏入侵你已急哭",
@@ -17286,7 +17186,7 @@ export const bookItems = [
     downloadUrl: "/books/913_网贷买号你要分手，游戏入侵你已急哭1-295章.txt",
     sourceUrl: "https://www.deqixs.org/913/txt.html#dir",
   },
-  {
+{
     id: 914,
     slug: "侦探-上任第一天-破连环杀人案",
     title: "侦探上任第一天，破连环杀人案",
@@ -17303,7 +17203,7 @@ export const bookItems = [
     downloadUrl: "/books/914_侦探上任第一天，破连环杀人案1-543章.txt",
     sourceUrl: "https://www.deqixs.org/914/txt.html#dir",
   },
-  {
+{
     id: 915,
     slug: "开局觉醒壮阳术-成为人族不朽",
     title: "开局觉醒壮阳术，成为人族不朽",
@@ -17320,7 +17220,7 @@ export const bookItems = [
     downloadUrl: "/books/915_开局觉醒壮阳术，成为人族不朽1-339章.txt",
     sourceUrl: "https://www.deqixs.org/915/txt.html#dir",
   },
-  {
+{
     id: 916,
     slug: "仙子-求你别再从书里出来了",
     title: "仙子，求你别再从书里出来了",
@@ -17337,7 +17237,7 @@ export const bookItems = [
     downloadUrl: "/books/916_仙子，求你别再从书里出来了1-817章.txt",
     sourceUrl: "https://www.deqixs.org/916/txt.html#dir",
   },
-  {
+{
     id: 917,
     slug: "文豪1879-独行法兰西",
     title: "文豪1879：独行法兰西",
@@ -17354,7 +17254,7 @@ export const bookItems = [
     downloadUrl: "/books/917_文豪1879：独行法兰西1-905章.txt",
     sourceUrl: "https://www.deqixs.org/917/txt.html#dir",
   },
-  {
+{
     id: 918,
     slug: "1996-从行政总厨开始",
     title: "1996：从行政总厨开始",
@@ -17371,7 +17271,7 @@ export const bookItems = [
     downloadUrl: "/books/918_1996：从行政总厨开始1-748章.txt",
     sourceUrl: "https://www.deqixs.org/918/txt.html#dir",
   },
-  {
+{
     id: 919,
     slug: "五代风华",
     title: "五代风华",
@@ -17388,7 +17288,7 @@ export const bookItems = [
     downloadUrl: "/books/919_五代风华1-553章.txt",
     sourceUrl: "https://www.deqixs.org/919/txt.html#dir",
   },
-  {
+{
     id: 920,
     slug: "日本战国-功名十字路",
     title: "日本战国：功名十字路",
@@ -17405,7 +17305,7 @@ export const bookItems = [
     downloadUrl: "/books/920_日本战国：功名十字路1-354章.txt",
     sourceUrl: "https://www.deqixs.org/920/txt.html#dir",
   },
-  {
+{
     id: 921,
     slug: "你一美警-老想着回东方干啥玩意",
     title: "你一美警，老想着回东方干啥玩意",
@@ -17422,7 +17322,7 @@ export const bookItems = [
     downloadUrl: "/books/921_你一美警，老想着回东方干啥玩意1-383章.txt",
     sourceUrl: "https://www.deqixs.org/921/txt.html#dir",
   },
-  {
+{
     id: 922,
     slug: "流窜诸天的灾厄",
     title: "流窜诸天的灾厄",
@@ -17439,7 +17339,7 @@ export const bookItems = [
     downloadUrl: "/books/922_流窜诸天的灾厄1-223章.txt",
     sourceUrl: "https://www.deqixs.org/922/txt.html#dir",
   },
-  {
+{
     id: 923,
     slug: "霍格沃茨-伏地魔也别阻止我学习",
     title: "霍格沃茨：伏地魔也别阻止我学习",
@@ -17456,7 +17356,7 @@ export const bookItems = [
     downloadUrl: "/books/923_霍格沃茨：伏地魔也别阻止我学习1-1385章.txt",
     sourceUrl: "https://www.deqixs.org/923/txt.html#dir",
   },
-  {
+{
     id: 924,
     slug: "钢铁火药和施法者",
     title: "钢铁火药和施法者",
@@ -17473,7 +17373,7 @@ export const bookItems = [
     downloadUrl: "/books/924_钢铁火药和施法者1-626章.txt",
     sourceUrl: "https://www.deqixs.org/924/txt.html#dir",
   },
-  {
+{
     id: 925,
     slug: "高中生-长生仙族系统什么鬼",
     title: "高中生！长生仙族系统什么鬼！",
@@ -17490,7 +17390,7 @@ export const bookItems = [
     downloadUrl: "/books/925_高中生！长生仙族系统什么鬼！1-522章.txt",
     sourceUrl: "https://www.deqixs.org/925/txt.html#dir",
   },
-  {
+{
     id: 926,
     slug: "华娱-重生了-还逼我做渣男啊",
     title: "华娱：重生了，还逼我做渣男啊",
@@ -17507,7 +17407,7 @@ export const bookItems = [
     downloadUrl: "/books/926_华娱：重生了，还逼我做渣男啊1-903章.txt",
     sourceUrl: "https://www.deqixs.org/926/txt.html#dir",
   },
-  {
+{
     id: 927,
     slug: "入职警局第一天-吃了警花进口糖",
     title: "入职警局第一天，吃了警花进口糖",
@@ -17524,7 +17424,7 @@ export const bookItems = [
     downloadUrl: "/books/927_入职警局第一天，吃了警花进口糖1-112章.txt",
     sourceUrl: "https://www.deqixs.org/927/txt.html#dir",
   },
-  {
+{
     id: 928,
     slug: "苟成武圣-从每日结算开始",
     title: "苟成武圣：从每日结算开始",
@@ -17541,7 +17441,7 @@ export const bookItems = [
     downloadUrl: "/books/928_苟成武圣：从每日结算开始1-270章.txt",
     sourceUrl: "https://www.deqixs.org/928/txt.html#dir",
   },
-  {
+{
     id: 929,
     slug: "我在唐朝当神仙",
     title: "我在唐朝当神仙",
@@ -17558,7 +17458,7 @@ export const bookItems = [
     downloadUrl: "/books/929_我在唐朝当神仙1-933章.txt",
     sourceUrl: "https://www.deqixs.org/929/txt.html#dir",
   },
-  {
+{
     id: 930,
     slug: "我不是那种富二代",
     title: "我不是那种富二代",
@@ -17575,7 +17475,7 @@ export const bookItems = [
     downloadUrl: "/books/930_我不是那种富二代1-628章.txt",
     sourceUrl: "https://www.deqixs.org/930/txt.html#dir",
   },
-  {
+{
     id: 931,
     slug: "超魔术士-开局魔网又崩了",
     title: "超魔术士：开局魔网又崩了",
@@ -17592,7 +17492,7 @@ export const bookItems = [
     downloadUrl: "/books/931_超魔术士：开局魔网又崩了1-762章.txt",
     sourceUrl: "https://www.deqixs.org/931/txt.html#dir",
   },
-  {
+{
     id: 932,
     slug: "北美-谁让这只猫当驱魔人的",
     title: "北美：谁让这只猫当驱魔人的！",
@@ -17609,7 +17509,7 @@ export const bookItems = [
     downloadUrl: "/books/932_北美：谁让这只猫当驱魔人的！1-512章.txt",
     sourceUrl: "https://www.deqixs.org/932/txt.html#dir",
   },
-  {
+{
     id: 933,
     slug: "快意恩仇-我以暴力杀穿整个乱世",
     title: "快意恩仇，我以暴力杀穿整个乱世",
@@ -17626,7 +17526,7 @@ export const bookItems = [
     downloadUrl: "/books/933_快意恩仇，我以暴力杀穿整个乱世1-351章.txt",
     sourceUrl: "https://www.deqixs.org/933/txt.html#dir",
   },
-  {
+{
     id: 934,
     slug: "遮天-从太古证道开始",
     title: "遮天：从太古证道开始",
@@ -17643,7 +17543,7 @@ export const bookItems = [
     downloadUrl: "/books/934_遮天：从太古证道开始1-562章.txt",
     sourceUrl: "https://www.deqixs.org/934/txt.html#dir",
   },
-  {
+{
     id: 935,
     slug: "费伦-魔眼术士的诸天穿越",
     title: "费伦：魔眼术士的诸天穿越",
@@ -17660,7 +17560,7 @@ export const bookItems = [
     downloadUrl: "/books/935_费伦：魔眼术士的诸天穿越1-412章.txt",
     sourceUrl: "https://www.deqixs.org/935/txt.html#dir",
   },
-  {
+{
     id: 936,
     slug: "重生99-从给学霸当老师开始",
     title: "重生99，从给学霸当老师开始",
@@ -17677,7 +17577,7 @@ export const bookItems = [
     downloadUrl: "/books/936_重生99，从给学霸当老师开始1-304章.txt",
     sourceUrl: "https://www.deqixs.org/936/txt.html#dir",
   },
-  {
+{
     id: 937,
     slug: "神祇领主纪元",
     title: "神祇领主纪元",
@@ -17694,7 +17594,7 @@ export const bookItems = [
     downloadUrl: "/books/937_神祇领主纪元1-635章.txt",
     sourceUrl: "https://www.deqixs.org/937/txt.html#dir",
   },
-  {
+{
     id: 938,
     slug: "神豪-拯救园区白月光",
     title: "神豪：拯救园区白月光",
@@ -17711,7 +17611,7 @@ export const bookItems = [
     downloadUrl: "/books/938_神豪：拯救园区白月光1-207章.txt",
     sourceUrl: "https://www.deqixs.org/938/txt.html#dir",
   },
-  {
+{
     id: 939,
     slug: "系统-我真不是苏联学霸",
     title: "系统，我真不是苏联学霸",
@@ -17728,7 +17628,7 @@ export const bookItems = [
     downloadUrl: "/books/939_系统，我真不是苏联学霸1-279章.txt",
     sourceUrl: "https://www.deqixs.org/939/txt.html#dir",
   },
-  {
+{
     id: 940,
     slug: "她们是灭世邪神-关我道侣什么事",
     title: "她们是灭世邪神，关我道侣什么事",
@@ -17745,7 +17645,7 @@ export const bookItems = [
     downloadUrl: "/books/940_她们是灭世邪神，关我道侣什么事1-559章.txt",
     sourceUrl: "https://www.deqixs.org/940/txt.html#dir",
   },
-  {
+{
     id: 941,
     slug: "我的尸傀和仙子通感了",
     title: "我的尸傀和仙子通感了",
@@ -17762,7 +17662,7 @@ export const bookItems = [
     downloadUrl: "/books/941_我的尸傀和仙子通感了1-415章.txt",
     sourceUrl: "https://www.deqixs.org/941/txt.html#dir",
   },
-  {
+{
     id: 942,
     slug: "巫师-我有一棵技能树",
     title: "巫师：我有一棵技能树",
@@ -17779,7 +17679,7 @@ export const bookItems = [
     downloadUrl: "/books/942_巫师：我有一棵技能树1-914章.txt",
     sourceUrl: "https://www.deqixs.org/942/txt.html#dir",
   },
-  {
+{
     id: 943,
     slug: "梦幻西游-万能强化",
     title: "梦幻西游：万能强化",
@@ -17796,7 +17696,7 @@ export const bookItems = [
     downloadUrl: "/books/943_梦幻西游：万能强化1-347章.txt",
     sourceUrl: "https://www.deqixs.org/943/txt.html#dir",
   },
-  {
+{
     id: 944,
     slug: "华娱-这个煤老板太懂艺术了",
     title: "华娱：这个煤老板太懂艺术了！",
@@ -17813,7 +17713,7 @@ export const bookItems = [
     downloadUrl: "/books/944_华娱：这个煤老板太懂艺术了！1-535章.txt",
     sourceUrl: "https://www.deqixs.org/944/txt.html#dir",
   },
-  {
+{
     id: 945,
     slug: "爹仙尊-娘魔尊-我嘎嘎乱杀",
     title: "爹仙尊，娘魔尊，我嘎嘎乱杀",
@@ -17830,7 +17730,7 @@ export const bookItems = [
     downloadUrl: "/books/945_爹仙尊，娘魔尊，我嘎嘎乱杀1-228章.txt",
     sourceUrl: "https://www.deqixs.org/945/txt.html#dir",
   },
-  {
+{
     id: 946,
     slug: "三岁萌娃会算卦-勇闯军区找爸爸",
     title: "三岁萌娃会算卦，勇闯军区找爸爸",
@@ -17847,7 +17747,7 @@ export const bookItems = [
     downloadUrl: "/books/946_三岁萌娃会算卦，勇闯军区找爸爸1-308章.txt",
     sourceUrl: "https://www.deqixs.org/946/txt.html#dir",
   },
-  {
+{
     id: 947,
     slug: "随母改嫁-我带全家上青云",
     title: "随母改嫁，我带全家上青云",
@@ -17864,7 +17764,7 @@ export const bookItems = [
     downloadUrl: "/books/947_随母改嫁，我带全家上青云1-329章.txt",
     sourceUrl: "https://www.deqixs.org/947/txt.html#dir",
   },
-  {
+{
     id: 948,
     slug: "华娱2008-从分手快乐开始",
     title: "华娱2008：从分手快乐开始",
@@ -17881,7 +17781,7 @@ export const bookItems = [
     downloadUrl: "/books/948_华娱2008：从分手快乐开始1-651章.txt",
     sourceUrl: "https://www.deqixs.org/948/txt.html#dir",
   },
-  {
+{
     id: 949,
     slug: "她不做妾",
     title: "她不做妾",
@@ -17898,7 +17798,7 @@ export const bookItems = [
     downloadUrl: "/books/949_她不做妾1-294章.txt",
     sourceUrl: "https://www.deqixs.org/949/txt.html#dir",
   },
-  {
+{
     id: 950,
     slug: "浪荡美人绑定深情剧本-转头把主角攻钓成狗",
     title: "浪荡美人绑定深情剧本？转头把主角攻钓成狗",
@@ -17915,7 +17815,7 @@ export const bookItems = [
     downloadUrl: "/books/950_浪荡美人绑定深情剧本？转头把主角攻钓成狗1-123章.txt",
     sourceUrl: "https://www.deqixs.org/950/txt.html#dir",
   },
-  {
+{
     id: 951,
     slug: "睁眼-肥婆恶女觉醒后-失忆太子爷宠溺无度",
     title: "睁眼！肥婆恶女觉醒后，失忆太子爷宠溺无度",
@@ -17932,7 +17832,7 @@ export const bookItems = [
     downloadUrl: "/books/951_睁眼！肥婆恶女觉醒后，失忆太子爷宠溺无度1-231章.txt",
     sourceUrl: "https://www.deqixs.org/951/txt.html#dir",
   },
-  {
+{
     id: 952,
     slug: "恶毒女深陷修罗场-满朝权贵竞折腰",
     title: "恶毒女深陷修罗场，满朝权贵竞折腰",
@@ -17949,7 +17849,7 @@ export const bookItems = [
     downloadUrl: "/books/952_恶毒女深陷修罗场，满朝权贵竞折腰1-68章.txt",
     sourceUrl: "https://www.deqixs.org/952/txt.html#dir",
   },
-  {
+{
     id: 953,
     slug: "我-网球大魔王-打造最强时代",
     title: "我，网球大魔王，打造最强时代",
@@ -17966,7 +17866,7 @@ export const bookItems = [
     downloadUrl: "/books/953_我，网球大魔王，打造最强时代1-581章.txt",
     sourceUrl: "https://www.deqixs.org/953/txt.html#dir",
   },
-  {
+{
     id: 954,
     slug: "生存游戏-但她已经杀穿全服了诶",
     title: "生存游戏？但她已经杀穿全服了诶",
@@ -17983,7 +17883,7 @@ export const bookItems = [
     downloadUrl: "/books/954_生存游戏？但她已经杀穿全服了诶1-429章.txt",
     sourceUrl: "https://www.deqixs.org/954/txt.html#dir",
   },
-  {
+{
     id: 955,
     slug: "吞噬星空-收徒万倍返还",
     title: "吞噬星空：收徒万倍返还",
@@ -18000,7 +17900,7 @@ export const bookItems = [
     downloadUrl: "/books/955_吞噬星空：收徒万倍返还1-935章.txt",
     sourceUrl: "https://www.deqixs.org/955/txt.html#dir",
   },
-  {
+{
     id: 956,
     slug: "韩城-我与未来有扇门",
     title: "韩城：我与未来有扇门",
@@ -18017,7 +17917,7 @@ export const bookItems = [
     downloadUrl: "/books/956_韩城：我与未来有扇门1-595章.txt",
     sourceUrl: "https://www.deqixs.org/956/txt.html#dir",
   },
-  {
+{
     id: 957,
     slug: "海贼-从神之谷走出的不死之王",
     title: "海贼：从神之谷走出的不死之王",
@@ -18034,7 +17934,7 @@ export const bookItems = [
     downloadUrl: "/books/957_海贼：从神之谷走出的不死之王1-443章.txt",
     sourceUrl: "https://www.deqixs.org/957/txt.html#dir",
   },
-  {
+{
     id: 958,
     slug: "八零-丰腴保姆太撩人-禁欲大佬哄生崽",
     title: "八零：丰腴保姆太撩人，禁欲大佬哄生崽",
@@ -18051,7 +17951,7 @@ export const bookItems = [
     downloadUrl: "/books/958_八零：丰腴保姆太撩人，禁欲大佬哄生崽1-105章.txt",
     sourceUrl: "https://www.deqixs.org/958/txt.html#dir",
   },
-  {
+{
     id: 959,
     slug: "替兄为官后-满朝文武跪求我别升了",
     title: "替兄为官后，满朝文武跪求我别升了",
@@ -18068,7 +17968,7 @@ export const bookItems = [
     downloadUrl: "/books/959_替兄为官后，满朝文武跪求我别升了1-105章.txt",
     sourceUrl: "https://www.deqixs.org/959/txt.html#dir",
   },
-  {
+{
     id: 960,
     slug: "联姻四年他不爱-继兄上位他又破防",
     title: "联姻四年他不爱，继兄上位他又破防",
@@ -18085,7 +17985,7 @@ export const bookItems = [
     downloadUrl: "/books/960_联姻四年他不爱，继兄上位他又破防1-113章.txt",
     sourceUrl: "https://www.deqixs.org/960/txt.html#dir",
   },
-  {
+{
     id: 961,
     slug: "七零-大馋丫头别撩了-禁欲首长会读心",
     title: "七零：大馋丫头别撩了，禁欲首长会读心",
@@ -18102,7 +18002,7 @@ export const bookItems = [
     downloadUrl: "/books/961_七零：大馋丫头别撩了，禁欲首长会读心1-126章.txt",
     sourceUrl: "https://www.deqixs.org/961/txt.html#dir",
   },
-  {
+{
     id: 962,
     slug: "重生归来-真千金团灭户口本",
     title: "重生归来，真千金团灭户口本",
@@ -18119,7 +18019,7 @@ export const bookItems = [
     downloadUrl: "/books/962_重生归来，真千金团灭户口本1-831章.txt",
     sourceUrl: "https://www.deqixs.org/962/txt.html#dir",
   },
-  {
+{
     id: 963,
     slug: "丰腴美人要改嫁-被重欲前夫亲哭了",
     title: "丰腴美人要改嫁，被重欲前夫亲哭了",
@@ -18136,7 +18036,7 @@ export const bookItems = [
     downloadUrl: "/books/963_丰腴美人要改嫁，被重欲前夫亲哭了1-139章.txt",
     sourceUrl: "https://www.deqixs.org/963/txt.html#dir",
   },
-  {
+{
     id: 964,
     slug: "集体穿越-满城大佬叫我长公主",
     title: "集体穿越：满城大佬叫我长公主！",
@@ -18153,7 +18053,7 @@ export const bookItems = [
     downloadUrl: "/books/964_集体穿越：满城大佬叫我长公主！1-346章.txt",
     sourceUrl: "https://www.deqixs.org/964/txt.html#dir",
   },
-  {
+{
     id: 965,
     slug: "快穿-恶毒美人勾勾手主神都当狗",
     title: "快穿：恶毒美人勾勾手主神都当狗",
@@ -18170,7 +18070,7 @@ export const bookItems = [
     downloadUrl: "/books/965_快穿：恶毒美人勾勾手主神都当狗1-98章.txt",
     sourceUrl: "https://www.deqixs.org/965/txt.html#dir",
   },
-  {
+{
     id: 966,
     slug: "婴语满级-我在古代开托儿所",
     title: "婴语满级：我在古代开托儿所",
@@ -18187,7 +18087,7 @@ export const bookItems = [
     downloadUrl: "/books/966_婴语满级：我在古代开托儿所1-189章.txt",
     sourceUrl: "https://www.deqixs.org/966/txt.html#dir",
   },
-  {
+{
     id: 967,
     slug: "惨死后哥哥们跪求原谅-跪远点-她独美",
     title: "惨死后哥哥们跪求原谅，跪远点，她独美",
@@ -18204,7 +18104,7 @@ export const bookItems = [
     downloadUrl: "/books/967_惨死后哥哥们跪求原谅，跪远点，她独美1-750章.txt",
     sourceUrl: "https://www.deqixs.org/967/txt.html#dir",
   },
-  {
+{
     id: 968,
     slug: "万人迷小o带崽跑-顶级渣a急哭了",
     title: "万人迷小O带崽跑，顶级渣A急哭了",
@@ -18221,7 +18121,7 @@ export const bookItems = [
     downloadUrl: "/books/968_万人迷小O带崽跑，顶级渣A急哭了1-89章.txt",
     sourceUrl: "https://www.deqixs.org/968/txt.html#dir",
   },
-  {
+{
     id: 969,
     slug: "快穿之大佬养崽日常",
     title: "快穿之大佬养崽日常",
@@ -18238,7 +18138,7 @@ export const bookItems = [
     downloadUrl: "/books/969_快穿之大佬养崽日常1-224章.txt",
     sourceUrl: "https://www.deqixs.org/969/txt.html#dir",
   },
-  {
+{
     id: 970,
     slug: "他比前男友炙热",
     title: "他比前男友炙热",
@@ -18255,7 +18155,7 @@ export const bookItems = [
     downloadUrl: "/books/970_他比前男友炙热1-309章.txt",
     sourceUrl: "https://www.deqixs.org/970/txt.html#dir",
   },
-  {
+{
     id: 971,
     slug: "军婚六年未见面-我提离婚你哭什么",
     title: "军婚六年未见面，我提离婚你哭什么",
@@ -18272,7 +18172,7 @@ export const bookItems = [
     downloadUrl: "/books/971_军婚六年未见面，我提离婚你哭什么1-269章.txt",
     sourceUrl: "https://www.deqixs.org/971/txt.html#dir",
   },
-  {
+{
     id: 972,
     slug: "无尽寒冬-我的营地无限升级",
     title: "无尽寒冬：我的营地无限升级",
@@ -18289,7 +18189,7 @@ export const bookItems = [
     downloadUrl: "/books/972_无尽寒冬：我的营地无限升级1-704章.txt",
     sourceUrl: "https://www.deqixs.org/972/txt.html#dir",
   },
-  {
+{
     id: 973,
     slug: "快穿之美人怜",
     title: "快穿之美人怜",
@@ -18306,7 +18206,7 @@ export const bookItems = [
     downloadUrl: "/books/973_快穿之美人怜1-1565章.txt",
     sourceUrl: "https://www.deqixs.org/973/txt.html#dir",
   },
-  {
+{
     id: 974,
     slug: "遮天-贷款十万年-让荒天帝来",
     title: "遮天：贷款十万年，让荒天帝来！",
@@ -18323,7 +18223,7 @@ export const bookItems = [
     downloadUrl: "/books/974_遮天：贷款十万年，让荒天帝来！1-138章.txt",
     sourceUrl: "https://www.deqixs.org/974/txt.html#dir",
   },
-  {
+{
     id: 975,
     slug: "半岛-相亲72小时",
     title: "半岛：相亲72小时",
@@ -18340,7 +18240,7 @@ export const bookItems = [
     downloadUrl: "/books/975_半岛：相亲72小时1-251章.txt",
     sourceUrl: "https://www.deqixs.org/975/txt.html#dir",
   },
-  {
+{
     id: 976,
     slug: "都转世成僵尸了-仙子还在追我",
     title: "都转世成僵尸了，仙子还在追我？",
@@ -18357,7 +18257,7 @@ export const bookItems = [
     downloadUrl: "/books/976_都转世成僵尸了，仙子还在追我？1-169章.txt",
     sourceUrl: "https://www.deqixs.org/976/txt.html#dir",
   },
-  {
+{
     id: 977,
     slug: "我捡到一部重生笔记本",
     title: "我捡到一部重生笔记本",
@@ -18374,7 +18274,7 @@ export const bookItems = [
     downloadUrl: "/books/977_我捡到一部重生笔记本1-573章.txt",
     sourceUrl: "https://www.deqixs.org/977/txt.html#dir",
   },
-  {
+{
     id: 978,
     slug: "我的亡灵不对劲",
     title: "我的亡灵不对劲",
@@ -18391,7 +18291,7 @@ export const bookItems = [
     downloadUrl: "/books/978_我的亡灵不对劲1-693章.txt",
     sourceUrl: "https://www.deqixs.org/978/txt.html#dir",
   },
-  {
+{
     id: 979,
     slug: "我全家都是从贴吧认识的",
     title: "我全家都是从贴吧认识的",
@@ -18408,7 +18308,7 @@ export const bookItems = [
     downloadUrl: "/books/979_我全家都是从贴吧认识的1-483章.txt",
     sourceUrl: "https://www.deqixs.org/979/txt.html#dir",
   },
-  {
+{
     id: 980,
     slug: "恶雌摇身一变万人迷-深陷极品兽夫修罗场",
     title: "恶雌摇身一变万人迷，深陷极品兽夫修罗场",
@@ -18425,7 +18325,7 @@ export const bookItems = [
     downloadUrl: "/books/980_恶雌摇身一变万人迷，深陷极品兽夫修罗场1-42章.txt",
     sourceUrl: "https://www.deqixs.org/980/txt.html#dir",
   },
-  {
+{
     id: 981,
     slug: "穿成八零恶媳妇-婆婆站我这边",
     title: "穿成八零恶媳妇，婆婆站我这边",
@@ -18442,7 +18342,7 @@ export const bookItems = [
     downloadUrl: "/books/981_穿成八零恶媳妇，婆婆站我这边1-118章.txt",
     sourceUrl: "https://www.deqixs.org/981/txt.html#dir",
   },
-  {
+{
     id: 982,
     slug: "误入神仙退休群-我种出天价灵果",
     title: "误入神仙退休群，我种出天价灵果",
@@ -18459,7 +18359,7 @@ export const bookItems = [
     downloadUrl: "/books/982_误入神仙退休群，我种出天价灵果1-86章.txt",
     sourceUrl: "https://www.deqixs.org/982/txt.html#dir",
   },
-  {
+{
     id: 983,
     slug: "和豪门太子领证时-前夫还在等我回头",
     title: "和豪门太子领证时，前夫还在等我回头",
@@ -18476,7 +18376,7 @@ export const bookItems = [
     downloadUrl: "/books/983_和豪门太子领证时，前夫还在等我回头1-246章.txt",
     sourceUrl: "https://www.deqixs.org/983/txt.html#dir",
   },
-  {
+{
     id: 984,
     slug: "重逢后-清冷死对头对我死缠烂打",
     title: "重逢后，清冷死对头对我死缠烂打",
@@ -18493,7 +18393,7 @@ export const bookItems = [
     downloadUrl: "/books/984_重逢后，清冷死对头对我死缠烂打1-75章.txt",
     sourceUrl: "https://www.deqixs.org/984/txt.html#dir",
   },
-  {
+{
     id: 985,
     slug: "在异世界混吃等死的日子",
     title: "在异世界混吃等死的日子",
@@ -18510,7 +18410,7 @@ export const bookItems = [
     downloadUrl: "/books/985_在异世界混吃等死的日子1-464章.txt",
     sourceUrl: "https://www.deqixs.org/985/txt.html#dir",
   },
-  {
+{
     id: 986,
     slug: "穿六零后-反派女配拒绝当炮灰",
     title: "穿六零后：反派女配拒绝当炮灰",
@@ -18527,7 +18427,7 @@ export const bookItems = [
     downloadUrl: "/books/986_穿六零后：反派女配拒绝当炮灰1-747章.txt",
     sourceUrl: "https://www.deqixs.org/986/txt.html#dir",
   },
-  {
+{
     id: 987,
     slug: "逼我离婚让小三-我宝多了十个爸爸",
     title: "逼我离婚让小三？我宝多了十个爸爸",
@@ -18544,7 +18444,7 @@ export const bookItems = [
     downloadUrl: "/books/987_逼我离婚让小三？我宝多了十个爸爸1-1863章.txt",
     sourceUrl: "https://www.deqixs.org/987/txt.html#dir",
   },
-  {
+{
     id: 988,
     slug: "离职离婚同时生效后-前夫悔红眼",
     title: "离职离婚同时生效后，前夫悔红眼",
@@ -18561,7 +18461,7 @@ export const bookItems = [
     downloadUrl: "/books/988_离职离婚同时生效后，前夫悔红眼1-617章.txt",
     sourceUrl: "https://www.deqixs.org/988/txt.html#dir",
   },
-  {
+{
     id: 989,
     slug: "八零嫁糙汉-捡来的小媳妇被他养娇了",
     title: "八零嫁糙汉：捡来的小媳妇被他养娇了",
@@ -18578,7 +18478,7 @@ export const bookItems = [
     downloadUrl: "/books/989_八零嫁糙汉：捡来的小媳妇被他养娇了1-198章.txt",
     sourceUrl: "https://www.deqixs.org/989/txt.html#dir",
   },
-  {
+{
     id: 990,
     slug: "八零开局嫁瘫痪-我靠空间养娇软老公",
     title: "八零开局嫁瘫痪，我靠空间养娇软老公",
@@ -18595,7 +18495,7 @@ export const bookItems = [
     downloadUrl: "/books/990_八零开局嫁瘫痪，我靠空间养娇软老公1-81章.txt",
     sourceUrl: "https://www.deqixs.org/990/txt.html#dir",
   },
-  {
+{
     id: 991,
     slug: "玄学太奶十八岁-重振家族荣耀",
     title: "玄学太奶十八岁，重振家族荣耀",
@@ -18612,7 +18512,7 @@ export const bookItems = [
     downloadUrl: "/books/991_玄学太奶十八岁，重振家族荣耀1-507章.txt",
     sourceUrl: "https://www.deqixs.org/991/txt.html#dir",
   },
-  {
+{
     id: 992,
     slug: "牛奶面包作工钱-古人在果园竞争上岗",
     title: "牛奶面包作工钱，古人在果园竞争上岗",
@@ -18629,7 +18529,7 @@ export const bookItems = [
     downloadUrl: "/books/992_牛奶面包作工钱，古人在果园竞争上岗1-169章.txt",
     sourceUrl: "https://www.deqixs.org/992/txt.html#dir",
   },
-  {
+{
     id: 993,
     slug: "1985-开局大雪封门",
     title: "1985：开局大雪封门",
@@ -18646,7 +18546,7 @@ export const bookItems = [
     downloadUrl: "/books/993_1985：开局大雪封门1-415章.txt",
     sourceUrl: "https://www.deqixs.org/993/txt.html#dir",
   },
-  {
+{
     id: 994,
     slug: "冷宫养狐崽-绝嗣皇帝翻墙来认亲",
     title: "冷宫养狐崽，绝嗣皇帝翻墙来认亲",
@@ -18663,7 +18563,7 @@ export const bookItems = [
     downloadUrl: "/books/994_冷宫养狐崽，绝嗣皇帝翻墙来认亲1-256章.txt",
     sourceUrl: "https://www.deqixs.org/994/txt.html#dir",
   },
-  {
+{
     id: 995,
     slug: "东京-我用化身编造神话",
     title: "东京：我用化身编造神话",
@@ -18680,7 +18580,7 @@ export const bookItems = [
     downloadUrl: "/books/995_东京：我用化身编造神话1-370章.txt",
     sourceUrl: "https://www.deqixs.org/995/txt.html#dir",
   },
-  {
+{
     id: 996,
     slug: "逆旅",
     title: "逆旅",
@@ -18697,7 +18597,7 @@ export const bookItems = [
     downloadUrl: "/books/996_逆旅1-207章.txt",
     sourceUrl: "https://www.deqixs.org/996/txt.html#dir",
   },
-  {
+{
     id: 997,
     slug: "华娱-是小花主动的",
     title: "华娱：是小花主动的",
@@ -18714,7 +18614,7 @@ export const bookItems = [
     downloadUrl: "/books/997_华娱：是小花主动的1-313章.txt",
     sourceUrl: "https://www.deqixs.org/997/txt.html#dir",
   },
-  {
+{
     id: 998,
     slug: "全职法师-开棺有奖",
     title: "全职法师：开棺有奖",
@@ -18731,7 +18631,7 @@ export const bookItems = [
     downloadUrl: "/books/998_全职法师：开棺有奖1-643章.txt",
     sourceUrl: "https://www.deqixs.org/998/txt.html#dir",
   },
-  {
+{
     id: 999,
     slug: "在诸天随机转生是什么体验",
     title: "在诸天随机转生是什么体验？",
@@ -18748,7 +18648,7 @@ export const bookItems = [
     downloadUrl: "/books/999_在诸天随机转生是什么体验？1-638章.txt",
     sourceUrl: "https://www.deqixs.org/999/txt.html#dir",
   },
-  {
+{
     id: 1000,
     slug: "美利坚-烧尸人",
     title: "美利坚：烧尸人",
@@ -18765,7 +18665,7 @@ export const bookItems = [
     downloadUrl: "/books/1000_美利坚：烧尸人1-351章.txt",
     sourceUrl: "https://www.deqixs.org/1000/txt.html#dir",
   },
-  {
+{
     id: 1001,
     slug: "绝对之门",
     title: "绝对之门",
@@ -18782,7 +18682,7 @@ export const bookItems = [
     downloadUrl: "/books/1001_绝对之门1-645章.txt",
     sourceUrl: "https://www.deqixs.org/1001/txt.html#dir",
   },
-  {
+{
     id: 1002,
     slug: "东京刑事1962",
     title: "东京刑事1962",
@@ -18799,7 +18699,7 @@ export const bookItems = [
     downloadUrl: "/books/1002_东京刑事19621-149章.txt",
     sourceUrl: "https://www.deqixs.org/1002/txt.html#dir",
   },
-  {
+{
     id: 1003,
     slug: "法爷-冒险者和女人",
     title: "法爷，冒险者和女人",
@@ -18816,7 +18716,7 @@ export const bookItems = [
     downloadUrl: "/books/1003_法爷，冒险者和女人1-140章.txt",
     sourceUrl: "https://www.deqixs.org/1003/txt.html#dir",
   },
-  {
+{
     id: 1004,
     slug: "快收了神通吧",
     title: "快收了神通吧！",
@@ -18833,7 +18733,7 @@ export const bookItems = [
     downloadUrl: "/books/1004_快收了神通吧！1-484章.txt",
     sourceUrl: "https://www.deqixs.org/1004/txt.html#dir",
   },
-  {
+{
     id: 1005,
     slug: "修仙的我却来到了巫师世界",
     title: "修仙的我却来到了巫师世界",
@@ -18850,7 +18750,7 @@ export const bookItems = [
     downloadUrl: "/books/1005_修仙的我却来到了巫师世界1-906章.txt",
     sourceUrl: "https://www.deqixs.org/1005/txt.html#dir",
   },
-  {
+{
     id: 1006,
     slug: "三塔游戏",
     title: "三塔游戏",
@@ -18867,7 +18767,7 @@ export const bookItems = [
     downloadUrl: "/books/1006_三塔游戏1-665章.txt",
     sourceUrl: "https://www.deqixs.org/1006/txt.html#dir",
   },
-  {
+{
     id: 1007,
     slug: "九龙夺嫡-我真不想当太子",
     title: "九龙夺嫡，我真不想当太子",
@@ -18884,7 +18784,7 @@ export const bookItems = [
     downloadUrl: "/books/1007_九龙夺嫡，我真不想当太子1-50章.txt",
     sourceUrl: "https://www.deqixs.org/1007/txt.html#dir",
   },
-  {
+{
     id: 1008,
     slug: "死神-天生数值怪-做幕后黑手",
     title: "死神：天生数值怪，做幕后黑手？",
@@ -18901,7 +18801,7 @@ export const bookItems = [
     downloadUrl: "/books/1008_死神：天生数值怪，做幕后黑手？1-332章.txt",
     sourceUrl: "https://www.deqixs.org/1008/txt.html#dir",
   },
-  {
+{
     id: 1009,
     slug: "旁门左道-修仙靠富婆",
     title: "旁门左道，修仙靠富婆",
@@ -18918,7 +18818,7 @@ export const bookItems = [
     downloadUrl: "/books/1009_旁门左道，修仙靠富婆1-418章.txt",
     sourceUrl: "https://www.deqixs.org/1009/txt.html#dir",
   },
-  {
+{
     id: 1010,
     slug: "漫威咸鱼氪星人",
     title: "漫威咸鱼氪星人",
@@ -18935,7 +18835,7 @@ export const bookItems = [
     downloadUrl: "/books/1010_漫威咸鱼氪星人1-1235章.txt",
     sourceUrl: "https://www.deqixs.org/1010/txt.html#dir",
   },
-  {
+{
     id: 1011,
     slug: "柯南-怪谈侦探的恋爱日常",
     title: "柯南：怪谈侦探的恋爱日常",
@@ -18952,7 +18852,7 @@ export const bookItems = [
     downloadUrl: "/books/1011_柯南：怪谈侦探的恋爱日常1-373章.txt",
     sourceUrl: "https://www.deqixs.org/1011/txt.html#dir",
   },
-  {
+{
     id: 1012,
     slug: "每周刷新的角色扮演系统不太对劲",
     title: "每周刷新的角色扮演系统不太对劲",
@@ -18969,7 +18869,7 @@ export const bookItems = [
     downloadUrl: "/books/1012_每周刷新的角色扮演系统不太对劲1-418章.txt",
     sourceUrl: "https://www.deqixs.org/1012/txt.html#dir",
   },
-  {
+{
     id: 1013,
     slug: "诸天大邪修",
     title: "诸天大邪修",
@@ -18986,7 +18886,7 @@ export const bookItems = [
     downloadUrl: "/books/1013_诸天大邪修1-180章.txt",
     sourceUrl: "https://www.deqixs.org/1013/txt.html#dir",
   },
-  {
+{
     id: 1014,
     slug: "清妖",
     title: "清妖",
@@ -19003,7 +18903,7 @@ export const bookItems = [
     downloadUrl: "/books/1014_清妖1-988章.txt",
     sourceUrl: "https://www.deqixs.org/1014/txt.html#dir",
   },
-  {
+{
     id: 1015,
     slug: "漫威-炼金术士只想平静的生活",
     title: "漫威：炼金术士只想平静的生活",
@@ -19020,7 +18920,7 @@ export const bookItems = [
     downloadUrl: "/books/1015_漫威：炼金术士只想平静的生活1-890章.txt",
     sourceUrl: "https://www.deqixs.org/1015/txt.html#dir",
   },
-  {
+{
     id: 1016,
     slug: "半岛-我成了锦鲤",
     title: "半岛：我成了锦鲤",
@@ -19037,7 +18937,7 @@ export const bookItems = [
     downloadUrl: "/books/1016_半岛：我成了锦鲤1-202章.txt",
     sourceUrl: "https://www.deqixs.org/1016/txt.html#dir",
   },
-  {
+{
     id: 1017,
     slug: "师妹-我真得控制你了",
     title: "师妹，我真得控制你了",
@@ -19054,7 +18954,7 @@ export const bookItems = [
     downloadUrl: "/books/1017_师妹，我真得控制你了1-292章.txt",
     sourceUrl: "https://www.deqixs.org/1017/txt.html#dir",
   },
-  {
+{
     id: 1018,
     slug: "美利坚从石油滋生霉菌开始",
     title: "美利坚从石油滋生霉菌开始",
@@ -19071,7 +18971,7 @@ export const bookItems = [
     downloadUrl: "/books/1018_美利坚从石油滋生霉菌开始1-245章.txt",
     sourceUrl: "https://www.deqixs.org/1018/txt.html#dir",
   },
-  {
+{
     id: 1019,
     slug: "我的设定在你之上",
     title: "我的设定在你之上！",
@@ -19088,7 +18988,7 @@ export const bookItems = [
     downloadUrl: "/books/1019_我的设定在你之上！1-810章.txt",
     sourceUrl: "https://www.deqixs.org/1019/txt.html#dir",
   },
-  {
+{
     id: 1020,
     slug: "维校的三好学生",
     title: "维校的三好学生",
@@ -19105,7 +19005,7 @@ export const bookItems = [
     downloadUrl: "/books/1020_维校的三好学生1-698章.txt",
     sourceUrl: "https://www.deqixs.org/1020/txt.html#dir",
   },
-  {
+{
     id: 1021,
     slug: "从装脏法开始民俗游戏",
     title: "从装脏法开始民俗游戏",
@@ -19122,7 +19022,7 @@ export const bookItems = [
     downloadUrl: "/books/1021_从装脏法开始民俗游戏1-1284章.txt",
     sourceUrl: "https://www.deqixs.org/1021/txt.html#dir",
   },
-  {
+{
     id: 1022,
     slug: "仙祸",
     title: "仙祸",
@@ -19139,7 +19039,7 @@ export const bookItems = [
     downloadUrl: "/books/1022_仙祸1-171章.txt",
     sourceUrl: "https://www.deqixs.org/1022/txt.html#dir",
   },
-  {
+{
     id: 1023,
     slug: "本诗仙拥兵百万-你让我自重",
     title: "本诗仙拥兵百万，你让我自重？",
@@ -19156,7 +19056,7 @@ export const bookItems = [
     downloadUrl: "/books/1023_本诗仙拥兵百万，你让我自重？1-606章.txt",
     sourceUrl: "https://www.deqixs.org/1023/txt.html#dir",
   },
-  {
+{
     id: 1024,
     slug: "师叔-你的法宝太不正经了",
     title: "师叔，你的法宝太不正经了",
@@ -19173,7 +19073,7 @@ export const bookItems = [
     downloadUrl: "/books/1024_师叔，你的法宝太不正经了1-1975章.txt",
     sourceUrl: "https://www.deqixs.org/1024/txt.html#dir",
   },
-  {
+{
     id: 1025,
     slug: "半岛-从躲在idol衣柜里开始",
     title: "半岛：从躲在idol衣柜里开始",
@@ -19190,7 +19090,7 @@ export const bookItems = [
     downloadUrl: "/books/1025_半岛：从躲在idol衣柜里开始1-457章.txt",
     sourceUrl: "https://www.deqixs.org/1025/txt.html#dir",
   },
-  {
+{
     id: 1026,
     slug: "我都元婴期了-你跟我说开学",
     title: "我都元婴期了，你跟我说开学？",
@@ -19207,7 +19107,7 @@ export const bookItems = [
     downloadUrl: "/books/1026_我都元婴期了，你跟我说开学？1-2726章.txt",
     sourceUrl: "https://www.deqixs.org/1026/txt.html#dir",
   },
-  {
+{
     id: 1027,
     slug: "官道-我被停职后-京圈大佬震怒",
     title: "官道：我被停职后，京圈大佬震怒",
@@ -19224,7 +19124,7 @@ export const bookItems = [
     downloadUrl: "/books/1027_官道：我被停职后，京圈大佬震怒1-1622章.txt",
     sourceUrl: "https://www.deqixs.org/1027/txt.html#dir",
   },
-  {
+{
     id: 1028,
     slug: "有帝族背景还开挂-我无敌了",
     title: "有帝族背景还开挂，我无敌了！",
@@ -19241,7 +19141,7 @@ export const bookItems = [
     downloadUrl: "/books/1028_有帝族背景还开挂，我无敌了！1-2185章.txt",
     sourceUrl: "https://www.deqixs.org/1028/txt.html#dir",
   },
-  {
+{
     id: 1029,
     slug: "修仙从神秘小鼎开始",
     title: "修仙从神秘小鼎开始",
@@ -19258,7 +19158,7 @@ export const bookItems = [
     downloadUrl: "/books/1029_修仙从神秘小鼎开始1-1835章.txt",
     sourceUrl: "https://www.deqixs.org/1029/txt.html#dir",
   },
-  {
+{
     id: 1030,
     slug: "凡尘飞仙",
     title: "凡尘飞仙",
@@ -19275,7 +19175,7 @@ export const bookItems = [
     downloadUrl: "/books/1030_凡尘飞仙1-2539章.txt",
     sourceUrl: "https://www.deqixs.org/1030/txt.html#dir",
   },
-  {
+{
     id: 1031,
     slug: "让你抓嫖-你抓了自己女上司",
     title: "让你抓嫖，你抓了自己女上司？",
@@ -19292,7 +19192,7 @@ export const bookItems = [
     downloadUrl: "/books/1031_让你抓嫖，你抓了自己女上司？1-1889章.txt",
     sourceUrl: "https://www.deqixs.org/1031/txt.html#dir",
   },
-  {
+{
     id: 1032,
     slug: "九天斩神诀",
     title: "九天斩神诀",
@@ -19309,7 +19209,7 @@ export const bookItems = [
     downloadUrl: "/books/1032_九天斩神诀1-2480章.txt",
     sourceUrl: "https://www.deqixs.org/1032/txt.html#dir",
   },
-  {
+{
     id: 1033,
     slug: "九阳武神",
     title: "九阳武神",
@@ -19326,7 +19226,7 @@ export const bookItems = [
     downloadUrl: "/books/1033_九阳武神1-4883章.txt",
     sourceUrl: "https://www.deqixs.org/1033/txt.html#dir",
   },
-  {
+{
     id: 1034,
     slug: "真千金心声太虎狼-禁欲摄政王夜夜破防",
     title: "真千金心声太虎狼，禁欲摄政王夜夜破防",
@@ -19343,7 +19243,7 @@ export const bookItems = [
     downloadUrl: "/books/1034_真千金心声太虎狼，禁欲摄政王夜夜破防1-186章.txt",
     sourceUrl: "https://www.deqixs.org/1034/txt.html#dir",
   },
-  {
+{
     id: 1035,
     slug: "黄帝秘藏",
     title: "黄帝秘藏",
@@ -19360,7 +19260,7 @@ export const bookItems = [
     downloadUrl: "/books/1035_黄帝秘藏1-2593章.txt",
     sourceUrl: "https://www.deqixs.org/1035/txt.html#dir",
   },
-  {
+{
     id: 1036,
     slug: "穿灾年-我带三儿一女吃香喝辣",
     title: "穿灾年，我带三儿一女吃香喝辣！",
@@ -19377,7 +19277,7 @@ export const bookItems = [
     downloadUrl: "/books/1036_穿灾年，我带三儿一女吃香喝辣！1-300章.txt",
     sourceUrl: "https://www.deqixs.org/1036/txt.html#dir",
   },
-  {
+{
     id: 1037,
     slug: "s级哨兵-狗都不谈-反派向导只想上四休三",
     title: "S级哨兵？狗都不谈！反派向导只想上四休三",
@@ -19394,7 +19294,7 @@ export const bookItems = [
     downloadUrl: "/books/1037_S级哨兵？狗都不谈！反派向导只想上四休三1-180章.txt",
     sourceUrl: "https://www.deqixs.org/1037/txt.html#dir",
   },
-  {
+{
     id: 1038,
     slug: "快穿-路人甲的幸福日子",
     title: "快穿：路人甲的幸福日子",
@@ -19411,7 +19311,7 @@ export const bookItems = [
     downloadUrl: "/books/1038_快穿：路人甲的幸福日子1-308章.txt",
     sourceUrl: "https://www.deqixs.org/1038/txt.html#dir",
   },
-  {
+{
     id: 1039,
     slug: "都市无敌霸主",
     title: "都市无敌霸主",
@@ -19428,7 +19328,7 @@ export const bookItems = [
     downloadUrl: "/books/1039_都市无敌霸主1-1782章.txt",
     sourceUrl: "https://www.deqixs.org/1039/txt.html#dir",
   },
-  {
+{
     id: 1040,
     slug: "吞天圣帝",
     title: "吞天圣帝",
@@ -19445,7 +19345,7 @@ export const bookItems = [
     downloadUrl: "/books/1040_吞天圣帝1-3781章.txt",
     sourceUrl: "https://www.deqixs.org/1040/txt.html#dir",
   },
-  {
+{
     id: 1041,
     slug: "乡村透视神医",
     title: "乡村透视神医",
@@ -19462,7 +19362,7 @@ export const bookItems = [
     downloadUrl: "/books/1041_乡村透视神医1-2398章.txt",
     sourceUrl: "https://www.deqixs.org/1041/txt.html#dir",
   },
-  {
+{
     id: 1042,
     slug: "完美-多子多福-加入聊天群",
     title: "完美：多子多福，加入聊天群！",
@@ -19479,7 +19379,7 @@ export const bookItems = [
     downloadUrl: "/books/1042_完美：多子多福，加入聊天群！1-940章.txt",
     sourceUrl: "https://www.deqixs.org/1042/txt.html#dir",
   },
-  {
+{
     id: 1043,
     slug: "全民-亲弟抢我职业-百鬼夜行横推诸天",
     title: "全民：亲弟抢我职业？百鬼夜行横推诸天",
@@ -19496,7 +19396,7 @@ export const bookItems = [
     downloadUrl: "/books/1043_全民：亲弟抢我职业？百鬼夜行横推诸天1-624章.txt",
     sourceUrl: "https://www.deqixs.org/1043/txt.html#dir",
   },
-  {
+{
     id: 1044,
     slug: "太上武神诀",
     title: "太上武神诀",
@@ -19513,7 +19413,7 @@ export const bookItems = [
     downloadUrl: "/books/1044_太上武神诀1-4905章.txt",
     sourceUrl: "https://www.deqixs.org/1044/txt.html#dir",
   },
-  {
+{
     id: 1045,
     slug: "饥寒开局-我在古代造桃源",
     title: "饥寒开局：我在古代造桃源",
@@ -19530,7 +19430,7 @@ export const bookItems = [
     downloadUrl: "/books/1045_饥寒开局：我在古代造桃源1-320章.txt",
     sourceUrl: "https://www.deqixs.org/1045/txt.html#dir",
   },
-  {
+{
     id: 1046,
     slug: "神祇时代-欢迎加入光荣的进化",
     title: "神祇时代：欢迎加入光荣的进化",
@@ -19547,7 +19447,7 @@ export const bookItems = [
     downloadUrl: "/books/1046_神祇时代：欢迎加入光荣的进化1-710章.txt",
     sourceUrl: "https://www.deqixs.org/1046/txt.html#dir",
   },
-  {
+{
     id: 1047,
     slug: "天门神医",
     title: "天门神医",
@@ -19564,7 +19464,7 @@ export const bookItems = [
     downloadUrl: "/books/1047_天门神医1-2210章.txt",
     sourceUrl: "https://www.deqixs.org/1047/txt.html#dir",
   },
-  {
+{
     id: 1048,
     slug: "全民-都进化萌宠-我返祖上古大凶",
     title: "全民：都进化萌宠？我返祖上古大凶！",
@@ -19581,7 +19481,7 @@ export const bookItems = [
     downloadUrl: "/books/1048_全民：都进化萌宠？我返祖上古大凶！1-2883章.txt",
     sourceUrl: "https://www.deqixs.org/1048/txt.html#dir",
   },
-  {
+{
     id: 1049,
     slug: "重生1983-我妻京圈大小姐",
     title: "重生1983：我妻京圈大小姐",
@@ -19598,7 +19498,7 @@ export const bookItems = [
     downloadUrl: "/books/1049_重生1983：我妻京圈大小姐1-1993章.txt",
     sourceUrl: "https://www.deqixs.org/1049/txt.html#dir",
   },
-  {
+{
     id: 1050,
     slug: "长生-不苟到无敌-绝不出山",
     title: "长生：不苟到无敌，绝不出山",
@@ -19615,7 +19515,7 @@ export const bookItems = [
     downloadUrl: "/books/1050_长生：不苟到无敌，绝不出山1-838章.txt",
     sourceUrl: "https://www.deqixs.org/1050/txt.html#dir",
   },
-  {
+{
     id: 1051,
     slug: "天棺秘藏",
     title: "天棺秘藏",
@@ -19632,7 +19532,7 @@ export const bookItems = [
     downloadUrl: "/books/1051_天棺秘藏1-897章.txt",
     sourceUrl: "https://www.deqixs.org/1051/txt.html#dir",
   },
-  {
+{
     id: 1052,
     slug: "近战狂兵",
     title: "近战狂兵",
@@ -19649,7 +19549,7 @@ export const bookItems = [
     downloadUrl: "/books/1052_近战狂兵1-5719章.txt",
     sourceUrl: "https://www.deqixs.org/1052/txt.html#dir",
   },
-  {
+{
     id: 1053,
     slug: "全民游戏-从丧尸末日开始挂机",
     title: "全民游戏：从丧尸末日开始挂机",
@@ -19666,7 +19566,7 @@ export const bookItems = [
     downloadUrl: "/books/1053_全民游戏：从丧尸末日开始挂机1-4001章.txt",
     sourceUrl: "https://www.deqixs.org/1053/txt.html#dir",
   },
-  {
+{
     id: 1054,
     slug: "快穿-抢了女主气运后-心机美人上位了",
     title: "快穿：抢了女主气运后，心机美人上位了",
@@ -19683,7 +19583,7 @@ export const bookItems = [
     downloadUrl: "/books/1054_快穿：抢了女主气运后，心机美人上位了1-61章.txt",
     sourceUrl: "https://www.deqixs.org/1054/txt.html#dir",
   },
-  {
+{
     id: 1055,
     slug: "赶海人生-重回1983小渔村",
     title: "赶海人生：重回1983小渔村",
@@ -19700,7 +19600,7 @@ export const bookItems = [
     downloadUrl: "/books/1055_赶海人生：重回1983小渔村1-1443章.txt",
     sourceUrl: "https://www.deqixs.org/1055/txt.html#dir",
   },
-  {
+{
     id: 1056,
     slug: "步步高升-从省考状元到权力巅峰",
     title: "步步高升：从省考状元到权力巅峰",
@@ -19717,7 +19617,7 @@ export const bookItems = [
     downloadUrl: "/books/1056_步步高升：从省考状元到权力巅峰1-1501章.txt",
     sourceUrl: "https://www.deqixs.org/1056/txt.html#dir",
   },
-  {
+{
     id: 1057,
     slug: "梦幻西游-超级妙手空空",
     title: "梦幻西游：超级妙手空空",
@@ -19734,7 +19634,7 @@ export const bookItems = [
     downloadUrl: "/books/1057_梦幻西游：超级妙手空空1-347章.txt",
     sourceUrl: "https://www.deqixs.org/1057/txt.html#dir",
   },
-  {
+{
     id: 1058,
     slug: "钓系美人撩完就跑-疯批继兄夜夜喊老婆",
     title: "钓系美人撩完就跑，疯批继兄夜夜喊老婆",
@@ -19751,7 +19651,7 @@ export const bookItems = [
     downloadUrl: "/books/1058_钓系美人撩完就跑，疯批继兄夜夜喊老婆1-103章.txt",
     sourceUrl: "https://www.deqixs.org/1058/txt.html#dir",
   },
-  {
+{
     id: 1059,
     slug: "星际驯夫-毛茸茸大佬们跪求名分",
     title: "星际驯夫毛茸茸大佬们跪求名分",
@@ -19768,7 +19668,7 @@ export const bookItems = [
     downloadUrl: "/books/1059_星际驯夫毛茸茸大佬们跪求名分1-172章.txt",
     sourceUrl: "https://www.deqixs.org/1059/txt.html#dir",
   },
-  {
+{
     id: 1060,
     slug: "苟在公门武道成尊",
     title: "苟在公门武道成尊",
@@ -19785,7 +19685,7 @@ export const bookItems = [
     downloadUrl: "/books/1060_苟在公门武道成尊1-386章.txt",
     sourceUrl: "https://www.deqixs.org/1060/txt.html#dir",
   },
-  {
+{
     id: 1061,
     slug: "八零童养媳重生-被失忆军少哄着领证",
     title: "八零童养媳重生，被失忆军少哄着领证",
@@ -19802,7 +19702,7 @@ export const bookItems = [
     downloadUrl: "/books/1061_八零童养媳重生，被失忆军少哄着领证1-193章.txt",
     sourceUrl: "https://www.deqixs.org/1061/txt.html#dir",
   },
-  {
+{
     id: 1062,
     slug: "说好的死对头呢-怎么叫我老婆",
     title: "说好的死对头呢，怎么叫我老婆",
@@ -19819,7 +19719,7 @@ export const bookItems = [
     downloadUrl: "/books/1062_说好的死对头呢，怎么叫我老婆1-67章.txt",
     sourceUrl: "https://www.deqixs.org/1062/txt.html#dir",
   },
-  {
+{
     id: 1063,
     slug: "百世修长生",
     title: "百世修长生",
@@ -19836,7 +19736,7 @@ export const bookItems = [
     downloadUrl: "/books/1063_百世修长生1-153章.txt",
     sourceUrl: "https://www.deqixs.org/1063/txt.html#dir",
   },
-  {
+{
     id: 1064,
     slug: "每天到账一万-还相什么亲",
     title: "每天到账一万，还相什么亲？",
@@ -19853,7 +19753,7 @@ export const bookItems = [
     downloadUrl: "/books/1064_每天到账一万，还相什么亲？1-171章.txt",
     sourceUrl: "https://www.deqixs.org/1064/txt.html#dir",
   },
-  {
+{
     id: 1065,
     slug: "拂晓协议",
     title: "拂晓协议",
@@ -19870,7 +19770,7 @@ export const bookItems = [
     downloadUrl: "/books/1065_拂晓协议1-41章.txt",
     sourceUrl: "https://www.deqixs.org/1065/txt.html#dir",
   },
-  {
+{
     id: 1066,
     slug: "我打篮球的-你给我足球系统",
     title: "我打篮球的，你给我足球系统？",
@@ -19887,7 +19787,7 @@ export const bookItems = [
     downloadUrl: "/books/1066_我打篮球的，你给我足球系统？1-94章.txt",
     sourceUrl: "https://www.deqixs.org/1066/txt.html#dir",
   },
-  {
+{
     id: 1067,
     slug: "凡人-我真没想重生紫灵啊",
     title: "凡人：我真没想重生紫灵啊",
@@ -19904,7 +19804,7 @@ export const bookItems = [
     downloadUrl: "/books/1067_凡人：我真没想重生紫灵啊1-438章.txt",
     sourceUrl: "https://www.deqixs.org/1067/txt.html#dir",
   },
-  {
+{
     id: 1068,
     slug: "同时穿越-父愁者联盟",
     title: "同时穿越：父愁者联盟",
@@ -19921,7 +19821,7 @@ export const bookItems = [
     downloadUrl: "/books/1068_同时穿越：父愁者联盟1-596章.txt",
     sourceUrl: "https://www.deqixs.org/1068/txt.html#dir",
   },
-  {
+{
     id: 1069,
     slug: "高武-从武科生到星空大帝",
     title: "高武：从武科生到星空大帝",
@@ -19938,7 +19838,7 @@ export const bookItems = [
     downloadUrl: "/books/1069_高武：从武科生到星空大帝1-626章.txt",
     sourceUrl: "https://www.deqixs.org/1069/txt.html#dir",
   },
-  {
+{
     id: 1070,
     slug: "江左伪郎",
     title: "江左伪郎",
@@ -19955,7 +19855,7 @@ export const bookItems = [
     downloadUrl: "/books/1070_江左伪郎1-487章.txt",
     sourceUrl: "https://www.deqixs.org/1070/txt.html#dir",
   },
-  {
+{
     id: 1071,
     slug: "大明黑帆",
     title: "大明黑帆",
@@ -19972,7 +19872,7 @@ export const bookItems = [
     downloadUrl: "/books/1071_大明黑帆1-440章.txt",
     sourceUrl: "https://www.deqixs.org/1071/txt.html#dir",
   },
-  {
+{
     id: 1072,
     slug: "仙醮",
     title: "仙醮",
@@ -19989,7 +19889,7 @@ export const bookItems = [
     downloadUrl: "/books/1072_仙醮1-164章.txt",
     sourceUrl: "https://www.deqixs.org/1072/txt.html#dir",
   },
-  {
+{
     id: 1073,
     slug: "这古城也太真实了",
     title: "这古城也太真实了",
@@ -20006,7 +19906,7 @@ export const bookItems = [
     downloadUrl: "/books/1073_这古城也太真实了1-266章.txt",
     sourceUrl: "https://www.deqixs.org/1073/txt.html#dir",
   },
-  {
+{
     id: 1074,
     slug: "十方剑主",
     title: "十方剑主",
@@ -20023,7 +19923,7 @@ export const bookItems = [
     downloadUrl: "/books/1074_十方剑主1-215章.txt",
     sourceUrl: "https://www.deqixs.org/1074/txt.html#dir",
   },
-  {
+{
     id: 1075,
     slug: "都市之破案狂少",
     title: "都市之破案狂少",
@@ -20040,7 +19940,7 @@ export const bookItems = [
     downloadUrl: "/books/1075_都市之破案狂少1-3804章.txt",
     sourceUrl: "https://www.deqixs.org/1075/txt.html#dir",
   },
-  {
+{
     id: 1076,
     slug: "神话入侵-我在地球斩神明",
     title: "神话入侵：我在地球斩神明",
@@ -20057,7 +19957,7 @@ export const bookItems = [
     downloadUrl: "/books/1076_神话入侵：我在地球斩神明1-2078章.txt",
     sourceUrl: "https://www.deqixs.org/1076/txt.html#dir",
   },
-  {
+{
     id: 1077,
     slug: "巅峰青云路",
     title: "巅峰青云路",
@@ -20074,7 +19974,7 @@ export const bookItems = [
     downloadUrl: "/books/1077_巅峰青云路1-2709章.txt",
     sourceUrl: "https://www.deqixs.org/1077/txt.html#dir",
   },
-  {
+{
     id: 1078,
     slug: "师娘求放过-下山去祸害你未婚妻吧",
     title: "师娘求放过：下山去祸害你未婚妻吧",
@@ -20091,7 +19991,7 @@ export const bookItems = [
     downloadUrl: "/books/1078_师娘求放过：下山去祸害你未婚妻吧1-3580章.txt",
     sourceUrl: "https://www.deqixs.org/1078/txt.html#dir",
   },
-  {
+{
     id: 1079,
     slug: "重生七零-开局打猎养家-我把妻女宠上天",
     title: "重生七零：开局打猎养家，我把妻女宠上天",
@@ -20108,7 +20008,7 @@ export const bookItems = [
     downloadUrl: "/books/1079_重生七零：开局打猎养家，我把妻女宠上天1-1317章.txt",
     sourceUrl: "https://www.deqixs.org/1079/txt.html#dir",
   },
-  {
+{
     id: 1080,
     slug: "借阴骨-阎王妻",
     title: "借阴骨，阎王妻",
@@ -20125,7 +20025,7 @@ export const bookItems = [
     downloadUrl: "/books/1080_借阴骨，阎王妻1-1762章.txt",
     sourceUrl: "https://www.deqixs.org/1080/txt.html#dir",
   },
-  {
+{
     id: 1081,
     slug: "炼仙鼎",
     title: "炼仙鼎",
@@ -20142,7 +20042,7 @@ export const bookItems = [
     downloadUrl: "/books/1081_炼仙鼎1-1369章.txt",
     sourceUrl: "https://www.deqixs.org/1081/txt.html#dir",
   },
-  {
+{
     id: 1082,
     slug: "错爱十五年-宋小姐放手再不回头",
     title: "错爱十五年，宋小姐放手再不回头",
@@ -20159,7 +20059,7 @@ export const bookItems = [
     downloadUrl: "/books/1082_错爱十五年，宋小姐放手再不回头1-441章.txt",
     sourceUrl: "https://www.deqixs.org/1082/txt.html#dir",
   },
-  {
+{
     id: 1083,
     slug: "震惊-我的徒弟居然是女帝",
     title: "震惊！我的徒弟居然是女帝",
@@ -20176,7 +20076,7 @@ export const bookItems = [
     downloadUrl: "/books/1083_震惊！我的徒弟居然是女帝1-3388章.txt",
     sourceUrl: "https://www.deqixs.org/1083/txt.html#dir",
   },
-  {
+{
     id: 1084,
     slug: "你拿军功娶白月光-我携千万嫁妆嫁王爷",
     title: "你拿军功娶白月光，我携千万嫁妆嫁王爷",
@@ -20193,7 +20093,7 @@ export const bookItems = [
     downloadUrl: "/books/1084_你拿军功娶白月光，我携千万嫁妆嫁王爷1-323章.txt",
     sourceUrl: "https://www.deqixs.org/1084/txt.html#dir",
   },
-  {
+{
     id: 1085,
     slug: "斗破之无上之境",
     title: "斗破之无上之境",
@@ -20210,7 +20110,7 @@ export const bookItems = [
     downloadUrl: "/books/1085_斗破之无上之境1-5371章.txt",
     sourceUrl: "https://www.deqixs.org/1085/txt.html#dir",
   },
-  {
+{
     id: 1086,
     slug: "我的心动女邻居",
     title: "我的心动女邻居",
@@ -20227,7 +20127,7 @@ export const bookItems = [
     downloadUrl: "/books/1086_我的心动女邻居1-1430章.txt",
     sourceUrl: "https://www.deqixs.org/1086/txt.html#dir",
   },
-  {
+{
     id: 1087,
     slug: "桃花劫",
     title: "桃花劫",
@@ -20244,7 +20144,7 @@ export const bookItems = [
     downloadUrl: "/books/1087_桃花劫1-704章.txt",
     sourceUrl: "https://www.deqixs.org/1087/txt.html#dir",
   },
-  {
+{
     id: 1088,
     slug: "乡村荒年-美艳寡嫂顿顿管我大白馒头",
     title: "乡村荒年：美艳寡嫂顿顿管我大白馒头",
@@ -20261,7 +20161,7 @@ export const bookItems = [
     downloadUrl: "/books/1088_乡村荒年：美艳寡嫂顿顿管我大白馒头1-581章.txt",
     sourceUrl: "https://www.deqixs.org/1088/txt.html#dir",
   },
-  {
+{
     id: 1089,
     slug: "混沌神王",
     title: "混沌神王",
@@ -20278,7 +20178,7 @@ export const bookItems = [
     downloadUrl: "/books/1089_混沌神王1-2507章.txt",
     sourceUrl: "https://www.deqixs.org/1089/txt.html#dir",
   },
-  {
+{
     id: 1090,
     slug: "阎王下山",
     title: "阎王下山",
@@ -20295,7 +20195,7 @@ export const bookItems = [
     downloadUrl: "/books/1090_阎王下山1-2607章.txt",
     sourceUrl: "https://www.deqixs.org/1090/txt.html#dir",
   },
-  {
+{
     id: 1091,
     slug: "诡异农夫-每天一个金词条-种出灭世鬼帝",
     title: "诡异农夫：每天一个金词条，种出灭世鬼帝",
@@ -20312,7 +20212,7 @@ export const bookItems = [
     downloadUrl: "/books/1091_诡异农夫：每天一个金词条，种出灭世鬼帝1-125章.txt",
     sourceUrl: "https://www.deqixs.org/1091/txt.html#dir",
   },
-  {
+{
     id: 1092,
     slug: "最强书童-我替少爷考状元",
     title: "最强书童，我替少爷考状元",
@@ -20329,7 +20229,7 @@ export const bookItems = [
     downloadUrl: "/books/1092_最强书童，我替少爷考状元1-986章.txt",
     sourceUrl: "https://www.deqixs.org/1092/txt.html#dir",
   },
-  {
+{
     id: 1093,
     slug: "她们眼中穷校草-竟是资本真大佬",
     title: "她们眼中穷校草，竟是资本真大佬",
@@ -20346,7 +20246,7 @@ export const bookItems = [
     downloadUrl: "/books/1093_她们眼中穷校草，竟是资本真大佬1-495章.txt",
     sourceUrl: "https://www.deqixs.org/1093/txt.html#dir",
   },
-  {
+{
     id: 1094,
     slug: "人在九叔当军阀-一块钱秒杀一年修为",
     title: "人在九叔当军阀，一块钱秒杀一年修为！",
@@ -20363,7 +20263,7 @@ export const bookItems = [
     downloadUrl: "/books/1094_人在九叔当军阀，一块钱秒杀一年修为！1-201章.txt",
     sourceUrl: "https://www.deqixs.org/1094/txt.html#dir",
   },
-  {
+{
     id: 1095,
     slug: "镇国神婿",
     title: "镇国神婿",
@@ -20380,7 +20280,7 @@ export const bookItems = [
     downloadUrl: "/books/1095_镇国神婿1-4296章.txt",
     sourceUrl: "https://www.deqixs.org/1095/txt.html#dir",
   },
-  {
+{
     id: 1096,
     slug: "公路求生-和美女教师房车开局-无限刷新",
     title: "公路求生：和美女教师房车开局，无限刷新",
@@ -20397,7 +20297,7 @@ export const bookItems = [
     downloadUrl: "/books/1096_公路求生：和美女教师房车开局，无限刷新1-313章.txt",
     sourceUrl: "https://www.deqixs.org/1096/txt.html#dir",
   },
-  {
+{
     id: 1097,
     slug: "离婚后-你才知道我多猛",
     title: "离婚后，你才知道我多猛？",
@@ -20414,7 +20314,7 @@ export const bookItems = [
     downloadUrl: "/books/1097_离婚后，你才知道我多猛？1-349章.txt",
     sourceUrl: "https://www.deqixs.org/1097/txt.html#dir",
   },
-  {
+{
     id: 1098,
     slug: "剑武独尊",
     title: "剑武独尊",
@@ -20431,7 +20331,7 @@ export const bookItems = [
     downloadUrl: "/books/1098_剑武独尊1-2753章.txt",
     sourceUrl: "https://www.deqixs.org/1098/txt.html#dir",
   },
-  {
+{
     id: 1099,
     slug: "拔剑百年-下山即无敌",
     title: "拔剑百年，下山即无敌",
@@ -20448,7 +20348,7 @@ export const bookItems = [
     downloadUrl: "/books/1099_拔剑百年，下山即无敌1-3513章.txt",
     sourceUrl: "https://www.deqixs.org/1099/txt.html#dir",
   },
-  {
+{
     id: 1100,
     slug: "大爷-我晚期了-你确定要讹我",
     title: "大爷，我晚期了，你确定要讹我？",
@@ -20464,6 +20364,10202 @@ export const bookItems = [
     readUrl: "https://pan.quark.cn/s/6eae516b04f8?pwd=S7Cq",
     downloadUrl: "/books/1100_大爷，我晚期了，你确定要讹我？1-314章.txt",
     sourceUrl: "https://www.deqixs.org/1100/txt.html#dir",
+  },
+{
+    id: 1101,
+    slug: "小富即安-不-本公子意在天下",
+    title: "小富即安？不，本公子意在天下",
+    cover: book1101Cover,
+    author: "堵上西楼",
+    date: "2026-09-04",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-837章",
+    latestChapter: "第837章 破城 二",
+    excerpt: "【慢热+种田+抄诗+权谋+江湖庙堂+美女】 陈小富穿越到大周王朝，成了开阳神将府的一个目不识丁的私生子。 坐拥花溪别院还有良田千顷，更主要的是还有一个倾国倾城善解人意的未婚妻。 没有狗血的退婚，陈小富对这日子很满意，本打算就这样逍遥快活一辈子，却不料那该死的才华令他一朝出名天下知。 陈小富从临安走入了帝京，走入了腥风血雨之中。 二皇子：“本宫只要陈小富的脑袋！” 东齐皇帝：“朕赏银十万金活捉陈小富",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7697ae9f9900?pwd=sP43",
+    downloadUrl: "/books/1101_小富即安？不，本公子意在天下1-837章.txt",
+    sourceUrl: "https://www.deqixs.org/1101/txt.html#dir",
+  },
+{
+    id: 1102,
+    slug: "东北修道三十年-世人敬我如敬神",
+    title: "东北修道三十年，世人敬我如敬神",
+    cover: book1102Cover,
+    author: "火出全宇宙",
+    date: "2026-09-05",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-940章",
+    latestChapter: "第939章 黎家祖坟冒青烟了",
+    excerpt: "我修道二十九载，被雷劈了七次。 我见过龙。 见过踏剑而飞的修士。 也亲手撕过猛鬼画的皮。 … 我叫冯宁，东北龙省黑城人。 原本我只是个皮孩子，却因为一次意外成了痴呆，被人叫守村人。 直到十八岁那年，一个毛熊国的白人蠢女人把我搞醒了……让我从此踏上了光怪陆离，名震天下的都市修道路！ ……",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0f40664b1d9e?pwd=4KPX",
+    downloadUrl: "/books/1102_东北修道三十年，世人敬我如敬神1-940章.txt",
+    sourceUrl: "https://www.deqixs.org/1102/txt.html#dir",
+  },
+{
+    id: 1103,
+    slug: "玄幻-简化功法-从喽啰开始成霸主",
+    title: "玄幻：简化功法，从喽啰开始成霸主",
+    cover: book1103Cover,
+    author: "帝天",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2066章",
+    latestChapter: "第2066章 远征路上的灯火",
+    excerpt: "【杀伐果断】【不压级】【打爆一切】 那年，喽啰楚青，不甘心麻衣赤脚在人群中当背景板，摇旗呐喊；此时，千年的帝国、镇压一方的宗门、江湖群雄，龙蛇并起！ 那么，我，楚青，要天街踏尽公卿骨，内库烧成锦绣灰。 从麻衣喽啰到锦绣霸主，只需——横推一切。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/1ce2b1f2fcc9?pwd=D9cw",
+    downloadUrl: "/books/1103_玄幻：简化功法，从喽啰开始成霸主1-2066章.txt",
+    sourceUrl: "https://www.deqixs.org/1103/txt.html#dir",
+  },
+{
+    id: 1104,
+    slug: "父凭子贵-从带儿子逛会所开始每日结算",
+    title: "父凭子贵：从带儿子逛会所开始每日结算",
+    cover: book1104Cover,
+    author: "想写书的猫",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-380章",
+    latestChapter: "第380章 假意作真情",
+    excerpt: "【离婚逆袭、神豪爽文、财富自由、系统金手指、每日返现结算】 肖阳拒绝了给妻子弟弟掏首付，却不想妻子反手提出离婚，要分一半财产走，给弟弟付首付。 本打算从再来，独自养好儿子的肖阳，却获得“父凭子贵”系统，只要儿子努力，父亲就能获得各种奖励。 【今日结算：儿子完成慢跑5公里，按时完成作业计划。奖励：体质+2，精神+1】 【今日结算：儿子补习班测试，进步三名。奖励：三千元】 【今日结算：儿子获得荣誉——",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8e236ea2b074?pwd=64zV",
+    downloadUrl: "/books/1104_父凭子贵：从带儿子逛会所开始每日结算1-380章.txt",
+    sourceUrl: "https://www.deqixs.org/1104/txt.html#dir",
+  },
+{
+    id: 1105,
+    slug: "被逼退队后-我和冷艳校花双排了",
+    title: "被逼退队后，我和冷艳校花双排了",
+    cover: book1105Cover,
+    author: "吃糖",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-574章",
+    latestChapter: "第574章 摸底考试",
+    excerpt: "三年前，楚浔穿越到了全民转职的世界。 身为辅助职业【分摊者】，他可以将队友受到的伤害转嫁到自己身上。 楚浔无数次使用这个能力为队友挡刀，将他们从鬼门关拉回来，弄得自己伤痕累累。 可是，距离高考只有一个月之时。 四个队友竟是一起逼他退队！ 楚浔无语，一群巨婴还玩过河拆桥那一套？ 楚浔没有犹豫果断退队! 一个月后，巨婴队友终于发现没了楚浔，队伍彻底废了，再想挽回楚浔的时候，却发现…… 那个被他们看不上",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/88e45efacf1d?pwd=EcL5",
+    downloadUrl: "/books/1105_被逼退队后，我和冷艳校花双排了1-574章.txt",
+    sourceUrl: "https://www.deqixs.org/1105/txt.html#dir",
+  },
+{
+    id: 1106,
+    slug: "人在斗罗-什么叫武魂是瑞幸咖啡",
+    title: "人在斗罗，什么叫武魂是瑞幸咖啡",
+    cover: book1106Cover,
+    author: "小心元",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-506章",
+    latestChapter: "第504章 ：如果有保质期，我希望是永久",
+    excerpt: "【斗二同人+金手指+武魂瑞幸咖啡】 开局觉醒食物系武魂，还是在绝世唐门时间线的斗罗大陆，完了兄弟，废了废了。 等等，什么叫我的武魂是瑞幸咖啡？ 先天魂力9.9级？ 极致之冰武魂？ 一杯咖啡半杯冰，咖啡喝完冰未化。 霍雨浩：喝最苦的美式，挨最毒的打。 马小桃：没有什么邪火是一杯生椰拿铁压制不住的，如果有就再来一杯。 徐三石：9.9一杯咖啡，白学弟可真是……你家铜魂币有0.1元面值的？阿米诺斯！ ……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/2cb7509e0746?pwd=Jhht",
+    downloadUrl: "/books/1106_人在斗罗，什么叫武魂是瑞幸咖啡1-506章.txt",
+    sourceUrl: "https://www.deqixs.org/1106/txt.html#dir",
+  },
+{
+    id: 1107,
+    slug: "我医武双绝-踏出女子监狱起无敌",
+    title: "我医武双绝，踏出女子监狱起无敌！",
+    cover: book1107Cover,
+    author: "清风万里",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1758章",
+    latestChapter: "第1758章 十三衍空境",
+    excerpt: "萧若尘替未婚妻顶罪五年，入狱后拜师七位绝美师父，习得惊天本领，掌管监狱，镇压万千豪雄！ 出狱后，反被未婚妻嫌弃家道中落，拒绝成婚，义无反顾扑进富二代的怀抱。 萧若尘转头迎娶未婚妻的姐姐，把她宠上了天。 五年卧龙终得雨，一啸山河天下惊！ 当他展露出通天武道，绝世医术，未婚妻追悔莫及：离开我姐姐，我们回到过去好不好 萧若尘：有多远滚多远！ 龙归于野，执掌天下，管你王侯将相，我一剑斩之！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/89ac4d2c1e5c?pwd=PPVa",
+    downloadUrl: "/books/1107_我医武双绝，踏出女子监狱起无敌！1-1758章.txt",
+    sourceUrl: "https://www.deqixs.org/1107/txt.html#dir",
+  },
+{
+    id: 1108,
+    slug: "绝色生骄",
+    title: "绝色生骄",
+    cover: book1108Cover,
+    author: "沙漠",
+    date: "2026-09-04",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-805章",
+    latestChapter: "第802章 离间",
+    excerpt: "门阀霸世，军匪割据。 北方的少年扬刀挥鞭，策马山河，便要为天下寒门布衣劈开一条大道。 我本无意逐鹿，奈何苍生苦楚，战就战他个八荒无敌！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a58320f5077d?pwd=TJxE",
+    downloadUrl: "/books/1108_绝色生骄1-805章.txt",
+    sourceUrl: "https://www.deqixs.org/1108/txt.html#dir",
+  },
+{
+    id: 1109,
+    slug: "都市逍遥邪医",
+    title: "都市逍遥邪医",
+    cover: book1109Cover,
+    author: "木燃",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-5862章",
+    latestChapter: "第5862章 有问题的是我们？",
+    excerpt: "模特公司打杂穷小子林辰，偶得绝世凶医传承，从此医武无双，能起死回生救济天下，也能化作杀神冲冠一怒为红颜。他与日月争辉，向天地夺命。而这一切，都从那个美女模特送他一本古书时开始……",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7253f6c3a9d3?pwd=PvLX",
+    downloadUrl: "/books/1109_都市逍遥邪医1-5862章.txt",
+    sourceUrl: "https://www.deqixs.org/1109/txt.html#dir",
+  },
+{
+    id: 1110,
+    slug: "模拟人生而已-怎么成白月光了",
+    title: "模拟人生而已，怎么成白月光了？",
+    cover: book1110Cover,
+    author: "十万可燃冰",
+    date: "2026-08-20",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-637章",
+    latestChapter: "第636章 完结感言",
+    excerpt: "新书【怎么你也是我前女友啊】已经上线~ 活了将近三十年我才明白。 世界从不会围着我转，只会耍的我团团转。我思想明明极端，现实窝囊又弥补了这一点。 作为一个过来人的建议就是别他妈过来了。 现实生活给了我一拳，我只能说没有上次重。 而那些打不死我的，只是一直在打我。 我也在想，这样一事无成的人生，一眼看得到头的未来何时能够改变。 直到失眠到快要猝死的节点，戴上了名为‘睡眠舱’的头盔—— 【欢迎光临完美",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8c9c4ab92a8e?pwd=xVNR",
+    downloadUrl: "/books/1110_模拟人生而已，怎么成白月光了？1-637章.txt",
+    sourceUrl: "https://www.deqixs.org/1110/txt.html#dir",
+  },
+{
+    id: 1111,
+    slug: "被夺一切后我成了仙道魁首",
+    title: "被夺一切后我成了仙道魁首",
+    cover: book1111Cover,
+    author: "盛唐无夜",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-1110章",
+    latestChapter: "第1093章 荒古界",
+    excerpt: "[升级流+女强+无cp+偏慢热+私设很多] 陆少蘅出身优越，才情顶尖，又有亲友宠爱和婚约郎君，自小被养得骄纵任性，只觉得人生实在轻而易举。 直到这一切，都被强势又轻而易举地夺走，她才惊讶发现原来自己的人生，只是一个俗套话本？ 人生坠落谷底，神来之音响起。 [人生如戏，你注定会成为江云绛的陪衬，是永远的丑角。但你现在可以选择回到过去，扭转乾坤] [回到最初，你可以将一切献给江云绛，换取一个不错的未来",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b793b2b26f35?pwd=Ct5K",
+    downloadUrl: "/books/1111_被夺一切后我成了仙道魁首1-1110章.txt",
+    sourceUrl: "https://www.deqixs.org/1111/txt.html#dir",
+  },
+{
+    id: 1112,
+    slug: "系统炸了-我成了系统",
+    title: "系统炸了，我成了系统",
+    cover: book1112Cover,
+    author: "小小怪",
+    date: "2026-09-01",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1855章",
+    latestChapter: "第1855章 苦一苦污民",
+    excerpt: "当系统的感觉是怎么样的？ 自从叶天把觊觎他的系统气炸了，他就成了系统。 穿梭诸天万界，偷取世界本源。 化身‘大反派系统’，协助反派爆锤主角。 来到男卑女尊世界，我为‘大丈夫系统’每天送宿主一点颜值，引来女皇垂涎。 蜕变创世系统，中二少年带来的光，让世界意志崩溃。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/4bf7504b0ea9?pwd=jnhv",
+    downloadUrl: "/books/1112_系统炸了，我成了系统1-1855章.txt",
+    sourceUrl: "https://www.deqixs.org/1112/txt.html#dir",
+  },
+{
+    id: 1113,
+    slug: "修罗剑神",
+    title: "修罗剑神",
+    cover: book1113Cover,
+    author: "三寸寒芒",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-4267章",
+    latestChapter: "第4260章 拿下彩头",
+    excerpt: "少年天生至尊神脉，却因一颗善心坠落凡尘。滔天怨气激活神魔令，得神界无上霸主传承，十大太古凶兽真血淬体，于逆境中崛起！ 以凡人之躯，斗那漫天神佛，问那世间情谊斤两，道理几何？ 既然神已无能为力，那就让魔来普度众生！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c53da2436d70?pwd=D68r",
+    downloadUrl: "/books/1113_修罗剑神1-4267章.txt",
+    sourceUrl: "https://www.deqixs.org/1113/txt.html#dir",
+  },
+{
+    id: 1114,
+    slug: "这书有毒",
+    title: "这书有毒！",
+    cover: book1114Cover,
+    author: "绯色回响",
+    date: "2026-09-10",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-996章",
+    latestChapter: "第376章 初期探索结束（求月票）",
+    excerpt: "“我不明白！” “为什么大家都在讨论我穿进笔下黑历史奇幻小说，成了被主角一脚踢死的反派路人甲！” “仿佛我的异界之旅注定了凶多吉少！” 记者：伊文先生，可你先表白女扮男装的妹妹，又招惹邻国的血族王女，不但将黎明女神囚禁为玩偶，还让收养的反派恶女向你献上忠诚！ “这都是救世计划的一部分！” 记者：那你打算和她们哪一位结婚？ 时任大远征的发起者、第二帝国统帅、永不坠落的灵性之月、联邦摄政王伊文看着将户",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b000544d014d?pwd=46aQ",
+    downloadUrl: "/books/1114_这书有毒！1-996章.txt",
+    sourceUrl: "https://www.deqixs.org/1114/txt.html#dir",
+  },
+{
+    id: 1115,
+    slug: "我家的虫-是龙",
+    title: "我家的虫，是龙",
+    cover: book1115Cover,
+    author: "说唱鸽",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-346章",
+    latestChapter: "第343章 剑崖（求月票！）",
+    excerpt: "我叫云澈，一个平平无奇的御兽师。 我的宠兽是一只绿绒虫，公认的最弱超凡生命之一。 但系统告诉我，它的真名是——烈空坐！ —— 要素：御兽世界，原创世界，错位系统，宝可梦，爽文",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a371e385b684?pwd=hs9J",
+    downloadUrl: "/books/1115_我家的虫，是龙1-346章.txt",
+    sourceUrl: "https://www.deqixs.org/1115/txt.html#dir",
+  },
+{
+    id: 1116,
+    slug: "绝夜之旅",
+    title: "绝夜之旅",
+    cover: book1116Cover,
+    author: "Andlao",
+    date: "2026-09-12",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-548章",
+    latestChapter: "第548章 永恒的终结",
+    excerpt: "第五纪元之初，无昼浩劫降临。 白银圣庭坍缩为苍白的剪影，时光将帝国碾作尘埃，起源之海仍在咆哮，沸腾的潮声日夜啃噬着现实的边界，将文明残片冲刷成尖锐的绝望。 一个又一个黑暗的千年后，三贤者们的旌旗也折断于第十二次远征，铁父的熔炉冷寂如墓，哲人的树梢垂下血泪，拓者的火炬在暴雨中嘶鸣着化作青烟。 自此，世界彻底走向分裂，城邦们彼此孤立，再无团结之时。 …… “我们将从此出发，沿着曙光走廊，穿过三重圆环，",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/3b7ebc9d1387?pwd=FGV3",
+    downloadUrl: "/books/1116_绝夜之旅1-548章.txt",
+    sourceUrl: "https://www.deqixs.org/1116/txt.html#dir",
+  },
+{
+    id: 1117,
+    slug: "医路坦途",
+    title: "医路坦途",
+    cover: book1117Cover,
+    author: "臧福生",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-2886章",
+    latestChapter: "第1159章 羡慕不来",
+    excerpt: "医学生张凡，获得未来医疗系统，平凡的生活开始变得无限精彩。QQ群782723204！欢迎来吹牛",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/cc421c3ca703?pwd=vfPh",
+    downloadUrl: "/books/1117_医路坦途1-2886章.txt",
+    sourceUrl: "https://www.deqixs.org/1117/txt.html#dir",
+  },
+{
+    id: 1118,
+    slug: "全民航海-三个美艳女教师开局-百倍暴击",
+    title: "全民航海：三个美艳女教师开局，百倍暴击！",
+    cover: book1118Cover,
+    author: "渔闲",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-215章",
+    latestChapter: "第215章 穿越冲天海流，进入人鱼海域！",
+    excerpt: "【跪求金票/金票多动力足】【航海求生/多女主/冲师逆徒/横推升级】 刘川只是一名普通学生，一觉醒来发现自己和三位美丽的女老师躺在一艘帆船里。 全民航海开启，刘川觉醒了SSS级天赋【一分耕耘，百倍收获】，凡是他努力所得，皆可获得百倍数量或者百倍质量的提升！ 班主任和苏老师，全都觉醒了S级天赋，【魔药调剂师】和【意念操控】。 一个奶妈，一个控制？ 刘川看向自己最喜欢的江老师：“老师，你的天赋是什么？”",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/04d19864063b?pwd=WHKq",
+    downloadUrl: "/books/1118_全民航海：三个美艳女教师开局，百倍暴击！1-215章.txt",
+    sourceUrl: "https://www.deqixs.org/1118/txt.html#dir",
+  },
+{
+    id: 1119,
+    slug: "高武-开局海克斯三选一-我直接开摆了",
+    title: "高武：开局海克斯三选一，我直接开摆了",
+    cover: book1119Cover,
+    author: "爱喝水的杯子",
+    date: "2026-09-04",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-607章",
+    latestChapter: "第607章 值得等待（大结局）",
+    excerpt: "人在高武，可以选择海克斯强化是种什么体验？ 即将高考的江宁，正对着武道大学那天堑般的分数线犯愁时，金手指终于来了。 下面开始你的海克斯强化选择： 【开摆：接下来三个月内，你的力量将不会有任何提升，但三个月后，你将自动增加1000公斤力量。】 谁能拒绝一场酣畅淋漓的开摆呢？ 三个月后，武道高考，看着被一拳爆表的力量测试仪，所有人陷入沉默。 【羽量级选手||：立即提升15％移动速度，并且你的移动速度提",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e3a73f487896?pwd=mq1c",
+    downloadUrl: "/books/1119_高武：开局海克斯三选一，我直接开摆了1-607章.txt",
+    sourceUrl: "https://www.deqixs.org/1119/txt.html#dir",
+  },
+{
+    id: 1120,
+    slug: "入职动物园-系统说我拜入御兽宗",
+    title: "入职动物园，系统说我拜入御兽宗",
+    cover: book1120Cover,
+    author: "徐林火",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-404章",
+    latestChapter: "第2章 当园内动物出现任何健康或行为问题时，需第一时间介入并“快速、有效”的予以解决。",
+    excerpt: "【唯我独法】【系统错位】【动物日常】【温馨治愈】 杨奇得到一个御兽修仙系统，初始任务就要求他拜入御兽宗。 可现实哪来的“御兽宗”？ 抱着试探，杨奇应聘进入动物园，没想到真成了！ 解救被猕猴绑架的小孩—— 【宿主临危不惧，勇气可嘉，从“八臂金刚”手中智救无辜幼童，特此奖励：万兽亲和】 给东北虎拔除刺在牙龈上的骨片—— 【恭喜宿主完成任务，助力“铁甲暴虎”恢复王者之风，特此奖励:小搬运术】 安抚受惊跑",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ac07cb9f7f2a?pwd=tPuR",
+    downloadUrl: "/books/1120_入职动物园，系统说我拜入御兽宗1-404章.txt",
+    sourceUrl: "https://www.deqixs.org/1120/txt.html#dir",
+  },
+{
+    id: 1121,
+    slug: "我有一座混沌监狱",
+    title: "我有一座混沌监狱",
+    cover: book1121Cover,
+    author: "宇然",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2696章",
+    latestChapter: "第2696章 老四这么强",
+    excerpt: "执掌混沌牢笼，号令万古神魔，主宰诸天万界！ 苏昊邪魅地笑道：“哥也想低调啊，可实力它不允许啊！”",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/04d3a87b0fe3?pwd=pSXs",
+    downloadUrl: "/books/1121_我有一座混沌监狱1-2696章.txt",
+    sourceUrl: "https://www.deqixs.org/1121/txt.html#dir",
+  },
+{
+    id: 1122,
+    slug: "我为族长-当缔造诸天万界之禁忌家族",
+    title: "我为族长，当缔造诸天万界之禁忌家族",
+    cover: book1122Cover,
+    author: "带刺的玫瑰",
+    date: "2026-08-31",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-566章",
+    latestChapter: "第566章 大结局（二）",
+    excerpt: "顾天阳穿越而来。 成了大乾王朝青云城中，四大家族之一，顾家的族长。 一月前，顾家的上任族长顾青山于青云山脉深处神秘失踪，生死不明。 消息传出后，青云城暗流汹涌。 王、李、赵三大家族和城主府虎视眈眈，皆欲将失去顶尖战力的顾家分而食之。 外患如山，内忧更烈。 顾天阳更是发现。 原身为求破局，强行冲击境界，竟已走火入魔！ 此刻他体内的经脉布满裂痕，修为更是荡然无存，几乎与废人无异。 此消息一旦外泄，顷刻",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a69c9f345144?pwd=aTPZ",
+    downloadUrl: "/books/1122_我为族长，当缔造诸天万界之禁忌家族1-566章.txt",
+    sourceUrl: "https://www.deqixs.org/1122/txt.html#dir",
+  },
+{
+    id: 1123,
+    slug: "梦魇降临",
+    title: "梦魇降临",
+    cover: book1123Cover,
+    author: "罗樵森",
+    date: "2026-09-05",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-1693章",
+    latestChapter: "第1693章 疯狂的黑罗刹！",
+    excerpt: "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。 这个世界充满了邪祟和诡异。 贫瘠之地开出的娇艳之花带着剧毒。 恐惧和贪婪滋养出了甜美的果实。 这是个“人吃人”的世界。 罗彬：“巧了，我来的世界，人也吃人。”",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b504f6f7ea98?pwd=24wF",
+    downloadUrl: "/books/1123_梦魇降临1-1693章.txt",
+    sourceUrl: "https://www.deqixs.org/1123/txt.html#dir",
+  },
+{
+    id: 1124,
+    slug: "鸿天神尊",
+    title: "鸿天神尊",
+    cover: book1124Cover,
+    author: "天下剑宗",
+    date: "2026-09-04",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-3625章",
+    latestChapter: "第3589章 天罡地煞绝生阵！",
+    excerpt: "【火爆玄幻、热血爽文】 他曾经被父亲极其宠爱，却是史上最牛逼的剑修！ 天界女帝？那是我的小妾！ 妖界大龙？那是我宠物！ 魔界战神？那是我的徒弟！ 我，云昊，敢与我为敌者，杀！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f32ea6916305?pwd=5hG4",
+    downloadUrl: "/books/1124_鸿天神尊1-3625章.txt",
+    sourceUrl: "https://www.deqixs.org/1124/txt.html#dir",
+  },
+{
+    id: 1125,
+    slug: "九星神龙诀",
+    title: "九星神龙诀",
+    cover: book1125Cover,
+    author: "逐风",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-5344章",
+    latestChapter: "第5344章 :上古碎星柱",
+    excerpt: "一个出身卑微的支脉少年，偶得惊世传承，一朝觉醒，龙腾九天。修九星神龙诀，凝龙脉，成霸体。与万族天骄争锋，横压万界，威震九天。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/de0ff1523ee4?pwd=79Zp",
+    downloadUrl: "/books/1125_九星神龙诀1-5344章.txt",
+    sourceUrl: "https://www.deqixs.org/1125/txt.html#dir",
+  },
+{
+    id: 1126,
+    slug: "修仙充值一千亿-天才都是我小弟",
+    title: "修仙充值一千亿，天才都是我小弟",
+    cover: book1126Cover,
+    author: "孟则",
+    date: "2026-09-06",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-713章",
+    latestChapter: "第647章 不能因为别人缺心眼，就怪她心眼多啊！",
+    excerpt: "【沙雕修仙+不按套路出牌+超超搞笑+有cp但是感情线不多】 顾淼穿越到了修真界，结果发现这个修真界的和她以前玩的一个修仙游戏一模一样。 系统：是否将游戏金币充值成灵石？首充有千倍返利福利哦！ 顾淼：真的假的？！我全服最强肝帝可是在游戏里赚了一个亿！ 系统：充不充？再送一条祖龙。 顾淼：靠，全充了！ 然后顾淼就收获了一千亿的灵石，并且获得祖龙接送服务。 掌门女儿挖她灵根，夺她气运？ 顾淼在这个游戏比",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/15efca52b73d?pwd=6UaJ",
+    downloadUrl: "/books/1126_修仙充值一千亿，天才都是我小弟1-713章.txt",
+    sourceUrl: "https://www.deqixs.org/1126/txt.html#dir",
+  },
+{
+    id: 1127,
+    slug: "民国-东亚病夫-我武道成圣",
+    title: "民国：东亚病夫？我武道成圣！",
+    cover: book1127Cover,
+    author: "故事里面吹吹风",
+    date: "2026-09-05",
+    category: "武侠",
+    status: "连载中",
+    chapters: "1-479章",
+    latestChapter: "第479章 下药，张清清",
+    excerpt: "【民国架空】+【多女主】+【武道】+【都市修真】+【脑洞玄幻】+【魂穿】+【多子多福】+【建立家族】+【我要洋人死】 李觉民穿越到乱世民国，成为一家落魄武馆的继承人，继承一家镇子上的小武馆。 但家族武学丢失，自己只会粗浅功夫，幸好觉醒系统，生养子嗣就能反哺家族，奖励寿元、秘法、宝药等等。 民国初年，时局混乱，南方民国新立，北方军阀割据，西洋铁舰叩关，前朝余孽作乱。 更有乱党与邪祟层出不穷，邪.教妖",
+    tags: [{ name: "武侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f277064499f2?pwd=Gacw",
+    downloadUrl: "/books/1127_民国：东亚病夫？我武道成圣！1-479章.txt",
+    sourceUrl: "https://www.deqixs.org/1127/txt.html#dir",
+  },
+{
+    id: 1128,
+    slug: "白衣天子",
+    title: "白衣天子",
+    cover: book1128Cover,
+    author: "东有扶苏",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-370章",
+    latestChapter: "第370章 西进（终）",
+    excerpt: "睁开眼就是乱世，顾怀身边只有一个老仆，一个逃兵。 别人笑他班底寒酸，他却说，这就是我的“沛县元勋”。 溃兵、盐枭、门阀、义军… 一路尸山血海。 有人问：你凭什么争天下？ 顾怀指着身后那群誓死相随的兄弟，放声大笑： “就凭我的兄弟，个个都能封侯拜将！” 然后，从一无所有，到问鼎九州。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/96b8ac9a3779?pwd=31f6",
+    downloadUrl: "/books/1128_白衣天子1-370章.txt",
+    sourceUrl: "https://www.deqixs.org/1128/txt.html#dir",
+  },
+{
+    id: 1129,
+    slug: "舅舅开门-我又捡凶兽回来啦",
+    title: "舅舅开门！我又捡凶兽回来啦",
+    cover: book1129Cover,
+    author: "单双的单",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-323章",
+    latestChapter: "第323章 跳海是吧，走着",
+    excerpt: "惨了三年，差点夭折的可怜宝宝被一个意外闯入这个世界的系统捡到。 系统告诉她，她吃苦惨兮兮都是因为她不是这个家的亲生孩子。 于是，三岁的可爱宝宝在系统的指导下开始找亲人。 结果发现，妈妈去世了，爸爸出家当和尚，爷爷奶奶一家重男轻女，姑姑歹毒，回去就得被虐待死。 所以最后，三岁宝宝找到了外公家。 外公家里还有五个舅舅，一屋子大男人都围着她转圈圈。 等秦妍认祖归宗后，像是猛兽圈子里多了只毛茸茸小小一团的",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/43d23b4f8e0a?pwd=As2t",
+    downloadUrl: "/books/1129_舅舅开门！我又捡凶兽回来啦1-323章.txt",
+    sourceUrl: "https://www.deqixs.org/1129/txt.html#dir",
+  },
+{
+    id: 1130,
+    slug: "无敌九皇子-多子多福",
+    title: "无敌九皇子，多子多福",
+    cover: book1130Cover,
+    author: "金精玉液",
+    date: "2026-09-05",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-272章",
+    latestChapter: "第272章 -人选！",
+    excerpt: "萧嫣：我要退婚！你开条件吧！ 叶无尘：想退婚？没问题，我们到后院详谈。 几个时辰后，萧嫣含泪完成了叶无尘的条件，结果却得到了一个让她两眼一黑的消息 皇帝竟然下旨把婚约解除了！ 叶无尘重生成为武神皇朝的九皇子，既然没有修武天分，那便当个纨绔潇洒人生。 谁知，系统来了。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/81068018098a?pwd=3dPy",
+    downloadUrl: "/books/1130_无敌九皇子，多子多福1-272章.txt",
+    sourceUrl: "https://www.deqixs.org/1130/txt.html#dir",
+  },
+{
+    id: 1131,
+    slug: "四合院-悟性逆天-我的空间吞天地",
+    title: "四合院：悟性逆天，我的空间吞天地！",
+    cover: book1131Cover,
+    author: "小醋包",
+    date: "2026-09-03",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-681章",
+    latestChapter: "第681章 再也不走了！",
+    excerpt: "穿越《情满四合院》世界的四九城，杨锐成为一名普通职工。 本想相安无事的过日子，谁知开局众禽就要逼迫自己提棒梗顶包？ 不好意思，这锅，老子不背！ 悟性逆天系统绑定！ 超凡悟性，解锁专属空间！ 一年后，杨锐这才觉得，拥有一个小世界的感觉，简直太爽了！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e72f0285f5fe?pwd=FgSz",
+    downloadUrl: "/books/1131_四合院：悟性逆天，我的空间吞天地！1-681章.txt",
+    sourceUrl: "https://www.deqixs.org/1131/txt.html#dir",
+  },
+{
+    id: 1132,
+    slug: "官场奇才",
+    title: "官场奇才",
+    cover: book1132Cover,
+    author: "风和暖阳",
+    date: "2026-08-29",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-3644章",
+    latestChapter: "第3557章 赵启明的意外发现",
+    excerpt: "奇谋算尽官场事，正气浩然天地魂。红颜知己身边伴，悲欢离合生死梦。且看一代官场奇才陆羽，从一个县长秘书到封疆大吏的跌宕起伏官场人生。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b140714568b4?pwd=Q8gz",
+    downloadUrl: "/books/1132_官场奇才1-3644章.txt",
+    sourceUrl: "https://www.deqixs.org/1132/txt.html#dir",
+  },
+{
+    id: 1133,
+    slug: "749局秘闻档案",
+    title: "749局秘闻档案",
+    cover: book1133Cover,
+    author: "南笙",
+    date: "2026-09-05",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-694章",
+    latestChapter: "第694章 没的谈",
+    excerpt: "村民说我出生时，红棺入村，棺上蛇狐缠绕，本不信的我，在爷爷失踪后遇到了一批神秘之人，他们带我进入了不一样的世界……",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/900dcc5fa35d?pwd=Pc4a",
+    downloadUrl: "/books/1133_749局秘闻档案1-694章.txt",
+    sourceUrl: "https://www.deqixs.org/1133/txt.html#dir",
+  },
+{
+    id: 1134,
+    slug: "系统劈腿-判给我半个系统",
+    title: "系统劈腿，判给我半个系统",
+    cover: book1134Cover,
+    author: "小小怪",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-429章",
+    latestChapter: "第429章 算计",
+    excerpt: "曾经。 有我这么一位优秀的宿主摆在系统面前，它没有珍惜，反而选择脚踏两条船。 等到我靠着单干成长为一方巨擘后，统子才悔不当初。 系统界最痛苦的事，莫过于此。 如果给统子再来一次的机会。 我想。 它会停下脚步，回首等我。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d0f5a2c4d0d0?pwd=sD3f",
+    downloadUrl: "/books/1134_系统劈腿，判给我半个系统1-429章.txt",
+    sourceUrl: "https://www.deqixs.org/1134/txt.html#dir",
+  },
+{
+    id: 1135,
+    slug: "全民-夭寿-法爷我怎么只会禁咒",
+    title: "全民：夭寿！法爷我怎么只会禁咒",
+    cover: book1135Cover,
+    author: "黑网吧老板1",
+    date: "2026-09-06",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-396章",
+    latestChapter: "第396章 还是保持在晚上12点更新，第二章更新的时间准备在白天中午更新，告知一声。*  ..",
+    excerpt: "游戏降临现实，不仅有大量的怪物横行，野外还有大量的副本、秘境存在。 蓝星进入全民转职时代，可以通过努力杀怪升级，不断转职变强！ 转职当天，楚云成为了一名高贵的法爷，还没来得及高兴，看着技能面板他就懵逼了。 啥玩意儿？ 火系禁咒天焰葬礼、水系禁咒海神之怒、雷系禁咒灭世雷劫…… 说好的火球术，风刃、水弹术呢？ 夭寿了！法爷我怎么只会禁咒？ 然而，随着楚云等级不断提高，不断转职，他发现事情好像还没那么简",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/76c563655464?pwd=ckHw",
+    downloadUrl: "/books/1135_全民：夭寿！法爷我怎么只会禁咒1-396章.txt",
+    sourceUrl: "https://www.deqixs.org/1135/txt.html#dir",
+  },
+{
+    id: 1136,
+    slug: "明末-我崇祯-再造大明",
+    title: "明末：我崇祯，再造大明",
+    cover: book1136Cover,
+    author: "廉颇老矣",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-682章",
+    latestChapter: "第682章 拿下泗水",
+    excerpt: "【无系统】 好消息： 我朱友俭穿越了，穿成了大明崇祯帝朱由检。 坏消息：今天是；崇祯十七年正月初十，距离我吊死煤山还有两个多月。 此时的大明，千疮百孔，大厦将倾！ 北有建奴，西有贼寇，天灾不断，人祸连连！ 身为历史研究生的朱友俭，收起大学生单纯之心，握住天子之剑。 斩内斗之臣，斩贪腐之蛆，斩叛国之勋贵，造百姓之温饱，再立盛世大明！！！！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/fcf02340c50c?pwd=Hxx3",
+    downloadUrl: "/books/1136_明末：我崇祯，再造大明1-682章.txt",
+    sourceUrl: "https://www.deqixs.org/1136/txt.html#dir",
+  },
+{
+    id: 1137,
+    slug: "重生归来-从征服御姐老师开始",
+    title: "重生归来：从征服御姐老师开始！",
+    cover: book1137Cover,
+    author: "长夜将临",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-831章",
+    latestChapter: "第831章 顾氏集团",
+    excerpt: "孙琛睁开眼，就和英语老师滚到了床上。 前世女老师意外身亡，他因强奸未遂、失手杀人入狱。 母亲心梗而亡，父亲找到证据的第二天跳楼自杀。 孙琛得知自己癌症晚期，决定结束生命…… 再睁眼却重生到了高考后第二天，改变他一生的时间节点。 看着眼前香艳的美女，想到她一会儿就变成死尸，孙琛做出了和前世完全不同的决定。 拯救女老师，戳穿绿茶婊，痛打人渣小弟。 力挽狂澜救全家于水火，还成了建筑业最大暴发户。 敢挡老",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/4a9cc8c86b39?pwd=9t7A",
+    downloadUrl: "/books/1137_重生归来：从征服御姐老师开始！1-831章.txt",
+    sourceUrl: "https://www.deqixs.org/1137/txt.html#dir",
+  },
+{
+    id: 1138,
+    slug: "齐天",
+    title: "齐天",
+    cover: book1138Cover,
+    author: "日落红尘",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-997章",
+    latestChapter: "第997章 五龙登天！打破尘封记录！！",
+    excerpt: "天大地大，祖宗最大！ 齐麟家宗祠内，供奉着十尊古老的先祖灵牌，世人不知其名，亦不晓其往事。 直到某日一大族碾灭祠堂，将齐麟脊骨踩得咯吱作响：“齐天氏，世间一坨粪罢了。” 霎时，诸天崩塌、神魔悲戚！ 太古混沌亿万生灵，纷纷回忆起被‘齐天帝族’支配的恐惧……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b057e0bde3d3?pwd=VC5w",
+    downloadUrl: "/books/1138_齐天1-997章.txt",
+    sourceUrl: "https://www.deqixs.org/1138/txt.html#dir",
+  },
+{
+    id: 1139,
+    slug: "末日洪水-我的房屋无限升级",
+    title: "末日洪水：我的房屋无限升级",
+    cover: book1139Cover,
+    author: "一三得七",
+    date: "2026-09-05",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-373章",
+    latestChapter: "第373章 拜见，程奕的熟人",
+    excerpt: "冰川融化，病毒肆虐，一场突如其来的暴雨卷席了整个蓝星。 而海平面的持续上升，更是让沿海城市尽数淹没。 可谁也不知道，这场大洪水，只是灾难的序幕。 在海中伺机而动的怪物，到处肆虐的丧尸异兽，各种危险，无处不在。 但好在，白夜获得游戏面板，不光一切数据化，他还能消耗材料，升级强化一切，搭建出独属于自己的绝对安全区域。 在别人都生活在对怪物的恐惧和阴影中，不知死亡与明天，谁先到来。 白夜只想在安全屋苟到",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a2adedd4d5dc?pwd=Sg8W",
+    downloadUrl: "/books/1139_末日洪水：我的房屋无限升级1-373章.txt",
+    sourceUrl: "https://www.deqixs.org/1139/txt.html#dir",
+  },
+{
+    id: 1140,
+    slug: "魔门玩家-不讲道义",
+    title: "魔门玩家，不讲道义",
+    cover: book1140Cover,
+    author: "不锈钢馒头",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-732章",
+    latestChapter: "第730章 顷刻炼化？顷刻炼化！",
+    excerpt: "“师兄，咱们度厄宗......真的是正经宗门吗？” “那当然，师弟快些在这‘弟子名录’上登记吧。”青衣人指着一面阴气森森的黑幡，如是说道。 ...... 一朝穿越，楚墨成了一名度厄魔门的“预备杂兵”。 本以为推开的将是得道长生、御剑逍遥的求道之门， 却没料到，此界修仙，不太一样。 界海征伐、位面掠夺、万域归一，仙舟横渡虚空、巨炮轰击异界。 修仙者搜寻无尽世界，发动跨界战争，散播道统，侵染位面...",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c0b874f1b508?pwd=z98C",
+    downloadUrl: "/books/1140_魔门玩家，不讲道义1-732章.txt",
+    sourceUrl: "https://www.deqixs.org/1140/txt.html#dir",
+  },
+{
+    id: 1141,
+    slug: "基地求生-我的寄居蟹无限叠词条",
+    title: "基地求生：我的寄居蟹无限叠词条",
+    cover: book1141Cover,
+    author: "榴莲食客",
+    date: "2026-09-05",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-196章",
+    latestChapter: "第195章 上青帮震怒",
+    excerpt: "【全民求生】+【移动基地】+【末日】+【词条】+【克苏鲁】+【爆爽】 全民穿越移动基地求生游戏。 别人开局房车、别墅、坦克、末日堡垒，林易开局一只寄居蟹？ 诡异降临、迷雾穿越，玩家绝命求生！ 什么？万界异族也要凑热闹？ 林易：不好意思，我觉醒的天赋是【神级词条】！ 天赋自带装备栏，只要将物品放进装备栏，就能获得特殊的【词条】加成。 装备【面包】：获得词条【无限能源】，体力无限，力量提升十倍，速度提",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/52efb08033b0?pwd=XBTs",
+    downloadUrl: "/books/1141_基地求生：我的寄居蟹无限叠词条1-196章.txt",
+    sourceUrl: "https://www.deqixs.org/1141/txt.html#dir",
+  },
+{
+    id: 1142,
+    slug: "劫天运",
+    title: "劫天运",
+    cover: book1142Cover,
+    author: "浮梦流年",
+    date: "2026-09-06",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-9530章",
+    latestChapter: "第9530章 ：登阶",
+    excerpt: "我从出生前就给人算计了，五阴俱全，天生招厉鬼，懂行的先生说我活不过七岁。外婆为了救我，给我娶了童养媳，让我过起了安生日子，虽然后来我发现媳妇姐姐不是人…… 从小苟延馋喘的我能活到现在，本已习惯逆来顺受，可唯独外婆被人害死了这件事。 为此，我不顾因果报应，继承了外婆养鬼的职业，发誓要把害死她的人全都送下地狱。",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/98329a8addd2?pwd=g11j",
+    downloadUrl: "/books/1142_劫天运1-9530章.txt",
+    sourceUrl: "https://www.deqixs.org/1142/txt.html#dir",
+  },
+{
+    id: 1143,
+    slug: "下班-然后变成魔法少女",
+    title: "下班，然后变成魔法少女",
+    cover: book1143Cover,
+    author: "弧盐",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-426章",
+    latestChapter: "第282章 琥珀",
+    excerpt: "林昀，36岁，妻子早逝，职业为民企中层，是一名单亲爸爸，近来觉得自己遭遇了中年危机。 事业上遭遇不顺，家庭上和14岁的女儿陷入冷战，身体上患肩周炎症，每日苦不堪言。 就在这几天，他还发现了一个秘密——女儿在当魔法少女。 以豆蔻之身，对抗非凡的怪物，保护城市免受袭击的英雄。这是普通群众对于魔法少女的认知。 但是他很清楚，成为魔法少女，是有生命危险的。 要阻止她吗？还是尊重女儿的选择，用其他的方式保护",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/da0b3e98a529?pwd=6kNE",
+    downloadUrl: "/books/1143_下班，然后变成魔法少女1-426章.txt",
+    sourceUrl: "https://www.deqixs.org/1143/txt.html#dir",
+  },
+{
+    id: 1144,
+    slug: "朕真的不务正业",
+    title: "朕真的不务正业",
+    cover: book1144Cover,
+    author: "吾谁与归",
+    date: "2026-09-07",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1389章",
+    latestChapter: "第1387章 龙驭上宾，庙号圣祖",
+    excerpt: "万历元年正月十九，万历皇帝朱翊钧，打量着面前的铁三角。 第一位盟友面相颇为和善，她是大明的太后。 第二位盟友只是个太监，他的职责是磕头。 第三位盟友就是个权臣，他看起来霸气外漏。 最后所有人目光移向朕，问朕扮演的角色是什么： 朕看看身份说，朕是： 不务正业大皇帝 本书又名：《朕有亿点点小爱好》、《皇恩碎地拳》、《让大明再次伟大》……",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/581074f68072?pwd=1VzZ",
+    downloadUrl: "/books/1144_朕真的不务正业1-1389章.txt",
+    sourceUrl: "https://www.deqixs.org/1144/txt.html#dir",
+  },
+{
+    id: 1145,
+    slug: "天理协议",
+    title: "天理协议",
+    cover: book1145Cover,
+    author: "海棠灯",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-526章",
+    latestChapter: "第516章 你会陪我殉情么？（第一更）",
+    excerpt: "21世纪初期，名为天理的神话生物纷纷复苏，人类中的长生种从幕后走出，拉开了新时代的序幕。没有人知道这一切的成因，直到若干年后有人捡到了一本老旧的日记…… 4月6日，我确认了我患有很严重的近视眼。这并不是普通的近视，而是我根本无法识别神话生物和普通人类的特征，两个种族在我眼里都是一个样子！ 6月14日，新闻上报道了一批恐怖的生物在我的店门口徘徊游荡。我的天呐，我一直以为祂们只是普通的人类，我们还在店",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/17d4dcb875d8?pwd=bR5F",
+    downloadUrl: "/books/1145_天理协议1-526章.txt",
+    sourceUrl: "https://www.deqixs.org/1145/txt.html#dir",
+  },
+{
+    id: 1146,
+    slug: "刚成僵尸-捡个校花天师当老婆",
+    title: "刚成僵尸，捡个校花天师当老婆！",
+    cover: book1146Cover,
+    author: "拿月踏天",
+    date: "2026-08-21",
+    category: "悬疑",
+    status: "已完结",
+    chapters: "1-272章",
+    latestChapter: "第272章 昆墟秘境，短暂的离别！",
+    excerpt: "家人惨死、身患绝症，绝望之际，秦天翻出祖传太阴炼僵法，将自己炼成了一只僵尸。 还是僵尸之中的极品——身怀盘古血脉的盘古尸。 会武功，能施法，免疫一切符纸和法器。 吃符升级，吃鬼升级，就连吃法器都能升级。 上清天心符、九天应元雷祖符、四方鬼寇、八方鬼王，鸡肉味，嘎嘣脆！ 昔日温柔恬静的校花，竟是道门天师，撞见他后，拔剑追杀。 却在认出他时，泪流满面：就算你变成僵尸，这辈子，我一样非你不嫁，如果你敢拒",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e44197daed85?pwd=d42L",
+    downloadUrl: "/books/1146_刚成僵尸，捡个校花天师当老婆！1-272章.txt",
+    sourceUrl: "https://www.deqixs.org/1146/txt.html#dir",
+  },
+{
+    id: 1147,
+    slug: "都市古仙医2-大医镇世",
+    title: "都市古仙医2：大医镇世",
+    cover: book1147Cover,
+    author: "超爽黑啤",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1255章",
+    latestChapter: "第1255章 龙一出场",
+    excerpt: "叶楚风曾眼巴巴望着富二代、官二代风光无限，做梦都没想到自己竟是隐藏的 仙二代！有横扫八方的超强老爹、风华绝代的绝美老妈，还有一群宠他上天的哥哥姐姐、姨妈长辈，更继承了神秘莫测的古医门传承！ 从此，他脚踏仙途，手握医道，一路逆袭打脸，走上人生巅峰！ 即便没看过前作《都市古仙医》，这本书也能让你爽到飞起；若搭配前作一起看，更是 双倍爽感 直接拉满！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/3142cbf331b5?pwd=sqgk",
+    downloadUrl: "/books/1147_都市古仙医2：大医镇世1-1255章.txt",
+    sourceUrl: "https://www.deqixs.org/1147/txt.html#dir",
+  },
+{
+    id: 1148,
+    slug: "混元书",
+    title: "混元书",
+    cover: book1148Cover,
+    author: "枫如江画",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1089章",
+    latestChapter: "第1089章 我爹要退位！",
+    excerpt: "毒妇老婆谋害亲夫，拒不履行夫妻义务？我反手将她做成炉鼎，一雪前仇！ 美女追杀者想置我于死地？我夺她圣品剑体，再造炉鼎！ 合欢宗美艳女宗主，想与我双修吸我纯阳之气？我直接吞噬她至尊水灵体！ 这就是我陈八荒，混元书一书在手，我是混元第一神！惹我？百倍奉还！ 三大绝色女帝，也得跪求做我鼎炉！ “八荒，别打了，我们答应便是！” 三位绝色女帝目光清澈，跪地臣服。 “走，双修去！老子要报当年之仇！” “轻点…",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b19ebc2a6749?pwd=bB1K",
+    downloadUrl: "/books/1148_混元书1-1089章.txt",
+    sourceUrl: "https://www.deqixs.org/1148/txt.html#dir",
+  },
+{
+    id: 1149,
+    slug: "从镇长开始问鼎青云",
+    title: "从镇长开始问鼎青云",
+    cover: book1149Cover,
+    author: "王公子",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-688章",
+    latestChapter: "第688章 情况超出意料",
+    excerpt: "福无双至，祸不单行！领导车祸身亡，身为秘书的罗志国被提拔为镇长，替人背黑锅，又遭到相恋多年女朋友因此抛弃！遭受双重打击的他，对未来心灰意冷，决定破罐子破摔，好好反击那些针对自己的人，不曾想，误打误撞，结识了市里领导，还受到新任领导重视，开启仕途新篇章，发展经济，为民谋福，从基础步步高升……",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/399c5f9ce971?pwd=39sW",
+    downloadUrl: "/books/1149_从镇长开始问鼎青云1-688章.txt",
+    sourceUrl: "https://www.deqixs.org/1149/txt.html#dir",
+  },
+{
+    id: 1150,
+    slug: "末世系统错投61-我带全村顿顿吃肉",
+    title: "末世系统错投61，我带全村顿顿吃肉",
+    cover: book1150Cover,
+    author: "盛宴6",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-403章",
+    latestChapter: "第403章 恐怖的饥荒开始了！",
+    excerpt: "带着末日求生系统穿越到61年，许正成了全村的英雄。 野猪群攻村？他单手拎铁背一战封神！ 大灾荒降临？他随手一指就是万亩高产田。 美丽知青因此爱他不可自拔。 许正：我真不是英雄，我只是想活的滋润点，谁知一不小心壮大整个华夏。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/63a710928480?pwd=eHWe",
+    downloadUrl: "/books/1150_末世系统错投61，我带全村顿顿吃肉1-403章.txt",
+    sourceUrl: "https://www.deqixs.org/1150/txt.html#dir",
+  },
+{
+    id: 1151,
+    slug: "嫌我辅助弱-奶怪刷属性-一人斩千军",
+    title: "嫌我辅助弱？奶怪刷属性，一人斩千军！",
+    cover: book1151Cover,
+    author: "大河的腰",
+    date: "2026-09-05",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-484章",
+    latestChapter: "第484章 奖励太多",
+    excerpt: "【变态奶霸】【暴爽升级】【治疗地狱使者，获得天赋——无尽炼狱】【治疗双翼冰龙，获得天赋——冰封万里】 【治疗魅精灵，获得天赋——魅惑圣体】...... 林野穿越到全民转职的世界，秘境副本开启，高考时却转职成了E级奶爸职业圣职者。 女友分手，同学讥讽，然而林野意外觉醒【奶霸】系统！只要给怪物治疗就能刷属性和天赋值。 深渊boss：他杀我，用的都是我的招啊！ 林野：我一个奶爸，一拳轰穿结界很合理吧？",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f380bb8f59f4?pwd=mbUJ",
+    downloadUrl: "/books/1151_嫌我辅助弱？奶怪刷属性，一人斩千军！1-484章.txt",
+    sourceUrl: "https://www.deqixs.org/1151/txt.html#dir",
+  },
+{
+    id: 1152,
+    slug: "斗罗-玉小刚之兄-举世无双",
+    title: "斗罗：玉小刚之兄，举世无双",
+    cover: book1152Cover,
+    author: "奶龙大帝",
+    date: "2026-08-31",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-185章",
+    latestChapter: "第183章 千寻疾正在化身密室斗罗",
+    excerpt: "一朝穿越斗罗大陆。 玉明霄穿越成了玉小刚的孪生兄长。 宗门上下将他与玉小刚视为蓝电双子星。 都认为两人会在将来带领蓝电霸王宗更上一层楼。 然而玉明霄却知道玉小刚会觉醒罗三炮，沦为宗门的耻辱与笑柄。 作为玉小刚的孪生兄弟，本源相近，他也有很高的概率觉醒罗三炮！ 他不甘心！ 重活一世，自当在大陆上翻云覆雨，怒啸九天！ 为了不泯然众人。 玉明霄能做的，只有沐浴龙血，日复一日锻炼自身，激活血脉潜力，让肉身",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/fa0e19dd4895?pwd=uxyL",
+    downloadUrl: "/books/1152_斗罗：玉小刚之兄，举世无双1-185章.txt",
+    sourceUrl: "https://www.deqixs.org/1152/txt.html#dir",
+  },
+{
+    id: 1153,
+    slug: "救命呀-我被邪神玩家控制了",
+    title: "救命呀！我被邪神玩家控制了！",
+    cover: book1153Cover,
+    author: "长虫的菩提",
+    date: "2026-09-06",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-466章",
+    latestChapter: "第376章 阶位提升",
+    excerpt: "我，薇薇安·薇尔莉特，从那天起我似乎被一名邪神盯上了！ 祂嘴里说着，排行榜，PVP，氪金，摸箱等等我听不懂的话，然后控制着我的身体做出了很多匪夷所思的事情。 祂赐予了我邪神的力量，让我获得了普通人梦寐以求的职业。 【和平公主】这是一个可以手搓一种叫做C4的特殊职业，据说这个C4能够让迷途者陷入婴儿般的睡眠。 可是等等....为什么C4是要丢出去的呀，不是应该是类似于八音盒放音乐吗？ 所以这C4是怎",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/48f3139f7197?pwd=AmM5",
+    downloadUrl: "/books/1153_救命呀！我被邪神玩家控制了！1-466章.txt",
+    sourceUrl: "https://www.deqixs.org/1153/txt.html#dir",
+  },
+{
+    id: 1154,
+    slug: "从俯卧撑开始肝经验",
+    title: "从俯卧撑开始肝经验",
+    cover: book1154Cover,
+    author: "海风有多久",
+    date: "2026-08-26",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-773章",
+    latestChapter: "第772章 齐人之福，还是情有独钟？",
+    excerpt: "因为你每天做100个俯卧撑，所以你解锁【麒麟臂】。 因为你每天做100个背桥，所以你顺利解放【鬼背】。 因为你每天做100个深蹲，所以你大腿肌肉强得可怕，原地弹射起飞。 因为你每天做100个引体向上，所以你能无视重力，徒手攀爬数百米的高楼。 ……………… 摩天大厦之巅，方诚用单指撑起整个身躯，汗珠如暴雨般砸落。 倒立中的他，望着面板上又一项满级技能，露出欣慰之色。 “终于可以合成神话天赋，阿修罗之",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/60015c43f7a9?pwd=uvL2",
+    downloadUrl: "/books/1154_从俯卧撑开始肝经验1-773章.txt",
+    sourceUrl: "https://www.deqixs.org/1154/txt.html#dir",
+  },
+{
+    id: 1155,
+    slug: "星辰之主",
+    title: "星辰之主",
+    cover: book1155Cover,
+    author: "减肥专家",
+    date: "2026-09-05",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-3292章",
+    latestChapter: "第1464章 狼来了（下）",
+    excerpt: "世纪之交，人类懵懂着踏入星空，就此暴露在诸神的视线之下。少年罗南背负着祖父的罪孽，走出实验室，且看他： 高举燃烧的笔记，脚踏诸神的尸骨； 书写万物的格式，增删宇宙的星图。 当知：万物皆备于我；必信：吾心即是宇宙。",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ff7356a5e187?pwd=2WHA",
+    downloadUrl: "/books/1155_星辰之主1-3292章.txt",
+    sourceUrl: "https://www.deqixs.org/1155/txt.html#dir",
+  },
+{
+    id: 1156,
+    slug: "连环作案99次-我含冤入狱不在场啊",
+    title: "连环作案99次？我含冤入狱不在场啊！",
+    cover: book1156Cover,
+    author: "故障机器人",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-286章",
+    latestChapter: "第286章 让他再跑一会儿",
+    excerpt: "【都市+系统+幕后+复仇+杀伐果断+严惩罪恶】 检察官顾言，年仅24身居高位，秉持中正，前途无量。 却在一夜之间锒铛入狱，被判无期。 只因首富与权贵勾结，垄断正义，害得普通人无处申冤，当庭撞死。 顾言为替一条条亡魂报仇，开始搜集证据，却因此被恶意盯上。 父母惨死，他也身败名裂，被诬陷入狱！ 在无尽的绝望之中，顾言在狱中翻烂《刑法》1095遍，终于等来一把不用沾血的刀—— 【天网审判系统】！ 在这个",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9eac40e7c796?pwd=zz7a",
+    downloadUrl: "/books/1156_连环作案99次？我含冤入狱不在场啊！1-286章.txt",
+    sourceUrl: "https://www.deqixs.org/1156/txt.html#dir",
+  },
+{
+    id: 1157,
+    slug: "高武-从掠夺讨封术开始成神",
+    title: "高武：从掠夺讨封术开始成神",
+    cover: book1157Cover,
+    author: "星星的心心",
+    date: "2026-09-02",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-637章",
+    latestChapter: "第637章 袭击",
+    excerpt: "林文霄重生神魔世界，苟了十八年，却被同学一棍敲进荒山等死。夜犯忌讳，黄皮讨封！濒死之际——【遭讨封术攻击，已掠夺该技能】，他躬身笑问：“兄弟，你看我像天才还是像高手？“【讨封成功，天赋+1！】从此以后，这个世界多了一个让邪祟闻风丧胆的存在，黄皮子一族的本命天赋-讨封术、域外天魔神通－吞天魔功，甚至是儒家神通－出口成真，林文宵凭空掌握。 邪祟：别提他的名字，我怕犯忌讳！ 修炼天才：他用我家的门派秘法",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d9f5238c95cd?pwd=C2rL",
+    downloadUrl: "/books/1157_高武：从掠夺讨封术开始成神1-637章.txt",
+    sourceUrl: "https://www.deqixs.org/1157/txt.html#dir",
+  },
+{
+    id: 1158,
+    slug: "世子凶猛-这个小娘子-我抢定了",
+    title: "世子凶猛：这个小娘子，我抢定了",
+    cover: book1158Cover,
+    author: "月下果子酒",
+    date: "2026-08-21",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1071章",
+    latestChapter: "第1071章 盯紧他",
+    excerpt: "一朝睁眼，人在大燕。 杨束对自己的身份很满意，定国王府的独苗苗，虽然皇帝猜疑，各家排斥，不过问题不大，他会造反。 做纨绔就要有纨绔的样子，第一件事，劈砍老丈人…… 第二件事，砸赌坊…… 第三嘛，抢个小娘子进府…… 杨束疯的彻底，建安的公子哥们也疯了，疯狂求饶：哥，你是我大哥，求你了，换个人祸害吧！我脸糙，伤手！！！ 杨老爷子落气的那刻，建安所有势力涌了过来，誓要让定国王府断子绝孙，他们凶相毕露。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7846fae58ea1?pwd=sRmv",
+    downloadUrl: "/books/1158_世子凶猛：这个小娘子，我抢定了1-1071章.txt",
+    sourceUrl: "https://www.deqixs.org/1158/txt.html#dir",
+  },
+{
+    id: 1159,
+    slug: "镜子通80-我靠时空倒卖走上巅峰!",
+    title: "镜子通80，我靠时空倒卖走上巅峰!",
+    cover: book1159Cover,
+    author: "织一场梦",
+    date: "2026-08-30",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-461章",
+    latestChapter: "第461章 和麦麦竞争",
+    excerpt: "【年代+穿越+倒爷+日常】 回到乡下修养的韩颂，意外发现自家的镜子连通着1982年的时空。 镜子后，是82年正值壮年的爷爷奶奶，是还没有结婚整天游手好闲的父亲。 两个世界有着数不清的资源。 利用四十年的时间差，韩颂走上了倒买倒卖的路子。 人参，鹿茸，古董…… 在82年并不值钱的东西在25年卖出天价。 手机，芯片，雷达…… 来自未来的科技帮助国家打破西方的封锁。 从一名倒爷成为国家的座上宾。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/deacc7e33f86?pwd=ktxa",
+    downloadUrl: "/books/1159_镜子通80，我靠时空倒卖走上巅峰!1-461章.txt",
+    sourceUrl: "https://www.deqixs.org/1159/txt.html#dir",
+  },
+{
+    id: 1160,
+    slug: "卧虎",
+    title: "卧虎",
+    cover: book1160Cover,
+    author: "寻飞",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-706章",
+    latestChapter: "第706章 屠彪行动",
+    excerpt: "藏龙潜渊吞万象，卧虎踞岭镇千疆！ 小时候邻家有个怪姐姐，总是让我帮她擦身上。 稍大点她又教我怎么当一个真男人！ 二十年刀光剑影，十八载岁月更迭。 黑色的龙座或许更替，但真正的王者，只属于敢于恶魔共舞的狂徒！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a8cc62a0f13b?pwd=fMDD",
+    downloadUrl: "/books/1160_卧虎1-706章.txt",
+    sourceUrl: "https://www.deqixs.org/1160/txt.html#dir",
+  },
+{
+    id: 1161,
+    slug: "华娱-我能掠夺劣迹艺人气运",
+    title: "华娱：我能掠夺劣迹艺人气运",
+    cover: book1161Cover,
+    author: "夏天到了",
+    date: "2026-08-31",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-540章",
+    latestChapter: "第540章 眺望，未来",
+    excerpt: "李炀穿越蓝星成为临时演员，无意间激活【善恶】系统。 【行善获缘，惩恶除奸，开启梦幻人生】 闻章剧组耍大牌？ 让你当众磕头，掠夺气运，获得技能‘毒舌暖男’ 在《失恋33天》中扮男主王一杨，表面腹黑，实则暖心，‘贱’得恰到好处。 演技征服滕桦陶，叫郭金飞赞不绝口，荣获‘最想嫁的男人’称号。 黄秋笙数典忘祖？ 罚你滚出华夏娱乐圈，掠夺气运，获得技能‘武道永昌’ 于《叶问：终极一战》中完美演绎，尽显宗师风",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9446276c1285?pwd=KtSe",
+    downloadUrl: "/books/1161_华娱：我能掠夺劣迹艺人气运1-540章.txt",
+    sourceUrl: "https://www.deqixs.org/1161/txt.html#dir",
+  },
+{
+    id: 1162,
+    slug: "我的女友来自未来",
+    title: "我的女友来自未来！",
+    cover: book1162Cover,
+    author: "骚茶",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-771章",
+    latestChapter: "第363章 现形记（三）",
+    excerpt: "九月的一天，一个从天而降的美少女出现在贺天然的生命中。 她说，她是重生者，她要改变男孩的未来。 蝴蝶扇翅，心头风起。 于是乎，一场场不知是相遇，还是重逢的故事开始上演。 又名《现充竟是我自己》、《这不是我想要的恋爱》",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/870f032bac45?pwd=h8KD",
+    downloadUrl: "/books/1162_我的女友来自未来！1-771章.txt",
+    sourceUrl: "https://www.deqixs.org/1162/txt.html#dir",
+  },
+{
+    id: 1163,
+    slug: "灵气复苏-亿万倍天赋",
+    title: "灵气复苏：亿万倍天赋",
+    cover: book1163Cover,
+    author: "天堂山上1",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1430章",
+    latestChapter: "第1430章 ：主宰一方战区",
+    excerpt: "江源穿越灵气复苏世界，抵御凶兽，奈何天赋太差，没有丝毫建树。 可没想到九十岁的时候，激活亿万倍天赋。 世界级功法：一呼吸、两呼吸、大圆满 恒星级功法：一杯茶、两杯茶、大圆满 宇宙级功法：一个小时、两个小时、大圆满 超脱级功法：一天、两天、大圆满",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/42116a0ed6dd?pwd=z4Vf",
+    downloadUrl: "/books/1163_灵气复苏：亿万倍天赋1-1430章.txt",
+    sourceUrl: "https://www.deqixs.org/1163/txt.html#dir",
+  },
+{
+    id: 1164,
+    slug: "权力巅峰从纪委开始",
+    title: "权力巅峰从纪委开始",
+    cover: book1164Cover,
+    author: "楚乔",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-2446章",
+    latestChapter: "第2446章 问责会上人人要过关",
+    excerpt: "市委书记退居二线，身为全省最年轻的大秘，秦云东竟放弃美好前途，投身一滩浑水的县纪委。 提前报道 秘密暗访 竟无意投入自身计划之中。 秦云东在这波涛暗涌之下 一步步逆流而上……",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ebd911ac0f75?pwd=kMhy",
+    downloadUrl: "/books/1164_权力巅峰从纪委开始1-2446章.txt",
+    sourceUrl: "https://www.deqixs.org/1164/txt.html#dir",
+  },
+{
+    id: 1165,
+    slug: "八零-都重生了-谁还混社会啊",
+    title: "八零：都重生了，谁还混社会啊！",
+    cover: book1165Cover,
+    author: "九伐",
+    date: "2026-08-25",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-545章",
+    latestChapter: "第545章 大结局",
+    excerpt: "一代地下皇帝，被兄弟背刺，重生回到1987。 面对曾经的父母、女人、兄弟！ 是重入黑道登顶地下皇帝？还是弃暗投明，带兄弟们发财上岸？ 萧飞果断选择了后者！ 都重生了，谁还混社会啊？ 一鲸落，万物生。 正值苏联这个庞然大物分崩离析前夕，萧飞笑了，这种百年难遇的机会，要是不趁机拉一把岂不可惜？ 当倒爷、开银行！ 萧飞要让老毛子们见识一下，什么叫‘资本家’的刀血淋淋！ 穿西装、打领带！ 萧飞：“黑城不许",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/030e248e0dc4?pwd=U2FB",
+    downloadUrl: "/books/1165_八零：都重生了，谁还混社会啊！1-545章.txt",
+    sourceUrl: "https://www.deqixs.org/1165/txt.html#dir",
+  },
+{
+    id: 1166,
+    slug: "高武-抢我名额-我反手抽出神话级功法",
+    title: "高武：抢我名额？我反手抽出神话级功法！",
+    cover: book1166Cover,
+    author: "羊布斯",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-320章",
+    latestChapter: "第320章 暴露",
+    excerpt: "【抢夺名额、高武世界、神话功法、肉身成圣、杀伐果断】 邪神复苏，异兽肆虐，这是一个武道为尊的高武时代。 苏铭穿越而来，成为身患血毒绝症的短命鬼，就连国家给予烈士子女的‘特殊资源豁免名额’也被一中校长上门夺走。 绝境之中，金手指终于觉醒。 【叮！检测到命主正经历人生重大转折，气运抽奖系统绑定成功！】 只要击败或击杀异兽与武者，即可掠夺气运值。消耗气运值，不仅能抽奖，还能改写命数、强化天赋。 【消耗1",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/eb26f2760e06?pwd=r66c",
+    downloadUrl: "/books/1166_高武：抢我名额？我反手抽出神话级功法！1-320章.txt",
+    sourceUrl: "https://www.deqixs.org/1166/txt.html#dir",
+  },
+{
+    id: 1167,
+    slug: "功法成精-把校花的武技拐回家",
+    title: "功法成精，把校花的武技拐回家？",
+    cover: book1167Cover,
+    author: "小小小小落叶",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-262章",
+    latestChapter: "第260章 惜败？没关系，还有主人在呢",
+    excerpt: "前世卷生卷死、卷到猝死的楚风，竟胎穿为高武世界的武王独生子！坐拥万亿家产！ “前世卷了一辈子，这一世终于轮到我享受了！” “练武？练个屁！我要摆烂！我要找八十一个宗师级的绝色女仆伺候我！” 整整十八年，楚风没有练过一天武，甚至没去过一天学校，骄奢淫逸，爽的翻天覆地，成了全城皆知的败家二世祖！ 本以为自己会这样摆烂一辈子，永远做一个没实力却爽的一批的富二代。 结果在觉醒天赋那天，楚风觉醒了SSS级的",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c49c9d9d0f88?pwd=YWMy",
+    downloadUrl: "/books/1167_功法成精，把校花的武技拐回家？1-262章.txt",
+    sourceUrl: "https://www.deqixs.org/1167/txt.html#dir",
+  },
+{
+    id: 1168,
+    slug: "天上白玉京",
+    title: "天上白玉京",
+    cover: book1168Cover,
+    author: "莫问江湖",
+    date: "2026-09-06",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-971章",
+    latestChapter: "第94章 汹汹",
+    excerpt: "仙人陆续离去，天路近乎断绝，域外天魔在末法来临之前大举侵蚀人间。 有人希望域外天魔降临到人间，毁灭包括自己在内的一切，如此才能洗尽世人之罪。 也有人希望在这个末法时代从域外天魔身上窥得长生成仙之法，赶上天路彻底断绝之前的最后一班船。 不过更多人还是投身抵抗域外天魔的入侵，愿挽天倾，最终促成了天上白玉京计划。 天欲堕，赖以拄其间。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/941ddc3501df?pwd=QNuP",
+    downloadUrl: "/books/1168_天上白玉京1-971章.txt",
+    sourceUrl: "https://www.deqixs.org/1168/txt.html#dir",
+  },
+{
+    id: 1169,
+    slug: "荒野生存365天",
+    title: "荒野生存365天",
+    cover: book1169Cover,
+    author: "大白妖",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1434章",
+    latestChapter: "第1434章 ：折服。",
+    excerpt: "楚枫重生来到平行世界，参加一档前世没出现过的节目：荒野生存365天。 一号组：好难啊，我们已经饿了四天了。 楚枫组：唉~~每天食物都吃不完，放太久就臭了。 二号组：好冷啊！我们的庇护所到处都是漏水漏风。 楚枫组：有空就建木屋好了，又安全又舒适。 别人还在苦苦挣扎的时候，楚枫已经开始满足于精神需求了，做一做雕刻，烧个陶艺，研究一下野外套餐……",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f1f137e99eb0?pwd=pqM4",
+    downloadUrl: "/books/1169_荒野生存365天1-1434章.txt",
+    sourceUrl: "https://www.deqixs.org/1169/txt.html#dir",
+  },
+{
+    id: 1170,
+    slug: "综影视之好好活着",
+    title: "综影视之好好活着",
+    cover: book1170Cover,
+    author: "南燕往北飞",
+    date: "2026-09-06",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-3009章",
+    latestChapter: "第2930章 烛九阴（19）",
+    excerpt: "一次意外，常欢喜没有想过会进入其他的世界，从此过上了努力逆天改命的生活。 面对不是人的开局，她坚定的认为，即使系统再狗，也不能够阻碍她奋力往前行。 自己一定能够活的好好的。 立意：坚信人即使在风雨中逆行，也会有雨后见彩虹的时候。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ffb6d11249a5?pwd=m7HH",
+    downloadUrl: "/books/1170_综影视之好好活着1-3009章.txt",
+    sourceUrl: "https://www.deqixs.org/1170/txt.html#dir",
+  },
+{
+    id: 1171,
+    slug: "大周第一赘婿",
+    title: "大周第一赘婿",
+    cover: book1171Cover,
+    author: "天选之主",
+    date: "2026-08-30",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-215章",
+    latestChapter: "第215章 莫要弄出人命",
+    excerpt: "【本年度最暴爽历史文，赘婿+大明王朝1566（架空版）+人民的名义（历史版）+亮剑（穿越版）+大宅门（商战版）】 现在站在你面前的是： 江宁赵家的赘婿，天下第一商号的东家，大周王朝的隐形主宰。 三代帝王的亲密战友，世家门阀的掘墓人，豪门权贵的财狼虎豹。 清流的领袖，奸党的首脑，番邦的车轮丈量师。 大周诗坛的遮羞布，八百余种典籍的编纂者，三千余项工艺的发明人，新式学堂与格物之学的奠基者。 海外世界的",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d8e6a2a28ec6?pwd=3AdP",
+    downloadUrl: "/books/1171_大周第一赘婿1-215章.txt",
+    sourceUrl: "https://www.deqixs.org/1171/txt.html#dir",
+  },
+{
+    id: 1172,
+    slug: "太上无情",
+    title: "太上无情",
+    cover: book1172Cover,
+    author: "风御九秋",
+    date: "2026-08-26",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-527章",
+    latestChapter: "第526章 一世感悟",
+    excerpt: "神族天生为神，自诩高人一等，暗中操控巫师裹挟皇权，奴役世人。 夏帝不愿受神族左右，为巫师谋害，夏帝无子，临终传位于胞弟夏沐，夏沐回朝奔丧，亦遭伏击，幼子夏玄被麾下将领舍命救出，流落民间，夏玄长大之后参悟道法，开创仙宗，与神族血战九州，逐鹿三界... 受人间疾苦窥悟仙道，参阴阳玄妙掌控天机......",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0694bdecfd8e?pwd=4Prv",
+    downloadUrl: "/books/1172_太上无情1-527章.txt",
+    sourceUrl: "https://www.deqixs.org/1172/txt.html#dir",
+  },
+{
+    id: 1173,
+    slug: "妙手回春",
+    title: "妙手回春",
+    cover: book1173Cover,
+    author: "铁沙",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-4372章",
+    latestChapter: "第4372章 当年风华",
+    excerpt: "从天武山上下山的神秘少年陈飞，进入滚滚红尘。一手神奇医术，妙手回春治百病；一身无敌武艺，回春妙手诛百恶。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/648074cf3a7d?pwd=TFtV",
+    downloadUrl: "/books/1173_妙手回春1-4372章.txt",
+    sourceUrl: "https://www.deqixs.org/1173/txt.html#dir",
+  },
+{
+    id: 1174,
+    slug: "灾年崽崽通两界-女配逃荒她种田",
+    title: "灾年崽崽通两界，女配逃荒她种田",
+    cover: book1174Cover,
+    author: "方禾",
+    date: "2026-08-21",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-167章",
+    latestChapter: "第167章 3333",
+    excerpt: "【萌宝+囤货＋通两界+经营村落】 小坡村遭遇水灾，养父母逃荒，留下大丫与婆婆相依为命。 大丫靠着娘亲留下的护身牌穿越两界。 从捡菜叶到山药换大米，从喝青菜汤到顿顿有肉。 带领小坡村从荒山荒地到遍地金色稻田，小坡村一步一步变成富裕山村。",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ec4c73e2f29b?pwd=UNPd",
+    downloadUrl: "/books/1174_灾年崽崽通两界，女配逃荒她种田1-167章.txt",
+    sourceUrl: "https://www.deqixs.org/1174/txt.html#dir",
+  },
+{
+    id: 1175,
+    slug: "陆总-太太说不当后妈也不要你了",
+    title: "陆总，太太说不当后妈也不要你了",
+    cover: book1175Cover,
+    author: "别来有恙",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-240章",
+    latestChapter: "第240章 不畏将来",
+    excerpt: "【顶级火葬场】+【觉醒逆袭大女主】+【虐爽打脸】+【后悔流+离婚流】 楚妍用五年时间明白一个道理： 在婚姻里卑微的那一个，是不配得到爱的。 暗恋陆衍舟多年，作为联姻工具她嫁给了他，当了五年后妈。 她将别人的孩子视如己出，最后却换来小姑娘一句： ”楚阿姨，我妈妈回来了。” 既然真心不能换真心，楚妍统统不要了。 撕掉“后妈”标签，告别五年相夫教女的日子。 她重披律师袍，专打豪门离婚案。 让出轨富豪跪着",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f0070e50075d?pwd=zu3W",
+    downloadUrl: "/books/1175_陆总，太太说不当后妈也不要你了1-240章.txt",
+    sourceUrl: "https://www.deqixs.org/1175/txt.html#dir",
+  },
+{
+    id: 1176,
+    slug: "郡主通两界-带满朝文武挖祖坟给朝廷换物资",
+    title: "郡主通两界：带满朝文武挖祖坟给朝廷换物资",
+    cover: book1176Cover,
+    author: "经年潋月",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-128章",
+    latestChapter: "第128章 还银子",
+    excerpt: "【穿梭两界+虐渣打脸+搞基建+爽文】 楚泱玥临死之际，渣夫带着冒充“小姑子”多年的所谓“发妻”上门逼她交出嫁妆和财产，四个白眼狼儿女反帮外人说话逼迫于她。 她含恨啐了渣夫一脸污血，本以为魂归西天，没想到却穿越到后世治好了病。 为回大擎，她直接找上后世官府，带上武器装备强势回归，虐渣夫教训儿女。 来回穿梭两界。 她将具有研究价值的东西带回现代。 又将现代的改良粮种，玻璃，肥皂，水泥，纺织……带回到大",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/94c77da66bc8?pwd=5d2W",
+    downloadUrl: "/books/1176_郡主通两界：带满朝文武挖祖坟给朝廷换物资1-128章.txt",
+    sourceUrl: "https://www.deqixs.org/1176/txt.html#dir",
+  },
+{
+    id: 1177,
+    slug: "八零清冷养女-京圈大佬追着宠",
+    title: "八零清冷养女，京圈大佬追着宠",
+    cover: book1177Cover,
+    author: "浪里小白蛇",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-62章",
+    latestChapter: "第62章 陆家的脸全都丢没了",
+    excerpt: "（1V1，学霸女主，先婚后爱） 陆轻微是陆家养女，亲女儿回来后，她的大学录取通知书被撕了。 “轻微，你占了宝珠的位置，就应该替她高考。” 一句话，毁掉了她的前程。 一起长大的竹马，用婚姻威胁她：”你什么时候认识到自己的错误，我才会和你结婚。“ 一年后，她以状元身份重新考入京北大学，却是已婚身份。 所有人都疯了……",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e7f5124770e3?pwd=qsJW",
+    downloadUrl: "/books/1177_八零清冷养女，京圈大佬追着宠1-62章.txt",
+    sourceUrl: "https://www.deqixs.org/1177/txt.html#dir",
+  },
+{
+    id: 1178,
+    slug: "综影视-我挖墙脚的那些年",
+    title: "综影视：我挖墙脚的那些年",
+    cover: book1178Cover,
+    author: "菜的没烦恼",
+    date: "2026-08-21",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-731章",
+    latestChapter: "第731章 100、516，都是在东北。",
+    excerpt: "只要锄头挥得好，哪有墙角挖不了～ 只要锄头挥得勤，墙角一定会挖倒～ 我栽的树只能我乘凉，倒了也得是我砍的～ 强扭的瓜不甜，但扭下来了我很开心～",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b7b878564405?pwd=SgRR",
+    downloadUrl: "/books/1178_综影视：我挖墙脚的那些年1-731章.txt",
+    sourceUrl: "https://www.deqixs.org/1178/txt.html#dir",
+  },
+{
+    id: 1179,
+    slug: "笑我嫁二婚大叔-可他是真宠啊",
+    title: "笑我嫁二婚大叔？可他是真宠啊",
+    cover: book1179Cover,
+    author: "六六大顺",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-317章",
+    latestChapter: "第317章 带着孩子去周家",
+    excerpt: "叶南知闪婚了。 身边的人都觉得她疯了，居然嫁给一个比她大十岁，二婚还带着一个八岁孩子的老男人。 叶南知觉得自己确实是疯了，她风华正茂，怎么会这么想不开。 可老男人有权有势，给她千万彩礼，别墅豪车。 而且他的孩子口口声声喊她妈妈，什么好东西都往她面前送，实在盛情难却啊。 …… 周羡安一直都知道叶南知很爱他，所以他有恃无恐，在外面有了别的女人。 哪怕他被叶南知分手，他也毫不在意，总觉得叶南知闹几天就回",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/2dbafb9c8a1a?pwd=jNG5",
+    downloadUrl: "/books/1179_笑我嫁二婚大叔？可他是真宠啊1-317章.txt",
+    sourceUrl: "https://www.deqixs.org/1179/txt.html#dir",
+  },
+{
+    id: 1180,
+    slug: "我-万界导游-带着蓝星飞升了",
+    title: "我，万界导游，带着蓝星飞升了！",
+    cover: book1180Cover,
+    author: "山水泡茶",
+    date: "2026-08-21",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-530章",
+    latestChapter: "第530章 万物的尽头都是考编",
+    excerpt: "【轻松幽默+沙雕+群像+带飞蓝星略有点上交流】 因左脚踏进公司的盛艾被炒鱿鱼。 当天激活’万界旅行社‘系统。 【亲，想去万界旅游吗？】 【想去西游体验大圣取经路，找大圣签名吗？】 【想去末日世界体验吗？】 【想去修仙世界修炼飞天遁地吗？】 【欢迎订购万界旅行社的旅行票，在这里，你梦想的都将成真！】 盛艾身为总导游，第一次任务要凑够十个人去西游之路。 于是盛艾毅然决然的给以前的同事发短信。 【亲亲，",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/19e3b6188bc9?pwd=n2A2",
+    downloadUrl: "/books/1180_我，万界导游，带着蓝星飞升了！1-530章.txt",
+    sourceUrl: "https://www.deqixs.org/1180/txt.html#dir",
+  },
+{
+    id: 1181,
+    slug: "重生-从面包车到军工大亨",
+    title: "重生，从面包车到军工大亨",
+    cover: book1181Cover,
+    author: "手剥橙子1",
+    date: "2026-08-25",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-500章",
+    latestChapter: "第500章 ，我卖军火，关你瑛国人屁事",
+    excerpt: "重生1990，张泽承包了一家生产面包车度日的落魄军工厂。 倒卖飞机，积累发家资本。 造摩托、造汽车、造坦克、造芯片…… 张泽不光要赚钱，还要强国。这是他站着赚钱的依仗！ 当江海电动汽车畅销五大洲； 当红星装甲车和mt坦克活跃在每一个热点地区； 当龙芯卡着各国芯片命脉； …… 世人皆知张泽是龙国首富。 很少有人知道， 张泽其实更喜欢别人称他为军工大亨！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/674b29eb3d2a?pwd=vNxV",
+    downloadUrl: "/books/1181_重生，从面包车到军工大亨1-500章.txt",
+    sourceUrl: "https://www.deqixs.org/1181/txt.html#dir",
+  },
+{
+    id: 1182,
+    slug: "万倍增幅-鸿蒙至高神-加入诸天万界群",
+    title: "万倍增幅：鸿蒙至高神，加入诸天万界群",
+    cover: book1182Cover,
+    author: "天榜少帅1",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-221章",
+    latestChapter: "第221章 焰灵姬的心思，拜月教主祭祀！",
+    excerpt: "唐云带着万倍增幅系统，穿越诸神并起的神祇世界，成了炎夏天庭的鸿蒙至高神，在这里，人人都可开辟属于自己的神域，培养属于自己的信徒。 偶然收到了诸天万界君羊的邀请。 终南古墓小龙女：欢迎新人！地位-1，雄霸：新来的自我介绍……老夫乃是天下会帮主雄霸。 最爱喝兽奶：欢迎新人，喝兽奶吗？秦始皇嬴政：欢迎.......... 唐云：吾乃鸿蒙至高神，招募信徒，信吾者，可强实力，获长生，证不朽，破命格，主宰天地",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0a0a852fbf44?pwd=qUwv",
+    downloadUrl: "/books/1182_万倍增幅：鸿蒙至高神，加入诸天万界群1-221章.txt",
+    sourceUrl: "https://www.deqixs.org/1182/txt.html#dir",
+  },
+{
+    id: 1183,
+    slug: "午夜梦魇",
+    title: "午夜梦魇",
+    cover: book1183Cover,
+    author: "年轻熊",
+    date: "2026-09-05",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-447章",
+    latestChapter: "第445章 背叛（八）",
+    excerpt: "【无限流，微恐，无cp】 王彦疲惫的打开了家门。 却看到屋里，女邻居正哄抱着一个婴儿，满脸惊恐地看着他。 ”不好意思，我走错门了。“ 他连忙道歉退出，随后死死关上了那扇门。 站在黑漆漆的楼道里。 一时之间，他有些难以分清，到底是看到了女邻居出现在自己家里比较恐怖，还是看到了早已去世的那个婴儿比较恐怖了……",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7a8820c7e6c0?pwd=yCaZ",
+    downloadUrl: "/books/1183_午夜梦魇1-447章.txt",
+    sourceUrl: "https://www.deqixs.org/1183/txt.html#dir",
+  },
+{
+    id: 1184,
+    slug: "六道异闻录",
+    title: "六道异闻录",
+    cover: book1184Cover,
+    author: "玄月先生",
+    date: "2026-09-05",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-356章",
+    latestChapter: "第356章 生死攸关",
+    excerpt: "提起妖，想必大家都不会陌生。自古以来，关于妖怪的传说可谓数不胜数。 记载妖怪的古文典籍更是浩如烟海，不胜枚举。 即便是现在，随便在大街上找一个七八岁的小孩子来，他都能给你说出几个家喻户晓的妖怪名字。 白蛇传中的蛇妖白素贞，封神榜中的狐妖苏妲己，倩女幽魂中的黑山老妖，喜欢看动漫的可能还会说出火影忍者中的九尾大蛇丸什么的。 可如果我认真地问你，这个世界上真的有妖怪吗？ 关于这个问题，你又会作何回答？",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/1a1ad5fcc838?pwd=6Sw3",
+    downloadUrl: "/books/1184_六道异闻录1-356章.txt",
+    sourceUrl: "https://www.deqixs.org/1184/txt.html#dir",
+  },
+{
+    id: 1185,
+    slug: "僵尸世界-傀儡天师",
+    title: "僵尸世界：傀儡天师",
+    cover: book1185Cover,
+    author: "幽幽鱼",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1203章",
+    latestChapter: "第1203章 教训",
+    excerpt: "秦衍穿越到林正英的僵尸世界，成为林正英年仅八岁的徒弟。 好在逆袭觉醒了逆天的神级傀儡系统。 铁甲傀儡：力大无穷，一拳碾碎僵尸。 战魂傀儡：可布下八卦战魂阵，击杀厉鬼比切菜还简单。 金甲傀儡：百米身高，一拳下去，天地崩碎，千年僵尸一拳化作灰烬！ 修罗傀儡：即使爆碎之后都能浴血重生。 当秦衍的实力越发强大之后一种种强大到极致的傀儡也是随机出现。 “叮……恭喜宿主解锁神话傀儡：盘古至尊！！” 秦衍看着系",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/91281f601f56?pwd=YxZd",
+    downloadUrl: "/books/1185_僵尸世界：傀儡天师1-1203章.txt",
+    sourceUrl: "https://www.deqixs.org/1185/txt.html#dir",
+  },
+{
+    id: 1186,
+    slug: "太古龙神",
+    title: "太古龙神",
+    cover: book1186Cover,
+    author: "月如火",
+    date: "2026-09-02",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-468章",
+    latestChapter: "第455章 少年之气长存（续）",
+    excerpt: "一杆长枪，一朵龙莲。 九百年后，诸君，且听这龙吟再起！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/92b68aa0155d?pwd=3yWQ",
+    downloadUrl: "/books/1186_太古龙神1-468章.txt",
+    sourceUrl: "https://www.deqixs.org/1186/txt.html#dir",
+  },
+{
+    id: 1187,
+    slug: "娱乐-收手吧-女明星被你签完了",
+    title: "娱乐：收手吧！女明星被你签完了",
+    cover: book1187Cover,
+    author: "愤怒的菠萝",
+    date: "2026-09-04",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-556章",
+    latestChapter: "第556章 签下邓子旗，系统奖励！",
+    excerpt: "陆轩穿越平行世界，成为杨老板男友兼总裁，觉醒明星经营系统。 开局签下杨超月，一夜爆红。 锦鲤在手，好运全有。 演员：赵丽影、刘天仙、张天艾、赵露丝、白露、陈督伶…… 歌手：邓子旗、张碧辰、张靓盈、郁珂维、甜心教主…… 杨老板麻了：以后嘉星改姓陆！ 国际章：臭弟弟，奔四的老阿姨收吗？ 天后王妃：乖侄子，姑姑想复出唱歌了！ …… 华艺兄弟：陆总，大半个娱乐圈都被你收入囊中，我家股票又跌停了，留条活路吧",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8dafe2b627d6?pwd=dDJg",
+    downloadUrl: "/books/1187_娱乐：收手吧！女明星被你签完了1-556章.txt",
+    sourceUrl: "https://www.deqixs.org/1187/txt.html#dir",
+  },
+{
+    id: 1188,
+    slug: "乱世荒年-开局李代桃僵白捡一个新娘子",
+    title: "乱世荒年：开局李代桃僵白捡一个新娘子",
+    cover: book1188Cover,
+    author: "痴恩陈",
+    date: "2026-09-05",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-454章",
+    latestChapter: "第454章 除非我成了一具尸体！",
+    excerpt: "程安穿越到一名镖师身上，奈何是个黑户，好在情报系统启动，根据情报提示，碰到劫匪和难民血拼，恰好其中有个死去的难民跟他长得一模一样，他直接李代桃僵，还白捡了一个新娘子。 山脚下有一窝饿昏的野兔，兔兔吃起来真可爱。 杉树林边有一头受伤的野猪，看我一刀劈开它脖颈！ 官道旁的老虎重病？我就是打虎英雄！ 在这路有冻死骨的乱世荒年，他凭借情报优势，稳步发展，让这陈家村成为了天下第一村。 第一天：娘子，该进屋了",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/fbc5e0d84aa8?pwd=rBR4",
+    downloadUrl: "/books/1188_乱世荒年：开局李代桃僵白捡一个新娘子1-454章.txt",
+    sourceUrl: "https://www.deqixs.org/1188/txt.html#dir",
+  },
+{
+    id: 1189,
+    slug: "重返72-开局强娶资本家大小姐",
+    title: "重返72！开局强娶资本家大小姐",
+    cover: book1189Cover,
+    author: "映月读书",
+    date: "2026-08-24",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-314章",
+    latestChapter: "第314章 告别过去",
+    excerpt: "姜子峰一觉醒来回到了心心念念的72年。 这一年，他铸下大错，心心念念的白月光因他跳河而亡，一尸两命。 站在人生的十字路口，姜子峰决意做出不同的人生抉择。 他开局强娶资本家大小姐，渔猎深山，暴富七零，更要让白月光李海棠过上梦寐以求的好日子。",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7835cd9ae5fd?pwd=dP13",
+    downloadUrl: "/books/1189_重返72！开局强娶资本家大小姐1-314章.txt",
+    sourceUrl: "https://www.deqixs.org/1189/txt.html#dir",
+  },
+{
+    id: 1190,
+    slug: "天命-从大业十二年开始",
+    title: "天命：从大业十二年开始",
+    cover: book1190Cover,
+    author: "赵子曰",
+    date: "2026-09-01",
+    category: "历史",
+    status: "已完结",
+    chapters: "1-984章",
+    latestChapter: "第330章 长安入目春渐浓",
+    excerpt: "隋末，李善道初为求活，投奔了在瓦岗落草的同乡徐世绩，后经奋斗，与李世民并为当时双雄，一决胜负。",
+    tags: [{ name: "历史", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0446585a091b?pwd=uMaB",
+    downloadUrl: "/books/1190_天命：从大业十二年开始1-984章.txt",
+    sourceUrl: "https://www.deqixs.org/1190/txt.html#dir",
+  },
+{
+    id: 1191,
+    slug: "氪金一元涨一点经验-我的御兽全是上古大凶",
+    title: "氪金一元涨一点经验，我的御兽全是上古大凶",
+    cover: book1191Cover,
+    author: "柠檬多加酸",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-188章",
+    latestChapter: "第188章 风格迥异四人组",
+    excerpt: "【御兽进化+无敌流+氪金系统+返祖神兽】 全民御兽时代，无尽异兽入侵蓝星，御兽师成为人类先锋。 方渡苦熬十八年，召唤出A级御兽蛋，却被本地财阀盯上。 “签了这份协议，给你两百万。” 面对威胁，方渡无奈拿起笔，就要落下之际： 【检测到宿主面临人生重大抉择，氪金御兽系统已激活】 【当前兑换比例：1元 = 1点经验值】 方渡果断放弃御兽蛋，化身加钱居士。 “可以给你，但是得加钱！” 回到家后，方渡当即开",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/1e93661ffab7?pwd=zxvG",
+    downloadUrl: "/books/1191_氪金一元涨一点经验，我的御兽全是上古大凶1-188章.txt",
+    sourceUrl: "https://www.deqixs.org/1191/txt.html#dir",
+  },
+{
+    id: 1192,
+    slug: "超时空神豪-开局交易光刻机",
+    title: "超时空神豪：开局交易光刻机",
+    cover: book1192Cover,
+    author: "24k金1",
+    date: "2026-08-21",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-800章",
+    latestChapter: "第800章 般配的一对",
+    excerpt: "沈浪做了个梦，梦见自己进了一个叫做超时空交易空间的地方，用一瓶水跟人换了一台光刻机。 一觉醒来发现真有一台光刻机！原来，这不是梦！ 于是，沈浪爽炸了： 一瓶矿泉水换一台2纳米工艺光刻机！ 一桶方便面换一台纳米装甲！ 五斤大米拿下全套可控核聚变反应堆发电机组！ 除此之外，还有宇宙飞船、量子计算机、反物质发动机…… 这么多技术和设备，自己消化不了怎么办？ 那就卖给国家！骨折价！ 什么？为啥这么便宜？",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/2d4fe1be8796?pwd=3pTf",
+    downloadUrl: "/books/1192_超时空神豪：开局交易光刻机1-800章.txt",
+    sourceUrl: "https://www.deqixs.org/1192/txt.html#dir",
+  },
+{
+    id: 1193,
+    slug: "综漫之最强训练家",
+    title: "综漫之最强训练家",
+    cover: book1193Cover,
+    author: "詆調の寳寳",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-5441章",
+    latestChapter: "第5441章 内心的焦虑",
+    excerpt: "穿越到神奇宝贝世界成为原主角的小智，将如何走出一条不可复制的强者之路，并最终成为最强的训练家，华丽的忍术，诡异的瞳力，强大的体术，是在这个世界留下自己的传说，还是和前世一样默默无闻呢·关东地区完结·火影疾风前传完结·成都地区完结·火影疾风传完结·芳缘地区开启···",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c07a57e5f0fa?pwd=ALgQ",
+    downloadUrl: "/books/1193_综漫之最强训练家1-5441章.txt",
+    sourceUrl: "https://www.deqixs.org/1193/txt.html#dir",
+  },
+{
+    id: 1194,
+    slug: "法师归来-速通地球",
+    title: "法师归来，速通地球！",
+    cover: book1194Cover,
+    author: "没想好吃啥",
+    date: "2026-09-13",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-137章",
+    latestChapter: "第49章 第一张入场券",
+    excerpt: "唯我独法+黑科技+巨企+不降智 三个月征服硅谷，三年插旗东南亚，三十年，人类舰队向着开普勒452B行星进发。 一切的一切，仅仅只是因为陈曦去了法师世界留学归来。",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/561ad46de32a?pwd=F2Z7",
+    downloadUrl: "/books/1194_法师归来，速通地球！1-137章.txt",
+    sourceUrl: "https://www.deqixs.org/1194/txt.html#dir",
+  },
+{
+    id: 1195,
+    slug: "从模拟人生开始为所欲为",
+    title: "从模拟人生开始为所欲为",
+    cover: book1195Cover,
+    author: "瓜不瓜",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-189章",
+    latestChapter: "第187章 ：后悔与新生",
+    excerpt: "【恭喜宿主绑定完美人生模拟器】 【本系统核心功能为通过不断模拟未来，帮助宿主找到最合适的选择，从而实现完美人生】 【剩余功能还请宿主自行探索】 …… 临近高考，却意外绑定人生模拟器。 陈池原本只是想找到最合适自己的未来路线，然后幸福平安地渡过一生，不过伴随着一次次模拟，他身上的词条却是越来越多。 【健身达人】：你的身体机能将得到大幅度提升。 【顶级学霸】：你有着堪称顶级的学习能力。 【花花公子】：",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c6498767e161?pwd=cJ17",
+    downloadUrl: "/books/1195_从模拟人生开始为所欲为1-189章.txt",
+    sourceUrl: "https://www.deqixs.org/1195/txt.html#dir",
+  },
+{
+    id: 1196,
+    slug: "我有一个修仙模拟器",
+    title: "我有一个修仙模拟器",
+    cover: book1196Cover,
+    author: "不是星期天",
+    date: "2026-09-10",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-260章",
+    latestChapter: "第259章 四位天君",
+    excerpt: "周青睁开眼，发现自己穿越到仙侠世界。 这里修仙者高高在上，寰宇独尊。 所幸周青能够对自己的未来进行无限模拟，每一次模拟后，都能带回全部修为、技艺、功法...... 第一次模拟后：周青待人友善，谨言慎行。 第三次模拟后：周青逐步试探，对万事充满好奇。 第五次模拟后：周青决定要好好修炼，提升实力。 第八次模拟后：周青发现所有人都在逼他。 第十次模拟后：周青打算掀翻这修仙界的天。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ad218cae47bd?pwd=r2ZZ",
+    downloadUrl: "/books/1196_我有一个修仙模拟器1-260章.txt",
+    sourceUrl: "https://www.deqixs.org/1196/txt.html#dir",
+  },
+{
+    id: 1197,
+    slug: "咸鱼重生",
+    title: "咸鱼重生",
+    cover: book1197Cover,
+    author: "宋不留春",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-384章",
+    latestChapter: "第361章 赚钱的意义",
+    excerpt: "三十岁的张骆重回十五岁。 他只希望能少一点遗憾。 父母的遗憾，暗恋的遗憾，成长的遗憾。 他其实所求挺小的。 可是，天不遂他愿啊。 这老天，非要追着赶着，把他喂成一个传奇。 - 首订1500➡均订6500 （2026.7）",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9b1a670a26d4?pwd=RLU5",
+    downloadUrl: "/books/1197_咸鱼重生1-384章.txt",
+    sourceUrl: "https://www.deqixs.org/1197/txt.html#dir",
+  },
+{
+    id: 1198,
+    slug: "我在中东造军火-被全球通缉",
+    title: "我在中东造军火，被全球通缉？",
+    cover: book1198Cover,
+    author: "我睡觉打呼噜",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-194章",
+    latestChapter: "第194章 ：哟，绝嗣了阿~",
+    excerpt: "我叫陈正，幸运获得了一款叫【怪兽工厂】的应用APP。 这帮力大无穷的怪兽，干起活来一个能顶一百个，还带各种技能。 效率？加工速度+600%技能一开，你跟我比效率？ 最重要的是，不用吃饭、不撒尿、不请假、嘿…还不用发工资！ 天生牛马圣体！24加班永动机。 原厂直销、AK系列不要999，也不要888.只要666，随手带回家。 火箭筒清仓大甩卖，工事掩体一炮开，不讲虚价，只要一千八，老弱病残一起飞！ 原",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/17e57d791f2a?pwd=w58N",
+    downloadUrl: "/books/1198_我在中东造军火，被全球通缉？1-194章.txt",
+    sourceUrl: "https://www.deqixs.org/1198/txt.html#dir",
+  },
+{
+    id: 1199,
+    slug: "1987我的年代",
+    title: "1987我的年代",
+    cover: book1199Cover,
+    author: "三月麻竹",
+    date: "2026-08-21",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-174章",
+    latestChapter: "第174章 ：啥啥啥？不是我干的啊！啥啥啥~",
+    excerpt: "重活一次，书要好好读，钱要好好挣，生活要慢慢过。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/bd254c9f080c?pwd=W588",
+    downloadUrl: "/books/1199_1987我的年代1-174章.txt",
+    sourceUrl: "https://www.deqixs.org/1199/txt.html#dir",
+  },
+{
+    id: 1200,
+    slug: "亡灵暴君-从骷髅开始进化",
+    title: "亡灵暴君：从骷髅开始进化",
+    cover: book1200Cover,
+    author: "骸骨之王",
+    date: "2026-09-06",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-1451章",
+    latestChapter: "第1451章 掩护伊恩开始战斗！",
+    excerpt: "一觉醒来，苏牧发现自己回到了十年前，并且穿越到了《第二世界》中，成了一只位于游戏世界最底层的怪物——骷髅！ 好在有着独一无二的天赋，苏牧可以不断进化。 基础职业，骷髅兵；进阶职业，骷髅剑士；精英职业，重装骷髅剑士；勇士职业，黑武士；领主职业，黑武士王…… 无限转职！ 无限进化！ 此时，《第二世界》尚未开启。 只有苏牧知道，这是一款超凡游戏。 玩家在游戏中的等级达到一定程度后，能够将游戏中的能力带回",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/28fc2d4f767f?pwd=VWss",
+    downloadUrl: "/books/1200_亡灵暴君：从骷髅开始进化1-1451章.txt",
+    sourceUrl: "https://www.deqixs.org/1200/txt.html#dir",
+  },
+{
+    id: 1201,
+    slug: "我的港城江湖生涯",
+    title: "我的港城江湖生涯",
+    cover: book1201Cover,
+    author: "爬树的乌龟",
+    date: "2026-08-25",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-620章",
+    latestChapter: "第620章 花开花落，日月交替（大结局）",
+    excerpt: "你可曾在九龙城的天台，看着飞机低空掠过密密麻麻的唐楼？ 你可曾在醉酒后，穿过霓虹如繁花的庙街？ 你可曾在湾仔一夜风流？在跑马地一掷千金？ 你曾许下诺言，要用一辈子保护的人，可还在你身边？ 你的心之所爱，可还在你眼前？ 桃李春风一杯酒…… 江湖雨夜十年灯……",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e7d79dcd5f79?pwd=fvY3",
+    downloadUrl: "/books/1201_我的港城江湖生涯1-620章.txt",
+    sourceUrl: "https://www.deqixs.org/1201/txt.html#dir",
+  },
+{
+    id: 1202,
+    slug: "妖尾-魔法岂是如此不便之物",
+    title: "妖尾：魔法岂是如此不便之物",
+    cover: book1202Cover,
+    author: "墨鱼儿儿",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-245章",
+    latestChapter: "第245章 大温蒂女仆记",
+    excerpt: "伊修迦尔圣十大魔导士、无冕の帝王、使徒之主、妖精学者——【艾博】在第一届艾斯兰登世界魔法交流会上发表重要讲话： “我宣布，杰尔夫·多拉格尼尔是魔法界近五百年来最无能、最无耻、影响最为恶劣的小丑魔导士。” 众人哗然！ “因为~~一个小小的研究发现，经我证实，传说中的【安克瑟拉姆神的诅咒】并非什么无解的诅咒，而是一个强大的超魔法。” 艾博推了推反光的黑框眼镜，微笑： “他是可控的！是一个在完全掌握后，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e49977e7316b?pwd=Yjjq",
+    downloadUrl: "/books/1202_妖尾：魔法岂是如此不便之物1-245章.txt",
+    sourceUrl: "https://www.deqixs.org/1202/txt.html#dir",
+  },
+{
+    id: 1203,
+    slug: "哈利波特之法神",
+    title: "哈利波特之法神",
+    cover: book1203Cover,
+    author: "无照司机",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2538章",
+    latestChapter: "第2538章 这么好",
+    excerpt: "魔法部部长：“郑凡必须死！” 郑凡并不想和你讲话，并对你丢了一个死咒。 邓布利多：“我们需要爱和正义。” 郑凡并不想和你讲话，并对你丢了一个伏地魔。 伏地魔：“那个男人的名字我们不敢提起，不然会被他发现的。” 郑凡：“赫敏，没时间解释了，快上车！”",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9b8cb2b1b59e?pwd=69fJ",
+    downloadUrl: "/books/1203_哈利波特之法神1-2538章.txt",
+    sourceUrl: "https://www.deqixs.org/1203/txt.html#dir",
+  },
+{
+    id: 1204,
+    slug: "华娱情报王",
+    title: "华娱情报王",
+    cover: book1204Cover,
+    author: "胖一点",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-667章",
+    latestChapter: "第640章 亚洲首富和他的富婆女友们",
+    excerpt: "北电2000级高职班毕业生颜礼，获得金手指【每日情报系统】，从此化身娱乐圈情报王 什么？《隋唐英雄传》剧组选角，宇文成都，这个角色好像适合我啊 什么？品牌方的代言底价是300万/年，靠，经纪人开价低了，赶紧往上提 什么？女明星打算靠房间针孔摄像头偷拍我和她的亲密视频作为把柄，哼，我换个房间 什么？！！ 2022京城房价下跌，由顶峰10万一平下降至8万一平，这也叫情报，这特么是预言了好吧？ … （P",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/5f2edaab3a6f?pwd=T9bm",
+    downloadUrl: "/books/1204_华娱情报王1-667章.txt",
+    sourceUrl: "https://www.deqixs.org/1204/txt.html#dir",
+  },
+{
+    id: 1205,
+    slug: "长生从无限叠加天赋开始",
+    title: "长生从无限叠加天赋开始",
+    cover: book1205Cover,
+    author: "江老四",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-647章",
+    latestChapter: "第647章 你脸真大，化婴丹《求月票！》",
+    excerpt: "【凡人流】【慢热】【经营】 【目前已结婴，往后越精彩，可宰杀！】 【日更8k以上，不曾间断！】 ---------------------- 乾元浩土，仙道渺远。 万族争锋，凡庶命若蜉蝣。 许川魂穿此界，凭借一册血脉族谱，由凡化仙！ 崛起于微末，步步为营。 破魔劫，斩妖兽，一统天南！ 征战四海八荒！ .......... 悠悠岁月。 一册血脉谱，半部造化史！ 纵横寰宇中，我为长生仙！",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0c7011f83a69?pwd=ketB",
+    downloadUrl: "/books/1205_长生从无限叠加天赋开始1-647章.txt",
+    sourceUrl: "https://www.deqixs.org/1205/txt.html#dir",
+  },
+{
+    id: 1206,
+    slug: "华娱从西楚霸王开始",
+    title: "华娱从西楚霸王开始",
+    cover: book1206Cover,
+    author: "南极企鹅大帝",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-397章",
+    latestChapter: "第397章 我没有义务要向你解释【求订阅】",
+    excerpt: "我曾在漳水河畔破釜沉舟埋葬大秦帝国。 也曾在虎牢关前迎战十八路诸侯。 我曾在狼居胥山封禅。 也曾挥舞擂鼓瓮金锤折断凤翅镏金镗。 我曾在江湖里厮杀。 也曾在盖马高原插下红旗。 横槊上下五千年，一剑劈开日月天。 不知道从什么时候起，他们说男人的梦想就是成为我。 （本书又名《华娱最强战力》《人形高达养成记》《手把手教你如何饰演少年将军》）",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/a9c0b1a898ef?pwd=7xUV",
+    downloadUrl: "/books/1206_华娱从西楚霸王开始1-397章.txt",
+    sourceUrl: "https://www.deqixs.org/1206/txt.html#dir",
+  },
+{
+    id: 1207,
+    slug: "西游-打造巨乘佛教-迪迦爆西天",
+    title: "西游：打造巨乘佛教，迪迦爆西天",
+    cover: book1207Cover,
+    author: "我爱吃鱼腩",
+    date: "2026-09-06",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-492章",
+    latestChapter: "第492章 ：不必担心",
+    excerpt: "穿越大唐。 徐青成为一个被寺庙侵占土地、家产， 最后被卖到寺院为奴的可怜人。 眼见和尚们作威作福， 肆意蹂躏百姓。 自己却无能为力。 好在，【香火神国系统】及时觉醒！ 只要徐青创建一个【教派】。 收获越多的信众，他就能变得越强！ 既然佛教这么猖獗。 那自己反手就来个【巨乘佛教】！ 吾教位于m78星云天。 有大日迪迦佛！ 有阿弥泰罗佛！ 还有南无加特林菩萨，六根贫铀清静弹，一息三千六百转！ 你佛门不",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e90d1f6f1e0c?pwd=ncak",
+    downloadUrl: "/books/1207_西游：打造巨乘佛教，迪迦爆西天1-492章.txt",
+    sourceUrl: "https://www.deqixs.org/1207/txt.html#dir",
+  },
+{
+    id: 1208,
+    slug: "都市-我的战舰能进化",
+    title: "都市：我的战舰能进化",
+    cover: book1208Cover,
+    author: "火了三万",
+    date: "2026-08-27",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-986章",
+    latestChapter: "第986章 冷酷到底！",
+    excerpt: "刚参加工作，叶枫就因为一次见义勇为被公司开除，回到家乡重操父辈旧业，恰好激活神级打渔系统。 “叮！捕捉到极品星斑鱼*1，奖励核动力发动机！” “叮！捕捉到中华锦绣龙虾1对，奖励整船体钛合金装甲！” “叮！捕捉到帝皇蓝鳍金枪鱼*1，奖励粒子束星际玩具枪*1！” 就这样，叶枫走上一条悠闲的直播赶海之路。 鱼**：快跑啊！那个男人又来了！ 海霸国：卧槽，Z国的渔船都这么强的么？我们刚造的航母第一次下水就",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f42c39c2bfa6?pwd=jyX3",
+    downloadUrl: "/books/1208_都市：我的战舰能进化1-986章.txt",
+    sourceUrl: "https://www.deqixs.org/1208/txt.html#dir",
+  },
+{
+    id: 1209,
+    slug: "庶子枭雄",
+    title: "庶子枭雄",
+    cover: book1209Cover,
+    author: "半程烟雨",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-365章",
+    latestChapter: "第365章 、主要干沈家，先抓几个贪官",
+    excerpt: "穿越成侯府最卑贱的庶子，生母早逝，主母刻薄，连丫鬟都敢克扣我的月例。 不料，卷入一场政治风波，得皇帝重视，从此走上权势巅峰。 嫡兄夺我功名？ 次日便被御史参奏德行有亏，革去功名。 主母逼我娶商户丑女？ 皇帝亲自赐婚，将最受宠的公主许我为妻。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b346ca09e8b9?pwd=GLZx",
+    downloadUrl: "/books/1209_庶子枭雄1-365章.txt",
+    sourceUrl: "https://www.deqixs.org/1209/txt.html#dir",
+  },
+{
+    id: 1210,
+    slug: "游戏降临-我觉醒鸿福齐天",
+    title: "游戏降临：我觉醒鸿福齐天",
+    cover: book1210Cover,
+    author: "小吻哥",
+    date: "2026-09-04",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-302章",
+    latestChapter: "第302章 妖族秘境，百妖谷",
+    excerpt: "天灾降临前，各国联合打造出【第二界】，玩家可通过设备进入游戏世界，抢夺国运和资源。 而苏良携鸿福齐天系统真身穿越进入游戏。 在别人还在为金币发愁的时候，苏良却捡钱捡到手抽筋。 在别人还在辛苦练级的时候，苏良却可以二十四小时挂机涨经验。 在别人还在九死一生杀怪时，苏良随便野区逛一圈就能遇到BOSS互相残杀。 没活动？恭喜宿主触发赐福活动！ 被敌人围攻？恭喜宿主触发天助！ 没国运？恭喜宿主战胜外敌，获",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/6a618248b455?pwd=bGvK",
+    downloadUrl: "/books/1210_游戏降临：我觉醒鸿福齐天1-302章.txt",
+    sourceUrl: "https://www.deqixs.org/1210/txt.html#dir",
+  },
+{
+    id: 1211,
+    slug: "无尽神豪",
+    title: "无尽神豪",
+    cover: book1211Cover,
+    author: "刚正面1",
+    date: "2026-08-26",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1199章",
+    latestChapter: "第1199章 谈妥带回",
+    excerpt: "这是一个普通人得到神豪系统越来越膨胀的故事，欢迎和我一起从普通人的视角yy真的得到了系统人会变得如何，本书主角向往的就是男人向往的那些事。本书无雷无郁闷，不文青，不成长，不追求虚无缥缈的气质，不追求心境的炼化，追求的就是一个念头通达而已",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/aa7e5464c77e?pwd=CAXs",
+    downloadUrl: "/books/1211_无尽神豪1-1199章.txt",
+    sourceUrl: "https://www.deqixs.org/1211/txt.html#dir",
+  },
+{
+    id: 1212,
+    slug: "贼道",
+    title: "贼道",
+    cover: book1212Cover,
+    author: "玉者王也",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-665章",
+    latestChapter: "第665章 八面佛的贡献",
+    excerpt: "我这一生有过很多女人，她们都曾散青丝与我缠绵，也曾在我的各个年龄段给予我各种各样的帮助，但，最让我铭记的，只有三个。 一九八五年，那一年高三，因为一只老鼠得罪了大人物，我不得已放弃学业，远走他乡。 但是我并不后悔。 龙游浅滩为困，锁石林则死。 因为一只老鼠、一本旧书、一场困局，我成了一个贼。 但我的一生始终遵循一句话：贼有贼道，盗亦有道。 多年之后。 我胸口别着国安和民调局的证件，口袋里装着代表着",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e2a6b8ebb35c?pwd=hzgu",
+    downloadUrl: "/books/1212_贼道1-665章.txt",
+    sourceUrl: "https://www.deqixs.org/1212/txt.html#dir",
+  },
+{
+    id: 1213,
+    slug: "诡灾降临-灵异逃生从招魂开始",
+    title: "诡灾降临：灵异逃生从招魂开始",
+    cover: book1213Cover,
+    author: "彤山煮茶",
+    date: "2026-09-06",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-541章",
+    latestChapter: "第541章 月下茶山，以酒为契",
+    excerpt: "【无限流+无女主+原创副本】 “欢迎来到灵异禁地，亲爱的使徒们！” “这方世界即将寿尽，请尽情挣扎！” 当纸灰笼罩世界，现实与灵异逐渐重叠。 破旧的宗族公寓，溺毙的鬼童正在敲门。 消失的7号校舍，无头的男尸迷茫徘徊。 晦暗的道教宫观，璀璨的神像流下血泪…… “活下来，然后……释放你内心最深的欲望。” “什么？你的欲望只是恢复健康？只是达成朋友的心愿？” “这么卑贱的欲望，在禁地会死的很快哦！” 青",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ba24afe5c59b?pwd=k57j",
+    downloadUrl: "/books/1213_诡灾降临：灵异逃生从招魂开始1-541章.txt",
+    sourceUrl: "https://www.deqixs.org/1213/txt.html#dir",
+  },
+{
+    id: 1214,
+    slug: "御兽-每秒亿点攻击-我的萌宠成了神话禁忌",
+    title: "御兽：每秒亿点攻击，我的萌宠成了神话禁忌",
+    cover: book1214Cover,
+    author: "爱吃奶皇包",
+    date: "2026-08-23",
+    category: "游戏",
+    status: "已完结",
+    chapters: "1-186章",
+    latestChapter: "第186章 最强御兽师",
+    excerpt: "平行蓝星6666年。 第六次世界大战后，核辐射充斥整个星球。 所有兽类都出现了异变。 身高十米，长九个头的公鸡。 身上长满红毛触手的百米蜘蛛。 而人类掌控了辐能，可以修炼、契约御兽。 全民御兽时代开启。 所有人都想要契约最怪、最凶狠的御兽。 白洛尘穿越而来，觉醒的天赋竟然是【初生羁绊】—— 仅能契约刚出生一个月内的幼兽。 夭寿了，幼兽通常最少要百年才能拥有最强战斗力。 “我们御兽师契约的都是凶狠、",
+    tags: [{ name: "游戏", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/396cb92186f2?pwd=dZ1t",
+    downloadUrl: "/books/1214_御兽：每秒亿点攻击，我的萌宠成了神话禁忌1-186章.txt",
+    sourceUrl: "https://www.deqixs.org/1214/txt.html#dir",
+  },
+{
+    id: 1215,
+    slug: "傻子回村-错把好心姐姐当媳妇",
+    title: "傻子回村，错把好心姐姐当媳妇！",
+    cover: book1215Cover,
+    author: "林公子",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-2663章",
+    latestChapter: "第2663章 活体雷达",
+    excerpt: "[乡村疯批+装傻行医+致富打脸] 桃花沟藏着两个秘密：一是男丁活不过三十的香火诅咒！ 二是村头傻子陈大龙摸脉能改姻缘！ 当他用《神农药典》种出天价药材，全村女人的红线都缠上了他手腕，&quot;大龙，姐姐这病你来治…&quot; 从此之后，陈大龙凭一双妙手回春，远近闻名！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b8427ed8ea35?pwd=8AnG",
+    downloadUrl: "/books/1215_傻子回村，错把好心姐姐当媳妇！1-2663章.txt",
+    sourceUrl: "https://www.deqixs.org/1215/txt.html#dir",
+  },
+{
+    id: 1216,
+    slug: "独守要塞三年-我成了长夜领主",
+    title: "独守要塞三年，我成了长夜领主",
+    cover: book1216Cover,
+    author: "三阳开太泰",
+    date: "2026-09-13",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-455章",
+    latestChapter: "第430章 战火与灰烬",
+    excerpt: "【双职业】、【领主】、【升级】 黑暗入侵，全球崩溃，暗幕席卷光明，魔物吞噬人类。 林修作为一个外来者，却孤独的在长风要塞守了三年时间，他是长风要塞最后的守卫者，也是最后一位领主。 作为领主，环境是脸面，那就建设城市，把城内外种满阳光花。 作为领主，工业是基石，那就拉起新时代符能工业的革命。 作为领主，得有一点爱好，那就……种树吧。 于是，孕育十日的扶桑神树冉冉升起，引导人疯狂的恶魔果实树在黑暗中诞",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ef64206eb56e?pwd=5SLm",
+    downloadUrl: "/books/1216_独守要塞三年，我成了长夜领主1-455章.txt",
+    sourceUrl: "https://www.deqixs.org/1216/txt.html#dir",
+  },
+{
+    id: 1217,
+    slug: "末法武圣-一天涨十年功力",
+    title: "末法武圣：一天涨十年功力",
+    cover: book1217Cover,
+    author: "再入江湖",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-185章",
+    latestChapter: "第183章 喜欢装逼？那就打到你哀嚎！",
+    excerpt: "【专攻爽文】、【爽文中的泥石流】、【变异民国】 末法时代，元气断绝，妖魔横行。内有军阀混战，外有列强环伺。 传承数千年的大夏武学，在这汹汹乱世沦为糟粕。 无数人痛声疾呼，欲求出路。 林玄穿越而来，在年老血衰之际，觉醒系统【坚韧不拔】，从此之后，一天涨十年功力。 他不管外人如何绝望，也不管洋人如何厉害。 他只求无愧于心！ 末法时代又如何？年老血衰又如何！ 铁甲战舰又如何？ 我要这天再也遮不住我眼，这",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/1cb60622a6ad?pwd=xiy9",
+    downloadUrl: "/books/1217_末法武圣：一天涨十年功力1-185章.txt",
+    sourceUrl: "https://www.deqixs.org/1217/txt.html#dir",
+  },
+{
+    id: 1218,
+    slug: "从趋吉避凶开始顺势成神",
+    title: "从趋吉避凶开始顺势成神",
+    cover: book1218Cover,
+    author: "叮叮小石头",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-658章",
+    latestChapter: "第658章 出关！炼神巅峰！",
+    excerpt: "【我叫陈盛，当你看到这句话时，我已经死了……】 一朝穿越，命如草芥，睁眼便是两军对垒的生死战场，然天无绝人之路，幸得一页【趋吉避凶】天书，可窥探一线未来。 这意味着任何灾劫，对他而言完全没有危险，任何机缘都逃不过他的预知。 只需顺势而为，便可逢凶化吉，躲灾避祸，机缘加身，顺势成神！ …………",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/fe16d2baa8fa?pwd=hs5k",
+    downloadUrl: "/books/1218_从趋吉避凶开始顺势成神1-658章.txt",
+    sourceUrl: "https://www.deqixs.org/1218/txt.html#dir",
+  },
+{
+    id: 1219,
+    slug: "高考提前交卷-你说家里超导要炸了",
+    title: "高考提前交卷，你说家里超导要炸了？",
+    cover: book1219Cover,
+    author: "金鳞渡川",
+    date: "2026-08-24",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-175章",
+    latestChapter: "第175章 我们的目标，是星辰大海！",
+    excerpt: "【大国科技+爱国+曝光+天才+系统+无敌】 刘浩觉醒【大国重器】系统，激活常温超导图纸和核心技术！ 距离高考结束还有最后三十分钟，系统突然提醒，家中的常温超导小型样机面临失控，即将爆炸！ 焦急万分之下，刘浩提前交卷，冲出考场，关闭样机。 恰巧遇到校门口正在做高考节目采访的冰冰。 “同学，你好，邀请你采访…” 刘浩：“谢邀，家里超导要炸了！” 冰冰懵逼。 冰冰：“他说啥？家里超导要炸了？” 直播间观",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/37da1503267e?pwd=uA7D",
+    downloadUrl: "/books/1219_高考提前交卷，你说家里超导要炸了？1-175章.txt",
+    sourceUrl: "https://www.deqixs.org/1219/txt.html#dir",
+  },
+{
+    id: 1220,
+    slug: "破产那天-国民女神带娃上门施援",
+    title: "破产那天，国民女神带娃上门施援",
+    cover: book1220Cover,
+    author: "歪着脖子看蓝天",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-191章",
+    latestChapter: "第191章 呵护妻子的小心思",
+    excerpt: "富二代林陌家破产了。 老爹为了安置员工，落了个一无所有。 但祸兮福所倚，他们老林家也是迎来了这些天里唯一的好消息：林家有后了！ 不仅如此，国民女神还带着林陌的亲生女儿上门来的那天，他还激活了奶爸系统。 【叮~请协助女主人给小主人喂母乳】 【要求：一分钟之内，宿主的视线不能从小主人身上挪开】 望着国民女神那布满绯红的小脸和娇羞的小眼神，林陌干巴巴的解释道。 “如果说，我在看女儿，你信吗……” “信…",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/814b2fdb93ce?pwd=ZmUq",
+    downloadUrl: "/books/1220_破产那天，国民女神带娃上门施援1-191章.txt",
+    sourceUrl: "https://www.deqixs.org/1220/txt.html#dir",
+  },
+{
+    id: 1221,
+    slug: "我能给箭术加点-从猎户到斩仙",
+    title: "我能给箭术加点：从猎户到斩仙",
+    cover: book1221Cover,
+    author: "橘子小饼干",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-458章",
+    latestChapter: "第458章 大战前夕",
+    excerpt: "【猎户】+【赶山御兽】+【加点流】+【长生流】+【打脸逆袭】 李玄穿成猎户家最不争气的小儿子。 原身终日游荡，迷上镇里“仙姑”，逼着父兄举债凑聘礼，将家底榨得一干二净。 直到他在山里捡到一只带箭的灰兔，指尖触及伤口的瞬间—— 狩猎长生系统，骤然苏醒。 【猎杀点数+1】 【获取特质：野兔疾步】 【装备】 老桑木猎弓（+0.1体魄，弓背皲裂，弦力微弱） 锈柴刀（+0.1灵巧，刃口残缺） “加点，全部给",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e0039bc4dbba?pwd=AfWT",
+    downloadUrl: "/books/1221_我能给箭术加点：从猎户到斩仙1-458章.txt",
+    sourceUrl: "https://www.deqixs.org/1221/txt.html#dir",
+  },
+{
+    id: 1223,
+    slug: "村野乱事",
+    title: "村野乱事",
+    cover: book1223Cover,
+    author: "黄金水饺",
+    date: "2026-09-04",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1735章",
+    latestChapter: "第1735章 互报家门",
+    excerpt: "小凡，嫂子跟你说个秘密，我跟你哥的孩子，不是你哥的……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9048018ab78f?pwd=KMf5",
+    downloadUrl: "/books/1223_村野乱事1-1735章.txt",
+    sourceUrl: "https://www.deqixs.org/1223/txt.html#dir",
+  },
+{
+    id: 1224,
+    slug: "桀桀-美警可太好了",
+    title: "桀桀，美警可太好了！",
+    cover: book1224Cover,
+    author: "焰火璀璨",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-312章",
+    latestChapter: "第312章 要么人走，要么尸体走！",
+    excerpt: "【美警真实案件】【唯我独法】【不吃牛肉】【血流成河】【多女】 这里是穷人的地狱，富人的天堂，罪犯的洛圣都，马丁的应许之地！ 这自由美利坚可太好了！ …… PS：这次不要给我弄废掉了，1143825629",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/82c1f313995b?pwd=autL",
+    downloadUrl: "/books/1224_桀桀，美警可太好了！1-312章.txt",
+    sourceUrl: "https://www.deqixs.org/1224/txt.html#dir",
+  },
+{
+    id: 1225,
+    slug: "我的弟子全是大帝之资",
+    title: "我的弟子全是大帝之资",
+    cover: book1225Cover,
+    author: "别让我通宵",
+    date: "2026-09-05",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-2144章",
+    latestChapter: "第2117章 心中一口浩然气！",
+    excerpt: "众所周知，南域中有一个绝对不能惹的势力，草堂。 其中大弟子，是南域的青云剑圣，剑道通神。 二弟子，万古女帝，统领一个时代。 三弟子，当世大儒，文曲星下凡。 四弟子，魔神转世，镇压九幽。 …… 陆长生：我？我没什么了不起的，就是他们的师尊罢了。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/65e1ee09205a?pwd=hied",
+    downloadUrl: "/books/1225_我的弟子全是大帝之资1-2144章.txt",
+    sourceUrl: "https://www.deqixs.org/1225/txt.html#dir",
+  },
+{
+    id: 1226,
+    slug: "吞天混沌经-开局先吞圣女修为",
+    title: "吞天混沌经：开局先吞圣女修为",
+    cover: book1226Cover,
+    author: "一阵乱写",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2086章",
+    latestChapter: "第2086章 仓区封禁",
+    excerpt: "【热血】【无敌】【情感丰富，不喜勿入】 万年前，妖族和魔族降临世间， 它们力可拔山，吞云赶月，以人族为血食， 人族可生存的区域不断减少， 现在，天下九片大陆仅剩一域， 人族武者用血肉筑成城墙，抵御异族， 在危急存亡之际， 获得圣人传承的武者江尘迈入战场， 开启无敌之路，斩妖吞噬， 杀气纵横百万里，一枪光寒十九州！ 江尘，要为人族杀出个未来， 屠杀妖族天骄如屠狗，独享逆天机缘，终登绝巅！ 那时，他才",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/407c09323bdc?pwd=Cdrd",
+    downloadUrl: "/books/1226_吞天混沌经：开局先吞圣女修为1-2086章.txt",
+    sourceUrl: "https://www.deqixs.org/1226/txt.html#dir",
+  },
+{
+    id: 1227,
+    slug: "我的徒弟们都太逆天了",
+    title: "我的徒弟们都太逆天了！",
+    cover: book1227Cover,
+    author: "炒方便面",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2157章",
+    latestChapter: "第2157章 抹去陆玄的因果！",
+    excerpt: "修炼界有一条铁律：万万不可招惹陆玄。 因为他的徒弟们都太逆天了！ 大徒弟扶摇女帝：打造扶摇皇朝，成为南荒霸主！ 二徒弟叶尘：丹武双绝，丹武大帝！ 三徒弟陈长生：太稳健了……明明可以弹指灭杀大帝，却一直苟着不出世！ 四徒弟禁区女帝：我的身上沾满了诡异和不详，师父帮我吸一口？ …… 陆玄：我？我平平无奇，只是比徒弟们强亿点点。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/dec92d8adb0b?pwd=vZJc",
+    downloadUrl: "/books/1227_我的徒弟们都太逆天了！1-2157章.txt",
+    sourceUrl: "https://www.deqixs.org/1227/txt.html#dir",
+  },
+{
+    id: 1228,
+    slug: "寒门崛起",
+    title: "寒门崛起",
+    cover: book1228Cover,
+    author: "朱郎才尽",
+    date: "2026-09-04",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-2357章",
+    latestChapter: "第2357章 下定决心",
+    excerpt: "这是一个就业路上屡被蹂躏的古汉语专业研究生，回到了明朝中叶，进入了山村一家幼童身体后的故事。 木讷父亲泼辣娘，一水的极品亲戚，农家小院是非不少。好在，咱有几千年的历史积淀，四书五经八股文，专业也对口，谁言寒门再难出贵子。 国力上升垂拱而治； 法纪松弛，官纪慵散； 有几只奸臣，也闹点倭寇； 但总体上可以说，这是士大夫自由滋生的沃土。 一个寒门崛起的传奇也就从这里生长了。 谨以此文向所有的穿越经典致敬",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e4d0174202ed?pwd=mNgR",
+    downloadUrl: "/books/1228_寒门崛起1-2357章.txt",
+    sourceUrl: "https://www.deqixs.org/1228/txt.html#dir",
+  },
+{
+    id: 1229,
+    slug: "风流小村医",
+    title: "风流小村医",
+    cover: book1229Cover,
+    author: "卜城",
+    date: "2026-08-21",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-2939章",
+    latestChapter: "第2939章 大结局",
+    excerpt: "长夜漫漫。 许燕独自在家瞧着隔壁的身强体壮的陈平，似乎下了好大的决心。 “陈平，你过来。” “你看看姐，姐美吗？” “美，姐，你简直倾国又倾城！”",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b477dcd58106?pwd=wbd4",
+    downloadUrl: "/books/1229_风流小村医1-2939章.txt",
+    sourceUrl: "https://www.deqixs.org/1229/txt.html#dir",
+  },
+{
+    id: 1230,
+    slug: "华娱-明日爆红",
+    title: "华娱：明日爆红",
+    cover: book1230Cover,
+    author: "想喝凉水怕塞牙",
+    date: "2026-08-21",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-877章",
+    latestChapter: "第877章 ，后记",
+    excerpt: "〔宣传一下新书《从明星身上薅技能，我无敌了》，有喜欢看的可以过去瞅瞅！！！〕 “朱哥，我什么时候能红？” “美女，小红靠捧，大红靠命！” “可我听说你能算得出来？” “美女，在娱乐圈里混靠的是硬实力，你怎么能听说呢？” “硬实力…，我懂了。” 身材高挑的美女，撩了撩秀发，就在摆摊的朱柏面前展示起了身体的柔韧性。 【本书又名《华娱：渣男，我再也不相信爱情了》、《没钱混什么娱乐圈》、《华娱：最风骚的男",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/6526e271b9c6?pwd=GFQn",
+    downloadUrl: "/books/1230_华娱：明日爆红1-877章.txt",
+    sourceUrl: "https://www.deqixs.org/1230/txt.html#dir",
+  },
+{
+    id: 1231,
+    slug: "真实宝可梦游戏-只有我知道剧情",
+    title: "真实宝可梦游戏，只有我知道剧情",
+    cover: book1231Cover,
+    author: "芳泽霞",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-149章",
+    latestChapter: "第149章 训练，成长、联盟大赛与小智",
+    excerpt: "“鲤鱼王这种宝可梦有什么用？只会一招水溅跃，根本打不了比赛！” “别去神奥地区卷了，我刚从丰缘副本出来，加速火焰鸡简直无敌！” “和这个叫小智的路边npc战斗？满血穿山王对上残血皮卡丘，优势在我！” “火箭队？一个只知道偷抢爬拿的小混混组织，狗都不加入！” “那个叫赤日的一看就是中二病，他能掀翻神奥联盟？纯纯搞笑！” “兄弟们，快来加入熔岩队一起扩大陆地面积，为人类谋福祉，最终奖励一定很丰富！”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/2b5686c7c3cc?pwd=7PNE",
+    downloadUrl: "/books/1231_真实宝可梦游戏，只有我知道剧情1-149章.txt",
+    sourceUrl: "https://www.deqixs.org/1231/txt.html#dir",
+  },
+{
+    id: 1232,
+    slug: "九龙葬天经",
+    title: "九龙葬天经",
+    cover: book1232Cover,
+    author: "梦醒泪殇",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1881章",
+    latestChapter: "第1881章 ：深渊大口",
+    excerpt: "三年前，辰南与叶轻眉结为道侣，倾尽全力助她修炼。 三年后，叶轻眉被封圣女，享尽荣华，却嫌弃辰南是个废物，一纸和离书要和自己的真爱在一起。 辰南一朝醒悟，一纸休书断绝旧情。 他重开辰家一脉，踏天骄，诛圣子，无敌天下。 而在辰南一路无敌之时，叶轻眉却后悔了，哭着恳求辰南原谅。 呵呵！ 当初和离你提的，现在后悔哭什么！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/bb092a914a05?pwd=nQBG",
+    downloadUrl: "/books/1232_九龙葬天经1-1881章.txt",
+    sourceUrl: "https://www.deqixs.org/1232/txt.html#dir",
+  },
+{
+    id: 1233,
+    slug: "全民-sss级异能不选-你选f级黑光病毒",
+    title: "全民：SSS级异能不选，你选F级黑光病毒",
+    cover: book1233Cover,
+    author: "封弦",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-611章",
+    latestChapter: "第611章 幻晶魔龙落败？",
+    excerpt: "江尘穿越到一个异族、魔物横行的末日世界。 任何满十八岁的人类，可通过注射进化药剂和基因病毒，成为异能者！ 江尘开局觉醒唯一天赋：病毒主宰，能完美驾驭任何病毒！ 觉醒仪式上，摆在他面前有SSS级进化药剂和致死率高达99.99%的黑光病毒！ 怎么选？ 江尘果断注射黑光病毒！ 【你注射黑光病毒（神级）】 【吞噬掠夺】：可吞噬一切生物质，掠夺目标异能！ 【全能强化】：消耗基因点，全面强化身体，提升境界！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b8773a47b4cb?pwd=8Tuw",
+    downloadUrl: "/books/1233_全民：SSS级异能不选，你选F级黑光病毒1-611章.txt",
+    sourceUrl: "https://www.deqixs.org/1233/txt.html#dir",
+  },
+{
+    id: 1234,
+    slug: "乾坤剑神",
+    title: "乾坤剑神",
+    cover: book1234Cover,
+    author: "尘山",
+    date: "2026-09-03",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-3845章",
+    latestChapter: "第3845章 一定是思念",
+    excerpt: "景言曾是景家最优秀的天才，十六岁突破武道九重天踏入先天之境，整个东临城无人能比，却莫名其妙在进入神风学院后境界跌落，成为笑柄。 解开乾坤戒封印，重新崛起，最终制霸天元大陆，成为无数武者仰望的存在。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/916ea6da4aea?pwd=bXyW",
+    downloadUrl: "/books/1234_乾坤剑神1-3845章.txt",
+    sourceUrl: "https://www.deqixs.org/1234/txt.html#dir",
+  },
+{
+    id: 1235,
+    slug: "捞子网恋掉马-被金主daddy强吻",
+    title: "捞子网恋掉马，被金主daddy强吻",
+    cover: book1235Cover,
+    author: "春卷包",
+    date: "2026-08-26",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-80章",
+    latestChapter: "第80章 初夜还在吗？",
+    excerpt: "【双男主+网恋】 【占有欲强金主daddyX清冷学霸小骗子】双洁 【Easy，puppy】 【Open，my good puppy】 【puppy，今天穿裙子...】 【...】 陈榆缺钱，网恋钓“金龟子”。 他每天撒撒娇，撩一撩，拍拍照片，喊喊哥哥，转账收到手软。 交了医疗费还完债，捞完钱，写了欠款，反手冷暴力，断崖式分手。 用完就丢。 当天夜里，宿舍门被敲响。 男人当着所有人的面，把他扛走，做",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d9356775d3bd?pwd=KX7E",
+    downloadUrl: "/books/1235_捞子网恋掉马，被金主daddy强吻1-80章.txt",
+    sourceUrl: "https://www.deqixs.org/1235/txt.html#dir",
+  },
+{
+    id: 1236,
+    slug: "醒醒啊-你的年代文女主提离婚了",
+    title: "醒醒啊，你的年代文女主提离婚了",
+    cover: book1236Cover,
+    author: "王拾月",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-200章",
+    latestChapter: "第200章 你是当小三上瘾吗",
+    excerpt: "【年代穿书+先婚后爱+追妻火葬场+打脸虐渣+随军+微群像+训狗】 【清冷美艳女护肤配方师VS闷骚硬汉军少】 苏情一睁眼，就发现自己穿成了年代文里的恶毒女配，正在跟男主办不可描述之事。 身为新时代女性，就当被狗咬了口，不会将自己的婚姻捆绑在一个不认识的男人身上， 在她不知情的情况下，对方父母给他们办了结婚证。 不承想，这狗男人还挺厉害，一次就让她揣上他的种。 有娃、有事业，还不用伺候男人，这样滋润的",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/34c474210e90?pwd=WudK",
+    downloadUrl: "/books/1236_醒醒啊，你的年代文女主提离婚了1-200章.txt",
+    sourceUrl: "https://www.deqixs.org/1236/txt.html#dir",
+  },
+{
+    id: 1237,
+    slug: "天域丹尊",
+    title: "天域丹尊",
+    cover: book1237Cover,
+    author: "新月弯弓",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-5984章",
+    latestChapter: "第5984章 争论",
+    excerpt: "一代丹帝重返十五岁，这一世，不仅要弥补前世所有遗憾，更要成就武道至尊！ 比功法？我的小弟人手一本神级功法。 比丹药？我的极品丹药拿来喂狗。 天才？凡是遇到我的天才，全是被碾压的命！ 顺我者昌，逆我者死！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/66bb0700dd80?pwd=DmYu",
+    downloadUrl: "/books/1237_天域丹尊1-5984章.txt",
+    sourceUrl: "https://www.deqixs.org/1237/txt.html#dir",
+  },
+{
+    id: 1238,
+    slug: "末世-从吞尸体开始进化",
+    title: "末世，从吞尸体开始进化",
+    cover: book1238Cover,
+    author: "只是小脑虎",
+    date: "2026-09-05",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-727章",
+    latestChapter: "第727章 动静",
+    excerpt: "废土末世，流民如蝼蚁。堡垒高墙之内是天堂？不，只是另一座囚牢。 徐煜重生在这片充满危机的废土上，想要获取力量，想要在这吃人的废土活下去，那就只有不断变强！ 没有食物？遍地都是“食材”，以身为炉，炼化万般凶煞，以牙为刃，撕开人族生路！ 【吞噬能量+9】 【请选择加点方式：气血/精神力】",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/367d406d517a?pwd=gzBg",
+    downloadUrl: "/books/1238_末世，从吞尸体开始进化1-727章.txt",
+    sourceUrl: "https://www.deqixs.org/1238/txt.html#dir",
+  },
+{
+    id: 1239,
+    slug: "国公府长媳不好当",
+    title: "国公府长媳不好当",
+    cover: book1239Cover,
+    author: "三只鳄梨",
+    date: "2026-09-05",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-515章",
+    latestChapter: "第514章 平安",
+    excerpt: "新书《七零拒绝随军！我靠物资带飞全家》已经开更，欢迎大家转场看看… ——— “嫡子已生，去留随你。” （清醒破局的无宠嫡女vs强取豪夺疯批将军） 孟昭玉的亲事，就是一场彻头彻尾的欺骗。 她嫁了个随时可能撒手人寰的病弱小公爷。 却无人知晓，大婚之夜红罗帐内与她缠绵的另有其人。 三年后，长子呱呱坠地。 病榻上的小公爷夫君忽而予她休书一封，神色复杂难辨。 “孩子留下，你自由了。” 孟昭玉方才知晓，这一纸",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8a01eda57bdf?pwd=H1wc",
+    downloadUrl: "/books/1239_国公府长媳不好当1-515章.txt",
+    sourceUrl: "https://www.deqixs.org/1239/txt.html#dir",
+  },
+{
+    id: 1240,
+    slug: "被贬边疆-成就最强藩王",
+    title: "被贬边疆，成就最强藩王",
+    cover: book1240Cover,
+    author: "绯雨",
+    date: "2026-09-12",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1176章",
+    latestChapter: "第1176章 百姓最善良",
+    excerpt: "开局穿越遭遇仙人跳，被贬边疆吃土。 皇帝想困我在边城？朝臣想看我笑话？ 却不知我手握现代知识，开荒田、炼精钢、训铁骑！ 三年后，铁骑踏平草原，连敌国公主都跪求联姻…… 龙椅上的那位才后悔： 他亲手流放的不是弃子，而是大周真正的潜龙！ “陛下，这万里边疆……现在归我了！” 原来流放，才是他称霸的开始！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/f9885d8f9fe5?pwd=7vrb",
+    downloadUrl: "/books/1240_被贬边疆，成就最强藩王1-1176章.txt",
+    sourceUrl: "https://www.deqixs.org/1240/txt.html#dir",
+  },
+{
+    id: 1241,
+    slug: "你无敌了-下山去吧",
+    title: "你无敌了，下山去吧",
+    cover: book1241Cover,
+    author: "爱吃醋的猫",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-18734章",
+    latestChapter: "第1796章 即将混乱的局势",
+    excerpt: "多年前，他从富豪手下救出一位女孩，却惨遭报复，含恨逃亡。 多年后，他强势归来，从此八方风云动，天下英豪拜服！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/e1950853dd8d?pwd=g9Uq",
+    downloadUrl: "/books/1241_你无敌了，下山去吧1-18734章.txt",
+    sourceUrl: "https://www.deqixs.org/1241/txt.html#dir",
+  },
+{
+    id: 1242,
+    slug: "九天轮回诀",
+    title: "九天轮回诀",
+    cover: book1242Cover,
+    author: "天上无鱼",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1458章",
+    latestChapter: "第1458章 大战落幕，下一步计划！",
+    excerpt: "叶无尘修炼《九天轮回诀》，可九世轮回，极尽升华。 第八世时证道登帝，独断万古，平定黑暗动乱，为沧澜界之主，因一场背叛与陷害，遭围攻惨死。 百年后，他重聚魂魄，第九世下凡投胎，却被家族认定是废物，差点胎死腹中。 还好娘亲力挽狂澜，宁愿被赶出家族，也要保住胎儿！ 大帝重生，九彩仙胎你们都认为资质平庸？ 好好好，这家族不待也罢。 且看叶无尘如何逆天崛起，重塑传奇！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/970d0305fbbb?pwd=Dv6G",
+    downloadUrl: "/books/1242_九天轮回诀1-1458章.txt",
+    sourceUrl: "https://www.deqixs.org/1242/txt.html#dir",
+  },
+{
+    id: 1243,
+    slug: "大玄第一侯",
+    title: "大玄第一侯",
+    cover: book1243Cover,
+    author: "东床卧虎",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1040章",
+    latestChapter: "第1030章 击败，求饶",
+    excerpt: "大玄王朝末年，群雄四起，妖魔丛生。 苏牧最初只想摆脱流民身份，在这乱世之中努力地活下去。 【白身】：每日获得1点点数； 【小吏】：每日获得10点点数； …… 好好办差，努力修炼，崭露头角，获得点数。 消耗10点点数，刀法入门； 消耗300点点数，刀法大成； …… 为了在乱世活下去，苏牧艰苦修炼武功，努力提升身份。 “我要一步一步一步地走到最高！” 多年以后，苏牧蓦然回首，发现自己已经威临天下。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/499b25ac913e?pwd=M3Jn",
+    downloadUrl: "/books/1243_大玄第一侯1-1040章.txt",
+    sourceUrl: "https://www.deqixs.org/1243/txt.html#dir",
+  },
+{
+    id: 1244,
+    slug: "我有一个黑暗密武世界",
+    title: "我有一个黑暗密武世界",
+    cover: book1244Cover,
+    author: "一笑新尘",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-195章",
+    latestChapter: "第193章 蛟龙药浴",
+    excerpt: "现实世界，秩序、和平、稳定、文明…… 密武世界，黑暗、危险、灰烬、畸变…… …… 陈峰穿越而来，成为锦城大学中的一名普通大一武道生。 没有优渥的家境，没有顶级的天资。 摆在面前的只有一条按部就班、一眼望到头的标准武者之路。 直到他发现， 自己能够进入一座充满【密藏】与【污染】的密武世界——大墟。 【神话传说的太古生物…】 【价值连城的异种残骸…】 【千奇百怪的密武学派…】 【冰冷残酷的禁忌实验…】",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/43972f829d37?pwd=teW1",
+    downloadUrl: "/books/1244_我有一个黑暗密武世界1-195章.txt",
+    sourceUrl: "https://www.deqixs.org/1244/txt.html#dir",
+  },
+{
+    id: 1245,
+    slug: "大唐-开局为李二献上避坑指南",
+    title: "大唐：开局为李二献上避坑指南",
+    cover: book1245Cover,
+    author: "沉默的脑袋",
+    date: "2026-09-10",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-877章",
+    latestChapter: "第849章 这两位定然是贵不可言的人",
+    excerpt: "温禾从没有想过他会穿越到武德九年。 他也没想到自己有一天会登唐入士。 直到那一天。 走投无路下，他来到了秦王府。 “未来的天可汗陛下，我真的是从未来来的，你要信我啊。” “这本大唐避坑指南，不需要998，也不要98，只要宰了李元吉，就能免费带回家。” 望着面前这自称是穿越者的少年，李世民看了看他，又看了看院子内挖好的坑。 “你是自己跳，还是本王帮你跳？” 温禾：“别激动别激动，难道你就不想了解一下",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/34b8c25b92f6?pwd=kyKP",
+    downloadUrl: "/books/1245_大唐：开局为李二献上避坑指南1-877章.txt",
+    sourceUrl: "https://www.deqixs.org/1245/txt.html#dir",
+  },
+{
+    id: 1246,
+    slug: "一人一驴一狗去修仙",
+    title: "一人一驴一狗去修仙",
+    cover: book1246Cover,
+    author: "三界新圣主",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2757章",
+    latestChapter: "第2756章 陆阳之强，神女发威",
+    excerpt: "【苟贱+夺笋+腹黑+爽文+老六+轻松+无节操】 与人斗：大黑，你去当诱饵！二驴子，你踹他屁股，我敲丫后脑勺！ 与鬼斗：大黑，吐血喷它！二驴子，放屁熏它，我用神火霹雳丹炸它！ 与妖斗：大黑，五步倒三倍量！二驴子，捆妖绳，迷魂阵伺候，我锅呢？ 与仙斗：大黑，不要莽，苟一波！二驴子，不要怂，驴死吊朝上！我还有事，先走一步! 与天斗：其乐无穷。 吴北良：仙草、灵气、鬼晶，妖丹都是我的，谁特么敢抢试试？二驴",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/29038cad5a27?pwd=brj5",
+    downloadUrl: "/books/1246_一人一驴一狗去修仙1-2757章.txt",
+    sourceUrl: "https://www.deqixs.org/1246/txt.html#dir",
+  },
+{
+    id: 1247,
+    slug: "1995-从刑侦专家开始",
+    title: "1995，从刑侦专家开始",
+    cover: book1247Cover,
+    author: "长夜水不眠",
+    date: "2026-09-12",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-366章",
+    latestChapter: "第365章 来就是捅窗户纸的",
+    excerpt: "1995年。 监控尚未普及，DNA仍是屠龙之技，指纹比对全靠肉眼，刑侦还信奉着一双脚印一包烟的“神探”经验。 也是这一年，警校毕业生李述入职南江市局技术大队，激活刑侦专家系统。 从此，一切开始改写。 【没有目击者？物证就是目击者】 【零口供？痕迹就是口供】 【你以为擦掉了指纹？不，你是把自己留在了现场】 经验会骗人，口供会翻供，唯有物证永不撒谎！ 李述只希望—— 在我之前，破案是艺术。 在我之后，",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9603eb63714b?pwd=bdAS",
+    downloadUrl: "/books/1247_1995，从刑侦专家开始1-366章.txt",
+    sourceUrl: "https://www.deqixs.org/1247/txt.html#dir",
+  },
+{
+    id: 1248,
+    slug: "玄鉴-木池见影",
+    title: "玄鉴，木池见影",
+    cover: book1248Cover,
+    author: "卫青棠",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-245章",
+    latestChapter: "第233章 广教",
+    excerpt: "《玄鉴仙族》同人文 妄言千般惑，诞语万种欺。 林深难见日，雾重易迷离。 这是一位集木修士在【祸延生】断绝之后，探索古老果位，终证大道的故事。 主角是李木田的弟弟，离开望月湖五十八年后，李木池终于回到了黎泾村......",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/49e1d91617ff?pwd=qvAA",
+    downloadUrl: "/books/1248_玄鉴，木池见影1-245章.txt",
+    sourceUrl: "https://www.deqixs.org/1248/txt.html#dir",
+  },
+{
+    id: 1249,
+    slug: "文明乐园",
+    title: "文明乐园",
+    cover: book1249Cover,
+    author: "虚伪王庭",
+    date: "2026-09-07",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-711章",
+    latestChapter: "第710章 威胁（为白银盟主冰衫沐雪加更）（四合一）",
+    excerpt: "一场来自高维文明的游戏。 是给人类带来希望，还是阴谋？ 面对即将熄灭的文明。 是帮助点燃火种，还是冷眼旁观？ 当这一切的选择权，落在你的手中，你又该如何抉择？",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d019ee85e88d?pwd=YY3V",
+    downloadUrl: "/books/1249_文明乐园1-711章.txt",
+    sourceUrl: "https://www.deqixs.org/1249/txt.html#dir",
+  },
+{
+    id: 1250,
+    slug: "姐姐是魔教教主",
+    title: "姐姐是魔教教主",
+    cover: book1250Cover,
+    author: "山中枯骨",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-577章",
+    latestChapter: "第576章 女孩的心思，陈青山不懂（4K）",
+    excerpt: "陈青山穿越到刚通关的武侠玄幻游戏《鬼谷奇谭》中，成为人人敬畏的魔教少主，有一位近乎当世无敌的魔教教主姐姐，备受这位教主姐姐宠溺、关爱。 但只有陈青山知道，这些都是假的。 他那个所谓关爱他的教主姐姐，恨不得将他做成人彘。 教主姐姐的仇敌们，也个个都眼冒绿光地盯着他，想要杀他报仇。 陈青山：“事到如今，姐……我们可以和解吗？” 沈凌霜冷笑：“为了活命，连姐姐都能喊出口吗？” 陈青山：“……” 能不能重",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0ed132352bd4?pwd=dQKp",
+    downloadUrl: "/books/1250_姐姐是魔教教主1-577章.txt",
+    sourceUrl: "https://www.deqixs.org/1250/txt.html#dir",
+  },
+{
+    id: 1251,
+    slug: "重生之时尚天王",
+    title: "重生之时尚天王",
+    cover: book1251Cover,
+    author: "城市里的奥特曼1",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-147章",
+    latestChapter: "第145章 爆！",
+    excerpt: "2009年，金融危机的寒潮席卷全球，奢侈品行业站在悬崖边缘。ChristianLacroix宣告破产，各大品牌裁员关店，巴黎时尚圈人心惶惶。 就在这个行业最寒冷的冬天，李寻站在康朋街三十一号，他是香奈儿设计师，师从卡尔·拉格斐与维吉妮·维雅德，在这座时尚圣殿里已经默默耕耘了四年。 没有人知道，这个看似天赋异禀的东方少年，其实是一个带着未来记忆的重生者。 上辈子三十岁才勉强进入巴黎独立设计师工作室，",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d54d377b0fa2?pwd=yZv5",
+    downloadUrl: "/books/1251_重生之时尚天王1-147章.txt",
+    sourceUrl: "https://www.deqixs.org/1251/txt.html#dir",
+  },
+{
+    id: 1252,
+    slug: "三国-末将俞涉-百世轮回",
+    title: "三国：末将俞涉，百世轮回",
+    cover: book1252Cover,
+    author: "许君.",
+    date: "2026-09-13",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-197章",
+    latestChapter: "第196章 俞子川巧计破二贼，吕温侯跃马救天子！（4/48）",
+    excerpt: "韩馥：“我有无双上将潘凤，可斩华雄！” 袁术：“且慢，斩华雄何须无双上将？我有小将俞涉，可轻取之。” 俞涉：“……” 这已经是第二世了，他是发现了，即便不主动请缨，袁术也非要他去斩华雄，他就不懂了，斩华雄这难道是什么好事吗？主公你怎么抢着要？ 俞涉无奈一叹，昂首上前！ “末将领命，此去不斩华雄，誓不回转！” 他出帐提枪而去，众诸侯只听得关外鼓声大振，喊声大举，如天摧地塌，众皆失惊。 正欲探听，只见",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/547fff2f19cc?pwd=1qEd",
+    downloadUrl: "/books/1252_三国：末将俞涉，百世轮回1-197章.txt",
+    sourceUrl: "https://www.deqixs.org/1252/txt.html#dir",
+  },
+{
+    id: 1253,
+    slug: "四合院-重生52年-逃荒四九城",
+    title: "四合院：重生52年，逃荒四九城",
+    cover: book1253Cover,
+    author: "咸鱼小子",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1058章",
+    latestChapter: "第1058章 这又是何苦呢？",
+    excerpt: "苏远穿越1952年，成了逃荒进四九城的流民。 此时还是军管时期，幸好住在城里的姥爷留下了遗产，得以留在四九城，住进了四合院后才发现是禽满四合院的世界。 这一年，秦淮茹还没嫁进贾家，何大清也还没跟白寡妇跑路，街道办也没成立，易中海还不是一大爷…… 但禽兽终究是禽兽，满满的都是算计。 好在苏远觉醒天道酬勤系统，只要努力就能变强！ 禽兽们想要算计，反被苏远轻松拿捏，并且狠狠的教训！ 贾东旭想娶秦淮茹？",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/df66ee2232f7?pwd=WFji",
+    downloadUrl: "/books/1253_四合院：重生52年，逃荒四九城1-1058章.txt",
+    sourceUrl: "https://www.deqixs.org/1253/txt.html#dir",
+  },
+{
+    id: 1254,
+    slug: "矢车菊魔女",
+    title: "矢车菊魔女",
+    cover: book1254Cover,
+    author: "青空乐章",
+    date: "2026-09-13",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-672章",
+    latestChapter: "第316章 绝境中的希望",
+    excerpt: "这是为超凡【性相】影响的世界，每个人都拥有独属的【命格卡】和【能力卡】，这些卡牌也因获得的‘性相’之力不同，展现不同的‘效果’和‘特征’ ----- 黄昏云海，大蛇遨游于天际 大蛇，背负世界的大蛇 七块大陆于蛇背之上起伏，亿万生灵随之于云海飘摇 这是为天外异星击碎的世界，亦是无数英雄升起和黯灭的舞台 世界的终焉尽头，十八条超凡性相的升阶之途闪耀，无数生灵也为此追逐奔走 渴望成为神灵，渴望成为流传世",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8fe6c519935b?pwd=z2iS",
+    downloadUrl: "/books/1254_矢车菊魔女1-672章.txt",
+    sourceUrl: "https://www.deqixs.org/1254/txt.html#dir",
+  },
+{
+    id: 1255,
+    slug: "冒牌领主",
+    title: "冒牌领主",
+    cover: book1255Cover,
+    author: "盲候",
+    date: "2026-09-07",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-311章",
+    latestChapter: "第310章 神秘的蓝皮黄金骑士",
+    excerpt: "罗南穿越而来，成了贵族大少的背锅替身。 此刻他正替那位刚凌辱了帝国名将夫人的本尊，被皇帝发配去往南境边陲的途中。 旧神、尸鬼、灵能、义体，蒸汽与火枪... 这是一个超凡世界。 罗南从冒牌领主开始，一点点开拓荒地，发掘遗迹，航海探索。 直到有一天，他登通天塔而上。 那些隐藏黑雾中的旧日主宰，尽皆匍匐，颤栗低语：“天灾之王”。 我叫罗南，我即天灾。 PS.《灾变卡皇》《机械炼金术士》相近题材，书荒可以",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/5e1525771a29?pwd=BdFM",
+    downloadUrl: "/books/1255_冒牌领主1-311章.txt",
+    sourceUrl: "https://www.deqixs.org/1255/txt.html#dir",
+  },
+{
+    id: 1256,
+    slug: "巨舰横宋-我的物资来自祖国",
+    title: "巨舰横宋：我的物资来自祖国",
+    cover: book1256Cover,
+    author: "伴读小牧童",
+    date: "2026-09-10",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-491章",
+    latestChapter: "第491章 、天呐……",
+    excerpt: "穿越南宋，林舟只想安静做个倒爷。 用泡面换铜钱，用卫生纸换人情，用现代药救古代命。 可他没想到，自己随手卖出的“小玩意儿”，竟引来皇城司的窥探。 更没想到那些被他庇护的战争孤儿里，竟藏着岳飞的后人…… 当穿越者的身份暴露，当这个时代的暴力机关盯上他时 林舟选择掀桌：“摊牌了，我背后有人！”",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7a603396538d?pwd=hybZ",
+    downloadUrl: "/books/1256_巨舰横宋：我的物资来自祖国1-491章.txt",
+    sourceUrl: "https://www.deqixs.org/1256/txt.html#dir",
+  },
+{
+    id: 1257,
+    slug: "我的天赋又升级了",
+    title: "我的天赋又升级了！",
+    cover: book1257Cover,
+    author: "黑心的大白",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-186章",
+    latestChapter: "第186章 献祭流领主，民间异士，任务完成！",
+    excerpt: "【欢迎来到诸天万界副本系统。】 【天赋觉醒中……】 【觉醒完毕！】 【恭喜您，觉醒了X级本命天赋：天赋升级！】 【天赋升级（X级）：完成天赋升级任务后，您的其他天赋可以获得一次升级。】 …… 领导力E级——威势D级——震慑C级——集众B级——统御A级——征服者S级——至高皇权ss级——天下合sss级——无上御主至高级。 耐力F级——强化耐力E级——超级耐力D级——强效持久C级——刷新B级——时间魔",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/3a999f98ee8d?pwd=ETRJ",
+    downloadUrl: "/books/1257_我的天赋又升级了！1-186章.txt",
+    sourceUrl: "https://www.deqixs.org/1257/txt.html#dir",
+  },
+{
+    id: 1258,
+    slug: "未知入侵",
+    title: "未知入侵",
+    cover: book1258Cover,
+    author: "荆柯守",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-965章",
+    latestChapter: "第964章 路边一条",
+    excerpt: "当金色沙漏倒转。 当时空为此倒流。 一切都回到刚刚开始的时候！ 迷雾之海，漂浮之岛，邪祟与未知，属于穿越者的灵魂真正苏醒，誓要挽回昔日一切遗憾，杀穿这个世界！ 敢问深海，邪崇与第四天灾，谁才是入侵者？ （本文内含元素，架空世界，重生，系统，穿越者）",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/760c87e31c68?pwd=EkeM",
+    downloadUrl: "/books/1258_未知入侵1-965章.txt",
+    sourceUrl: "https://www.deqixs.org/1258/txt.html#dir",
+  },
+{
+    id: 1259,
+    slug: "顶罪五年后-我医武双绝的身份瞒不住了",
+    title: "顶罪五年后，我医武双绝的身份瞒不住了",
+    cover: book1259Cover,
+    author: "清风万里",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1788章",
+    latestChapter: "第1788章 宗主之女患病",
+    excerpt: "五年前，萧若尘本是东海萧家嫡长孙，生活惬意，挥金如土。 却为未婚妻弟弟顶罪，来到了大夏北境，黑山女子监狱。 整座监狱只有萧若尘一个男人，而这里的女犯人却是各具本领，有名顶尖的金融大鳄、有正统的天师道传人、更有活死人肉白骨的绝谷医圣…… 但当她出狱之时，没见到未婚妻的迎接，反而听到一通噩耗。 三个哥哥皆战死边疆尸骨无存，爷爷病重，家族遭逢大变，而未婚妻嫌弃家道中落，拒绝成婚，义无反顾扑进富二代的怀抱",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/225771b1c034?pwd=d6hB",
+    downloadUrl: "/books/1259_顶罪五年后，我医武双绝的身份瞒不住了1-1788章.txt",
+    sourceUrl: "https://www.deqixs.org/1259/txt.html#dir",
+  },
+{
+    id: 1260,
+    slug: "说好低调发育-全服公告什么鬼",
+    title: "说好低调发育，全服公告什么鬼？",
+    cover: book1260Cover,
+    author: "稀粥西洲",
+    date: "2026-09-12",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-386章",
+    latestChapter: "第386章 管理员开大会（猛物出笼，保持严肃）",
+    excerpt: "航海游戏开启，重活一世，信奉枪打出头鸟，苟住才能赢的于妄忽然想要做出一些改变。 于是—— 【天哪！竟然在一瞬间引得了超过十亿人的羡慕嫉妒恨！这是何等的引恨能力！吾等自愧不如！恭喜获得唯一成长称号‘显眼包’】 …… 【叮！您的称号进阶为‘领头羊’！】 【不再是单纯的显眼，而是开始成为真正引领方向、凝聚团队的存在！记住，领头羊的角，总是指向水源与草场。】 …… 【叮！您的称号进阶为‘独裁者’！】 【你",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/932fb122f40a?pwd=XYaf",
+    downloadUrl: "/books/1260_说好低调发育，全服公告什么鬼？1-386章.txt",
+    sourceUrl: "https://www.deqixs.org/1260/txt.html#dir",
+  },
+{
+    id: 1261,
+    slug: "炼气士不死于无限",
+    title: "炼气士不死于无限",
+    cover: book1261Cover,
+    author: "二重渔者",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-88章",
+    latestChapter: "第60章 修行与任务世界开启！",
+    excerpt: "（全程采用古法码字） 正欲急头白脸闭关一顿，琢磨如何突破【炼精化气】的半妖炼气士闻业，恍然间一头扎进主神空间。 诸天万界，多元宇宙，无限的可能性扑面而来—— 蓝条与法术位之论，争辩不休，四大炼与明暗化丹劲，孰是孰非。 九颗恒星作动力炉的中子星魔像可否号称九阳神功大成？ 魔女之力、盖塔射线和螺旋力，三人行必有我师焉。 非法集资的远古光之巨人和零帧贷款的史上最强咒术师，哪位金融造诣更为深厚？ 唯重心性",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b96a9359d921?pwd=MEpj",
+    downloadUrl: "/books/1261_炼气士不死于无限1-88章.txt",
+    sourceUrl: "https://www.deqixs.org/1261/txt.html#dir",
+  },
+{
+    id: 1262,
+    slug: "从预支死亡开始斩蛟成道",
+    title: "从预支死亡开始斩蛟成道",
+    cover: book1262Cover,
+    author: "南虞十六声",
+    date: "2026-08-26",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-441章",
+    latestChapter: "第436章 见长殊",
+    excerpt: "上有青冥天，蛟蛇逶迤过， 雷声声，雨滂滂。 人间人，服黄金，吞白玉，摩挲素月两千年。 意气峥嵘，飞光劝酒，呼龙耕烟，你休我兴。 吾不识此天地丑，唯见月寒日暖， 摧光煎人寿。 —— 李伏蝉一朝穿越，化身为未角隐介山，窃栖飞蚯洞余升真人座下第七弟子。 本以为能够修仙求道，仗剑天下。 直到看见二师兄修成‘至净法’后，被一口吞掉。 原来所谓的修行，不过是洗干净身子，给妖魔当零嘴。 修行之人，境界越高，人性",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/0fc6cdb1a869?pwd=LDRh",
+    downloadUrl: "/books/1262_从预支死亡开始斩蛟成道1-441章.txt",
+    sourceUrl: "https://www.deqixs.org/1262/txt.html#dir",
+  },
+{
+    id: 1263,
+    slug: "山雨蛟",
+    title: "山雨蛟",
+    cover: book1263Cover,
+    author: "舒楠泽",
+    date: "2026-09-11",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-256章",
+    latestChapter: "第256章 大旱",
+    excerpt: "修炼之路看似风光，实则如履薄冰，其中的苦只有自己知道。 一条出身寒微的黑蛇，无依无靠，风雨独行，游走于人间边缘。 逃不脱雷火焚身，苦苦挣扎，前路未知…… 记载过往，七分真三分假。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/389185c27ff5?pwd=SZgv",
+    downloadUrl: "/books/1263_山雨蛟1-256章.txt",
+    sourceUrl: "https://www.deqixs.org/1263/txt.html#dir",
+  },
+{
+    id: 1264,
+    slug: "肉身成圣-从站桩加点开始",
+    title: "肉身成圣：从站桩加点开始",
+    cover: book1264Cover,
+    author: "张道宗",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-905章",
+    latestChapter: "第905章 灵珠！集齐",
+    excerpt: "九州大陆，长夜难明。 邪祟惑人，诡异害人，妖魔吃人。 张灵山身负属性面板来到这方世界，战战兢兢，努力加点。 直到——“张大人，这是油炸邪祟、清蒸诡异、烧烤妖魔，您吃哪一个？” “小孩子才做选择，我全都要！” 邪祟们瑟瑟发抖：到底谁才是妖魔啊。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8a8da208bd2a?pwd=veRg",
+    downloadUrl: "/books/1264_肉身成圣：从站桩加点开始1-905章.txt",
+    sourceUrl: "https://www.deqixs.org/1264/txt.html#dir",
+  },
+{
+    id: 1265,
+    slug: "永恒剑祖",
+    title: "永恒剑祖",
+    cover: book1265Cover,
+    author: "剑宗",
+    date: "2026-09-04",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-3625章",
+    latestChapter: "第3589章 天罡地煞绝生阵！",
+    excerpt: "一代剑道天帝证道屠神，入轮回转世重生。 这一世，修上古之法，锻肉身天地，打破天地桎梏，斩碎欺世阴谋，以无敌之姿，重登无上巅峰，让那天宫颤抖，使那众神匍匐！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c9575ee5675a?pwd=z3fY",
+    downloadUrl: "/books/1265_永恒剑祖1-3625章.txt",
+    sourceUrl: "https://www.deqixs.org/1265/txt.html#dir",
+  },
+{
+    id: 1266,
+    slug: "临死才来千亿家产-重生先找妈",
+    title: "临死才来千亿家产，重生先找妈",
+    cover: book1266Cover,
+    author: "少主勿念",
+    date: "2026-09-04",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-229章",
+    latestChapter: "第229章 多行不义必自毙",
+    excerpt: "陈默上辈子活得像个笑话。 暗恋三年不敢表白的女孩，后来才知道人家等了他四年。 没钱给父亲治病，最后眼睁睁看着人走。 母亲为他累死在大街上。 妹妹为他嫁给人渣，最后割了腕。 他自己肺癌晚期，躺在病床上等死。 然后律师来了。 “陈先生，您母亲找了你四十年，临终前立下遗嘱，所有财产——一千亿，都由您继承。” 陈默笑了。 笑得眼泪都出来了。 一千亿，来得真他妈是时候！ 自己要这一千亿有个屁用！ 然后……",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/6f7713b3cdac?pwd=UZ5P",
+    downloadUrl: "/books/1266_临死才来千亿家产，重生先找妈1-229章.txt",
+    sourceUrl: "https://www.deqixs.org/1266/txt.html#dir",
+  },
+{
+    id: 1267,
+    slug: "村光撩人",
+    title: "村光撩人",
+    cover: book1267Cover,
+    author: "想吃饺子",
+    date: "2026-08-22",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-447章",
+    latestChapter: "第447章 大结局",
+    excerpt: "【春光撩人】【暧昧爽文】一次送菜的时候，竟阴差阳错的送到了来村里投资的女老板床上，还觉醒了瞎子爷留下的阴阳和合宗的传承，风水、医术、武学皆在其中。 爹死，娘嫁人，只能像狗一样在村里一家饭店打工赚钱养活自己的徐阳，从那以后，美人在怀，发展工业，带领乡亲们走向共同富裕。 抢我土地，抢我房屋的大伯，横行乡里的恶霸，偷过我钱的痞子，全都被我踩到了脚下。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/67bb31590efb?pwd=bUzS",
+    downloadUrl: "/books/1267_村光撩人1-447章.txt",
+    sourceUrl: "https://www.deqixs.org/1267/txt.html#dir",
+  },
+{
+    id: 1268,
+    slug: "权力争锋",
+    title: "权力争锋",
+    cover: book1268Cover,
+    author: "东流无歇",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-911章",
+    latestChapter: "第911章 论在江平市的人脉",
+    excerpt: "权力的棋盘，每个人都有可能是执棋者，也都有可能成为别人指尖上的棋子，在权力争斗，利益纠葛，桃色旋涡中，看秦涛如何守得清明，为民请命，青云直上，问鼎巅峰！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9e25115f2d60?pwd=fHy4",
+    downloadUrl: "/books/1268_权力争锋1-911章.txt",
+    sourceUrl: "https://www.deqixs.org/1268/txt.html#dir",
+  },
+{
+    id: 1269,
+    slug: "子承母业-我在豪门当佣人",
+    title: "子承母业，我在豪门当佣人",
+    cover: book1269Cover,
+    author: "西椰蟹",
+    date: "2026-08-31",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-1051章",
+    latestChapter: "第1051章 带房卡了？",
+    excerpt: "什么？ 他唐川堂堂金融、法学双料硕士，你让我去当佣人？ 狗都不…… “工资两万多。” “去！狗不去我去！” 就这样，唐川在老妈的介绍下，成功当上的豪门佣人。 住别墅，开豪车，年纪轻轻就过上了别人做梦都不敢想的日子。 唐川的想法很简单，子承母业，争取当个管事。 只不过，他想过上位，却没想到是这么个上位。 看着大小姐的深情告白，和二小姐送来的情书。 唐川有点凌乱了……",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/72eb9c6fd64d?pwd=8yWZ",
+    downloadUrl: "/books/1269_子承母业，我在豪门当佣人1-1051章.txt",
+    sourceUrl: "https://www.deqixs.org/1269/txt.html#dir",
+  },
+{
+    id: 1270,
+    slug: "茅山天师",
+    title: "茅山天师",
+    cover: book1270Cover,
+    author: "九九瑞阳",
+    date: "2026-09-02",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-1016章",
+    latestChapter: "第1016章 空间扭曲",
+    excerpt: "奶奶的离世，间接的将我推向了一条与普通人截然不同的道路，从此我的命运开始改变，而伴随着我在这条路上越走越远，经历的事情也越来越多，地府阴差，八门尸煞，灵岩鬼界，昆仑魔魃等等之后，我却突然发现，这些事情好像都在指向一个阴谋，一个足以翻天覆地的阴谋......",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/de771d0b1892?pwd=6akT",
+    downloadUrl: "/books/1270_茅山天师1-1016章.txt",
+    sourceUrl: "https://www.deqixs.org/1270/txt.html#dir",
+  },
+{
+    id: 1271,
+    slug: "狂龙出狱-三个绝色嫂嫂找上门",
+    title: "狂龙出狱，三个绝色嫂嫂找上门",
+    cover: book1271Cover,
+    author: "善良的枪",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1110章",
+    latestChapter: "第1110章 双子封灵阵",
+    excerpt: "五年前，江辰替未婚妻入狱，狱中偶遇奇人，习得惊天玄术，脱胎换骨一飞冲天。 五年后，江辰出狱，却被未婚妻嫌弃家道中落，上门退婚。 而当江辰展露出绝世医术，武道通天，未婚妻悔断肠。 未婚妻：我们和好吧，我已经知道错了，我们回到过去好不好？。 江辰：滚！ 五年潜龙在渊，一朝蹑云而上！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c7f7d5920652?pwd=QscS",
+    downloadUrl: "/books/1271_狂龙出狱，三个绝色嫂嫂找上门1-1110章.txt",
+    sourceUrl: "https://www.deqixs.org/1271/txt.html#dir",
+  },
+{
+    id: 1272,
+    slug: "开局丹田被废-我靠炼丹杀疯了",
+    title: "开局丹田被废，我靠炼丹杀疯了",
+    cover: book1272Cover,
+    author: "码字养猫",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1584章",
+    latestChapter: "第1584章 参悟",
+    excerpt: "丹圣顾渊，因丹炉爆炸陨落，重生为天玄大陆臭名昭著的纨绔少爷。丹田被废，家族倾颓，强敌环伺。 在这以武为尊的世界，弱者连苟活的资格都没有！ “既然重活一世，我便以丹道通神，以武道镇天！” 左手无上丹术，炼天地为炉，逆生死，夺造化；右手无敌战技，碎山河，破万法，败尽天骄！ 从人人唾弃的废物，到举世震颤的至尊，顾渊踏出的每一步，都在告诉这世间—— “要么臣服，要么毁灭！”",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/54ce99409886?pwd=zsQD",
+    downloadUrl: "/books/1272_开局丹田被废，我靠炼丹杀疯了1-1584章.txt",
+    sourceUrl: "https://www.deqixs.org/1272/txt.html#dir",
+  },
+{
+    id: 1273,
+    slug: "狱出狂龙",
+    title: "狱出狂龙",
+    cover: book1273Cover,
+    author: "七弦",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-3719章",
+    latestChapter: "第3719章 皮卷里的“五谷丰登”",
+    excerpt: "新婚之夜，秦风被害入狱五年。 狱中继承盘龙殿少主之位，巨豪、杀手、军阀大佬纷纷成为其小弟。 五年之期已到，出狱后，必将有仇报仇，有恩报恩！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/9b23868698d0?pwd=jJR6",
+    downloadUrl: "/books/1273_狱出狂龙1-3719章.txt",
+    sourceUrl: "https://www.deqixs.org/1273/txt.html#dir",
+  },
+{
+    id: 1274,
+    slug: "太子爷给别人养孩子后-唐小姐潇洒放手",
+    title: "太子爷给别人养孩子后，唐小姐潇洒放手",
+    cover: book1274Cover,
+    author: "茶树",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-300章",
+    latestChapter: "第300章 发烧",
+    excerpt: "【追妻火葬场+女主封神+前夫他不配】 结婚四年，唐宁终于对这段婚姻死心了。 她家出事那晚，陈砚衍当着她面，把另一个女人护在身后。 结结实实护着，一根头发丝都不让人碰。 而她，像个笑话。 圈里人都知道，唐宁追了陈砚衍多年才嫁给他，追得疯疯癫癫、声名狼藉。 可他们不知道，她这个疯子，也有安安静静的一天。 安静到—— 离婚那天，都没打扰他半分钟。 陈砚衍不知道，离婚证她早就拿到手了。 陈砚衍更不知道，那",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/cd1d04d55f7d?pwd=6fkG",
+    downloadUrl: "/books/1274_太子爷给别人养孩子后，唐小姐潇洒放手1-300章.txt",
+    sourceUrl: "https://www.deqixs.org/1274/txt.html#dir",
+  },
+{
+    id: 1275,
+    slug: "权力巅峰从借调纪委开始",
+    title: "权力巅峰从借调纪委开始",
+    cover: book1275Cover,
+    author: "晨曦落月",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-958章",
+    latestChapter: "第958章 再会苏燕临",
+    excerpt: "身在官场志守廉，敢为苍生质昊天。为民着想民方敬，致仕美誉价万千。 不受重用，默默无闻的小科员遭遇女友出轨，人生遭遇第一个灰暗时刻却接到纪委的借调通知，而第一个调查对象居然就是女友的出轨对象......",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/abd18f567e44?pwd=HLHY",
+    downloadUrl: "/books/1275_权力巅峰从借调纪委开始1-958章.txt",
+    sourceUrl: "https://www.deqixs.org/1275/txt.html#dir",
+  },
+{
+    id: 1276,
+    slug: "无限制道主",
+    title: "无限制道主",
+    cover: book1276Cover,
+    author: "月中阴",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-5000章",
+    latestChapter: "第292章 领悟生命之秘，飞升在即！",
+    excerpt: "武功若没有了限制，会是什么样？ 当张宿的武功契合度100%时，他忽然发现，原来练武这么简单，一头猪都能起飞…… ……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/3f3d02bf6ed4?pwd=pmQM",
+    downloadUrl: "/books/1276_无限制道主1-5000章.txt",
+    sourceUrl: "https://www.deqixs.org/1276/txt.html#dir",
+  },
+{
+    id: 1277,
+    slug: "大明1629-我崇祯-开局单挑皇太极",
+    title: "大明1629：我崇祯，开局单挑皇太极",
+    cover: book1277Cover,
+    author: "快飞的乌鸦",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1045章",
+    latestChapter: "第1045章 王府叩门",
+    excerpt: "现代大学生朱敛，机缘巧合穿越到了1629年的崇祯帝朱由检身上。 此时，大明国运将尽，天下将倾。 天时，小冰河时期，大明各地天灾不断，陕西陕西旱灾、蝗灾、粮食几乎绝产。黄河决堤，河南局部水患，灾民遍野。 地利，己巳之变，皇太极领清兵和蒙古诸部，绕道蒙古，破龙井关、洪山口、大安口。围困遵化，兵峰直指京城。京师告急。 人和，大明朝廷内部党争不断，另，陕西、山西、河南、湖广、甘肃等地爆发民乱，各地起义军已",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/cfc7dcd68234?pwd=CDcp",
+    downloadUrl: "/books/1277_大明1629：我崇祯，开局单挑皇太极1-1045章.txt",
+    sourceUrl: "https://www.deqixs.org/1277/txt.html#dir",
+  },
+{
+    id: 1278,
+    slug: "代晋",
+    title: "代晋",
+    cover: book1278Cover,
+    author: "大苹果",
+    date: "2026-09-05",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1827章",
+    latestChapter: "第1825章 攻城（五）",
+    excerpt: "这是群星闪耀的时代，名士风度，诗酒风流。 这是最黑暗的时代，命如草芥，尸山血海。 漫漫长夜，谁是带来光明的那道光？沉沉大地，谁是拯救万民的救世主？ 王与马共天下，我与谁共天下！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/106ac5185e01?pwd=diX6",
+    downloadUrl: "/books/1278_代晋1-1827章.txt",
+    sourceUrl: "https://www.deqixs.org/1278/txt.html#dir",
+  },
+{
+    id: 1279,
+    slug: "葬仙棺",
+    title: "葬仙棺",
+    cover: book1279Cover,
+    author: "执笔人",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1863章",
+    latestChapter: "第1863章 违反规矩",
+    excerpt: "女大三亿，盘古是我弟。 陆天命本为昆仑圣子，却被未婚妻陷害，道骨被抽，成为圣地最低级的杂役弟子，受尽唾弃。 意外下，觉醒在远古禁区得到的青铜古棺。 古棺内，沉睡一个惊艳众生，倾国倾城的绝代丽人，竟要与他强行双修。 陆天命嗷嗷大叫，不愿屈服。 结果却得到史上最惊人的体质——大荒帝体。 此后一代传奇，就此揭开… 白衣女帝：“三年后，你若达不到道王境，下次双修，你必死无疑。” “……” 陆天命麻了，还要",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8273910230e7?pwd=3TdE",
+    downloadUrl: "/books/1279_葬仙棺1-1863章.txt",
+    sourceUrl: "https://www.deqixs.org/1279/txt.html#dir",
+  },
+{
+    id: 1280,
+    slug: "师娘-我真不想下山啊",
+    title: "师娘，我真不想下山啊！",
+    cover: book1280Cover,
+    author: "冬飞寒",
+    date: "2026-09-01",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-3729章",
+    latestChapter: "第3729章 终极之战（下）",
+    excerpt: "被八个师父收养的苏麟，自幼在山上长大，其余师父离开后，便和美艳师娘相依为命！ 这一天，美艳师娘赶他下山，苏麟可怜兮兮表示：师娘，我真的不想下山—— 但……山下的老婆太漂亮了啊！！",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d6993d6da321?pwd=ySTx",
+    downloadUrl: "/books/1280_师娘，我真不想下山啊！1-3729章.txt",
+    sourceUrl: "https://www.deqixs.org/1280/txt.html#dir",
+  },
+{
+    id: 1281,
+    slug: "我单身后-富婆姐姐圈蠢蠢欲动",
+    title: "我单身后，富婆姐姐圈蠢蠢欲动",
+    cover: book1281Cover,
+    author: "月下冰河",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-925章",
+    latestChapter: "第925章 鬼打墙",
+    excerpt: "周扬遭女友背叛后，果断分手。 没想到的是，他单身后，人生竟突然开挂。 各路年轻富婆，各种类型的女强人，各色女神，都在命运的安排下，来到他的身边。 她们成为周扬坚强的后盾，助他一步步踏上巅峰。 曾经背叛我的，嘲笑我的，在这一刻，通通跪地膜拜。 我叫周扬，我终将为王。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b34716fba5f7?pwd=rZiY",
+    downloadUrl: "/books/1281_我单身后，富婆姐姐圈蠢蠢欲动1-925章.txt",
+    sourceUrl: "https://www.deqixs.org/1281/txt.html#dir",
+  },
+{
+    id: 1282,
+    slug: "系统误判-你靠武侠系统称霸高武",
+    title: "系统误判：你靠武侠系统称霸高武？",
+    cover: book1282Cover,
+    author: "爱喝苦咖啡",
+    date: "2026-08-22",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1500章",
+    latestChapter: "第250章 征战异族，启航也是结束！",
+    excerpt: "苏晨穿越高武世界，却是天生废物星能。 眼看武科落榜、家人受难……系统觉醒了！。 然而系统却将高武世界误判为武侠江湖，修内力、练武学、激活根骨神通。 苏晨用纯正的江湖武学，杀星兽、破壁垒、战天骄。 奔赴星空防线，阻挡异族炮火。 最终坐镇人族防线，以武侠之道一路登顶，称霸高武世界。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/7bf2825abe0d?pwd=X84e",
+    downloadUrl: "/books/1282_系统误判：你靠武侠系统称霸高武？1-1500章.txt",
+    sourceUrl: "https://www.deqixs.org/1282/txt.html#dir",
+  },
+{
+    id: 1283,
+    slug: "重生六零被堂嫂逆推-系统非说她是丧尸",
+    title: "重生六零被堂嫂逆推，系统非说她是丧尸！",
+    cover: book1283Cover,
+    author: "天堂救护车",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-208章",
+    latestChapter: "第208章 送温书瑶回家，黄点消失！",
+    excerpt: "【年代重生+末世系统+空间+物资+轻松+爽文+多女主】 李承志带着诸多遗憾重生回1960灾荒年，开局就要被美艳堂嫂逆推！ 外头还有一群老光棍要上门来抢媳妇！ 但好在，他觉醒了…… 【检测到最后一个人类存活个体，末世生存系统绑定。】 【恭喜，您成功豁免魅惑型丧尸的攻击！】 【您获得奖励：A级身体素质强化，军用炒面20斤】 丧尸？这不嫂子吗？ 看着压在自己身上梨花带雨的堂嫂，李承志瞬间雄起，反手投喂粮",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/d542632697f5?pwd=f6Vh",
+    downloadUrl: "/books/1283_重生六零被堂嫂逆推，系统非说她是丧尸！1-208章.txt",
+    sourceUrl: "https://www.deqixs.org/1283/txt.html#dir",
+  },
+{
+    id: 1284,
+    slug: "斗罗-我结拜菊鬼-传灵天下",
+    title: "斗罗：我结拜菊鬼，传灵天下！",
+    cover: book1284Cover,
+    author: "小的小怪",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-362章",
+    latestChapter: "第336章 ：刚子小舞合谋！",
+    excerpt: "【结拜幼年菊鬼】【时间线提前】【虐三虐肛，虐昊天！】 徐骁，穿越早了。 遇到了幼年时候的菊斗罗与鬼斗罗。 与他们相处下来，徐骁毅然决然跟其结拜。 如此忠心之人，与其给了比比东那个白眼狼，不如自己收下。 现在一切都还没有发生，一切都还来得及。 结拜菊鬼，改其命运，布局诛唐三，日常辱废刚。 徐骁觉醒传灵塔武魂，唯一魂技赋魂。 每吸收一个魂环就能以十倍增幅给别人附加魂环。 这样操作简单而又强大的魂环，徐",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/16e9f75df9a1?pwd=Msif",
+    downloadUrl: "/books/1284_斗罗：我结拜菊鬼，传灵天下！1-362章.txt",
+    sourceUrl: "https://www.deqixs.org/1284/txt.html#dir",
+  },
+{
+    id: 1285,
+    slug: "天命守村人",
+    title: "天命守村人",
+    cover: book1285Cover,
+    author: "王十四",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1537章",
+    latestChapter: "第1537章 活着！",
+    excerpt: "每个村都有一个傻子…… 老辈人习惯称他们为守村人，又名镇阴人，据说能为村子消灾当难。 我就是我们村的那个傻子…… 十二岁那年，我被阎王点卯，为了活命，我被迫成了我们村的守村人。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/abe479a0a15b?pwd=5F48",
+    downloadUrl: "/books/1285_天命守村人1-1537章.txt",
+    sourceUrl: "https://www.deqixs.org/1285/txt.html#dir",
+  },
+{
+    id: 1286,
+    slug: "独步成仙",
+    title: "独步成仙",
+    cover: book1286Cover,
+    author: "搞个锤子",
+    date: "2026-09-06",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-6089章",
+    latestChapter: "第500章",
+    excerpt: "一段凡人的成仙史 一段仙界囚龙的秘辛 陆小天最初的追求不过是踏上永生的仙道， 但披荆斩棘得偿所愿之后， 却发现仙远远不是尽头",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/55dd78b48e03?pwd=NrhK",
+    downloadUrl: "/books/1286_独步成仙1-6089章.txt",
+    sourceUrl: "https://www.deqixs.org/1286/txt.html#dir",
+  },
+{
+    id: 1287,
+    slug: "苟在诸天从黑暗佛门开始",
+    title: "苟在诸天从黑暗佛门开始",
+    cover: book1287Cover,
+    author: "是桃花酥呀",
+    date: "2026-08-22",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-124章",
+    latestChapter: "第121章 贼！！第一次过去结束（第5章 9K字-求订阅）",
+    excerpt: "天下之欲皆在香火， 庸庸来客成我极乐， 养我巨妄他化自在， 然后...造妖，分魔，为佛！ 李玄一头栽入瑰丽玄奇的诸天世界，而第一个便是黑暗佛门世界。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/eb7ccbff1451?pwd=d8c2",
+    downloadUrl: "/books/1287_苟在诸天从黑暗佛门开始1-124章.txt",
+    sourceUrl: "https://www.deqixs.org/1287/txt.html#dir",
+  },
+{
+    id: 1288,
+    slug: "这年头谁还不是个武者啊",
+    title: "这年头谁还不是个武者啊",
+    cover: book1288Cover,
+    author: "古月居士",
+    date: "2026-09-10",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-880章",
+    latestChapter: "第880章 实在不行，那就双话事人咯！",
+    excerpt: "天际线外银月在闪耀，数个世界在彼此重合，神明、人类、巨兽、魔物、妖孽、怪诞、异类在交相辉映。 那古老斑驳的岁月缓缓流淌至新时代，更加古老的武者们也在新的时代里有了新的姿态…… 他的拳头在撕裂时空，他的脚在跺碎星河，他的念头在悬转宇宙…… 什么？ 你们说这根本不是武者？武者根本没这么强？ 王璃：嘎嘎嘎，胡说，武道岂是如此不便之物，这年头谁还不是个武者啊！",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8eaed2d234da?pwd=gPui",
+    downloadUrl: "/books/1288_这年头谁还不是个武者啊1-880章.txt",
+    sourceUrl: "https://www.deqixs.org/1288/txt.html#dir",
+  },
+{
+    id: 1289,
+    slug: "上个恋综-你把女嘉宾全渣了",
+    title: "上个恋综，你把女嘉宾全渣了？",
+    cover: book1289Cover,
+    author: "漫长de雨季",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-269章",
+    latestChapter: "第269章 好帅",
+    excerpt: "什么？ 穿越成为恋综嘉宾了？ 还没有原主的任何记忆？ 林七月一脸懵逼，根本不知道自己已经背了个大锅，成为了一个全网唾弃的死渣男。 而他遇到的第一个女嘉宾，就是被自己甩掉的前女友。 但林某人表示，认错是不可能认错的，只不过我这里有一首《依然爱你》…… 等等，你哭什么？这歌又不是写给你的，工作不能带情绪啊！ 顶流游戏主播夏沫希：“我就带我就带，我还要继续爱你！” 华娱大小姐沈知予：“这个渣男好像有点不",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8783f6deddc9?pwd=utu8",
+    downloadUrl: "/books/1289_上个恋综，你把女嘉宾全渣了？1-269章.txt",
+    sourceUrl: "https://www.deqixs.org/1289/txt.html#dir",
+  },
+{
+    id: 1290,
+    slug: "我都大帝晚年了-新手系统才来",
+    title: "我都大帝晚年了，新手系统才来？",
+    cover: book1290Cover,
+    author: "女孩那么可爱",
+    date: "2026-08-23",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-177章",
+    latestChapter: "第177章 杀戮仙王",
+    excerpt: "李长生穿越八千年，已经成帝。 八千年里，他东征西战，从未有过败绩，让世界安稳了八千年。 凡人一世百年，修行者一世千年，他帝者大限将至。 早年留下的大道伤爆发，即将帝殒九天。 这个时候，迟到了八千年的系统来了，发布了第一个新手期任务。 【击败长恨魔门的新晋入门弟子了无涯。】 我一个老年大帝，你让我去完成新手任务？",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/ebacf86e4be0?pwd=j8Lz",
+    downloadUrl: "/books/1290_我都大帝晚年了，新手系统才来？1-177章.txt",
+    sourceUrl: "https://www.deqixs.org/1290/txt.html#dir",
+  },
+{
+    id: 1291,
+    slug: "四合院-截胡秦淮茹-过躺赢人生",
+    title: "四合院：截胡秦淮茹，过躺赢人生",
+    cover: book1291Cover,
+    author: "火红年代",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-276章",
+    latestChapter: "第276章 有人上赶着认干爹？",
+    excerpt: "李平安穿越1952年，成为南锣鼓巷95号院的一个普通住户！ 不仅继承了巨额遗产，还觉醒了截胡系统，可谓是天胡开局！ 正好碰到秦淮茹和贾东旭相亲。 李平安自然不会客气，果断截胡秦淮茹！ 谁知道，截胡秦淮茹后，系统奖励大爆发。 直接财富自由，几辈子不用愁了。 那还努力啥啊？直接躺平当咸鱼！ 都说秦淮茹是坑，只有娶了她才知道，有多享福。 在家里，李平安说一不二，衣来伸手饭来张口，秦淮茹把他伺候得服服帖帖",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c8fc5cb67282?pwd=TbnN",
+    downloadUrl: "/books/1291_四合院：截胡秦淮茹，过躺赢人生1-276章.txt",
+    sourceUrl: "https://www.deqixs.org/1291/txt.html#dir",
+  },
+{
+    id: 1292,
+    slug: "刚参军入伍-发现爷爷是开国战神",
+    title: "刚参军入伍，发现爷爷是开国战神",
+    cover: book1292Cover,
+    author: "万岁军王",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-588章",
+    latestChapter: "第587章 特战大佬，在线学喘气",
+    excerpt: "【严谨+无女主+热血】 一觉醒来，林川穿越到平行世界的98年。 前世，他是特战兵王，令无数敌人闻之色变的丛林幽灵。而现在这重生的家庭，贫困、吃不饱，还有弟弟妹妹要养。 原主现读高三，人老实，学习也好，有望可以考上大学。 但以目前家庭的收入，考上了也未必有钱读。所以，林川打算再次入伍。 但现在已经是1月，入伍时间已过了一个月。 爷爷知道林川的决定后，立即一个电话打到了武装部。 武装部部长立即驱车赶来",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/6cc1d8853688?pwd=4WBC",
+    downloadUrl: "/books/1292_刚参军入伍，发现爷爷是开国战神1-588章.txt",
+    sourceUrl: "https://www.deqixs.org/1292/txt.html#dir",
+  },
+{
+    id: 1293,
+    slug: "葬神渊",
+    title: "葬神渊",
+    cover: book1293Cover,
+    author: "韩想娶白",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1847章",
+    latestChapter: "第1847章 龙战天，随你便",
+    excerpt: "“秦隐，与我们九人双修之后，你可离开葬神渊！。” 葬神渊内，九位神态各异，绝美若仙的女子伫立在秦隐面前。 “我拒绝！” “拒绝无效！” 秦隐彻底崩溃了。 “求求九大女帝饶了我吧？” 多年之后。 “真香！” 面对万界至尊。 秦隐只道：“我身后就九个无敌女帝，我无敌你们随意！”",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/c475d0f736f7?pwd=2dGw",
+    downloadUrl: "/books/1293_葬神渊1-1847章.txt",
+    sourceUrl: "https://www.deqixs.org/1293/txt.html#dir",
+  },
+{
+    id: 1294,
+    slug: "叩问仙道",
+    title: "叩问仙道",
+    cover: book1294Cover,
+    author: "雨打青石",
+    date: "2026-09-06",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-2793章",
+    latestChapter: "第2789章 万象显影灯",
+    excerpt: "一个凡人少年因为一次意外而误入仙道，在求仙路上挣扎前行。 仙路难于登天，面对重重险阻，他的求道之心依然不减分毫。 再回首，青山依旧在，故旧皆白骨。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b7f0ff19f0a0?pwd=wTax",
+    downloadUrl: "/books/1294_叩问仙道1-2793章.txt",
+    sourceUrl: "https://www.deqixs.org/1294/txt.html#dir",
+  },
+{
+    id: 1295,
+    slug: "苗疆小奶团-全豪门都叫我祖奶奶",
+    title: "苗疆小奶团：全豪门都叫我祖奶奶",
+    cover: book1295Cover,
+    author: "24K纯水",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-230章",
+    latestChapter: "第230章 把脑袋剁下来，给她当球踢！",
+    excerpt: "【真奶团+豪门八卦+苗疆+打脸+真香+带飞全家】 苗疆深处，云雾常年不散。 藏在最深处的月亮寨，却有个四岁半的小祖宗！ 沄沄是大白虎从寨外面捡回来的崽，天生蛊骨，四岁就继承了上一代祖奶奶的巫蛊之术…… 从此成了新一代祖奶奶，小肩膀担上了守护寨子、庇护后人的重任。 直到天机蛊疯狂报警： 糟了！京市沈家的孙孙们命火要灭了！ 小团子背上竹篓下山救孙，结果一脚踩进了豪门瓜田： 什么？孙孙的孩子不是亲生的？",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/b5d1eda4c786?pwd=Ytta",
+    downloadUrl: "/books/1295_苗疆小奶团：全豪门都叫我祖奶奶1-230章.txt",
+    sourceUrl: "https://www.deqixs.org/1295/txt.html#dir",
+  },
+{
+    id: 1296,
+    slug: "我在冷宫开荒种田-带废太子吃香喝辣",
+    title: "我在冷宫开荒种田，带废太子吃香喝辣",
+    cover: book1296Cover,
+    author: "大耳朵怪叫牛",
+    date: "2026-08-26",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-59章",
+    latestChapter: "第58章 然后呢？然后就能制冰了",
+    excerpt: "孟喜在冷宫三年，一手养出了阴鸷偏执的少年帝王；亲手将病骨支离的清冷太傅拽下圣贤神坛，让他忘了何为礼义廉耻。 她种田经商，把冷宫当成自己的办公室。 赚钱正起劲时，却意外招惹了那唯利是图的人间绝色。 那人一身靡艳皮囊，底下竟藏着要命的真心。 好不容易不必再当太监，褪去伪装那日，家中早已端坐着一位光风霁月的正夫。 而那些曾经视她为污点的少年郎们，如今全成了甩不掉的疯犬，将府门堵得水泄不通。 人前光风霁月",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/69b21ec921d4?pwd=acTU",
+    downloadUrl: "/books/1296_我在冷宫开荒种田，带废太子吃香喝辣1-59章.txt",
+    sourceUrl: "https://www.deqixs.org/1296/txt.html#dir",
+  },
+{
+    id: 1297,
+    slug: "快穿-掉马后-美艳男妻他返攻了各路大佬",
+    title: "快穿：掉马后，美艳男妻他返攻了各路大佬",
+    cover: book1297Cover,
+    author: "创飞全天下的攻",
+    date: "2026-08-23",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-68章",
+    latestChapter: "第68章 金丝雀求生计划68",
+    excerpt: "【双男主，反差，美人攻，伪人妻，反套路，强强，1V1切片受】 温烨身为系统工作人员，因操作违规，被罚进入古早狗血味浓的追妻火葬场文中，成为里面的可怜人妻。 温烨咆哮：我可是大猛1啊！ 极致的人设反差反而让他找到了不同的路线，人妻又如何？反正最后都要爽。 进入表演型人格，温烨：追妻火葬场吗？怎么追我说了算。 渣攻前期：爱你，你也配？你就只配低三下四地伺候我！ 后期：你不爱我，我就从这里跳下去！ 世界",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/63d8c07c7bd2?pwd=mNpu",
+    downloadUrl: "/books/1297_快穿：掉马后，美艳男妻他返攻了各路大佬1-68章.txt",
+    sourceUrl: "https://www.deqixs.org/1297/txt.html#dir",
+  },
+{
+    id: 1298,
+    slug: "长生从觉醒异能开始",
+    title: "长生从觉醒异能开始",
+    cover: book1298Cover,
+    author: "咸鱼王之之",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-925章",
+    latestChapter: "第922章 大炎神国",
+    excerpt: "重生到一个异世界无名山村里的贫寒少年身上，陆青表示很无奈。 好在觉醒了一个能够看穿物品信息的异能，让他有了点生存的资本。 他看向路边的一株杂草。 【牛骨草，品质一般，可药用，治疗骨伤颇有疗效。】 看向河里一尾红色鲤鱼。 【红月鲤，品质上佳，肉质鲜美，乃滋补上品。】 看向山里的一只野兔。 【灰兔，普通野兔，可食用。】 凭借着自带的异能，陆青在村庄里逐渐站稳了脚跟，能够生存下去。 就在他以为，自己僵在",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/8fe6a2c466ef?pwd=KeiH",
+    downloadUrl: "/books/1298_长生从觉醒异能开始1-925章.txt",
+    sourceUrl: "https://www.deqixs.org/1298/txt.html#dir",
+  },
+{
+    id: 1299,
+    slug: "武器嫌我太废-独自升级杀疯了",
+    title: "武器嫌我太废，独自升级杀疯了！",
+    cover: book1299Cover,
+    author: "清风不过",
+    date: "2026-08-24",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-418章",
+    latestChapter: "第418章 韦少爷，名叫韦明川！",
+    excerpt: "【爽文】+【武器拟人化】+【全程碾压】+【躺平升级】+【废柴逆袭】 齐林穿越到了全民转职的世界，觉醒为F级生活职业【铁匠】。 就在他以为自己是天崩开局，准备要无绳蹦极重开的时候，他打造的第一把武器，竟然成精了！ 【锈迹斑斑的铁剑，认为自己应该是这个世界最顶级的神器！】 【为了证明自己可以！它离家出走，开始疯狂练级！】 【恭喜你的‘锈迹斑斑的铁剑’，通过不断刷怪，领悟‘破甲’词条！】 【……】 【恭",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/64b3d474325d?pwd=PhUz",
+    downloadUrl: "/books/1299_武器嫌我太废，独自升级杀疯了！1-418章.txt",
+    sourceUrl: "https://www.deqixs.org/1299/txt.html#dir",
+  },
+{
+    id: 1300,
+    slug: "疯了吧-前世死刑犯-你让我演反派",
+    title: "疯了吧！前世死刑犯，你让我演反派？",
+    cover: book1300Cover,
+    author: "狂飙森",
+    date: "2026-09-04",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-544章",
+    latestChapter: "第544章 我不信！",
+    excerpt: "拍戏+重生+单女主+黑道+都市+商业+热血 江尘前一世是一个社会大哥，被执行了死刑，重生回到了自己还没有踏入黑道的时候，有着前一世的经验和惨痛教训，江尘这一世决心走正道，在不碰黑道。 而就在江尘为难要做什么的时候，机缘巧合看到了狂飙剧组正在招收演员。 多年后，有着反派影帝，反派专业户的江尘接受采访时表示：我真的没有学过表演，只是收敛了一点性格，就成为反派影帝了！ 而另一边，国内知名编剧，江尘的女友",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/3664ef6bd482?pwd=mU5z",
+    downloadUrl: "/books/1300_疯了吧！前世死刑犯，你让我演反派？1-544章.txt",
+    sourceUrl: "https://www.deqixs.org/1300/txt.html#dir",
+  },
+{
+    id: 1301,
+    slug: "武侠-邀月派我-卧底锦衣卫",
+    title: "武侠：邀月派我，卧底锦衣卫",
+    cover: book1301Cover,
+    author: "浅海的小龙虾1",
+    date: "2026-09-06",
+    category: "武侠",
+    status: "连载中",
+    chapters: "1-220章",
+    latestChapter: "第220章 臣参奏‘东厂督主曹正淳’包庇逆党",
+    excerpt: "来到综武世界，被邀月、怜星捡到，送去朝廷‘锦衣卫’中卧底，手持圆月弯刀，身怀明玉神功的林无忧，就这样一步步成为了锦衣卫指挥使。 【叮，晋升锦衣卫千户，奖励：人物抽奖‘南宫仆射’】 【叮，晋升锦衣卫指挥使，奖励：人物抽奖‘焰灵姬’】 这是综武江湖，有武当张三丰，有密宗八思巴，有大明葵花老祖，有魔宗蒙赤行。 有慈航静斋梵清惠，师妃暄，有阴葵派祝玉妍，婠婠。 有盗圣白展堂，有盗王司空摘星。 有天涯海阁李",
+    tags: [{ name: "武侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1INV7TBbk50ISQ7MmAHrn1A?pwd=xxrt",
+    downloadUrl: "/books/1301_武侠：邀月派我，卧底锦衣卫1-220章.txt",
+    sourceUrl: "https://www.deqixs.org/1301/txt.html#dir",
+  },
+{
+    id: 1302,
+    slug: "大明-每日一卦-开局武当绝学大黄庭",
+    title: "大明：每日一卦，开局武当绝学大黄庭",
+    cover: book1302Cover,
+    author: "小马过江",
+    date: "2026-09-05",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-394章",
+    latestChapter: "第394章 ：别吓我",
+    excerpt: "江尘魂穿大明，成了一座破道观里的小道士。 师父刚走，三个月后道观就得充公。 本以为这辈子完了，谁知激活了“卦金系统”： 替人算卦，抽中下下签？凶兆越大，奖励越狠！ 别人求签怕下下，他却两眼放光：“多来几支！” 下下签到手，神功、修为、奇遇滚滚而来。 从此，江尘走上了一条“以卦入道”的奇葩路子。 左手太极掌，右手算天命。江湖震动，权贵跪服。 问就是一句话：哥算的不是卦，是命。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RXm1gd2CUNNwzI1WxFsVdQ?pwd=xxrt",
+    downloadUrl: "/books/1302_大明：每日一卦，开局武当绝学大黄庭1-394章.txt",
+    sourceUrl: "https://www.deqixs.org/1302/txt.html#dir",
+  },
+{
+    id: 1303,
+    slug: "自由美利坚-每天自动刷新死士",
+    title: "自由美利坚，每天自动刷新死士！",
+    cover: book1303Cover,
+    author: "西小木",
+    date: "2026-08-23",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-295章",
+    latestChapter: "第295章 我们见过面",
+    excerpt: "【爆兵】【全程暴爽】 【美利坚】【斩杀线】 平行世界，美利坚！ 江枫的妹妹留学失联，学校抹除学籍。 江枫前往美利坚寻妹！ 触发斩杀线后觉醒【无限死士系统】，每天刷新3名死士，没有上限！ 充值就能抽取逆天强悍词条，战力、身手、技能随便加持！ 为寻妹妹，江枫召死士，组建势力，从街头捡废品起家，硬刚嚣张黑人黑帮黑狼帮！ 追查线索，牵扯出隐秘黑鸦酒吧，背后盘踞纽约顶级豪门黑帮，涉足走私贩毒，手眼通天，权势",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1GlRPit7hdpSGTPQKnCJf5A?pwd=xxrt",
+    downloadUrl: "/books/1303_自由美利坚，每天自动刷新死士！1-295章.txt",
+    sourceUrl: "https://www.deqixs.org/1303/txt.html#dir",
+  },
+{
+    id: 1304,
+    slug: "从融合基因熔炉开始进化",
+    title: "从融合基因熔炉开始进化",
+    cover: book1304Cover,
+    author: "我们这一年都要好",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-330章",
+    latestChapter: "第324章 超速进步",
+    excerpt: "季知行穿越基因修行世界，从融合最普通的基因开始，一步步登顶神话…",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yyY-5cLeLklzmHaHtC4mCw?pwd=xxrt",
+    downloadUrl: "/books/1304_从融合基因熔炉开始进化1-330章.txt",
+    sourceUrl: "https://www.deqixs.org/1304/txt.html#dir",
+  },
+{
+    id: 1305,
+    slug: "我-素申仙君-让精灵再次伟大",
+    title: "我，素申仙君，让精灵再次伟大",
+    cover: book1305Cover,
+    author: "无色定",
+    date: "2026-09-13",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-276章",
+    latestChapter: "第275章 净土难至立福地",
+    excerpt: "他曾执掌阴阳，洞悉天道；今却以精灵之身，解破魔法真谛。当玄门道法直面神明法则，当仙家飞剑遇上奥术王座，当分裂衰败的精灵迎来他们的天命之主，一条前所未有的道路悄然铺开。 于是，仙君曰：“让精灵再次伟大！” 然而，这个世界的深渊之下，沉睡着连诸神都为之战栗的古老气息——那与他一同湮灭，又一同苏醒的“故人”，正将目光再度投来…… 仙魔劫尽道孤存，灵躯再塑异乡魂。 月弓漫引星辉矢，法杖轻触元素门。 神国高",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1GFydJvCnYoVmyVy-ZENjVA?pwd=xxrt",
+    downloadUrl: "/books/1305_我，素申仙君，让精灵再次伟大1-276章.txt",
+    sourceUrl: "https://www.deqixs.org/1305/txt.html#dir",
+  },
+{
+    id: 1306,
+    slug: "同时穿越-诸天的我各个都是人才",
+    title: "同时穿越：诸天的我各个都是人才",
+    cover: book1306Cover,
+    author: "五阴炽热",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-918章",
+    latestChapter: "第918章 天命苍狼",
+    excerpt: "秦时世界 一人墨钰身处一片战场，苍天血染大地焚烧，昔日繁华的火雨庄园此刻真的身处火雨之中，对手是近千名韩军，而自己身后却只有区区七十二名......机关高达？！ 一人世界 群侠墨钰盘坐在公园草地上修炼基础内功，冥冥中一个声音在他脑海中响起：‘『炁』化三清，『体』能载道，『源』乃先天道统，『流』为老君法脉......’ 群侠世界 秦时墨钰端倪着手中天书，双眼微眯。 ............ 当诸天万",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EYtktj1L4cX1PX_hlQg8yw?pwd=xxrt",
+    downloadUrl: "/books/1306_同时穿越：诸天的我各个都是人才1-918章.txt",
+    sourceUrl: "https://www.deqixs.org/1306/txt.html#dir",
+  },
+{
+    id: 1307,
+    slug: "东京非自然法医",
+    title: "东京非自然法医",
+    cover: book1307Cover,
+    author: "汉朝天子",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1012章",
+    latestChapter: "第1012章 ，过去那个软弱的我已经死了！",
+    excerpt: "穿越之后的上杉宗雪诸事不顺，从前程无限的第一外科被赶去了最悲剧最没有前途最不受人待见没钱没地位的法医病理科，这辈子看来就交待在这里了。 迟来的非自然赐福终于来临，上杉宗雪突然发现，他看不了活人，但他可以看死人？ 法医仙人、验尸之神、警视厅最后的防线、国宝。 自杀，他杀，意外死。 交番，警署，警视厅。 医师，医长，特聘教授。 一个熟悉又陌生的东京，一个相似又不同的平行世界中，一场场别开生面的验尸和解",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-AvtudBqYDIUVuqJWIfesQ?pwd=xxrt",
+    downloadUrl: "/books/1307_东京非自然法医1-1012章.txt",
+    sourceUrl: "https://www.deqixs.org/1307/txt.html#dir",
+  },
+{
+    id: 1308,
+    slug: "猎魔人忙不过来了",
+    title: "猎魔人忙不过来了",
+    cover: book1308Cover,
+    author: "xing45",
+    date: "2026-08-23",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-447章",
+    latestChapter: "第447章 真正的‘灾难’！",
+    excerpt: "这世界分里外两层。 在看似正常的现实之外，还有一个永恒黑暗的里世界。 人类的贪婪、野心、自私、嫉恨，在里世界滋养了无数的恶灵和邪魔。 而这些恶灵，又无时无刻的影响现实，制造无数的灾难和惨剧。 猎魔人，你的任务是斩杀恶灵，清理邪魔，保证两个世界的平衡......",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1fbV4cmynAmxq8xwJfhWuUg?pwd=xxrt",
+    downloadUrl: "/books/1308_猎魔人忙不过来了1-447章.txt",
+    sourceUrl: "https://www.deqixs.org/1308/txt.html#dir",
+  },
+{
+    id: 1309,
+    slug: "天门演义",
+    title: "天门演义",
+    cover: book1309Cover,
+    author: "虫梦",
+    date: "2026-09-12",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-311章",
+    latestChapter: "第311章 佛女",
+    excerpt: "（双穿流，现代修仙社会+古典修仙世界） 被狐妖养大的胡蟒从海外归来，并从一块奇异碎片开始，进入了另一个名为青玄界的修仙世界……（十六章穿越，初期节奏有点慢，剧情铺开就好了，大佬们见谅）",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PEcDfqWzxFi52-eWS70BxQ?pwd=xxrt",
+    downloadUrl: "/books/1309_天门演义1-311章.txt",
+    sourceUrl: "https://www.deqixs.org/1309/txt.html#dir",
+  },
+{
+    id: 1310,
+    slug: "我的青春修道日常",
+    title: "我的青春修道日常",
+    cover: book1310Cover,
+    author: "赵青杉",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-769章",
+    latestChapter: "第99章 睡莲夜梦禅",
+    excerpt: "青春啊就是躺平。 不想继承亿万家产的我的青春日常，就是玩玩乐高、玩玩单机游戏，看看动画片，修修道的样子，提前进入老年生活。 谈恋爱是什么？ 我林怀恩就是母胎单身，单外边，单一辈子，也不会和你们这些坏女人谈恋爱。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12T9wOcToyPoUQ1mJya_OTA?pwd=xxrt",
+    downloadUrl: "/books/1310_我的青春修道日常1-769章.txt",
+    sourceUrl: "https://www.deqixs.org/1310/txt.html#dir",
+  },
+{
+    id: 1311,
+    slug: "被迫登顶福布斯的那些年",
+    title: "被迫登顶福布斯的那些年",
+    cover: book1311Cover,
+    author: "大先生吃土豆",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-693章",
+    latestChapter: "第690章 下一步，休假",
+    excerpt: "泥灰钢筋里打滚、股市K线间沉浮的陈总，一睁眼回到了那个互联网泡沫初起、基建狂飙突进的风口。‌ 为了养科技，他四处捞钱，被迫当起首富… …… 当大国技术在崛起，经济周期被重塑，没人相信： 一开始，他只是想做一台智能手机。 …… 科技全产业链，金融，互联网，房地产，20年经济史，写一行爱一行。 慢节奏，背景真实，挑战笔法不春秋，脑子寄存一半。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JOD_FlOu2wXSLIxyOMpGQA?pwd=xxrt",
+    downloadUrl: "/books/1311_被迫登顶福布斯的那些年1-693章.txt",
+    sourceUrl: "https://www.deqixs.org/1311/txt.html#dir",
+  },
+{
+    id: 1312,
+    slug: "求你了-快退役吧",
+    title: "求你了，快退役吧！",
+    cover: book1312Cover,
+    author: "葛洛夫街兄弟",
+    date: "2026-08-23",
+    category: "体育",
+    status: "已完结",
+    chapters: "1-412章",
+    latestChapter: "第412章 完本感言",
+    excerpt: "“我在80年代崭露头角，击败拉里.伯德和魔术师约翰逊。 又在90年代统治一切，压制了迈克尔.乔丹和查尔斯.巴克利。 噢，别紧张孩子，先擦擦你的汗水，你大可不用放心。 00年代，你会和他们享受相同的待遇。” 年轻人咽了咽口水：“求你了，快退役吧！” ----------------- 故事从一个中国少年，在1984年成为NBA选秀钻石一代成员开始。",
+    tags: [{ name: "体育", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12Hdes0JI1G2w3CJ_5AG9vw?pwd=xxrt",
+    downloadUrl: "/books/1312_求你了，快退役吧！1-412章.txt",
+    sourceUrl: "https://www.deqixs.org/1312/txt.html#dir",
+  },
+{
+    id: 1313,
+    slug: "斗罗-绝世之日月械神",
+    title: "斗罗：绝世之日月械神",
+    cover: book1313Cover,
+    author: "童宇泽",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-136章",
+    latestChapter: "第135章 青天帝镇压全场，雪帝驾到，本子王最严厉的母亲（4K）",
+    excerpt: "「绝世唐门同人」 神战一万年后，日月与斗罗水火不容，四大帝国对峙争锋。 云端之上，无形大手操纵棋盘，肆意摆弄众生命运，万年前陨落的爪牙替神王镇守着即将成型的冥界神位。 斗罗大陆，天命双生，暗面之子以械为武魂，零生成、械生长、械燃烧、械王御卫、机械帝国……魂导领域迎来了一位绝世天才。 与此同时，少年体内沉寂的灰色种子，因死灵圣法神的降临而萌芽…… 血肉苦弱，机械飞升！ 轮回不止，回应永恒！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qDjYwJ-2YLV30QwP40RdvA?pwd=xxrt",
+    downloadUrl: "/books/1313_斗罗：绝世之日月械神1-136章.txt",
+    sourceUrl: "https://www.deqixs.org/1313/txt.html#dir",
+  },
+{
+    id: 1314,
+    slug: "沸腾时代",
+    title: "沸腾时代",
+    cover: book1314Cover,
+    author: "瑞根",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-977章",
+    latestChapter: "第266章  站定沉淀，抚平前行",
+    excerpt: "这是最好的时代，这是最坏的时代。 草野龙蛇，野蛮生长，野心和欲望交织在一起，总能铸就翻天覆地的传奇。 改革开放的缩影，小人物崛起的斑斓神迹。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CfGj3UFfHeAWDNc63HS-SA?pwd=xxrt",
+    downloadUrl: "/books/1314_沸腾时代1-977章.txt",
+    sourceUrl: "https://www.deqixs.org/1314/txt.html#dir",
+  },
+{
+    id: 1315,
+    slug: "至高武道-从开创龙象般若功开始",
+    title: "至高武道！从开创龙象般若功开始",
+    cover: book1315Cover,
+    author: "恐龙气球",
+    date: "2026-09-06",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-473章",
+    latestChapter: "第472章 ：时空守护，加冕剑神。",
+    excerpt: "“你观想武仙真迹，化龙象秘术，开创出武学—龙象般若功！” “你手刃了九条魔龙，化魔龙神通，开创出武学—九阳无极神功！” “你融合了天角蚁力，化鲲秘法等十强宝术，开创出武学—完美至尊法！” ······· 无尽虚空中，有巨龙以星辰为食。 汪洋海域里，有巨鲸跃海成鹏。 无数个亚空间里，有邪神在呓语，有诡怪在试图撬开现世的屏障。 这是灾祸频出的混乱年代。 也是武道高度发达的武学盛事。 武者擎天撼地，钓龙",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1V92ceQD4GUiso_7tecBkBw?pwd=xxrt",
+    downloadUrl: "/books/1315_至高武道！从开创龙象般若功开始1-473章.txt",
+    sourceUrl: "https://www.deqixs.org/1315/txt.html#dir",
+  },
+{
+    id: 1316,
+    slug: "退圈后绑定系统-三界大佬排队给我种地",
+    title: "退圈后绑定系统，三界大佬排队给我种地",
+    cover: book1316Cover,
+    author: "甜粽",
+    date: "2026-08-31",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-181章",
+    latestChapter: "第181章 完结",
+    excerpt: "苏晓棠穿越成十八线小演员，因“蹭顶流热度”被全网网暴。 出租屋门口泼油漆、塞刀片，经纪人逼她公开道歉继续炒作。 她直接微博宣布永久退圈！ 拖着行李箱回到老家，祖传农庄已荒废十年，房屋漏雨、田地荒芜、水电全断。 她连锄头都不会拿，挖棵野菜都费劲！ 走投无路时，脑中响起电子音【三界农庄经营系统已绑定，是否发布招工任务？任务完成奖励100-500元现金。】 她确认发布。 草丛里钻出个瘦弱的古装小男孩：“",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1bsn21PkrpWPjLInUnTtVuA?pwd=xxrt",
+    downloadUrl: "/books/1316_退圈后绑定系统，三界大佬排队给我种地1-181章.txt",
+    sourceUrl: "https://www.deqixs.org/1316/txt.html#dir",
+  },
+{
+    id: 1317,
+    slug: "穿成星际恶雌-十个疯批大佬求名分",
+    title: "穿成星际恶雌，十个疯批大佬求名分",
+    cover: book1317Cover,
+    author: "饱饱的抱抱",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-134章",
+    latestChapter: "第134章 气死他了【求金票】",
+    excerpt: "【十个兽夫+雄竞修罗场+女主爽文+兽世末日+契约养成+基建求生+追妻】 姜娆穿到了兽世废雌身上，末日即将来临，海洋系兽族将制霸大陆。 姜娆第一件事，就是从斗兽场就回奄奄一息的鲛族兽夫！ 她凭借空间异能系统，废雌翻身，开始抢夺各种异能出众的兽夫。 种族地位天翻地覆的末日之下，只有姜娆，稳妥的站在兽夫军团之前，被悉心拥护。 十个兽夫：只要雌主一句话，就是覆灭四大陆，又如何？ 深海之下，暗流涌动，无数双",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VNbMAtpMNV3cW2eRLiLO9Q?pwd=xxrt",
+    downloadUrl: "/books/1317_穿成星际恶雌，十个疯批大佬求名分1-134章.txt",
+    sourceUrl: "https://www.deqixs.org/1317/txt.html#dir",
+  },
+{
+    id: 1318,
+    slug: "剑来-宁姚做大-秀做小",
+    title: "剑来：宁姚做大，秀做小",
+    cover: book1318Cover,
+    author: "隋家书香院",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-702章",
+    latestChapter: "第702章 崔瀺出手，陈平安出局又入局，外人看！",
+    excerpt: "二创，讲逻辑，爽文，不无脑。 有些情节意难平，想要弥补一下。 陈平安的性格，多了几分杀伐果断。 女主有宁姚、阮秀、贺小凉，李宝瓶……等。 资深原著党不要喷啊，或者是轻点喷。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LoL-cIeIsVQaEiFqKAupzQ?pwd=xxrt",
+    downloadUrl: "/books/1318_剑来：宁姚做大，秀做小1-702章.txt",
+    sourceUrl: "https://www.deqixs.org/1318/txt.html#dir",
+  },
+{
+    id: 1319,
+    slug: "方寸之心",
+    title: "方寸之心",
+    cover: book1319Cover,
+    author: "华表",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-377章",
+    latestChapter: "第324章 分配",
+    excerpt: "未知年代，携AI重生。 人生的意义不过是一碗安稳的白米饭和一碗热乎的红烧肉，仅此而已，家国与烟火最是动人。 且看陆弥同志如何强行横推出一条血路。 (重生，商战，异能，幕后流，三观正，正能量，年代文，反套路) 表叔写作，品质保证！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1v8AziVoilkmPw1F-XC8LIg?pwd=xxrt",
+    downloadUrl: "/books/1319_方寸之心1-377章.txt",
+    sourceUrl: "https://www.deqixs.org/1319/txt.html#dir",
+  },
+{
+    id: 1320,
+    slug: "天命之上",
+    title: "天命之上",
+    cover: book1320Cover,
+    author: "风月",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1061章",
+    latestChapter: "第1059章 起点",
+    excerpt: "世界自毁灭之后重建。 于危崖之上，再起万丈高楼。 被称为天选者的人们活跃在现实的幕后，行走在历史的阴影中，掌握超凡脱俗的力量，领受着崇拜与敬畏。 有人说他们身负天命，万中无一。 可季觉对天命不感兴趣。 他只想有朝一日，去看一看天命之上的风景。 “……” 记录者写到这里停下了笔，看向那个满手油污的汽修工：“所以，这就是你破坏国际秩序、贩卖禁忌武器、资助颠覆组织、引发两极大战、图谋暗中统治世界的理由？",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1KS1lUGr-VOk1HIK4X0u3YQ?pwd=xxrt",
+    downloadUrl: "/books/1320_天命之上1-1061章.txt",
+    sourceUrl: "https://www.deqixs.org/1320/txt.html#dir",
+  },
+{
+    id: 1321,
+    slug: "土方二代的我被迫转型娱乐圈大佬",
+    title: "土方二代的我被迫转型娱乐圈大佬",
+    cover: book1321Cover,
+    author: "光影无距",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-184章",
+    latestChapter: "第183章 天选魏莱，舍野其谁？",
+    excerpt: "郑义，你一个地产三代，建筑二代的富哥儿为什么要当明星？ “世首帅不混娱乐圈，难道去开泥头车卖土方么？” 郑义看着面前的小花如是说道——这是一个2016年开始的故事。 （第一本书四百多万字刚刚完本，请读者老爷们不要养书，第一时间追读，光影在此跪谢大家） 群号：八七九五八八三四零 郑重声明：本故事发生于多元华娱宇宙平行世界，纯属虚构，与现实中的人、物、事无任何关系，如有雷同，纯属巧合。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16ynr2WM27FT8BRZIo7bDXQ?pwd=xxrt",
+    downloadUrl: "/books/1321_土方二代的我被迫转型娱乐圈大佬1-184章.txt",
+    sourceUrl: "https://www.deqixs.org/1321/txt.html#dir",
+  },
+{
+    id: 1322,
+    slug: "直播-这老师能处-他真懂学生",
+    title: "直播：这老师能处！他真懂学生",
+    cover: book1322Cover,
+    author: "雨林金令",
+    date: "2026-08-23",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-298章",
+    latestChapter: "第298章 ：山区的窗户！开窗之后，光便进来了！（大结局）",
+    excerpt: "【无系统+正能量+温情治愈】 在一堂别开生面的开学第一课结束之后。 一位特立独行的老师迅速登上热搜第一！ 此后，他提出的种种观点引得全网惊呼！ “这老师能处！他是真懂学生！”",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EmgKzuNfRiAYDg2ZVkpZIA?pwd=xxrt",
+    downloadUrl: "/books/1322_直播：这老师能处！他真懂学生1-298章.txt",
+    sourceUrl: "https://www.deqixs.org/1322/txt.html#dir",
+  },
+{
+    id: 1323,
+    slug: "我的诡异人生扮演游戏",
+    title: "我的诡异人生扮演游戏",
+    cover: book1323Cover,
+    author: "初一到十五",
+    date: "2026-08-24",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-693章",
+    latestChapter: "第686章 终章（一）",
+    excerpt: "这个世界分为表里两层。 被拉入诡谲荒诞的里世界副本成为一名玩家的严景，决定从根源开始解决问题： 想要不被诡异杀死，就得先成为一名诡异 凭借着【诡异人生扮演游戏】系统，严景扮演了他们，逐渐了解了他们，最后成为了他们，接管了他们的人生。 是的，诡异们也有自己的人生。 他们有着自己的人际关系，有着自己的生活日常，也有着杀死了他们的凶手。 “诡异都市中的神秘摄像男” “怪诞民国时期的落魄小少爷” “赛博街",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1MoXBWUFkoCUnzb8_r0E9sg?pwd=xxrt",
+    downloadUrl: "/books/1323_我的诡异人生扮演游戏1-693章.txt",
+    sourceUrl: "https://www.deqixs.org/1323/txt.html#dir",
+  },
+{
+    id: 1324,
+    slug: "人在异界-开局出卖100点良心",
+    title: "人在异界，开局出卖100点良心",
+    cover: book1324Cover,
+    author: "仟回",
+    date: "2026-08-24",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-7776章",
+    latestChapter: "第0918章 新书《你的金光咒凭什么召唤天神？》",
+    excerpt: "恶魔：“冒险者，恭喜你获得了神愿宝盒，打开它，我实现你的一切愿望！” 李茶：“你能让精灵女王给我洗脚吗？” 恶魔：“精灵族天生高洁，这很难。” 李茶：“我能。” “你能让时光巨龙把祂的财宝交给我吗？” “我打不过祂。” “我能。” “你能让女神教会的信徒全部信仰我吗？” “女神......” “我能。” “......” “恶魔先生，时代变了，下次再开口忽悠，不要先问别人要什么。交易的本质是什么？",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CZLlOlKt15I7ui3L97rF8g?pwd=xxrt",
+    downloadUrl: "/books/1324_人在异界，开局出卖100点良心1-7776章.txt",
+    sourceUrl: "https://www.deqixs.org/1324/txt.html#dir",
+  },
+{
+    id: 1325,
+    slug: "诡秘-银之钥",
+    title: "诡秘：银之钥",
+    cover: book1325Cover,
+    author: "想不到笔名了",
+    date: "2026-08-24",
+    category: "奇幻",
+    status: "已完结",
+    chapters: "1-844章",
+    latestChapter: "第843章 ：大结局",
+    excerpt: "坏消息：突然就穿越了。 更坏的消息：这里是知道越多死得越快的诡秘世界。 最坏的消息：自己是忠实读者，该知道的不该知道的全都知道。 反应过来之后....死脑子，快别想了...那个金发神父他看过来了，看过来了！！！",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1P0MlhNntTJk3I20G3X3XiQ?pwd=xxrt",
+    downloadUrl: "/books/1325_诡秘：银之钥1-844章.txt",
+    sourceUrl: "https://www.deqixs.org/1325/txt.html#dir",
+  },
+{
+    id: 1326,
+    slug: "高塔之上",
+    title: "高塔之上",
+    cover: book1326Cover,
+    author: "风风忙忙",
+    date: "2026-08-24",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-662章",
+    latestChapter: "第60章 恩赐魔女！百年之囚！",
+    excerpt: "全民登塔，降临万界！ 穿越到赛博玄幻世界的吴语刚买到“天灵根芯片”，准备“赛博修仙法力无边”的时候。 一座青铜高塔忽然降临，将众生拖入太墟万界！ 【诡神武界】，白银王朝，万神浊世。 【黄昏之城】，永恒黄昏，魔女寂灭。 【山海一梦】，太阴呓语，云锁玉池。 ...... 降临太墟，全民超凡！机遇与危险同时到来！ 吴语抬头看向垄断都市的一个个超级公司，决定不装了，摊牌了！ 混沌无名，启动！ “你是大学生",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Et_5zWRT7RpiD8WSJhUarg?pwd=xxrt",
+    downloadUrl: "/books/1326_高塔之上1-662章.txt",
+    sourceUrl: "https://www.deqixs.org/1326/txt.html#dir",
+  },
+{
+    id: 1327,
+    slug: "重生从1993开始",
+    title: "重生从1993开始",
+    cover: book1327Cover,
+    author: "月阳之涯",
+    date: "2026-09-10",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1882章",
+    latestChapter: "第999章 开机",
+    excerpt: "重新回到1993年的李东陵，准备开启新的生活，这一世的李东陵，决定过好自己的生活，也要做自己想做的事。 我是李东陵，这是我的1993！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ki8m0dfQogKnUygBQh3fvA?pwd=xxrt",
+    downloadUrl: "/books/1327_重生从1993开始1-1882章.txt",
+    sourceUrl: "https://www.deqixs.org/1327/txt.html#dir",
+  },
+{
+    id: 1328,
+    slug: "高武-有挂-天才亿点很合理吧",
+    title: "高武：有挂，天才亿点很合理吧？",
+    cover: book1328Cover,
+    author: "猪小小",
+    date: "2026-08-24",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-1500章",
+    latestChapter: "第673章 虞塔曲的任务",
+    excerpt: "【不正经简介】：天才，卷王，不服你咬我？ 挂逼，海王，专治各种作！ 【正经简介】：高武世界，万族争锋，人族微末！ 王曜宿命穿越，激活虚拟矩阵，扬名武道高考，逆袭草根崛起，开挂逆天改命，率领人族争霸，屹立万族之巅，独断星空万古！ ——本书又名《以天才之名，横扫万族！》，《那不是挂，是我的天赋！》，《让矩阵辅助？是我带它飞！》，《武曜星河，人族当兴！》，《你们不要再打了！要打去房间打》—— 快节奏爽文",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VpgJQL_60i5Kj9CeALum9A?pwd=xxrt",
+    downloadUrl: "/books/1328_高武：有挂，天才亿点很合理吧？1-1500章.txt",
+    sourceUrl: "https://www.deqixs.org/1328/txt.html#dir",
+  },
+{
+    id: 1329,
+    slug: "离婚后-沈总彻夜白头悔疯了",
+    title: "离婚后，沈总彻夜白头悔疯了",
+    cover: book1329Cover,
+    author: "一世从欢",
+    date: "2026-09-12",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-550章",
+    latestChapter: "第550章 这个坑终究是自挖自跳",
+    excerpt: "结婚四年，那明艳女子归来时，姜莱才知老公守身如玉，冷淡如冰，并非天性如此。 每月给她三千生活费，却为白月光豪掷三百万做科研。 爱与不爱，分明到令人难堪。 沈荀说不忍让白月光陷入婚姻的琐碎，磨损珠玉光芒，却要她辞了月薪四千的工作安心做个家庭主妇，甘当暗淡鱼目！ 可沈荀不知道的是，她姜莱并不是什么普通小员工…… 负责国家级保密科研项目的四年里，她级别太高，连他所谓的白月光也只配给她打下手。 他更不知道",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QLHq5Uo-N_OCm0Hbm8_J9g?pwd=xxrt",
+    downloadUrl: "/books/1329_离婚后，沈总彻夜白头悔疯了1-550章.txt",
+    sourceUrl: "https://www.deqixs.org/1329/txt.html#dir",
+  },
+{
+    id: 1330,
+    slug: "女主别哭-偏执病娇男主让我抢走了",
+    title: "女主别哭，偏执病娇男主让我抢走了",
+    cover: book1330Cover,
+    author: "西瓜甜甜",
+    date: "2026-08-24",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-639章",
+    latestChapter: "第639章 位高权重大将军造反求得帝妃15",
+    excerpt: "我们大女人就该看这样的无脑爽文，主打就是一个人人爱我，男人都是我的裙下之臣，开心了逗着玩翻翻牌子，反正我是写小说～ 【沉浸式快穿+无脑玛丽苏+女主万人迷+深度狗血+疯批病娇男主+一见钟情+反派原女主+男全C】 1、落魄集团二少爷勇闯娱乐圈，遇到富江体质经纪人，一见钟情，疯狂痴迷，前世糊咖歌手，今生影视歌三栖，巅峰时退圈，只为和心上人结婚。原女主前世金牌经纪人，背靠大树好乘凉，今生当狗仔蹲局子，后悔",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EeB-9X060korIuXDoNPhLw?pwd=xxrt",
+    downloadUrl: "/books/1330_女主别哭，偏执病娇男主让我抢走了1-639章.txt",
+    sourceUrl: "https://www.deqixs.org/1330/txt.html#dir",
+  },
+{
+    id: 1331,
+    slug: "龙骨生香",
+    title: "龙骨生香",
+    cover: book1331Cover,
+    author: "上玖殿下",
+    date: "2026-08-24",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-245章",
+    latestChapter: "第245章 番外：花开魔都，终得圆满",
+    excerpt: "我一出生便长着一条龙尾，神姑说，我是黄河龙女降世。 但自我出生后，黄河岸上的诡异怪事，也接踵而来—— 母亲失踪，村民们时不时从黄河里捞出金块金沙。 村里老人讲，这是黄河为了感谢他们照顾我，特意送来的报酬。 眼见村里人都发达了，养我长大的伯父伯母利欲熏心，剥去我身上九片龙鳞高价售卖。 打那以后，村民们再未从黄河里捞出金沙金块…… 直到我十八岁，失踪多年的母亲突然回来了，身后还背了九副牌位。 母亲要我",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1j4q-LVSq-bHUs51XT9oBhQ?pwd=xxrt",
+    downloadUrl: "/books/1331_龙骨生香1-245章.txt",
+    sourceUrl: "https://www.deqixs.org/1331/txt.html#dir",
+  },
+{
+    id: 1332,
+    slug: "高武-开局海克斯三选一",
+    title: "高武：开局海克斯三选一",
+    cover: book1332Cover,
+    author: "缝合公",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-414章",
+    latestChapter: "第411章 棱彩词条·死亡之环！与死亡相关的权柄？！",
+    excerpt: "穿越高武，觉醒海克斯词条系统！ 开局坦克引擎，战胜敌人百分比增加气血值？ 高贵百分比加成，无敌真实伤害！ 武技？操作？悟性？ 都是虚的！ 只有纯粹的数值才是真的！ 数值碾压一切！ 天才？妖孽？邪神？ 你也配和我比成长？ 我只要一直赢，气血就能无限涨！ 别问，问就是数值碾压！ 战斗，爽！！！！！ 别和我扯是武技，别和我扯什么操作，我就问问你，懂不懂什么叫做数值怪！ 武道圣体？ 异族邪神？ “你跟我讲",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ENz9Zhnao6kkphFIgGYcjg?pwd=xxrt",
+    downloadUrl: "/books/1332_高武：开局海克斯三选一1-414章.txt",
+    sourceUrl: "https://www.deqixs.org/1332/txt.html#dir",
+  },
+{
+    id: 1333,
+    slug: "怜春娇",
+    title: "怜春娇",
+    cover: book1333Cover,
+    author: "练秋水",
+    date: "2026-08-24",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-537章",
+    latestChapter: "第537章 完结",
+    excerpt: "【追妻火葬场、婚后虐恋、再续前缘】 四年前亲姐重病，临终前求裴芷替她养育儿子，照顾夫君，成为续弦夫人。 多年来她操持家务，呕心沥血。幻想与夫君举案齐眉。但爱重的夫君不爱她，防她，拿她当照顾孩子的工具人。而后夫君青梅白玉桐回京，更是与之旧情复燃。 上有刻毒的婆母，下有不尊的下人，夫君更是对她不屑一顾。外人口中清贵的高门贵府那一方天地变成了熬死她的吃人魔窟。 裴芷及时清醒谋划和离之路。在一个走投无路的",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1avkhxZ96jS6WFAoeE5Kvmg?pwd=xxrt",
+    downloadUrl: "/books/1333_怜春娇1-537章.txt",
+    sourceUrl: "https://www.deqixs.org/1333/txt.html#dir",
+  },
+{
+    id: 1334,
+    slug: "鸾帐春",
+    title: "鸾帐春",
+    cover: book1334Cover,
+    author: "半纸千山",
+    date: "2026-09-13",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-330章",
+    latestChapter: "第330章 怀孕（五）",
+    excerpt: "那年榜下捉婿，柳韫玉点中了清贫书生孟泊舟。 她伴着他高中探花、认祖归宗，为了替他的仕途铺路，苦心经营。 直到那日，孟泊舟酒后吐真言。 “既不能与心仪之人厮守，娶谁又有何分别？我若休弃结发之妻，难免妨碍仕途。” 原来，她只是他的将就。 原来，三年逢迎也抵不过一句“妨碍仕途”。 一纸和离书奉上，柳韫玉决然离开。 孟府外，一辆漆金嵌玉的马车等候多时。 车帘掀开，那位被前夫敬若神明的老师、权倾天下的相爷端",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZXZt24Y7EFdubz-anqe_WA?pwd=xxrt",
+    downloadUrl: "/books/1334_鸾帐春1-330章.txt",
+    sourceUrl: "https://www.deqixs.org/1334/txt.html#dir",
+  },
+{
+    id: 1335,
+    slug: "我的江湖往事2",
+    title: "我的江湖往事2",
+    cover: book1335Cover,
+    author: "登岩的歌",
+    date: "2026-08-24",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-682章",
+    latestChapter: "第682章 男子汉大丈夫要做到能屈能伸！",
+    excerpt: "为了补贴家用，陈卓南下投奔在港城打工的表姐，这里不仅有遍地的机遇，还有数不清的尔虞我诈，更有千娇百媚的姑娘.......",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gTK4nLVy-xw_5yLK7H99uw?pwd=xxrt",
+    downloadUrl: "/books/1335_我的江湖往事21-682章.txt",
+    sourceUrl: "https://www.deqixs.org/1335/txt.html#dir",
+  },
+{
+    id: 1336,
+    slug: "神农道君",
+    title: "神农道君",
+    cover: book1336Cover,
+    author: "神威校尉",
+    date: "2026-09-02",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-661章",
+    latestChapter: "第102章 纳官，选调、国运入体（本卷终章）",
+    excerpt: "【全新设定】【体系完善】 一觉醒来，你成为了玄幻游戏中的【司农】官。 【王朝鼎盛】版本：你苦修《节气令》，从【风调雨顺】到【呼风唤雨】、从【五谷丰登】到【万物生长】、号令四季，默默发育。 你小有成就，随军出征、掌《四农书》，冰封千里大河，为大军开道，《瘴气》杀敌，《雾影》阻万军，立不世战功，位居大司农，窃王朝命数，尽归吾身。 【灵气复苏】版本：你养育【山精野怪】：双生并蒂莲使你水火不侵，七星剑竹一",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eacW5zbg6zZdf9_s0fdyIQ?pwd=xxrt",
+    downloadUrl: "/books/1336_神农道君1-661章.txt",
+    sourceUrl: "https://www.deqixs.org/1336/txt.html#dir",
+  },
+{
+    id: 1337,
+    slug: "折剑",
+    title: "折剑",
+    cover: book1337Cover,
+    author: "林间有浅水",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-222章",
+    latestChapter: "第130章 我始终相信着",
+    excerpt: "那年秋，林彻剑折中州。 道庭除心腹大患，诸宗默然同庆，自信长治人间三万年。 次年夏。 有人走出故土，即将入主道庭。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xjXPdXnMNMlptoXeJ9-B7g?pwd=xxrt",
+    downloadUrl: "/books/1337_折剑1-222章.txt",
+    sourceUrl: "https://www.deqixs.org/1337/txt.html#dir",
+  },
+{
+    id: 1338,
+    slug: "蛊仙娘娘",
+    title: "蛊仙娘娘",
+    cover: book1338Cover,
+    author: "上玖殿下",
+    date: "2026-08-24",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-315章",
+    latestChapter: "第315章 我觉得，你像西王母",
+    excerpt: "传闻三千里苗域的娘娘庙下，镇压着一条祸世的青蛇大妖。 可我与姐姐出生那天夜里，娘娘庙却遭九道天雷劈顶，神像落血泪，神庙顷刻坍塌。 姐姐长大后，容貌与庙里的娘娘神像越来越相似。 他们都说，姐姐是娘娘庙里的神像娘娘转世。 为了寻求神像娘娘庇佑，族人们将姐姐视为苗域最圣洁的圣女。 姐姐也在娘娘庙内起誓，终身不嫁。 以纯洁之身供养长生泉，为族人们消灾解难。 族人们自从饮了长生泉的泉水后，个个愈发身强体壮，",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1vwYpbDaGj1X5MdfB9w41rQ?pwd=xxrt",
+    downloadUrl: "/books/1338_蛊仙娘娘1-315章.txt",
+    sourceUrl: "https://www.deqixs.org/1338/txt.html#dir",
+  },
+{
+    id: 1339,
+    slug: "不灭神主",
+    title: "不灭神主",
+    cover: book1339Cover,
+    author: "我特别白",
+    date: "2026-08-24",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-999章",
+    latestChapter: "第999章 误会",
+    excerpt: "周轻羽散尽八转神功，以凡人之资重修第九转。 意外发现，自己散落的一点神功，让悔婚的未婚妻赵烟芸领悟了天下第一剑意，放逐的妖族皇子一跃成为资质逆天的妖尊少帝，贫瘠的蛮荒古地一跃成为武道圣地…… 他五指一握，挥斥天地：顺我者辉煌万世，逆我者天葬地灭！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QBln-KaoFoRUKg2J8cwAoQ?pwd=xxrt",
+    downloadUrl: "/books/1339_不灭神主1-999章.txt",
+    sourceUrl: "https://www.deqixs.org/1339/txt.html#dir",
+  },
+{
+    id: 1340,
+    slug: "八零渣夫玩假死-她真改嫁军少被团宠",
+    title: "八零渣夫玩假死，她真改嫁军少被团宠",
+    cover: book1340Cover,
+    author: "林潮音",
+    date: "2026-08-31",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-170章",
+    latestChapter: "第170章 他的重生是背景板（大结局）",
+    excerpt: "【年代军婚+真假千金+先婚后爱+汉子茶+前夫火葬场骨灰埋臭水沟里】 沈清宁到死才知道，那场婚姻是假的。 渣男顶了别人的包，骗了她三十年。 她在老家当牛做马伺候一大家子，给渣男当血包，而他在部队娶了小娇妻，有自己的儿子，人生美满。 重生归来，沈清宁做的第一件事就是用剪刀，把想爬床公公的作案工具扎爆了。 第二件事，逼出假死的渣男并锤爆他。 锤完人后，沈清宁发现了一个问题。 那晚的男人，好像不是她嫁的渣",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BzVNY_OLRrb57VLckLH4kQ?pwd=xxrt",
+    downloadUrl: "/books/1340_八零渣夫玩假死，她真改嫁军少被团宠1-170章.txt",
+    sourceUrl: "https://www.deqixs.org/1340/txt.html#dir",
+  },
+{
+    id: 1341,
+    slug: "穿成星际废雌-在兽校闪婚6个顶级兽夫",
+    title: "穿成星际废雌，在兽校闪婚6个顶级兽夫",
+    cover: book1341Cover,
+    author: "向春枝",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-123章",
+    latestChapter: "第123章 最强嘴炮（加更求金票）",
+    excerpt: "【星际兽世+微群像+雄竞修罗场+1vn+万人迷+多兽夫+退婚+追妻+男全洁+叔侄+双胞胎+白切黑】 苏青瑶渡劫失败被雷劈死了，再次睁眼，她成了家族里人人喊打的废雌。原主曾是蛟龙族的天才，一朝失势成了一个无法兽化的F级废雌。面对族里的刁难，苏青瑶拿到赔偿火速割席。 为了修复神魂进入帝国军工学院，没想到入学无痛绑定六个顶级兽夫！ 温柔腹黑的森鹿哥哥... 傲娇炸毛的森鹿弟弟... 成熟固执的逐月狼教官",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1IV5BlufxwW5j_XX5nMS5qQ?pwd=xxrt",
+    downloadUrl: "/books/1341_穿成星际废雌，在兽校闪婚6个顶级兽夫1-123章.txt",
+    sourceUrl: "https://www.deqixs.org/1341/txt.html#dir",
+  },
+{
+    id: 1342,
+    slug: "特种兵-你一新兵-首战20杀",
+    title: "特种兵：你一新兵，首战20杀？",
+    cover: book1342Cover,
+    author: "谍战狼牙",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-292章",
+    latestChapter: "第292章 狼牙王牌突击队！",
+    excerpt: "苏铭穿越到特种兵融合世界，成为一名新兵！ 刚结束新兵训练，跟着班长在边境巡防时就遭遇武装盗猎团伙！ 班长腹部中弹，全班陷入混乱。 危急时刻，苏铭激活最强兵王系统！ 单枪匹马，一人追击武装盗猎团伙，击毙二十人，震惊整个军区！ 连长：“好家伙，这是开挂了吧？” 狗头老高：“疯了吧？一个新兵，首战20杀？” 龙小云：“这种人才，就应该进我们战狼！” 何志军：“战狼配不上他，他是战神！” ……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1C3ki2GggtL1LEnnGQ5ObXw?pwd=xxrt",
+    downloadUrl: "/books/1342_特种兵：你一新兵，首战20杀？1-292章.txt",
+    sourceUrl: "https://www.deqixs.org/1342/txt.html#dir",
+  },
+{
+    id: 1343,
+    slug: "大唐-我挑明了-我是长乐公主",
+    title: "大唐：我挑明了，我是长乐公主",
+    cover: book1343Cover,
+    author: "火火火锅",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1081章",
+    latestChapter: "第1081章 ：敢欺负我家娘子，晌午把它蒸着吃",
+    excerpt: "穿越大唐，林浩成为了一个，辖地人口不足两万户的边城刺史！ 贞观七年，才貌双绝的长乐公主李丽质，奉旨下嫁长孙冲。 然而就在出嫁当天，她逃婚了！ 这一日清晨，刺史衙门迎来了一位与众不同的告状女。 房外，州丞敲门道：“大人，有人告状，请升堂。” 林浩：“我又不是县令，升什么堂，别打扰我睡觉。” 州丞继续敲门道：“是个女子，长得非常的好看，还是来自长安的。” 林浩：“那你让她找长安令去啊！” 话音一落，林",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xOc25zXhpz-wPPUAP9TvIw?pwd=xxrt",
+    downloadUrl: "/books/1343_大唐：我挑明了，我是长乐公主1-1081章.txt",
+    sourceUrl: "https://www.deqixs.org/1343/txt.html#dir",
+  },
+{
+    id: 1344,
+    slug: "人在峨眉-开局获取金色词条",
+    title: "人在峨眉，开局获取金色词条",
+    cover: book1344Cover,
+    author: "黑白大团子",
+    date: "2026-08-24",
+    category: "武侠",
+    status: "连载中",
+    chapters: "1-744章",
+    latestChapter: "第742章 想起了一件有趣的事情",
+    excerpt: "都说“武当好，少林棒，明教圣火焚江洋”。 可在顾少安看来，只看武功和名声就要选择加入的门派，简直肤浅。 拜师门派，荣辱与共，岂能儿戏？ 看了一眼自己金色的天赋词条【师太的青睐】后，顾少安毅然决然的加入了峨眉。 师太，求罩。",
+    tags: [{ name: "武侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1wrub-xZTvQnH7FRikK_ddQ?pwd=xxrt",
+    downloadUrl: "/books/1344_人在峨眉，开局获取金色词条1-744章.txt",
+    sourceUrl: "https://www.deqixs.org/1344/txt.html#dir",
+  },
+{
+    id: 1345,
+    slug: "你们真是害苦了朕啊",
+    title: "你们真是害苦了朕啊",
+    cover: book1345Cover,
+    author: "日日生",
+    date: "2026-09-10",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-653章",
+    latestChapter: "第149章 存续求和",
+    excerpt: "北宋末年，靖康前夕，穿越而来的陈绍目标明确。 为了防止大宋被金国灭掉， 他决定先一步取而代之！ 没有大宋，你怎么灭宋？ 当女真人铁蹄南下的时候，十万将士露刃列于庭曰： “诸军无主，愿策陈绍为天子。”",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JViVK7f84B92VzlRrEiO-g?pwd=xxrt",
+    downloadUrl: "/books/1345_你们真是害苦了朕啊1-653章.txt",
+    sourceUrl: "https://www.deqixs.org/1345/txt.html#dir",
+  },
+{
+    id: 1346,
+    slug: "大周仙官",
+    title: "大周仙官",
+    cover: book1346Cover,
+    author: "耳耳耳耳耳耳耳",
+    date: "2026-09-07",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-337章",
+    latestChapter: "第337章 承印有据，销录无踪",
+    excerpt: "“在大周仙朝，一切伟力归于朝廷。” “重要法术，皆须持证上岗；修仙百艺，皆须考级定品。” “一纸敕令，可封山河正神。一场大考，定鼎一生命途。” “此身入局，是逐私欲，还是赌长生？” 考官执印而视，眸光如炬。 苏秦摇头： “术归于民，官系于土。” “不求仙寿，不取权柄。” “唯愿此地—— 岁稔民安。”",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UMKVJpawmLOQbOJmBq3Paw?pwd=xxrt",
+    downloadUrl: "/books/1346_大周仙官1-337章.txt",
+    sourceUrl: "https://www.deqixs.org/1346/txt.html#dir",
+  },
+{
+    id: 1347,
+    slug: "1980-从报名参军开始",
+    title: "1980：从报名参军开始",
+    cover: book1347Cover,
+    author: "维斯特帕列",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-1267章",
+    latestChapter: "第1267章 效果显著",
+    excerpt: "（年代+军旅+转业+晋升+商业） 重回1980年的小山村，考不上大学，做不了生意，想要跳出农门，似乎只有报名参军了。 这辈子不求大富大贵，只想一家人和和美美的过好小日子。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1uhR3p8KWkeEbekiN-L-Glg?pwd=xxrt",
+    downloadUrl: "/books/1347_1980：从报名参军开始1-1267章.txt",
+    sourceUrl: "https://www.deqixs.org/1347/txt.html#dir",
+  },
+{
+    id: 1348,
+    slug: "玩家重载",
+    title: "玩家重载",
+    cover: book1348Cover,
+    author: "黑灯夏火",
+    date: "2026-09-13",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-1000章",
+    latestChapter: "第1000章 我为天帝，当镇压世间一切敌",
+    excerpt: "永夜将至，杀场降临。 神明陨落，百鬼夜行。 你可以站在台前，向世人宣布时代浪潮的到来，也可以隐匿于黑暗，冷眼旁观他人的挣扎求存。 解放你的思想，拥抱你的命运，这是绝对真实的游戏，这里是，地球杀场。",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CSdUomvWdVIoqhj-QQ52iQ?pwd=xxrt",
+    downloadUrl: "/books/1348_玩家重载1-1000章.txt",
+    sourceUrl: "https://www.deqixs.org/1348/txt.html#dir",
+  },
+{
+    id: 1349,
+    slug: "屠魔快刀",
+    title: "屠魔快刀",
+    cover: book1349Cover,
+    author: "狐夫",
+    date: "2026-09-12",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-95章",
+    latestChapter: "第20章 发装备了",
+    excerpt: "二零四六年，我来到了唐人街。 灵异事务科的前辈告诉我，有许多魔鬼蛰伏在人类社会的暗面，我们的工作，就是铲除这些趴在凡人身上磨牙吮血的地狱妖邪。 前辈们还说，这个世界有灵能，还有可以和死者沟通的特殊存在，不止如此，更有各种各样能被科学系统认知并且研究的超能力。 入职的那一年我十八岁，正是最不信邪的年纪。 他们要我加入快刀行动组，我就加入了。 ...... ...... PS:简单来说就是一个充满生活",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/1349_屠魔快刀1-95章.txt",
+    sourceUrl: "https://www.deqixs.org/1349/txt.html#dir",
+  },
+{
+    id: 1350,
+    slug: "我加载了武道破限面板",
+    title: "我加载了武道破限面板",
+    cover: book1350Cover,
+    author: "吃个水蜜桃",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-896章",
+    latestChapter: "第896章 最终形态！（二合一大章，加更求月票！）",
+    excerpt: "永安城宣传部： “再次提醒广大市民朋友，近日来永安城外出现四级魔巢，目前由华严武大校长【骑龙观音·郑玉兰】负责带队镇压。 在此期间，市政呼吁大家夜间非必要，不出行！生命第一，安全最重要！” 天魔的出现打乱了世界的原本进程，科技创新不再引领主流，武道探索荣登世界舞台。 日字冲拳，八步赶蝉......众多古武经过不断地研究创新，实现了推陈出新，演变为更适合当今人们体质的功法。 九道气血八大限，武道家集",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1az4M0voI8Zw3PB6lsdUjbQ?pwd=xxrt",
+    downloadUrl: "/books/1350_我加载了武道破限面板1-896章.txt",
+    sourceUrl: "https://www.deqixs.org/1350/txt.html#dir",
+  },
+{
+    id: 1351,
+    slug: "千面之龙",
+    title: "千面之龙",
+    cover: book1351Cover,
+    author: "愤怒的松鼠",
+    date: "2026-09-12",
+    category: "奇幻",
+    status: "已完结",
+    chapters: "1-1096章",
+    latestChapter: "第1073章 自由骑士（全书完）",
+    excerpt: "为何故事一定要苦大仇深，轻松点有趣的传奇喜欢吗？ 今天，我是谁呢？ 是拯救王国的英雄？是威胁时代的恶徒？是一世风流的花间浪子？还是历史留名的大罪人.....色魔就算了，怎么说我都是一个正经人。 小丑，法官，魔术师，流量戏子，都可以是我。 嗯，娶了女王，生了公主的也是我。 斗赢国王，公主倒追的也是我？等下，有点不对，这不会是同一个王国一个公主吧！ “你可以撕下我的面具，只要你愿意承担梦醒后的真实。”",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lowJc0kntVrDO4eKnxjY6g?pwd=xxrt",
+    downloadUrl: "/books/1351_千面之龙1-1096章.txt",
+    sourceUrl: "https://www.deqixs.org/1351/txt.html#dir",
+  },
+{
+    id: 1352,
+    slug: "从仙二代开始",
+    title: "从仙二代开始",
+    cover: book1352Cover,
+    author: "朔风树下",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-187章",
+    latestChapter: "第187章 偷香（求月票）",
+    excerpt: "脱去凡胎换圣胎，玄门深处悟真来。 修真问道，从夺舍仙二代开始！",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1buL7v5RJdaaqR1FH9VqVfg?pwd=xxrt",
+    downloadUrl: "/books/1352_从仙二代开始1-187章.txt",
+    sourceUrl: "https://www.deqixs.org/1352/txt.html#dir",
+  },
+{
+    id: 1353,
+    slug: "从铬龙开始",
+    title: "从铬龙开始",
+    cover: book1353Cover,
+    author: "欢声",
+    date: "2026-09-13",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-174章",
+    latestChapter: "第171章 泽恩的秘密（上）",
+    excerpt: "会发光的不一定就是金子，尽管同样有着闪亮的鳞片，但如果把重质龙误认为金属龙，后果将会是致命的。 这是一只幼崽从铬龙开始，生活、成长、征服与进化，最后变成一颗星星的故事。 唔…… 死兆星。 —————— 奇幻世界，并非DND，家族、争霸、龙群。",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_KqwBBg8aG0qLvY1vMr1qQ?pwd=xxrt",
+    downloadUrl: "/books/1353_从铬龙开始1-174章.txt",
+    sourceUrl: "https://www.deqixs.org/1353/txt.html#dir",
+  },
+{
+    id: 1354,
+    slug: "怪谈1999-头衔收藏家",
+    title: "怪谈1999：头衔收藏家",
+    cover: book1354Cover,
+    author: "空心柴",
+    date: "2026-09-10",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-170章",
+    latestChapter: "第170章 穷途末路，周持点灯",
+    excerpt: "我叫周持，是一个父母健在，德智体美劳全面发展的普通高中生。 那天我发现，所有人的头顶都出现了一个头衔。 【太监】【杀手】【贤者】【█人】…… 而我能复制头衔的能力，甚至能抢夺对方的头衔。 太好了，我要当超人。 第一天，我保持理智。 第二天，我跃跃欲试。 第三天，我挑三拣四。 第四天…… 我看见头顶【气球】的人被放了条长线； 头顶【木偶】的人被做成了手办； 【旧日神明】被【八级钳工】夹掉了脑袋。 这",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13i5Kderp2jEl9OHMQ74_eg?pwd=xxrt",
+    downloadUrl: "/books/1354_怪谈1999：头衔收藏家1-170章.txt",
+    sourceUrl: "https://www.deqixs.org/1354/txt.html#dir",
+  },
+{
+    id: 1355,
+    slug: "我用知识成神",
+    title: "我用知识成神",
+    cover: book1355Cover,
+    author: "下周喝酒",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-198章",
+    latestChapter: "第198章 战斗状态拉满！【6.2k】",
+    excerpt: "陆恒每次死亡以后，都会来到一个新的世界。 第一世，平凡人生。 第二世，他发现自己还拥有上个世界的记忆后，感叹人生匆匆，决定好好享受生活。 第三世，他发现自己还有记忆后，于是决定努力学习，如果再有下一世，就能享受更好的生活质量。 第四世，他想利用前世的经验，想实现上一世的目标。 第五世，拥有很多学识的他，想要一步一步往上爬，站得更高。 …… 直到有一世。 他忽然发现微积分可以解析‘灵气’等超凡物质，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xFd3PwFqM-ZVNIfwfbL3hg?pwd=xxrt",
+    downloadUrl: "/books/1355_我用知识成神1-198章.txt",
+    sourceUrl: "https://www.deqixs.org/1355/txt.html#dir",
+  },
+{
+    id: 1356,
+    slug: "潮起1998-我被她们觊觎上了",
+    title: "潮起1998：我被她们觊觎上了",
+    cover: book1356Cover,
+    author: "爱喝玉米须茶",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-430章",
+    latestChapter: "第355章 月黑风高夜",
+    excerpt: "故事，还得从火车上忽悠某位姑娘说起。 “给个一两千意思意思就行。” 姑娘轻蹙黛眉：“三千，我再给你加一千！” 随后，又是警惕道。 “不对？你是不是想拐我？” ------------------- 回到1998大时代的杜恒自信喊出。 不尽沧澜走沧海，一拳天与压潮头。 诱惑请多多益善，我握得住，也压得住。 -------------------",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1uc-BbRP1pkSNmxOHzQ8uSg?pwd=xxrt",
+    downloadUrl: "/books/1356_潮起1998：我被她们觊觎上了1-430章.txt",
+    sourceUrl: "https://www.deqixs.org/1356/txt.html#dir",
+  },
+{
+    id: 1357,
+    slug: "输了才是异端-赢了叫我教皇",
+    title: "输了才是异端，赢了叫我教皇",
+    cover: book1357Cover,
+    author: "少女是永恒的",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-468章",
+    latestChapter: "第462章 你是哪里来的卑女啊？",
+    excerpt: "“愚蠢的拜占庭亡国公主，竟自称无敌太阳，意欲光复罗马荣光。” “在北方的冰海之森，暴风雪之中传来了狂猎之王的呼啸。” “异端的机械正在摧毁天国的基石，航海士的海图打开了新世界的通道，魔鬼正潜藏于其中，用黄金蛊惑着人心。” “草原的铁骑正踏马嘶鸣，长生天的阴影依旧挥之不去。” “而我，你们的弥赛亚，圣子，神罗皇帝，世界征服者，统治两个世界的苏丹，驾驭天使与恶魔军团的万军之主，有且只有一个命令。” “",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1bBnjUe-9bPSdoiscmIhKqA?pwd=xxrt",
+    downloadUrl: "/books/1357_输了才是异端，赢了叫我教皇1-468章.txt",
+    sourceUrl: "https://www.deqixs.org/1357/txt.html#dir",
+  },
+{
+    id: 1358,
+    slug: "光明骑士在永夜种太阳",
+    title: "光明骑士在永夜种太阳",
+    cover: book1358Cover,
+    author: "白雨涵",
+    date: "2026-08-25",
+    category: "奇幻",
+    status: "已完结",
+    chapters: "1-534章",
+    latestChapter: "第532章 终焉时刻（大结局）",
+    excerpt: "“骑士，你在做什么？” “我在种太阳，夫人。” “种太阳做什么？” “照亮世界，让世人都看见我的脸。” 这是一个骑士在黑暗世界辛勤种太阳……花的奇幻故事，欢迎品鉴。",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12sotK29bUasPYKcPxL45Qw?pwd=xxrt",
+    downloadUrl: "/books/1358_光明骑士在永夜种太阳1-534章.txt",
+    sourceUrl: "https://www.deqixs.org/1358/txt.html#dir",
+  },
+{
+    id: 1359,
+    slug: "大宋神探录-展昭传奇",
+    title: "大宋神探录：展昭传奇",
+    cover: book1359Cover,
+    author: "兴霸天",
+    date: "2026-08-25",
+    category: "历史",
+    status: "已完结",
+    chapters: "1-630章",
+    latestChapter: "第593章 大结局（下）",
+    excerpt: "昭昭玉鉴辨冤情，剑荡千山映寒星。 非是天公偏俊秀，人间必要此光明。 展昭的神探之路，自大相国寺开始，一生传奇，全无黑点。 直到亲朋好友终于知道，他的法号叫什么。 展昭，你还说自己不是戒色大师！！",
+    tags: [{ name: "历史", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1feuCzESBKvYK_5RdIWTJPw?pwd=xxrt",
+    downloadUrl: "/books/1359_大宋神探录：展昭传奇1-630章.txt",
+    sourceUrl: "https://www.deqixs.org/1359/txt.html#dir",
+  },
+{
+    id: 1360,
+    slug: "从白猿桩开始肉身成圣",
+    title: "从白猿桩开始肉身成圣！",
+    cover: book1360Cover,
+    author: "万川入海",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-154章",
+    latestChapter: "第152章 暴涨",
+    excerpt: "【练功升级】【稳扎稳打】【一步一脚印】 人间无敌者，是为武圣！ 江尘穿越武道世界，正逢太祖坐化，原本辉煌到了极点，四海昌隆的武朝，风云骤变。 隐世仙宗、不朽神庙、武道圣地，纷纷出世。 上古大妖、诡异邪祟、不死魔头，尽数复苏。 风云起，乱世临！ 好在，前世古宝【万道图】伴随而来。 万道图，可收录万法、可道果永驻、可掠夺本源…… 收录【白猿站桩功】：一次小成，两次大成，三次圆满 领悟【五行真武经】：炼",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ofSd9wBG5Jx20JMJj4mwZQ?pwd=xxrt",
+    downloadUrl: "/books/1360_从白猿桩开始肉身成圣！1-154章.txt",
+    sourceUrl: "https://www.deqixs.org/1360/txt.html#dir",
+  },
+{
+    id: 1361,
+    slug: "无限成长-我有九十九级超能力",
+    title: "无限成长，我有九十九级超能力",
+    cover: book1361Cover,
+    author: "腾空的魔幻",
+    date: "2026-09-10",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-148章",
+    latestChapter: "第147章 团战，顶层战力！",
+    excerpt: "毁灭日过后，旧秩序于废土之上苍穹，秘血职业者主宰一切。 能偷走别人影子的影武者使，谎言具现的浊心鬼，能与虫群共享感官的虫王。 甚至，还有传说能够许愿世间万物的许愿鸟…… 站在人族上方的那些秘血职业者，强大如神明！ 毁灭日过后的第三百七十七年，平淡另外的前天，满目恐痍的蓝星祖地，一处小小城的旗帜，一个不起眼的少年被唤醒了前世的记忆……最初的 鸟秘血职业者，素来有人形后续机的孱弱外号。 但当江方吹出一",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11BQmly_hJxBCyvrFocFbEA?pwd=xxrt",
+    downloadUrl: "/books/1361_无限成长，我有九十九级超能力1-148章.txt",
+    sourceUrl: "https://www.deqixs.org/1361/txt.html#dir",
+  },
+{
+    id: 1362,
+    slug: "为武道狂-拳压诸天",
+    title: "为武道狂，拳压诸天",
+    cover: book1362Cover,
+    author: "新龙虎道人",
+    date: "2026-08-25",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-484章",
+    latestChapter: "第22章 ：完本感言",
+    excerpt: "先天之气乃道枢所寄，立命之根，禀父母以成胎元，藏肾精而壮百脉，为长生之基、武魄之宗。 然天门难叩，先天一炁杳渺难寻。 志坚者，自可运后天之气鼓荡周天，以武淬体，以意引神。形动则气聚，气聚则精生，精生而神完，终以血肉之躯铸通天桥。 界海降临，李泉游走于不同的世界，习武若狂，以武入道。 奢靡东京，笼中死斗，食化养精，养化丹田之虎。​ 国术民国，人祸山乱，屠虎取骨，蕴养玄坛正气。​ 赛博大明，巨门森列，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cCmJq0WCQx2_5qSg54jNxA?pwd=xxrt",
+    downloadUrl: "/books/1362_为武道狂，拳压诸天1-484章.txt",
+    sourceUrl: "https://www.deqixs.org/1362/txt.html#dir",
+  },
+{
+    id: 1363,
+    slug: "路明非-我老婆好像全是恶龙",
+    title: "路明非：我老婆好像全是恶龙",
+    cover: book1363Cover,
+    author: "苦与难",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-538章",
+    latestChapter: "第277章 276苏茜小姐の一月攻略（二）芝加哥之恋",
+    excerpt: "软萌小师妹是大地与山之王、剑道少女巧得至尊骨铸就煌煌龙威、连我那青梅竹马的阿姊明珰居然都是身负皇帝血脉的娲主？ 龙女仆夜袭很让人腰酸背痛、还有什么叫漂亮阿姨在门外路明非你再不出去她的尾巴就藏不住啦！ 这是个后宫故事吧？可病娇皇女真的要不起啊…… 等等，《绘梨衣同学有交流障碍症》又是什么神展开？ 为什么伊丽莎白和夏绿蒂又总对我虎视眈眈？ 芬格尔把话筒怼到路明非嘴里问请问路主席您对外界盛传自己是人奸这",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14bjEOqmvkJF2YPPhZaicLA?pwd=xxrt",
+    downloadUrl: "/books/1363_路明非：我老婆好像全是恶龙1-538章.txt",
+    sourceUrl: "https://www.deqixs.org/1363/txt.html#dir",
+  },
+{
+    id: 1364,
+    slug: "仙旅",
+    title: "仙旅",
+    cover: book1364Cover,
+    author: "红心布",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-108章",
+    latestChapter: "第107章 ，全窍得剑性",
+    excerpt: "历史旧事，化为副本，既能获得通关奖励，亦可掌握隐藏机密。 以时光碎片之旅，修仙问道求长生！ …… “隐匿于虚空中的传送阵，你是如何找到的？” “此事唯有当年在场二人才知晓，你又如何得知？” ”元始初灵早已断绝，如今竟然再度显世！” “功法断绝千年，你这绝对是赝品！什么副本奖励？根本不可能！” 江彻不言不语，只是一味的刷副本。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ywI1Rk1659kx38d8BkOsGQ?pwd=xxrt",
+    downloadUrl: "/books/1364_仙旅1-108章.txt",
+    sourceUrl: "https://www.deqixs.org/1364/txt.html#dir",
+  },
+{
+    id: 1365,
+    slug: "尼禄",
+    title: "尼禄",
+    cover: book1365Cover,
+    author: "九鱼",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-63章",
+    latestChapter: "第63章 克劳狄乌斯在元老院的发言-加更！感谢日落誓言大大的万点打赏",
+    excerpt: "——他不仅是个皇帝，更是一位神明！ 最后一批黄金人类死去之后，奥林匹斯山上的众神也不再行走于人世间。 是厌倦还是憎恶，又或者是轻蔑，无人得知。 但祂们的神谕依然回响在每座庄严而又神圣的殿堂之中，在烟雾的颜色和形状中，在鸟儿被破开的胸膛内，在牛羊被焚烧后留下的焦骨里…… 祂们的子嗣被留在这座大地上，或是身穿紫袍高居王座，或是身披白衣在元老院与广场侃侃而谈，又或是在殿堂中虔诚地侍奉他们的先祖，更多的，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1a_RjMHi9pDHpK1lvuT429w?pwd=xxrt",
+    downloadUrl: "/books/1365_尼禄1-63章.txt",
+    sourceUrl: "https://www.deqixs.org/1365/txt.html#dir",
+  },
+{
+    id: 1366,
+    slug: "我的排长戴高乐",
+    title: "我的排长戴高乐",
+    cover: book1366Cover,
+    author: "男爵火枪",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-131章",
+    latestChapter: "第18章 王储和神话",
+    excerpt: "那一年的马恩河，穿越来的周宇从战场上被拖下来，差点被当做逃兵一枪崩了。 为了活命，他撒了个慌，说自己认识个排长，叫夏尔.戴高乐。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ogIraom5HNZ6SoH0vk9mtw?pwd=xxrt",
+    downloadUrl: "/books/1366_我的排长戴高乐1-131章.txt",
+    sourceUrl: "https://www.deqixs.org/1366/txt.html#dir",
+  },
+{
+    id: 1367,
+    slug: "我的女友是收容物",
+    title: "我的女友是收容物",
+    cover: book1367Cover,
+    author: "南方有美人",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-105章",
+    latestChapter: "第103章 热情的大美人",
+    excerpt: "上班第一天，楚铭遇到了四位心动女生！ 第一位，美丽、高挑但又弱气怕生的御姐，人非常好，简直是一位小天使！ 另一位，像是画里走出来的绝世美人，优雅，圣洁，纯欲，真正的天使！ 第三位，高贵典雅的白色礼裙公主，有着柔顺的灰金色长发，她美丽的笑容没人能抵抗！ 最后一个是穿着黑色礼服，身材巨好的顶美，人不太会说话，但很热情，喜欢对你动手动脚的。 “等等，你确定对她们心动了？” “当然！” “可她们一个会无限",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pEMEqZLoS7Bd1QpaU8pWcA?pwd=xxrt",
+    downloadUrl: "/books/1367_我的女友是收容物1-105章.txt",
+    sourceUrl: "https://www.deqixs.org/1367/txt.html#dir",
+  },
+{
+    id: 1368,
+    slug: "我能加载旧日设定",
+    title: "我能加载旧日设定",
+    cover: book1368Cover,
+    author: "鹅毛浮开水",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-119章",
+    latestChapter: "第117章 ：回归，感谢污秽母亲的馈赠！（4k+）",
+    excerpt: "2036年，深秋，某旧日拜见仪式泄露，禁忌知识导致群体失控，超凡者人人自危。 我不怕。 因为那个仪式是拜见我的。 我叫陆延年，表层世界的一个普通人，只是我的设定有点多。 “下一个设定，同步【原初太阳】还是【悖论】？”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nI0a0ERGb14S58n5mIkvGg?pwd=xxrt",
+    downloadUrl: "/books/1368_我能加载旧日设定1-119章.txt",
+    sourceUrl: "https://www.deqixs.org/1368/txt.html#dir",
+  },
+{
+    id: 1369,
+    slug: "我的七十二变不对劲",
+    title: "我的七十二变不对劲",
+    cover: book1369Cover,
+    author: "出走八万里",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-129章",
+    latestChapter: "第128章 太乙神木！镇狱神雷！",
+    excerpt: "文明断层了！ 盘古、女娲、三清道祖、四御五老…… 他们不是什么洪荒，不是什么神话。 他们真实地存在过，只是被篡改、被隐藏、被抹除。 为什么宇宙中只有地球是特殊的？ 为什么世界所有神话的开篇都是大洪水？ 在那不知岁月的远古，究竟发生了什么事情？ 直到一枚枚继承着强者意志的道果出现在世间。 得到了道果的人们，继承了强者的能力，推开了一扇神秘的大门，看到了另一个世界。 他们穿梭于地球和异世。 他们慢慢拼",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zIbJhLw0mqdVd2XZ7l_0IA?pwd=xxrt",
+    downloadUrl: "/books/1369_我的七十二变不对劲1-129章.txt",
+    sourceUrl: "https://www.deqixs.org/1369/txt.html#dir",
+  },
+{
+    id: 1370,
+    slug: "仙子-我真得适应你了",
+    title: "仙子，我真得适应你了",
+    cover: book1370Cover,
+    author: "小何何何何何",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-49章",
+    latestChapter: "第48章 姜槐，你敢！",
+    excerpt: "又名：《师弟，我真得支配你了》 入宗修行以来，姜槐发现了一件怪事。 他疑似一直在给自家师姐当狗。 师姐有事，姜槐下山去办。 师姐没事，姜槐在家伺候。 姜槐表现的乖了，师姐会摸摸他的头，询问姜槐的愿望，并在夜里奖励他一些开心的事情…… 听上去，好像还挺温馨。 但诡异的地方在于，姜槐根本搞不懂他为什么要当狗！ 是啊… 为什么呢？ 姜槐到底什么时候被调成对女人言听计从的性格了？ 姜槐百思不得其解，总觉得",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_z8m6OMMiMBwli7XuIb-bA?pwd=xxrt",
+    downloadUrl: "/books/1370_仙子，我真得适应你了1-49章.txt",
+    sourceUrl: "https://www.deqixs.org/1370/txt.html#dir",
+  },
+{
+    id: 1371,
+    slug: "重回03-走乐邦的路",
+    title: "重回03：走乐邦的路",
+    cover: book1371Cover,
+    author: "没有人比我更懂",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第134章 狼来啦",
+    excerpt: "杨飞昨天还在嘲笑詹姆斯只会抱团，临老了也选择抱团，但今天他就面临一个艰难的选择—— 穿越回03年NCAA四强赛替补席，作为三分不错但运动能力一般的2米03射手，在半场落后30+的情况下，主教练汤姆·克里恩死马当活马医，把他派上场为韦德拉开空间。 他激活了系统。 系统的新手大礼包是：库里的三分、乔丹的中投、杜兰特的人球结合能力、科比的技巧、艾弗森的控球以及勒布朗·詹姆斯的身体素质。 六选一！ 怎么选",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FkvSrcet4Z5F9qTwP4KdLA?pwd=xxrt",
+    downloadUrl: "/books/1371_重回03：走乐邦的路1-135章.txt",
+    sourceUrl: "https://www.deqixs.org/1371/txt.html#dir",
+  },
+{
+    id: 1372,
+    slug: "半岛-失眠艺人连线中",
+    title: "半岛：失眠艺人连线中",
+    cover: book1372Cover,
+    author: "夏雨打蝉",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-167章",
+    latestChapter: "第166章 YG爬山小分队，眼前一黑（今日万更已到，求全订）",
+    excerpt: "每到凌晨三点，陆修哲的手机就会自动连线一位失眠的女艺人，他们将做同一个梦，在梦里看到未来即将发生的事情，于是…… 金泰妍：修哲xi，请问包养是什么价位？ 裴珠泫：我要当大红花，不当彩色杰尼龟！ 林允儿：我宣布，春史影后比青龙影后更权威！ 朴智妍：学中文才能救T-ara，信我姐妹！ 崔雪莉：oppa，怎么就我眼前一片漆黑？ 裴秀智、李知恩、郑秀妍、金智媛、林娜琏、金智秀、高允真、柳智敏、金裕贞、李世",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12-wCgS5mNJ31Na9Cmzi2AA?pwd=xxrt",
+    downloadUrl: "/books/1372_半岛：失眠艺人连线中1-167章.txt",
+    sourceUrl: "https://www.deqixs.org/1372/txt.html#dir",
+  },
+{
+    id: 1373,
+    slug: "人气修仙-我选择模仿安澜",
+    title: "人气修仙：我选择模仿安澜",
+    cover: book1373Cover,
+    author: "利世不利世",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-125章",
+    latestChapter: "第122章 终结与后续",
+    excerpt: "姜澜穿越到了一个番剧世界，获得了【人气系统】。 只要获得观众的欢迎，得到人气值，即可抽取各种奖励。 神功宝体，仙药帝兵，应有尽有。 为此，他思来想去，为自己制定了一个以“装”为标签的人设。 绞尽脑汁地抛出各种口嗨语录。 “是谁在称无敌？哪个敢言不败？” “我乃筑基真人，谁能杀我？！谁敢杀我？！” “你只可到此，再进一步，将地覆天翻。” “我有仙心一颗，久被尘劳关锁，今朝尘尽光生，照破山河万朵。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1q8Kt1pkSlnm5BFml9d-5EQ?pwd=xxrt",
+    downloadUrl: "/books/1373_人气修仙：我选择模仿安澜1-125章.txt",
+    sourceUrl: "https://www.deqixs.org/1373/txt.html#dir",
+  },
+{
+    id: 1374,
+    slug: "游戏王-boss竟是我自己",
+    title: "游戏王：BOSS竟是我自己",
+    cover: book1374Cover,
+    author: "名称被占用",
+    date: "2026-09-12",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-97章",
+    latestChapter: "第96章 神力破碎？（三更）",
+    excerpt: "穿越游戏王世界，遍地都是打牌灭世的BOSS，打牌还可能会打出人命。 为求安全感，游宸踏上了收集卡组提升实力的道路。 “你的卡不错，可现在它是我的了。” “施主，我看你的卡组与我有缘。” “我的卡为什么会在你的卡组里？” “......” 待到他踏遍四方，牌库日益完善，蓦然回首才猛然惊觉—— ——BOSS竟是我自己。",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1I03gXaDkMXA_1OwL-EJ2Zg?pwd=xxrt",
+    downloadUrl: "/books/1374_游戏王：BOSS竟是我自己1-97章.txt",
+    sourceUrl: "https://www.deqixs.org/1374/txt.html#dir",
+  },
+{
+    id: 1375,
+    slug: "这个医生技术太过无敌",
+    title: "这个医生技术太过无敌",
+    cover: book1375Cover,
+    author: "小小鱼虾",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-167章",
+    latestChapter: "第163章 大开大合的手术！",
+    excerpt: "变种幕后流，专业文，日常文，人前显圣！ 陈卓安只是一个普通的地级市医院小医生。 某一天，他忽然发现，自己可以进入到病人的身体里完成挑战，在挑战期间，他拥有疾病领域里的绝对控制权。 于是乎，小医生陈卓安的医术忽然变得神乎其技了起来。 他闲庭信步，左手持酒，右手倒背，喝令了一句：”杀了它们。“ 瞬间，千军万马展开了残酷的厮杀！ 病菌、坏死细胞、肿瘤被轻易覆灭。 陈卓安医生的人生轨迹发生了绝对的改变。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10G19_Hk7rauzegQVJLWIRg?pwd=xxrt",
+    downloadUrl: "/books/1375_这个医生技术太过无敌1-167章.txt",
+    sourceUrl: "https://www.deqixs.org/1375/txt.html#dir",
+  },
+{
+    id: 1376,
+    slug: "同穿恋爱脑-我在女频正得发邪",
+    title: "同穿恋爱脑，我在女频正得发邪",
+    cover: book1376Cover,
+    author: "白蓝IRA",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-87章",
+    latestChapter: "第086章 佛渡有元人，可惜你是穷鬼！（4K7）",
+    excerpt: "路尘同时穿越99个世界，结果全是女频恋爱脑AI短剧，好在绑定了人气至上系统，人气越高，实力越强，乃至逆天改命！ 于是一个杀伐果断、正得发邪、帅气无比的人气IP角色，活跃在无数热门短剧片场里…… 蜀山路尘：“一天是邪修，一辈子是邪修，懒说配听，吃我修罗火莲诀！” 将军路尘：“女帝送太子和亲？奉天靖难，南下擒龙，玄武门对掏，谁输谁叛军！” 武侠路尘：“本官确实不懂爱情高于生命，咱们六扇门办案，只讲杀人",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16kfHFfXxH-pXJAvZwgmf1Q?pwd=xxrt",
+    downloadUrl: "/books/1376_同穿恋爱脑，我在女频正得发邪1-87章.txt",
+    sourceUrl: "https://www.deqixs.org/1376/txt.html#dir",
+  },
+{
+    id: 1377,
+    slug: "500万还是谋生技能-选哪个",
+    title: "500万还是谋生技能，选哪个",
+    cover: book1377Cover,
+    author: "中秋月明",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-4400章",
+    latestChapter: "第122章 你骂你的三字经，我听我的金刚经",
+    excerpt: "正在读大三的苟南光正纠结这读了十多年的书，还是个百无一用的书生，忽然发现自己每天随机会点什么技能，可这不稳定的技能又有什么用呢？",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/17azPriQr51xuRUV7XEyRzA?pwd=xxrt",
+    downloadUrl: "/books/1377_500万还是谋生技能，选哪个1-4400章.txt",
+    sourceUrl: "https://www.deqixs.org/1377/txt.html#dir",
+  },
+{
+    id: 1378,
+    slug: "马上退役-nba贷款系统来了",
+    title: "马上退役！NBA贷款系统来了！",
+    cover: book1378Cover,
+    author: "松周",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-119章",
+    latestChapter: "第110章 别让忠诚害了你",
+    excerpt: "“预支迈扣乔丹能力！” “预支失败！” 系统回声传来，周涛意识到一个关键问题，原来NBA的世界真的可以先贷款后完成。 ...... 2004年，周涛的想法很简单，已经混了三个总冠军，打不上球了就退役回家养猪过好日子。 但谁知道他的传奇之路才刚刚开始，然后一发不可收拾。 “你知道的，周是我的好兄弟，严父常说：未来是我的。”——乐邦黵士 “周曾经是我的队友，然后是我的敌人，现在是我追赶的对象。”——科",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14BfGSjmNqGDeX0dCBhu0Sw?pwd=xxrt",
+    downloadUrl: "/books/1378_马上退役！NBA贷款系统来了！1-119章.txt",
+    sourceUrl: "https://www.deqixs.org/1378/txt.html#dir",
+  },
+{
+    id: 1379,
+    slug: "文娱帝王",
+    title: "文娱帝王",
+    cover: book1379Cover,
+    author: "小刀锋利",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-155章",
+    latestChapter: "第154章 《诺言》",
+    excerpt: "那是个已经落幕的时代，随光阴老去，再也不会回来。 但它不该被遗忘。无数首金曲灿若星辰，大量影视剧皎洁如月。 无论你是否抬头，它们都在天空高悬、闪闪发光，映照着你的童年。 和现在。 穿越到平行时空九十年代的陆钦，化身“两界文艺交流大使”，用一首首经典的歌曲、影视剧，缔造文娱盛世。 他也因此，被尊为——文娱帝王。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12RERjjc6sguz_BfLQsWJJw?pwd=xxrt",
+    downloadUrl: "/books/1379_文娱帝王1-155章.txt",
+    sourceUrl: "https://www.deqixs.org/1379/txt.html#dir",
+  },
+{
+    id: 1380,
+    slug: "旧日上单",
+    title: "旧日上单",
+    cover: book1380Cover,
+    author: "乱码有个性",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-957章",
+    latestChapter: "第957章 兮夜这对we3.0成员都是二队出身。",
+    excerpt: "【图文LOL小说】 平行世界的姜昊征战十四年，在S赛决胜局燃烧自己，一声“键来”直入陆地神仙境，送六冠王升天。 完成心愿后。 姜昊化作漫天金色尘埃，电竞椅上只剩一颗舍利。 … 再睁眼。 姜昊来到2016年的地球。 虽然版本和记忆中的不同，但激活了专属系统…… 等等！！ 带【闪避符文】欺负AD？ 开【外交豁免】单切C位？ 用【利刃华尔兹】拉满伤害？ “我Chovy！” “什么叫人在新时代，系统是怀旧",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jZT-tz_z-huQU0BrLnTZ0Q?pwd=xxrt",
+    downloadUrl: "/books/1380_旧日上单1-957章.txt",
+    sourceUrl: "https://www.deqixs.org/1380/txt.html#dir",
+  },
+{
+    id: 1381,
+    slug: "串子社区恋爱大神",
+    title: "串子社区恋爱大神",
+    cover: book1381Cover,
+    author: "誓死效忠米哈游",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-92章",
+    latestChapter: "第91章 齐涵雅的秘密？我要把老唐找回来！",
+    excerpt: "“我喜欢你。” “爬！你已经是酷狗，早就贡献清零了！”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nAqNcRQDPjJymPlFSYB8mA?pwd=xxrt",
+    downloadUrl: "/books/1381_串子社区恋爱大神1-92章.txt",
+    sourceUrl: "https://www.deqixs.org/1381/txt.html#dir",
+  },
+{
+    id: 1382,
+    slug: "我在大爱仙宗当圣子",
+    title: "我在大爱仙宗当圣子",
+    cover: book1382Cover,
+    author: "快乐的君听",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第131章 神庙，诡异的献祭仪式",
+    excerpt: "羲和的金车走了多长？ 望舒御月去了何方？ 神话时代，山海迷梦，这天地曾是何等模样？ “圣子，我早就跟你说了，神话往事都是正道仙人编撰的。” 仙宗的邪神说： “这九洲八荒曾经是我们邪神诡祖的乐土，只不过后来正道仙人们把我们驱逐了！” 风泽：“真相是这样吗？” 邪神：“是的。” …… 若干年后，风泽成仙了，明白历史真相。 邪道在撒谎！ 正道在瞎编！ 天外古神也在篡改真相！ “你们这些混蛋，我就说修仙界",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1p78pvPR6Ck6WmtmRwGlYsw?pwd=xxrt",
+    downloadUrl: "/books/1382_我在大爱仙宗当圣子1-135章.txt",
+    sourceUrl: "https://www.deqixs.org/1382/txt.html#dir",
+  },
+{
+    id: 1383,
+    slug: "我也要攻略你的吗",
+    title: "我也要攻略你的吗？",
+    cover: book1383Cover,
+    author: "页面走失",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-116章",
+    latestChapter: "第115章 拿这个考验主人？",
+    excerpt: "艾丽莎小姐发现，自己新招的男仆有点儿奇怪。 男仆名叫西蒙，头上顶着一个光幕，上面写着亲密度、心情、精力等属性，标着对应的数值。 只要艾丽莎送出礼物，满足需求，相应的数值就会增长，还能安排男仆学习课程，获得专长。 从没玩过养成游戏的艾丽莎小姐，很快沉迷在了其中。 “上涨吧，我的亲密度！” “怎么还会下降！给我涨回来，不然捅死你！” …… 沉迷期过去，迈入长草期后，艾丽莎小姐忙了一阵现实里的事，回头发",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NknYovgn0Q-IwHb2I4DXdQ?pwd=xxrt",
+    downloadUrl: "/books/1383_我也要攻略你的吗？1-116章.txt",
+    sourceUrl: "https://www.deqixs.org/1383/txt.html#dir",
+  },
+{
+    id: 1384,
+    slug: "从灵媒开始武道超凡",
+    title: "从灵媒开始武道超凡",
+    cover: book1384Cover,
+    author: "猪的白日梦",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-118章",
+    latestChapter: "第118章 改变战局的青苔鬼雨！强大的支援灵媒师江礼（6000求订阅！",
+    excerpt: "江礼拥有将一切转化成卡牌的能力。 遇到的每一个人物、特殊地点，都可能生成专属卡牌，《邻家女孩》、《大学教室》、《武道馆》、《气血丹》、《基础桩功》…每一张卡能力都不相同。 江礼本以为可以靠着卡牌走向武道巅峰，但当半夜12点门被敲响，当走夜路时有人在呼唤他的名字，一切似乎变得不同了。 而江礼的卡牌，也变得不同了…《鬼敲门的手臂》、《黑夜盲母之眼》、《灵媒入门》、《古武：沧海蜉蝣》 一张又一张神秘未知",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1IlBSg7FGJqgTugEMpFjjrw?pwd=xxrt",
+    downloadUrl: "/books/1384_从灵媒开始武道超凡1-118章.txt",
+    sourceUrl: "https://www.deqixs.org/1384/txt.html#dir",
+  },
+{
+    id: 1385,
+    slug: "从洞房夜开始神游",
+    title: "从洞房夜开始神游",
+    cover: book1385Cover,
+    author: "山居老叟",
+    date: "2026-09-02",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-64章",
+    latestChapter: "第64章",
+    excerpt: "【乱世之中，你偶遇重伤失去法力、隐匿人间的女魔头柳红夜。】 【选择一：设法杀死女魔头——开局奖励神功金刚伏魔拳！】 【选择二：成为女魔头的得力手下，帮助她恢复法力，祸乱人间——开局奖励顶级魔功万屠血魔掌！】 【选择三：洗白弱三分，迎娶女魔头，用家庭和爱的温暖压制女魔头的魔性——开局奖励神级天赋：神游。】 “我先选三……” 三年后，你已功成名就，家庭美满，多子多福。 【乱世之中，你偶遇……】 “不是",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HL1FzeniPIBxu2FmK_OuSQ?pwd=xxrt",
+    downloadUrl: "/books/1385_从洞房夜开始神游1-64章.txt",
+    sourceUrl: "https://www.deqixs.org/1385/txt.html#dir",
+  },
+{
+    id: 1386,
+    slug: "什么叫我是战争贩子",
+    title: "什么叫我是战争贩子！",
+    cover: book1386Cover,
+    author: "不吃葱花",
+    date: "2026-09-12",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-113章",
+    latestChapter: "第112章 动手",
+    excerpt: "“我厌恶暴力，我卖的不是枪，我卖的是危险情况下的选择权和保护自己的权力。” “每年死在刀下的人有几十万，你们会质问卖刀的人吗？” “我没有颠覆小国的政权，这是不实指控。” “是的，我的公司雇佣了一些人，不过这只是为了保护我自己，我说过，我厌恶暴力！” 陈远虎，绰号：死亡贩子。 非洲最大的军火商，最大的私人军事承包商，几乎所有战乱国家都有他的身影。 ———————— 纯正古法码字，键盘手打仙人。",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UK7SIq-ng_txW9WH1RRYvA?pwd=xxrt",
+    downloadUrl: "/books/1386_什么叫我是战争贩子！1-113章.txt",
+    sourceUrl: "https://www.deqixs.org/1386/txt.html#dir",
+  },
+{
+    id: 1387,
+    slug: "花和尚从鸠摩智模版开始",
+    title: "花和尚从鸠摩智模版开始",
+    cover: book1387Cover,
+    author: "逆流河的顺流鱼",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-113章",
+    latestChapter: "第111章 枯木神功，不堪一击（二合一）",
+    excerpt: "玄空穿越至一个武侠世界，还没幻想名剑美人、高手对决。 就发现自己此世剃度出家，是个小和尚。 这世道强人遍地，以武为尊，有侠客仗剑潇洒，亦有魔门盗匪横行。 玄空无钱无势更无武功，本以为只能窝在庙里吃斋念佛，了无生趣。 岂料竟获得和尚模版系统。 只要扮演系统给的和尚模版，符合人设，就能获得相应的传承奖励。 而他要扮演的第一个和尚模版，赫然是鸠摩智。 “你严守佛门清规戒律一天，符合鸠摩智【不邪淫、不杀生",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1SUinubHrmoeBDiCkQNIFGw?pwd=xxrt",
+    downloadUrl: "/books/1387_花和尚从鸠摩智模版开始1-113章.txt",
+    sourceUrl: "https://www.deqixs.org/1387/txt.html#dir",
+  },
+{
+    id: 1388,
+    slug: "我在美利坚科普都市传说",
+    title: "我在美利坚科普都市传说",
+    cover: book1388Cover,
+    author: "纳塔那埃尔",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-156章",
+    latestChapter: "第154章 被污染的卡通世界（3K）",
+    excerpt: "李昂穿越到了八十年代的美利坚，他惊讶的发现，前世那些阴谋论和都市传说全都变成真的了。 而他只要彻底解决这些事件，就会获得相应的奖励。 于是，为了找到更多的神秘事件，他决定成为一个儿童节目的主持人。 幽暗的密林一定隐藏着未知的生物。 古老的生灵一定有着隐秘的术法。 祥和的都市一定存在黑暗的另一面。 未确认生物，巫术，秘密实验室，影子政府，一直都隐藏在我们的生活中。 现在，我要揭开一切的秘密，告诉你所",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eyhSAbJ6DDt5ObkGuydIEg?pwd=xxrt",
+    downloadUrl: "/books/1388_我在美利坚科普都市传说1-156章.txt",
+    sourceUrl: "https://www.deqixs.org/1388/txt.html#dir",
+  },
+{
+    id: 1389,
+    slug: "东京-我每日刷新修仙情报",
+    title: "东京：我每日刷新修仙情报",
+    cover: book1389Cover,
+    author: "黑枪叁号",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-98章",
+    latestChapter: "第97章 天门影响外溢",
+    excerpt: "“木君，你眼中的世界是什么样子？” “在我眼中，这是一个修仙世界。” “？” …… 【眼前重伤女子的真实身份是太清仙子，帮她解围，她将传授您太清宗入门功法清虚引气诀。】 【北境千年树妖刚经历雷劫，处于最弱时期，它的身体和妖丹是至宝。】 【梁国有魔头炼化万鬼幡失败，遭到反噬，筑基期修士都能轻松解决他。】 普通人眼中的东京，在黑木眼里却是一张铺满了机缘和天材地宝的修仙地图。 标签【唯我独法、多女主、日",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1YY0EsEy15lmfRtP0maSg-A?pwd=xxrt",
+    downloadUrl: "/books/1389_东京：我每日刷新修仙情报1-98章.txt",
+    sourceUrl: "https://www.deqixs.org/1389/txt.html#dir",
+  },
+{
+    id: 1390,
+    slug: "全网造神我-真出道你不就炸了",
+    title: "全网造神我，真出道你不就炸了",
+    cover: book1390Cover,
+    author: "几仙1",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-115章",
+    latestChapter: "第113章 ：一定不能看提词器，气口很诡异",
+    excerpt: "王梓珑本是平凡的农村籍装修工人，打拼半辈子碌碌无为，平常最大的爱好就是发一些自拍视频。 但不知何时开始，有一些乐子人盯上了他，开始用他的照片当头像，玩儿他的梗，说他是曾经的王。 一开始倒也正常，但随着时间，整件事开始跑偏了。 有人说，他是顶流男团E.T.R当年的队长，隐藏的第十三位成员，曾经非常的帅，但由于抗争资本，帮助反抗潜规则，动了资本的蛋糕而被雪藏。 这些当然是假的，就算是各种所谓证据，也是",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ce7DROOG7nqAw7iZQcU79w?pwd=xxrt",
+    downloadUrl: "/books/1390_全网造神我，真出道你不就炸了1-115章.txt",
+    sourceUrl: "https://www.deqixs.org/1390/txt.html#dir",
+  },
+{
+    id: 1391,
+    slug: "漫威-从现实宝石开始的圣斗士",
+    title: "漫威：从现实宝石开始的圣斗士",
+    cover: book1391Cover,
+    author: "十五米",
+    date: "2026-09-02",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-137章",
+    latestChapter: "第136章 房子稍微大上那么一丢丢的迈克！！！",
+    excerpt: "这是关于迈克的故事。 上一世穿越到圣域，结果遭遇圣域之乱，死亡后的迈克发现自己再一次穿越到了漫威宇宙当中。 于是利用现实宝石成为漫威宇宙唯一一位圣斗士。 女主暂定绯红女巫旺达！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HPpz8LgzR9sYZomJa2TP7A?pwd=xxrt",
+    downloadUrl: "/books/1391_漫威：从现实宝石开始的圣斗士1-137章.txt",
+    sourceUrl: "https://www.deqixs.org/1391/txt.html#dir",
+  },
+{
+    id: 1392,
+    slug: "民国影综-从大宅门败家子开始",
+    title: "民国影综：从大宅门败家子开始",
+    cover: book1392Cover,
+    author: "星辰V北拱",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-119章",
+    latestChapter: "第118章 趁火打劫·烈火嫁衣",
+    excerpt: "睁眼醒来变成了大宅门里最著名的败家子怎么办？ 腿被活土匪亲爹打断，变成了瘸子怎么办？ 发现除了大宅门剧情，还有其它影视剧怎么办？ 年代剧，传奇剧，商业剧，家仇国恨，爱恨情仇剧情都能接受，但是鬼吹灯，老九门，司藤，一人之下，无心法师等超凡剧情是什么鬼？ 一个瘸子败家子如何在这个光怪陆离的世界里生存？ 好在有系统！ 逆天改命，掠夺气运，强大己身，用火影的忍术给这个世界带来一些震撼，用写轮眼复制八奇技，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1YPO288LBoaPlyE94B0MQxQ?pwd=xxrt",
+    downloadUrl: "/books/1392_民国影综：从大宅门败家子开始1-119章.txt",
+    sourceUrl: "https://www.deqixs.org/1392/txt.html#dir",
+  },
+{
+    id: 1393,
+    slug: "这孩子-打小就是当皇帝的料",
+    title: "这孩子，打小就是当皇帝的料！",
+    cover: book1393Cover,
+    author: "余生不碌",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-169章",
+    latestChapter: "第168章 ：归家",
+    excerpt: "穿越成为大明太子朱标，皇位可谓是唾手可得，唯一让朱标感到头疼的就是自家那位开天辟地的老爹。 ”儿子，你啥时候当皇帝啊。“ ”催催催，有什么好催的“ ”你这孩子，打小就是当皇帝的料！“",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/192ZHFHQ5GpjDOzbRiYRGHQ?pwd=xxrt",
+    downloadUrl: "/books/1393_这孩子，打小就是当皇帝的料！1-169章.txt",
+    sourceUrl: "https://www.deqixs.org/1393/txt.html#dir",
+  },
+{
+    id: 1394,
+    slug: "长明盛世",
+    title: "长明盛世",
+    cover: book1394Cover,
+    author: "幸福来敲门",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-90章",
+    latestChapter: "第90章 出门在外靠山都是自己找的（第一更）",
+    excerpt: "陈砚之对嘉靖道：“陛下，臣每一步都是陛下的拔擢。要说靠山，陛下才是臣的靠山，要说同党，臣也只是陛下的臣党！” 严世蕃对陈砚道：“大明朝两京一十三省,是在我肩上担着,天下苍生几个字还轮不到你来说!” 陈砚之伸出大拇指道：“小阁老，真乃我大明第一猛人！” 人间烟火，百世长明！ 我大明永乐，仁宣之后，再造盛世！ PS：书荒养肥朋友可先看拙作《大明文魁》和《寒门宰相》。两本都是数百万字且万订或近万订完本作",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13t4UkU0V4EglbeesgZMQLQ?pwd=xxrt",
+    downloadUrl: "/books/1394_长明盛世1-90章.txt",
+    sourceUrl: "https://www.deqixs.org/1394/txt.html#dir",
+  },
+{
+    id: 1395,
+    slug: "年代里的小货郎",
+    title: "年代里的小货郎",
+    cover: book1395Cover,
+    author: "狸猫换银子",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-190章",
+    latestChapter: "第190章 福利",
+    excerpt: "张昉穿到1949，恰逢改天换地的新时代开启，他选择做了个自由自在的小货郎，卖卖货，抓点迪特、攒点金，坐看风雨变幻、云起云落，晃晃悠悠的从年代里走过。 ……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qkEUxAHvXZYFeN_aBaff4w?pwd=xxrt",
+    downloadUrl: "/books/1395_年代里的小货郎1-190章.txt",
+    sourceUrl: "https://www.deqixs.org/1395/txt.html#dir",
+  },
+{
+    id: 1396,
+    slug: "德意志1903",
+    title: "德意志1903",
+    cover: book1396Cover,
+    author: "管杀不管填",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-136章",
+    latestChapter: "第135章 ：华沙总督府风波",
+    excerpt: "1903，重生德意志，我即风云，帝国随我沉浮。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JQNM8Uf4EJtJeznCw2go4w?pwd=xxrt",
+    downloadUrl: "/books/1396_德意志19031-136章.txt",
+    sourceUrl: "https://www.deqixs.org/1396/txt.html#dir",
+  },
+{
+    id: 1397,
+    slug: "我给日娱上上强度",
+    title: "我给日娱上上强度",
+    cover: book1397Cover,
+    author: "讨厌记歌词",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-126章",
+    latestChapter: "第124章 这个笑容美吗？",
+    excerpt: "平成22年（2010年)，被称作日剧黄金时代末尾。 这一年日剧行情由盛转衰，韩剧的强势崛起，日剧不再是亚洲唯一的风向标。 “这导演会不会拍？不会拍，让狗拍。” “这剧本ai都写得比这好。这编剧是人我吃。” “日剧彻底凉了呀” 正在锐评日剧春季档新剧的楚石纯下一秒重生到日剧片场。 怎么不早穿二十几年，让老子也感受下纸醉金迷的感觉，不好吗？ 靠，连个系统都没有？是正规穿越吗？ 算了，来都来了，那就给日",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1srlKsm8SsmteB1hLgNKvBQ?pwd=xxrt",
+    downloadUrl: "/books/1397_我给日娱上上强度1-126章.txt",
+    sourceUrl: "https://www.deqixs.org/1397/txt.html#dir",
+  },
+{
+    id: 1398,
+    slug: "我的精神指数爆炸",
+    title: "我的精神指数爆炸",
+    cover: book1398Cover,
+    author: "小猪骑龙",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-100章",
+    latestChapter: "第100章 新账旧账一块算",
+    excerpt: "【全程速通横推，打爆一切。】 李玄穿越全民进化的世界，觉醒异能【精神指数爆炸】，精神力无限翻倍。 觉醒第一天，精神感知... 觉醒第二天，脑力强化... 觉醒第三天，精神冲击... 觉醒第四天，倾听心灵... 觉醒第五天，思想钢印... 觉醒第六天，念动力启动... … 当李玄以为自己只是个精神异能者的时候，他的脑海忽然听到了无数道声音。 “杀尽蛮夷，护我神州。” … “待到秋来九月八，我花开后百",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1E4fNlTf53DlQOogxiAo3CA?pwd=xxrt",
+    downloadUrl: "/books/1398_我的精神指数爆炸1-100章.txt",
+    sourceUrl: "https://www.deqixs.org/1398/txt.html#dir",
+  },
+{
+    id: 1399,
+    slug: "这个医生太努力了",
+    title: "这个医生太努力了",
+    cover: book1399Cover,
+    author: "熬夜成了熊猫",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-170章",
+    latestChapter: "第169章 标书",
+    excerpt: "当菜鸟骨科医生徐云获得了【天道酬勤】系统，会发生什么？ “徐云，下次约会吃饭你能不能不要再看你那个人体解剖了！” …… “徐云，这么晚了还在值班室看书？对了，你最近的缝合进步很大嘛。” …… “我已经很久没有看到像你这么努力的年轻医生了，有没有兴趣来我们医院？” 从小医院名不见经传的住院医生，一路逆袭到国内顶尖医院的专家，人生彻底改写！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12JvfQZC3FAP5DkoUi1h1FA?pwd=xxrt",
+    downloadUrl: "/books/1399_这个医生太努力了1-170章.txt",
+    sourceUrl: "https://www.deqixs.org/1399/txt.html#dir",
+  },
+{
+    id: 1400,
+    slug: "同时穿越不是这样的",
+    title: "同时穿越不是这样的！",
+    cover: book1400Cover,
+    author: "下一本就写苏轼",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-131章",
+    latestChapter: "第130章 “无”字秘？",
+    excerpt: "同时穿越不是这样的，你应该先上死火海，再上一人，穿插哈利波特，你怎么给我上原神遮天啊，同时穿越不是这样。 张怀民穿越时一不小心分成无数份，于是： 龙族：地风水火，再造四大，炼金？奥丁是个外行 原神：孩子们，你们觉得我能打破蛋壳吗？ 遮天：你知道的，我一直是苦叶派。 崩铁：电信号好啊，这c语言得学啊。 诡秘：天生邪恶的阿蒙小鬼。 三体：归零者，我为你带来毁灭了！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1MWNELtUl8CQs5O4tCpQwDA?pwd=xxrt",
+    downloadUrl: "/books/1400_同时穿越不是这样的！1-131章.txt",
+    sourceUrl: "https://www.deqixs.org/1400/txt.html#dir",
+  },
+{
+    id: 1401,
+    slug: "我只是水府一条观赏鱼啊",
+    title: "我只是水府一条观赏鱼啊",
+    cover: book1401Cover,
+    author: "豆豆飞啊飞",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-120章",
+    latestChapter: "第119章 缙云氏血裔",
+    excerpt: "那一年，赤县神州战乱纷纷，三国争霸愈演愈烈。 那一年，五指山下的猴子依旧在等待自己既定的命运。 那一年，道门玩了个大的，然后佛门趁虚而入。 那一年，人道不稳，妖鬼横行。 那一年，姜离成为了洛水娘娘行宫万鱼池内的头牌观赏鱼，有幸被娘娘点单，化形而出，游历人间。 一段时间后，姜离发现，他最重要的任务，是让那个该死的老头别对着洛水发誓。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1osGxSjCryegBuqq-MoSEbQ?pwd=xxrt",
+    downloadUrl: "/books/1401_我只是水府一条观赏鱼啊1-120章.txt",
+    sourceUrl: "https://www.deqixs.org/1401/txt.html#dir",
+  },
+{
+    id: 1402,
+    slug: "重生78-从知青返城开始",
+    title: "重生78，从知青返城开始",
+    cover: book1402Cover,
+    author: "勤耕不迭",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-178章",
+    latestChapter: "第177章 小说发表，与清北的初次碰撞",
+    excerpt: "李默文穿越1978年成为一名下乡知青，努力考上人大返回了城里。 原本只是想安安稳稳的拿个首都户口，抄几本不入流的书，挣点小钱，买几个院子躺平当个包租公。 但却在时代的潮流中被推着前行，一点点的爬到了时代巅峰。 “我只想安安稳稳的生活，当个普普通通的京爷。” “在退休后，骂几句臭外地的而已。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1njSKdLKDI0gx2z4095bdUA?pwd=xxrt",
+    downloadUrl: "/books/1402_重生78，从知青返城开始1-178章.txt",
+    sourceUrl: "https://www.deqixs.org/1402/txt.html#dir",
+  },
+{
+    id: 1403,
+    slug: "全民金手指-从婴儿开始备考",
+    title: "全民金手指，从婴儿开始备考",
+    cover: book1403Cover,
+    author: "寻梦观星",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-128章",
+    latestChapter: "第128章 强化金手指，继承其他时间线未来自己的修为！",
+    excerpt: "蓝星，全民金手指时代。 别人穿越后。 都是猥琐发育，默默苦修。 秦牧觉醒了S级潜力金手指【继承未来】，却默默翻开了小学课本。 在这个人人都是挂逼的世界里，他选择了一条最朴实无华的路——备考。 &quot;十六岁才能考，没关系，我从三岁就开始卷。&quot; 于是。 联邦图书馆的少儿区多出了个婴儿身影，每天雷打不动，准时学习刷题。 多年后。 秦牧坐在联邦的办公室里，桌上堆满了S级天才的档案资料，悠闲",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1X85zJiPc5E79xK2zXmBipA?pwd=xxrt",
+    downloadUrl: "/books/1403_全民金手指，从婴儿开始备考1-128章.txt",
+    sourceUrl: "https://www.deqixs.org/1403/txt.html#dir",
+  },
+{
+    id: 1404,
+    slug: "从明星身上薅技能-我无敌了",
+    title: "从明星身上薅技能，我无敌了",
+    cover: book1404Cover,
+    author: "想喝凉水怕塞牙",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-104章",
+    latestChapter: "第104章 ，义父在上",
+    excerpt: "『叔圈男星，脸皮超牛，连续蹭饭405天而面不改色，此项技能，薅还是不薅？』 『喜剧演员，酒量奇大，连续喝啤酒27瓶依然神采奕奕，此项技能，薅还是不薅？』 『英俊小生，口才极好，同时周旋在4个女友之间却从未身陷修罗场，此项技能，薅还是不薅？』 『歌坛天后，牌技最佳，曾经创下打麻将47天没有胡一把的记录，此项技能，薅还是不薅？』 … 望着眼前若隐若现的文字，江南有点懵。 这是几个意思？ 重生后的金手指",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kdTRm7jubiprlGph2PZ_Zg?pwd=xxrt",
+    downloadUrl: "/books/1404_从明星身上薅技能，我无敌了1-104章.txt",
+    sourceUrl: "https://www.deqixs.org/1404/txt.html#dir",
+  },
+{
+    id: 1405,
+    slug: "末日来袭-我能无限升级庇护所",
+    title: "末日来袭，我能无限升级庇护所",
+    cover: book1405Cover,
+    author: "生活还是要继续",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-159章",
+    latestChapter: "第73章 海藻地带",
+    excerpt: "整座城市意外穿越到暴雨倾盆，怪物肆虐的原始荒野。 别人觉醒的超能力都是操控火焰，水流，肌肉硬化，帅的一批。 令余炀郁闷的是，他的超能力是……召唤一个庇护所！ 一开始，他的庇护所比棺材大不了多少，被室友称之为移动厕所。 但随着狩猎怪物，余炀一步步升级庇护所，其他人的脸色不对了。 余炀的庇护所，从一个“移动厕所”，逐步变大，升级出了武器系统、动力系统、防御装甲…… 最骚的是，这个庇护所可以根据余炀的意",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Gn5mdvPNmYnyw-D8WYqYZg?pwd=xxrt",
+    downloadUrl: "/books/1405_末日来袭，我能无限升级庇护所1-159章.txt",
+    sourceUrl: "https://www.deqixs.org/1405/txt.html#dir",
+  },
+{
+    id: 1406,
+    slug: "人气至上-我的画风过于清奇",
+    title: "人气至上，我的画风过于清奇！",
+    cover: book1406Cover,
+    author: "多嘴问一句",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-159章",
+    latestChapter: "第158章 恶人帝王就是我夏夜哒！这一点依旧未曾改变！",
+    excerpt: "夏夜穿越到人气至上，由不同番剧，游戏交织的世界当中。 在这里，每个获得角色的人，都在想尽办法提升自己的人气值。 因为在这个世界，人气便代表着一切。 “懂了，也就是说只要人气足够高就行了，是吧？” 夏夜如是说。 …… “什么叫我没有灵能？我这灵能叫做劲大！” 《灵能都市》番剧里，一个建模只用简笔画的家伙如是说道。 “吼吼！竟然不是逃跑，而是朝我走过来么？” 《反派目录》游戏当中，一个用着怪异魔性笑声",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FaYVAzOetzEmFf80q5x7OQ?pwd=xxrt",
+    downloadUrl: "/books/1406_人气至上，我的画风过于清奇！1-159章.txt",
+    sourceUrl: "https://www.deqixs.org/1406/txt.html#dir",
+  },
+{
+    id: 1407,
+    slug: "我都无敌大帝了-还要短板补强",
+    title: "我都无敌大帝了，还要短板补强？",
+    cover: book1407Cover,
+    author: "墨水白的",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-80章",
+    latestChapter: "第80章 九十万年",
+    excerpt: "李旭于荒界证道成帝，无敌于世，威震寰宇，足可让世间禁忌乃至域外诸界不敢侵犯人间。 但这样无敌的他却得到一件异宝说要给他短板补强。 【你寿元不足，即将步入晚年，赐你不死仙丹一枚，可重塑一世命元】 李旭愣住了，然后炼化不死仙丹真活出第二世。 【你天火大道有暇，可参悟鸿蒙仙阳，有望蜕变大道】 李旭随即得到一块鸿蒙仙阳石，从中感受到极尽古老的洪荒太阳气韵，参悟万载终令天火道蜕变为仙阳真火道，成功步入第三世",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1x9VEwslOMkVruE6mu-yT6Q?pwd=xxrt",
+    downloadUrl: "/books/1407_我都无敌大帝了，还要短板补强？1-80章.txt",
+    sourceUrl: "https://www.deqixs.org/1407/txt.html#dir",
+  },
+{
+    id: 1408,
+    slug: "锦医春色",
+    title: "锦医春色",
+    cover: book1408Cover,
+    author: "寂寞的清泉",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-265章",
+    latestChapter: "第260章 细作",
+    excerpt: "穿越成大炎朝第一医婆传人，冯初晨感叹科学尽头是玄学。 她不仅玄妙地穿越了，还会点玄妙的此生香，施玄妙的上阴神针。 玄之又玄的是，她能压制克死克病七任前未婚妻的天煞孤星。 妥妥的神医人设。 可为毛，她与那个人是命定姻缘，偏偏那个人恨不得她去死…… —— 满园春色关不住，一袭锦衣入梦来。",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cyrFDliDJs72UsUn0DrZTA?pwd=xxrt",
+    downloadUrl: "/books/1408_锦医春色1-265章.txt",
+    sourceUrl: "https://www.deqixs.org/1408/txt.html#dir",
+  },
+{
+    id: 1409,
+    slug: "领袖",
+    title: "领袖",
+    cover: book1409Cover,
+    author: "三脚架",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-159章",
+    latestChapter: "第157章 人怎么能不低头？",
+    excerpt: "如果你正面临破产，那么这本书或许会成为你拯救自己和家庭的指导手册。 ---",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1d6uapoZWpYEuvoi7xbflaQ?pwd=xxrt",
+    downloadUrl: "/books/1409_领袖1-159章.txt",
+    sourceUrl: "https://www.deqixs.org/1409/txt.html#dir",
+  },
+{
+    id: 1410,
+    slug: "猫游饲饿传",
+    title: "猫游饲饿传",
+    cover: book1410Cover,
+    author: "看书伤眼",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-87章",
+    latestChapter: "第10章 丹辰仙君品香烛，半截观音认父兄",
+    excerpt: "混沌未分天地乱，茫茫渺渺无人见。 懒窥玄窍分清浊，狸踪轻点入仙篇。 爪戏流云追晓日，眸凝清露润尘缘。 欲知造化会元功，须看猫游饲饿传。 …… 这是一只成了仙的小橘猫的悠闲游记。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HL_9fnFYs3fRLJgh8d6TbQ?pwd=xxrt",
+    downloadUrl: "/books/1410_猫游饲饿传1-87章.txt",
+    sourceUrl: "https://www.deqixs.org/1410/txt.html#dir",
+  },
+{
+    id: 1411,
+    slug: "从出马仙开始窃位成神",
+    title: "从出马仙开始窃位成神",
+    cover: book1411Cover,
+    author: "呱呱不拉呱",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-158章",
+    latestChapter: "第157章 占据一方（4k）",
+    excerpt: "山野精怪修行，无非三途。 食香，受祭，封正。 黄小九原本只是北山乱坟岗中的一只黄鼠狼。 讨口封，学人言，采阴气，拜月华。 本以为此生不过做个乡野仙家。 直到那一夜。 他于荒野之中，绑定了【神权窃取系统】。 他开始能够从不同神系之中，窃取神灵权柄。 …… 【夜感·半星】 窃取自希腊神系·夜思灵 夜晚环境下，感知能力小幅提升。 …… 【微悉地·轻身·一星】 窃取自婆罗门神系·微尘苦行仙 身体重量下降，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pRBDWF4r7SyrBCb7kGEyLA?pwd=xxrt",
+    downloadUrl: "/books/1411_从出马仙开始窃位成神1-158章.txt",
+    sourceUrl: "https://www.deqixs.org/1411/txt.html#dir",
+  },
+{
+    id: 1412,
+    slug: "告白失败后-她们抱憾终身",
+    title: "告白失败后，她们抱憾终身",
+    cover: book1412Cover,
+    author: "一个新飞舞",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-133章",
+    latestChapter: "第132章 那扭曲的依恋",
+    excerpt: "“明明之前都和我告白过了...她是谁？” “他也和我告白过，你才是那个后来的狐狸精吧？” “那请问...你们同意他的告白了吗？” 【多女主】+【重力】+【修罗场】+【古法纯手打，非AI敷衍】+【胃药警告】 ………… PS：后宫，无雷。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/18PtZ5OwJHkbpDTT8zBLcgg?pwd=xxrt",
+    downloadUrl: "/books/1412_告白失败后，她们抱憾终身1-133章.txt",
+    sourceUrl: "https://www.deqixs.org/1412/txt.html#dir",
+  },
+{
+    id: 1413,
+    slug: "这个导演爱交朋友",
+    title: "这个导演爱交朋友",
+    cover: book1413Cover,
+    author: "择日北飞",
+    date: "2026-08-25",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-149章",
+    latestChapter: "第147章 最终的金熊奖",
+    excerpt: "秦柯青自称有三大爱好：干导演、爱客串、善交朋友。 外界对此深信不疑，毕竟他镜头感极佳，总能拍出超预期的电影；还喜欢在各大剧组不停客串；人脉更是通天，从香江到内地，再到欧洲文艺圈，各路大佬皆与他称兄道弟，就连好莱坞大佬也不例外。 然而秦柯青内心OS：导演是饭碗，客串是跳板，唯有“交朋友”才是真·核心技能树！ 重生九零年代，手握未来剧本，秦柯青深知在娱乐圈混，才华决定下限，关系决定上限。 他以独特的社",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1khrb8kgIs_LN30HDutaasQ?pwd=xxrt",
+    downloadUrl: "/books/1413_这个导演爱交朋友1-149章.txt",
+    sourceUrl: "https://www.deqixs.org/1413/txt.html#dir",
+  },
+{
+    id: 1414,
+    slug: "佣兵战争从俄乌开始",
+    title: "佣兵战争从俄乌开始",
+    cover: book1414Cover,
+    author: "应樱盈",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-241章",
+    latestChapter: "第236章 恶魔的低语",
+    excerpt: "一觉醒来，资深飞行游戏玩家江晨穿越到平行世界的俄乌战场，活下去的唯一选择就是加入瓦格纳成为合同飞行员。 好在他在【超级模拟器】里磨炼出的万多小时飞行经验，让他活了下来。 江晨这个在【模拟器】里摔过无数次飞机的疯子，开始享受现实世界刀尖起舞的感觉。 从东欧平原到美洲丛林，从中东到霍尔木兹海峡，从非洲沙漠到金三角，但他想做的事不止是活下来，他要买自己的飞机，凑自己的班底，开自己的公司，不再给任何人当合",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gClcUL0ANS7_UagM_AvLrQ?pwd=xxrt",
+    downloadUrl: "/books/1414_佣兵战争从俄乌开始1-241章.txt",
+    sourceUrl: "https://www.deqixs.org/1414/txt.html#dir",
+  },
+{
+    id: 1415,
+    slug: "红楼-我给宝玉当二哥",
+    title: "红楼：我给宝玉当二哥",
+    cover: book1415Cover,
+    author: "金笼鹦鹉",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-165章",
+    latestChapter: "第162章 人在江湖",
+    excerpt: "一梦醒来，顾望炎穿越成了荣国府的二公子。 太虚幻境里，记载金陵十二钗命运的卷册，被一把火烧了干净。那注定薄命的公子红妆，那注定倾覆的荣华富贵，如今都是可以重写的空白。 而朝堂之上，双悬日月照乾坤，贾府早已深陷权力旋涡。 且看他如何挽狂澜于既倒，扶大厦之将倾。 【架空历史】【无后宫】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CIL-uTXdsKsPShbaRP3oUg?pwd=xxrt",
+    downloadUrl: "/books/1415_红楼：我给宝玉当二哥1-165章.txt",
+    sourceUrl: "https://www.deqixs.org/1415/txt.html#dir",
+  },
+{
+    id: 1416,
+    slug: "希腊神话-吾名斯芬克斯",
+    title: "希腊神话：吾名斯芬克斯",
+    cover: book1416Cover,
+    author: "喷火夜鸮",
+    date: "2026-08-26",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-127章",
+    latestChapter: "第126章 火之神殿（求订阅，求月票，求推荐）",
+    excerpt: "“啊，迷途的旅人，回答我的问题。” “有这样一种生命，早晨用四条腿走路，中午用两条腿走路，晚上用三条腿走路……” 夕阳下的山间小道，狮身人面的巨兽，拦住经过的人们，给出古怪的谜语。 …… 穿越希腊神话，成为狮身人面兽斯芬克斯，我们的故事由此开始。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1y8R-QDtTFSRQgxhtDctaGw?pwd=xxrt",
+    downloadUrl: "/books/1416_希腊神话：吾名斯芬克斯1-127章.txt",
+    sourceUrl: "https://www.deqixs.org/1416/txt.html#dir",
+  },
+{
+    id: 1417,
+    slug: "大明-皇兄-你害苦了朕",
+    title: "大明：皇兄，你害苦了朕",
+    cover: book1417Cover,
+    author: "杂牌大学生",
+    date: "2026-09-02",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-148章",
+    latestChapter: "第146章 朱祁镇，把你的玺宝交出来！",
+    excerpt: "一开始，朱祁钰只想当一位闲散的王爷。 直到有一天…… 数十年之后，朱祁钰望着这大明盛世，回首过去自己辛劳的一生。 心中一叹！ “皇兄，你害苦了朕！” 又名：《皇位是朕凭实力捡的，凭什么归还》",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1R6IQFZa_aTWR1O1z1ACUMQ?pwd=xxrt",
+    downloadUrl: "/books/1417_大明：皇兄，你害苦了朕1-148章.txt",
+    sourceUrl: "https://www.deqixs.org/1417/txt.html#dir",
+  },
+{
+    id: 1418,
+    slug: "这是哪个版本的宅系无限流",
+    title: "这是哪个版本的宅系无限流？",
+    cover: book1418Cover,
+    author: "AAA网文批发",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-150章",
+    latestChapter: "第69章 人遁·装疯卖傻之术！",
+    excerpt: "——Sword Art Online（刀剑神域）。 这是十几年前曾经在二次元里如雷贯耳的霸权番剧，只有剑技而没有魔法，是“人被杀就会死”“虽然是游戏但不是闹着玩的”的死亡网游。 苏宏自从被一脚踢到这个游戏里，就一直在想方设法让自己能够在这个游戏里过得舒心。 但他明白人是社会性动物，生活不是自己能组成的。 他需要一群志同道合的朋友，需要一个能够和朋友一起去努力的目标，需要一个良好的社会环境，需要的是",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qPPjcJ1uslP1aUhTuOQBgQ?pwd=xxrt",
+    downloadUrl: "/books/1418_这是哪个版本的宅系无限流？1-150章.txt",
+    sourceUrl: "https://www.deqixs.org/1418/txt.html#dir",
+  },
+{
+    id: 1419,
+    slug: "融合超人模板-超凡才复苏",
+    title: "融合超人模板，超凡才复苏？",
+    cover: book1419Cover,
+    author: "日万乐",
+    date: "2026-08-25",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第122章 我最讨厌首鼠两端的人",
+    excerpt: "【超凡编号：001】 【代号：超人】 【档案一：目标表面身份为东海大学在校男性学生，实际拥有远超人类生理极限的肉体强度，常规武器无法造成有效杀伤……】 【档案二：已观测到目标拥有飞行能力，速度突破音障，曾拯救坠落的飞机……】 【档案三：目标疑似突破大气层，能够在太空中生存……】 【威胁评估：极度危险！！！】 【应对措施：严禁任何未经授权的主动接触，持续观察目标能力极限】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gz1UqG0YLsIn4Ie3gVEklQ?pwd=xxrt",
+    downloadUrl: "/books/1419_融合超人模板，超凡才复苏？1-122章.txt",
+    sourceUrl: "https://www.deqixs.org/1419/txt.html#dir",
+  },
+{
+    id: 1420,
+    slug: "说好成为骑士-阿斯塔特什么鬼",
+    title: "说好成为骑士，阿斯塔特什么鬼",
+    cover: book1420Cover,
+    author: "落雨枕书",
+    date: "2026-09-02",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-152章",
+    latestChapter: "第147章 战功结算，香饽饽罗夏",
+    excerpt: "我叫罗夏，一个绝对忠诚帝皇之人。 一次意外让我穿越了！ 好消息，我穿越到了一个有着剑与魔法、巫师与骑士、矮人与精灵的世界。并且这个世界还有着至高无上神明，以及高坐在神座之上魔神！ 但是坏消息是！这根本不是罗夏心心念念，想要誓死守护的神圣泰拉！ “我chovy！穿越给我穿好的啊！” “我要当星际战士，要当阿斯塔特！谁要当骑士啊！” 【欢迎来到战锤40K】 【不得不说，你真是个幸运儿，因为你的绝对忠诚",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19SyTGyOS7j_tnf36Yg50qw?pwd=xxrt",
+    downloadUrl: "/books/1420_说好成为骑士，阿斯塔特什么鬼1-152章.txt",
+    sourceUrl: "https://www.deqixs.org/1420/txt.html#dir",
+  },
+{
+    id: 1421,
+    slug: "华娱-我只想摆烂-顶流什么鬼",
+    title: "华娱：我只想摆烂，顶流什么鬼",
+    cover: book1421Cover,
+    author: "百川流逝东到海",
+    date: "2026-08-25",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-126章",
+    latestChapter: "第125章 奶香味饼干",
+    excerpt: "才从上影编导系毕业入职猕猴桃没多久，路哲就觉醒了职场逆袭系统，他本来只想当个混吃等死的混子，靠着摆烂值混混日子。 可是，我TM怎么成顶流了? 人间清醒，天降紫微星，新生代演员扛把子，人间荷尔蒙。 看着一个又一个粉丝吹嘘的名头。 路哲表示，当时他只是被拉壮丁去《偶像练习生》凑数的。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19KgbUdPB3CwgIBmha-ESdQ?pwd=xxrt",
+    downloadUrl: "/books/1421_华娱：我只想摆烂，顶流什么鬼1-126章.txt",
+    sourceUrl: "https://www.deqixs.org/1421/txt.html#dir",
+  },
+{
+    id: 1422,
+    slug: "华娱-从丢出十八个圣杯开始",
+    title: "华娱：从丢出十八个圣杯开始",
+    cover: book1422Cover,
+    author: "喜欢揉太阳穴",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-141章",
+    latestChapter: "第135章 软饭男，肉丝可口~黑~（7.4k！月底啦求月票啦！）",
+    excerpt: "顺寄了的林舟重新回到2011年夏天。 不想再按部就班的他做了个艰难的决定—— 将天赋带进娱乐圈！ 这一切，都要从某部潮汕神话剧的定角现场开始。 从那以后，娱乐圈的女艺人们，从此多了一个男神。 若干年后，面对记者追问他和诸多女明星的绯闻，林舟一脸诧异： “什么叫绯闻？那叫人脉。” ”不过是本顶流的来时路罢了。“",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aKOLai6D2WP1QRMgP7fdoA?pwd=xxrt",
+    downloadUrl: "/books/1422_华娱：从丢出十八个圣杯开始1-141章.txt",
+    sourceUrl: "https://www.deqixs.org/1422/txt.html#dir",
+  },
+{
+    id: 1423,
+    slug: "重生81-赶山开始纵横大兴安岭",
+    title: "重生81：赶山开始纵横大兴安岭",
+    cover: book1423Cover,
+    author: "一把大胡子",
+    date: "2026-08-25",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-184章",
+    latestChapter: "第180章 唐喜查皮子",
+    excerpt: "原名：重生1981：从鄂伦春猎民开始 重生的老猎人刘战朝带着一家子回到了边境的小村庄。 为了过上好日子，他拿起了猎枪，一头扎进了大兴安岭。 本想过着老婆孩子热炕头的生活， 但时代的浪潮却推着他向前奔驰。 为了在村里站稳脚跟，他收拢了猎人队。 为了帮助同族，他和老毛子对战。 不知不觉间，他成为了别人口中的边境传奇。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Bz2bmqBS_E24RR0Fu9SC4w?pwd=xxrt",
+    downloadUrl: "/books/1423_重生81：赶山开始纵横大兴安岭1-184章.txt",
+    sourceUrl: "https://www.deqixs.org/1423/txt.html#dir",
+  },
+{
+    id: 1424,
+    slug: "在修仙文字游戏里当劫修",
+    title: "在修仙文字游戏里当劫修",
+    cover: book1424Cover,
+    author: "渊妖",
+    date: "2026-09-10",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-527章",
+    latestChapter: "第527章 我身我命与天齐，万法万印丹中缔",
+    excerpt: "五星好市民，黑市二手回收平台经营者李善量一辈子都没想到，自己竟然有一天能和劫修这两个字扯上关系。 虽然只是在游戏中做了劫修，但这个游戏中的收获全部是同步到现实的啊！ 【请选择您的初始角色……】 【平平无奇一散修】 【凡人界武林宗师】 【“劫了么”平台渡劫期劫修】 李善量：“这还用选？把渡劫期大能端上来让我爽爽！” 【恭喜您，终于在“劫了么”抢到了自己的第一单，系统派发给您的目标人物是“地德宗炼气修",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1mDiPyRE50EDlSYqjGM3soQ?pwd=xxrt",
+    downloadUrl: "/books/1424_在修仙文字游戏里当劫修1-527章.txt",
+    sourceUrl: "https://www.deqixs.org/1424/txt.html#dir",
+  },
+{
+    id: 1425,
+    slug: "大道死去之后",
+    title: "大道死去之后",
+    cover: book1425Cover,
+    author: "南瞻台",
+    date: "2026-09-07",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-287章",
+    latestChapter: "第285章 缠龙奴仆",
+    excerpt: "大道已死，天地修士皆不知。 天地如墓室，虚空破碎，无数秘境在道尸腐烂的裂隙中应运而生。 道尸横亘太虚，其意志碎裂为【鼎器】，散落诸天，修士得之，可窥一缕大道规则。 大黎朝【陈灵洗】得【神室】踏上道途。 神室玄妙，蕴养神通！ 【神通：见游】：绑定他人，见他人之所见，窥他人之机缘。 【神通：彻觉】：意识落入神室，神室模拟外界天地光阴，神室主以此通晓未来。 【神通：回响】：祭祀光阴，能将某一地过去发生的",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_jLB9ItU75E35gl3jaa6Fw?pwd=xxrt",
+    downloadUrl: "/books/1425_大道死去之后1-287章.txt",
+    sourceUrl: "https://www.deqixs.org/1425/txt.html#dir",
+  },
+{
+    id: 1426,
+    slug: "高武-说好天命大反派-我咋成救世主了",
+    title: "高武：说好天命大反派，我咋成救世主了？",
+    cover: book1426Cover,
+    author: "烈酒与忧愁",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-235章",
+    latestChapter: "第235章 大难临头各自飞？（求票）",
+    excerpt: "【反派舔狗觉醒+掠夺气运系统+天命女主+剑修+退婚流后宫+战力碾压】 穿越进刚五百字差评的都市高武小说中，还成了原著里无脑跪舔女主、最终惨死收场的炮灰反派？ 秦天人麻了！ 好在他家世恐怖，父亲是镇守星空战场的八阶武尊，爷爷是巅峰九阶武圣。 可你告诉我，拥有这么牛逼背景的原主，竟然甘愿做天命之子专用“血包”， 假清高女主的舔狗？ 抱歉！这剧本有点不对！ 原主怎么做他不管，既然他来了这剧本他不演。 下",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12SstoMedek55LTIT3KFquA?pwd=xxrt",
+    downloadUrl: "/books/1426_高武：说好天命大反派，我咋成救世主了？1-235章.txt",
+    sourceUrl: "https://www.deqixs.org/1426/txt.html#dir",
+  },
+{
+    id: 1427,
+    slug: "长生-让你延续香火-没让你量产仙帝",
+    title: "长生：让你延续香火，没让你量产仙帝！",
+    cover: book1427Cover,
+    author: "长生第一人",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-319章",
+    latestChapter: "第319章 李长生的凡人妻，也有大因果",
+    excerpt: "【长生家族】【苟道】 别人建家族，靠的是打生打死抢夺资源； 李长生建家族，靠的是苟和老阴比。 穿越修仙界，在大限将至时，觉醒【家族兴旺系统】，只要发展家族，就能无限变强。 从此修仙界的画风被李家带偏了。 大儿子拜入正道大宗，成了万众瞩目的首席大弟子，实则是替老李家吸引火力的肉盾； 二儿子潜伏中洲顶级圣地，白天扫是扫地僧，晚上开启零元购，搬空仇家宝库； 就连养在地下室的宠物，都是背负着血海深仇的太古",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pV4YTZgU1n_ogHziueilpA?pwd=xxrt",
+    downloadUrl: "/books/1427_长生：让你延续香火，没让你量产仙帝！1-319章.txt",
+    sourceUrl: "https://www.deqixs.org/1427/txt.html#dir",
+  },
+{
+    id: 1428,
+    slug: "华娱-一遇魔童误终身",
+    title: "华娱：一遇魔童误终身",
+    cover: book1428Cover,
+    author: "长夜听雨声",
+    date: "2026-09-07",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-421章",
+    latestChapter: "第404章 首富，国师来投",
+    excerpt: "2010年年底，虞姬声势浩大的‘万人’海选进行的‘如火如荼’，上戏刚入学的新生迪丽热芭也是这万分之一。 同学得知了这一消息，羡慕嫉妒恨汹涌来袭。 “能见到彦祖啊，还能演她最爱的女人，热芭你一定行的！加油加油！” “大导演大制作，好羡慕你啊，热芭。” “听说这种大制作海选，新人都是陪跑的。” “芭姐，带我去见见世面呗？我给你当助理，不要钱，管饭就行。” 大片虚伪的赞誉声中，热芭那副青涩的异域面孔下隐",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13E2GgfSXGdMW3OBXPPekFw?pwd=xxrt",
+    downloadUrl: "/books/1428_华娱：一遇魔童误终身1-421章.txt",
+    sourceUrl: "https://www.deqixs.org/1428/txt.html#dir",
+  },
+{
+    id: 1429,
+    slug: "神明研究所-我竟然解剖了一尊神",
+    title: "神明研究所：我竟然解剖了一尊神！",
+    cover: book1429Cover,
+    author: "张无忍",
+    date: "2026-09-06",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-401章",
+    latestChapter: "第401章 唐尸之劫",
+    excerpt: "那个世界被污染了。 人被污染了，物品被污染了，认知被污染了，历史也被污染了。 甚至…… 连神明都被污染了。",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VxuVxlkhyoBjEe3SO4ATgA?pwd=xxrt",
+    downloadUrl: "/books/1429_神明研究所：我竟然解剖了一尊神！1-401章.txt",
+    sourceUrl: "https://www.deqixs.org/1429/txt.html#dir",
+  },
+{
+    id: 1430,
+    slug: "转生蚊子-吸哭的校花是女帝重生",
+    title: "转生蚊子，吸哭的校花是女帝重生",
+    cover: book1430Cover,
+    author: "小小小小落叶",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-895章",
+    latestChapter: "第895章 我们打不过楚生啊！不，还有机会！",
+    excerpt: "重生成了一只蚊子？获得吸血就变强系统？ 对于这个开局，楚生有些沉默。 都变成蚊子了，还能变得有多强？ 但无论如何，总归是得试一下的…… 楚生随机飞进了一个房间，没想到里面有着一个绝艳的少女。 不错！就吸她了！ …… 顾月曦，帝级御兽师，人族女帝！ 上一世，她六十岁才走上御兽一途，并且第一只契约兽只是低级血脉，导致根基不稳，陨落在了天劫之中。 重生到十八岁，她一定要第一时间成为御兽师！ 她倾家荡产，",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BOnkhV5HuLJepAHP43TNMA?pwd=xxrt",
+    downloadUrl: "/books/1430_转生蚊子，吸哭的校花是女帝重生1-895章.txt",
+    sourceUrl: "https://www.deqixs.org/1430/txt.html#dir",
+  },
+{
+    id: 1431,
+    slug: "国运求生-每日获得一个随机盲盒",
+    title: "国运求生：每日获得一个随机盲盒！",
+    cover: book1431Cover,
+    author: "九紫离火",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第135章 ：夺舍陈峰！",
+    excerpt: "【国运求生+都市脑洞+全球直播+每日盲盒+神使神力+诸天万族】 当蓝星人族、狮子座人族、火星人族、泰坦星人族同台竞技， 国运求生游戏，正式开启！ 陈峰成为大夏求生者之一，开局被扔进S级死亡副本【死寂沙丘】！ 全球各国嘲讽：大夏必亡！ 灯塔国、樱花国、约翰牛、高卢鸡步步紧逼； 火星异族、天狼星刺客、暗星走狗虎视眈眈！ 危急时刻，每日抽取盲盒系统激活！ 情报、自愈、神力、掠夺、空间、统治……盲盒应有尽",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1fAvwSUtCZ-AwiPezZYi4gQ?pwd=xxrt",
+    downloadUrl: "/books/1431_国运求生：每日获得一个随机盲盒！1-135章.txt",
+    sourceUrl: "https://www.deqixs.org/1431/txt.html#dir",
+  },
+{
+    id: 1432,
+    slug: "极品小中介-从晒离婚证开始崛起",
+    title: "极品小中介，从晒离婚证开始崛起",
+    cover: book1432Cover,
+    author: "皇甫笑歌",
+    date: "2026-09-13",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-476章",
+    latestChapter: "第476章 烤炉",
+    excerpt: "离婚后，我晒出离婚证，美女富婆们竟然一个个蠢蠢欲动了起来。 我幡然醒悟：原来我这么受欢迎啊！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cVYIh39m7o5IDFN7CIlydw?pwd=xxrt",
+    downloadUrl: "/books/1432_极品小中介，从晒离婚证开始崛起1-476章.txt",
+    sourceUrl: "https://www.deqixs.org/1432/txt.html#dir",
+  },
+{
+    id: 1433,
+    slug: "全球神祇-从选择木精灵开始崛起",
+    title: "全球神祇：从选择木精灵开始崛起",
+    cover: book1433Cover,
+    author: "客山青鹿",
+    date: "2026-09-13",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-462章",
+    latestChapter: "第462章 张译拥有的第一件弱等神器【自然神国】；晋升月亮圣树！",
+    excerpt: "【已参加银河计划科幻品类征文活动】 【目前高订八千，可食用！】 转生来到全民成神，打造神域的世界，获得在关键时刻，自主选择的机会！ 【事件】：宿主的初始神域正在亚空间形成中，请选择初始神域地形！ 【选择一】：加大陆地面积。极大概率初始眷族诞生为陆地种族，中等概率诞生铁矿资源，小概率诞生魔法资源！ 【选择二】：加大海洋面积。极大概率初始眷族诞生为海洋种族，中等概率诞生植物资源，小概率诞生魔法资源！",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_GMrLquHHrsYBY0fRD9DlQ?pwd=xxrt",
+    downloadUrl: "/books/1433_全球神祇：从选择木精灵开始崛起1-462章.txt",
+    sourceUrl: "https://www.deqixs.org/1433/txt.html#dir",
+  },
+{
+    id: 1434,
+    slug: "大明太子的创业生涯",
+    title: "大明太子的创业生涯",
+    cover: book1434Cover,
+    author: "张九文",
+    date: "2026-09-08",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-393章",
+    latestChapter: "第393章 东湖大堤",
+    excerpt: "这是一个新生的王朝，它要恢复汉家衣冠，驱逐胡虏。 这也是一个充满斗争与外敌的王朝，它内部的荆棘丛生，它的外敌环伺。 朱元璋望着北方，常说：“北伐，北伐……” 而后老朱家的长子朱标撕了大明的边境线，从此北伐就没停过了…… 已有过往作品《大唐太子的悠闲生活》，《秦人的悠闲生活》本本精品，老作者信誉保证。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TM8E4R2aIj59Cz4ufW1JQw?pwd=xxrt",
+    downloadUrl: "/books/1434_大明太子的创业生涯1-393章.txt",
+    sourceUrl: "https://www.deqixs.org/1434/txt.html#dir",
+  },
+{
+    id: 1435,
+    slug: "以圣光之名",
+    title: "以圣光之名",
+    cover: book1435Cover,
+    author: "万事皆修",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-447章",
+    latestChapter: "第446章 ：圣铸结束",
+    excerpt: "魂穿异界，兰斯得到了一个崭新的职业——魅力术士，一种魅力越强，技能威力越强的职业。 等等，技能威力增幅不限于本职业？仔细了解职业后，兰斯选择愉快地去当圣骑士。 多年以后，一道斩击轰落了一地狱大公。 地狱大公不甘抬起头：“你的至圣斩怎么这么厉害？” “至圣斩？”兰斯歪头，提起了圣剑。 “抱歉，刚才那是普攻，这招才是——至圣斩！” 圣光闪耀间，地狱大公被彻底净化。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PvJGNv3ZIL15MOMhtSyG_g?pwd=xxrt",
+    downloadUrl: "/books/1435_以圣光之名1-447章.txt",
+    sourceUrl: "https://www.deqixs.org/1435/txt.html#dir",
+  },
+{
+    id: 1436,
+    slug: "从码头苦力开始横推雾都",
+    title: "从码头苦力开始横推雾都",
+    cover: book1436Cover,
+    author: "潜水的白鲸",
+    date: "2026-09-13",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-650章",
+    latestChapter: "第649章 古法沉渊",
+    excerpt: "维多利亚时代，蒸汽轰鸣，雾霾弥漫，非凡异种环伺，教会、贵族、财阀三足鼎立，异教滋生。 瓦斯灯，蒸汽列车，雾霾，枪炮，魔药，非凡遗物...... 西伦以苦力之身挣扎求生，在深红辅助下，他发现自己只要练习技艺，就能有所提升，时时反馈，永远固化。 从【基础枪法（入门）】，肝到【非凡鹰眼，百步之内，凡出膛弹药不可躲避】 从【铁壁呼吸法（入门）】，肝到【气力绵长，铁壁铜皮，刀剑不入】 从【重海巨鲸引导术（入",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1voJp6kzXubQ3gCJzuz52cw?pwd=xxrt",
+    downloadUrl: "/books/1436_从码头苦力开始横推雾都1-650章.txt",
+    sourceUrl: "https://www.deqixs.org/1436/txt.html#dir",
+  },
+{
+    id: 1437,
+    slug: "诡异监管者",
+    title: "诡异监管者",
+    cover: book1437Cover,
+    author: "露馅的芝麻胡",
+    date: "2026-09-13",
+    category: "悬疑",
+    status: "连载中",
+    chapters: "1-1783章",
+    latestChapter: "第1771章 离奇怪梦",
+    excerpt: "（偏暗黑风，无感情线） 神秘酒店中的十七幅黑白遗像， 装满鬼魅的十个房间， 在灵异之地挣扎的三两活人。 完成匪夷所思的生路，接引世间诡异入住，多重人格复生… 季礼和这所诡异酒店的历代店长都不一样。 他，从来都不是个正常人。",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12tMEkVB5ZiS5azBHbs5MGw?pwd=xxrt",
+    downloadUrl: "/books/1437_诡异监管者1-1783章.txt",
+    sourceUrl: "https://www.deqixs.org/1437/txt.html#dir",
+  },
+{
+    id: 1438,
+    slug: "巫师你好-我是伪人",
+    title: "巫师你好，我是伪人",
+    cover: book1438Cover,
+    author: "软糖鸢尾蓝",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第15章 狼猎（二合一！求订阅！）",
+    excerpt: "【伪人观测与应对守则】 第一条：切记，伪人无处不在，他们很可能就在你的身边。 第二条：如果你的邻居在用看猎物的眼神看你，请尽量远离他，不要与他对视超过三秒。 第三条：如果你最好的朋友突然开始用全名称呼你，请用同样方式回称他，若他停顿一秒后微笑，尽快结束见面，此后只通过文字联系。 第四条：当你看见另一个自己时，不要犹豫，杀死他，或被他杀死。 ———— 2010年，伦敦。 这是存在巫师与魔法的现代世界",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qsj5-QXGmRCN7KA77vrrxA?pwd=xxrt",
+    downloadUrl: "/books/1438_巫师你好，我是伪人1-122章.txt",
+    sourceUrl: "https://www.deqixs.org/1438/txt.html#dir",
+  },
+{
+    id: 1439,
+    slug: "渣男吃绝户-小叔子帮我递和离书",
+    title: "渣男吃绝户？小叔子帮我递和离书",
+    cover: book1439Cover,
+    author: "莲岁岁",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第135章 ：神医登场",
+    excerpt: "上一世，沈妘姝认错了恩人，报错了恩，一辈子真心错付，被国公府一家拆骨入腹，不得好死。 这一世，她携万贯家财入府，却在新婚夜叩响小叔子的门扉——二爷，求您疼我。 害她之人，她绝不放过！ 公爹宠庶灭嫡，那便让他想起自己入赘的过往，剥去他虚伪的皮囊。 婆母妾室上位，却享夫人待遇，那便捅出去，让她一辈子不得扶正，永为贱籍！ 渣男想吃绝户，那便让他自己绝后无嗣但儿孙满堂喜当爹！ 表妹绿茶成精意图登堂入室，那",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZVeHqLpHaNjKkRasELkQSA?pwd=xxrt",
+    downloadUrl: "/books/1439_渣男吃绝户？小叔子帮我递和离书1-135章.txt",
+    sourceUrl: "https://www.deqixs.org/1439/txt.html#dir",
+  },
+{
+    id: 1440,
+    slug: "拒做通房后-高冷世子他疯魔了",
+    title: "拒做通房后，高冷世子他疯魔了",
+    cover: book1440Cover,
+    author: "辞辞不吃糖",
+    date: "2026-09-12",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-280章",
+    latestChapter: "第280章 顾昭云被耍了",
+    excerpt: "【只想搞钱跑路社畜丫鬟 vs 偏要强取豪夺疯批世子】 穿成永宁侯府丫鬟的第一天，社畜顾昭云和神秘男人春风一度，她只当被狗咬了，翻篇就忘。 本来只想攒够银子赎身跑路，可那位表面光风霁月的世子爷不知怎么盯上了她。 从暗示到明示再到当众宣誓主权—— “世子妃，你逃不掉的。” 顾昭云：我谢谢你，但我真的只想下班。",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kd3BcEhb0htxJeT6xgRYbg?pwd=xxrt",
+    downloadUrl: "/books/1440_拒做通房后，高冷世子他疯魔了1-280章.txt",
+    sourceUrl: "https://www.deqixs.org/1440/txt.html#dir",
+  },
+{
+    id: 1441,
+    slug: "糟糕-穿成了失忆太子的恶毒原配",
+    title: "糟糕！穿成了失忆太子的恶毒原配",
+    cover: book1441Cover,
+    author: "小白白菜",
+    date: "2026-08-26",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-118章",
+    latestChapter: "第118章 诚心",
+    excerpt: "【穿书+失忆+日久生情+甜宠+1v1】 贪财利己笨蛋美人*隐忍偏执恋爱脑太子 一朝穿书，苏云溪成了骗婚失忆太子的恶毒女配。 原主趁着太子慕容衍失忆，冒充他的救命恩人，把人拐到村子里，当牛做马的使唤，千方百计怀上他的孩子。 慕容衍恢复记忆后，把怀孕的原主留在东宫，追着女主林昭去了北疆。 原主不甘心，得知两人即将成亲，追去北疆，却在路上，和孩子一起被人扔下悬崖。 穿越过来的睁开眼，看到正和自己亲密的慕",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Esxfu5lp_TfSRLTD-Y_a6A?pwd=xxrt",
+    downloadUrl: "/books/1441_糟糕！穿成了失忆太子的恶毒原配1-118章.txt",
+    sourceUrl: "https://www.deqixs.org/1441/txt.html#dir",
+  },
+{
+    id: 1442,
+    slug: "六零神豪-我全家反派带飞祖国",
+    title: "六零神豪：我全家反派带飞祖国",
+    cover: book1442Cover,
+    author: "三月在",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-137章",
+    latestChapter: "第137章 新型杂交农种！",
+    excerpt: "【六零+神豪+团宠+打脸虐渣+全家致富成大佬】 宁安穿成了年代文里的恶毒反派，因嫉妒女主而各种作死。 不止她，全家也都是恶人反派。 亲爹作为大队长，贪污徇私收贿样样不落。 亲妈是村医生，卖三无药吃死不少人。 大哥还是村霸，欺男霸女有什么做什么。 二哥更是混子，天天去黑市搞投机倒把。 最后喜提惨死结局，全家一个比一个惨！ 宁安生无可恋：老天你做个人吧！ 幸好天降神豪系统，只要不断花钱花光一个亿，就能",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OqZDAdgB8J9KmU3Um0XwSw?pwd=xxrt",
+    downloadUrl: "/books/1442_六零神豪：我全家反派带飞祖国1-137章.txt",
+    sourceUrl: "https://www.deqixs.org/1442/txt.html#dir",
+  },
+{
+    id: 1443,
+    slug: "祝逍遥",
+    title: "祝逍遥",
+    cover: book1443Cover,
+    author: "披萝的丑丑",
+    date: "2026-09-05",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-131章",
+    latestChapter: "第76章 打扇盖被",
+    excerpt: "村妇如意在一个古冢里挖出一具陈年女尸，却眉目如生，不腐不朽。 如意以为遇到变态老怪，却没想到只是一个灵力低微的活死人。 活死人自号白骨，得了如意半个馒头的恩惠，自个爬出了坟冢。 白骨很懒，白骨很馋，白骨还是软骨头；白骨爱财，白骨爱色，白骨只想缩着头在洞府里安稳过日子。 白骨说，开个洞府，做个大王，生活乐无边。 她养姐妹，养男宠，可是这里不过是三千世界的一个螺丝壳道场，倾覆不过瞬息之间。 可白骨从来",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HhCU6Wf-RzabJwMU4slyzw?pwd=xxrt",
+    downloadUrl: "/books/1443_祝逍遥1-131章.txt",
+    sourceUrl: "https://www.deqixs.org/1443/txt.html#dir",
+  },
+{
+    id: 1444,
+    slug: "我在兽世开餐厅-捡的萌宠都是大佬",
+    title: "我在兽世开餐厅，捡的萌宠都是大佬",
+    cover: book1444Cover,
+    author: "时清墨落",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-46章",
+    latestChapter: "第46章 现实版鸠占鹊巢",
+    excerpt: "【兽世毛茸茸+鬼屋开餐馆+美食+真假千金+金手指+逆袭+捡到大佬】 现代美食博主苏芙楹穿进兽世，成了被掉包的真千金。 开局被假千金买凶打的她头破血流， 父母哥哥偏心的没边，拿一间闹鬼的荒山破铺子做补偿。 她转头揣着暴富系统，在这儿开了间“黄泉食肆”。 没想到竟然在井底捞出五个萌翻天的凶兽幼年体？ 管你是什么上古圣兽，全都得给老娘打工！ 火锅烧烤小龙虾， 她靠着绝妙厨艺和现代美食引爆兽世美食界。 顺",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cx2JcKcPM93RJ67WqE3FDA?pwd=xxrt",
+    downloadUrl: "/books/1444_我在兽世开餐厅，捡的萌宠都是大佬1-46章.txt",
+    sourceUrl: "https://www.deqixs.org/1444/txt.html#dir",
+  },
+{
+    id: 1445,
+    slug: "综影视-仙女她娇美旖旎",
+    title: "综影视：仙女她娇美旖旎",
+    cover: book1445Cover,
+    author: "弥卓",
+    date: "2026-08-26",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-3997章",
+    latestChapter: "第500章",
+    excerpt: "爱情是梁山伯与祝英台，但我永远体会不到，化蝶前那一夜的等待。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1K21SWn9CZ2UVkCJB6jJ_ew?pwd=xxrt",
+    downloadUrl: "/books/1445_综影视：仙女她娇美旖旎1-3997章.txt",
+    sourceUrl: "https://www.deqixs.org/1445/txt.html#dir",
+  },
+{
+    id: 1446,
+    slug: "我真要控制你了-皇女殿下",
+    title: "我真要控制你了，皇女殿下",
+    cover: book1446Cover,
+    author: "乐山小李",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-686章",
+    latestChapter: "第669章 便宜你了",
+    excerpt: "“我们一起来研究一下这个禁忌神器吧！” 李维知道希尔薇娅会玩，但没有想过她这么会玩。 当据说能控制人心的禁忌神器被硬塞到他手上的时候，李维知道该怎么做了。 …… 希尔薇娅很清楚，李维需要一点小手段。 她决定给李维来点猛料。 只要这家伙敢下点什么奇怪的命令，就直接当场拿下！ 一想到这里，希尔薇娅心中就忍不住轻哼~ 在装作被控制成功后，第一个命令终于来了！ “成为皇帝吧，希尔薇娅。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hOB7_48LfDqfi63I-12DTg?pwd=xxrt",
+    downloadUrl: "/books/1446_我真要控制你了，皇女殿下1-686章.txt",
+    sourceUrl: "https://www.deqixs.org/1446/txt.html#dir",
+  },
+{
+    id: 1447,
+    slug: "重生八零-旗袍辣妈成了绝嗣硬汉心尖宠",
+    title: "重生八零：旗袍辣妈成了绝嗣硬汉心尖宠",
+    cover: book1447Cover,
+    author: "绵知渔",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-50章",
+    latestChapter: "第50章 顾秀娟想撕了许柠",
+    excerpt: "【八零年代1V1、HE双洁、甜宠虐渣、追妻火葬场｜冷艳清醒旗袍美人×沉稳内敛硬汉】 许柠前世舍弃旗袍裁缝的工作，从县城回到农村，履行和青梅林强的婚约。 半路突遭变故，她在玉米地与陌生男人发生纠葛。 事情败露，她被强行带去打胎，村里赤脚庸医摘掉她的子宫，令她终生无法生育。 她沦为全村唾骂的破鞋，死后无人收尸，落得暴尸荒野的凄惨下场。 到死她才知晓，林强早就觊觎爷爷奶奶留给她的嫁妆，变卖她的财物，风光",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JfaWzD6EDYGnmwyztY0gKQ?pwd=xxrt",
+    downloadUrl: "/books/1447_重生八零：旗袍辣妈成了绝嗣硬汉心尖宠1-50章.txt",
+    sourceUrl: "https://www.deqixs.org/1447/txt.html#dir",
+  },
+{
+    id: 1448,
+    slug: "说好全家捞偏门-结果就我一人真捞了",
+    title: "说好全家捞偏门，结果就我一人真捞了",
+    cover: book1448Cover,
+    author: "姑娘横着走",
+    date: "2026-09-04",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-89章",
+    latestChapter: "第089章 ：死人文学",
+    excerpt: "【穿越+兄妹情深+扮猪吃虎+腹黑复仇+1V1+男全洁】 逃荒路上的一口人肉汤，硬生生将刚刚穿越，就踏入鬼门关的卫芙给拉了回来。 而主动割了自己肉，煮汤救他们的养父却死了，只留下兄妹三人相依为命。 好消息，他们活着来到了京城，兄妹情深，养了一段时日后，三人都找到了活计。 坏消息，他们一家三口，已经凑不出一个完整的三观。 哥哥凭着美貌主动当了长公主的第六个面首，妹妹给疯世子当暖床，而她…… 正忙着勾引",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15UTJmwtu1mF76aekYuAL-g?pwd=xxrt",
+    downloadUrl: "/books/1448_说好全家捞偏门，结果就我一人真捞了1-89章.txt",
+    sourceUrl: "https://www.deqixs.org/1448/txt.html#dir",
+  },
+{
+    id: 1449,
+    slug: "和离七年后前夫找上门了",
+    title: "和离七年后前夫找上门了",
+    cover: book1449Cover,
+    author: "北木南乔",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-185章",
+    latestChapter: "第185章 赏菊宴",
+    excerpt: "【腹黑爱装难缠的狗皮膏药男主VS披着柔弱外衣的黑市大当家女主】 苏父被罢官后，苏南岑主动提出和离，陪父母一起回江南老家定居。 然而苏氏族人翻脸无情，将他们一家从族谱除名，房产田产皆被收回。 母亲难产而死，父亲郁郁不得志，苏南岑为了照顾父亲和幼弟，不得不借用前夫的威名震慑宵小。七年后，苏南岑已在扬州府站稳脚跟，弟弟书读得好，父亲身体好转，一切都在慢慢变好。 可她没想到，已经和离七年的前夫居然找上门来",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nY9btyEd6_nxiP8LQR9Xlw?pwd=xxrt",
+    downloadUrl: "/books/1449_和离七年后前夫找上门了1-185章.txt",
+    sourceUrl: "https://www.deqixs.org/1449/txt.html#dir",
+  },
+{
+    id: 1450,
+    slug: "玄学大佬觉醒后-惊艳了世界",
+    title: "玄学大佬觉醒后，惊艳了世界",
+    cover: book1450Cover,
+    author: "漪澜潇潇",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-306章",
+    latestChapter: "第306章 最重要的",
+    excerpt: "【重生+双向救赎+玄学大佬+强强】 死过一次，苏清鸢发现自己不是血包孤女，是玄学大佬！ 下毒事小，但气运被抢，还丢了一魂三魄？ 没关系，残魂+灵力，直接开杀！ 意外解封万年第一帅鬼—— 白衣禁欲，法力滔天，只能做她的贴身灵体挂件。 “我就抱抱，什么也不干……” “救命？可以，亲一下……” 带鬼灵，收小弟，斗妖主，斩世仇！ 她以残魂，渡他永世不灭。 他以功德，补她魂魄残缺。 他们，以血与火，重写三界",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OWyIr7N-vEsHzYxxkg9HYQ?pwd=xxrt",
+    downloadUrl: "/books/1450_玄学大佬觉醒后，惊艳了世界1-306章.txt",
+    sourceUrl: "https://www.deqixs.org/1450/txt.html#dir",
+  },
+{
+    id: 1451,
+    slug: "重生八零踹渣男-大院子弟排队追",
+    title: "重生八零踹渣男，大院子弟排队追",
+    cover: book1451Cover,
+    author: "路小鱼",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-536章",
+    latestChapter: "第536章 打趣",
+    excerpt: "张晚晚被未婚夫退婚，还被爷爷卖进大山。 等她出来出来发现未婚夫娶了自己同父异母妹妹？ 还是一朵陷害自己名声白莲花！ 妈妈死了，亲妹妹自杀了。 重生回来她明白了一个道理，你是渣男我就是恶女，踹了你毫不手软。 你是白莲我就是绿茶，我还恶毒，送你坐牢毫不手软。 渣男渣女应该锁死，锁不死？那再送把锁！ 至于她，不小心路上捡了两个大院子弟，一个狼一个奶。 小狼八块腹肌对她虎视眈眈，不对，应该是狼视眈眈。 奈",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13-EncvoHnlBx0D4N2MCQiw?pwd=xxrt",
+    downloadUrl: "/books/1451_重生八零踹渣男，大院子弟排队追1-536章.txt",
+    sourceUrl: "https://www.deqixs.org/1451/txt.html#dir",
+  },
+{
+    id: 1452,
+    slug: "罪奴发配岭南-被糙汉猎户娇宠",
+    title: "罪奴发配岭南：被糙汉猎户娇宠",
+    cover: book1452Cover,
+    author: "满语因",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-119章",
+    latestChapter: "第119章 兔子怀孕",
+    excerpt: "夏晚晴一朝穿成获罪的罪奴，跟着主家一路流放岭南，受尽磋磨，险些丢了性命。 绝境之际绑定触碰抽奖系统，可转盘触发条件只有一个，与买下她的糙汉猎户赵景禾触碰。 为良种，药膏，武器，她日日主动凑上去蹭他胳膊碰他手掌。 本是只为金手指刻意靠近，谁知冷硬寡言的猎户，却将她捧在心尖百般娇宠。 开荒种田，脱贫致富，她靠着灵盘逆转罪奴命运，被糙汉护着岁岁安稳。",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12hww1jzjErufVcG4aWms-g?pwd=xxrt",
+    downloadUrl: "/books/1452_罪奴发配岭南：被糙汉猎户娇宠1-119章.txt",
+    sourceUrl: "https://www.deqixs.org/1452/txt.html#dir",
+  },
+{
+    id: 1453,
+    slug: "恶毒后妈被全豪门团宠了",
+    title: "恶毒后妈被全豪门团宠了",
+    cover: book1453Cover,
+    author: "书书茉莉",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-193章",
+    latestChapter: "第193章 引她上当",
+    excerpt: "【穿书+先婚后爱+养娃+甜宠+1v1】 时薇一睁眼穿成了豪门恶毒小后妈。假孕上位，红杏出墙，苛待继子女……桩桩件件，足够她死一百次！ 但时薇觉得自己还可以抢救一下。 植物人老公在偷情夜睁开眼，她痛打奸夫鬼哭狼嚎！ 吸血鬼家人来访，她抽得他们哭爹喊娘不敢再犯！ 塑料闺蜜把她当提款机，她几句话让对方人设崩塌，当场社死！ 明明丈夫烦她，继子女厌她，可他们还是不受控制地被吸引目光。 所有人都发现，作天作地",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/18eAO3rcvkDs5r4ATTD9y7w?pwd=xxrt",
+    downloadUrl: "/books/1453_恶毒后妈被全豪门团宠了1-193章.txt",
+    sourceUrl: "https://www.deqixs.org/1453/txt.html#dir",
+  },
+{
+    id: 1454,
+    slug: "温顺小娇妻-离婚后一身反骨",
+    title: "温顺小娇妻，离婚后一身反骨",
+    cover: book1454Cover,
+    author: "一群秀秀",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-2987章",
+    latestChapter: "第2987章 她光祸害大家了",
+    excerpt: "暗恋八年，结婚三年。 名义上的老公连她长什么样子都不知道。 看着面前的离婚协议书，南潇只是笑笑。 笑着抹掉所有眼泪，带着腹中的孩子独自美丽。 然而她发现，那个连看她一眼都不愿的男人，开始频繁出现在她面前。 不仅帮她撑腰，还自作主张掐她桃花。 南潇忍无可忍：“滚。” 男人单膝跪地，吻着她的手背，满目是她。 “宝贝，我们结婚吧。” 南潇：”前夫和前妻，那叫复婚！“",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jklq6Z4zXXLVUCheNUQ47Q?pwd=xxrt",
+    downloadUrl: "/books/1454_温顺小娇妻，离婚后一身反骨1-2987章.txt",
+    sourceUrl: "https://www.deqixs.org/1454/txt.html#dir",
+  },
+{
+    id: 1455,
+    slug: "极品恋爱脑?她囤粮致富带全城吃饱饭",
+    title: "极品恋爱脑她囤粮致富带全城吃饱饭",
+    cover: book1455Cover,
+    author: "清风渐渐",
+    date: "2026-08-26",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-225章",
+    latestChapter: "第224章 良药苦口",
+    excerpt: "【种田+金手指+极品洗白+家长里短+虐渣打脸+发家致富+日久生情+1v1】 苏可意穿成极品恋爱脑小姑，原主欺嫂压侄，全家穷的吃不起饭，她偷家里口粮挥霍，还把老爹救命钱送给渣男献殷勤。 苏可意开始洗白，改造家人，徒手暴揍渣男，靠着空间超市，带着一家人成为首富，日子刚好转，灾荒要来？！！她抓紧时间挣钱，屯粮。 本想在灾荒年躺平，那个看她眼神越来越不对劲的未婚夫陆昀，羞涩地说：“只要你愿意救城中灾荒百姓",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zGgxspSbRrRb8UFNPNv8qw?pwd=xxrt",
+    downloadUrl: "/books/1455_极品恋爱脑她囤粮致富带全城吃饱饭1-225章.txt",
+    sourceUrl: "https://www.deqixs.org/1455/txt.html#dir",
+  },
+{
+    id: 1456,
+    slug: "流放西北-和离后靠两界倒卖养崽",
+    title: "流放西北：和离后靠两界倒卖养崽",
+    cover: book1456Cover,
+    author: "祥云朵朵",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-209章",
+    latestChapter: "第209章 吾乃镇北侯之女许云舒",
+    excerpt: "【抄家流放+种田+经商+大力萌娃+两界倒卖+虐渣打脸+不恋爱脑】 女特警意外穿成流放罪臣之女，刚睁眼就在难产。 婆家骂她是丧门星，要把刚出生的女儿扔去喂狼。 丈夫冷眼旁观，任由她自生自灭。 许云舒笑了，拿起剪刀抵在婆母脑门上：“想死就试试。” 命保住了，可在这苦寒之地，无依无靠，还要养活两个女儿。 就在她走投无路时，意外发现母亲留下的玉戒指里，藏着一扇通往现代世界的门…… 自此她们母女再也不缺吃喝",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rS5Syw1beCheEw78pov7Cw?pwd=xxrt",
+    downloadUrl: "/books/1456_流放西北：和离后靠两界倒卖养崽1-209章.txt",
+    sourceUrl: "https://www.deqixs.org/1456/txt.html#dir",
+  },
+{
+    id: 1457,
+    slug: "穿成玩弄失忆反派的心机白月光",
+    title: "穿成玩弄失忆反派的心机白月光",
+    cover: book1457Cover,
+    author: "赫本夫人",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-137章",
+    latestChapter: "第137章 帅气不？",
+    excerpt: "【穿书+双洁+反派+出租屋文学+甜宠+极限拉扯+日常+细水常流+先同居后爱】 温旖晚穿成了喜欢将男人玩弄于股掌之间的心机白月光。 她从小就是众人追捧的女神，是无数男人求而不得，无可替代的存在。 可唯独有一个例外，那就是不可一世，放荡不羁的反派江霆南。 她曾费尽心思，却一直没有攻略拿下。 不甘心的原主，便约江霆南出海夜钓，谁知遭遇狂风暴雨天气，不慎掉入海中。 江霆南跳海救她，结果失忆。 原主为此谎称",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ypMKBUHLHB3XuL-uZ0RfBQ?pwd=xxrt",
+    downloadUrl: "/books/1457_穿成玩弄失忆反派的心机白月光1-137章.txt",
+    sourceUrl: "https://www.deqixs.org/1457/txt.html#dir",
+  },
+{
+    id: 1458,
+    slug: "兽世神豪返利-小雌性被兽夫们抢疯了",
+    title: "兽世神豪返利：小雌性被兽夫们抢疯了",
+    cover: book1458Cover,
+    author: "远方的寄托",
+    date: "2026-09-04",
+    category: "言情",
+    status: "已完结",
+    chapters: "1-193章",
+    latestChapter: "第193章 完结",
+    excerpt: "【兽世+1Vn+神豪返利+多夫雄竞】 纪姝月俩眼一睁，直接迎来天崩开局。 不仅是个不爱修炼的废物雌性，还穷得不要不要的，不仅对着自己的原始股三兽夫非打即骂，还被一个人渣PUA，在雌尊雄卑的世界观里任由一个雄性摆布。 纪姝月：“6” 她在沉默中爆发，意外觉醒了只要为兽夫花钱就能五倍返利的超级系统。 从此，她在花钱就能暴富的路上一骑绝尘。 原本都对她不屑一顾的兽人们纷纷向前，恨不能成为她的裙下之臣。",
+    tags: [{ name: "言情", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ks312oTPwZXibV8o89zZpQ?pwd=xxrt",
+    downloadUrl: "/books/1458_兽世神豪返利：小雌性被兽夫们抢疯了1-193章.txt",
+    sourceUrl: "https://www.deqixs.org/1458/txt.html#dir",
+  },
+{
+    id: 1459,
+    slug: "返利百倍-修仙界的羊毛被我薅秃了",
+    title: "返利百倍！修仙界的羊毛被我薅秃了",
+    cover: book1459Cover,
+    author: "幸运水金",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-97章",
+    latestChapter: "第97章 破局",
+    excerpt: "穿成修仙文里的舔狗女配，顾念因还没开始舔就绑定了返现系统。 规则简单粗暴：给高阶男修送资源，系统双倍甚至多倍返还。 她果断放弃筑基期的前舔狗，转头把仙草塞给了路过的化神大佬。 送了＝赚了。治剑＝赚了。连顺手救只狐狸都能到账一笔返利。 前舔狗眼红她攀上高枝，故意刁难。她反手掏出资深剑仙送的剑诀：“你说得对，我就是攀上了，不服？” 后来她成了仙门第一富婆，修为还蹭蹭往上涨。 至于那些被她“舔”过的大佬",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1iNbpWDAjcAeAexcuT0jvOw?pwd=xxrt",
+    downloadUrl: "/books/1459_返利百倍！修仙界的羊毛被我薅秃了1-97章.txt",
+    sourceUrl: "https://www.deqixs.org/1459/txt.html#dir",
+  },
+{
+    id: 1460,
+    slug: "灾年逃荒万人嫌-恶妇反手带飞全家",
+    title: "灾年逃荒万人嫌？恶妇反手带飞全家",
+    cover: book1460Cover,
+    author: "野暖",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-462章",
+    latestChapter: "第462章 遇山匪",
+    excerpt: "卫昭一个医体双休的兽语大能居然穿到了个恶妇身上。 好消息：这恶妇身强体壮，力气奇大又长的明艳勾人。 坏消息：这恶妇把沈家的粮食作没了，全家要饿死在逃荒路上。 忠犬相公还因救她受伤，看着沈家那些老弱病残，卫昭不得已只能顶上。 没粮？不怕！她有异能，别人逃荒吃糠咽菜，她家山珍野味吃到吐。 遇上坏人？没事！她有异能预警，不止轻松避开还能精准打击。 同行逃荒的村民发现，只要跟紧卫昭，不愁吃不愁喝。 谁说卫",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1j8i8fCuXGA3mRiiDqzO4lA?pwd=xxrt",
+    downloadUrl: "/books/1460_灾年逃荒万人嫌？恶妇反手带飞全家1-462章.txt",
+    sourceUrl: "https://www.deqixs.org/1460/txt.html#dir",
+  },
+{
+    id: 1461,
+    slug: "婚礼上换嫁首长-随军后一胎三宝",
+    title: "婚礼上换嫁首长，随军后一胎三宝",
+    cover: book1461Cover,
+    author: "第一文猪",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-126章",
+    latestChapter: "第126章 她竟然知道了",
+    excerpt: "【重生+空间+虐渣+宠妻+先婚后爱】 苏暖暖重生在婚礼上，她在台前等着拜堂，渣男和大嫂在台后苟且。 前世她错嫁豺狼，家破人亡，被困精神病院整整三十年。 重生后她大闹婚礼，掌掴婆婆，踹渣男裆，毁贱女脸。 她扯下红帘，当众曝光奸情后，主动换嫁渣男小舅。 “沈首长，你娶我，我把祖传药方给你。” 只有这样才有可能保全自己，保住风雨飘摇的苏家。 本以为是利益交换，两年后，她一胎三宝，沈连长夜夜缠着她要抱抱。",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_O7byktPkrC5VGCI4RSD9g?pwd=xxrt",
+    downloadUrl: "/books/1461_婚礼上换嫁首长，随军后一胎三宝1-126章.txt",
+    sourceUrl: "https://www.deqixs.org/1461/txt.html#dir",
+  },
+{
+    id: 1462,
+    slug: "凹凸世界-每天都在修罗场",
+    title: "凹凸世界：每天都在修罗场",
+    cover: book1462Cover,
+    author: "冬乌",
+    date: "2026-08-26",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-330章",
+    latestChapter: "第330章",
+    excerpt: "意外来到凹凸大赛，发现都是熟人，实力还不一般 小时候招惹太多帅哥怎么办？ 发现朋友对自己有非分之想怎么办？ 大佬们都想拥有我怎么办？！ 余厌表示，没办法，魅力太大 余厌:争什么？我不是你们任何一个人的 余厌:我的心已经给美味的薯片贵妃啦！ 然后……余厌被大佬们狂塞零食 “现在来说说，你是谁的？” 嘉德罗斯:想清楚再开口，笨蛋渣渣 雷狮:小鬼，你想试试被锤成肉泥么？ 格瑞:……以后天天给你买薯片 余",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1tjaclScYRWMSQSPWI_9NRw?pwd=xxrt",
+    downloadUrl: "/books/1462_凹凸世界：每天都在修罗场1-330章.txt",
+    sourceUrl: "https://www.deqixs.org/1462/txt.html#dir",
+  },
+{
+    id: 1463,
+    slug: "嫌他脏-侯夫人和离二嫁年下王爷",
+    title: "嫌他脏！侯夫人和离二嫁年下王爷",
+    cover: book1463Cover,
+    author: "子柚",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-333章",
+    latestChapter: "第333章 他果然还是对她太宽容了",
+    excerpt: "【男二上位，年下，挖墙脚，霸道小狗】 施令娴出身低微，却是京城人人艳羡的成武侯夫人，她一直以为丈夫是爱她才会打破门第之见迎她为妻。 直到目睹丈夫和寡嫂的奸情，她才明白他心里一直都是青梅竹马的寡嫂。 她只是他迎娶回去，堵住悠悠众口的摆设。 为了陆家子嗣，婆母让他兼祧两房。 有情人终成眷属，两人双双游船时，她倚栏醉酒。 “人家春风快活，你就是喝死他也不会看一眼。”纨绔小王爷嗤笑，耳尖却悄悄红了。“夫人",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BMtTelpJx_0eTHBDnsLZHw?pwd=xxrt",
+    downloadUrl: "/books/1463_嫌他脏！侯夫人和离二嫁年下王爷1-333章.txt",
+    sourceUrl: "https://www.deqixs.org/1463/txt.html#dir",
+  },
+{
+    id: 1464,
+    slug: "兽夫八块腹肌-有条尾巴怎么了",
+    title: "兽夫八块腹肌，有条尾巴怎么了",
+    cover: book1464Cover,
+    author: "昨日憧憬",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-275章",
+    latestChapter: "第275章 死路，绝路，我们也会保护好崽崽",
+    excerpt: "【兽世+雄竞】 一睁眼，人就穿越兽世了？ 芙昕一脸懵，兽世就算了，还是高危神使身份？ 可恶！食物在哪里？底线在哪里？帅兽夫地址在哪里？！ 冷漠严肃的白虎：昕昕，你一直是你，我爱的始终是你。 冰冰凉凉疯批美男蛇：乖崽，吃蛇羹吗？ 美出天际的鲛人皇：兽神让我成皇，我不屑一顾。兽神让我爱你，我甘之如饴。 雌雄莫辩的雪狐：乖崽，横穿整个兽世也无妨，我终将为你而来。 威武狼王：乖崽，我们狼兽一生只倾心一个雌",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NrhejA1rPafJHuVLO1oKnw?pwd=xxrt",
+    downloadUrl: "/books/1464_兽夫八块腹肌，有条尾巴怎么了1-275章.txt",
+    sourceUrl: "https://www.deqixs.org/1464/txt.html#dir",
+  },
+{
+    id: 1465,
+    slug: "美艳奴婢出逃后-疯批世子强掳她入府",
+    title: "美艳奴婢出逃后，疯批世子强掳她入府",
+    cover: book1465Cover,
+    author: "升温云",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-377章",
+    latestChapter: "第377章 谢惟治，你觉得很好玩是吗？",
+    excerpt: "【追妻火葬场＋女主心机＋带球跑＋破镜重圆】 （坚韧野草型失忆贵女vs偏执狠戾的士族公子） 为了活下去，路知微主动勾引，爬上了谢家大公子谢惟治的床。 “你乖一点，早些怀上孩子，我就纳你为妾。” 她装巧卖乖的连连点头，转过身避子汤却一碗不落。 为了离开，她将肃州王府搅的鸡飞狗跳，几房叔伯婶姨日夜啼哭，王妃送上身契，求她快走，王爷亲自备马，赠她金银。 临走之际，她怀孕了。 路知微冷笑，照走不误，又不是没",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1e51_WL0PH6csRlXrt4aeJA?pwd=xxrt",
+    downloadUrl: "/books/1465_美艳奴婢出逃后，疯批世子强掳她入府1-377章.txt",
+    sourceUrl: "https://www.deqixs.org/1465/txt.html#dir",
+  },
+{
+    id: 1466,
+    slug: "综影视之貔貅爱敛财",
+    title: "综影视之貔貅爱敛财",
+    cover: book1466Cover,
+    author: "白衣清酒啊",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1660章",
+    latestChapter: "第656章 三生三世5",
+    excerpt: "有一个貔貅她有一点可爱还有一点顽皮～ 小貔貅太爱敛财啦～族里真的养不起啦！ 小貔貅：没……没关系，三千小世界，我一定能养得起自己！～ 一句话简介：一只爱敛财的小貔貅的穿越之旅～ 各影视人物×可可爱爱小貔貅",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RmpLRl8-Svbzxx-HBuAobA?pwd=xxrt",
+    downloadUrl: "/books/1466_综影视之貔貅爱敛财1-1660章.txt",
+    sourceUrl: "https://www.deqixs.org/1466/txt.html#dir",
+  },
+{
+    id: 1467,
+    slug: "方寸道主",
+    title: "方寸道主",
+    cover: book1467Cover,
+    author: "愤怒的乌贼",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-356章",
+    latestChapter: "第347章 神逝道成空",
+    excerpt: "这世界， 有帝王一言而为天下法， 有兵仙一剑可当百万师， 有儒圣一卷春秋定纲常， 有道尊一指长青演造化， 有纵横一策捭阖乱风云…… 李顺穿越而来，别无他物、唯有一方神秘空间。 任你有多惊才绝艳，一旦被捕获，便要化作其中傀儡。 故而…… 天下英雄虽如过江之鲫，却尽需入吾方寸之中！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TUZhi6JyXxe--NJcUiIhtg?pwd=xxrt",
+    downloadUrl: "/books/1467_方寸道主1-356章.txt",
+    sourceUrl: "https://www.deqixs.org/1467/txt.html#dir",
+  },
+{
+    id: 1468,
+    slug: "谢律师-太太让你签永不复婚协议",
+    title: "谢律师，太太让你签永不复婚协议",
+    cover: book1468Cover,
+    author: "火烈鸟",
+    date: "2026-09-06",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-188章",
+    latestChapter: "第188章 李棠，对不起",
+    excerpt: "李棠和谢霁川三离四婚的十年里，林夏妍就占了五年。 人人都说，林夏妍知性独立，帮无数女人从婚姻里拿回属于自己的一切，是海城女人的雅典娜。 和谢霁川双强最登对。 而李棠则是一个只会花钱，整日作闹，依附谢霁川的菟丝花，上不了台面。 就连谢霁川也说，她永远无法离开他。 可所有人不知道的是，李棠原本也能成为一名律师，是为了谢霁川放弃的。 这一次复婚，也不过是一场交易。 她给他生个孩子，他救出她弟弟。 然而谢",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_fkJPgJ0phNlyCYcqwWMkw?pwd=xxrt",
+    downloadUrl: "/books/1468_谢律师，太太让你签永不复婚协议1-188章.txt",
+    sourceUrl: "https://www.deqixs.org/1468/txt.html#dir",
+  },
+{
+    id: 1469,
+    slug: "丧尸王快醒醒-你家菟丝花杀疯了",
+    title: "丧尸王快醒醒，你家菟丝花杀疯了！",
+    cover: book1469Cover,
+    author: "喝热水有助于身体健康",
+    date: "2026-08-26",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-350章",
+    latestChapter: "第350章 我的血融合了你的能量，由此衍生出小章鱼。",
+    excerpt: "【贴贴就变强的作精校花vs阴鸷冷脸覆面系丧尸王】 末世三年，宋月微还没觉醒异能。 为了不成为拖累，她尽心尽力照顾有异能的同伴们，无数次救他们于险境之中 丧尸围城时，她却被男友亲手丢下车，美其名曰让她自寻生路。 她的死对头被簇拥在众人中，惺惺作态：“月微，我们也是为了你好。” 她甩开男友，转身进入丧尸群。 生死一线时，宋月微栽入一个温暖又熟悉的怀抱里。 再睁眼，她被江敛抓住，成了他的俘虏。 面容冷峻",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DG6XqUfuWs65uNWP0Xwe1Q?pwd=xxrt",
+    downloadUrl: "/books/1469_丧尸王快醒醒，你家菟丝花杀疯了！1-350章.txt",
+    sourceUrl: "https://www.deqixs.org/1469/txt.html#dir",
+  },
+{
+    id: 1470,
+    slug: "退婚太子后-竟被清冷权臣求娶了",
+    title: "退婚太子后，竟被清冷权臣求娶了",
+    cover: book1470Cover,
+    author: "春不渡",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-147章",
+    latestChapter: "第147章 心跳如鼓擂",
+    excerpt: "作为神探的迟芮破案途中出意外穿越了，破碎的家，柔弱的兄长，恋爱脑的她。 她叹了一口气，踏上了替兄为官的道路，官场是什么？是厮杀，是人情世故。 怀揣着雄心抱负，她立志做一代权臣退了太子的婚，谁曾想，貌美如花的上司看她的眼神越来越不对劲。 说好的家风严峻，迂腐正直呢？她还没退婚，这压着她亲的男人是鬼啊？ 寡了二十多年的铁树，一朝开花所作所为让人招架不住，他钻研律法字眼，跪拜在金銮殿上，掷地有声的道：“",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zesDh38Y8y-AXms9WJ5_GA?pwd=xxrt",
+    downloadUrl: "/books/1470_退婚太子后，竟被清冷权臣求娶了1-147章.txt",
+    sourceUrl: "https://www.deqixs.org/1470/txt.html#dir",
+  },
+{
+    id: 1471,
+    slug: "父子都选白月光-我改嫁大佬怀崽爽翻",
+    title: "父子都选白月光，我改嫁大佬怀崽爽翻",
+    cover: book1471Cover,
+    author: "一只快要搁浅的鱼",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-405章",
+    latestChapter: "第405章 ：凌乱不堪，叶小三被吃",
+    excerpt: "五年前，孟挽怀孕七个月，却遭丈夫陆沉渊白月光一脚踢掉孩子，而最痛苦的是丈夫的那句“歆妩也不是故意的，她不能去坐牢。”然后就强行替她签了谅解书。 五年后，国外留学的白月光回归，孟挽领养的孩子陆寒宸却说：“妈妈坏，总是针对歆歆妈妈！”她才幡然悔悟，这个家根本没有她的位置。 孟挽怒起反击，夺回失去的一切，把曾经八年付出的爱一次性割舍抛下，看着丈夫和他的白月光一步步走向灭亡，她转身直接闪婚一直守护她的大佬",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pcL-N23AUz9eIaG0PYhDQw?pwd=xxrt",
+    downloadUrl: "/books/1471_父子都选白月光，我改嫁大佬怀崽爽翻1-405章.txt",
+    sourceUrl: "https://www.deqixs.org/1471/txt.html#dir",
+  },
+{
+    id: 1472,
+    slug: "你娶我姐-我嫁太子你哭什么",
+    title: "你娶我姐，我嫁太子你哭什么？",
+    cover: book1472Cover,
+    author: "墨安若",
+    date: "2026-09-04",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-646章",
+    latestChapter: "第546章 被发现了",
+    excerpt: "《穿越+空间+权谋+打脸虐渣+女强+相互救赎》 大婚之夜，沈安若被自己的夫君打晕了扔在地上，而夫君与养姐在婚床上颠鸾倒凤商量着夺取自己的嫁妆。 好家伙，这是骗婚骗财啊。 利用空间搬空了侯府，一把火烧的他们露出原型。 转身嫁给太子，顺手把薄情寡义的渣爹也收拾了。 当他们穷困潦倒，失去一切性命不保时跪在她的面前苦苦哀求。 “安若，我们知道错了，求你原谅我们一次好不好？” 沈安若坐在高位，依在太子怀里，",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EDc5iPKlH4r-9yemFsOYCQ?pwd=xxrt",
+    downloadUrl: "/books/1472_你娶我姐，我嫁太子你哭什么？1-646章.txt",
+    sourceUrl: "https://www.deqixs.org/1472/txt.html#dir",
+  },
+{
+    id: 1473,
+    slug: "快穿-暖玉本无心",
+    title: "【快穿】暖玉本无心",
+    cover: book1473Cover,
+    author: "烟霞侣",
+    date: "2026-09-03",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-207章",
+    latestChapter: "第159章",
+    excerpt: "身患绝症的江暖，带着空间胎穿到了六十年代，找不到工作必须下乡干农活怎么办？她可以回老家，靠着空间和大队长的大伯，过悠然的农家生活。 前有一心想抢自己机缘的穿书堂妹，后有末日穿来的双系异能新女主怎么办？江暖不接招，专心过自己小日子，哪来什么女主、女配，每个人都是自己生活的主角。 可惜自己不谨慎，惹来了真正杀戮果决的末日大佬，大佬抱着她，笑得一派温文尔雅：“小乖要生生世世跟我在一起。”",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-T74EjwlBwQtkRnURDtAHw?pwd=xxrt",
+    downloadUrl: "/books/1473_【快穿】暖玉本无心1-207章.txt",
+    sourceUrl: "https://www.deqixs.org/1473/txt.html#dir",
+  },
+{
+    id: 1474,
+    slug: "上交犯罪预警系统-我带飞祖国",
+    title: "上交犯罪预警系统，我带飞祖国",
+    cover: book1474Cover,
+    author: "青珏宸宸",
+    date: "2026-09-04",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-922章",
+    latestChapter: "第922章 欢迎晚宴（大结局）",
+    excerpt: "颜凝琋本是超级豪门千金，出生不久却被保姆偷走，丢到福利院。 虽然之后收养她的养父母也是富豪，但他们在她十三岁之时破产，还负债几百万。 全家也从豪宅搬到了城中村。 好不容易大学毕业找到工作，弟弟却查出白血病。 亲朋好友生怕他们借钱，像是躲瘟神一样躲着他们。 就在此时，颜凝琋绑定002拯救系统。 她突然就可以看到将要行凶之人和受害人头上的提示。 每救下一个人，完成一次任务，就可以获得奖励。 第一次，救",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1C4a0S80MAZf43mv1Er0RSA?pwd=xxrt",
+    downloadUrl: "/books/1474_上交犯罪预警系统，我带飞祖国1-922章.txt",
+    sourceUrl: "https://www.deqixs.org/1474/txt.html#dir",
+  },
+{
+    id: 1475,
+    slug: "柴刀流漫画大师",
+    title: "柴刀流漫画大师",
+    cover: book1475Cover,
+    author: "神奇柠檬茶",
+    date: "2026-08-26",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-293章",
+    latestChapter: "第292章 【番外】美绪篇：十八岁、夜与星空的告白",
+    excerpt: "“哈？渣男？你们自愿的凭什么说我是渣男？” …… 坂本健重生东京，一周目，把现实当成恋爱Galgame玩，结果被三位少女堵上天台，打出了GG。 二周目，坂本健发现自己拥有前世各种文娱作品的记忆，于是决定不再沾花惹草，专心成为漫画大师。 恋爱什么的，哪有挣钱重要？ 这一次，从对业界使出《链锯人》开始！ 然而，上周目的她们再次一个个出现在了坂本健的生活当中…… “什么就玛奇玛是你的精神写照了？什么叫帕",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15aR_fxWL2c2kmoM4a93OUg?pwd=xxrt",
+    downloadUrl: "/books/1475_柴刀流漫画大师1-293章.txt",
+    sourceUrl: "https://www.deqixs.org/1475/txt.html#dir",
+  },
+{
+    id: 1476,
+    slug: "奥特曼任意键-启明",
+    title: "奥特曼任意键：启明",
+    cover: book1476Cover,
+    author: "说的道理",
+    date: "2026-08-26",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-952章",
+    latestChapter: "第951章 欢迎来到混合宇宙（正文大结局）",
+    excerpt: "【万订奥文】【全文配图】【不虐主】【不毁原剧人设】 ———————— 这个世界，防卫队由各种重量级成员构成: 总监城府深密，喜欢微操——土桥祐 参谋急于求成，胆大妄为——何志，权藤 队长身残志坚，心直口快——诸星团 副队嫉恶如仇，固执己见——西条凪 科研人员技术精湛，独具匠心——阿加慕斯 外界，熊本市的正木敬吾准备引领人类进化，绫香市的爱染诚进行着英雄游戏。 藤宫博也决心消除人类，猎手骑士剑为了消",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hqsBwS5Lkw4JrNUONHGeJg?pwd=xxrt",
+    downloadUrl: "/books/1476_奥特曼任意键：启明1-952章.txt",
+    sourceUrl: "https://www.deqixs.org/1476/txt.html#dir",
+  },
+{
+    id: 1477,
+    slug: "从恐怖片开始的假面骑士",
+    title: "从恐怖片开始的假面骑士",
+    cover: book1477Cover,
+    author: "梦入炎方",
+    date: "2026-08-26",
+    category: "悬疑",
+    status: "已完结",
+    chapters: "1-680章",
+    latestChapter: "第666章 完本感言＆打赏感谢＆推书",
+    excerpt: "好消息，穿越了， 坏消息，穿越到了恐怖片世界， 坏消息，变成了怪人， 好消息，是蝗虫怪人。 当伊诺变身为蝗虫怪人手刃食人魔变异人之后，他才惊觉自己穿越的世界并没有那么简单，变异人、吸血鬼、狼人、铁血战士等等，经典怪物接连出现，而在这之中，还有专门捕猎怪人的神秘机构。 不过，情况似乎还不止于此，当伊诺陷入危机之时，异世界的大门为他缓缓打开。 血族隐匿于黑夜，狼人狂啸于群山；外星科技构筑护甲，神明启示",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TwkRpj6ZG7ZSTOfkeBBORA?pwd=xxrt",
+    downloadUrl: "/books/1477_从恐怖片开始的假面骑士1-680章.txt",
+    sourceUrl: "https://www.deqixs.org/1477/txt.html#dir",
+  },
+{
+    id: 1478,
+    slug: "半岛财阀从救下三星小公主开始",
+    title: "半岛财阀从救下三星小公主开始",
+    cover: book1478Cover,
+    author: "李好坏呀",
+    date: "2026-08-26",
+    category: "都市",
+    status: "已完结",
+    chapters: "1-547章",
+    latestChapter: "第546章 后记5",
+    excerpt: "新书《半岛1990：快乐的财阀生活》发布啦，请多多关注！ “浩荣，Tara她们最近有麻烦，你还是别插手了！呐，这是我的附属金卡，去开心一下！” “你在教我做事啊？” “不是啦！” “以后在我面前不准说她们坏话！” 见到李尹馨乖巧点头，李浩荣这才满意的接过银行卡，揣进了自己兜。 “正好tara她们心情不好，我去给她们买礼物安慰一下！” “什么？” “放心，也给你买！” 听到这话，李尹馨表情和善了许多",
+    tags: [{ name: "都市", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PNiXoSJqjPG2EFT3PvpIMg?pwd=xxrt",
+    downloadUrl: "/books/1478_半岛财阀从救下三星小公主开始1-547章.txt",
+    sourceUrl: "https://www.deqixs.org/1478/txt.html#dir",
+  },
+{
+    id: 1479,
+    slug: "我的极道修改器",
+    title: "我的极道修改器",
+    cover: book1479Cover,
+    author: "红颜三千",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-260章",
+    latestChapter: "第10章 颠倒",
+    excerpt: "【极道流】、【大肌霸】、【肉身成圣】、【以力证道】。 “我不是开了，只是一直没关。” “小开不算开。” “开了没关≠我开挂！” 王朝末年，宗门割据、教派横行，义军席卷各州，四大害祸乱天下，人命贱如草芥。贺通天利用自带的修改器，一次又一次突破极限，集【金刚不坏】、【吞星吐月】、【恨天无把，恨地无环】等诸多威装于一身，横推一切敌。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LJH6N9kGfMrZz1MegpvsNw?pwd=xxrt",
+    downloadUrl: "/books/1479_我的极道修改器1-260章.txt",
+    sourceUrl: "https://www.deqixs.org/1479/txt.html#dir",
+  },
+{
+    id: 1480,
+    slug: "无敌从我看见boss血条开始",
+    title: "无敌从我看见BOSS血条开始",
+    cover: book1480Cover,
+    author: "我也很绝望",
+    date: "2026-09-07",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-1336章",
+    latestChapter: "第1336章 说清",
+    excerpt: "好消息：有人捡到会冒出文字的羊皮纸了。 坏消息：那个人不是我。 好消息：楼下老大爷能看到别人头顶的死亡倒计时。 坏消息：老大爷快死了。 好消息：房东女儿带着未来记忆重生了 坏消息：我还被懵在鼓里。 现实越发古怪，游戏情况不断。 《求魔》游戏开服，方羽进入游戏，发现这个游戏，没有血条显示。 而他，能看到血条！ 【大妖魔：1/21999。】 “放开那个妖魔，让我来！” 【天牙虎：29481/29482",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16nT0w-foNPr6Ncnu5fgUmg?pwd=xxrt",
+    downloadUrl: "/books/1480_无敌从我看见BOSS血条开始1-1336章.txt",
+    sourceUrl: "https://www.deqixs.org/1480/txt.html#dir",
+  },
+{
+    id: 1481,
+    slug: "重置世界-从女儿被夺舍开始",
+    title: "重置世界：从女儿被夺舍开始",
+    cover: book1481Cover,
+    author: "仙官赐福",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-331章",
+    latestChapter: "第329章 傅文军",
+    excerpt: "（序列+悬疑+微恐+反转） 本书原名《我女儿被夺舍了》《开局顶级序列，我能重置万物》 ----------------- 李九禾发现自己六岁的女儿最近忽然变了。 明明刚学会写字不久，字迹却忽然间变得工整而娟秀。 女儿以前走路偶尔还会摔倒，但现在却步履沉稳，如同一个成年人。 她还会在没人的时候神情变得阴沉，目光中仿佛藏有很重的心事。 更有甚者，女儿有次忽然问他：“能不能给我一把你们……不，我们家的钥",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1n_J44idwsUM-6rYQlFv8NQ?pwd=xxrt",
+    downloadUrl: "/books/1481_重置世界：从女儿被夺舍开始1-331章.txt",
+    sourceUrl: "https://www.deqixs.org/1481/txt.html#dir",
+  },
+{
+    id: 1482,
+    slug: "梦魇绝境",
+    title: "梦魇绝境",
+    cover: book1482Cover,
+    author: "点道为止",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-446章",
+    latestChapter: "第444章 红地虞近防炮，一息三千六百转",
+    excerpt: "白天，周恺作为【武者】，拳镇山河。 入梦，周恺作为【行者】，独断长夜。 虚假的武者：磨皮锻骨，肉身成圣。 真实的武者：盗形于魇，异化成兽。 什么真实虚假，叽里咕噜说啥呢。 最强的武者：独断万古长夜，全凭努力和汗水！ …… 或许对其他人而言，确实需要舍弃旧壳，炼就新形，才能打破人类固有上限，成为更高位格的新生命。 但周恺不同。 他拥有常人无法理解的努力与汗水。 他拥有常人为之震惊的智慧与谋断。 周恺",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1I0h2vtNfP_D6l28yrXuIrQ?pwd=xxrt",
+    downloadUrl: "/books/1482_梦魇绝境1-446章.txt",
+    sourceUrl: "https://www.deqixs.org/1482/txt.html#dir",
+  },
+{
+    id: 1483,
+    slug: "吾乃高武神人",
+    title: "吾乃高武神人",
+    cover: book1483Cover,
+    author: "光耀大千录",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-368章",
+    latestChapter: "第368章 无穷底蕴！入化龙池！",
+    excerpt: "武道世界，人人皆可觉醒词条！ 农夫觉醒【吃苦耐劳】，对于痛苦自适应程度+20% 富人觉醒【奴隶主】，对于穷人影响效果+10% 亦有九命猫妖获【哈基生物】，死后亦能复生！ 【重生者】【穿越者】【转世魂】【域外天魔】【盛世美颜】…… 无数词条带来无尽可能！ 值此盛世，叶离觉醒词条【惊世智慧】 【惊世智慧】：天道酬勤！外置大脑，无需思考！ 任何功法武技，一看就会，一学就通！ 妖艳无双的魔女，悟性惊人的道",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rXOYdlc_udmW8dULkcysuA?pwd=xxrt",
+    downloadUrl: "/books/1483_吾乃高武神人1-368章.txt",
+    sourceUrl: "https://www.deqixs.org/1483/txt.html#dir",
+  },
+{
+    id: 1484,
+    slug: "无垢时馈",
+    title: "无垢时馈",
+    cover: book1484Cover,
+    author: "孤翼",
+    date: "2026-09-10",
+    category: "游戏",
+    status: "连载中",
+    chapters: "1-384章",
+    latestChapter: "第384章 京都，再见陈启",
+    excerpt: "[无垢时馈：剔除一切负面状态，刷新状态至巅峰，并获取当前巅峰状态锻炼一定时间后的反馈，此反馈将同样剔除一切负面效果。] 跳过中间过程，直接拿到最完美的反馈成果。",
+    tags: [{ name: "游戏", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gL-2l3sTCOdXWMmTFknFvg?pwd=xxrt",
+    downloadUrl: "/books/1484_无垢时馈1-384章.txt",
+    sourceUrl: "https://www.deqixs.org/1484/txt.html#dir",
+  },
+{
+    id: 1485,
+    slug: "老乡-你咋还会搓火球嘞",
+    title: "老乡，你咋还会搓火球嘞？",
+    cover: book1485Cover,
+    author: "船头鸦",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-262章",
+    latestChapter: "第255章 诏书",
+    excerpt: "“旧法衰败，新职业运动传遍大江南北。 依靠新法，各省根据地域发展出不同的专属职业。 中原的斥候、西北的锤手、齐鲁的儒学圣职、江南的散星法师、武陵的狂暴骑士...... 只有本省的乡党才能转职本省的职业，因此很容易就能从职业者的职业上判断出他是哪的人。” 审讯人盯着张绝。 “你用过魔法？” “我是土生土长的江南人。”张绝微笑。 “可你还会放论语祷告！” “俺奶是齐鲁嘞，我当然也算半个齐鲁人。”张绝一",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1frKVM4wgvEr8EUYt49Z7SA?pwd=xxrt",
+    downloadUrl: "/books/1485_老乡，你咋还会搓火球嘞？1-262章.txt",
+    sourceUrl: "https://www.deqixs.org/1485/txt.html#dir",
+  },
+{
+    id: 1486,
+    slug: "苟在仙武问镜搜机缘",
+    title: "苟在仙武问镜搜机缘",
+    cover: book1486Cover,
+    author: "林珏",
+    date: "2026-09-07",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-393章",
+    latestChapter: "第239章 ：李氏忠臣",
+    excerpt: "大梁世家垄断，穷人不得出头，乡下少年林二，以玄镜问机缘，读书习武炼体，道门炼气修行，赶山采药探宝，相助仙子修行，得成五丹大道。 在凡间，读书习武，亲情友情； 在宗门，赶山探宝，仙子修行； 在天地，灵气枯竭，大劫降世。 其中滋味，如鱼饮水，唯独不改初心，一步一步踏上长生大道： 【练功】、【修仙】、【无系统】、【慢热】、【日常文】、【多女主】、【凡人流】、【赶山采药】、【秘境探宝】 备注：第一卷习武武",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BmOHnG0akxpYrjnGvT5vzw?pwd=xxrt",
+    downloadUrl: "/books/1486_苟在仙武问镜搜机缘1-393章.txt",
+    sourceUrl: "https://www.deqixs.org/1486/txt.html#dir",
+  },
+{
+    id: 1487,
+    slug: "斗罗-电磁掌控者",
+    title: "斗罗：电磁掌控者",
+    cover: book1487Cover,
+    author: "小小文抄公",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-226章",
+    latestChapter: "第136章 命运分叉，不同的路",
+    excerpt: "【斗一同人】【利己主义者】 磁场是世界的脉络，我，只是握住了它的丝线…… 当一个精通物理的工学博士穿越到斗罗世界，会带来怎样的震撼？ －所有金属，都将听我的号令，臣服我的意志，我，是你们的王！ －指尖跳动的电光，是我永恒不变的信仰，超电磁炮，贯穿一切！ －以海虎之名，执掌磁场转动，百万匹力，粉碎一切敌人！ PS：新人前期节奏有些问题，建议从12章观看。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/1487_斗罗：电磁掌控者1-226章.txt",
+    sourceUrl: "https://www.deqixs.org/1487/txt.html#dir",
+  },
+{
+    id: 1488,
+    slug: "四合院-从捡属性开始",
+    title: "四合院：从捡属性开始",
+    cover: book1488Cover,
+    author: "月下拾栗",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-123章",
+    latestChapter: "第123章 提议，先一步的考虑",
+    excerpt: "穿越四合院，获得捡属性系统，被视为妖魔鬼怪的四合院众禽，一下子就成了徐建设的经验血包。 【捡取1点力量】 【捡取1点敏捷】 【捡取1天寿命】 【捡取10点书法经验】 【捡取10点钳工经验】 …… 【累计捡取100点属性/经验，奖励一阶宝箱】 …… 在这个吃喝是头等大事的年代，徐建设靠着不断捡属性，过上了人人羡慕的幸福生活。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1q2HGQHa-nlaoixCi8DL1Lw?pwd=xxrt",
+    downloadUrl: "/books/1488_四合院：从捡属性开始1-123章.txt",
+    sourceUrl: "https://www.deqixs.org/1488/txt.html#dir",
+  },
+{
+    id: 1489,
+    slug: "1836-我在大英当文豪",
+    title: "1836：我在大英当文豪",
+    cover: book1489Cover,
+    author: "小颗栗子",
+    date: "2026-09-13",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-323章",
+    latestChapter: "第323章 维多利亚的反应与新作",
+    excerpt: "“接下来有请，大英帝国桂冠诗人，嘉德勋章获得者，皇家文学学会终身会长，维多利亚女王最信赖的私人顾问，法兰西学术院外籍院士、荣誉大十字勋章拥有者，狄更斯的宿敌与挚友，文学界的无冕之王，尊敬的米歇尔·勒布朗勋爵致辞！” 米歇尔站在白金汉宫外的高台上，视线扫过台下狂热的面庞，又看了看身旁满眼敬意的维多利亚女王。 他摸了摸下巴，回想起了1836年穿越而来的那个寒冬...... …… 狄更斯：“遇到米歇尔之",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EQt1ecjbod12MqJnLb_fqQ?pwd=xxrt",
+    downloadUrl: "/books/1489_1836：我在大英当文豪1-323章.txt",
+    sourceUrl: "https://www.deqixs.org/1489/txt.html#dir",
+  },
+{
+    id: 1490,
+    slug: "女友出轨怀孕-九个月后我跑了",
+    title: "女友出轨怀孕，九个月后我跑了",
+    cover: book1490Cover,
+    author: "柚子太菜",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-193章",
+    latestChapter: "第193章 ，抱上杨总大腿！",
+    excerpt: "【豆包，女朋友怀孕了，但孩子不是我的，如果我在她临产前跑了，违法吗？】 【先生，鉴于孩子不是你的，单纯临产前跑路通常不会触犯法律，但道德上会受到谴责，所以不建议直接失联跑路！】 看到回答的杨彦德微微一笑，拎着行李箱上了飞机。 ......",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1h6ODiiebzNEeVHJw-e9IiQ?pwd=xxrt",
+    downloadUrl: "/books/1490_女友出轨怀孕，九个月后我跑了1-193章.txt",
+    sourceUrl: "https://www.deqixs.org/1490/txt.html#dir",
+  },
+{
+    id: 1491,
+    slug: "方士",
+    title: "方士！",
+    cover: book1491Cover,
+    author: "买个窗帘",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-419章",
+    latestChapter: "第418章 真以为于某治不了你？",
+    excerpt: "深山玄牝，真修难藏丑秽之形。 幽室香躯，佳人陡变温柔之质。 欲用万寿仙朝万年寿，成就仙人洞里真仙人。 …… 万寿仙朝，本取自万寿无疆之意。 万寿乃国寿万载，无疆则版图无穷。 如今万载已过，国如五鼓衔三月，寿似三更油尽灯。 值此乱世，可以给万物加点强化的于肃睁开了眼。 面对趴伏在众生之上，大口吸食乱世劫气的仙家，以及炼就一身造化宝血，设立天地奇观的方士。 于肃决定告诉这个世界…… 他来过。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZFBJ4JogIez0vNq9rd14SQ?pwd=xxrt",
+    downloadUrl: "/books/1491_方士！1-419章.txt",
+    sourceUrl: "https://www.deqixs.org/1491/txt.html#dir",
+  },
+{
+    id: 1492,
+    slug: "药师门徒修仙笔记",
+    title: "药师门徒修仙笔记",
+    cover: book1492Cover,
+    author: "章帕克",
+    date: "2026-09-10",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-677章",
+    latestChapter: "第171章 旅游胜地金鳌岛",
+    excerpt: "慈怀药师，救苦救难，莳者一心，同登极乐。 凭什么说我是邪魔外道？ —— 他们说这是个蒙受药师赐福，继承真龙遗泽的幸运少年，自北境白山黑水之中走出，踏破千年风雪，寻求长生大道的故事。 有仙鹤，巡曳天南地北。 有灵木，庇佑世间众生。 有伶人，变幻百面千相。 有史官，镇压万古妖邪。 帝君曾言道，求长生天者不得长生。 那是古国繁荣昌盛的年代，天外的翼人尚未降临。 我们药师余孽……呸！哪有什么药师余孽，本人",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FBjk28rVdYRd9wjURFWqEQ?pwd=xxrt",
+    downloadUrl: "/books/1492_药师门徒修仙笔记1-677章.txt",
+    sourceUrl: "https://www.deqixs.org/1492/txt.html#dir",
+  },
+{
+    id: 1493,
+    slug: "金台汉月",
+    title: "金台汉月",
+    cover: book1493Cover,
+    author: "戈昔",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第119章 陆游一出口，玄明气已夺",
+    excerpt: "身在虏庭当驸马，心如明月照汉家。 谁说汉人不能尚大金公主？ 李朔重生金朝，先冒外戚之位，后谋驸马之贵。在满朝女真贵胄的猜忌之中，惨淡经营，渐行渐远。 时值明昌之治，丰亨豫大，金国如日中天。然内有汉人、契丹积怨已久，外有蒙古崛起如虎、大宋羊视眈眈。 “我见不得屠刀狂舞，乱世浩劫，人命如草芥。但为天下苍生，我李朔何惜身后名？公主，你骂我是乱臣贼子，可我从没爱过大金。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LroJl67Dn_eMtDAukxKdFg?pwd=xxrt",
+    downloadUrl: "/books/1493_金台汉月1-122章.txt",
+    sourceUrl: "https://www.deqixs.org/1493/txt.html#dir",
+  },
+{
+    id: 1494,
+    slug: "冰与火-骨龙王冠",
+    title: "冰与火：骨龙王冠",
+    cover: book1494Cover,
+    author: "北山龙琥君",
+    date: "2026-09-07",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-216章",
+    latestChapter: "第112章 ：贝尔隆：我没事，我还能干",
+    excerpt: "龙之家族时间线。 万人骨血，铸此王冠。 当赫伦堡的诅咒没有应验，与瓦列利安，赛提加并列的瓦雷利亚血裔家族科何里斯延续下来，依然手握七国第一雄城赫伦堡的废墟，甚至迎娶了本该死去的公主时，故事又会发生什么样的变化呢？",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16is-2DX519vAcBomyWWr5w?pwd=xxrt",
+    downloadUrl: "/books/1494_冰与火：骨龙王冠1-216章.txt",
+    sourceUrl: "https://www.deqixs.org/1494/txt.html#dir",
+  },
+{
+    id: 1495,
+    slug: "香江往事1963",
+    title: "香江往事1963",
+    cover: book1495Cover,
+    author: "叁更不息",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-307章",
+    latestChapter: "第303章 一定完成五哥的嘱托",
+    excerpt: "港史研究者林远山，发现自己重生到1963年的港岛。 这里，四大探长利益交织，搭出金钱帝国的地基； 这里，势力肆意蔓延，民众出门要攥紧衣角。 万幸的是…… 奸人远来了，江湖太平了！ 林先生来了，香江的青天有了！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OdXF1Wof7ZSgJk2f749bLQ?pwd=xxrt",
+    downloadUrl: "/books/1495_香江往事19631-307章.txt",
+    sourceUrl: "https://www.deqixs.org/1495/txt.html#dir",
+  },
+{
+    id: 1496,
+    slug: "诡秘之主",
+    title: "诡秘之主",
+    cover: book1496Cover,
+    author: "爱潜水的乌贼",
+    date: "2026-08-27",
+    category: "奇幻",
+    status: "已完结",
+    chapters: "1-1462章",
+    latestChapter: "第1416章 诡秘番外：那个角落",
+    excerpt: "诡秘之主动画特别篇已在腾讯视频上播出，欢迎大家前去观看！ 蒸汽与机械的浪潮中，谁能触及非凡？历史和黑暗的迷雾里，又是谁在耳语？我从诡秘中醒来，睁眼看见这个世界： 枪械，大炮，巨舰，飞空艇，差分机；魔药，占卜，诅咒，倒吊人，封印物……光明依旧照耀，神秘从未远离，这是一段“愚者”的传说。",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NOY4iNQwYmbcl4j_x8_Mrg?pwd=xxrt",
+    downloadUrl: "/books/1496_诡秘之主1-1462章.txt",
+    sourceUrl: "https://www.deqixs.org/1496/txt.html#dir",
+  },
+{
+    id: 1497,
+    slug: "以一龙之力打倒整个世界",
+    title: "以一龙之力打倒整个世界！",
+    cover: book1497Cover,
+    author: "唐宋元明氢",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-752章",
+    latestChapter: "第722章 神头鬼脑，铁骑降临",
+    excerpt: "【经过真龙指导，没有想当然，非乱写】 钢铁为鳞，烈焰铸骨。 红龙和铁龙的血脉在我体内交织融合，构筑出耀眼的新生，烈焰与钢铁是我与生俱来的天赋，适应与进化才是我证就永恒的权能。 弱者顾虑重重，而王者，百无禁忌。 凡是杀不死我的，都将使我更加强大。 在我面前，跪伏者生，站立者死，万象生死皆我，生杀予夺由心。 若整个世界与我为敌，我便以一龙之力燃烧这个世界，然后统治它的灰烬。 吾名伽罗斯，世人敬我畏我，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Le3y-fnwdalmFuncZw9dMA?pwd=xxrt",
+    downloadUrl: "/books/1497_以一龙之力打倒整个世界！1-752章.txt",
+    sourceUrl: "https://www.deqixs.org/1497/txt.html#dir",
+  },
+{
+    id: 1498,
+    slug: "宿命之环",
+    title: "宿命之环",
+    cover: book1498Cover,
+    author: "爱潜水的乌贼",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1195章",
+    latestChapter: "第240章 我有罪",
+    excerpt: "诡秘世界第二部。 1368之年，七月之末，深红将从天而降。",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15WqvGqc5Q9r5gNHYopmLUw?pwd=xxrt",
+    downloadUrl: "/books/1498_宿命之环1-1195章.txt",
+    sourceUrl: "https://www.deqixs.org/1498/txt.html#dir",
+  },
+{
+    id: 1499,
+    slug: "赤心巡天",
+    title: "赤心巡天",
+    cover: book1499Cover,
+    author: "情何以甚",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-4917章",
+    latestChapter: "第4917章 5029、1583。",
+    excerpt: "（《赤心巡天》实体书已在全网发售。） 上古时代，妖族绝迹。近古时代，龙族消失。神道大昌的时代已经如烟，飞剑绝巅的时代终究沉沦…… 这个世界发生了什么？ 那埋葬于时间长河里的历史真相，谁来聆听？ 山河千里写伏尸，乾坤百年描饿虎。 天地至公如无情， 我有赤心一颗、以巡天！ —————— 欢迎来到，情何以甚的仙侠世界。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UA9jcmCaMjUaUqSzXDgwTg?pwd=xxrt",
+    downloadUrl: "/books/1499_赤心巡天1-4917章.txt",
+    sourceUrl: "https://www.deqixs.org/1499/txt.html#dir",
+  },
+{
+    id: 1500,
+    slug: "贫民窟的游戏王",
+    title: "贫民窟的游戏王",
+    cover: book1500Cover,
+    author: "摸鱼阿唯2号",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-138章",
+    latestChapter: "第133章 ：尤贝尔VS银河眼【加更完结决斗】",
+    excerpt: "我要成为世界第一，女人什么的很碍事！ ——著名王者-杰克·阿特拉斯 牌佬天野零穿越到了和游戏王动画截然不同的打牌世界。 别人家的主角，穿越都是加载决斗王系统，偏偏自己捡了个和牌佬完全不搭的好感度系统。 生活在类似5DS卫星区的底层贫民窟，用着最弱的杂鱼凡骨卡组，再绑定个和打牌无关的好感度系统。 这辈子还有盼头吗？ 【好感度70点，可获得对方卡组中的卡牌。】 【好感度80点，解锁背后灵模式，可成为目",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kbDsVmTQjMEMqV264kuyew?pwd=xxrt",
+    downloadUrl: "/books/1500_贫民窟的游戏王1-138章.txt",
+    sourceUrl: "https://www.deqixs.org/1500/txt.html#dir",
+  },
+{
+    id: 1501,
+    slug: "神话版三国",
+    title: "神话版三国",
+    cover: book1501Cover,
+    author: "坟土荒草",
+    date: "2026-09-12",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-7756章",
+    latestChapter: "第7429章 错是错，罪是罪！",
+    excerpt: "陈曦看着将一块数百斤巨石撇出去的士卒，无语望苍天，这真的是东汉末年？ 吕布单枪匹马凿穿万人部队，这怎么看都不科学。 赵子龙真心龙魂附体了，一剑断山，这真的是人？ 典韦单人护着曹操杀出敌营，顺手宰了对面数千步骑，这战斗力爆表了吧！ 这是不是哪里有些不对啊，陈曦顺手摸了一把鹅毛扇挥了一下，狂风大作，叹了一口气，“这是神话吧，我自己都不正常了。” ps：其实这是一篇正经的种田文…… QQ群：476971",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hzm8VnqU_-4WYzsiqi3gaA?pwd=ftbp",
+    downloadUrl: "/books/1501_神话版三国1-7756章.txt",
+    sourceUrl: "https://www.deqixs.org/1501/txt.html#dir",
+  },
+{
+    id: 1502,
+    slug: "绑定祖宅改造系统-万界大佬排队来打工",
+    title: "绑定祖宅改造系统，万界大佬排队来打工",
+    cover: book1502Cover,
+    author: "紫米面包",
+    date: "2026-08-27",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-483章",
+    latestChapter: "第483章 结局",
+    excerpt: "【种田基建+万界员工+系统奖励＋慢热现代田园＋无cp大女主】 赵星月母亲离世，城里的房子为还债被她卖掉，只能拖着行李回到老家祖宅。 年久失修的祖宅荒芜一片，就连屋顶都长了草，居然电路也断了！ 赵星月欲哭无泪，耳畔响起电子声：恭喜宿主，完成产权更替，激活祖宅改造系统 系统发布任务：清理屋内环境，解锁系统员工×1 收拾环境嘛，简单。 就是这员工是怎么回事？ 民国来的小苦瓜， 未来时空被污蔑的哑巴将军",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gzOqBS9EXvee781Kgzo52A?pwd=ftbp",
+    downloadUrl: "/books/1502_绑定祖宅改造系统，万界大佬排队来打工1-483章.txt",
+    sourceUrl: "https://www.deqixs.org/1502/txt.html#dir",
+  },
+{
+    id: 1503,
+    slug: "开局被逃婚-我偷窥系统心声娇养病弱夫君",
+    title: "开局被逃婚？我偷窥系统心声娇养病弱夫君",
+    cover: book1503Cover,
+    author: "聚八方财月月",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-41章",
+    latestChapter: "第41章 哦豁！真假少爷？（求金票）",
+    excerpt: "【美食+读心+系统+穿书+种田+低魔世界】 灵意登顶厨神那一刻，被叛徒害死，穿书了。 开局未婚夫逃婚？ 灵意不慌，准备手拿退婚书赶紧跑！ 只是，为什么婚书上的丈夫会变成未婚夫那位后期杀人如麻却身娇体弱的反派兄长的名字！？ 还有！他头顶自称是系统的那个家伙怎么回事儿！绑定反派就算了，为什么要告诉反派她是他老婆！？ 更操蛋的是，她不仅没能退婚，还被迫跟病弱的反派有一腿了。 好消息：反派身娇体弱，他不行",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/119nDWv2Llq63JoOMuT5lNw?pwd=ftbp",
+    downloadUrl: "/books/1503_开局被逃婚？我偷窥系统心声娇养病弱夫君1-41章.txt",
+    sourceUrl: "https://www.deqixs.org/1503/txt.html#dir",
+  },
+{
+    id: 1504,
+    slug: "现实编程协会",
+    title: "现实编程协会",
+    cover: book1504Cover,
+    author: "木也马",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-203章",
+    latestChapter: "第199章 “死局”",
+    excerpt: "【中国作协2026年度最具转化价值文学IP作品】 江城的大雨连着下了数月，掩藏了很多不对劲的东西。 余弦觉得自己病了：身边人陆续消失，微笑自杀案接连出现，习惯和记忆对不上号，陌生网友做着相同的梦，大学的教授离奇死亡。 ...... 暴雨越下越大，城市变成了一个个“孤岛”。 洪水滔天，“人造暴雨”谣言四起，隐约把矛头朝向了科研机构。 一段名为“午夜公交车”的音频，在断网断联的校园里如同瘟疫般传播，竟",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19uhEsyuLlTDznH6NkajpRQ?pwd=ftbp",
+    downloadUrl: "/books/1504_现实编程协会1-203章.txt",
+    sourceUrl: "https://www.deqixs.org/1504/txt.html#dir",
+  },
+{
+    id: 1505,
+    slug: "绍宋",
+    title: "绍宋",
+    cover: book1505Cover,
+    author: "榴弹怕水",
+    date: "2026-08-27",
+    category: "历史",
+    status: "已完结",
+    chapters: "1-84章",
+    latestChapter: "第84章 流光（上）",
+    excerpt: "绍者，一曰继；二曰导。 公元1127年，北宋灭亡。旋即，皇九子赵构在万众期待中于商丘登基，继承宋统，改元建炎。 然而，三个月内，李纲罢相，陈东被杀，岳飞被驱逐出军，宗泽被遗弃东京，河北抗金布置被全面裁撤……经过这么多努力之后，满朝文武终于统一了思想，定下了拥护赵官家南下淮甸转扬州的辉煌抗金路线。 不过刚一启程，在亳州明道宫参拜了道祖之后，这位赵官家便一头栽入了闻名天下的九龙井中，起来后就不认得自己",
+    tags: [{ name: "历史", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14F32l486ENzK1cNF0WcFZQ?pwd=ftbp",
+    downloadUrl: "/books/1505_绍宋1-84章.txt",
+    sourceUrl: "https://www.deqixs.org/1505/txt.html#dir",
+  },
+{
+    id: 1506,
+    slug: "呢喃诗章",
+    title: "呢喃诗章",
+    cover: book1506Cover,
+    author: "咸鱼飞行家",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-4542章",
+    latestChapter: "第4509章 阿黛尔的斥责",
+    excerpt: "来到蒸汽工业蓬勃发展的新世界，继承王国首都广场的三层公寓，带着别人的猫，听着耳边的呢喃之语，去见证这个诡秘而离奇的时代。 第六纪元的史诗即将开始，帷幕后，被选中者将要踏入传说。旧神、遗物、蒸汽、魔女、侦探、远古的奥秘、纪元的辉光...... “你要玩一把罗德牌吗？” 岁月铭刻光阴，银月照耀阴影。我为你谱写传说，你为我呢喃诗章。 （另有老书五百万字完本，一天两更从不断更。上午六点五十，下午五点五十，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jrBAwpSSU0c2NNqoloevWA?pwd=ftbp",
+    downloadUrl: "/books/1506_呢喃诗章1-4542章.txt",
+    sourceUrl: "https://www.deqixs.org/1506/txt.html#dir",
+  },
+{
+    id: 1507,
+    slug: "以超人之力打穿全美漫",
+    title: "以超人之力打穿全美漫！",
+    cover: book1507Cover,
+    author: "徐少一",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-266章",
+    latestChapter: "第266章",
+    excerpt: "穿越黑袍宇宙，面对降临的祖国人，洛斯的灵魂与两大美漫亡灵产生维系—— 钢铁侠与不义超人。 前者，在复联终局之战打出一记无限响指逆转战局，拯救世界而牺牲。 后者，黑化试图以超人之力独裁世界，失败。 通过完成他们死前的夙愿，能够获取超越时代的知识与氪星超人的能力？ 那就以钢铁侠撬开全知的门户，以不义超人造就全能的根基！ 某天，纽约崩碎。 当祖国人拼尽所有击碎反祖国人装甲，自以为赢下一切的时候，破碎装甲",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yGGv08c2fdJ7QyHUjdmevw?pwd=ftbp",
+    downloadUrl: "/books/1507_以超人之力打穿全美漫！1-266章.txt",
+    sourceUrl: "https://www.deqixs.org/1507/txt.html#dir",
+  },
+{
+    id: 1508,
+    slug: "庄生不晓梦",
+    title: "庄生不晓梦",
+    cover: book1508Cover,
+    author: "吃错药的炎妖",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-129章",
+    latestChapter: "第128章 我将成为使徒",
+    excerpt: "庄生从高考后就一直在做一个关于修仙的梦。 直到有天他在梦里发现合欢宗宗主居然是自己的辅导员。 …… 我叫庄生。 是个爱说谎的人渣。 而这正是成为神人便利店店长的必要条件。 【健力宝配可口可乐再加老干妈与旺仔牛奶按照3:1:4:5的比例勾兑，再配上晚上八点钟后的第一顿拼好饭吃下去，可以开启修真之路。】 【将超市冷藏柜第二层最左边酸奶揭开封膜，用吸管逆时针搅拌七圈后喝第一口，同时左脚单脚站立，可暂时获",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1q0G2ZgOzZkZ7_w3-oF4SOA?pwd=ftbp",
+    downloadUrl: "/books/1508_庄生不晓梦1-129章.txt",
+    sourceUrl: "https://www.deqixs.org/1508/txt.html#dir",
+  },
+{
+    id: 1509,
+    slug: "轮回乐园",
+    title: "轮回乐园",
+    cover: book1509Cover,
+    author: "那一只蚊子",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-4171章",
+    latestChapter: "第500章 3000、1万、5万、10万、30万，兵力达到这六个梯阶，可逐步获得六种增益效果。",
+    excerpt: "苏晓签订轮回契约，进入各个世界执行任务。 他曾目睹一个世界崩灭为尘粒，也曾与被遗忘的王者持刃而战。 暗鸦在低语，黑渊下巨兽咆哮。 欢迎来到，轮回乐园……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lg6rlhmhKHFiHCybhbs3UA?pwd=ftbp",
+    downloadUrl: "/books/1509_轮回乐园1-4171章.txt",
+    sourceUrl: "https://www.deqixs.org/1509/txt.html#dir",
+  },
+{
+    id: 1510,
+    slug: "神秘复苏",
+    title: "神秘复苏",
+    cover: book1510Cover,
+    author: "佛前献花",
+    date: "2026-08-29",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1623章",
+    latestChapter: "第1601章 葬礼",
+    excerpt: "“我叫杨间，当你看到这句话的时候我已经死了......” 一张诡异的羊皮卷，一只窥视黑暗的眼睛，这是一个活下来的人经历的故事。 ——————",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1krsiQpAB3x3TupVcIzHihg?pwd=ftbp",
+    downloadUrl: "/books/1510_神秘复苏1-1623章.txt",
+    sourceUrl: "https://www.deqixs.org/1510/txt.html#dir",
+  },
+{
+    id: 1511,
+    slug: "这个地下城长蘑菇了",
+    title: "这个地下城长蘑菇了",
+    cover: book1511Cover,
+    author: "生吃菌子",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-878章",
+    latestChapter: "第500章 ，人体七大魔力节点模型？",
+    excerpt: "“一团窃来的奇妙灵魂，一份勇者的力量，再加上经典的苦难开局做催化！” “这样一个救世主就……卧槽，蘑菇怎么掉进去了！？” ———— 莫名其妙就转生成蘑菇的林珺，开局就被各路魔物堵死在了地下城深层。 没手没脚没眼睛，全靠着分解尸体掠夺技能的外挂苟活下来。 甚至还在地下城里开辟了一片蘑菇园，打算一点点反向攻略地下城。 一切都是为了有朝一日能重新晒到太阳。 直到那天，上面掉下了个被变成蘑菇的憨憨公爵千金",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LJKMCDKpZNIlFTb1lkPRlA?pwd=ftbp",
+    downloadUrl: "/books/1511_这个地下城长蘑菇了1-878章.txt",
+    sourceUrl: "https://www.deqixs.org/1511/txt.html#dir",
+  },
+{
+    id: 1512,
+    slug: "融合是最高贵的召唤方式",
+    title: "融合是最高贵的召唤方式！",
+    cover: book1512Cover,
+    author: "杯面21",
+    date: "2026-09-07",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-7581章",
+    latestChapter: "第931章 大结局（全书完）",
+    excerpt: "天城光穿越到了一个似是而非的《游戏王GX》决斗学院之中。 这里充斥着认为只有融合召唤才是最高贵召唤方式的极端狂热者，他们试图通过决斗的方法改变其他次元决斗者的思维，迫使他们加入“融合绝对至上”派系。若是不从，就要将人变成卡片，可谓扭曲又疯狂。 天城光看了一下自己卡盒里全套的融合魔法、陷阱卡，沉默良久，欣然认可。 对，太对了。你说的极对。 融合是最高贵的召唤方式！",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1sY1-dmb9swds9jRL8oz5mw?pwd=ftbp",
+    downloadUrl: "/books/1512_融合是最高贵的召唤方式！1-7581章.txt",
+    sourceUrl: "https://www.deqixs.org/1512/txt.html#dir",
+  },
+{
+    id: 1513,
+    slug: "凡人修仙传",
+    title: "凡人修仙传",
+    cover: book1513Cover,
+    author: "忘语",
+    date: "2026-08-31",
+    category: "仙侠",
+    status: "已完结",
+    chapters: "1-2616章",
+    latestChapter: "第2083章 团灭",
+    excerpt: "一个普通山村小子，偶然下进入到当地江湖小门派，成了一名记名弟子。他以这样身份，如何在门派中立足,如何以平庸的资质进入到修仙者的行列，从而笑傲三界之中！ 诸位道友，新版实体书已经上市，有兴趣的可自行购买，感谢支持！",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1tQkFTaXBWAvtiMx0OsGA-g?pwd=ftbp",
+    downloadUrl: "/books/1513_凡人修仙传1-2616章.txt",
+    sourceUrl: "https://www.deqixs.org/1513/txt.html#dir",
+  },
+{
+    id: 1514,
+    slug: "全职高手",
+    title: "全职高手",
+    cover: book1514Cover,
+    author: "蝴蝶蓝",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-5章",
+    latestChapter: "第5章",
+    excerpt: "网游荣耀中被誉为教科书级别的顶尖高手，因为种种原因遭到俱乐部的驱逐，离开职业圈的他寄身于一家网吧成了一个小小的网管，但是，拥有十年游戏经验的他，在荣耀新开的第十区重新投入了游戏，带着对往昔的回忆，和一把未完成的自制武器，开始了重返巅峰之路。 ===================================",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_UMxUGelXRV8HfxEzeQKPg?pwd=ftbp",
+    downloadUrl: "/books/1514_全职高手1-5章.txt",
+    sourceUrl: "https://www.deqixs.org/1514/txt.html#dir",
+  },
+{
+    id: 1515,
+    slug: "1980潮起潮落",
+    title: "1980潮起潮落",
+    cover: book1515Cover,
+    author: "米饭的米",
+    date: "2026-09-07",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-34章",
+    latestChapter: "第33章 鸬鹚鸟群",
+    excerpt: "【语音+手搓，无系统年代文、日常种田、养虫、海边、收获】 1979年是一个春天。 1980年对陈海潮来说也是一个春天。 他积极发展，想改变全家命运，带着大家走出一条不一样的路。 村子里有天然废弃的老盐田，但家庭联产承包制还没推行，他只能先从卖海米攒出第1桶金。 陈海潮看着家里一溜的姐姐们，“你们改个名字吧，现在的名字不好，咱家虽然重男但不轻女。” 陈招娣、陈引娣、陈盼娣、陈思娣四人面面相觑。 陈喜",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_gwzvM29MMh1FZBW5VJl7g?pwd=ftbp",
+    downloadUrl: "/books/1515_1980潮起潮落1-34章.txt",
+    sourceUrl: "https://www.deqixs.org/1515/txt.html#dir",
+  },
+{
+    id: 1516,
+    slug: "饮食男女",
+    title: "饮食男女",
+    cover: book1516Cover,
+    author: "武文弄沫",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-100章",
+    latestChapter: "第96章 歪风邪气",
+    excerpt: "一大爷——后事难断 二大爷——当官吃饭 三大爷——精打细算 秦淮茹——脸蛋好看 何雨柱——打架做饭 娄晓娥——难逃大院 李学武一出现，大爷白干，傻柱都想跟他换一换。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1d_xc_I2gsYpFU86z9BqeIQ?pwd=ftbp",
+    downloadUrl: "/books/1516_饮食男女1-100章.txt",
+    sourceUrl: "https://www.deqixs.org/1516/txt.html#dir",
+  },
+{
+    id: 1517,
+    slug: "仙府",
+    title: "仙府！",
+    cover: book1517Cover,
+    author: "满船轻梦",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-723章",
+    latestChapter: "第700章 第一神通种！【求月票】",
+    excerpt: "【种田流】【凡人流】【经营流】 计缘穿越修仙世界，虽侥幸成了个修仙者，但却也是落了个给修仙宗门当捕鱼人的命。 就这开局，他原以为自己多半只能走上莫欺少年穷，中年穷，老年穷这条路了。 可没曾想，竟意外觉醒一块建筑升级面板。 【鱼塘lv1：鱼苗生长速度+20%，半灵鱼有一定几率进化成灵鱼】 【洞府lv1：墙体自愈，基础避尘结界，夜间灵气浓度+20%】 【鸡圈lv1：灵卵一日一产，蕴含微量灵气，可辟谷】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VLVmwCdjb8A9BAPw8uEn8g?pwd=ftbp",
+    downloadUrl: "/books/1517_仙府！1-723章.txt",
+    sourceUrl: "https://www.deqixs.org/1517/txt.html#dir",
+  },
+{
+    id: 1518,
+    slug: "清都山水郎",
+    title: "清都山水郎",
+    cover: book1518Cover,
+    author: "一世风流才子",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-165章",
+    latestChapter: "第165章 ：请道长前去降妖",
+    excerpt: "我是清都山水郎，天教分付与疏狂。 曾批给雨支风券，累上留云借月章。 ......... 山君是我的坐骑，龙女是我的剑侍，天上神仙是我的客人。 我叫裴山郎，只想逍遥一世，快活人间！ 欢迎大家来我的道场做客！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UiQ7qiRis_yY0buW24PoFA?pwd=ftbp",
+    downloadUrl: "/books/1518_清都山水郎1-165章.txt",
+    sourceUrl: "https://www.deqixs.org/1518/txt.html#dir",
+  },
+{
+    id: 1519,
+    slug: "红楼-我和黛玉互穿了",
+    title: "红楼：我和黛玉互穿了",
+    cover: book1519Cover,
+    author: "喜欢喝豆浆",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-295章",
+    latestChapter: "第291章 狼入羊群",
+    excerpt: "【男频文】、【多女主】、【园子戏】 侯府二公子李宸觉醒前世记忆后，又神奇的与林黛玉互换了身体。 李宸从此扮演林黛玉在荣国府搅风搅雨、享受生活；林黛玉也只好扮演对方发奋读书、求取功名。 若干年的纠缠互换，李宸平步青云，权倾朝野；林黛玉玉体康愈，倒拔垂杨柳…… 薛宝钗内心os：为什么我看林妹妹和镇远侯府二公子都有点喜欢。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gxFhF1pDIFXeCVVj73e-Sw?pwd=ftbp",
+    downloadUrl: "/books/1519_红楼：我和黛玉互穿了1-295章.txt",
+    sourceUrl: "https://www.deqixs.org/1519/txt.html#dir",
+  },
+{
+    id: 1520,
+    slug: "东南亚教父-从金山角收债开始",
+    title: "东南亚教父，从金山角收债开始",
+    cover: book1520Cover,
+    author: "见手青没炒熟",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-276章",
+    latestChapter: "第276章 贺三征的背景",
+    excerpt: "有钱不入金山角，没钱必闯眉公河，东南亚只能有一个人可以呼风唤雨，那就是我霍永孝。 近日，江湖上传出一句话。 霍永孝疯了，他说他要搞一个新金山角，建立合法有序的经商环境。 记者：“霍先生，关于最近的传言，您有什么想说的。” 霍永孝一脸严肃：“旧金山已死，金山角才是未来，遵纪守法才能让市场健康成长。” 记者：“霍先生，您这一生收获无数的荣誉，红木大王、翡翠皇帝、博彩君主、慈善家，时代周刊给您的封面更是",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZAdv7iYEIBoygwhqLbc4zQ?pwd=ftbp",
+    downloadUrl: "/books/1520_东南亚教父，从金山角收债开始1-276章.txt",
+    sourceUrl: "https://www.deqixs.org/1520/txt.html#dir",
+  },
+{
+    id: 1521,
+    slug: "道爷要飞升",
+    title: "道爷要飞升",
+    cover: book1521Cover,
+    author: "裴屠狗",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-904章",
+    latestChapter: "第34章 仙功榜",
+    excerpt: "“弟子黎渊，拜求苍天授箓！” …… …… 已有完本作品《诸界第一因》、《诸天投影》《大道纪》",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1U_7NaDF6vlj2ZqoCrOIadQ?pwd=ftbp",
+    downloadUrl: "/books/1521_道爷要飞升1-904章.txt",
+    sourceUrl: "https://www.deqixs.org/1521/txt.html#dir",
+  },
+{
+    id: 1522,
+    slug: "我-死灵法师-超爱美利坚",
+    title: "我，死灵法师，超爱美利坚",
+    cover: book1522Cover,
+    author: "最爱铁板烧",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-233章",
+    latestChapter: "第230章 骗退本杰明",
+    excerpt: "李察获得死灵法师系统那天，他以为自己会召唤亡灵大军。 结果系统给了他掌握死亡、血肉、欲望的力量。 作为世上唯一的超凡者，李察从不打算拯救，他只想在这个充满贪婪、黑暗、权力与欲望的国度里，安静地登上死亡王座。 ...... “叮！你解剖了一具尸体，【血肉与白骨】学识：50%-&gt;60%。” “叮！你打开了色虐岛屿的加密档案，检阅了恶魔的暴行视频，精神+10，并获得高级精神污染免疫。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pR3BAx-Q1stzv1_koDXEyg?pwd=ftbp",
+    downloadUrl: "/books/1522_我，死灵法师，超爱美利坚1-233章.txt",
+    sourceUrl: "https://www.deqixs.org/1522/txt.html#dir",
+  },
+{
+    id: 1523,
+    slug: "异维囚笼",
+    title: "异维囚笼",
+    cover: book1523Cover,
+    author: "躺摆混",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-461章",
+    latestChapter: "第165章 异常不断",
+    excerpt: "火光渐熄，阴冷的囚室内，夏伦紧张地看着邪祟头目不断抽搐的背影。 下一刻，邪祟头目猛地转过身，手指扣住眼眶，缓缓掀开自己的头盖骨。 “我将赋予你新的见解。” 夏伦大喜过望，连忙拿出眼球中的邪术秘典，也想向对方分享学识。 几秒后，神智破碎的邪祟头目哭嚎着爬出囚室，狂奔出逐渐崩塌于无尽黑暗的拱廊。 .... 省流版： 这是以生命为赌注的死亡游戏，也是追逐禁忌学识的狂徒们的狂欢。 病入膏肓的夏伦，为了治愈",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pparFa2P0nImwmswHNuZDA?pwd=ftbp",
+    downloadUrl: "/books/1523_异维囚笼1-461章.txt",
+    sourceUrl: "https://www.deqixs.org/1523/txt.html#dir",
+  },
+{
+    id: 1524,
+    slug: "鸣龙",
+    title: "鸣龙",
+    cover: book1524Cover,
+    author: "关关公子",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-682章",
+    latestChapter: "第97章 这是你？",
+    excerpt: "“事情是这样的，我当初身陷绝境，意外遇见了一条龙，它非说我是习武奇才，要给我指条通仙大道……” “这就是你挖开魔神陵，给妖魔当奴仆的理由？！” “我谢尽欢从不屈居人下，它才是奴仆，准确来说，我是被一条龙服务过……” …… 已有完本万订《世子很凶》《仙子很凶》《女侠且慢》，感兴趣的朋友可以先看老书~",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1w_YEsKDke_DXtbJaQgWIsg?pwd=ftbp",
+    downloadUrl: "/books/1524_鸣龙1-682章.txt",
+    sourceUrl: "https://www.deqixs.org/1524/txt.html#dir",
+  },
+{
+    id: 1525,
+    slug: "这游戏也太真实了",
+    title: "这游戏也太真实了",
+    cover: book1525Cover,
+    author: "晨星LL",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1133章",
+    latestChapter: "第1073章 每一段冒险都有终点（完结）",
+    excerpt: "这游戏也太真实了叭！ 搬砖、跑腿、捡垃圾、送快递……公司最多能让你体会到996的艰辛，在这里你能体会到超级加倍的007。 好了，不废话了，伟大的管理者大人喊我去搬砖了。 那位大人说了，只要我们努力献上自己的肝，下个月他又能换一套全新的动力甲，到时候带我们开全新的地图，去广阔的废土捡更多的垃圾！ …… 穿越到废土世界的楚光发现，自己解锁了避难所系统，能够从平行世界召唤名为“玩家”的生物。 从那天开始",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1u99Stg4N0moISXRfddvFSQ?pwd=ftbp",
+    downloadUrl: "/books/1525_这游戏也太真实了1-1133章.txt",
+    sourceUrl: "https://www.deqixs.org/1525/txt.html#dir",
+  },
+{
+    id: 1526,
+    slug: "伊塔纪元",
+    title: "伊塔纪元",
+    cover: book1526Cover,
+    author: "虾写",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-996章",
+    latestChapter: "第996章 997、998……",
+    excerpt: "本书为无限缝合流，包含了中恐、西童、三国、公路、求生、丧尸、克苏鲁、星际等元素副本。战斗系统包含了武侠内力、火影查克拉、西式魔力、道家真气、佛门金光、邪神鬼力、美式居合等。 一句话简介：某天，全人类进入伊塔世界，他们在副本中寻找世界的真相，世界在副本中寻找勇者。 一切尽在伊塔世界。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NxcyGx_rXcjfpd7K4mjTHA?pwd=ftbp",
+    downloadUrl: "/books/1526_伊塔纪元1-996章.txt",
+    sourceUrl: "https://www.deqixs.org/1526/txt.html#dir",
+  },
+{
+    id: 1527,
+    slug: "西游-成了方寸山首席",
+    title: "西游：成了方寸山首席",
+    cover: book1527Cover,
+    author: "天地有缺",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-330章",
+    latestChapter: "第327章 临凡，缘由",
+    excerpt: "公元前202年，楚汉相争的血未干，此时距离弼马温出世尚有两百年，距西游八百年，纪成带着宿慧而来，成了长安城中一介普通城卫军士…… 【关键词：纯西游，类蜀山风格，非洪荒，两界流】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HNmtEfVpDeebt_sktpeKng?pwd=ftbp",
+    downloadUrl: "/books/1527_西游：成了方寸山首席1-330章.txt",
+    sourceUrl: "https://www.deqixs.org/1527/txt.html#dir",
+  },
+{
+    id: 1528,
+    slug: "凡人-刚结丹-系统让我小心墨老",
+    title: "凡人：刚结丹，系统让我小心墨老",
+    cover: book1528Cover,
+    author: "炭烧鸡中翅",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-871章",
+    latestChapter: "第870章 宋玉入魔",
+    excerpt: "【少有的凡人修仙精品后宫文，智商在线，稳健谨慎，轻松有趣，值得一看！】 …… 【恭喜宿主年满八岁，凡人修仙养成系统绑定成功！】 陆阳看着眼前的光幕，嘴角抽搐：“八岁？系统，你怕是脑袋被门挤了，我都结丹了能是八岁？” 【任务：墨老居心不仁，意欲夺舍你或师兄韩立，活下去！】 “呵，一个炼气期都摸不到边的渣渣？他夺舍的念头刚冒，本座吹口气就能镇压。” 【任务：拯救张铁沦为傀儡的厄命！】 “张铁倒是可惜了",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1C17Mbl1W0ZBJ7vi3M1bn8g?pwd=ftbp",
+    downloadUrl: "/books/1528_凡人：刚结丹，系统让我小心墨老1-871章.txt",
+    sourceUrl: "https://www.deqixs.org/1528/txt.html#dir",
+  },
+{
+    id: 1529,
+    slug: "重生的我超有追求",
+    title: "重生的我超有追求",
+    cover: book1529Cover,
+    author: "鲸鱼禅师",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-386章",
+    latestChapter: "第363章 五百年前未必是一家",
+    excerpt: "“阿公，大学我就不去念了，还是早点寻事情做吧。” “书哪能不念？做人要有追求，念了大学，就有机会考博士，以后事业上才能更高的追求……” “阿公，我没有啥大追求。早点上班，早点赚钱。” 我叫张大象，是个重生客，现在爷爷让我族谱单开一册……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jdkNw1fr2zo9s2SsfKpkHw?pwd=ftbp",
+    downloadUrl: "/books/1529_重生的我超有追求1-386章.txt",
+    sourceUrl: "https://www.deqixs.org/1529/txt.html#dir",
+  },
+{
+    id: 1530,
+    slug: "重生鉴宝-我真没想当专家",
+    title: "重生鉴宝：我真没想当专家",
+    cover: book1530Cover,
+    author: "眀智",
+    date: "2026-08-28",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-622章",
+    latestChapter: "第622章 破亿，举世第二（补更）",
+    excerpt: "好消息：林思成重生了。 坏消息：重生前，他是国内最年轻的考古学家，文物鉴定、保护及修复等学科带头人。多次荣获国家级科研奖项，并在多家国字头考古研究机构担任顾问。 重生后：学渣一个。 好消息：这一年，南海一号还没有打捞，近十万件宋代精美瓷器还沉在南海海底。 这一年，江口沉银遗址还未发掘，张献忠的金宝、金册，以及十多万件明代珍贵文物还埋在淤泥里。 同样是这一年，铁器文物保护及修复技术还处于空白阶段，被",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OGzWiTndwFowWBUEU_ub-Q?pwd=ftbp",
+    downloadUrl: "/books/1530_重生鉴宝：我真没想当专家1-622章.txt",
+    sourceUrl: "https://www.deqixs.org/1530/txt.html#dir",
+  },
+{
+    id: 1531,
+    slug: "怕死抗什么日",
+    title: "怕死抗什么日",
+    cover: book1531Cover,
+    author: "老左老左",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-247章",
+    latestChapter: "第247章 越打越多？",
+    excerpt: "【淞沪会战+徐州会战+攻略南洋+远征第聂伯河】 共和国向您致意，指挥官阁下，民族战争的序幕已然拉开... 怕死？怕死抗什么日！ 三十八年民国，优势依旧在我。 芒种花园破黄河，长沙浴火焚楼阁，微操弄干戈。 一夜羁岛衰鬓，风烛残年飘零。 最忆那年下野日，总统府上红旗帜。 可怜...小经国。 【上一本抗战：通电全国，出关！质量保证】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EUQw3DGLOnzkrk9HcSjKEg?pwd=ftbp",
+    downloadUrl: "/books/1531_怕死抗什么日1-247章.txt",
+    sourceUrl: "https://www.deqixs.org/1531/txt.html#dir",
+  },
+{
+    id: 1532,
+    slug: "诡秘-罗塞尔-叫我女皇陛下",
+    title: "诡秘：罗塞尔，叫我女皇陛下",
+    cover: book1532Cover,
+    author: "囧囧哟",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-159章",
+    latestChapter: "第10章 三点建议",
+    excerpt: "诡秘之主同人，秩序双途径，罗塞尔时代。 一朝穿越，来到红月高挂、工业萌芽、神秘暗藏的异世界，夏洛特·索伦本以为能凭借贵族的身份和脑袋里的知识大展拳脚，却没想到这个时代的穿越者居然不止自己一个！ 夏洛特：你是穿越者（指着罗塞尔），你也是穿越者（指着“愚者”），你们都是穿越者（指指点点）？ 有人搞发明创造，有人玩神秘社团，还有人把我当成眼中钉、肉中刺？ 难道我只有掀起一场战争，革了王室的命，把国王送上",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ebcvBS3xxTyQCtb3edVY5w?pwd=ftbp",
+    downloadUrl: "/books/1532_诡秘：罗塞尔，叫我女皇陛下1-159章.txt",
+    sourceUrl: "https://www.deqixs.org/1532/txt.html#dir",
+  },
+{
+    id: 1533,
+    slug: "没钱当什么乱臣贼子",
+    title: "没钱当什么乱臣贼子",
+    cover: book1533Cover,
+    author: "最爱睡觉",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-982章",
+    latestChapter: "第982章 南下山东",
+    excerpt: "（高订两万，均订大精品历史文）袭职锦衣卫百户的裴元，才刚刚上任，就不幸在围捕乱贼时，失身于一位江湖侠女。本以为要在屈辱的回忆中度过此生，谁想紧随其后的一宗大案，却为裴百户打开了全新的世界。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OmuXDvty67jowDXMm4tFxQ?pwd=ftbp",
+    downloadUrl: "/books/1533_没钱当什么乱臣贼子1-982章.txt",
+    sourceUrl: "https://www.deqixs.org/1533/txt.html#dir",
+  },
+{
+    id: 1534,
+    slug: "咒术回战-反派第一人",
+    title: "咒术回战：反派第一人",
+    cover: book1534Cover,
+    author: "春雷秋虎",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-268章",
+    latestChapter: "第204章 二重结界",
+    excerpt: "加纳静海看着身旁倒在了血泊之中的数个人影，再看了看面前的四天灾和羂索，用大概一秒钟的时间接受了事实。 bro我好像是有点死了。 “九相图的灵感在于观透尸骨后抵达的空性，那在其之后呢？于不净中预见真如……这便是我所领悟的‘无垢相’。” 等等，你说我是羂索的某个试作品，是九相图之后的某个衍生作？ 喔那是真的牛批，虽然听起来很厉害，但考虑羂索布置下的种种手段，看来这辈子就只能给牢妈当牛做马打工了。 但是",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zDv1NoH4Yl95jxcp8g7NEg?pwd=ftbp",
+    downloadUrl: "/books/1534_咒术回战：反派第一人1-268章.txt",
+    sourceUrl: "https://www.deqixs.org/1534/txt.html#dir",
+  },
+{
+    id: 1535,
+    slug: "食仙主",
+    title: "食仙主",
+    cover: book1535Cover,
+    author: "鹦鹉咬舌",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-976章",
+    latestChapter: "第392章 太子系带，南衙令书",
+    excerpt: "散落大地的神秘奇诡之剑，等待着它们名动天下的剑主。 谁人又能勘悟流传万古的奇术绝经？ 长安百坊间暗藏举火吞日之人，中原坐落着庞大腐朽的千年世家，北境沉默悍战的荒人磨刀霍霍，南方列国之间歌舞升平尔虞我诈…… 而在高远青冥之上，一双笼罩世间的苍目正在缓缓睁开。 裴液抬着头拔出腹中的长剑：“太一真龙仙君……就让我们看看，到底谁是谁的食物吧。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-57V_vqQkijq0n6hb1pKzg?pwd=ftbp",
+    downloadUrl: "/books/1535_食仙主1-976章.txt",
+    sourceUrl: "https://www.deqixs.org/1535/txt.html#dir",
+  },
+{
+    id: 1536,
+    slug: "幽魂骑士王的地下城工程",
+    title: "幽魂骑士王的地下城工程",
+    cover: book1536Cover,
+    author: "深海鱼缸",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-312章",
+    latestChapter: "第309章 【骸心遗物研究安全规定】",
+    excerpt: "【地下城建设运营+异世界探险旅行，双拼，设计元素包括：暗黑地牢/来自深渊/迷宫饭/指环王/Overlord/黑暗之魂】 硬核基地建设与资源管理游戏爱好者夏莫安，被穷途末路的混血魔族塔莉亚·罗诺威召唤，穿越异世界，意外附体在一具古老的诅咒盔甲上，在环境恶劣的地下魔域白手起家，建造最强魔王之城！ 什么？建造地下城很艰难？这里有“异星地下殖民地建设系统”！最先进的科技都与魔法无异，最理性的科学会把魔法纳",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XOMzuNo1g8QUpHoFfcHbbA?pwd=ftbp",
+    downloadUrl: "/books/1536_幽魂骑士王的地下城工程1-312章.txt",
+    sourceUrl: "https://www.deqixs.org/1536/txt.html#dir",
+  },
+{
+    id: 1537,
+    slug: "山河稷",
+    title: "山河稷",
+    cover: book1537Cover,
+    author: "姬叉",
+    date: "2026-08-27",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-826章",
+    latestChapter: "第784章 番外·霜天冻月映寒川（完）",
+    excerpt: "且夫天地为炉兮，造化为工；阴阳为炭兮，万物为铜。 ——终有一天，要让这祭炼世界的炉火，换成属于我的火焰。 ——稷，祀也，社而稷之。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1AXLJnQeaJCCFpXtlewdFOg?pwd=ftbp",
+    downloadUrl: "/books/1537_山河稷1-826章.txt",
+    sourceUrl: "https://www.deqixs.org/1537/txt.html#dir",
+  },
+{
+    id: 1538,
+    slug: "怪物世界",
+    title: "怪物世界",
+    cover: book1538Cover,
+    author: "一刀斩斩斩",
+    date: "2026-09-07",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-751章",
+    latestChapter: "第749章 终局亦是序章（大结局）",
+    excerpt: "万众期待，研发十年的虚拟巨作《黑暗之地》正式公测，但昂贵的准入门槛拦住了无数翘首以盼的玩家。 同一时间，一条诡异的破解版链接在网络流传。 祁胜：免费保真，完整版《黑暗之地》点此下载。 点开链接的刹那，地球玩家被拽入真实的文明战场。 这里是怪物世界。 玩家既是外援，亦是棋子。 浩渺残酷的世界精彩呈现，无数玩家于此崛起。 博弈、征伐、守护、逆袭……属于地球文明的跨维度战争，就此拉开序幕。",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ii0u1f02pSibNnYmYgcSzg?pwd=ftbp",
+    downloadUrl: "/books/1538_怪物世界1-751章.txt",
+    sourceUrl: "https://www.deqixs.org/1538/txt.html#dir",
+  },
+{
+    id: 1539,
+    slug: "美警生存实录-以德服人",
+    title: "美警生存实录：以德服人",
+    cover: book1539Cover,
+    author: "夜叶总差",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-649章",
+    latestChapter: "第647章 下班不积极，思想有问题",
+    excerpt: "【万订美警】【日常】【不虐主】【枪战】【破案】 —— 枪战每一天，自由美利坚！ 警灯一开，悠哉悠哉，一星二星三星四星五星六星七星八星……我们一起奔赴最后的自由！ —— 埃里克将格洛克17死死抵在嫌疑人冷汗直冒的额间，声音低沉如闷雷： “谁说我不懂以德服人？你码惹法克再吭一声试试？”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dDVrVnoW1SHQf6slj1WYpA?pwd=ftbp",
+    downloadUrl: "/books/1539_美警生存实录：以德服人1-649章.txt",
+    sourceUrl: "https://www.deqixs.org/1539/txt.html#dir",
+  },
+{
+    id: 1540,
+    slug: "观山",
+    title: "观山！",
+    cover: book1540Cover,
+    author: "要胖的红烧肉",
+    date: "2026-08-29",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-320章",
+    latestChapter: "第315章 :悠悠而过",
+    excerpt: "【真长生流】+【大时间跨度】 山，是那座山。 人，已非当年的人。 许然获得【长生道果】，自此踏上一场望不见尽头的修行。 他目睹天骄陨落，见证宗门兴衰，曾把酒言欢的同道，终成冢中枯骨。 长生路上，故人皆散，大道独行。 沧海桑田，诸世变迁，唯有他岿然不动，静观那山",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aYHggs5Cuz-uaBfVC5LxAw?pwd=ftbp",
+    downloadUrl: "/books/1540_观山！1-320章.txt",
+    sourceUrl: "https://www.deqixs.org/1540/txt.html#dir",
+  },
+{
+    id: 1541,
+    slug: "长生修仙-从画符开始",
+    title: "长生修仙，从画符开始",
+    cover: book1541Cover,
+    author: "饺子一碗",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-747章",
+    latestChapter: "第742章 五行血煞丹 炼虚之机【求月票】",
+    excerpt: "【高订两万+，均订七千+，大精品凡人流小说，主角已化神，可放心观看】 林长安穿越仙侠世界，成为一名仙门落选的散修。 资质平平，苦修二十载，心灰意冷准备返回凡俗享受人间富贵时，觉醒了熟练度面板。 画符、炼丹、阵法……只要用心勤学苦练，努力必有所成。 一证永证！ 不求惊天逆袭，只求稳稳长生。 他以画符入道，低调苟发育，步步积累修为，不冒无谓之险，不惹无端恩怨。 画灵符、炼符宝、布大阵、修长生道。 炼气",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kTTe_Xd7dwYa7r3gRNNmzw?pwd=ftbp",
+    downloadUrl: "/books/1541_长生修仙，从画符开始1-747章.txt",
+    sourceUrl: "https://www.deqixs.org/1541/txt.html#dir",
+  },
+{
+    id: 1542,
+    slug: "伊塔之柱",
+    title: "伊塔之柱",
+    cover: book1542Cover,
+    author: "绯炎",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1202章",
+    latestChapter: "第455章 桥 XII",
+    excerpt: "欢迎来到艾塔黎亚，浮云之上的国度。 让我们推开门扉，拿起手杖，冒险，将从这里开始—— 穿过云与海的丘陵，如浮浪的草茵，浅河闪亮； 流淌金与蜜的原野，满载欢笑，罗戴尔的矮屋之下，轻歌悠扬。 穿过埃贡恩古老茂林，幽暗之中枝蔓横生，低语萦绕； 越过峻岭与崇山之间，地下世界黑影祟动，危机四伏，宝剑折光。 男孩追逐于梦想的故事，天空与云脊之上，巨龙之影，翱翔展翼。 而时光尘封之后，炉火依旧明亮。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dHiEDIT9ArPeg3MjN2mpVw?pwd=ftbp",
+    downloadUrl: "/books/1542_伊塔之柱1-1202章.txt",
+    sourceUrl: "https://www.deqixs.org/1542/txt.html#dir",
+  },
+{
+    id: 1543,
+    slug: "从武林门派到长生仙门",
+    title: "从武林门派到长生仙门",
+    cover: book1543Cover,
+    author: "任我笑",
+    date: "2026-09-07",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-734章",
+    latestChapter: "第727章 宋归一",
+    excerpt: "“从今日起，你便是清霄门门主！” 师父留下这句话后，就抛弃李清秋与师弟、师妹们下山，独自寻仙去。 也就是这一日，李清秋开启道统传承，他可以通过道统面板查看弟子的忠诚度、资质、命格，当清霄门的发展每上一个台阶时，他还能复制门中弟子的命格。 从武林起势，于红尘中修仙。 江湖草莽如过江之鲫，快意恩仇，庙堂权贵苦求仙道，草菅人命，在动荡岁月里，李清秋带领清霄门一步步往上爬，超脱世俗。 诸天修仙界，道统林立",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aKXfYBKlci-NXRjVxRfb2Q?pwd=ftbp",
+    downloadUrl: "/books/1543_从武林门派到长生仙门1-734章.txt",
+    sourceUrl: "https://www.deqixs.org/1543/txt.html#dir",
+  },
+{
+    id: 1544,
+    slug: "民国-烽火1937",
+    title: "民国：烽火1937",
+    cover: book1544Cover,
+    author: "唯物小丰子",
+    date: "2026-09-13",
+    category: "军事",
+    status: "连载中",
+    chapters: "1-873章",
+    latestChapter: "第873章 总攻开始以及瑶里哗变！",
+    excerpt: "【正面战场+大兵团作战+布局流+兵棋对弈】 “报告！国内战事已经基本平息，小鬼子完蛋了！” 竹石清负手站在巨幅地图之前，抿嘴一笑，抬眸看了眼北面的广阔板块，又低眼盯着东南亚的丰硕土地。 最后，他缓缓开口:“准备登陆！” “登陆?”周遭一愣。 ——“战争还没有停止，我们的旗帜，要插在富仕山头！” 中国不接受投降！",
+    tags: [{ name: "军事", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hB87UYvsviXUF3eMQdDVRg?pwd=ftbp",
+    downloadUrl: "/books/1544_民国：烽火19371-873章.txt",
+    sourceUrl: "https://www.deqixs.org/1544/txt.html#dir",
+  },
+{
+    id: 1545,
+    slug: "以皇帝特权改变这个世界",
+    title: "以皇帝特权改变这个世界",
+    cover: book1545Cover,
+    author: "就吃芹菜",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-562章",
+    latestChapter: "第561章 赛弥斯骑士团",
+    excerpt: "这个世界的每个人都有着属于自己的身份。 【贵族】、【骑士】、【佃农】、【奴隶】…… 在这些身份所带来的神秘加持下，所有人的身份、血脉都被固化了。 【贵族】的孩子是贵族，【奴隶】的孩子是奴隶。 想要完成阶级的跃迁，成为更高的身份者，需要向统治者低下自己的头。 而在数万年的贵族统治下，时代的发展近乎停滞，阶级的桎梏越发牢固。 穿越到这个世界，成为一位小领主的伊恩坚定认为，这个世界已经病了。 于是，伊恩",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jJ_0X-sbJyrUmMrY1WFfbw?pwd=ftbp",
+    downloadUrl: "/books/1545_以皇帝特权改变这个世界1-562章.txt",
+    sourceUrl: "https://www.deqixs.org/1545/txt.html#dir",
+  },
+{
+    id: 1546,
+    slug: "漫威世界的唯一玩家",
+    title: "漫威世界的唯一玩家",
+    cover: book1546Cover,
+    author: "十一只豆丁",
+    date: "2026-09-10",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-467章",
+    latestChapter: "第466章 自然不行，那就只能上科技了",
+    excerpt: "为了千万奖金，杜牧正在通关着一款名为“漫威世界”的大型虚拟游戏。 殊不知在游戏开始时，他已经穿越到了真正的漫威宇宙，成为了这个世界的唯一玩家。 尼克弗瑞：杜牧是个优秀的特工，就是不爱听人话，每次发布任务的时候，他都要跳过 托尼斯塔克：我不造啊，那天我和杜牧组队，回来就只剩下一条内裤了 班纳：我和你恰恰相反，我只有内裤被偷走了，一气之下变身成浩克，当晚就上了各大新闻头条 索尔：杜牧说他已经把正义值刷",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Lu192T5KDjO9KazxC-lt-Q?pwd=ftbp",
+    downloadUrl: "/books/1546_漫威世界的唯一玩家1-467章.txt",
+    sourceUrl: "https://www.deqixs.org/1546/txt.html#dir",
+  },
+{
+    id: 1547,
+    slug: "我的女友来自1949",
+    title: "我的女友来自1949",
+    cover: book1547Cover,
+    author: "刘老实",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-412章",
+    latestChapter: "第411章 完整的现代科技！",
+    excerpt: "民国38年3月，一个即将牺牲在隐蔽战线的女孩出现在了2025年的上海。 林晚：“两条小黄鱼，能在现代换两支盘尼西林吗？” 陈怀安：“如果我捐一吨青霉素，能上城楼观看阅兵吗？”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LpTSeFy1uNRHmwOATw6Y8g?pwd=ftbp",
+    downloadUrl: "/books/1547_我的女友来自19491-412章.txt",
+    sourceUrl: "https://www.deqixs.org/1547/txt.html#dir",
+  },
+{
+    id: 1548,
+    slug: "武侠世界-武道人仙",
+    title: "武侠世界，武道人仙",
+    cover: book1548Cover,
+    author: "太灰金星",
+    date: "2026-09-10",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-153章",
+    latestChapter: "第49章 横推无敌！【9K求月票！】",
+    excerpt: "我叫陆天行，刚刚穿越到神雕世界，掉在古墓门口，被小龙女捡到。 坏消息：穿越时身体变异，无法练出内力。 好消息：变异出了超级自愈，浑身骨折，五脏破裂，都能片刻自愈！ 有这好身体，还练什么软趴趴的内力？ 直接上肉身武道，大铁拳横推八方，轰爆一切啊！ 明劲、暗劲、化劲、抱丹、罡劲、见神不坏…… 炼筋、炼骨、炼脏、炼髓、炼穴窍，武道拳意，粉碎真空！ 酌酒敬武道，狂拳行诸天。逍遥红尘里，历劫为人仙！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10QwC_x0Z6XpxHqY0mGSUPQ?pwd=ftbp",
+    downloadUrl: "/books/1548_武侠世界，武道人仙1-153章.txt",
+    sourceUrl: "https://www.deqixs.org/1548/txt.html#dir",
+  },
+{
+    id: 1549,
+    slug: "领主进化",
+    title: "领主进化",
+    cover: book1549Cover,
+    author: "卷土",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-133章",
+    latestChapter: "第15章 指向奥拉夫的信物！",
+    excerpt: "布满灰尘的破碎屏幕上，闪耀着如下信息： 索尔三号（地球）垦殖域曾种植名单如下： 三叶虫：节肢动物门虫纲碳基作物（已被淘汰） 种植跨度：2.7亿年 淘汰原因：仅能在死亡时产出少许单一熵能。 *** 恐龙：脊索门爬行纲血肉作物（已被淘汰） 种植时间跨度：1.64亿年 淘汰原因：饲养难度中，产出的生物源能贫瘠。 *** 人类：脊索门哺乳纲血肉作物（即将淘汰） 优点：多功能作物、复合型作物，利用维度丰富",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XvNVEvx85aQqJqbM1S3djQ?pwd=ftbp",
+    downloadUrl: "/books/1549_领主进化1-133章.txt",
+    sourceUrl: "https://www.deqixs.org/1549/txt.html#dir",
+  },
+{
+    id: 1550,
+    slug: "说好的民企-空天母舰什么鬼",
+    title: "说好的民企，空天母舰什么鬼",
+    cover: book1550Cover,
+    author: "红酒花",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1634章",
+    latestChapter: "第1134章 真·绝望的联合（2月2400月票）",
+    excerpt: "唐文回到1996年，从魔法造船厂开始祸害全世界。 业务包括但不限于：渔船、观光艇、气垫船、船坞登陆舰、两栖攻击舰、导弹巡洋舰、武库战列舰、航母、核潜艇等。 什么，你问我既然这么逆天，空天母舰能不能造？ 空天母舰也是舰，太空飞船也是船！ 当核聚变引擎的光芒照亮半个地球，小伙伴们纷纷流泪： “这哪是民企，这是魔法吧！”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jD-G-BopM2BkmD1gP_OzzA?pwd=ftbp",
+    downloadUrl: "/books/1550_说好的民企，空天母舰什么鬼1-1634章.txt",
+    sourceUrl: "https://www.deqixs.org/1550/txt.html#dir",
+  },
+{
+    id: 1551,
+    slug: "诡秘-最后一个牧羊人",
+    title: "诡秘：最后一个牧羊人",
+    cover: book1551Cover,
+    author: "日暮途远锦衣夜行",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-997章",
+    latestChapter: "第245章 序列3：三首圣堂",
+    excerpt: "意外穿越，吞下魔药，成为了秘祈人——等待主角卢泽的，究竟是主的恩赐，还是绝望与疯狂？ 卢泽不知，只一味杀杀杀。 “干死极光会，宰了真实造物主，我将成为最后的牧羊人。” 诡秘之主同人，牧羊人途径。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JFzcYAGoGzkj8237OimE9w?pwd=ftbp",
+    downloadUrl: "/books/1551_诡秘：最后一个牧羊人1-997章.txt",
+    sourceUrl: "https://www.deqixs.org/1551/txt.html#dir",
+  },
+{
+    id: 1552,
+    slug: "赛博英雄传",
+    title: "赛博英雄传",
+    cover: book1552Cover,
+    author: "吾道长不孤",
+    date: "2026-08-29",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1251章",
+    latestChapter: "第389章 未能归还的记忆Vol.9",
+    excerpt: "什么是武？ 武功无关琴棋书画，无关宝物秘籍，也没那么多天下第一。武功是技术，一种让弱者窥得机会向强者挥刀的技术。 什么是侠？ 侠义不是风花雪月，不是传统文化，没什么温良恭俭可言。侠义是暴力，是被逼上梁山者为暴君打造的刺刀。 曹沫盟柯，返鲁侵地。专诸进炙，定吴篡位。彰弟哭市，报主涂厕。刎颈申冤，操袖行事。暴秦夺魄，懦夫增气。 这是一个武侠的故事。 30年代，几个志同道合的年轻人走到一起，为了改变世界",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pFxsKJjAJ52-S0h0mpkqoA?pwd=ftbp",
+    downloadUrl: "/books/1552_赛博英雄传1-1251章.txt",
+    sourceUrl: "https://www.deqixs.org/1552/txt.html#dir",
+  },
+{
+    id: 1553,
+    slug: "八十年代渔猎日常",
+    title: "八十年代渔猎日常",
+    cover: book1553Cover,
+    author: "周记的九命病猫",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1428章",
+    latestChapter: "第1425章 ：还是捕鱼过瘾",
+    excerpt: "重生回来李长乐看着心冷的老婆，爱操心的大儿子，缩小版的贴心小儿子。 这一世，混账的他不再好高骛远，脚踏实地撸起袖子干，从此老婆孩子热炕头…… 白天海底溶洞捕捉大青龙，大米鱼，晚上下地笼遇到鱼翻塘、螃蟹搬家，大青蟹、黄油蟹、大青斑…… 撸起袖子干的李长乐发现像开了挂…… 日常，种田淘海，没有装逼打脸，不喜滑走！ 剧情纯属虚构，如有雷同，纯属巧合！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15RkUFG_ebBuN1z4VSQddcw?pwd=ftbp",
+    downloadUrl: "/books/1553_八十年代渔猎日常1-1428章.txt",
+    sourceUrl: "https://www.deqixs.org/1553/txt.html#dir",
+  },
+{
+    id: 1554,
+    slug: "还能保送怪物职业学院",
+    title: "还能保送怪物职业学院？",
+    cover: book1554Cover,
+    author: "鹿人戛",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-819章",
+    latestChapter: "第812章 虚空进化",
+    excerpt: "万物皆有钟摆，符合钟摆频率者，就能得到钟摆力量投影，从而成为职阶者。 职阶者行走于一个个边界之间。 他们的足迹遍布山河湖海，历史神话，虚虚实实，难辨其踪。 大专都没考上的我，被保送去怪物职业学院，成为了一名新人职阶者。 入学后，我在大家一声声天才的称赞中迷失了自己，走上了不归路……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1C2qqN6DEt3l1mAxMwW5RWw?pwd=ftbp",
+    downloadUrl: "/books/1554_还能保送怪物职业学院？1-819章.txt",
+    sourceUrl: "https://www.deqixs.org/1554/txt.html#dir",
+  },
+{
+    id: 1555,
+    slug: "库洛牌的魔法使",
+    title: "库洛牌的魔法使",
+    cover: book1555Cover,
+    author: "愿心不变",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1568章",
+    latestChapter: "第1305章 假如那个孩子来到未来",
+    excerpt: "有这样一个隐藏在世界沉睡的夜晚、赋予人们各种能力的系统争端。 “恭喜您，获得SSS级能力。” 系统的声音异常美妙 只是方然... 猛地把手里的魔导书往地上狠狠一摔！破口大骂！ “我去你妹的库洛牌！老子才不是魔法少女！” “说好的修仙炼体、古武斗气！炼金巫术、魔法异能呢！？” “神他喵无限流酷炫开局，然后获得魔法少女之力啊！”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dwLKNYGmcsm_egBPo477QQ?pwd=ftbp",
+    downloadUrl: "/books/1555_库洛牌的魔法使1-1568章.txt",
+    sourceUrl: "https://www.deqixs.org/1555/txt.html#dir",
+  },
+{
+    id: 1556,
+    slug: "重回1982小渔村",
+    title: "重回1982小渔村",
+    cover: book1556Cover,
+    author: "米饭的米",
+    date: "2026-08-27",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-47878章",
+    latestChapter: "第2024章 番外二十：珍贵的回忆",
+    excerpt: "3万5均定年代赶海文 同名漫剧《重回1982小渔村》8月7号已上线红果！希望大家多多支持！ 【年代文日常，赶海种田，养娃，家长里短，不喜勿入，勿喷！】 还是那个熟悉的小渔村，叶耀东却已经不是年轻时候的他了。 重生回来，他改变全家的命运，让女儿顺利落地降生，拥有两儿一女，发愤图强，靠海吃海，从小船发展到拥有几十艘大船的船队，带领全家过上好日子，幸福美满。",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cL83jDQQDcbaWkXW3HV0yA?pwd=ftbp",
+    downloadUrl: "/books/1556_重回1982小渔村1-47878章.txt",
+    sourceUrl: "https://www.deqixs.org/1556/txt.html#dir",
+  },
+{
+    id: 1557,
+    slug: "修仙界只有妖女了是吗",
+    title: "修仙界只有妖女了是吗",
+    cover: book1557Cover,
+    author: "月下千早",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-583章",
+    latestChapter: "第500章",
+    excerpt: "“你觉得修仙什么最重要？” 多年以后，当已经证道成仙的路长远翻开剑谱，准备书写自己的成仙感悟之时，遇见了这样一个问题。 一息后，路长远提笔写到：“远离妖女。” 于是翻到了第二页。 “仙子和妖女你选哪个当作你的道侣？” 这次一息都不用。 “我都不选，都杀了。” 飘然的仙音从身旁传来，貌美的白裙仙子拿剑指着路长远的脖子：“重写。” 于是路长远提笔重写。 “仙子。” 可惜脖间的剑并未离去。 路长远只好无",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10XsIEjMhajSnOSXxsUo7Cw?pwd=ftbp",
+    downloadUrl: "/books/1557_修仙界只有妖女了是吗1-583章.txt",
+    sourceUrl: "https://www.deqixs.org/1557/txt.html#dir",
+  },
+{
+    id: 1558,
+    slug: "赘婿",
+    title: "赘婿",
+    cover: book1558Cover,
+    author: "愤怒的香蕉",
+    date: "2026-08-31",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1413章",
+    latestChapter: "第1009章 千山暮雪（下）",
+    excerpt: "武朝末年，岁月峥嵘，天下纷乱，金辽相抗，局势动荡，百年屈辱，终于望见结束的第一缕曙光，天祚帝、完颜阿骨打、吴乞买，成吉思汗铁木真、札木合、赤老温、木华黎、博尔忽、博尔术、秦桧、岳飞、李纲、种师道、唐恪、吴敏、耿南仲、张邦昌，忠臣与奸臣的较量，英雄与枭雄的博弈，胡虏南下，百万铁骑叩雁门，江山沦陷，生灵涂炭，一个国家与民族百年的屈辱与抗争，先行者的哭泣、呐喊与悲怆…… 而在这之前一点点，江宁城中，暗流",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Zohj3ZgEOhDHskHjuSWmNg?pwd=ftbp",
+    downloadUrl: "/books/1558_赘婿1-1413章.txt",
+    sourceUrl: "https://www.deqixs.org/1558/txt.html#dir",
+  },
+{
+    id: 1559,
+    slug: "扶摇河山",
+    title: "扶摇河山",
+    cover: book1559Cover,
+    author: "沧海不笑",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1183章",
+    latestChapter: "第1181章 宝药孕阳刚",
+    excerpt: "【万订】【红楼】【质量保证】 转生成为簪缨庶子，生于忧患，起于微末，踏上青云。 混乱的时空，历史走进迷离支路； 无数彪炳史册的英士人杰，湮没在时光的尘埃中； 山河新创，路途扶摇，洗涤旧章； 说什么金玉奇缘，谁为情种，都只为风月情浓； 菱花镜里照娇容，宝剑光寒耀九州； 山河零落风雪尽，立马孤山一世雄。 此系身前身后事，倩谁记去作奇传？",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1YkmCeyp4pxT49UYt72Zd2A?pwd=ftbp",
+    downloadUrl: "/books/1559_扶摇河山1-1183章.txt",
+    sourceUrl: "https://www.deqixs.org/1559/txt.html#dir",
+  },
+{
+    id: 1560,
+    slug: "龙族-从青龙果实开始",
+    title: "龙族：从青龙果实开始",
+    cover: book1560Cover,
+    author: "钱塘君0208",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第134章 远哥混成教父了",
+    excerpt: "吃下青龙果实的林远，意外闯入龙族的世界。 在这里，龙是代表着权与力的巅峰，是带来绝望与毁灭的宿命。 但林远发现了一个惊人的秘密，这些高高在上的龙族，他们的血，竟是唤醒他体内那颗青龙果实的柴薪。 吞噬、复苏、蜕变……他以龙血为食，一步步踏上登神长阶。 直到命定之日到来，遮天蔽日的神龙拨开漫天风雨，垂下耀如日月的金瞳，俯瞰着下方瑟瑟发抖的诸王。 林远满眼错愕：“不是……你们这群长着翅膀的大蜥蜴，也叫龙",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14L1r6skwUbXzK243LILkNw?pwd=ftbp",
+    downloadUrl: "/books/1560_龙族：从青龙果实开始1-135章.txt",
+    sourceUrl: "https://www.deqixs.org/1560/txt.html#dir",
+  },
+{
+    id: 1561,
+    slug: "华娱之摄影系大导",
+    title: "华娱之摄影系大导",
+    cover: book1561Cover,
+    author: "请叫我公子越",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1419章",
+    latestChapter: "第1418章 座山雕，这特么是我的词！",
+    excerpt: "都说这林子大了，什么鸟都有。 北电摄影系出身的吴宸也想看看，这个光怪陆离的电影圈里，究竟都有些什么鸟。 ...... 重回千禧年初，张艺某的《英雄》已然火遍大江南北，华语的大片时代已经降临。 吴宸，北电摄影系“新一代扛把子”，正起步于微末...... “国内导演圈，咱们摄影系才是话事人......”吴宸如是说道。 已有高订破万完本作品，人品保证，可放心阅读！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xrhxExgWWR0qyCD9AtvITQ?pwd=ftbp",
+    downloadUrl: "/books/1561_华娱之摄影系大导1-1419章.txt",
+    sourceUrl: "https://www.deqixs.org/1561/txt.html#dir",
+  },
+{
+    id: 1562,
+    slug: "重燃青葱时代",
+    title: "重燃青葱时代",
+    cover: book1562Cover,
+    author: "蜜汁姬",
+    date: "2026-08-28",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-956章",
+    latestChapter: "第938章 老公~（正文完）",
+    excerpt: "新书《你也是我的未来女友吗？》已发～依旧是校园日常恋爱文～ —————————— 重回2014年的那个夏天，李珞再一次站在人生的岔路口上。 上一世的完整记忆，如同烙印一般，完完整整的封存在脑中的记忆宫殿，任由他随意翻阅。 过目不忘、洞悉未来…… 这一世，他的人生将焕然一新！ 而这一切的改变，都将从明天的中考开始。 但是…… 青梅委屈的抿着嘴，怀里抱着他小时候送的熊猫玩偶。 同桌歪了歪脑袋，恬然的看",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aU6_fEUOoCvyDf2tQEf8qQ?pwd=ftbp",
+    downloadUrl: "/books/1562_重燃青葱时代1-956章.txt",
+    sourceUrl: "https://www.deqixs.org/1562/txt.html#dir",
+  },
+{
+    id: 1563,
+    slug: "华娱-满级导演但歌手出道",
+    title: "华娱：满级导演但歌手出道",
+    cover: book1563Cover,
+    author: "青光辉",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-755章",
+    latestChapter: "第755章 范彬彬专辑发行",
+    excerpt: "暂定双女主，范和高，还有个红颜，王菲 前期歌手，中期歌手和导演结合（第一部电影和歌手事业结合，很多书友都说结合的很好）后期应该主要导演。 重生在98年代的郑辉，带着全能导演的金手指（只为合理生产文娱产品，后面不提） 发现这年代，你不是圈内人也没办法拍电影啊？该怎么办呢？还是先做歌手出道吧。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_SL5ebalFEWx-gQvJaNZzg?pwd=ftbp",
+    downloadUrl: "/books/1563_华娱：满级导演但歌手出道1-755章.txt",
+    sourceUrl: "https://www.deqixs.org/1563/txt.html#dir",
+  },
+{
+    id: 1564,
+    slug: "相国在上",
+    title: "相国在上",
+    cover: book1564Cover,
+    author: "上汤豆苗",
+    date: "2026-08-27",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-834章",
+    latestChapter: "第828章 完本致歉和新书预告",
+    excerpt: "大燕百年盛世之下，暗流汹涌。 薛淮穿越而来，本可倚仗翰林探花之身、清流座师庇护、忠烈父亲遗泽，做个舞文弄墨的富贵闲人。 一次离奇落水后，他被迫卷入诡谲朝局：朝堂贪腐、盐漕黑幕、皇子夺嫡……每一步都是生死棋局。 从翰林笔吏到扬州知府，从盐漕钦差到内阁首辅。 他诛豪强、改税制、收军权、压宗室，执掌天下权柄，勾勒盛世画卷。 最终御座旁设相国位，龙椅前立议政堂。 御笔朱批不过走过场，天子垂拱方为定鼎策。",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cIuNYZwNzuGzoBbsRrepxw?pwd=ftbp",
+    downloadUrl: "/books/1564_相国在上1-834章.txt",
+    sourceUrl: "https://www.deqixs.org/1564/txt.html#dir",
+  },
+{
+    id: 1565,
+    slug: "帝皇在上",
+    title: "帝皇在上",
+    cover: book1565Cover,
+    author: "滚不开",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-819章",
+    latestChapter: "第817章 赞美罐头！",
+    excerpt: "【集权】+【黄皮子青春版】 罗德穿越剑与魔法异世界。 成为奥尔德林伯爵次子。 这个世界异族林立，高地的蛮族、御兽的荒原人，甚至还有精灵、矮人、兽人和巨龙！ 在历经文明更迭的大陆中，危险与机遇并存！ 罗德从蛮族环伺的海港小镇分封起家。 他激活游戏插件。 养成自身、获得能力、检视万物！ 同时开启多重小地图视野。 地图模式：矿藏、遗迹手到擒来，英雄和宝物也尽入彀中。 俯瞰模式：“长弓方阵向后退两百步！山",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BSAG7v36fzNLqNTYij0umQ?pwd=ftbp",
+    downloadUrl: "/books/1565_帝皇在上1-819章.txt",
+    sourceUrl: "https://www.deqixs.org/1565/txt.html#dir",
+  },
+{
+    id: 1566,
+    slug: "第四天灾就没有正常的",
+    title: "第四天灾就没有正常的",
+    cover: book1566Cover,
+    author: "中二的毒牙",
+    date: "2026-09-13",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-550章",
+    latestChapter: "第547章 幸存者",
+    excerpt: "岳不群喟然长叹：“你就算是走剑宗的路子也好啊，可是你这……” 俞莲舟痛心疾首：“早知道你会如此，我就将虎爪绝户手传给你了。” 丘处机无可奈何：“孽障！你……你……唉！为师还是帮你去师叔那里讨要《九阴真经》吧。” 九叔扶额摇头：“这本是《炼尸法》，这本是《太阴炼形术》，你别搞你那些破玩意儿了，我怕哪天祖师爷下凡清理门户，连我也一并清理了。” （PS：本书不提供大脑寄存处，看这本书用不上那玩意儿，直接",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16zK1x_zxQtz1AXQq1zSOWA?pwd=ftbp",
+    downloadUrl: "/books/1566_第四天灾就没有正常的1-550章.txt",
+    sourceUrl: "https://www.deqixs.org/1566/txt.html#dir",
+  },
+{
+    id: 1567,
+    slug: "怪谈-我的同学是富江",
+    title: "怪谈：我的同学是富江",
+    cover: book1567Cover,
+    author: "永世之旅人",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-126章",
+    latestChapter: "第89章 笑般若杀人事件",
+    excerpt: "恐怖电影爱好者许东阳被扔到了1987年的日本，成为了长相帅气的东京帅哥。 不出意外的话，他马上就要开始玫瑰色的青春生活了。 唯一的问题是，他有个同学叫川上富江，而他正是原著参与分尸富江的同学之一。 除此之外，他的邻居是一个叫做伽椰子的阴郁系女孩。 同桌则是名叫山村贞子的转校生。 他陷入了沉思。 嘻嘻，我一定要活下去呀！ （悬疑怪谈向，非桃子文注意）",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ki0j9_Vs3yTFq8r-ckBfuQ?pwd=ftbp",
+    downloadUrl: "/books/1567_怪谈：我的同学是富江1-126章.txt",
+    sourceUrl: "https://www.deqixs.org/1567/txt.html#dir",
+  },
+{
+    id: 1568,
+    slug: "我有一本任务日志",
+    title: "我有一本任务日志",
+    cover: book1568Cover,
+    author: "底栖咸鱼",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-714章",
+    latestChapter: "第705章 任务的安排",
+    excerpt: "【奇幻世界】【慢热】【伪dnd】【板甲法师】【任务冒险】 柯林穿越到存在剑与魔法的奇幻世界。 坏消息：他穿到了一个在贫民窟连房租都交不起的底层冒险者身上。 好消息：和他一起过来的还有一本任务日志，【只要能完成他人给予的任务，就能获得奖励，任务越难，奖励越多】。 “下水道里又多了几只老鼠，小子，你去不去？” “该死，下水道里为什么有条一米五高的大蛞蝓啊？” 任务等级【凡夫俗子】，奖励：戏法：“剑刃防",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1A0K4GFz45OohbxDtHwYDXg?pwd=ftbp",
+    downloadUrl: "/books/1568_我有一本任务日志1-714章.txt",
+    sourceUrl: "https://www.deqixs.org/1568/txt.html#dir",
+  },
+{
+    id: 1569,
+    slug: "狗头人的巫师日志",
+    title: "狗头人的巫师日志",
+    cover: book1569Cover,
+    author: "立寸山",
+    date: "2026-09-10",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-1059章",
+    latestChapter: "第1059章 等待与抛弃",
+    excerpt: "鲁格闷闷不乐。 他发现自己最近有点掉毛。 但那不重要。 超凡世界的大门正向他敞开。 他要成为强大的巫师，然后让自己长满鳞片，就像那恼人的令人恐惧的二十八爪钻地龙一样。 他闲暇之余也时常做梦，梦到自己不再狗头狗脸，而是变回那个清爽的人类。 他也常想着，让自己快秃毛的额头，钻出属于高等恶魔种的那种细长扭曲的弯角。 但那并不比长出鳞片简单多少。 那传说中的巨龙和强大的恶魔种，在成年后会拥有一个天然人类形",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PLSTGifhh8YGqoBtEAA6gA?pwd=ftbp",
+    downloadUrl: "/books/1569_狗头人的巫师日志1-1059章.txt",
+    sourceUrl: "https://www.deqixs.org/1569/txt.html#dir",
+  },
+{
+    id: 1570,
+    slug: "激荡1979",
+    title: "激荡1979！",
+    cover: book1570Cover,
+    author: "泥白佛",
+    date: "2026-08-30",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-720章",
+    latestChapter: "第713章 老魏，你咋这好命！",
+    excerpt: "这个文豪不一般！ 戴名表，开豪车，住大宅，和多个女明星关系密切。 他不仅承包了一代人的童年，更是承包了几代人的童年女神。 你问他为什么这么勇？ 魏明：80年的时候我就已经赚外汇了，一个人对外输出的文化约等于整个当代文坛。 老子写了一辈子小说，还不能享受享受了！ ………… （已有万订华娱文《导演的快乐你不懂》350万字，量大管饱，欢迎上车！）",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1oosFVZRJR0U2jWbPvmDR8w?pwd=ftbp",
+    downloadUrl: "/books/1570_激荡1979！1-720章.txt",
+    sourceUrl: "https://www.deqixs.org/1570/txt.html#dir",
+  },
+{
+    id: 1571,
+    slug: "发薪就能变强-我有十亿员工",
+    title: "发薪就能变强，我有十亿员工！",
+    cover: book1571Cover,
+    author: "今月曾经照古河",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1212章",
+    latestChapter: "第1211章 完本感言",
+    excerpt: "重回2010年，陈延森觉醒了【薪火成神系统】，员工越多、工资越高，薪火积累越快，能力就越强！ 精神+10，激活【过目成诵】，书山学海，一目纳之！ 体质+10，激活【犀皮虎骨】，水火不侵，刀枪不入！ …… 多年以后，坐拥数亿员工的陈延森表示：“修仙竟如此简单？” 本书又名《人在都市，加点成神》、《银河系第一BOSS》、《我给你发工资，你助我修行》、《逼我成仙是吧》。 【系统+重生+搞钱+进化流】 【",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hZeHYpbQImlM5qEenOXGjQ?pwd=ftbp",
+    downloadUrl: "/books/1571_发薪就能变强，我有十亿员工！1-1212章.txt",
+    sourceUrl: "https://www.deqixs.org/1571/txt.html#dir",
+  },
+{
+    id: 1572,
+    slug: "我一个三金导演十项全能很合理吧",
+    title: "我一个三金导演十项全能很合理吧",
+    cover: book1572Cover,
+    author: "冥夜冷月",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-769章",
+    latestChapter: "第768章 身价再涨百亿！超级投资大师！吕睿：一个月后，我真回国了……",
+    excerpt: "因拍无脑短剧而重生的吕睿回到了01年，身上还携带着一个【十项全能大导演】系统！ 目标：走上人生巅峰！ 可系统却不按常理出牌！ 开局任务是汉化好莱坞电影？ 奖励是好莱坞导演们的各种导演技巧？ 诱惑力直线拉满！ 干！ 干的就是汉化！ 干的就是导演！ 干的就是文抄！ …… 老师在拍《不要和陌生人说话》？ 吕睿：“化个缘，借我用下你们剧组的人手呗？” 《消失的爱人》横空出世！ 【奖励：大卫·芬奇的手稿图绘",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yNyypeE6XCsvMsx3EajaYw?pwd=ftbp",
+    downloadUrl: "/books/1572_我一个三金导演十项全能很合理吧1-769章.txt",
+    sourceUrl: "https://www.deqixs.org/1572/txt.html#dir",
+  },
+{
+    id: 1573,
+    slug: "重生港娱-我把电影拍成了神话",
+    title: "重生港娱：我把电影拍成了神话",
+    cover: book1573Cover,
+    author: "平康坊大和尚",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-125章",
+    latestChapter: "第125章 刀爪弗莱迪",
+    excerpt: "上一世，灵气复苏，银幕中的神魔降临人间。 雷神高举战锤，西方诸神跨海而来。 珠港沦陷那夜，落魄片商陆景辉被压在戏院废墟下，一卷废旧胶片突然倒转，那位熟悉的茅山道长从废旧银幕中冲出，他回头咧嘴一笑，扶正镜框，摇响最后一声铜铃，独自迎向满城邪神。 再次睁眼，他回到了上世纪八十年代的珠港。 此时的珠港电影正值黄金年代，却没人知道： 电影是这个时代最大的庙宇，银幕是神像，票房是香火，亿万观众的记忆，足以让",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1We3_l_MfCDsjgD_vGByeVg?pwd=ftbp",
+    downloadUrl: "/books/1573_重生港娱：我把电影拍成了神话1-125章.txt",
+    sourceUrl: "https://www.deqixs.org/1573/txt.html#dir",
+  },
+{
+    id: 1574,
+    slug: "华娱-天仙的无耻小师弟",
+    title: "华娱：天仙的无耻小师弟",
+    cover: book1574Cover,
+    author: "酒香不浓",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-360章",
+    latestChapter: "第274章 陈涛躺赢局",
+    excerpt: "【留存贼高，多点耐心，都市留存榜前20，留存总榜前60，看过的基本说好】【五盟】 2009年开局，带领小刘冲出封杀局面。 从此娱乐圈多了一位“仙总”。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1R8lfiriO7XXXfZDTpm78fw?pwd=ftbp",
+    downloadUrl: "/books/1574_华娱：天仙的无耻小师弟1-360章.txt",
+    sourceUrl: "https://www.deqixs.org/1574/txt.html#dir",
+  },
+{
+    id: 1575,
+    slug: "超神机械师",
+    title: "超神机械师",
+    cover: book1575Cover,
+    author: "齐佩甲",
+    date: "2026-09-08",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1081章",
+    latestChapter: "第1069章 当众表白与会长问题",
+    excerpt: "韩萧，《星海》骨灰级代练，被来自东（zuo）方(zhe)的神秘力量扔进穿越大军，携带玩家面板变成NPC，回到《星海》公测之前，毅然选择难度最高的机械系。 战舰列队纵横星海，星辰机甲夭矫如龙，幽能炮毁天灭地，还有无边无际的机械大军，静静待在随身仓库里 一人，即是军团！ 如果不是玩家出现，本书就是正经严肃的穿越异界题材…… 作为NPC，正常NPC对玩家功能一应俱全……发布任务？好感度调节？传授技能？",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1bXER74D4m-Cfy5H2jGMoBQ?pwd=ftbp",
+    downloadUrl: "/books/1575_超神机械师1-1081章.txt",
+    sourceUrl: "https://www.deqixs.org/1575/txt.html#dir",
+  },
+{
+    id: 1576,
+    slug: "末世第一狠人",
+    title: "末世第一狠人",
+    cover: book1576Cover,
+    author: "差不多了",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1827章",
+    latestChapter: "第1331章 这事没那么简单",
+    excerpt: "【截至400万字，高定44500，均订7000，故事线完整，放心入坑，不会太监！】 一觉醒来丧尸病毒爆发，全球沦陷人类文明分崩，作为幸存者，活下去是唯一渴求！ 问：末世怎样才能活下去？ 答：首先要狠！ 【非重生】【轻系统】【丧尸】【末世生存】【杀伐果断】【不圣母】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12O9SGFrKAz4AAXnU6KQhQg?pwd=ftbp",
+    downloadUrl: "/books/1576_末世第一狠人1-1827章.txt",
+    sourceUrl: "https://www.deqixs.org/1576/txt.html#dir",
+  },
+{
+    id: 1577,
+    slug: "一世之尊",
+    title: "一世之尊",
+    cover: book1577Cover,
+    author: "爱潜水的乌贼",
+    date: "2026-08-30",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1445章",
+    latestChapter: "第401章 绝刀烙印",
+    excerpt: "我这一生，不问前尘，不求来世，只轰轰烈烈，快意恩仇，败尽各族英杰，傲笑六道神魔！ 万年之后，大劫再启，如来金身，元始道体，孰强孰弱，如来神掌，截天七式，谁领风骚？ 轮回之中，孟奇自少林寺开始了自己“纵横一生，谁能相抗”的历程。",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1d2s1oCiDXeOh3ENwEL5JsA?pwd=ftbp",
+    downloadUrl: "/books/1577_一世之尊1-1445章.txt",
+    sourceUrl: "https://www.deqixs.org/1577/txt.html#dir",
+  },
+{
+    id: 1578,
+    slug: "导演-从混学分开始到影坛传奇",
+    title: "导演：从混学分开始到影坛传奇",
+    cover: book1578Cover,
+    author: "豆豉回锅肉",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-268章",
+    latestChapter: "第267章 《星球大战》",
+    excerpt: "手握未来影视库的陈泽，原本的目的是想当个导演，把那些好电影都给拍出来。 结果，他发现，他要面对的第一个问题不是怎么把电影拍出来，而是因为学分不够，他快被学校退学了。 于是，在认识了安妮·海瑟薇之后，他突发奇想，不如直接拍部电影保学分，顺便将安妮忽悠过来给自己当女主。 就这样，陈泽开始了他的传奇之路，从奥斯卡到欧洲三大，一边拿奖的同时，一边又在商业上大获成功。 多年后，在一场盛大的颁奖典礼现场，主持",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VK4LC1K__G7eGHSXVAEXTw?pwd=ftbp",
+    downloadUrl: "/books/1578_导演：从混学分开始到影坛传奇1-268章.txt",
+    sourceUrl: "https://www.deqixs.org/1578/txt.html#dir",
+  },
+{
+    id: 1579,
+    slug: "火影-融合万界角色模板",
+    title: "火影：融合万界角色模板",
+    cover: book1579Cover,
+    author: "宝石对影",
+    date: "2026-09-06",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-267章",
+    latestChapter: "第266章 纲手怀孕（大结局）",
+    excerpt: "穿越木叶，成为漩涡玖辛奈同学的夏木，觉醒了一个名为万界之主的系统。 只要完成特定的条件，他就可以融合来自于诸天万界的角色模板。 柯南、路飞、灶门炭治郎、漩涡鸣人、上条当麻、卫宫士郎、犬夜叉、五条悟和蓝染等等。 当所有的角色模板齐聚一身，忍界迎来了它最严厉的父亲。 “纲手，我才是火影！” “大蛇丸，想要长生吗？我教你。” “大筒木辉夜，你被捕了！” “六道仙人，你先前叫我名字，我不挑你理，现在该叫我",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/18qEJsJJAQ6O3IV0GNyMR2A?pwd=ftbp",
+    downloadUrl: "/books/1579_火影：融合万界角色模板1-267章.txt",
+    sourceUrl: "https://www.deqixs.org/1579/txt.html#dir",
+  },
+{
+    id: 1580,
+    slug: "魔修也要上班打卡吗",
+    title: "魔修也要上班打卡吗？",
+    cover: book1580Cover,
+    author: "桃咕",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-378章",
+    latestChapter: "第378章 大明星",
+    excerpt: "在这个科技发达，公司掌握世间命脉的世界，莫闻道费尽心机终于成为其中一员。 他本以为魔道至高境界，便是欺世盗名，借正派之名，行魔道之事。 然而， 对穷人过敏的上司，总想着另立山头的大师姐，还有没完没了的办公室斗争…… “师弟，公司的形象宣传方案你再研究一下。” 看着消息，莫闻道不禁陷入沉思。 啊？ 魔修也要上班的吗？ （无敌流，轻松向，赛博朋克） （已有万订、大精品完结作品，无TJ记录，全年无休，可",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19Yf87BNL0-KJI5w59Gsltw?pwd=ftbp",
+    downloadUrl: "/books/1580_魔修也要上班打卡吗？1-378章.txt",
+    sourceUrl: "https://www.deqixs.org/1580/txt.html#dir",
+  },
+{
+    id: 1581,
+    slug: "人在箱庭-我真没想当上帝",
+    title: "人在箱庭，我真没想当上帝",
+    cover: book1581Cover,
+    author: "安静地发咸",
+    date: "2026-09-10",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-412章",
+    latestChapter: "第410章 ：深渊有限责任公司开始上市招投啦",
+    excerpt: "穿越了，但是不知道为什么苏念总感觉自己穿越的世界是不是有那么一些不对劲？ 落地箱庭？但是这给我搁那里来了？ 什么叫做万圣节女王才被召唤出来？ 什么叫做孙悟空都还没有大闹天宫？才学艺归来？ 什么叫做反乌托邦还在发育之中？ 第一次太阳主权战争还没开打？甚至就连模拟创星图都还存在于设计之中？ 这给我送哪里来了？ 落地精灵使的剑舞？但是这男主谁有给我换成了女主？ 不过还真别说，这莲·阿修贝尔确实香。 约会",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JSP5iL7UUDszgp7jsau32g?pwd=ftbp",
+    downloadUrl: "/books/1581_人在箱庭，我真没想当上帝1-412章.txt",
+    sourceUrl: "https://www.deqixs.org/1581/txt.html#dir",
+  },
+{
+    id: 1582,
+    slug: "大不列颠之影",
+    title: "大不列颠之影",
+    cover: book1582Cover,
+    author: "趋时",
+    date: "2026-08-31",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1102章",
+    latestChapter: "第387章 居住于苏格兰场的亚瑟王（6K4）",
+    excerpt: "“接下来有请最高贵的嘉德勋章、圣米迦勒及圣乔治大十字骑士勋章、巴斯大十字骑士勋章、维多利亚十字勋章及下级勋位爵士勋章获得者，反殖民事业的领导者，东印度公司的敲钟人，克里米亚战争的英雄，皇家学会院士，狄更斯、大仲马等大文豪的终生挚友，法拉第、达尔文等科学明星的坚定支持者，历任大不列颠及爱尔兰联合王国内务部、海军部等部门助理次官、次官次长及常任次长、王国首任内阁秘书长及文官长，本校的首批毕业生及历史上",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jebJ5mN72J5Vjl21dX9wpg?pwd=ftbp",
+    downloadUrl: "/books/1582_大不列颠之影1-1102章.txt",
+    sourceUrl: "https://www.deqixs.org/1582/txt.html#dir",
+  },
+{
+    id: 1583,
+    slug: "这是我们的战锤之旅",
+    title: "这是我们的战锤之旅",
+    cover: book1583Cover,
+    author: "褪色无忧",
+    date: "2026-08-30",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-593章",
+    latestChapter: "第590章 有没有一种可能，黄老汉真的很尊重儿子们？",
+    excerpt: "(已有起点完结精品，放心阅读) 这是一个黑暗绝望的时代。 在黑暗的第四十一个千年，帝皇早已远离人世，神之子嗣不再行走人间。 人类的未来只剩下了无边无际的黑暗与战火，人类的命运似乎注定要在那臃肿僵化的帝国上慢慢腐烂。 直到那来自另一个世界的灵魂们到来。 “伙计们，有一个好消息一个坏消息，你们要先听哪一个？” “好消息吧。” “好消息是我们穿越了，这是一个浩瀚的星际时代，而我们是有着两心三肺，地位崇高",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/108MrRQiMEWwOn70ksoN0LQ?pwd=ftbp",
+    downloadUrl: "/books/1583_这是我们的战锤之旅1-593章.txt",
+    sourceUrl: "https://www.deqixs.org/1583/txt.html#dir",
+  },
+{
+    id: 1584,
+    slug: "长生了-然后呢",
+    title: "长生了，然后呢？",
+    cover: book1584Cover,
+    author: "拏云入梦",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-206章",
+    latestChapter: "第203章 凌虚境的手段？",
+    excerpt: "长生是囚笼，沈归被困了太久。 他踏过最高的山，斩过最强的妖，经历过王朝更迭，也见过故友化为黄土一抔。 天下无敌，也天下无事。直到他慢下步子，开始看那些不起眼的人间。 大疫之年，一县染病，县令率全城封门自锁，临死在城头立碑十字：[此处无人活，过境不必祭]，沈归路过上了三根香，此后碑前香火从未断过。 边军断后，五百人守关，援军到时关口已破，五百人全死，长矛拄地，尸身不倒，面朝京都。 ... 沈归只是路",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1T1BUX-2rRbHcDO9YmXDrog?pwd=ftbp",
+    downloadUrl: "/books/1584_长生了，然后呢？1-206章.txt",
+    sourceUrl: "https://www.deqixs.org/1584/txt.html#dir",
+  },
+{
+    id: 1585,
+    slug: "我家夫人全是大反派",
+    title: "我家夫人全是大反派",
+    cover: book1585Cover,
+    author: "海缸",
+    date: "2026-08-27",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-568章",
+    latestChapter: "第568章 脱龙袍！睡女帝！",
+    excerpt: "夫人弑兄夺位，整天想着御驾亲征，率无敌铁骑踏平天下！ 小妾锦衣卫指挥使，心狠手辣，杀人不眨眼，文武百官闻风丧胆。 红颜知己乃威震天下青面罗刹大将军，每次出征，皆是杀得人头滚滚，血流成河。 …… 我说，我是好人，你们信吗？ 女帝：夫君！敌方势大，赶紧过来干他丫的！ 苏陌叹了口气，周身黑气弥漫，巨大的魔蛛法相浮现身后，挥手间，恐怖血云滚荡而出，铺天盖地…… （八千均大精品，纯手搓无ai，长跑型选手，从",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1bWJN3DIYJKfuGjzIscnG6Q?pwd=ftbp",
+    downloadUrl: "/books/1585_我家夫人全是大反派1-568章.txt",
+    sourceUrl: "https://www.deqixs.org/1585/txt.html#dir",
+  },
+{
+    id: 1586,
+    slug: "我在噩梦世界建立安全区",
+    title: "我在噩梦世界建立安全区",
+    cover: book1586Cover,
+    author: "笔墨纸键",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-296章",
+    latestChapter: "第296章 我，安全区一小小先锋罢了（4K）",
+    excerpt: "噩梦笼罩世界，诡异、灾祸丛生，不论普通人、强者，亦或是高高在上的大人物，皆只能在噩梦中挣扎。 时安踏入噩梦的深海，张开双臂，四周的灰暗退去，缤纷的色彩滋生。 “噩梦？哪有什么噩梦。” “欢迎来到安全区。” …… 若干年后，当外族人依然在噩梦中挣扎时，蓝星人却频频深入噩梦。 “噩梦？” “进噩梦就像回家一样，这里好吃好喝，又有训练场，疗养室，炼狱食堂，大家说话也好听，我超喜欢这里的。”",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OfXcbm6Kr2GcZPVkGRk_TA?pwd=ftbp",
+    downloadUrl: "/books/1586_我在噩梦世界建立安全区1-296章.txt",
+    sourceUrl: "https://www.deqixs.org/1586/txt.html#dir",
+  },
+{
+    id: 1587,
+    slug: "人生副本游戏",
+    title: "人生副本游戏",
+    cover: book1587Cover,
+    author: "我爱小依",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1953章",
+    latestChapter: "第1953章 穷小子（大章求月票）",
+    excerpt: "【你觉得人生无趣吗？】 【你想要体验一下另一个世界的不同人生吗？】 【我们有富豪，杀手，猎人，乞丐，无数种随机身份供你体验。】 【要现在开始游戏吗？】 【Yes】【No】 可笑，我一个遵纪守法的好人，怎么就会觉得人生无趣了？ 何奥冷笑一声，选择了【Yes】 【正在初始化系统···】 【正在载入游戏。】 【欢迎来到人生副本游戏】 【新手任务载入中，正在为您随机匹配人生角色。】 【匹配成功】 —— 这",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1IvsG4smkGVfXPZxr_z-qaA?pwd=ftbp",
+    downloadUrl: "/books/1587_人生副本游戏1-1953章.txt",
+    sourceUrl: "https://www.deqixs.org/1587/txt.html#dir",
+  },
+{
+    id: 1588,
+    slug: "渔猎八一-从近海到远洋",
+    title: "渔猎八一，从近海到远洋",
+    cover: book1588Cover,
+    author: "绑疯绳",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-512章",
+    latestChapter: "第465章 海上寻凶",
+    excerpt: "人生重来一次，那就活出不一样，石海龙冷静思考之后，知道一步先步步先，才不会被时代大潮抛下。 他开始挖宝第一桶金，买第一艘渔船，做第一个地笼网，深海挖鲍，大洋捕蟹……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1oTX9bZo0WnPTZX8WzxZeGA?pwd=ftbp",
+    downloadUrl: "/books/1588_渔猎八一，从近海到远洋1-512章.txt",
+    sourceUrl: "https://www.deqixs.org/1588/txt.html#dir",
+  },
+{
+    id: 1589,
+    slug: "噬恶演武-诸天除魔",
+    title: "噬恶演武，诸天除魔",
+    cover: book1589Cover,
+    author: "温茶米酒",
+    date: "2026-09-12",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1047章",
+    latestChapter: "第14章 黑风一紧飞仙针，地龙出山庙算神",
+    excerpt: "“符纸木剑经书，纯古法的驱邪，现在已经不吃香了，就算术士出门，都得带个二百斤的香炉防身，你不练武，抡都抡不起来。 有道是，宁可十年不画符，必须先练硬气功！” “可是，练武跟驱邪，能专业对口吗？” “呵呵，你到四面八方去打听打听，谁人敢说比我更专业？ 没有人~比我~~更懂驱邪！” 早年的楚天舒，还不知自己以后会有多狂野，老实吃药养生，偶尔扎死几只脏东西，盘算下一单多赚点。 直到他唤醒一块令牌。 枪炮",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yXQhmcAfwnkTfZdP47QuUg?pwd=ftbp",
+    downloadUrl: "/books/1589_噬恶演武，诸天除魔1-1047章.txt",
+    sourceUrl: "https://www.deqixs.org/1589/txt.html#dir",
+  },
+{
+    id: 1590,
+    slug: "太虚至尊",
+    title: "太虚至尊",
+    cover: book1590Cover,
+    author: "苍天霸主",
+    date: "2026-08-27",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2469章",
+    latestChapter: "第2469章 不甘",
+    excerpt: "（又名《玄灵天帝》方辰） ”江凡，我后悔了！“ 当许怡宁发现，自己宁死不嫁的窝囊未婚夫，娶了姐姐，将她培养成一代女帝时，她后悔了。 如果时间可以重来，她一定不会任性的让姐姐替嫁！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1YQmP7kcMNu7X8vu_FyP1QA?pwd=ftbp",
+    downloadUrl: "/books/1590_太虚至尊1-2469章.txt",
+    sourceUrl: "https://www.deqixs.org/1590/txt.html#dir",
+  },
+{
+    id: 1591,
+    slug: "精灵族的修仙者",
+    title: "精灵族的修仙者",
+    cover: book1591Cover,
+    author: "左手打右脑",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-438章",
+    latestChapter: "第436章 晋升化神，神游太虚",
+    excerpt: "安东发现自己穿越到了游戏《晨曦纪年录》里，成了精灵族的一员。 好消息：长生种，寿命悠久。 坏消息：这片大陆在未来数万年里，将经历血与火的动荡——龙神陨落、万族争霸、亡灵天灾、诸神崛起……稍有不慎就是小命不保。 好在他随身带着一枚大道玉简，里头藏着浩如烟海的修仙传承。 为了活命，安东只能踏上修仙之路。 从此，精灵族多了一位画风清奇的修仙者。 符箓、道兵、炼丹、炼器、布阵......在来自修仙界的大道",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ATwtr7HmxLi8Jtkx9l56OQ?pwd=ftbp",
+    downloadUrl: "/books/1591_精灵族的修仙者1-438章.txt",
+    sourceUrl: "https://www.deqixs.org/1591/txt.html#dir",
+  },
+{
+    id: 1592,
+    slug: "没人比我更懂救大明",
+    title: "没人比我更懂救大明",
+    cover: book1592Cover,
+    author: "小兵王2",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-367章",
+    latestChapter: "第366章 :干旱时代即将结束与蒸汽朋克时代开启",
+    excerpt: "崇祯日记 泰昌元年，当一个月皇帝就花300万，废除矿税，召回镇守太监，崇祯这倒霉孩子学谁，我终于知道了。 天启三年，皇兄一年花上千万元，东林党太贵用不起。 崇祯元年，大明可以亡，但野猪皮一定要死 崇祯三年，为了救大明，内阁四大学士，朕罢免了三位，六部尚书朕罢免了五位，朝堂官员朕清洗了三分之一。 崇祯六年，为了朝廷大局，苦一苦你们北方士绅，去南洋开拓了。 崇祯十二年，朕的舰队又发现了南洲，只能苦一苦",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Si3Cx1ewJCliR1y61EisIw?pwd=ftbp",
+    downloadUrl: "/books/1592_没人比我更懂救大明1-367章.txt",
+    sourceUrl: "https://www.deqixs.org/1592/txt.html#dir",
+  },
+{
+    id: 1593,
+    slug: "勇者可以不活-但不能没活",
+    title: "勇者可以不活，但不能没活",
+    cover: book1593Cover,
+    author: "Tokyo哥斯拉",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-622章",
+    latestChapter: "第275章 我的妈妈雨宫宁宁（上）",
+    excerpt: "“是的，勇者就是我杀的，只是工作而已，不要提什么魔族入侵，与我无关。你们世界的问题自己解决....” 1458年，世界末日前夕，无耻的异世界穿越者、卑劣的人类内鬼、魔王走狗奎恩在叛逃时，被质问是否愧疚于众神的栽培，他表示： “第一：世界末日是众神的问题，我只是不帮他们擦屁股而已，谈什么栽培？” “第二：我又不是这个世界的人，凭啥管你们死活？” “第三：魔王小姐穿好婚纱等我了，带着黄金回地球，老婆孩",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1T-SL1DDGXAL3BM5R09dMPA?pwd=ftbp",
+    downloadUrl: "/books/1593_勇者可以不活，但不能没活1-622章.txt",
+    sourceUrl: "https://www.deqixs.org/1593/txt.html#dir",
+  },
+{
+    id: 1594,
+    slug: "这个明星正得发邪",
+    title: "这个明星正得发邪",
+    cover: book1594Cover,
+    author: "冥王星话事人",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1032章",
+    latestChapter: "第1032章 改变世界，改变自己！",
+    excerpt: "穿越平行世界，陆燃本想靠“鸡你太美”抽象出道，却绑定了【正能量文娱系统】。 做正能量的事就能变强！ 别人炒CP，他打扫排练室拿积分； 别人买热搜，他爆励志金句被官媒转发； 别人电音拉满，他一首《水手》直接霸榜。 选秀节目组：“让你参加选秀，没让你考公上岸！” 某歌坛天后：“上次我问陆燃最想要什么，他说最想要祖国繁荣昌盛。” 某顶流小花：“我澄清一下，我俩在房间一晚上没睡真的没干别的，是陆燃在给我讲",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RBO2fIN1HVqYyYqFNki5zw?pwd=ftbp",
+    downloadUrl: "/books/1594_这个明星正得发邪1-1032章.txt",
+    sourceUrl: "https://www.deqixs.org/1594/txt.html#dir",
+  },
+{
+    id: 1595,
+    slug: "华娱公关流导演-被天仙攻略",
+    title: "华娱公关流导演，被天仙攻略",
+    cover: book1595Cover,
+    author: "这何许人也",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-302章",
+    latestChapter: "第300章 这样的七月与安生（月票满500和打赏共同加更）",
+    excerpt: "“本台记者将在阆苑传媒为你带来最新报道，让我们把镜头交给她！” 画面中，一个年轻的记者站在一位魅力与帅气并存的中年大叔面前。 “请问何导，你对网络上的‘内娱好几个圈子，你才是唯一的爷’说法怎么看？” “坐着看啊，他们要叫我爷，我也没办法~” “那很多人都说你的奖项都是公关得来？你否认吗？” “不否认~ 记者再问：“何导，很多人都羡慕你，说逍遥哥哥将灵儿娶回家了，都在说夺妻之恨，可以和大家分享一下这",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/1595_华娱公关流导演，被天仙攻略1-302章.txt",
+    sourceUrl: "https://www.deqixs.org/1595/txt.html#dir",
+  },
+{
+    id: 1596,
+    slug: "说好当闲散赘婿-你陆地神仙",
+    title: "说好当闲散赘婿，你陆地神仙？",
+    cover: book1596Cover,
+    author: "卫四月",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-551章",
+    latestChapter: "第551章 余生可期（求月票）",
+    excerpt: "离谱，陈逸穿越睁眼竟在侯府刑堂——只因他身为赘婿，却在大婚之日逃婚。 因而他不但不受侯府待见，还被禁足责罚。 不过陈逸乐得清闲，前世他整日劳心劳力，这辈子当个闲散赘婿挺好。 自此他凭借每日情报，获取机缘，精研琴棋书画、医、钓等道，在侯府里悠闲生活。 【每日情报：武侯嫡孙萧无戈与世子张恒大打出手，可获少量机缘。】 陈逸看着内容，陷入沉思。 “这系统，有些不对劲。” …… 多年以后，琴棋书画、医、钓等",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QFk_KlcWoYeaKGhL4E5LPg?pwd=ftbp",
+    downloadUrl: "/books/1596_说好当闲散赘婿，你陆地神仙？1-551章.txt",
+    sourceUrl: "https://www.deqixs.org/1596/txt.html#dir",
+  },
+{
+    id: 1597,
+    slug: "剑来",
+    title: "剑来",
+    cover: book1597Cover,
+    author: "烽火戏诸侯",
+    date: "2026-08-31",
+    category: "武侠",
+    status: "已完结",
+    chapters: "1-1281章",
+    latestChapter: "第58章 惯披霜冲雪",
+    excerpt: "大千世界，无奇不有。我陈平安，唯有一剑，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天！ 我叫陈平安，平平安安的平安，我是一名剑客。",
+    tags: [{ name: "武侠", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1AxQTPB_4SX5fTM7XlhEhPA?pwd=ftbp",
+    downloadUrl: "/books/1597_剑来1-1281章.txt",
+    sourceUrl: "https://www.deqixs.org/1597/txt.html#dir",
+  },
+{
+    id: 1598,
+    slug: "从跨年失败开始成为不可名状之神",
+    title: "从跨年失败开始成为不可名状之神",
+    cover: book1598Cover,
+    author: "虚鸣",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-2256章",
+    latestChapter: "第2256章 鬼娃娃、柳雯形成的剥削鬼、秦璐形成恶意鬼以及柳馨形成的‘白板鬼’。",
+    excerpt: "胎穿之后，便成为四维时间生物的陆时，面对这个如有‘玄学’的粪坑世界，迈出了成为不可名状之神的第一步。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1h-rWT3bQTpn_6oajUSbq8A?pwd=ftbp",
+    downloadUrl: "/books/1598_从跨年失败开始成为不可名状之神1-2256章.txt",
+    sourceUrl: "https://www.deqixs.org/1598/txt.html#dir",
+  },
+{
+    id: 1599,
+    slug: "剑道余烬",
+    title: "剑道余烬",
+    cover: book1599Cover,
+    author: "会摔跤的熊猫",
+    date: "2026-09-13",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1160章",
+    latestChapter: "第225章 窃运者",
+    excerpt: "“剑修，可以站着死，不可跪着生！” 谢玄衣坠入北海，却在【不死泉】的浇灌之下，意外迎来了第二次人生。 沉疴已去，新火重燃。 一点余烬，可以燎原。 妖女，剑仙，佛子……群魔乱舞，大潮将至，又是一个黄金盛世！ 前世身体孱弱，这一世便以金色元气炼体，成就琉璃金刚骨！ 当年三百飞剑，尽数折断，那便炼化一整座剑气洞天！ “符箓，阵纹，道术，我都只会那么一点——” 谢玄衣独坐大阵之中，昔日长剑，横摆膝前。 “",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1n-DoAhq0NDO15NFyb0ZVhQ?pwd=ftbp",
+    downloadUrl: "/books/1599_剑道余烬1-1160章.txt",
+    sourceUrl: "https://www.deqixs.org/1599/txt.html#dir",
+  },
+{
+    id: 1600,
+    slug: "万灵仙君",
+    title: "万灵仙君",
+    cover: book1600Cover,
+    author: "青靖石1",
+    date: "2026-08-31",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-728章",
+    latestChapter: "第719章 内堂隐患、内会召开（求月票求月票）",
+    excerpt: "【家族金手指】【凡人流】【御兽】【群像】【家族修仙】（慢节奏种田发育，越写越好，高定2万，智商在线，杀伐果断，不圣母，大长篇） 重生至太行山叶家，身怀万灵图录 御兽、御山川、御草木、御天地万族 自育真灵，带领家族成为一代仙家！ （主角很苟，家族更苟，有【家族金手指】） 不圣母，杀伐果断，无系统 本书又名《御兽家族：我有一本万灵图鉴》《万灵仙族》《御兽仙族：我御万灵证长生》",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pxl3tILd33NtcyRImjfguQ?pwd=ftbp",
+    downloadUrl: "/books/1600_万灵仙君1-728章.txt",
+    sourceUrl: "https://www.deqixs.org/1600/txt.html#dir",
+  },
+{
+    id: 1601,
+    slug: "我在公门修仙",
+    title: "我在公门修仙",
+    cover: book1601Cover,
+    author: "战斗的坚果",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-610章",
+    latestChapter: "第609章 战争的取舍，覆灭的阴谋",
+    excerpt: "坏消息：穿越了，而且这个世界很危险。 好消息：有金手指，而且这个世界具备强有力的秩序体制，所以杨文清打算先找个铁饭碗，获取足够的权力帮助自己修行。 一个全新的修仙世界，故事性升级流爽文，绝不狗血。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11S36ogce_ZDL9jzIkqNzQw?pwd=ftbp",
+    downloadUrl: "/books/1601_我在公门修仙1-610章.txt",
+    sourceUrl: "https://www.deqixs.org/1601/txt.html#dir",
+  },
+{
+    id: 1602,
+    slug: "旧日恐剧",
+    title: "旧日恐剧",
+    cover: book1602Cover,
+    author: "三藏的左轮",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-2997章",
+    latestChapter: "第2959章 不讲道理苏二阶",
+    excerpt: "付前优雅地摘下头盖骨，如同绅士脱帽致意。 始于一封跨越维度的邀请函，这是一个人类高质量暴徒，在每日准时到达的死局里，化不可能为可能的故事。 而信函后的伟大存在那一天还不知道，这些为旧日量身定做的剧目，邀请来了什么样的演员。 （原创副本，时间线，悬疑脑洞，腹黑磔王人） 【更名通知】本书原名《直视古神一整年》，现正式更名为《旧日恐剧》，带来不便，恳请每一位书友谅解。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BjlAXdHMSeKKD-_Nfw_etw?pwd=ftbp",
+    downloadUrl: "/books/1602_旧日恐剧1-2997章.txt",
+    sourceUrl: "https://www.deqixs.org/1602/txt.html#dir",
+  },
+{
+    id: 1603,
+    slug: "我真没想当武林盟主",
+    title: "我真没想当武林盟主",
+    cover: book1603Cover,
+    author: "封七月",
+    date: "2026-09-13",
+    category: "武侠",
+    status: "连载中",
+    chapters: "1-514章",
+    latestChapter: "第513章 妖刀斩魄，联盟溃败",
+    excerpt: "职业玩家陈渊穿越到全息游戏《江湖贰》中，回到了游戏刚开服时，成了新手村一个背景板NPC。 当陈渊利用熟悉剧情的优势，终于在这血雨腥风的江湖中杀出了一片天地时，他却发现自己的身份没那么简单。 好消息是，陈渊发现自己的身份跟游戏最终章出现的神秘角色武林盟主陈九天极其相似。 坏消息是，陈渊此时已经杀穿了整个江湖，成了一个人人畏惧唾骂的反派魔头。 当然这些并不重要。 陈渊：拳就是权，出拳有力就是权力，当自",
+    tags: [{ name: "武侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eLtd-OBDszOGZiHD0g0gnA?pwd=ftbp",
+    downloadUrl: "/books/1603_我真没想当武林盟主1-514章.txt",
+    sourceUrl: "https://www.deqixs.org/1603/txt.html#dir",
+  },
+{
+    id: 1604,
+    slug: "凡人-我乃魔道祖师爷",
+    title: "凡人：我乃魔道祖师爷",
+    cover: book1604Cover,
+    author: "雒城府院君",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-666章",
+    latestChapter: "第641章 冥墟窍成、真灵大战【8.7k】",
+    excerpt: "魁星岛大劫后，穿越者罗宁侥幸未死，发现自己身具暗灵根。 在地底洞府偶得神秘传承，获无上魔功《九窍玄阴决》与混沌至宝饮血钵。 本想低调发育，不料饮血钵催熟的灵植引来窥伺。 当各路修士杀上门来，罗宁默默掏出了饮血钵。 “多谢诸位……助我修行。” 那一刻，他身后浮现的竟是……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19h0KLCVsERfKoCqgph0Auw?pwd=ftbp",
+    downloadUrl: "/books/1604_凡人：我乃魔道祖师爷1-666章.txt",
+    sourceUrl: "https://www.deqixs.org/1604/txt.html#dir",
+  },
+{
+    id: 1605,
+    slug: "左道世界的尸解仙",
+    title: "左道世界的尸解仙",
+    cover: book1605Cover,
+    author: "实属弟中之弟",
+    date: "2026-08-28",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-169章",
+    latestChapter: "第164章 第二次元始观动员大会",
+    excerpt: "此方浊世左道仙术遍地生花，有仙占庙吞吐香火，有仙埋坟过阴走脚，有仙游街采生折割，有仙化身万千，以七千八百首俯视人间。 天道倾颓，朝堂更是妖魔横行，蛇魅执掌通判之权，蝠魈领兵觊觎凡俗血食，就连县令知府也皆是鸟兽身披官服装模作样。 …… 流云当空，苍梧界巅。 任青静立云端，脑后悬一轮仙晕缓缓流转，双目开阖间日月虚影映照天地，一身清光漫溢如练，不染半分红尘俗气。 “明明贫道是世间唯一正仙，为何人人谈之色",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1sL49as6W7JJJUvZqkaHn8g?pwd=ftbp",
+    downloadUrl: "/books/1605_左道世界的尸解仙1-169章.txt",
+    sourceUrl: "https://www.deqixs.org/1605/txt.html#dir",
+  },
+{
+    id: 1606,
+    slug: "原来我是仙道天骄",
+    title: "原来我是仙道天骄",
+    cover: book1606Cover,
+    author: "醋六香",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第120章 筑基丹？我不用那种东西，照样能筑基！",
+    excerpt: "仙历14994年，七月。 陈拙考入太清市炼丹职业技术学院，获批人造灵根，成为一名拥有单一木属性的人造灵根修仙者。 原本，陈拙已经看到了自己的未来，老老实实修行个百余年，在流水线上为公司打工，看看有没有机会修炼到炼气巅峰拿点退休金什么的。 但就在植入灵根后不久，陈拙忽然发现自己随身自带破界珠，可以带着自己肉身穿越到另一个古老的修仙世界。 于是，陈拙发现自己的未来好像发生了变化。 “什么叫宗门终于等到",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kwaWs2kNNq16c8raD81CJQ?pwd=ftbp",
+    downloadUrl: "/books/1606_原来我是仙道天骄1-122章.txt",
+    sourceUrl: "https://www.deqixs.org/1606/txt.html#dir",
+  },
+{
+    id: 1607,
+    slug: "半岛小行星",
+    title: "半岛小行星",
+    cover: book1607Cover,
+    author: "鸡兔同笼",
+    date: "2026-08-28",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1363章",
+    latestChapter: "第419章 夏",
+    excerpt: "我来了，为了成为明星。 我看到了，我一定能成功。 我征……算了，这里太复杂了征服不了，我还是谈我的恋爱吧。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lYVnZnLu3txxE1NewGkEUw?pwd=ftbp",
+    downloadUrl: "/books/1607_半岛小行星1-1363章.txt",
+    sourceUrl: "https://www.deqixs.org/1607/txt.html#dir",
+  },
+{
+    id: 1608,
+    slug: "道与碳基猴子饲养守则",
+    title: "道与碳基猴子饲养守则",
+    cover: book1608Cover,
+    author: "飞鸽牌巧克力",
+    date: "2026-09-03",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1254章",
+    latestChapter: "第500章 ‘魔法’",
+    excerpt: "普通人类罗彬瀚被外星飞船绑架了。这艘船上除他之外的成员有修真大少爷，魅魔，人工智能，奥特曼和许愿机。 罗彬瀚确信这个宇宙有点问题。 读者群号：1055986189 需要回答较难问题的读者群号：569466054 本书开放所有同人二创权限，感谢爱顾。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/1608_道与碳基猴子饲养守则1-1254章.txt",
+    sourceUrl: "https://www.deqixs.org/1608/txt.html#dir",
+  },
+{
+    id: 1609,
+    slug: "诡秘-纯路人-但在塔罗会兼职",
+    title: "诡秘：纯路人，但在塔罗会兼职",
+    cover: book1609Cover,
+    author: "哈基米公爵",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-382章",
+    latestChapter: "第381章 初吻",
+    excerpt: "罗瑞做梦也没想过，自己只是被《诡秘之主》的实体书砸到头，就莫名穿越进了诡秘世界。 坏消息：没有系统。 好消息：他曾经熬夜怒刷十几遍原著，虽然无法记住大部分细节，但对一些大事件记忆尤深。 天塌下来，有周明瑞顶着。 自己才挣几个子儿啊，去跟外神拼命？ 罗瑞如此想到。 于是他决定当一个路人甲，躲在穿越者前辈的羽翼下好好享受这个世界。 体验异域风情，研究非凡之路！ 可人算不如天算…… 他万万没想到，只是因",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BZ214j8O5rqNT5fpx5Q1gA?pwd=ftbp",
+    downloadUrl: "/books/1609_诡秘：纯路人，但在塔罗会兼职1-382章.txt",
+    sourceUrl: "https://www.deqixs.org/1609/txt.html#dir",
+  },
+{
+    id: 1610,
+    slug: "我不是文豪",
+    title: "我不是文豪",
+    cover: book1610Cover,
+    author: "野亮",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-355章",
+    latestChapter: "第45章 黑犬陈默大冒险",
+    excerpt: "（并非文抄。没有穿越、没有重生、没有系统、没有金手指。） 多年以后，当王子虚站在诺贝尔文学奖的颁奖台上时，会想起妻子割破手的那个遥远的下午。那时候他还在一座小城市的事业单位做办事员，没有什么钱，对于文坛寻其门而不得入。 如今他已经是三江四湖五岳间的文坛魁首，无人不知他的盛名，是天字第一号的国宝级作家。 他走了无数的路，付出无数代价。当他站在发言台前时，却说：我不是什么文豪。 我只是想赚点钱。 ——",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rOI2OOMvX2Rlhs73y8oCSQ?pwd=ftbp",
+    downloadUrl: "/books/1610_我不是文豪1-355章.txt",
+    sourceUrl: "https://www.deqixs.org/1610/txt.html#dir",
+  },
+{
+    id: 1611,
+    slug: "诸天-小李飞刀开始",
+    title: "诸天：小李飞刀开始",
+    cover: book1611Cover,
+    author: "柳风折",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-272章",
+    latestChapter: "第9章 ：六脉神剑，天下第一剑法？非也非也。",
+    excerpt: "我姓潘，潘连城。我喜奢华，好美酒。江湖人都称我为‘花花大少’。我不在乎，要是不挥霍一点，怎么对得起父辈辛苦积累，怎让人知道我是‘金玉堂’当家？ 近来梅花盗重出江湖，江湖人心惶惶，我觉得我该出手了。 只是得到金丝甲这天，我打破胎中迷，脑海中突然多出了两世记忆。 一世记忆里有钢铁建筑，电脑手机。也是在这一世记忆里，发现原来我不过是个龙套，还是个死龙套，第一次出场就是尸体那种，惨啊。另一世的记忆是残缺的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pvYgUO37djRvbwiMOX8S4Q?pwd=ftbp",
+    downloadUrl: "/books/1611_诸天：小李飞刀开始1-272章.txt",
+    sourceUrl: "https://www.deqixs.org/1611/txt.html#dir",
+  },
+{
+    id: 1612,
+    slug: "钢铁-病菌与奥法医生",
+    title: "钢铁，病菌与奥法医生",
+    cover: book1612Cover,
+    author: "李斯特菌",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-180章",
+    latestChapter: "第179章 第三扇门",
+    excerpt: "这是最好的时代，这是最坏的时代。但要莱昂来说，这是最臭的时代。 前急诊医生莱昂，现奥法医学唯一毕业生，来到了这个奥法与蒸汽并存的世界。 他本打算凭着超前的医学知识和奥法的生产力，顺手客串一回“现代医学之父”。 防护学派的护盾术？刚好用来罩出无尘结界。 元能学派的燃烧之手？刚好用来消毒手术器械。 嬗变学派的物质变换？刚好用来手搓生理盐水。 他还遇到了被称作“死眠圣女”的女孩，其双手所触，任何活物都会",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-aVjnUbGtpIRf1cVb-E-Bg?pwd=ftbp",
+    downloadUrl: "/books/1612_钢铁，病菌与奥法医生1-180章.txt",
+    sourceUrl: "https://www.deqixs.org/1612/txt.html#dir",
+  },
+{
+    id: 1613,
+    slug: "废墟探险家",
+    title: "废墟探险家",
+    cover: book1613Cover,
+    author: "痞徒",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-418章",
+    latestChapter: "第365章 加料",
+    excerpt: "本书又名——环球挖土党2/冷战废墟拾荒主理人/谁看谁发财/投票打赏的都是大帅比！ 美苏争霸已经随着冷战结束而落幕，但那些曾经布置于最前线最隐秘位置的废弃军事基地、导弹发射井甚至为了太空竞赛建立的实验室，却仍旧藏着一笔又一笔冷战宝藏和不为人知的危机。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lqHPDBmnd4sz82LVsSHo6A?pwd=ftbp",
+    downloadUrl: "/books/1613_废墟探险家1-418章.txt",
+    sourceUrl: "https://www.deqixs.org/1613/txt.html#dir",
+  },
+{
+    id: 1614,
+    slug: "1422-东罗马的复兴",
+    title: "1422：东罗马的复兴",
+    cover: book1614Cover,
+    author: "会飞的孔雀鱼",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-489章",
+    latestChapter: "第489章 宝贵的水源",
+    excerpt: "公元1422年，东罗马早已不复查士丁尼时代的荣光，疆域仅剩君士坦丁堡、以及摩里亚等几块孤立的飞地，仿佛一艘航行在时间之海上的巨舰，船体千疮百孔，在历史的惊涛骇浪中艰难地维持着漂浮。 在这个动荡不安的时刻，一个陌生灵魂流落至此，他发誓改变这一切，让这个陷入衰亡的古老帝国重获新生。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QxzkyoV2tlWH6uKEayNTUg?pwd=ftbp",
+    downloadUrl: "/books/1614_1422：东罗马的复兴1-489章.txt",
+    sourceUrl: "https://www.deqixs.org/1614/txt.html#dir",
+  },
+{
+    id: 1615,
+    slug: "神祇",
+    title: "神祇",
+    cover: book1615Cover,
+    author: "骷髅精灵",
+    date: "2026-08-28",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-94章",
+    latestChapter: "第90章 卢瑟馅饼",
+    excerpt: "在一个拥有成神道路的世界里， 你想成为祂吗？ ———————— 克苏鲁风格。 烧脑，强反转，智商拉满",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1frFJSPx7byQ7-zrIGLX7Uw?pwd=ftbp",
+    downloadUrl: "/books/1615_神祇1-94章.txt",
+    sourceUrl: "https://www.deqixs.org/1615/txt.html#dir",
+  },
+{
+    id: 1616,
+    slug: "工业克苏鲁不相信魔法",
+    title: "工业克苏鲁不相信魔法",
+    cover: book1616Cover,
+    author: "绫虚神",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-660章",
+    latestChapter: "第3章 目前只能通过量角器来施展该法术。",
+    excerpt: "【伪DND+航海+种田+工业革命】 （本书从180首订写到2900均订，高订8500。更新稳定，请放心追读） 魔法是什么？ 假设一个物质世界真实存在魔力，它的构成要素到底是什么？ 在这个世界，剑与魔法依然占据主流，但钢铁与蒸汽也已展露出它的威能。 变革带来的矛盾让诸多国家征战不休，地理大发现更是让这种争斗从陆地扩展到了海洋。 众神殿的诸神端坐云端，控制着凡人所能达到的高度。 在这个风起云涌的大时代",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11see_COdenGAWR5IYmLGqA?pwd=ftbp",
+    downloadUrl: "/books/1616_工业克苏鲁不相信魔法1-660章.txt",
+    sourceUrl: "https://www.deqixs.org/1616/txt.html#dir",
+  },
+{
+    id: 1617,
+    slug: "我的卡牌御兽游戏",
+    title: "我的卡牌御兽游戏",
+    cover: book1617Cover,
+    author: "疯狂沉默",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-348章",
+    latestChapter: "第345章 ：天兵天将",
+    excerpt: "【已有千万字完结老书，高定三万，均订六千，完结有保障，放心追读】 百米高的巨兽，千米长的巨龙，皆可被小小一张卡牌容纳。 森林、沼泽、大海……乃至深渊，无数奇诡秘境皆在卡师足下。 这是一个卡师召唤异兽大军，征服诸天万界的新时代。 觉醒宿慧的周晨看着游戏面板，在直接躺平和努力躺平之间迟疑。 “要不，先吃饭吧？” “砰砰砰！” “开门！该下副本了！”隔壁传来假小子青梅的呼唤。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_o9JHSUI0KN2c_wZBm5Uxw?pwd=ftbp",
+    downloadUrl: "/books/1617_我的卡牌御兽游戏1-348章.txt",
+    sourceUrl: "https://www.deqixs.org/1617/txt.html#dir",
+  },
+{
+    id: 1618,
+    slug: "天启预报",
+    title: "天启预报",
+    cover: book1618Cover,
+    author: "风月",
+    date: "2026-08-31",
+    category: "奇幻",
+    status: "已完结",
+    chapters: "1-1706章",
+    latestChapter: "第1645章 见证",
+    excerpt: "“我想要挨一顿毒打……” ——灾厄之剑、旧世界守墓人、调律师、最后的天国捍卫者、二十四个毁灭因素之一、淮海路小佩奇、深渊烈日、最终的地狱之王：槐诗。 . 某一天，穷困潦倒的槐诗忽然发现自己捡来的金手指终于能用了……只不过，这似乎并不是一件好事。 为了赚钱和苟命，他一不小心踏入了这个危险世界。 现境之外的边境，日常之后的异常。 天文会，绿日、黄金黎明、存世余孽与诸界天敌…… 究竟是生存还是灭亡？ 这",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Rzg4QCcdB5h5L_Z11RdrFg?pwd=ftbp",
+    downloadUrl: "/books/1618_天启预报1-1706章.txt",
+    sourceUrl: "https://www.deqixs.org/1618/txt.html#dir",
+  },
+{
+    id: 1619,
+    slug: "人在漫威编剧本-说我幕后黑手",
+    title: "人在漫威编剧本，说我幕后黑手？",
+    cover: book1619Cover,
+    author: "阳下杨",
+    date: "2026-08-28",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-176章",
+    latestChapter: "第175章 我宇智波斑，回来了！",
+    excerpt: "一朝穿越漫威世界，宇宙烁灭近在眼前？ 江流辗转反侧终于明悟—— 让混乱的更加混乱，新的秩序才能悄然而生！ 翻开岁月史书，江流提笔泼墨。 “为这纷乱的漫威世界，绘下更加绚烂的华章！” 自此漫威宇宙进入大混乱时代！ —— 亚瑟·摩根：我不想再从任何人嘴里听到什么Big Plan，尤其是你，尼克弗瑞！ 赵吏：地狱不敢管的我地府管，地狱不敢杀的我地府杀！先斩后奏，冥王特许，听清楚了吗？ 团藏：弗瑞，你会后",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1idsM6kRpE51GfuPp2npEcQ?pwd=ftbp",
+    downloadUrl: "/books/1619_人在漫威编剧本，说我幕后黑手？1-176章.txt",
+    sourceUrl: "https://www.deqixs.org/1619/txt.html#dir",
+  },
+{
+    id: 1620,
+    slug: "剑宗外门",
+    title: "剑宗外门",
+    cover: book1620Cover,
+    author: "其声喵喵然",
+    date: "2026-09-06",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-710章",
+    latestChapter: "第702章 春宵惊梦，虚构神通！",
+    excerpt: "匣中风霆肃，剑起日月舒。 此方仙道世界已繁衍不知多少岁月，宗门林立，妖魔并起。 只是如今的修仙界中，纯粹的剑修销声匿迹，不见踪影。 少年初踏仙路，偶得一枚两色石珠。 从此，修仙界之中多了一个到处寻觅古怪飞剑的神秘剑修…… （凡人流长篇仙侠，无系统，穿越设定可有可无。）",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1P28qVSA0k68Qid3YdkdGsg?pwd=ftbp",
+    downloadUrl: "/books/1620_剑宗外门1-710章.txt",
+    sourceUrl: "https://www.deqixs.org/1620/txt.html#dir",
+  },
+{
+    id: 1621,
+    slug: "教练凶猛",
+    title: "教练凶猛",
+    cover: book1621Cover,
+    author: "初四兮",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-513章",
+    latestChapter: "第491章 我知道你有点急，但是你先别急",
+    excerpt: "（英雄联盟电竞文） 平行世界里荣誉满载的李述穿越到了2016年。 对李述来说，这里除了英雄联盟的内容外，各大赛区是陌生的，任何选手都是陌生的。 履历一片空白的李述首先要面临一个问题……那就是找份工作。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UPbAqY1llVEB7FxOyZhgyw?pwd=ftbp",
+    downloadUrl: "/books/1621_教练凶猛1-513章.txt",
+    sourceUrl: "https://www.deqixs.org/1621/txt.html#dir",
+  },
+{
+    id: 1622,
+    slug: "成为主教练后-我开摆了",
+    title: "成为主教练后，我开摆了",
+    cover: book1622Cover,
+    author: "葬爱叶良辰",
+    date: "2026-09-13",
+    category: "体育",
+    status: "连载中",
+    chapters: "1-329章",
+    latestChapter: "第329章",
+    excerpt: "保温杯的继承人，内鬼捕捉大师。 多梅内克最欣赏的星座专家。 穆里尼奥最看重的铁血教头。 弗格森钦点的一个，瓜迪奥拉的一生之敌。 黑店王朝的缔造者，卖人从来不带说明书。 英格兰学生的精神领袖，克罗斯最佩服的语言大师。 皇家马德里背负巨债的始作俑者。 一切都源于南非世界杯的那个夏天，那个男人步入了足坛……",
+    tags: [{ name: "体育", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1WQ9xzPRXnLwPz4zVy9GyCQ?pwd=ftbp",
+    downloadUrl: "/books/1622_成为主教练后，我开摆了1-329章.txt",
+    sourceUrl: "https://www.deqixs.org/1622/txt.html#dir",
+  },
+{
+    id: 1623,
+    slug: "与经纪人恋爱是禁止事项",
+    title: "与经纪人恋爱是禁止事项",
+    cover: book1623Cover,
+    author: "树下埋冢",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-70章",
+    latestChapter: "第68章 室友交流（求月票！）",
+    excerpt: "作为“前金牌经纪人”，处理完妹妹的葬礼，抱着残缺的记忆回到公司、签约潜力十足的演艺新星—— 她的演技天赋异禀，看待世界的方式却大有问题。 教导她，培养她，“驯化”她，陪她面对这个混乱又迷人的陌生世界…… 身为成熟可靠的金牌经纪人，林原晓当然清楚自己之后该怎么做—— “什么叫背叛？我和羽贺你、只是经纪人和演员的关系吧？” “作为商业上的伙伴，我当然会在你不成熟时支持你、陪伴你……” “但是说到底，我",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11y074zc0MPHznyOrItNHzA?pwd=ftbp",
+    downloadUrl: "/books/1623_与经纪人恋爱是禁止事项1-70章.txt",
+    sourceUrl: "https://www.deqixs.org/1623/txt.html#dir",
+  },
+{
+    id: 1624,
+    slug: "1979西北往事",
+    title: "1979西北往事",
+    cover: book1624Cover,
+    author: "羁中马",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-113章",
+    latestChapter: "第112章 周新军的保卫嫂子计划",
+    excerpt: "七九年，周卫军重生的时候，正是西南那场战事影响到伊犁河谷的关键阶段，市里成立各级民兵组织，全面战备。老人小孩撤往农村和口里。周卫军家里，也接收了一个少年。 再过七天，这个少年会离奇死亡，让一家人的命运发生巨大变化。 此刻，周卫军在厕所里思考，不仅要避免少年发生危险，还要改变现在的生活。 破局，从小小的柳条筐开始，发现蛛丝马迹，提前锁定并搞定“凶手”，打猎捕鱼赚钱，带着自家人，村里人，走上了劳动致富",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1vLOWRH95csr-QYJvEucdfg?pwd=ftbp",
+    downloadUrl: "/books/1624_1979西北往事1-113章.txt",
+    sourceUrl: "https://www.deqixs.org/1624/txt.html#dir",
+  },
+{
+    id: 1625,
+    slug: "水浒第一狠人",
+    title: "水浒第一狠人",
+    cover: book1625Cover,
+    author: "王袍",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-492章",
+    latestChapter: "第490章 秦明：地狱无门你闯进来！【2更】",
+    excerpt: "以棍之名，开局暴打林冲！ …… 我的水火棍早已饥渴难耐了口牙！！！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1KrlKiMsvPSWii_XjqdSzDw?pwd=ftbp",
+    downloadUrl: "/books/1625_水浒第一狠人1-492章.txt",
+    sourceUrl: "https://www.deqixs.org/1625/txt.html#dir",
+  },
+{
+    id: 1626,
+    slug: "异常病理科",
+    title: "异常病理科",
+    cover: book1626Cover,
+    author: "给您添蘑菇啦",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-79章",
+    latestChapter: "第78章 峰顶（感谢盟主qlzhw！）",
+    excerpt: "“恭喜，你不是脑癌。” “太好了！！可……我为什么会冒出来陌生的记忆啊？” “看到这里了么，你70%的大脑已经被这玩意儿替换了。” “？？？这不是更严重！” “不严重也轮不到我来看诊。” “所以这有什么好恭喜的啊！” “恭喜？我说了么？嗯……应该是在恭喜我自己吧。” “？？？你为什么在笑啊大夫！！” “你看错了，我是专业的。那谁，堵好门，别让他跑了。” “？？？” 【正经医疗剧，不太克苏鲁】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cN7mjemXpiZF5kFBX8umHg?pwd=ftbp",
+    downloadUrl: "/books/1626_异常病理科1-79章.txt",
+    sourceUrl: "https://www.deqixs.org/1626/txt.html#dir",
+  },
+{
+    id: 1627,
+    slug: "未来-地球成了神话时代遗迹",
+    title: "未来，地球成了神话时代遗迹",
+    cover: book1627Cover,
+    author: "牛油果",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-826章",
+    latestChapter: "第825章 一滴墨",
+    excerpt: "在我们的世界另一面，其实暗藏着另一个充满神秘与奇幻的瑰丽世界。 那是精神的世界，自传说之中诞生。 红尘浮生的市井烟火。 十方鬼域有神怪横行。 山海异界，有无穷奇珍异兽。 三界十洲，诸天仙佛高高在上…… 未来，破碎的地球被人们挖了出来，成为了遥远的上古神话时代，开启了人类修行的大时代。 谢灵心自“上古”而来，从一幅《大帝说经图》开始修行之路。 劫火炎炎烧五浊，洪炉铸就千劫骨，五雷真文烙金身，大光明中",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1vPmo28qpCBAIWCdu2u2CuA?pwd=ftbp",
+    downloadUrl: "/books/1627_未来，地球成了神话时代遗迹1-826章.txt",
+    sourceUrl: "https://www.deqixs.org/1627/txt.html#dir",
+  },
+{
+    id: 1628,
+    slug: "遮天",
+    title: "遮天",
+    cover: book1628Cover,
+    author: "辰东",
+    date: "2026-08-29",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-3112章",
+    latestChapter: "第3112章 扼杀天才",
+    excerpt: "遮天动画，每周三10:00腾讯视频火热播出，VIP抢先看两集；叶凡、女帝、无始等将以立体的形式和你相见，等你一起来看。 冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。 这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面。 九龙拉棺，究竟是回到了上古，还是来到了星空的彼岸？ 一个浩大的仙侠世界，光怪陆离，神秘无尽。 热血似火山沸腾，激情若瀚海汹涌，欲望如深渊无止境…… 登天",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Q392fBoLCsFbkw85mi_f5w?pwd=ftbp",
+    downloadUrl: "/books/1628_遮天1-3112章.txt",
+    sourceUrl: "https://www.deqixs.org/1628/txt.html#dir",
+  },
+{
+    id: 1629,
+    slug: "我真不用重生啊",
+    title: "我真不用重生啊",
+    cover: book1629Cover,
+    author: "李暮歌",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-278章",
+    latestChapter: "第271章 姜老师，注意隐私！",
+    excerpt: "重生前：破产游资，刚刚攒够翻身的本钱，准备东山再起。 重生后：高三刚开学，一方面要面临着差几个月才能开户的境遇，另一方面也要烦恼接踵而至的模拟考以及高考，尤其是他高二期末考还是理科全年级第一，妥妥的清北苗子，所有人都对他寄予极高的期望，而他只能考个四百多分…… 【日常文】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NO7uesvx81MBHzwZ1klTfw?pwd=ftbp",
+    downloadUrl: "/books/1629_我真不用重生啊1-278章.txt",
+    sourceUrl: "https://www.deqixs.org/1629/txt.html#dir",
+  },
+{
+    id: 1630,
+    slug: "诸天-从暗黑地牢开始",
+    title: "诸天：从暗黑地牢开始",
+    cover: book1630Cover,
+    author: "四季宝",
+    date: "2026-09-08",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-235章",
+    latestChapter: "第231章 诸神下场！",
+    excerpt: "“收手吧，诸天流已经在走下坡路了！” “既然如此，倒着走岂不就能重回巅峰了吗？” ———— 某天，接待完一位特殊的顾客后，罗格发现自己被半残废的系统绑定。 食尸鬼、幽灵、异魔、吸血鬼、诅咒、恶魔、巨龙、神奇…… 吾等遨游星界，扰乱因果，成为悖论的理；吾等跨越位面，扩张领域，成为全知的一。 一路走来，满身尽是风霜。 当罗格回首望去时，只能感慨着发出不想努力的声音。 “系统，你可真害苦我了啊！” ps",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TGFxxPs6UAC0nJxb2PZchw?pwd=ftbp",
+    downloadUrl: "/books/1630_诸天：从暗黑地牢开始1-235章.txt",
+    sourceUrl: "https://www.deqixs.org/1630/txt.html#dir",
+  },
+{
+    id: 1631,
+    slug: "火影-破防系统-给忍界一点压力",
+    title: "火影：破防系统，给忍界一点压力",
+    cover: book1631Cover,
+    author: "糖醋花椒",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-236章",
+    latestChapter: "第235章 对禁术的渴望达到了极致",
+    excerpt: "宇智波凌穿越到火影世界，发现他有个破防系统，只要周围有人破防，他就能抽取奖励。 查克拉量，忍术，秘术，禁术，血继，破防了都能抽。 于是···站在你面前的是： 木叶第一压力哥； 刀子嘴刀子心的对线怪； 宇智波一族的垃圾话之王； 能动嘴尽量不动手的语言大师； 比火遁更强的是他淬了毒的嘴遁； 宇智波斑毒舌血继的唯一继承人··· 只要我能张嘴，这个忍界没有人可以压力我！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1tJZh9zRGb7bVsOMgWJQ_gA?pwd=ftbp",
+    downloadUrl: "/books/1631_火影：破防系统，给忍界一点压力1-236章.txt",
+    sourceUrl: "https://www.deqixs.org/1631/txt.html#dir",
+  },
+{
+    id: 1632,
+    slug: "肉身成圣从养生太极开始",
+    title: "肉身成圣从养生太极开始",
+    cover: book1632Cover,
+    author: "小教主",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-318章",
+    latestChapter: "第318章 指锋",
+    excerpt: "一朝觉醒，陈成不得不重新审视这个贫民虽两脚人立，却与待宰牲口无异的世界…… 人祸，诡厄，天倾……黄泉客满，人间路绝，他只能依靠一枚竖目印记，从养生太极拳开始，易筋筑基，孕育神异，一步一步挣出深渊，成为那行走的人形天灾，道之载体。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CvFR-Y9lfz3awyBdnCfhVw?pwd=ftbp",
+    downloadUrl: "/books/1632_肉身成圣从养生太极开始1-318章.txt",
+    sourceUrl: "https://www.deqixs.org/1632/txt.html#dir",
+  },
+{
+    id: 1633,
+    slug: "地狱游戏-从大都会开始",
+    title: "地狱游戏：从大都会开始",
+    cover: book1633Cover,
+    author: "暴走的酒瓶",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-4399章",
+    latestChapter: "第4399章 刘正、尼罗河医生等人排队跟上，但到了熊猫的时候魔毯往旁边躲了一下，让它踩了个空。",
+    excerpt: "欢迎来到地狱游戏。 [进入副本：血腥餐厅] [你应聘的岗位是：外卖员] [你的客户有：浑身散发着尸臭的肥宅，一言不合就爆浆的女仆...] [你的同事有：漂亮得不像人的女老板，字面意义上的牛马，满嘴法兰西粗口的吃人树...] 面对这些卧龙凤雏，想好好做人的刘正只好不做人了。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1p7_sIDGzzuX_C6uLBIoSHw?pwd=ftbp",
+    downloadUrl: "/books/1633_地狱游戏：从大都会开始1-4399章.txt",
+    sourceUrl: "https://www.deqixs.org/1633/txt.html#dir",
+  },
+{
+    id: 1634,
+    slug: "大明豪雄",
+    title: "大明豪雄",
+    cover: book1634Cover,
+    author: "金石海天",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-254章",
+    latestChapter: "第252章 刘进夜奔",
+    excerpt: "万历年间，天下太平，豫西乡间的刘进有了点野心，现代人的好奇、狂妄还有执念，来到这个时代。 安平刘进，好乱乐祸——明.无名氏",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eZ9tqpugbqf84ZzdaK48ig?pwd=ftbp",
+    downloadUrl: "/books/1634_大明豪雄1-254章.txt",
+    sourceUrl: "https://www.deqixs.org/1634/txt.html#dir",
+  },
+{
+    id: 1635,
+    slug: "梦回民国从拉包月开始",
+    title: "梦回民国从拉包月开始",
+    cover: book1635Cover,
+    author: "流浪之袋鼠",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-863章",
+    latestChapter: "第863章 太实在了",
+    excerpt: "意外穿越到民国时期，被小陀螺文三所救，从拉包月开始，竟然获得车夫系统， “叮~送客户到达目的地，奖励车费乘一。” 这系统也忒废了~ “叮~送剧情人物到达目的地，奖励肾气加一” 哎？这系统有点意思了~ “叮~送剧情人物到达目的地，奖励寿命三十天” 啊！这系统也太给力了~ 且看一个小人物混迹在民国时期的奇遇之旅 袋鼠新作，希望大家喜欢，持续更新中，着急的可以看下袋鼠以前老书，谢谢！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VZLPzOkpVxdNRPTCHmC4Bw?pwd=ftbp",
+    downloadUrl: "/books/1635_梦回民国从拉包月开始1-863章.txt",
+    sourceUrl: "https://www.deqixs.org/1635/txt.html#dir",
+  },
+{
+    id: 1636,
+    slug: "摄政妖妃的赤胆忠臣",
+    title: "摄政妖妃的赤胆忠臣",
+    cover: book1636Cover,
+    author: "点子大王",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-625章",
+    latestChapter: "第621章 西瓜地里的何书墨（4k）",
+    excerpt: "一觉醒来，何书墨成了玄幻王朝的杂鱼反派。 不但声名狼藉，而且即将被抄家问斩。 四处碰壁，自救无门。 走投无路之下，只好投入女反派的怀抱。 “妖妃？什么妖妃？” “贵妃娘娘是臣心中唯一的太阳！” 自此开始。 楚国少了一位无名小官。 离国多了一位开国重臣。 …… 楚历671年，厉贵妃肃清朝野，正式称帝，改国号为“离”。 保皇派史官如实记录了全过程： 《邪恶妖妃和她的无耻逆党试图垂死挣扎》 《奸臣佞贼的",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lQYf8Lw8oqoBQtFpl7fQjg?pwd=ftbp",
+    downloadUrl: "/books/1636_摄政妖妃的赤胆忠臣1-625章.txt",
+    sourceUrl: "https://www.deqixs.org/1636/txt.html#dir",
+  },
+{
+    id: 1637,
+    slug: "奥特曼-怪兽格斗进化",
+    title: "奥特曼：怪兽格斗进化",
+    cover: book1637Cover,
+    author: "高阶领主德哈卡",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-410章",
+    latestChapter: "第401章 红凯：有强盗啊！",
+    excerpt: "被邀参与【怪兽格斗进化】内测的高玩林染，意外穿越到了奥特世界，却发现这个世界很不对劲。 要问为什么？大概是因为金字塔里面出现的基里艾洛德人吧。 但是他并不慌，这不过是游戏的正常剧情，总而言之，优势在我。 不知道这一切的林染自以为可以读档，带着测试任务进行速通，用最莽，最诡异的培养手法杀穿奥特世界，疯狂地进行离谱构筑、阴间打法、无止境地挖掘剧情！ 从昭和兄弟到三杰四斯，再到新生代的小登们，林染活跃在",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1MmRyp18xnEtYV-9MFMyExA?pwd=ftbp",
+    downloadUrl: "/books/1637_奥特曼：怪兽格斗进化1-410章.txt",
+    sourceUrl: "https://www.deqixs.org/1637/txt.html#dir",
+  },
+{
+    id: 1638,
+    slug: "宝可梦降临下的末世生活",
+    title: "宝可梦降临下的末世生活",
+    cover: book1638Cover,
+    author: "天祭者",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-109章",
+    latestChapter: "第108章 一眼漏底。",
+    excerpt: "童年里的回忆降临，但带来的却不是美好，而是末世界。 末日生存法则一：幽灵系魔兽会优先攻击人口密集位置。 末日生存法则二：警惕那些伪装成特殊植物的魔兽。 …… 末日生存法则五：人类已经失去了天空、海洋、森林。 本书又名《精灵降临后，我从零开始创建精灵联盟》、《我印象里的宝可梦，不可能是这样》。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Al5z5OSfNs7lem8EByJ64Q?pwd=ftbp",
+    downloadUrl: "/books/1638_宝可梦降临下的末世生活1-109章.txt",
+    sourceUrl: "https://www.deqixs.org/1638/txt.html#dir",
+  },
+{
+    id: 1639,
+    slug: "魏晋不服周",
+    title: "魏晋不服周",
+    cover: book1639Cover,
+    author: "携剑远行",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-634章",
+    latestChapter: "第548章 送瘟神（下）",
+    excerpt: "魏晋交接的世道里，司马氏只手遮天，一言九鼎。有人拼命的踩油门，接着奏乐接着舞；有人拼命的踩刹车，接着杀人接着造。世家垄断官位，民间一潭死水，万马齐喑究可哀。但有位“不服周”之人，从天而降，他要谱写一曲“王侯将相宁有种乎”。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1G7acMa078EMIUqIv8LuBug?pwd=ftbp",
+    downloadUrl: "/books/1639_魏晋不服周1-634章.txt",
+    sourceUrl: "https://www.deqixs.org/1639/txt.html#dir",
+  },
+{
+    id: 1640,
+    slug: "窃仙",
+    title: "窃仙！",
+    cover: book1640Cover,
+    author: "天山雪白",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-661章",
+    latestChapter: "第500章",
+    excerpt: "百年杂役身，枯骨望仙门。 入来尚垂髫，归时负残阳。 …… “成仙，那是千军万马过独木桥。” “气运、出身、根骨皆不可缺其一。” “你看这池中蛊虫互相厮杀，都以为有朝一日能跳出池子，摸到大道，殊不知池子外是贫道布下的网。” …… 有太虚宗百岁老叟陈青阳，身怀窃取仙苗之物……",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DB95gTImLoZ8e1gAZ5OS8A?pwd=ftbp",
+    downloadUrl: "/books/1640_窃仙！1-661章.txt",
+    sourceUrl: "https://www.deqixs.org/1640/txt.html#dir",
+  },
+{
+    id: 1641,
+    slug: "我的抗联岁月",
+    title: "我的抗联岁月",
+    cover: book1641Cover,
+    author: "有个探长",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1211章",
+    latestChapter: "第1208章 皆我所断！",
+    excerpt: "【铭记历史，缅怀先烈，奋勇前行——纪念抗战胜利80周年征文三等奖作品】 一九三六年，于白山黑水之间有一群与世隔绝永不言退的疯子。 在资源枯竭后，这片土地寂静下来，一个在林子里迷路的护林员不断咒骂。 他遇见了一棵无比粗壮的红松，树干上歪歪扭扭的字体依旧可见，远处传来歌声。他一头闯了进去，探视这片土地曾经的过往。 ——抗联从此过，子孙不断头！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ajc16-NRIPmTozLPfqr_pQ?pwd=ftbp",
+    downloadUrl: "/books/1641_我的抗联岁月1-1211章.txt",
+    sourceUrl: "https://www.deqixs.org/1641/txt.html#dir",
+  },
+{
+    id: 1642,
+    slug: "从地下城格斗家开始成神",
+    title: "从地下城格斗家开始成神",
+    cover: book1642Cover,
+    author: "虔诚的祈祷",
+    date: "2026-08-29",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-162章",
+    latestChapter: "第161章 劫后余生的庆幸",
+    excerpt: "因赛丽亚一句“勇士，你还会回来吗。” 罗恩就穿越到异界，加载了DNF格斗家职业面板。 气功师的极致是修仙。 散打的极致是肉身成神。 柔道的极致是暴力抓取。 街霸的极致是不择手段。 虽然远程、近战、肉身、阴招的攻击手段都已拥有，但罗恩始终感觉自己还欠缺与强敌持续鏖战的手段。 【叮！圣职者职业系统已加载。】 当无数敌人的围攻终于使得罗恩受伤，以为看到胜利的希望时。 圣光照耀天地，灼烧一切的神炎焚空，神",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1U8_L7z957XRE9O_C7zRpZw?pwd=ftbp",
+    downloadUrl: "/books/1642_从地下城格斗家开始成神1-162章.txt",
+    sourceUrl: "https://www.deqixs.org/1642/txt.html#dir",
+  },
+{
+    id: 1643,
+    slug: "玩家们的npc大爹",
+    title: "玩家们的NPC大爹",
+    cover: book1643Cover,
+    author: "玖武珥绮",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-2964章",
+    latestChapter: "第2860章 可能性的迷宫",
+    excerpt: "布莱泽是一款现象级完全潜入大作的NPC，每天在城墙内过着一成不变的生活。直到有一天，他决定去看一眼外面的世界，他的生活因此发生了巨大的转变。 …… 说真的，布莱泽希望玩家不要再把他用来感谢玩家的花当作逃课道具送给特殊BOSS幽灵新娘，或者当作触发剧情的道具送给永恒王国的女王。 …… 群：771586468",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-XKPybG7SDgbxtce05y5tw?pwd=ftbp",
+    downloadUrl: "/books/1643_玩家们的NPC大爹1-2964章.txt",
+    sourceUrl: "https://www.deqixs.org/1643/txt.html#dir",
+  },
+{
+    id: 1644,
+    slug: "青葫剑仙",
+    title: "青葫剑仙",
+    cover: book1644Cover,
+    author: "竹林剑隐",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-2868章",
+    latestChapter: "第2868章 香道不存",
+    excerpt: "葫中藏日月，珠内锁阴阳。 剑斩天外天，非生亦非死。 古典仙侠，慢热爽文，布局宏大，连环相扣。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1REeNz7ZLNutA2Rsglkoyow?pwd=ftbp",
+    downloadUrl: "/books/1644_青葫剑仙1-2868章.txt",
+    sourceUrl: "https://www.deqixs.org/1644/txt.html#dir",
+  },
+{
+    id: 1645,
+    slug: "大师补习班",
+    title: "大师补习班",
+    cover: book1645Cover,
+    author: "金印",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-787章",
+    latestChapter: "第22章 三叉戟显威",
+    excerpt: "数以万计的球员奔向欧洲赛场，犹如千军万马过独木桥。 天赋卓越者惊才绝艳，努力拼搏者厚积薄发。 足球是一项唯天赋论的运动。 市区天才来到省级舞台，相形见绌！ 省级的天才来到全国乃至世界舞台，同样黯淡无光！ 一山还有一山高，真应了那句，天才只是见我的门槛！ 2034年，当五星红旗的飘扬，嘹亮的歌声充斥球场，望着电视机内身披红色战袍，被誉为中国足球真正黄金一代的天才们，魏来却是居于陋室，眼中含着不甘又希",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11u1Kc0qplaaQB_d1ZvMT5A?pwd=ftbp",
+    downloadUrl: "/books/1645_大师补习班1-787章.txt",
+    sourceUrl: "https://www.deqixs.org/1645/txt.html#dir",
+  },
+{
+    id: 1646,
+    slug: "我在迷雾打造完美领地",
+    title: "我在迷雾打造完美领地",
+    cover: book1646Cover,
+    author: "一条小白蛇",
+    date: "2026-09-08",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-286章",
+    latestChapter: "第286章 ：第一尊皇冠兵种诞生，最后一晚的角逐！",
+    excerpt: "【种田，发育，探索，进化，领主】 沈星偶然进入了一款游戏，无比真实，玩家可以在里面升级建筑、发展兵种、探索迷雾…… 游戏难度极高，他开局觉醒隐藏天赋【祭命进化】，可以献祭属性令兵种完成进化。 但偶然发现，自己似乎可以白嫖这个天赋，毫无代价的令兵种不断进化…… 各种强大的兵种被他接连进化出来。 当其他玩家还在费劲心思，耗费资源培养高阶兵种的时候。 沈星的领地中已经出现了兽人泰坦，上古巨魔，迷雾巨龙，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10JztDCuWfP3-gxXwUhST1w?pwd=ftbp",
+    downloadUrl: "/books/1646_我在迷雾打造完美领地1-286章.txt",
+    sourceUrl: "https://www.deqixs.org/1646/txt.html#dir",
+  },
+{
+    id: 1647,
+    slug: "从一战开始的无限历史战场",
+    title: "从一战开始的无限历史战场",
+    cover: book1647Cover,
+    author: "狐东方",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-402章",
+    latestChapter: "第55章 魔鬼降临之夜",
+    excerpt: "一个军事博主被系统拉入真实历史战场。 一战的泥泞战壕，他要在毒气与机枪中活下去； 古罗马的竞技场，他要在万人欢呼中杀出血路； 十字军的耶路撒冷，圣殿骑士与阿萨辛的刀锋在月光下交错； 大航海时代的加勒比，海盗黑旗下是无尽的黄金与背叛； 美国西部的荒野，左轮手枪的硝烟里，文明与野蛮正面交锋…… 别人眼里的绝境，在他这里都是历史答案。 一战堑壕，他让整个连队活着走出绞肉机； 古罗马，斯巴达克斯邀他共谋起",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1G7S3-BO0_qcZMAbIpfV6GQ?pwd=ftbp",
+    downloadUrl: "/books/1647_从一战开始的无限历史战场1-402章.txt",
+    sourceUrl: "https://www.deqixs.org/1647/txt.html#dir",
+  },
+{
+    id: 1648,
+    slug: "三国神话世界",
+    title: "三国神话世界",
+    cover: book1648Cover,
+    author: "永牧",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-10098章",
+    latestChapter: "第3177章 【封禅天香】 【御兽神典】",
+    excerpt: "神话世界，隐藏着无数宝藏与秘密！故事从一龙本源龙运和一枚神级建村令开始，铸造不一样的擎天运朝！波澜壮阔的三国神话世界，有天地神将常山赵子龙，有历史美女貂蝉，有冠绝神州的神谋。 ====================== 本书是慢热型，前面介绍比较多，但是后面会好的，作者一直在努力进步！每天两更，会爆发，求收藏！求订阅！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16ZtxnMopNaLMTJal9dgg1Q?pwd=ftbp",
+    downloadUrl: "/books/1648_三国神话世界1-10098章.txt",
+    sourceUrl: "https://www.deqixs.org/1648/txt.html#dir",
+  },
+{
+    id: 1649,
+    slug: "回到红火岁月做俗人",
+    title: "回到红火岁月做俗人",
+    cover: book1649Cover,
+    author: "工具超人",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1235章",
+    latestChapter: "第500章",
+    excerpt: "一个吃货，穿越到缺衣少吃的年代，努力做一个有吃有喝的俗人。 合理党，暴戾少，智商在线，无诸天、无双穿、无系统、无种植空间，只有一个能饿死老鼠的随身仓库。 不复制、不黏贴、不抄袭、纯手打，非工作室出品，慢节奏，符合年代特征的日常文。 除了金手指，争取其他内容都能经得起推敲，欢迎理性、友好指教。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aTyhWrusm74spyB8x9SRzw?pwd=ftbp",
+    downloadUrl: "/books/1649_回到红火岁月做俗人1-1235章.txt",
+    sourceUrl: "https://www.deqixs.org/1649/txt.html#dir",
+  },
+{
+    id: 1650,
+    slug: "欺世游戏",
+    title: "欺世游戏",
+    cover: book1650Cover,
+    author: "不祈十弦",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-399章",
+    latestChapter: "第171章 奈亚拉托提普的谜题",
+    excerpt: "当修改历史的成本低到惊人，当所有欺世者都能许下愿望、修改历史……这个世界最后会扭曲成什么样子？ 如果出车祸的朋友那天没有出门…… 如果父母的绝症能提前被发现…… 如果小时候我就知道未来会发生的事…… 如果互联网提前一百年就被发明…… 如果第三次世界大战已经爆发…… 如果，能够回到人类文明灭亡之前—— …… 【力】、【智】、【衡】、【德】、【戮】。 五种不同类型的欺世者，截然不同的道路，各不相同的异",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/17MD7R7jqrgj6ik75AkvPsA?pwd=ftbp",
+    downloadUrl: "/books/1650_欺世游戏1-399章.txt",
+    sourceUrl: "https://www.deqixs.org/1650/txt.html#dir",
+  },
+{
+    id: 1651,
+    slug: "成龙快婿",
+    title: "成龙快婿",
+    cover: book1651Cover,
+    author: "漫客1",
+    date: "2026-09-07",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-782章",
+    latestChapter: "第777章 要说法！",
+    excerpt: "因为两个灵魂碰撞，浑噩的陈清被人送到顾氏招赘。 本想着能过上踏实日子倒也不错。 欺压麻烦却接踵而至。 “这赘婿，不当也罢！” 于是陈大公子仰头望向京城，野心终于迸发。 他要向上攀登，步步登龙！ （注:主角没有入赘！！！） ps：已有一千多万字完本作品，人品保证，放心收藏！！老书《靖安侯》《贼天子》等等，欢迎大家去看！！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12v4BgT1g0HwYpbJOvZN1jQ?pwd=ftbp",
+    downloadUrl: "/books/1651_成龙快婿1-782章.txt",
+    sourceUrl: "https://www.deqixs.org/1651/txt.html#dir",
+  },
+{
+    id: 1652,
+    slug: "美利坚-疾速追杀1924",
+    title: "美利坚：疾速追杀1924",
+    cover: book1652Cover,
+    author: "漱梦实",
+    date: "2026-08-29",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-203章",
+    latestChapter: "第197章 绝技“阎王三点手”！碾压“白人之星”！",
+    excerpt: "地点：旧金山 时间：1924年 …… 他能用单手给温切斯顿杠杆步枪上弹。 他精通美利坚居合。 他的莫桑比克射击法简直出神入化。 他能用戚家刀劈开迎面飞来的子弹。 他令恶徒们深感畏惧。 …… 这是纸醉金迷的时代，这是爵士乐的时代，这是《禁酒令》的时代，这是西装暴徒的时代，这是野心家的时代，这是李昱的时代。 …… “小伙子们，记住了！千万不要招惹一个穿着黑色长风衣和黑色西装，左腿和右腋各别有1把M19",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1o-Io0t4Xhyj3cVrTQ88mHw?pwd=ftbp",
+    downloadUrl: "/books/1652_美利坚：疾速追杀19241-203章.txt",
+    sourceUrl: "https://www.deqixs.org/1652/txt.html#dir",
+  },
+{
+    id: 1653,
+    slug: "古代末世的文弱书生",
+    title: "古代末世的文弱书生",
+    cover: book1653Cover,
+    author: "陈词懒调",
+    date: "2026-09-07",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-246章",
+    latestChapter: "第244章 变……节？",
+    excerpt: "“他文弱个嘚儿！” “狗东西骗我！” “卷狗！都是卷狗！” …… 您好，卷王诚邀您加入歆州打工集团 ———————— 注：无异能，纯架空古代。 因为不涉及任何真实历史朝代和人物，又含末世元素，所以没在历史分类，归到了玄幻。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1x6dmvy9O2hG_iy7heOLK1A?pwd=ftbp",
+    downloadUrl: "/books/1653_古代末世的文弱书生1-246章.txt",
+    sourceUrl: "https://www.deqixs.org/1653/txt.html#dir",
+  },
+{
+    id: 1654,
+    slug: "斗罗绝世-我-最后的天灾",
+    title: "斗罗绝世：我，最后的天灾",
+    cover: book1654Cover,
+    author: "火中寻月",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-90章",
+    latestChapter: "第88章 光明凤凰和血魂魔傀内斗，疯狂的叶夕水",
+    excerpt: "【已有完结精品斗罗同人】林恩穿越了，第二次穿越了，上一次是在高架桥上，只记得迈巴赫的灯特别耀眼，驾驶位少年的表情很张狂，他想问这孩子tm有驾证吗？！ 这一次穿越！他一定要书写自己的传奇。 等一下这是哪？地牢！人体实验？旁边还有一个小丫头说这里是邪魂师的米奇妙妙屋。 完蛋！我被邪魂师包围了！好在脑子里有一个不怎么贤者的小贤者，武魂还是代表人体的免疫系统和神经系统，而他貌似也不是人类，而是一头伪装成人",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lDU-qTBhJlH8izFNgha_ew?pwd=ftbp",
+    downloadUrl: "/books/1654_斗罗绝世：我，最后的天灾1-90章.txt",
+    sourceUrl: "https://www.deqixs.org/1654/txt.html#dir",
+  },
+{
+    id: 1655,
+    slug: "大明第一国舅",
+    title: "大明第一国舅",
+    cover: book1655Cover,
+    author: "黑胖的老鼠",
+    date: "2026-08-31",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-1141章",
+    latestChapter: "第1141章 杀皇帝、抓徐国公",
+    excerpt: "洪武二年春，一青年牵驴扶棺来到了新丰里。 朱元璋成了我姐夫？ 那我就是大明第一国舅！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JuYAzsGRegtztk6aHOuVyA?pwd=ftbp",
+    downloadUrl: "/books/1655_大明第一国舅1-1141章.txt",
+    sourceUrl: "https://www.deqixs.org/1655/txt.html#dir",
+  },
+{
+    id: 1656,
+    slug: "纯阳",
+    title: "纯阳！",
+    cover: book1656Cover,
+    author: "南北宗源",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-803章",
+    latestChapter: "第793章 天下第一观！元宫之主",
+    excerpt: "【劫是杀身大祸，亦是长生大药】 真武山，道门十大名山，5A级旅游景区，门票280…… 祖师爷曾预言：真武传道七十三，因凡应劫后人参。 “绝不绝，灭不灭，七十三代有一歇……” “真武山传到今日，已有七十三代，难道天命当绝？” “因凡应劫，旅游观光的凡俗太多了，涨价吧！” 这一日，真武山玉牒传度…… 这一日，大学毕业的张凡观光旅游…… …… 炼尽神中阴滓，成就无极纯阳！ 我叫张凡，凡人的凡！！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1GwxJSf-o7NLvvKJ1BhNAHg?pwd=ftbp",
+    downloadUrl: "/books/1656_纯阳！1-803章.txt",
+    sourceUrl: "https://www.deqixs.org/1656/txt.html#dir",
+  },
+{
+    id: 1657,
+    slug: "娱乐圈最严厉的父亲",
+    title: "娱乐圈最严厉的父亲！",
+    cover: book1657Cover,
+    author: "书荒仙人",
+    date: "2026-09-01",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-244章",
+    latestChapter: "第243章 上帝之子",
+    excerpt: "“华语大导演，总共七八位，我炮轰了八位。看看这几个前辈，哪一个不是成绩斐然，哪个不是奖项傍身，可他们烂了，行业也完了！” “你问我凭什么不讲人情世故，我都‘杀人不眨眼’了，你问我眼睛干不干？” “我没其他想法，就是想搞个新娱乐圈！” （2004年，导演，电影，文化觉醒，无敌流，无系统）",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1KkSLx9RLL7CeUfHwLDDAUQ?pwd=ftbp",
+    downloadUrl: "/books/1657_娱乐圈最严厉的父亲！1-244章.txt",
+    sourceUrl: "https://www.deqixs.org/1657/txt.html#dir",
+  },
+{
+    id: 1658,
+    slug: "大明草包探花",
+    title: "大明草包探花",
+    cover: book1658Cover,
+    author: "沙盘球",
+    date: "2026-09-09",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-435章",
+    latestChapter: "第435章 蹇义是个老狐狸",
+    excerpt: "金陵城流传一个笑话： 长江水患，只要把曹国公李景隆和小方探花一起丢水里，就能堵住河道了。 毕竟两个人都是大草包。 对于这个笑话，方敬倒是没啥，除了叫自己小方探花觉得有点怪怪的，听着像是会被抓起来的感觉。 谁叫他是朱元璋钦点的探花郎呢？ 虽然他的水平可能连童生都不如。 不过李景隆倒是勃然大怒：我不过损失五十万大军而已，为什么和那个草包相提并论！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11YNZCc-52NGJsqE06kSqVg?pwd=ftbp",
+    downloadUrl: "/books/1658_大明草包探花1-435章.txt",
+    sourceUrl: "https://www.deqixs.org/1658/txt.html#dir",
+  },
+{
+    id: 1659,
+    slug: "天才之上",
+    title: "天才之上",
+    cover: book1659Cover,
+    author: "一桶布丁",
+    date: "2026-09-05",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-427章",
+    latestChapter: "第424章 时机不好的好消息！",
+    excerpt: "感谢这个时代的天才们，你们的毕生努力，也许能帮我节省出一个下午茶的时间。——乔源 （无门槛阅读数学天才日常流都市幻想类小说，无系统，偏日常）",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1v3LarwFETWEuCxAEcEkMOQ?pwd=ftbp",
+    downloadUrl: "/books/1659_天才之上1-427章.txt",
+    sourceUrl: "https://www.deqixs.org/1659/txt.html#dir",
+  },
+{
+    id: 1660,
+    slug: "无尽乐园",
+    title: "无尽乐园",
+    cover: book1660Cover,
+    author: "火龙果大亨",
+    date: "2026-09-07",
+    category: "科幻",
+    status: "连载中",
+    chapters: "1-590章",
+    latestChapter: "第590章 停滞",
+    excerpt: "末日生存十年的白牧，在生命的最后时刻被“无尽乐园”选中，成为一名玩家。 荒岛求生，丧尸危机，收容物基金会，后室，隐藏着狼人的村落... 无尽乐园的每一个玩家，都必须经历一次次危险的剧本，才能换取活下去的时间。 而在其他人都小心翼翼，步步惊心时，白牧却好像回到了家一样自然。 “不是，你真把乐园当家了？”",
+    tags: [{ name: "科幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QwxU98DE9f1E5rPCLpt9eQ?pwd=ftbp",
+    downloadUrl: "/books/1660_无尽乐园1-590章.txt",
+    sourceUrl: "https://www.deqixs.org/1660/txt.html#dir",
+  },
+{
+    id: 1661,
+    slug: "有道行",
+    title: "有道行",
+    cover: book1661Cover,
+    author: "大脑被掏空",
+    date: "2026-09-13",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-96章",
+    latestChapter: "第95章 怪物袭来",
+    excerpt: "有道士在江湖行， 才知人间无道行。 好在小道有道行。 符剑挑孤灯，一步一幽冥。 ———————— 四海皆忙几个闲，时人口内说尘缘。 曾将铁镜照神鬼，烹煎日月玉炉悬。 两卷道经千里路，琴酒鹤棋龙虎剑。 蛟龙斩处翻沧海，暴虎除时换人间。 这是有个道士行走江湖，给人间踏出一条大道的故事。",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1a4nGodO_XJRo5lO0b49BFg?pwd=ftbp",
+    downloadUrl: "/books/1661_有道行1-96章.txt",
+    sourceUrl: "https://www.deqixs.org/1661/txt.html#dir",
+  },
+{
+    id: 1662,
+    slug: "斗罗-死神使者也想改命",
+    title: "斗罗：死神使者也想改命",
+    cover: book1662Cover,
+    author: "红杉木游骑兵",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-123章",
+    latestChapter: "第121章 日月帝国的反叛者是不是应该称为日奸",
+    excerpt: "「绝世X龙王同人」 落地绝世唐门时代，伊玟发现情况不太对。 噫！我竟然上了死神使者的幼年身！ 邪魂师开局宛若天崩，但似乎还有改命的机会？ 谁把DND死灵学派的法爷塞到这来当武魂的？尸爆术？这明明是肌腱爆裂！ 敬请看： 死神使者改邪归正之——生命属性与武魂更配哦！ 尸爆术这轮椅不削能玩？研磨有机物作为火药的伊玟如是说。 伊莱克斯：“我承认你死神使者之名的含金量了。” 伊玟：“不！我不是死神的使者，现",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VMi1c2usvJumv3mPjIPPLQ?pwd=ftbp",
+    downloadUrl: "/books/1662_斗罗：死神使者也想改命1-123章.txt",
+    sourceUrl: "https://www.deqixs.org/1662/txt.html#dir",
+  },
+{
+    id: 1663,
+    slug: "顶级钱术",
+    title: "顶级钱术",
+    cover: book1663Cover,
+    author: "林中谷",
+    date: "2026-09-07",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-196章",
+    latestChapter: "第192章 全速运转",
+    excerpt: "世上就没有人不爱钱， 哪怕有百万中无一的个例，金钱折不了他的腰，但却能折他父母的腰，他亲戚的腰，他朋友的腰，最终让他低下高傲的头颅。 电商新秀杨峰，还没体验身家千万带来的地位与优待，就回到了年少的十八岁。 十二年辛劳，一朝成空， 但他拥有了十二年的经验。 重活一世，杨峰会很快拥有超越以往的财富与地位，他脸上露出贪婪的笑容： “2014年，很高兴与您再相见！” …… …… 万订完本《离婚后，我能听到",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gVFK0rm-Tp7M5crXV_Y1Dg?pwd=ftbp",
+    downloadUrl: "/books/1663_顶级钱术1-196章.txt",
+    sourceUrl: "https://www.deqixs.org/1663/txt.html#dir",
+  },
+{
+    id: 1664,
+    slug: "长夜君主",
+    title: "长夜君主",
+    cover: book1664Cover,
+    author: "风凌天下",
+    date: "2026-08-31",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-1817章",
+    latestChapter: "第275章 英魂不灭，征程依旧【二合一】",
+    excerpt: "他游走在长夜之中，徜徉在刀锋之上，摇摆于云端与地狱之间。 点燃星魂之火。 既然长夜漫漫，那我便做夜之君主。 【【【不是单女主，入坑需谨慎】】】 【凌天传说】【异世邪君】【傲世九重天】【天域苍穹】【我是至尊】【左道倾天】【碧落天刀】后， 风凌天下第八本书。 普群QQ：877103143",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BWzOSPtWfFt2yvhIxVBn-Q?pwd=ftbp",
+    downloadUrl: "/books/1664_长夜君主1-1817章.txt",
+    sourceUrl: "https://www.deqixs.org/1664/txt.html#dir",
+  },
+{
+    id: 1665,
+    slug: "天道酬勤-杀穿乱世成圣",
+    title: "天道酬勤，杀穿乱世成圣",
+    cover: book1665Cover,
+    author: "金卸甲",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-314章",
+    latestChapter: "第312章 围",
+    excerpt: "叶辞穿越武道为尊的世界，蛮邦肆掠，反贼横行，百姓在夹缝中苟活求生。 他穿成一个士卒，没有兵器，没有铠甲，只能捡别人剩下的破刀…… 绝境之中，觉醒武道面板！ 天道酬勤，万法自来。 付出即回报，汗水换神通。 他人困于资质，止步于瓶颈， 他却无门槛、无桎梏、无上限。 只需死磕熟练度，便能一路横推。 …… 这一天，他活着回来了，只看到家门破败，老弱相依。 世人习武，或为艰难求存，或为飞黄腾达。 而他，只为",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ALqB4TqcVgzSbXG_sCJJFA?pwd=ftbp",
+    downloadUrl: "/books/1665_天道酬勤，杀穿乱世成圣1-314章.txt",
+    sourceUrl: "https://www.deqixs.org/1665/txt.html#dir",
+  },
+{
+    id: 1666,
+    slug: "人气至上-我扮演超级天才",
+    title: "人气至上，我扮演超级天才",
+    cover: book1666Cover,
+    author: "桂月熬糖",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-177章",
+    latestChapter: "第176章 只因，崎寂不想娶你",
+    excerpt: "穿越到了一个联动直播与游戏的番剧世界中，崎寂绑定了人气系统。 只要获得足够的人气，就能获得想要的一切。 “也就是说，你要我和那些数值超模的机制怪、人设无敌的建模怪同台竞技，争抢人气？” 那还说啥？ “系统，给我兑换！” 数值，机制，建模，剧情，他全都要！ 他来这个世界，只为办三件事情：抢戏，抢戏，还TM是抢戏！ 在人气至上的番剧世界中，靠演技与拼命，盗取“天才”之名！ 自此，一个超人气的无敌角色，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zhvd7NQNCtbNDAzRXQ15rA?pwd=ftbp",
+    downloadUrl: "/books/1666_人气至上，我扮演超级天才1-177章.txt",
+    sourceUrl: "https://www.deqixs.org/1666/txt.html#dir",
+  },
+{
+    id: 1667,
+    slug: "诡秘-穿越旧日之都",
+    title: "诡秘：穿越旧日之都",
+    cover: book1667Cover,
+    author: "朝风暮云",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-149章",
+    latestChapter: "第121章 占卜不是万能的，但不占卜是万万不能的",
+    excerpt: "平行穿越，父母离异，先知先觉。 这下真是大彻大悟了： 已经品鉴的够多啦，快把我的爽文人生端上来吧。 什么叫我大学时的室友周明瑞突然猝死了？ 什么叫转运仪式？给我干哪来了这是？ —————————— 命运给穿越者开了一个荒诞的玩笑。 …… 那一年我看见猫猫虫趴在源堡门口泣不成声，时空之王的象征也无法改变既定历史。 如今“秦汉秘传方术纪要”就在眼前，林川必须考虑这是不是此生仅有的机会。重铸穿越者荣光，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yYb8Ne3dHqk2OHaUu4gPHg?pwd=ftbp",
+    downloadUrl: "/books/1667_诡秘：穿越旧日之都1-149章.txt",
+    sourceUrl: "https://www.deqixs.org/1667/txt.html#dir",
+  },
+{
+    id: 1668,
+    slug: "从熔炉骑士开始耐力登神",
+    title: "从熔炉骑士开始耐力登神",
+    cover: book1668Cover,
+    author: "狐说薪语",
+    date: "2026-09-13",
+    category: "奇幻",
+    status: "连载中",
+    chapters: "1-91章",
+    latestChapter: "第90章 雾都诺兰",
+    excerpt: "穿越到游戏世界，发现自己成了开局祭天的炮灰龙套？ 意外幸存下来，却意识到要面对亲朋好友的悲惨结局？ 对此，霍伦斯的选择是…… “异世界还是太危险了，总之先把耐力点到40吧。” 什么？你问我全加耐力要怎么赢？ 那就来点神奇妙妙小工具…… …… 【无敌体魄】-【“用力气掌握他人，用力量掌握自我”，近战攻击时，以耐力属性取代力量进行攻击检定】 【苍白密续】-【“沐浴苍白太阳的辉光，聆听祂诉说死亡之秘”，",
+    tags: [{ name: "奇幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yA4vtecrmOOJLw7FGFtPSw?pwd=ftbp",
+    downloadUrl: "/books/1668_从熔炉骑士开始耐力登神1-91章.txt",
+    sourceUrl: "https://www.deqixs.org/1668/txt.html#dir",
+  },
+{
+    id: 1669,
+    slug: "东京泡沫人生",
+    title: "东京泡沫人生",
+    cover: book1669Cover,
+    author: "大肚杯",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1643章",
+    latestChapter: "第1643章 后天就是动漫节啦！！",
+    excerpt: "穿入泡沫年代的东京，在这个陌生时代，唯一熟悉的，松田圣子、中森明菜、工藤静香......",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JvomBePwNqtRwCdi1aBkXg?pwd=ftbp",
+    downloadUrl: "/books/1669_东京泡沫人生1-1643章.txt",
+    sourceUrl: "https://www.deqixs.org/1669/txt.html#dir",
+  },
+{
+    id: 1670,
+    slug: "僵尸小姐的邪修日常",
+    title: "僵尸小姐的邪修日常",
+    cover: book1670Cover,
+    author: "这是一只小号",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-384章",
+    latestChapter: "第372章 我是老八，你也可以叫我爸爸（求月票）",
+    excerpt: "小姜重生了。 好消息：是个人。 坏消息：是个女人。 更坏的消息：这女人是个僵尸。 更更坏的消息：这女僵尸要吸血才能生存。 更更更坏的消息：对同类下不去嘴。 没办法的她，只能... “你好美女，做血常规到这边来。” “什么？为什么抽两管血？” “嗯，因为我这里检测比别人更准一点。” .......... 月光之下，某位僵尸坐在楼顶，手里拿着一根试管，惆怅的尝了一口。 “嗯？” “这是...茅台的味道",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1NKOLCnTvwInlqCwCgEfQeg?pwd=ftbp",
+    downloadUrl: "/books/1670_僵尸小姐的邪修日常1-384章.txt",
+    sourceUrl: "https://www.deqixs.org/1670/txt.html#dir",
+  },
+{
+    id: 1671,
+    slug: "每门功法补贴圆满",
+    title: "每门功法补贴圆满",
+    cover: book1671Cover,
+    author: "一寸欢喜",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-437章",
+    latestChapter: "第376章 祸患",
+    excerpt: "张凌风穿越成地主家的孩子，不用上山打猎，守着水塘打鱼，本身就是撞大运。 不料，竟然还有补贴系统。 《铁山拳》修成时间二十年，补贴十八年，剩余修成时间两年。 检测到一枚气血丹，可提升修炼进度一个月，补贴两个月，实际增强三个月，铁山拳实际修成时间一年九个月。 补贴不仅仅是期限缩短，更意味着无论修炼任何功法，都能够在规定的时间内修成，不需要大药支持也能取得突破。 修成——必成！ 皮肉血筋骨脏腑气神，九重",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1e8OSa_C6WkjVg3N5-OBgmA?pwd=ftbp",
+    downloadUrl: "/books/1671_每门功法补贴圆满1-437章.txt",
+    sourceUrl: "https://www.deqixs.org/1671/txt.html#dir",
+  },
+{
+    id: 1672,
+    slug: "战锤-以涅槃之名",
+    title: "战锤：以涅槃之名",
+    cover: book1672Cover,
+    author: "群鸦之潮",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-1319章",
+    latestChapter: "第1281章 ：摩洛的真相（上）",
+    excerpt: "在你面前的，是帝皇。 人类帝国的主君、神圣泰拉与火星的联合统治者、天父、凯撒、大帝、奥古斯都、征服群星之人、诸异形的灾星、不朽的智慧、恶毒神明的诅咒、黄金王座之上的守望…… 以及最重要的： 人类永恒的神祇、不灭的信仰、最庞大的苦难产生者、最伟大的苦难承受者。 他的军团在堕落，他的帝国在死去，他的一切最神圣最原初的梦想正在变为足以杀死他自己的蒙昧与暴行。 他在哭泣。 他在尖叫。 他在无能为力，在无穷",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_V1qmCCTP2BZIh-bAdOkYw?pwd=ftbp",
+    downloadUrl: "/books/1672_战锤：以涅槃之名1-1319章.txt",
+    sourceUrl: "https://www.deqixs.org/1672/txt.html#dir",
+  },
+{
+    id: 1673,
+    slug: "西西里的渔夫传说",
+    title: "西西里的渔夫传说",
+    cover: book1673Cover,
+    author: "一池浅芽",
+    date: "2026-09-12",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-319章",
+    latestChapter: "第317章 这位‘帅哥’你是哪位？",
+    excerpt: "关键词：【日常】【不正经赶海】【错位】【异域民俗】【微冒险】【微希腊神话】 我只是爱听《西西里》，谁让你把我送到西西里？ 不过西西里挺好的，四面环海，气候宜人，文化绚丽，有一年四季吃不完的美食，还有地中海这个肥美的大渔场。 但这个系统是什么鬼东西？ 【你接到了任务：待宰的羔羊】 【在动荡不安的西西里，人们似乎忘记了尊重二字的写法，但冒犯你，是比触怒大海更愚蠢的事——让那些不尊重你的家伙永远消失！】",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZuYCMNcGkKpnnc5nEQk-nQ?pwd=ftbp",
+    downloadUrl: "/books/1673_西西里的渔夫传说1-319章.txt",
+    sourceUrl: "https://www.deqixs.org/1673/txt.html#dir",
+  },
+{
+    id: 1674,
+    slug: "长津湖-满仓有身装备栏",
+    title: "长津湖：满仓有身装备栏",
+    cover: book1674Cover,
+    author: "中条山的狼",
+    date: "2026-09-13",
+    category: "军事",
+    status: "连载中",
+    chapters: "1-344章",
+    latestChapter: "第343章 算我一个",
+    excerpt: "1950冬，江对岸的战场上少了一个憨炮兵朱满仓，多了一个二十一世纪的穿越客——朱满仓。 他继承了老班长用命守护的炮队镜，也开始了他的“战场捡漏”生涯。 松骨峰、下碣隅里、长津湖、水门桥、临清江、横城反击、砥平里、铁原、上甘岭都留下了他的汗水和鲜血。 白头鹰的空投？谢谢运输大队长！ 南棒军补给？不抢白不抢！ 联军？等等我算算你们还能回去几个。！ 他的装备换了一茬又一茬，兵王之路越走越宽。 三年战争打",
+    tags: [{ name: "军事", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_DqAZKtNVqnq07awYJSHcg?pwd=ftbp",
+    downloadUrl: "/books/1674_长津湖：满仓有身装备栏1-344章.txt",
+    sourceUrl: "https://www.deqixs.org/1674/txt.html#dir",
+  },
+{
+    id: 1675,
+    slug: "民国-从神打开始入道",
+    title: "民国：从神打开始入道",
+    cover: book1675Cover,
+    author: "鱼儿小小",
+    date: "2026-09-10",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-273章",
+    latestChapter: "第200章 破阵，四方云动（上）",
+    excerpt: "重生到清末民初，面对洋枪洋炮，李信想不出，他拿什么抵挡入侵危机？凭什么活得像一个人。 “凭借武术吗？事实证明，死路一条。” 在逃亡路上，他竟然发现，“神打”这门技能的真正隐秘。 并不是什么祖师下凡、神明附体，而是催眠自己，让身体分泌各种激素，激发细胞无上潜能。 “这哪是什么迷信？这是科学啊。” 李信惊讶的发现，面对各方豪强、四海精英，自己可以化身为【哪吒三太子】，还可以化身为【二郎神】，以及【齐天",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FPuf6bVVWmn8rCP__jEPZQ?pwd=ftbp",
+    downloadUrl: "/books/1675_民国：从神打开始入道1-273章.txt",
+    sourceUrl: "https://www.deqixs.org/1675/txt.html#dir",
+  },
+{
+    id: 1676,
+    slug: "惊悚乐园",
+    title: "惊悚乐园",
+    cover: book1676Cover,
+    author: "三天两觉",
+    date: "2026-08-27",
+    category: "悬疑",
+    status: "已完结",
+    chapters: "1-1514章",
+    latestChapter: "第1401章 完本感言",
+    excerpt: "这是超越维度的游戏。 亦是追寻真理的竞逐。 未知的封印，鬼神的赌局…… 数据的抗争，人类的救赎…… 在那个连接着现实的虚拟世界——意识决定我们，意识选择我们，意识决定了我们的意识。 现在，丢掉你的恐惧。 丢掉你的私心杂念、疑问和拒信……解放你的思想。 欢迎来到，惊悚乐园。 《惊悚乐园》实体书现已上架ㄟ(▔,▔)ㄏ",
+    tags: [{ name: "悬疑", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Gw1TrmCC4ZQ7v4tLDqa7Yw?pwd=ftbp",
+    downloadUrl: "/books/1676_惊悚乐园1-1514章.txt",
+    sourceUrl: "https://www.deqixs.org/1676/txt.html#dir",
+  },
+{
+    id: 1677,
+    slug: "谁敢抢我唐僧肉",
+    title: "谁敢抢我唐僧肉！",
+    cover: book1677Cover,
+    author: "天空泪",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-447章",
+    latestChapter: "第446章 第六条尾巴",
+    excerpt: "如果《西游》被做成了虚拟网游，数亿玩家降临三界！ 唐僧还能取到真经吗？ 本游戏核心玩法—— 闯过的劫难越多，保护唐僧所获的功德越是丰厚。 而唐僧肉的效果，也就越强！ 唐僧西行失败被杀后，将会轮回转世，重择护道人，再踏西行之路！ 当唐僧又又又又一次转世，好不容易闯到平顶山，原本挡关的金角银角竟是跌跌撞撞跑到唐僧面前。 “圣僧！圣僧救命啊！快让您的徒儿们挡一挡那煞星吧！” 后方仓皇逃来的妖魔成千上万，",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1H6pUfXi5MctwBqCaxYAmkA?pwd=ftbp",
+    downloadUrl: "/books/1677_谁敢抢我唐僧肉！1-447章.txt",
+    sourceUrl: "https://www.deqixs.org/1677/txt.html#dir",
+  },
+{
+    id: 1678,
+    slug: "全职猎人-无限成长",
+    title: "全职猎人：无限成长",
+    cover: book1678Cover,
+    author: "冲天雪碧",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-646章",
+    latestChapter: "第637章 预言劝退X单人试探",
+    excerpt: "我死了，然后又活了。 穿越到一个死人的身上。 一个陌生的男人救了我，他说他叫金。 金·富力士。 奇怪的名字。 他说他杀了我，然后看着我复活。 ……那么问题来了，现在怎么办？ ———————— 原本的躯体死去拥有了所谓的死后念，穿越而来的我也能开发自己的能力。 1+1＝无限成长。",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1bnjgmeGHgqtiBXggQ0VW5w?pwd=ftbp",
+    downloadUrl: "/books/1678_全职猎人：无限成长1-646章.txt",
+    sourceUrl: "https://www.deqixs.org/1678/txt.html#dir",
+  },
+{
+    id: 1679,
+    slug: "帝国将持续的赢",
+    title: "帝国将持续的赢",
+    cover: book1679Cover,
+    author: "忧郁笑笑生",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-191章",
+    latestChapter: "第167章 看金陵报二十年，不如看京师报两天快活~",
+    excerpt: "【古法手搓，无AI，无借鉴，无参照，100%人脑输出，传统作者，憨厚老实，经得起历史和人民的考验】 【近代争霸，历史后宫，政治斗争，架空设定（三分晚清，七分原创）】 【已有两本大精品完本历史文。】 宣武六年，京城依旧歌舞升平，但明眼人都知道，所谓盛世不过是帝国最后的回光返照。 海上，邻国的铁甲舰队挂起了Z字旗，耀武扬威。 东南沿海，各省督抚自成一体，隐隐割据。 边疆大漠，地方豪族大建坞堡，招兵买马",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Npg0SPojqKV2O7lgadtAsA?pwd=ftbp",
+    downloadUrl: "/books/1679_帝国将持续的赢1-191章.txt",
+    sourceUrl: "https://www.deqixs.org/1679/txt.html#dir",
+  },
+{
+    id: 1680,
+    slug: "华娱1998-国家队导演",
+    title: "华娱1998：国家队导演！",
+    cover: book1680Cover,
+    author: "回头已是悬崖",
+    date: "2026-09-07",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-254章",
+    latestChapter: "第252章 迎接另一个晨曦，带来全新空气！北京欢迎你！",
+    excerpt: "苏南醉酒醒来，发现重生回到了1998年北电教室中那场可以改变人生的重要辩论。 对方辩手陆钏侃侃而谈，要学习西方艺术，讨论人性。 乌尔善崇尚好莱坞，夸赞好莱坞的商业电影，赚钱为主。 这一世，苏南不再沉默，直接怒斥反驳。 重活一世，苏南告别资本博弈，而是选择加入国家队！ 苏式蒙太奇？好莱坞三幕剧？西方艺术导演？ 这一世要走出自己的路，东方美学之路！ 一切，从入职‘省队’拍摄《大明武宗》、《潜伏》开始！",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19VYN95AP8CZ2UB8ebEYFoQ?pwd=ftbp",
+    downloadUrl: "/books/1680_华娱1998：国家队导演！1-254章.txt",
+    sourceUrl: "https://www.deqixs.org/1680/txt.html#dir",
+  },
+{
+    id: 1681,
+    slug: "从骨王开始征服综漫世界",
+    title: "从骨王开始征服综漫世界",
+    cover: book1681Cover,
+    author: "鹅城大学生",
+    date: "2026-09-13",
+    category: "轻",
+    status: "连载中",
+    chapters: "1-85章",
+    latestChapter: "第85章",
+    excerpt: "罗伊撞大运后，获得次元之门。 他不仅能穿综漫世界，还能自主选择世界。 全职猎人，海贼王，火影忍者，Overlord，一拳超人，美食的俘虏…… 每个世界都蕴含神秘而强大的力量。 念能力，恶魔果实，忍术，位阶魔法，怪人细胞，美食细胞…… 第一次穿越，该选哪个世界，才能利益最大化？ 罗伊看完所有选项，果断选择《Overlord》。 不是他喜欢骨王，而是这世界玩游戏就能变强，还附赠一堆手下与财宝。 没有比",
+    tags: [{ name: "轻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13GpIpUwmTEnWAV5Fo12N_A?pwd=ftbp",
+    downloadUrl: "/books/1681_从骨王开始征服综漫世界1-85章.txt",
+    sourceUrl: "https://www.deqixs.org/1681/txt.html#dir",
+  },
+{
+    id: 1682,
+    slug: "洞房花烛夜后-得知夫君有花柳病",
+    title: "洞房花烛夜后，得知夫君有花柳病",
+    cover: book1682Cover,
+    author: "青墨",
+    date: "2026-09-02",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-456章",
+    latestChapter: "第456章 ：真甜，好甜呐",
+    excerpt: "云倾的嫡妹云娇重生了，重生的第一件事就是设计陷害云倾，并抢了她的亲事。 上辈子云倾嫁给了身有残疾的侍郎府公子谢齐，过的顺风又顺水，让云娇很是羡慕嫉妒。 而云娇嫁给了国公府小公爷秦脩，觉得他模样好，家世好，处处都比谢齐强。 结果不曾想，那秦脩竟是个混不吝，不但养外室，宠表妹，还对她冷恶至极，最后云娇落得死不瞑目。 好在她重生了，把秦脩那冷恶至极的男人推给了云倾。 穿书而来云倾：？ 天下男人皆为渣，嫁",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/159I--8oIrEDPecvGxPXUrg?pwd=ftbp",
+    downloadUrl: "/books/1682_洞房花烛夜后，得知夫君有花柳病1-456章.txt",
+    sourceUrl: "https://www.deqixs.org/1682/txt.html#dir",
+  },
+{
+    id: 1683,
+    slug: "八零-渣男逼我死遁-嫁糙汉夜夜被亲哭",
+    title: "八零：渣男逼我死遁，嫁糙汉夜夜被亲哭",
+    cover: book1683Cover,
+    author: "夏攸宁",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-103章",
+    latestChapter: "第103章 有贼心没贼胆（求票）",
+    excerpt: "【年代+死遁不回头+男二蓄谋已久+双洁】 婆婆离世，苗若男带着骨灰前往军区寻找丈夫，却意外得知他竟背着她把前对象接到了军区。 前任连番陷害，他眼瞎心盲处处相护。 心灰意冷，死遁离开。 他却幡然醒悟，夜夜哭坟： “苗苗，我错了，我真的知道错了。” 切！ 谁稀罕！ 本想死遁，结果差点儿真死。 冰冷的河水里，苗若男被那个糙汉子按在宽阔有力的胸膛上， “别死！别死！我不要你死！！” “那你倒是放开啊！再不",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HImNgR8Fl0LkunjSewMl8A?pwd=ftbp",
+    downloadUrl: "/books/1683_八零：渣男逼我死遁，嫁糙汉夜夜被亲哭1-103章.txt",
+    sourceUrl: "https://www.deqixs.org/1683/txt.html#dir",
+  },
+{
+    id: 1684,
+    slug: "王爷别怀疑-你的崽天下无敌",
+    title: "王爷别怀疑，你的崽天下无敌",
+    cover: book1684Cover,
+    author: "白芨",
+    date: "2026-09-05",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-517章",
+    latestChapter: "第517章 星月盟的信息和流云阁保持互通",
+    excerpt: "沈灼身中“六时欢”情毒，被人追杀。 暴雨夜的山神庙内，情毒发作之际，采药少女初禾以身为他解毒…… 事后，沈灼让人送初禾到京都安置，不想初禾却自己逃之夭夭。 五年后，两人京都重逢，初禾身边还多了一位“护花使者”，沈灼从此开始漫漫的追妻路……",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/177aypPYzydLm3IhZWgt0Xg?pwd=ftbp",
+    downloadUrl: "/books/1684_王爷别怀疑，你的崽天下无敌1-517章.txt",
+    sourceUrl: "https://www.deqixs.org/1684/txt.html#dir",
+  },
+{
+    id: 1685,
+    slug: "我一个杂役-真不是合欢老祖啊",
+    title: "我一个杂役，真不是合欢老祖啊！",
+    cover: book1685Cover,
+    author: "五郎",
+    date: "2026-09-05",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-173章",
+    latestChapter: "第173章 娘娘，有一个人类闯进来了！",
+    excerpt: "李青山重生到了合欢宗，还是一个废灵根的杂役弟子。 幸好他觉醒了金手指，“连接”师姐，“掠夺”师姐，从而将对方的灵根天赋，修为境界，全都变成自己的。 不知不觉中，李青山慢慢成长，在无数次与师姐师妹们的“连接“过程中，他的天赋一点点蜕变，实力突飞猛进。 直到合欢宗即将灭门时，他一人独扛八大正道宗门掌教而不败。 浩然宗宗主：此人恐怕是合欢宗老祖，大家小心！ 天龙寺主持：此人深不可测，我与他对轰一击，竟然",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1vXN7nv7Wc6-YVMND_o771Q?pwd=ftbp",
+    downloadUrl: "/books/1685_我一个杂役，真不是合欢老祖啊！1-173章.txt",
+    sourceUrl: "https://www.deqixs.org/1685/txt.html#dir",
+  },
+{
+    id: 1686,
+    slug: "大明边军-昏君被俘-我反手夺天下",
+    title: "大明边军：昏君被俘，我反手夺天下！",
+    cover: book1686Cover,
+    author: "声音画家",
+    date: "2026-09-06",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-396章",
+    latestChapter: "第396章 后宫温情",
+    excerpt: "土木堡，二十万精锐覆灭，朱祁镇沦为瓦剌阶下囚。 特种兵秦烈穿越成宣府前卫一名小卒，在尸山血海中醒来。 权阉王振还在裹挟溃军送死？瓦剌铁骑肆意屠戮同胞？ 秦烈拔刀——这昏君，不救了！这权阉，必须杀！ 他于危难中收拢溃兵，鸳鸯阵绞杀瓦剌铁骑，火铳营轰碎敌军战阵，在长城脚下筑起铁血防线。 当朝堂派来监军猜忌打压，当文官集团想要摘桃夺权，秦烈冷笑： 既然这朱家江山烂到了根里，那这天下，便由我秦烈来坐！ 从",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1f9DxjhAaAqJ-LEe3N7a3DQ?pwd=ftbp",
+    downloadUrl: "/books/1686_大明边军：昏君被俘，我反手夺天下！1-396章.txt",
+    sourceUrl: "https://www.deqixs.org/1686/txt.html#dir",
+  },
+{
+    id: 1687,
+    slug: "长生从坊市散修开始",
+    title: "长生从坊市散修开始",
+    cover: book1687Cover,
+    author: "许留仙",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-756章",
+    latestChapter: "第755章 五阶灵药种子，太乙灵种与神玉炼",
+    excerpt: "【凡人流｜多女主｜雷法道君｜催熟仙府】 注意：多女主的凡人流修仙。 主角：李易 地点：万灵海 身份：坊市散修 修为：练气六层 灵根：雷木灵根 外挂：催熟灵府 辅艺：丹符双修，傀儡术、长春化愈之术，略通阵法。 灵兽：风雷兽小龟，天地灵猿之一的鬼猿，有天鹏血脉的血鹫。 经历：从炼气小修开始，一步步成为万灵海，天元失落界面，九灵界，南荒、大晋仙朝乃至整个天衍界人族的第一化神修士，飞升灵界。 …… 1.崔",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PcEAZm3wydN6md5FfW4O6w?pwd=ftbp",
+    downloadUrl: "/books/1687_长生从坊市散修开始1-756章.txt",
+    sourceUrl: "https://www.deqixs.org/1687/txt.html#dir",
+  },
+{
+    id: 1688,
+    slug: "官场逆袭-我的美女领导有点强",
+    title: "官场逆袭：我的美女领导有点强",
+    cover: book1688Cover,
+    author: "风流小二",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-953章",
+    latestChapter: "第165章 ：左右为难（二）",
+    excerpt: "被相恋四年的女友当众抛弃，理由是 “跟着你看不到希望”，王文超攥着仅剩的尊严在酒吧买醉，却意外与陌生美女共度一夜。 从沿海高薪工作辞职回乡，他在最基层的岗位上挣扎：敬老院的破屋漏雨，顶头上司处处刁难，连前女友的新男友都带着优越感上门挑衅。他攥紧拳头暗自发誓：“早晚有一天我会让你们后悔的。” 一次意外，他救助了敬老院的张奶奶，竟牵出神秘人脉；党校学习期间，他与市长千金许可欣、商界精英肖雨涵、高冷老师",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ig2RQcEIKdxto2p-wkvc9w?pwd=ftbp",
+    downloadUrl: "/books/1688_官场逆袭：我的美女领导有点强1-953章.txt",
+    sourceUrl: "https://www.deqixs.org/1688/txt.html#dir",
+  },
+{
+    id: 1689,
+    slug: "让你下山娶妻-不是让你震惊世界",
+    title: "让你下山娶妻，不是让你震惊世界！",
+    cover: book1689Cover,
+    author: "秋水",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-2506章",
+    latestChapter: "第2506章 动静越大越热闹",
+    excerpt: "明川头次下山，结果就遇上了美女投怀送抱。 一夜风流后，这才意识到，这个女人，竟然就是自己未婚妻！ 而像这样的未婚妻，他还有八个！ 美女总裁：“明川虽然傻的可爱，但不是我的意中人。” 国际名星：“想娶我？等你做到娱乐圈顶流再说！” 高冷战神：“我的男人，必须是盖世无双的英雄，你还差得远。” …… 许多年后。 “我还是喜欢你们原来桀骜不驯的样子。”",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14t2WxwH-e73qW0FeiwNjiA?pwd=ftbp",
+    downloadUrl: "/books/1689_让你下山娶妻，不是让你震惊世界！1-2506章.txt",
+    sourceUrl: "https://www.deqixs.org/1689/txt.html#dir",
+  },
+{
+    id: 1690,
+    slug: "御兽-高武杀戮-我的狗子超神了",
+    title: "御兽：高武杀戮，我的狗子超神了？",
+    cover: book1690Cover,
+    author: "冷冷木木吖",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-213章",
+    latestChapter: "第213章 ：您受累，收他为弟子吧",
+    excerpt: "【神兽培养】+【杀戮系统】+【有脑子好看】 -林玄夜，全校公认的废物，觉醒仪式只契约了F 级三眼冥犬，被当众嘲讽、校花羞辱、天才霸凌，人人都踩他一脚。 就在他受尽屈辱、濒临绝境之际 —— 【叮！高武杀戮系统绑定成功！】 -别人靠兽宠保命，他靠系统逆天！ -签到即送SSS级万兽主宰神典，兽宠属性100%同步自身，废狗秒变幽冥战犬！ 血脉提纯一键进化，F 级废物直冲神级！ -杀戮涨气血，战斗破境界，御",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Qj_u3RZBmHhpbM9KD1qf6w?pwd=ftbp",
+    downloadUrl: "/books/1690_御兽：高武杀戮，我的狗子超神了？1-213章.txt",
+    sourceUrl: "https://www.deqixs.org/1690/txt.html#dir",
+  },
+{
+    id: 1691,
+    slug: "让你练生活职业-你肝成神职",
+    title: "让你练生活职业，你肝成神职",
+    cover: book1691Cover,
+    author: "爱睡觉懒人",
+    date: "2026-08-31",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-800章",
+    latestChapter: "第788章 植入力量",
+    excerpt: "妖物遮天蔽日，伪神高踞庙堂。 秦安穿越而来，觉醒生活职业。 【屠户：刀法精通】 【书生：悟性提升】 【铁匠：力可降龙】 …… 这些生活职业，成了他在这个妖魔世界立命的根本。 刀法劈开阴阳混沌。 读书明悟天地法则。 打铁锤炼力量金身。 满天神佛惊骇的注视下，被视作蝼蚁的凡人，以匪夷所思的方式改写着世间。 若干年后，诸天神魔的残躯堆成王座。 秦安轻抚卷刃的尖刀。 &quot;不过是生活职业而已。&qu",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1wuBpfZsbW-Bg7hAZGyyPZg?pwd=ftbp",
+    downloadUrl: "/books/1691_让你练生活职业，你肝成神职1-800章.txt",
+    sourceUrl: "https://www.deqixs.org/1691/txt.html#dir",
+  },
+{
+    id: 1692,
+    slug: "太阳神体-从为仙女解毒开始无敌",
+    title: "太阳神体：从为仙女解毒开始无敌！",
+    cover: book1692Cover,
+    author: "有木",
+    date: "2026-09-04",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1110章",
+    latestChapter: "第1110章 大结局！",
+    excerpt: "【传统玄幻】【热血】【杀伐果断】【无敌】 仙女：我要…… 叶凡：仙女，你要什么？ 叶凡：当着佛祖的面，仙女可不能乱来呀…… 叶凡加班猝死穿越异界，为仙女解毒后觉醒太阳神体，得太阳神帝传承与镇天碑，晒太阳就能变强，从此开启一条无敌之路。 叶凡：你相信光吗？有光，我无敌！无光，我就是这世界唯一的光！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Pf1VJFmmz24O8MvNxNTaNQ?pwd=ftbp",
+    downloadUrl: "/books/1692_太阳神体：从为仙女解毒开始无敌！1-1110章.txt",
+    sourceUrl: "https://www.deqixs.org/1692/txt.html#dir",
+  },
+{
+    id: 1693,
+    slug: "吞噬星空之我能加点属性",
+    title: "吞噬星空之我能加点属性",
+    cover: book1693Cover,
+    author: "混沌擎莲",
+    date: "2026-09-05",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-520章",
+    latestChapter: "第201章 意志磨炼，突破",
+    excerpt: "穿越到吞噬星空大涅槃前期的白辞。 靠着每年增加一点的属性加点，走上了至强道路。 悟透一项本源法则便能成为不朽？ 来，来，来。 把点给我加上。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xRu8FTi5GWTXjVsr0-Qa4g?pwd=ftbp",
+    downloadUrl: "/books/1693_吞噬星空之我能加点属性1-520章.txt",
+    sourceUrl: "https://www.deqixs.org/1693/txt.html#dir",
+  },
+{
+    id: 1694,
+    slug: "上门女婿叶辰",
+    title: "上门女婿叶辰",
+    cover: book1694Cover,
+    author: "掘土小坦克",
+    date: "2026-09-06",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-2641章",
+    latestChapter: "第2641章 莫青青的要求",
+    excerpt: "上门女婿叶辰入赘三年，妻子骂废物，丈母娘瞧不起，亲戚冷眼旁观，起得比鸡早，睡得比狗晚，处处看人脸色！ 上门女婿怎么了？倒插门又怎么了？三十年河东三十年河西！ 金鳞岂是池中物？当初你们对我爱答不理，今天我让你们高攀不起！",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1prtKyz-NEm3G_uD0x9WjSg?pwd=ftbp",
+    downloadUrl: "/books/1694_上门女婿叶辰1-2641章.txt",
+    sourceUrl: "https://www.deqixs.org/1694/txt.html#dir",
+  },
+{
+    id: 1695,
+    slug: "官场-权路迷局之绯色官途",
+    title: "官场：权路迷局之绯色官途",
+    cover: book1695Cover,
+    author: "书生出村",
+    date: "2026-09-05",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-3498章",
+    latestChapter: "第2720章 郝枫在寿宴上被埋汰",
+    excerpt: "一个女领导的空降，让一直被打压的县府办秘书郝枫出现了转机。 一个惊心动魄的陷阱，郝枫因祸得福被重用，从此官运亨通，在一个个绯色迷局中破局而出，青云直上，最终登上权力巅峰。",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Fi0avHDJj29k00JvZLlaSQ?pwd=ftbp",
+    downloadUrl: "/books/1695_官场：权路迷局之绯色官途1-3498章.txt",
+    sourceUrl: "https://www.deqixs.org/1695/txt.html#dir",
+  },
+{
+    id: 1696,
+    slug: "重生74-我老婆是漂亮女知青",
+    title: "重生74，我老婆是漂亮女知青",
+    cover: book1696Cover,
+    author: "小霸王李平安",
+    date: "2026-08-31",
+    category: "都市",
+    status: "连载中",
+    chapters: "1-736章",
+    latestChapter: "第736章 高光时刻",
+    excerpt: "【打猎捞鱼+漂亮女知青媳妇+养娃+发财致富+单女主】 李建军重生到70年代，开局就和已经有异心的村花未婚妻退了婚。 然后，他看中了漂亮腹黑女知青：苏晚。 …… 苏晚力气弱，吃不饱还要下地干活。 李建军就打猎捕鱼养鸡采蜂蜜，给苏晚送肉送鸡蛋送美食，让这姑娘的伙食比城里吃的还好。 苏晚看着李建军，“你喜欢我吗?” 李建军回答：“喜欢。” 苏晚：“那你娶我。” 李建军：“好！” 就这样，李建军娶了城里来",
+    tags: [{ name: "都市", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1btVGjDLxOLMbTfG9c-yEGQ?pwd=ftbp",
+    downloadUrl: "/books/1696_重生74，我老婆是漂亮女知青1-736章.txt",
+    sourceUrl: "https://www.deqixs.org/1696/txt.html#dir",
+  },
+{
+    id: 1697,
+    slug: "监国太子-开局软禁崇祯",
+    title: "监国太子，开局软禁崇祯",
+    cover: book1697Cover,
+    author: "不知明月",
+    date: "2026-09-05",
+    category: "历史",
+    status: "连载中",
+    chapters: "1-267章",
+    latestChapter: "第267章 ：逐渐傲娇的崇祯",
+    excerpt: "崇祯十六年，魂穿明末太子朱慈烺 开局被崇祯训斥，当场硬钢。 刚夺权就被发现？ 直接把崇祯气到吐血昏迷。 朝野震动，后宫惊变。 朱慈烺立于病榻前。 “父皇病重，不能理事。” “从今日起，孤，以太子身份监国摄政。” 清君侧，掌兵权，定朝纲，挽天倾。 这大明，我说了算！",
+    tags: [{ name: "历史", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1AnctgdOMImyLQbF_-HamKQ?pwd=ftbp",
+    downloadUrl: "/books/1697_监国太子，开局软禁崇祯1-267章.txt",
+    sourceUrl: "https://www.deqixs.org/1697/txt.html#dir",
+  },
+{
+    id: 1698,
+    slug: "混沌阴阳鼎",
+    title: "混沌阴阳鼎",
+    cover: book1698Cover,
+    author: "大门牙",
+    date: "2026-08-31",
+    category: "玄幻",
+    status: "已完结",
+    chapters: "1-385章",
+    latestChapter: "第385章 吞（终章）",
+    excerpt: "我有一鼎，可镇万界。 阴阳初鸣，生道纹定天地乾坤。 混沌衍生，开阴阳溯光阴长河。 造化源初，化混沌掌万界生死。 …… 父兄战死，家族式微。 秦景言于逆境崛起，杀穿九天十地，证得大道仙尊！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "完结", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TZem660tDtlF28NQ4KFaUw?pwd=ftbp",
+    downloadUrl: "/books/1698_混沌阴阳鼎1-385章.txt",
+    sourceUrl: "https://www.deqixs.org/1698/txt.html#dir",
+  },
+{
+    id: 1699,
+    slug: "第一天骄",
+    title: "第一天骄",
+    cover: book1699Cover,
+    author: "苏月夕",
+    date: "2026-09-06",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1286章",
+    latestChapter: "第1286章 夜半三更，不请自来！",
+    excerpt: "天才，只是见我的门槛！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1S07d1rppCYDk2LFXhsZC_g?pwd=ftbp",
+    downloadUrl: "/books/1699_第一天骄1-1286章.txt",
+    sourceUrl: "https://www.deqixs.org/1699/txt.html#dir",
+  },
+{
+    id: 1700,
+    slug: "我在凡间种田长生",
+    title: "我在凡间种田长生",
+    cover: book1700Cover,
+    author: "小龙卷风",
+    date: "2026-09-05",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-786章",
+    latestChapter: "第786章 摇人",
+    excerpt: "叶家村少年叶峰意外开启玄仙界，从此走上了修仙道路。 被蛮横嫂子赶出家门，反手开垦出一块灵田。 灵田能种出无上仙粮，大夏皇朝皇子都抢着吃。 …… 在大夏皇朝几乎绝迹的仙草灵宝，在我的灵田里面就是杂草！ 人人都想修仙长生，却不知叶峰只是种种田，养养牛便已经得道长生！",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1oRHd659V9VMyOvkRpstDQQ?pwd=ftbp",
+    downloadUrl: "/books/1700_我在凡间种田长生1-786章.txt",
+    sourceUrl: "https://www.deqixs.org/1700/txt.html#dir",
+  },
+{
+    id: "s52266",
+    slug: "我的师妹不可能是傻白甜",
+    title: "我的师妹不可能是傻白甜",
+    cover: books52266Cover,
+    author: "归山玉",
+    date: "2026-09-14",
+    category: "仙侠",
+    status: "连载中",
+    chapters: "1-462章",
+    latestChapter: "第462章 第 462 章",
+    excerpt: "东海罗山，是青阳国山峰之最。 罗山靠海而生，山高两万丈，想要登顶，须得过海市蜃楼，再攀万丈悬崖，对外有言：非圣者境界难以上罗山。 山腰往上日夜有云雾环绕，在山巅大片奇花异草遮掩中，隐约可见红墙黑瓦。 黑瓦之下的屋中布满烛火，惨白的蜡烛在地面摆放成一个个小圈，靠近桌案处的蜡烛偏长，照亮挂在案上的一幅老旧画像。 画纸边角泛黄，像是浸水后让颜料，固定线条的支架散去，于是只见五彩斑斓的颜色，却不知画中景物",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cX9VKxIu6hrTMpcecxuBMg?pwd=d3e3",
+    downloadUrl: "/books/s52266_我的师妹不可能是傻白甜1-462章.txt",
+    sourceUrl: "https://www.jcxs.org/book/52266/",
   },
 ];
 

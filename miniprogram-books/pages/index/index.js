@@ -1,4 +1,5 @@
-const { books, meta, filterBooks } = require('../../utils/books');
+const { books, meta, filterBooks, getBookById } = require('../../utils/books');
+const { onLatestChapterTap: handleLatestChapterTap } = require('../../utils/read-url');
 
 const PAGE_SIZE = 10;
 
@@ -95,6 +96,12 @@ Page({
   onBookTap(e) {
     const { id } = e.currentTarget.dataset;
     wx.navigateTo({ url: `/pages/detail/detail?id=${id}` });
+  },
+
+  onLatestChapterTap(e) {
+    const { id } = e.currentTarget.dataset;
+    const book = getBookById(id);
+    handleLatestChapterTap(id, book && book.readUrl);
   },
 
   onOpenSite() {

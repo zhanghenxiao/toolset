@@ -11,7 +11,7 @@
           </div>
 
           <Pagination :total="totalPages" :current="currentPage" :totalItems="filteredItems.length"
-            :show-info="false" @change="handlePageChange" />
+            @change="handlePageChange" />
         </div>
         <div v-else class="no-results fade-in">
           <div v-if="isKeywordSearchEmpty" class="no-results-content no-results-scan">

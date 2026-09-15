@@ -1,0 +1,80 @@
+.reader-page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f3ead8;
+}
+
+.state-box {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48rpx;
+}
+
+.state-text {
+  color: #5c4a38;
+  font-size: 28rpx;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.retry-btn {
+  margin-top: 24rpx;
+  background: #4a3728;
+  color: #fff;
+}
+
+.reader-toolbar {
+  padding: 20rpx 28rpx;
+  background: #4a3728;
+  color: #fff;
+}
+
+.toolbar-title {
+  display: block;
+  font-size: 28rpx;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.toolbar-meta {
+  display: block;
+  margin-top: 8rpx;
+  font-size: 22rpx;
+  opacity: 0.85;
+}
+
+.reader-body {
+  flex: 1;
+  height: 0;
+  padding: 28rpx 32rpx 16rpx;
+  box-sizing: border-box;
+}
+
+.reader-content {
+  display: block;
+  color: #2e2418;
+  line-height: 1.85;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.reader-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12rpx;
+  justify-content: center;
+  padding: 16rpx 20rpx 32rpx;
+  background: #ebe2d0;
+  border-top: 1rpx solid #d8c9ad;
+}
+
+.foot-btn {
+  min-width: 120rpx;
+  background: #fffaf0;
+  color: #4a3728;
+  border: 1rpx solid #c9b896;
+}

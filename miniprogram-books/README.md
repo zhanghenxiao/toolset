@@ -24,13 +24,17 @@ miniprogram-books/
 node csdn/scripts/sync-miniprogram-books-data.js
 ```
 
-4. 在微信公众平台配置 **downloadFile 合法域名**：`https://toolset.site`（用于加载封面图）
+4. 在微信公众平台配置 **downloadFile 合法域名**：
+   - `https://toolset.site`（Vite 打包封面 `/assets/book-*`）
+   - `https://www.deqixs.org`（新书封面备用，同步脚本自动使用）
+5. 网站部署后若希望封面全部走同源，可执行：
+   `node csdn/scripts/sync-book-covers.js` 并发布 `book-covers/`，再设置环境变量 `MINIPROGRAM_COVER=stable` 后重新同步小程序数据
 
 ## 功能说明
 
 - 分类 / 标签 / 关键词筛选
 - 分页浏览（每页 10 本）
-- 书籍详情：简介、最新章节、复制夸克阅读链接
+- 书籍详情：简介、最新章节；**连续点击两次「最新章节」**复制夸克分享链接（列表页角标同样支持）
 - 封面图使用 `toolset.site` 线上资源，无需打包进小程序包体
 
 ## 注意事项

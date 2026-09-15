@@ -1,0 +1,29 @@
+<view class="reader-page">
+  <view wx:if="{{loading}}" class="state-box">
+    <text class="state-text">正在加载书籍…</text>
+  </view>
+
+  <view wx:elif="{{error}}" class="state-box">
+    <text class="state-text">{{error}}</text>
+    <button class="retry-btn" size="mini" bindtap="onRetry">重试</button>
+  </view>
+
+  <block wx:else>
+    <view class="reader-toolbar">
+      <text class="toolbar-title">{{chapterTitle}}</text>
+      <text class="toolbar-meta">{{chapterIndex + 1}} / {{chapterCount}}</text>
+    </view>
+
+    <scroll-view class="reader-body" scroll-y enhanced show-scrollbar="{{false}}">
+      <text class="reader-content" style="font-size: {{fontSize}}rpx;">{{chapterContent}}</text>
+    </scroll-view>
+
+    <view class="reader-footer">
+      <button class="foot-btn" size="mini" disabled="{{chapterIndex <= 0}}" bindtap="onPrev">上一章</button>
+      <button class="foot-btn" size="mini" bindtap="onPickChapter">目录</button>
+      <button class="foot-btn" size="mini" bindtap="onFontSmaller">A-</button>
+      <button class="foot-btn" size="mini" bindtap="onFontLarger">A+</button>
+      <button class="foot-btn" size="mini" disabled="{{chapterIndex >= chapterCount - 1}}" bindtap="onNext">下一章</button>
+    </view>
+  </block>
+</view>

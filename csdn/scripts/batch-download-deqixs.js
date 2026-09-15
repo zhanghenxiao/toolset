@@ -11,6 +11,7 @@ const {
   getBookPath,
   getWorkDir,
   discoverBooks,
+  deqixsCoverUrl,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
@@ -206,7 +207,12 @@ function downloadBook(meta) {
   fs.mkdirSync(path.dirname(coverPath), { recursive: true });
 
   console.log(`\n[${id}] 下载《${title}》…`);
-  curl(`https://www.deqixs.org/files/article/image/0/${id}/${id}s.jpg`, coverPath);
+  curl(deqixsCoverUrl(id), coverPath);
+  const coverBuf = fs.readFileSync(coverPath);
+  if (coverBuf.length < 500 || coverBuf[0] !== 0xff || coverBuf[1] !== 0xd8) {
+    fs.unlinkSync(coverPath);
+    console.warn(`  [${id}] 封面无效，已删除`);
+  }
 
   const partFiles = [];
   segments.forEach((seg, idx) => {

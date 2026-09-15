@@ -45,7 +45,12 @@
       <view class="card-cover">
         <image class="cover-img" src="{{item.cover}}" mode="aspectFill" lazy-load />
         <text class="category-badge">{{item.category}}</text>
-        <text wx:if="{{item.latestChapter}}" class="chapter-badge">最新章节</text>
+        <text
+          wx:if="{{item.latestChapter}}"
+          class="chapter-badge"
+          catchtap="onLatestChapterTap"
+          data-id="{{item.id}}"
+        >最新章节</text>
       </view>
       <view class="card-body">
         <text class="card-title">{{item.title}}</text>

@@ -1,3 +1,6 @@
 # 书籍正文（体积大，不纳入版本库）；保留 SPA 入口页供 GitHub Pages 使用
 books/*
 !books/index.html
+
+# 构建时从 csdn/src/assets/images/books 同步，不重复入库
+book-covers/*.jpg
