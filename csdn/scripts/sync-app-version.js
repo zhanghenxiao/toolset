@@ -1,6 +1,6 @@
 /**
- * 从 uniapp manifest 同步版本号，生成可部署的 app-version.json
- * APK / wgt 托管在 GitHub Releases，见 uniapp-books/app-version.json
+ * 从 uniapp manifest 同步 versionCode / versionName 到 app-version.json
+ * apkUrl 在 uniapp-books/app-version.json 中配置（蒲公英直链），sync 不会覆盖
  * 用法: node csdn/scripts/sync-app-version.js
  */
 const fs = require('fs');
@@ -14,39 +14,25 @@ const outPaths = [
   path.join(root, 'csdn/static/app-version.json'),
 ];
 
-/** GitHub Releases 资源（固定文件名，latest 始终指向最新 Release） */
-const GITHUB_REPO = 'zhanghenxiao/toolset';
-const RELEASE_ASSETS = {
-  apk: 'shuweitansuo.apk',
-  wgt: 'shuweitansuo.wgt',
-};
-
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-function githubReleaseUrl(filename) {
-  return `https://github.com/${GITHUB_REPO}/releases/latest/download/${filename}`;
-}
-
-function ensureGithubUrls(template) {
-  const android = { ...(template.android || {}) };
-  if (!android.apkUrl || android.apkUrl.includes('github.com')) {
-    android.apkUrl = githubReleaseUrl(RELEASE_ASSETS.apk);
-  }
-  if (!android.wgtUrl || android.wgtUrl.includes('github.com')) {
-    android.wgtUrl = githubReleaseUrl(RELEASE_ASSETS.wgt);
-  }
-  return { ...template, android };
-}
-
 const manifest = readJson(manifestPath);
-const template = ensureGithubUrls(readJson(templatePath));
+const template = readJson(templatePath);
+
+const versionName = manifest.versionName || template.versionName;
+const versionCode = Number(manifest.versionCode || template.versionCode);
 
 const payload = {
   ...template,
-  versionName: manifest.versionName || template.versionName,
-  versionCode: Number(manifest.versionCode || template.versionCode),
+  versionName,
+  versionCode,
+  android: {
+    wgtUrl: '',
+    inAppInstall: true,
+    ...template.android,
+  },
   updatedAt: new Date().toISOString(),
 };
 
@@ -56,5 +42,5 @@ for (const outPath of outPaths) {
   console.log(`已写入 ${outPath}`);
 }
 
-console.log(`版本 ${payload.versionName} (${payload.versionCode})`);
-console.log(`APK: ${payload.android.apkUrl}`);
+console.log(`版本 ${payload.versionName} (versionCode ${payload.versionCode})`);
+console.log(`APK: ${payload.android.apkUrl || '(未配置)'}`);

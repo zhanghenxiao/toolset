@@ -4,12 +4,13 @@
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
-    "wgtUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.wgt",
-    "apkUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.apk"
+    "wgtUrl": "",
+    "inAppInstall": true,
+    "apkUrl": "https://www.pgyer.com/app/install/1dca523929765886e8d66bdccd20d8de"
   },
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
   },
-  "updatedAt": "2026-09-17T06:31:57.540Z"
+  "updatedAt": "2026-09-17T09:51:42.530Z"
 }

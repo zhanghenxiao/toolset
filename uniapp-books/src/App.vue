@@ -9,7 +9,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import './uni.scss';
+@use '../uni.scss';
 
 page {
   background-color: #f3ead8;

@@ -58,7 +58,7 @@ Page({
       success: () => {
         wx.showModal({
           title,
-          content: '阅读链接已复制，请打开夸克 App 或浏览器粘贴访问。',
+          content: '阅读链接已复制，请打开浏览器粘贴访问。',
           showCancel: false,
           confirmText: '知道了',
         });

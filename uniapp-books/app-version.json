@@ -1,11 +1,12 @@
 {
-  "versionName": "1.0.1",
-  "versionCode": 101,
+  "versionName": "1.0.2",
+  "versionCode": 102,
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "",
-    "apkUrl": "https://github.com/zhanghenxiao/toolset/releases/download/v1.0.1/shuweitansuo.apk"
+    "apkUrl": "https://www.pgyer.com/app/install/1dca523929765886e8d66bdccd20d8de",
+    "inAppInstall": true
   },
   "ios": {
     "wgtUrl": "",
