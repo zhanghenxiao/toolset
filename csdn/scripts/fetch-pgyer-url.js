@@ -39,7 +39,8 @@ function get(url, opts = {}) {
 
   console.log('\n--- 说明 ---');
   console.log('https://www.pgyer.com/shuweitansuo 是「安装页」，不是 APK 文件直链。');
-  console.log('点「安装」时，浏览器会走蒲公英接口再 302 到 download.pgyer.com（每次可能不同）。');
+  console.log('点「安装」时，浏览器会走蒲公英接口再 302 到 oss.pgyer.com（每次可能不同）。');
+  console.log('上传新版本后 aKey 可能变化，请用本脚本重新解析并更新 app-version.json 的 apkUrl。');
 
   if (appKey) {
     console.log('\n应用内自动更新推荐配置（Web 安装接口，302 到最新 APK，无需 API Key）:');

@@ -43,7 +43,7 @@ App 启动时会请求该文件，对比本地 `versionCode` 决定是否提示�
 1. HBuilderX 云打包生成 `.apk`，上传到 [蒲公英](https://www.pgyer.com)（应用短链如 `shuweitansuo`）
 2. 写入 `uniapp-books/app-version.json` 的 `android.apkUrl`：
    - **推荐**：`https://www.pgyer.com/app/install/{appKey}`（始终指向最新版，App 内可直装）
-   - 运行 `node csdn/scripts/fetch-pgyer-url.js` 可从短链页解析出 `appKey` 与推荐 URL
+   - 运行 `node csdn/scripts/fetch-pgyer-url.js` 可从短链页解析出 **当前** `appKey`（上传新版本后可能变）与推荐 URL
    - 若只有 `https://www.pgyer.com/shuweitansuo` 页面链接，App 会 **自动用浏览器打开**（无法应用内直装）
 3. 提高 `src/manifest.json` 的 `versionCode`（必须递增）和 `versionName`
 4. 更新 `changelog`，执行 `npm run sync:version`，再 **deploy 网站**（发布 `toolset.site/app-version.json`）
