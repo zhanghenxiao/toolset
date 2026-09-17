@@ -13,7 +13,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 const MAX_SEGMENT = 500;
 const ids = process.argv.slice(2).map(Number).filter(Boolean);
 

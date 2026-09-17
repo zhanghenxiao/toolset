@@ -3,4 +3,6 @@
 
 # 自动构建
 /build-and
-/d
+/de
+/jx
+/x3

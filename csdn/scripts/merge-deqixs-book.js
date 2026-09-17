@@ -16,7 +16,7 @@ const root = path.resolve(__dirname, '../..');
 const workDir = getWorkDir(root, localId);
 const legacyDir = path.join(root, 'books', localId);
 
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 
 function readBookText(filePath) {
   const buffer = fs.readFileSync(filePath);

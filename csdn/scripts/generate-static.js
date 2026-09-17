@@ -399,7 +399,7 @@ generatePage(
     '书籍库 - 网络小说精选合集',
     '数维探索书籍库，收录玄幻、仙侠、都市、历史等多类网络小说，支持分类筛选与关键词搜索，持续更新中。',
     `<p>欢迎来到数维探索书籍库。本站收录大量网络小说资源，涵盖玄幻、仙侠、都市、历史、科幻等多种类型。</p>
-<p>您可以通过分类、标签或关键词快速筛选感兴趣的书籍。更多书源分享，请访问 <a href="https://toolset.site">https://toolset.site</a>。</p>
+<p>您可以通过分类、标签或关键词快速筛选感兴趣的书籍。更多书源分享，小程序搜：数维探索。或者访问官网：<a href="https://toolset.site">https://toolset.site</a>。</p>
 <p>页面加载完成后即可使用完整筛选与分页功能。</p>`,
     '/books'
 );
@@ -458,5 +458,13 @@ console.log('  ✓ 生成: robots.txt');
 
 fs.writeFileSync(path.join(outDir, '404.html'), build404Html(), 'utf-8');
 console.log('  ✓ 生成: 404.html (GitHub Pages SPA 回退)');
+
+const appVersionSrc = path.resolve(__dirname, '../static/app-version.json');
+if (fs.existsSync(appVersionSrc)) {
+    fs.copyFileSync(appVersionSrc, path.join(outDir, 'app-version.json'));
+    console.log('  ✓ 复制: app-version.json (uni-app 版本检查)');
+} else {
+    console.warn('  ⚠ 未找到 csdn/static/app-version.json，跳过 app-version.json');
+}
 
 console.log(`\n🎉 共生成 ${items.length} 篇文章 + 5 个功能页 + sitemap.xml + robots.txt + 404.html`);

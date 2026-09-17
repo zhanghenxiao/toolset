@@ -2,6 +2,7 @@
   <footer class="site-footer">
     <div class="footer-bottom">
       <div class="container">
+        <p class="footer-disclaimer">内容的版权均为原作者所有。本站所有作品均系作者授权或网络转载，仅供书友免费预览！版权人如果认为本站转载传播会侵犯您的权益，敬请来信告知，我们将立即删除！</p>
         <p>&copy; 2026 内容创作展示网站 toolset.site 保留所有权利 | <router-link to="/about">关于我们</router-link> | <router-link to="/privacy-policy">隐私政策</router-link> </p>
       </div>
     </div>
@@ -142,6 +143,14 @@ export default {
   text-align: center;
   font-size: 12px;
   opacity: 0.5;
+}
+
+.footer-disclaimer {
+  max-width: 880px;
+  margin: 0 auto 14px;
+  line-height: 1.7;
+  font-size: 12px;
+  opacity: 0.65;
 }
 
 .floating-actions {

@@ -15,7 +15,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 const BASE = 'https://www.jcxs.org';
 const DELAY_MS = 350;
 
@@ -54,9 +54,18 @@ function decodeHtml(text) {
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)));
 }
 
+function cleanJcxsTitle(title) {
+  if (!title) return title;
+  return title
+    .replace(/^\[完结\]/, '')
+    .replace(/\s*作者[：:][^\s].*$/u, '')
+    .trim();
+}
+
 function parseBookMeta(html) {
-  const title = html.match(/property="og:novel:book_name" content="([^"]+)"/)?.[1]
+  let title = html.match(/property="og:novel:book_name" content="([^"]+)"/)?.[1]
     || html.match(/<h1>([^<]+)<\/h1>/)?.[1]?.trim();
+  title = cleanJcxsTitle(title);
   const author = html.match(/property="og:novel:author" content="([^"]+)"/)?.[1]
     || html.match(/作者：<a[^>]*>([^<]+)<\/a>/)?.[1]?.trim();
   const category = html.match(/property="og:novel:category" content="([^"]+)"/)?.[1] || '其他';
@@ -67,6 +76,12 @@ function parseBookMeta(html) {
   return { title, author, category, status, latestChapter, excerpt };
 }
 
+function chapterNumFromName(name) {
+  const cn = name.match(/^第(\d+)章/)?.[1];
+  if (cn) return Number(cn);
+  return Number(name.match(/^(\d+)/)?.[1] || 0);
+}
+
 function parseCatalogPage(html) {
   const chapters = [];
   const re = /<a href="(\/read\/\d+\/\d+\/)">([^<]+)<\/a>/g;
@@ -74,9 +89,11 @@ function parseCatalogPage(html) {
   while ((m = re.exec(html)) !== null) {
     const href = m[1];
     const name = decodeHtml(m[2].trim());
-    if (!/^\d+\s/.test(name)) continue;
+    if (name === '点击阅读' || /点击/.test(name)) continue;
+    const num = chapterNumFromName(name);
+    if (!num) continue;
     if (!chapters.some((c) => c.href === href)) {
-      chapters.push({ href, name, num: Number(name.match(/^(\d+)/)?.[1] || 0) });
+      chapters.push({ href, name, num });
     }
   }
   return chapters;
@@ -107,7 +124,7 @@ function catalogPageUrls(bookId, indexHtml) {
 }
 
 function chapterNum(ch) {
-  return ch.num || Number(ch.name.match(/^(\d+)/)?.[1] || 0);
+  return ch.num || chapterNumFromName(ch.name);
 }
 
 function extractChapterBody(html) {

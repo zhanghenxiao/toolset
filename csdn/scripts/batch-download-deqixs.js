@@ -15,7 +15,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 const registryPath = path.join(__dirname, '../src/data/deqixs-batch-registry.json');
 
 const MAX_SEGMENT = 500;

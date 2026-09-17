@@ -16,7 +16,7 @@ const {
 const root = path.resolve(__dirname, '../..');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 const registryPath = path.join(root, 'csdn/src/data/deqixs-batch-registry.json');
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 
 const startId = Number(process.argv[2] || 30);
 const endId = Number(process.argv[3] || 100);

@@ -166,13 +166,17 @@ export default {
   border-top: 1px solid var(--border-color);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
+  gap: 16px;
 }
 
 .results-count {
   color: var(--text-muted);
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.6;
+  white-space: pre-line;
+  flex: 1;
+  min-width: 0;
 }
 
 .results-count :deep(.highlight),

@@ -11,6 +11,7 @@ const {
   toFlatFilename,
   compareBookIds,
   isJcxsId,
+  isX33xsId,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
@@ -74,6 +75,10 @@ const READ_URLS = {
 };
 
 function parseBlockId(block) {
+  const fromHead = block.match(/^\n\{\n    id: ([^,]+),/m)?.[1]?.trim();
+  if (fromHead) {
+    return /^\d+$/.test(fromHead) ? Number(fromHead) : fromHead.replace(/^"|"$/g, '');
+  }
   const quoted = block.match(/id: "([^"]+)",/)?.[1];
   if (quoted) return quoted;
   const num = block.match(/id: (\d+),/)?.[1];
@@ -84,11 +89,13 @@ function formatBlockId(id) {
   return typeof id === 'string' ? JSON.stringify(id) : String(id);
 }
 
+const BOOK_BLOCK_RE = /\n\{[\s\S]*?\n  \},/g;
+
 function loadExistingReadUrls() {
   if (!fs.existsSync(booksDataPath)) return new Map();
   const content = fs.readFileSync(booksDataPath, 'utf8');
   const map = new Map();
-  for (const block of content.match(/\n  \{[\s\S]*?\n  \},/g) || []) {
+  for (const block of content.match(BOOK_BLOCK_RE) || []) {
     const id = parseBlockId(block);
     const readUrl = block.match(/readUrl: "([^"]+)"/)?.[1];
     if (id != null && readUrl) map.set(id, readUrl);
@@ -128,8 +135,10 @@ function discoverDiskBooks() {
       chapters: `1-${maxChapter}章`,
       downloadUrl: buildBookDownloadUrl(flatFilename),
       sourceUrl: isJcxsId(book.id)
-        ? ''
-        : `https://www.deqixs.org/${book.id}/txt.html#dir`,
+        ? `https://www.jcxs.org/book/${String(book.id).slice(1)}/`
+        : isX33xsId(book.id)
+          ? `https://www.x33xs6.com/33xs/${Math.floor(Number(String(book.id).slice(1)) / 1000)}/${String(book.id).slice(1)}/`
+          : `https://www.deqixs.org/${book.id}/txt.html#dir`,
       latestChapterFromFile: findLatestChapter(readBookText(book.filePath).slice(-50000)),
     });
   }
@@ -172,7 +181,7 @@ function buildTags(category, status) {
 
 function parseExistingBlocks(content) {
   const map = new Map();
-  for (const block of content.match(/\n  \{[\s\S]*?\n  \},/g) || []) {
+  for (const block of content.match(BOOK_BLOCK_RE) || []) {
     const id = parseBlockId(block);
     if (id != null) map.set(id, block);
   }
@@ -198,7 +207,7 @@ function collectMetaFromBlocks(blocks) {
 function entryToBlock(id, entry) {
   const coverVar = getCoverVar(id);
   const lines = [
-    '  {',
+    '{',
     `    id: ${formatBlockId(id)},`,
     `    slug: ${JSON.stringify(entry.slug || slugify(entry.title))},`,
     `    title: ${JSON.stringify(entry.title)},`,
@@ -267,7 +276,7 @@ for (const disk of diskBooks) {
 if (process.argv.includes('--online')) {
   for (const item of merged) {
     const { id, entry } = item;
-    if (isJcxsId(id)) continue;
+    if (isJcxsId(id) || isX33xsId(id)) continue;
     if (entry.author && entry.author !== '未知' && entry.category && entry.latestChapter) continue;
     try {
       const meta = parseMetadata(curlText(`https://www.deqixs.org/${id}/txt.html`), id);
@@ -292,16 +301,13 @@ const existingContent = fs.existsSync(booksDataPath)
   ? fs.readFileSync(booksDataPath, 'utf8')
   : '';
 const existingBlocks = parseExistingBlocks(existingContent);
+console.log(`已有 booksData 条目: ${existingBlocks.size}`);
 
 for (const { id, entry } of merged) {
   existingBlocks.set(id, entryToBlock(id, entry));
 }
 
-const diskIds = new Set(diskBooks.map((b) => b.id));
-for (const id of [...existingBlocks.keys()]) {
-  if (!diskIds.has(id)) existingBlocks.delete(id);
-}
-
+// 保留无本地 TXT 的历史条目（如仅网盘、或 TXT 未同步到本机）
 const allIds = [...existingBlocks.keys()].sort(compareBookIds);
 const blocks = allIds.map((id) => existingBlocks.get(id)).join('\n');
 const { categories, tags } = collectMetaFromBlocks(allIds.map((id) => existingBlocks.get(id)));

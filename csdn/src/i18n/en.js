@@ -13,10 +13,10 @@ export default {
     tagPlaceholder: 'Select Tags',
     keywordLabel: 'Keywords',
     keywordPlaceholder: 'Search title, author, publisher...',
-    resultsCount: '共 <span class="highlight">29991</span> books. More sources available. Visit <a class="highlight-link" href="https://toolset.site" target="_blank" rel="noopener noreferrer">https://toolset.site</a>',
+    resultsCount: '<span class="highlight">2501</span> books. More sources: search mini program 「数维探索」, or visit <a class="highlight-link" href="https://toolset.site" target="_blank" rel="noopener noreferrer">https://toolset.site</a>',
     clear: 'Clear All',
     noResults: 'No books matched your filters. Please try changing keywords or clearing filters.',
-    noResultsScanText: 'No results found. More titles are available in our mini program — scan the QR code to search.',
+    noResultsScanText: 'No books found. More sources: search mini program 「数维探索」, or visit https://toolset.site',
     read: 'Read',
     latestChapter: 'Updated to {chapter}'
   },
