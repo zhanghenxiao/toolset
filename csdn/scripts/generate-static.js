@@ -461,7 +461,14 @@ console.log('  ✓ 生成: 404.html (GitHub Pages SPA 回退)');
 
 const appVersionSrc = path.resolve(__dirname, '../static/app-version.json');
 if (fs.existsSync(appVersionSrc)) {
-    fs.copyFileSync(appVersionSrc, path.join(outDir, 'app-version.json'));
+    const appVersionDest = path.join(outDir, 'app-version.json');
+    const appVersionContent = fs.readFileSync(appVersionSrc, 'utf8');
+    const currentContent = fs.existsSync(appVersionDest)
+        ? fs.readFileSync(appVersionDest, 'utf8')
+        : '';
+    if (currentContent !== appVersionContent) {
+        fs.writeFileSync(appVersionDest, appVersionContent, 'utf8');
+    }
     console.log('  ✓ 复制: app-version.json (uni-app 版本检查)');
 } else {
     console.warn('  ⚠ 未找到 csdn/static/app-version.json，跳过 app-version.json');

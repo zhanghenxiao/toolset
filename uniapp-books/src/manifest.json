@@ -3,7 +3,7 @@
     "appid" : "__UNI__900559F",
     "description" : "精选小说书单",
     "versionName" : "1.0.2",
-    "versionCode" : "102",
+    "versionCode" : 102,
     "transformPx" : false,
     "mp-weixin" : {
         "appid" : "",
@@ -23,6 +23,11 @@
                     "prompt" : "仅获取当前应用运行状态信息，请您允许授权。"
                 }
             },
+            "permissions" : [
+                "<uses-permission android:name=\"android.permission.REQUEST_INSTALL_PACKAGES\"/>",
+                "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\"/>",
+                "<uses-permission android:name=\"android.permission.READ_EXTERNAL_STORAGE\"/>"
+            ],
             "ios" : {
                 "dSYMs" : false
             },

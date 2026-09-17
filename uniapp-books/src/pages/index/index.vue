@@ -1,5 +1,10 @@
 <template>
   <view class="page">
+    <view class="page-top-bar">
+      <view class="version-badge" @tap="onVersionTap">
+        <text>v{{ appVersion }}</text>
+      </view>
+    </view>
     <view class="masthead">
       <text class="masthead-title">数维探索</text>
       <text class="masthead-sub">精选小说书单</text>
@@ -102,8 +107,11 @@
 import { ref, onMounted } from 'vue';
 import { onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import { meta, filterBooks } from '@/utils/books';
+import { APP_VERSION_NAME } from '@/utils/app-version';
+import { checkAppUpdate } from '@/utils/app-update';
 
 const PAGE_SIZE = 10;
+const appVersion = APP_VERSION_NAME;
 
 const categories = meta.categories || [];
 const tags = meta.tags || [];
@@ -175,6 +183,22 @@ function onBookTap(id) {
   uni.navigateTo({ url: `/pages/detail/detail?id=${id}` });
 }
 
+let versionChecking = false;
+
+async function onVersionTap() {
+  if (versionChecking) return;
+  versionChecking = true;
+  uni.showToast({ title: '检查更新中…', icon: 'none', duration: 1500 });
+  try {
+    const hasUpdate = await checkAppUpdate({ silent: false });
+    if (!hasUpdate) {
+      uni.showToast({ title: '已是最新版本', icon: 'none' });
+    }
+  } finally {
+    versionChecking = false;
+  }
+}
+
 onMounted(() => {
   applyFilters();
 });
@@ -203,6 +227,26 @@ onShareTimeline(() => {
 .page {
   min-height: 100vh;
   padding-bottom: 60rpx;
+}
+
+.page-top-bar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20rpx 32rpx 0;
+}
+
+.version-badge {
+  font-size: 22rpx;
+  color: #8a7355;
+  letter-spacing: 1rpx;
+  padding: 6rpx 18rpx;
+  border: 1rpx solid #ddcdae;
+  border-radius: 8rpx;
+  background: rgba(255, 253, 247, 0.92);
+}
+
+.version-badge:active {
+  opacity: 0.75;
 }
 
 .masthead {

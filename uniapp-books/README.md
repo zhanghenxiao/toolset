@@ -38,58 +38,52 @@ npm run build:h5
 
 App 启动时会请求该文件，对比本地 `versionCode` 决定是否提示更新。
 
-### 发布新版本流程
+### 发布新版本流程（蒲公英 + 自动安装）
 
-1. 在 `src/manifest.json` 提高 `versionCode`（整数，必须递增）和 `versionName`
-2. 编辑 `uniapp-books/app-version.json`，填写 `changelog`、`android.wgtUrl` / `apkUrl` 等
-3. 运行 `npm run sync:version`（从 manifest 同步版本号到 JSON）
-4. 打包 App，在 GitHub 创建 Release 并上传安装包（见下方）
-5. 运行 `npm run sync:version`，网站 deploy 后 `app-version.json` 生效
+1. HBuilderX 云打包生成 `.apk`，上传到 [蒲公英](https://www.pgyer.com)（应用短链如 `shuweitansuo`）
+2. 写入 `uniapp-books/app-version.json` 的 `android.apkUrl`：
+   - **推荐**：`https://www.pgyer.com/app/install/{appKey}`（始终指向最新版，App 内可直装）
+   - 运行 `node csdn/scripts/fetch-pgyer-url.js` 可从短链页解析出 `appKey` 与推荐 URL
+   - 若只有 `https://www.pgyer.com/shuweitansuo` 页面链接，App 会 **自动用浏览器打开**（无法应用内直装）
+3. 提高 `src/manifest.json` 的 `versionCode`（必须递增）和 `versionName`
+4. 更新 `changelog`，执行 `npm run sync:version`，再 **deploy 网站**（发布 `toolset.site/app-version.json`）
+5. 重新打正式包并上架蒲公英（用户旧包靠 `versionCode` 检测更新）
 
-### APK 放在 GitHub Releases
+> **是否更新**只看线上 `versionCode`。蒲公英同一条短链可一直用，每次上传会指向最新包；**应用内自动安装**建议配置 **APK 直链**。
 
-安装包不上传到 `toolset.site`，而是放在仓库 **GitHub Releases**：
+### Android 应用内更新
 
-| 资源 | 固定文件名 | 下载地址 |
-|---|---|---|
-| Android APK | `shuweitansuo.apk` | `https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.apk` |
-| wgt 热更新包 | `shuweitansuo.wgt` | `https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.wgt` |
+| 配置 | 说明 |
+|---|---|
+| `android.apkUrl` | 蒲公英 `/app/install/{appKey}` 或 APK 直链 |
+| `android.inAppInstall` | 默认 `true`：直链时 App 内下载并调起系统安装界面 |
+| `android.wgtUrl` | 若填写则优先 wgt 热更新（与整包二选一） |
 
-**发版步骤：**
-
-1. HBuilderX / 云打包生成 `.apk`（可选 `.wgt`）
-2. 打开 [GitHub Releases](https://github.com/zhanghenxiao/toolset/releases) → **Draft a new release**
-3. Tag 填 `v1.0.1`（与 `versionName` 对应），上传 `shuweitansuo.apk`（及 `shuweitansuo.wgt`）
-4. 发布 Release（`latest` 会自动指向最新版）
-5. 本地提高 `manifest.json` 的 `versionCode`，更新 `changelog`，执行 `npm run sync:version` 并 deploy 网站
-
-> 版本判断仍靠 `https://toolset.site/app-version.json` 里的 `versionCode`；APK 只负责下载，URL 可保持不变（`releases/latest/download/...`）。
+需使用 **正式签名包** 重新打包（已加 `REQUEST_INSTALL_PACKAGES` 等权限）。安装时系统会弹出「是否安装」确认。
 
 ### 各端升级方式
 
 | 端 | 机制 |
 |---|---|
-| **App (Android/iOS)** | 拉取 `app-version.json`，支持 wgt 热更新或整包下载 |
-| **微信小程序** | 微信 `UpdateManager` 自动检测后台发布的新版 |
-| **H5** | 浏览器刷新即可（无安装包） |
+| **App (Android)** | `versionCode` 对比 + 应用内下载 APK / 或浏览器打开蒲公英 |
+| **App (iOS)** | 需配置 `ios.storeUrl` |
+| **微信小程序** | `UpdateManager` |
+| **H5** | 刷新页面 |
 
 ### 版本 JSON 示例
 
 ```json
 {
-  "versionName": "1.0.1",
-  "versionCode": 101,
+  "versionName": "1.0.3",
+  "versionCode": 103,
   "forceUpdate": false,
-  "changelog": "修复详情页复制链接",
+  "changelog": "优化下载速度",
   "android": {
-    "wgtUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.wgt",
-    "apkUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.apk"
-  },
-  "ios": {
     "wgtUrl": "",
-    "storeUrl": "https://apps.apple.com/..."
+    "apkUrl": "https://www.pgyer.com/app/install/1dca523929765886e8d66bdccd20d8de",
+    "inAppInstall": true
   }
 }
 ```
 
-代码入口：`src/utils/app-update.js`，在 `App.vue` 的 `onLaunch` 中自动调用。
+代码入口：`src/utils/app-update.js`；首页右上角版本号可手动触发检查。

@@ -113,5 +113,5 @@ onShareTimeline(() => {
 </script>
 
 <style lang="scss" scoped>
-@import './detail.scss';
+@use './detail.scss';
 </style>
