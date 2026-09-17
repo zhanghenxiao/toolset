@@ -6,11 +6,11 @@
   "android": {
     "wgtUrl": "",
     "inAppInstall": true,
-    "apkUrl": "https://www.pgyer.com/app/install/1dca523929765886e8d66bdccd20d8de"
+    "apkUrl": "https://www.pgyer.com/app/install/9c81d70fef357dff6c6be2db4675b2c2"
   },
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
   },
-  "updatedAt": "2026-09-17T13:45:17.910Z"
+  "updatedAt": "2026-09-17T14:13:49.729Z"
 }
