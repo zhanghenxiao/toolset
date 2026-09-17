@@ -105,12 +105,13 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
+import { onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import { meta, filterBooks } from '@/utils/books';
 import { APP_VERSION_NAME } from '@/utils/app-version';
 import { checkAppUpdate } from '@/utils/app-update';
+import { showInterstitialAd } from '@/utils/interstitial-ad';
 
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 20;
 const appVersion = APP_VERSION_NAME;
 
 const categories = meta.categories || [];
@@ -201,6 +202,10 @@ async function onVersionTap() {
 
 onMounted(() => {
   applyFilters();
+});
+
+onShow(() => {
+  showInterstitialAd();
 });
 
 onShareAppMessage(() => {

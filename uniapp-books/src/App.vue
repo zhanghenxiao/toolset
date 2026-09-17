@@ -1,9 +1,11 @@
 <script>
 import { checkForUpdateOnLaunch } from '@/utils/app-update';
+import { preloadInterstitialAd } from '@/utils/interstitial-ad';
 
 export default {
   onLaunch() {
     checkForUpdateOnLaunch();
+    preloadInterstitialAd();
   },
 };
 </script>

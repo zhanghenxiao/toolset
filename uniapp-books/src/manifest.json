@@ -2,8 +2,8 @@
     "name" : "数维探索",
     "appid" : "__UNI__900559F",
     "description" : "精选小说书单",
-    "versionName" : "1.0.2",
-    "versionCode" : 102,
+    "versionName" : "1.0.3",
+    "versionCode" : 103,
     "transformPx" : false,
     "mp-weixin" : {
         "appid" : "",

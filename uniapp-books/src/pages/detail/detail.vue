@@ -39,9 +39,10 @@
 
 <script setup>
 import { ref } from 'vue';
-import { onLoad, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
+import { onLoad, onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import { getBookById } from '@/utils/books';
 import { copyQuarkReadUrl, onLatestChapterTap as handleLatestChapterTap } from '@/utils/read-url';
+import { showInterstitialAd } from '@/utils/interstitial-ad';
 
 const book = ref(null);
 
@@ -54,6 +55,10 @@ onLoad((options) => {
   }
   uni.setNavigationBarTitle({ title: found.title });
   book.value = found;
+});
+
+onShow(() => {
+  showInterstitialAd();
 });
 
 function onStartRead() {
