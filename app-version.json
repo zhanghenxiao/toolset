@@ -5,7 +5,7 @@
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.wgt",
-    "apkUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.apk"
+    "apkUrl": ""
   },
   "ios": {
     "wgtUrl": "",
