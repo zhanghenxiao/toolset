@@ -1,7 +1,13 @@
 {
   "description": "数维探索 - 书籍资源小程序",
+  "cloudfunctionRoot": "cloudfunctions/",
   "packOptions": {
-    "ignore": [],
+    "ignore": [
+      {
+        "type": "file",
+        "value": "data/books.js"
+      }
+    ],
     "include": []
   },
   "setting": {
@@ -32,7 +38,7 @@
     }
   },
   "compileType": "miniprogram",
-  "libVersion": "3.5.5",
+  "libVersion": "3.17.2",
   "appid": "wx35428f77b2cd52d5",
   "projectname": "miniprogram-books",
   "condition": {},

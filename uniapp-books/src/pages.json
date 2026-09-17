@@ -1,0 +1,23 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "数维探索"
+      }
+    },
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "书籍详情"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "数维探索",
+    "navigationBarBackgroundColor": "#4a3728",
+    "backgroundColor": "#f3ead8",
+    "backgroundTextStyle": "dark"
+  }
+}

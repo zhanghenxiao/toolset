@@ -1,0 +1,15 @@
+{
+  "versionName": "1.0.2",
+  "versionCode": 102,
+  "forceUpdate": false,
+  "changelog": "首发版本",
+  "android": {
+    "wgtUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.wgt",
+    "apkUrl": "https://github.com/zhanghenxiao/toolset/releases/latest/download/shuweitansuo.apk"
+  },
+  "ios": {
+    "wgtUrl": "",
+    "storeUrl": ""
+  },
+  "updatedAt": "2026-09-17T06:31:57.540Z"
+}

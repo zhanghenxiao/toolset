@@ -7,6 +7,9 @@
     "build": "node scripts/clean-assets.js && vite build && node scripts/sync-book-covers.js && node scripts/generate-static.js",
     "deploy": "node scripts/build-and-push.js",
     "sync:miniprogram": "node scripts/sync-miniprogram-books-data.js",
+    "sync:app-version": "node scripts/sync-app-version.js",
+    "upload:books": "node scripts/upload-miniprogram-books.js",
+    "publish:books": "node scripts/sync-miniprogram-books-data.js && node scripts/upload-miniprogram-books.js",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -18,6 +21,7 @@
     "vue-router": "^3.6.5"
   },
   "devDependencies": {
+    "@cloudbase/node-sdk": "^2.11.0",
     "@vitejs/plugin-vue2": "^2.3.1",
     "vite": "^4.5.2"
   }

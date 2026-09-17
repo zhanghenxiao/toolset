@@ -8,6 +8,7 @@ const path = require('path');
 const root = path.resolve(__dirname, '../..');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 const outDir = path.join(root, 'miniprogram-books/data');
+const uniappOutDir = path.join(root, 'uniapp-books/src/data');
 const assetsDir = path.join(root, 'assets');
 const sourceCoverDir = path.join(root, 'csdn/src/assets/images/books');
 const SITE = 'https://toolset.site';
@@ -60,7 +61,7 @@ function resolveCoverUrl(id, coverMap) {
   const published = path.join(bookCoversDir, stable);
   const hasLocal = fs.existsSync(published) || fs.existsSync(sourceCoverPath(id));
 
-  if (/^s\d+$/.test(idStr)) {
+  if (/^[sx]\d+$/.test(idStr)) {
     if (process.env.MINIPROGRAM_COVER === 'stable' && hasLocal) {
       return `${SITE}/book-covers/${stable}`;
     }
@@ -109,8 +110,8 @@ function parseBooksData(content, coverMap) {
   return books.sort((a, b) => {
     const sa = String(a.id);
     const sb = String(b.id);
-    const aj = /^s\d+$/.test(sa);
-    const bj = /^s\d+$/.test(sb);
+    const aj = /^[sx]\d+$/.test(sa);
+    const bj = /^[sx]\d+$/.test(sb);
     if (aj !== bj) return aj ? 1 : -1;
     if (aj) return sa.localeCompare(sb);
     return Number(sa) - Number(sb);
@@ -132,6 +133,8 @@ const tags = parseMeta(raw, 'allBookTags');
 
 const missingCovers = books.filter((b) => !b.cover).map((b) => b.id);
 
+const metaPayload = { categories, tags, site: SITE, totalDisplay: 29991 };
+
 fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(
   path.join(outDir, 'books.js'),
@@ -140,11 +143,24 @@ fs.writeFileSync(
 );
 fs.writeFileSync(
   path.join(outDir, 'meta.js'),
-  `module.exports = ${JSON.stringify({ categories, tags, site: SITE, totalDisplay: 29991 }, null, 2)};\n`,
+  `module.exports = ${JSON.stringify(metaPayload, null, 2)};\n`,
+  'utf8',
+);
+
+fs.mkdirSync(uniappOutDir, { recursive: true });
+fs.writeFileSync(
+  path.join(uniappOutDir, 'books.js'),
+  `export default ${JSON.stringify(books, null, 2)};\n`,
+  'utf8',
+);
+fs.writeFileSync(
+  path.join(uniappOutDir, 'meta.js'),
+  `export default ${JSON.stringify(metaPayload, null, 2)};\n`,
   'utf8',
 );
 
 console.log(`已写入 ${books.length} 本书 -> miniprogram-books/data/books.js`);
+console.log(`已写入 ${books.length} 本书 -> uniapp-books/src/data/books.js`);
 console.log(`封面映射: ${coverMap.size} 个打包资源`);
 if (missingCovers.length > 0) {
   console.warn(`缺少封面 URL: ${missingCovers.length} 本`, missingCovers.slice(0, 20).join(', '));

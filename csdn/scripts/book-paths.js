@@ -1,31 +1,46 @@
 /**
  * 书籍 TXT 扁平路径约定：books/{id}_{书名}1-{章节}章.txt
  * jcxs.org 来源 id 以 s 前缀区分，如 s52266
+ * x33xs6.com 来源 id 以 x 前缀区分，如 x450111
  */
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^((?:s\d+|\d+))_(.+?)1-(\d+)章\.txt$/;
+const BOOK_FILE_RE = /^((?:[xs]\d+|\d+))_(.+?)1-(\d+)章\.txt$/;
 const JCXS_ID_RE = /^s\d+$/;
+const X33XS_ID_RE = /^x\d+$/;
 
 function isJcxsId(id) {
   return JCXS_ID_RE.test(String(id));
+}
+
+function isX33xsId(id) {
+  return X33XS_ID_RE.test(String(id));
+}
+
+function isPrefixedSiteBookId(id) {
+  return isJcxsId(id) || isX33xsId(id);
 }
 
 function jcxsLocalId(siteBookId) {
   return `s${siteBookId}`;
 }
 
+function x33xsLocalId(siteBookId) {
+  return `x${siteBookId}`;
+}
+
 function parseBookId(raw) {
   const s = String(raw);
-  return isJcxsId(s) ? s : Number(s);
+  if (isPrefixedSiteBookId(s)) return s;
+  return Number(s);
 }
 
 function compareBookIds(a, b) {
   const sa = String(a);
   const sb = String(b);
-  const aj = isJcxsId(sa);
-  const bj = isJcxsId(sb);
+  const aj = isPrefixedSiteBookId(sa);
+  const bj = isPrefixedSiteBookId(sb);
   if (aj !== bj) return aj ? 1 : -1;
   if (aj) return sa.localeCompare(sb);
   return Number(sa) - Number(sb);
@@ -228,8 +243,12 @@ module.exports = {
   JCXS_ID_RE,
   LEGACY_BOOK_FILE_RE,
   LEGACY_FLAT_FILE_RE,
+  X33XS_ID_RE,
   isJcxsId,
+  isX33xsId,
+  isPrefixedSiteBookId,
   jcxsLocalId,
+  x33xsLocalId,
   parseBookId,
   compareBookIds,
   buildBookFilename,

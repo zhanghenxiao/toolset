@@ -11,7 +11,7 @@ const {
   getWorkDir,
 } = require('./book-paths');
 
-const SOURCE_SHARE_LINE = '更多书源分享，访问网址 https://toolset.site';
+const { SOURCE_SHARE_LINE } = require('./source-share-line');
 
 const [, , idArg, title, author, ...segmentEnds] = process.argv;
 if (!idArg || !title || !author || segmentEnds.length === 0) {

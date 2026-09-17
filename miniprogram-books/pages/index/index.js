@@ -1,18 +1,29 @@
-const { books, meta, filterBooks, getBookById } = require('../../utils/books');
+const {
+  ensureLoaded,
+  reload,
+  isFailed,
+  getLastError,
+  onDataChange,
+  getMeta,
+  filterBooks,
+  getBookById,
+} = require('../../utils/books');
 const { onLatestChapterTap: handleLatestChapterTap } = require('../../utils/read-url');
 
 const PAGE_SIZE = 10;
 
 Page({
   data: {
-    allBooks: books,
     list: [],
-    categories: meta.categories,
-    tags: meta.tags,
+    loading: true,
+    loadFailed: false,
+    loadError: '',
+    categories: [],
+    tags: [],
     categoryOptions: [],
     tagOptions: [],
-    totalDisplay: meta.totalDisplay,
-    site: meta.site,
+    totalDisplay: 0,
+    site: 'https://toolset.site',
     selectedCategory: '',
     selectedTag: '',
     keyword: '',
@@ -23,15 +34,39 @@ Page({
   },
 
   onLoad() {
-    const categories = this.data.categories || [];
-    const tags = this.data.tags || [];
-    this.setData(
-      {
-        categoryOptions: ['全部分类'].concat(categories),
-        tagOptions: ['全部标签'].concat(tags),
-      },
-      () => this.applyFilters(),
-    );
+    this.renderData();
+    // 本地缓存先渲染，后台发现云端有新数据时自动刷新列表
+    this._offDataChange = onDataChange(() => this.renderData());
+  },
+
+  onUnload() {
+    if (this._offDataChange) this._offDataChange();
+  },
+
+  onRetry() {
+    this.setData({ loading: true, loadFailed: false, loadError: '' }, () => {
+      reload().then(() => this.renderData());
+    });
+  },
+
+  renderData() {
+    ensureLoaded().then(() => {
+      const meta = getMeta();
+      this.setData(
+        {
+          loading: false,
+          loadFailed: isFailed(),
+          loadError: isFailed() ? getLastError() : '',
+          categories: meta.categories,
+          tags: meta.tags,
+          categoryOptions: ['全部分类'].concat(meta.categories),
+          tagOptions: ['全部标签'].concat(meta.tags),
+          totalDisplay: meta.totalDisplay,
+          site: meta.site,
+        },
+        () => this.applyFilters(),
+      );
+    });
   },
 
   applyFilters() {
@@ -109,5 +144,26 @@ Page({
       data: this.data.site,
       success: () => wx.showToast({ title: '网址已复制', icon: 'success' }),
     });
+  },
+
+  onShareAppMessage() {
+    const { selectedCategory, selectedTag, keyword } = this.data;
+    const filters = [selectedCategory, selectedTag, keyword].filter(Boolean);
+    return {
+      title: filters.length
+        ? `数维探索 · ${filters.join(' / ')}`
+        : '数维探索 · 精选小说书单',
+      path: '/pages/index/index',
+    };
+  },
+
+  onShareTimeline() {
+    const { selectedCategory, selectedTag, keyword } = this.data;
+    const filters = [selectedCategory, selectedTag, keyword].filter(Boolean);
+    return {
+      title: filters.length
+        ? `数维探索 · ${filters.join(' / ')}`
+        : '数维探索 · 精选小说书单',
+    };
   },
 });

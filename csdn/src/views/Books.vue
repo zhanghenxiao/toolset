@@ -147,7 +147,7 @@ main {
 }
 
 .no-results-scan {
-  max-width: 320px;
+  max-width: 400px;
   margin-top: -24px;
 }
 
@@ -155,6 +155,7 @@ main {
   margin: 0 0 20px;
   font-size: 15px;
   line-height: 1.7;
+  white-space: pre-line;
   color: var(--text-primary, #1a1a1a);
 }
 

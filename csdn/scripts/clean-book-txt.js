@@ -15,6 +15,8 @@ const SPAM_LINE_PATTERNS = [
   /搜索[“"].*(嘚齐|德其|德齐|德旗|得奇)小说网[“"].*模糊/,
   /前往.*必.*应.*搜.*小说网/,
   /w\)w\)w\)\.\)d\)e\)q\)i\)x\)s\)\.\)o\)r\)g/i,
+  /d\\+[eE]\\+q\\+i\\+x\\+s\\+\\.\\+o\\+[rR]\\+g/,
+  /请\.访问\.看最新章节/,
   /请进\s*w\)w\)w\)/i,
   /更多精彩小说.*得奇小说网/,
   /deqixs\.org/i,
@@ -28,6 +30,8 @@ const SPAM_LINE_PATTERNS = [
   /「德」「旗」「小」「说」「网」/,
   /「德」「齐」「小」「说」「网」/,
   /「德」「其」「小」「说」「网」/,
+  /【搜】【索】【德】【[旗齐其]】【小】【说】【网】/,
+  /搜索德[旗齐其]小说网.*查看.*本书.*最新.*章节/,
   /德[旗齐其]小说网/,
   /w「w」w」\.」d」e「q」i」x」s」/,
   /「站」「长」只「有这一个网「站/,
@@ -52,7 +56,8 @@ const SPAM_LINE_PATTERNS = [
   /^更新不易，记得分享网/,
   /更新不易.*请记住本站/,
   /[涑速][￥¥\s]*读\s*[￥¥\s]*谷/,
-  /s[…·．.\s,，、￥¥]*u[…·．.\s,，、￥¥]*d[…·．.\s,，、￥¥]*u[…·．.\s,，、￥¥]*g[…·．.\s,，、￥¥]*u/i,
+  /s[…·．.\s,，、￥¥^]*u[…·．.\s,，、￥¥^]*d[…·．.\s,，、￥¥^]*u[…·．.\s,，、￥¥^]*g[…·．.\s,，、￥¥^]*u/i,
+  /s\^u\^d\^u\^g\^u/i,
   /sudugu\.org/i,
   /suduɡu/i,
   /输入速读谷的拼音后缀/,
@@ -60,6 +65,9 @@ const SPAM_LINE_PATTERNS = [
   /^微信公众号[，,：:\s]*北尘阅读\s*$/,
   /^微信搜[：:\s]*北尘阅读\s*$/,
   /^北尘阅读[，,：:\s]*微信公众号\s*$/,
+  /可以关注我的微信号/,
+  /关注我的微信号[：:]/,
+  /看更多的.*可以关注我的微信号/,
 ];
 
 const INLINE_SPAM_PATTERNS = [
@@ -69,11 +77,15 @@ const INLINE_SPAM_PATTERNS = [
   /\s*【防走失指南】[^\n]*必应[^\n]*/g,
   /\s*前往(?:「[^」]*」)*必(?:「[^」]*」)*应(?:「[^」]*」)*搜(?:「[^」]*」)*索[^\n]*/g,
   /\s*请进\s*w\)w\)w\)[^\n]*/gi,
+  /\s*请\.访问\.看最新章节[！!]?地址[：:]\s*d\\+[eE]\\+q\\+i\\+x\\+s\\+\\.\\+o\\+[rR]\\+g[^\n]*/gi,
+  /\s*d\\+[eE]\\+q\\+i\\+x\\+s\\+\\.\\+o\\+[rR]\\+g[^\n]*/gi,
   /\s*更多精彩小说，请访问：得奇小说网\s*https?:\/\/(www\.)?deqixs\.org\s*/gi,
   /\s*请收「藏「得」「奇」小」说」[^\n]*/g,
   /\s*请收(?:「[^」]*」)*藏(?:「[^」]*」)*得(?:「[^」]*」)*奇(?:「[^」]*」)*小(?:「[^」]*」)*说(?:「[^」]*」)*[^\n]*/g,
   /\s*「得」「奇」「小」「说」「网」(?:「[^」]*」)*「d」「e」「q」「i」「x」「s」「.」「o」「r」「g」[^\n]*/g,
   /\s*「德」(?:「[^」]{1,2}」){2,}(?:「手打」)?(?:「更新」)?[^\n]*/g,
+  /\s*【搜】【索】【德】【[旗齐其]】【小】【说】【网】[^。\n]*章节[！!]?/g,
+  /\s*【搜】[^。\n]*【索】[^。\n]*【德】[^。\n]*【[旗齐其]】[^。\n]*【小】[^。\n]*【说】[^。\n]*【网】[^。\n]*章节[！!]?/g,
   /\s*前往(?:「[^」]*」)*德(?:「[^」]*」)*[旗齐其](?:「[^」]*」)*小(?:「[^」]*」)*说[^\n]*/g,
   /\s*速读谷\s*www\.sudugu\.org[^\n]*/gi,
   /\s*[,，]?\s*速读谷[,，]?\s*www\.sudugu\.org[^\n]*/gi,
@@ -90,10 +102,18 @@ const INLINE_SPAM_PATTERNS = [
   /\s*记得分享[^。\n]*速读谷[^。\n]*/g,
   /ｓuduɡu\.ｃｃ[^\n]*/g,
   /\s*速读谷[,，]?\s*www\.sudugu\.org\s*看[^\n]*/gi,
+  /\s*[,，]?\s*s\^u\^d\^u\^g\^u\s*\.?\s*o\^r\^g[^\n]*/gi,
+  /\s*s(?:\^u)+\^?g\^u\s*\.?\s*o(?:\^r)+\^?g[^\n！!。]*/gi,
+  /\s*请使用[【[]?必应[】\]]?搜[^。\n]*s\^u\^d\^u\^g\^u[^。\n]*[！!]?/g,
+  /\s*[,，]?\s*请使用[【[]?必应[】\]]?搜\s*$/g,
   /\s*关注微信公众号[，,：:\s]*北尘阅读\s*/g,
   /\s*微信公众号[，,：:\s]*北尘阅读\s*/g,
   /\s*微信搜[：:\s]*北尘阅读\s*/g,
   /\s*北尘阅读[，,：:\s]*微信公众号\s*/g,
+  /[（(][^)）\n]*可以关注我的微信号[^)）\n]*[)）]/g,
+  /[（(]看更多的[^)）\n]*微信号[^)）\n]*[)）]/g,
+  /\s*可以关注我的微信号[：:][^\n)）]*/g,
+  /\s*关注我的微信号[：:][^\n)）]*/g,
   /\s*手[·．.\s,，、]*打[·．.\s,，、]*全[本网本]?\s*/g,
   /\s*得[·．.\s,，、]*奇[·．.\s,，、]*小[·．.\s,，、]*说[网]?\s*/g,
   /\s*后续更新请访问[：:][^\n]*/g,
@@ -270,9 +290,14 @@ function compactText(text) {
 /** 去除速读谷水印常用分隔符：空格、·、.、,、…、￥ 等 */
 function deobfuscateSudugu(text) {
   return text
-    .replace(/[￥¥…·．.,，、•‧\s]/g, '')
+    .replace(/[\^￥¥…·．.,，、•‧\s]/g, '')
     .replace(/涑/g, '速')
     .toLowerCase();
+}
+
+/** 反斜杠分隔域名：d\E\q\i\x\s\.\o\R\g → deqixs.org */
+function deobfuscateBackslashDomain(text) {
+  return text.replace(/\\/g, '').toLowerCase();
 }
 
 /** 去除中文推广水印常用分隔符（空格、标点等） */
@@ -386,8 +411,11 @@ function isOrgDomainLine(line) {
   if (!content) return false;
   if (/\.org/i.test(content)) return true;
   if (/[.。．]org/i.test(content)) return true;
-  if (/\.o[·．.\s,，、…]*r[·．.\s,，、…]*g/i.test(content)) return true;
-  if (/o[…·．.\s,，、]+r[…·．.\s,，、]+g/i.test(content)) return true;
+  if (/\.o[·．.\s,，、…^]*r[·．.\s,，、…^]*g/i.test(content)) return true;
+  if (/o[…·．.\s,，、^]+r[…·．.\s,，、^]+g/i.test(content)) return true;
+  if (/d\\+[eE]\\+q\\+i\\+x\\+s\\+\\.\\+o\\+[rR]\\+g/.test(content)) return true;
+  const deobSlash = deobfuscateBackslashDomain(content);
+  if (/deqixs\.org/.test(deobSlash)) return true;
   const deob = deobfuscateSudugu(content);
   if (deob.includes('.org')) return true;
   if (/deqixsorg|suduguorg|wwwsudugu|wwfdeqixs/i.test(deob)) return true;
@@ -415,10 +443,9 @@ function isSuduguSpamLine(line) {
   if (/更新不易.*记得分享.*为您呈现最新小说章节/.test(content)) return true;
   if (/更新不易.*请记住本站/.test(content)) return true;
   if (/[涑速][￥¥\s]*读/.test(content) && /[￥¥\s]*谷/.test(content)) return true;
-  if (/s[…·．.\s,，、￥¥]*u[…·．.\s,，、￥¥]*d[…·．.\s,，、￥¥]*u[…·．.\s,，、￥¥]*g[…·．.\s,，、￥¥]*u/i.test(content)) {
+  if (/s[…·．.\s,，、￥¥^]*u[…·．.\s,，、￥¥^]*d[…·．.\s,，、￥¥^]*u[…·．.\s,，、￥¥^]*g[…·．.\s,，、￥¥^]*u/i.test(content)) {
     return true;
   }
-
   return false;
 }
 
@@ -496,8 +523,8 @@ function cleanBookText(content) {
   const cleaned = [];
 
   for (const line of lines) {
-    if (isSpamLine(line)) continue;
     const nextLine = cleanInlineSpam(line);
+    if (isSpamLine(nextLine)) continue;
     if (isOrgDomainLine(nextLine)) continue;
     if (nextLine.trim() === '' && line.trim() !== '') continue;
     cleaned.push(nextLine);
