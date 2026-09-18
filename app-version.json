@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 103,
+  "versionName": "1.0.4",
+  "versionCode": 104,
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "",
     "inAppInstall": true,
-    "apkUrl": "https://www.pgyer.com/app/install/9c81d70fef357dff6c6be2db4675b2c2"
+    "apkUrl": "https://www.pgyer.com/app/install/97dd3e56be35b0a44e8b4c63a202e2d2"
   },
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
   },
-  "updatedAt": "2026-09-17T14:13:49.729Z"
+  "updatedAt": "2026-09-18T01:24:54.386Z"
 }

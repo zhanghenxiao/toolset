@@ -50,6 +50,10 @@
       </view>
     </view>
 
+    <!-- #ifdef APP-PLUS -->
+    <feed-ad />
+    <!-- #endif -->
+
     <view v-if="list.length > 0" class="book-grid">
       <view
         v-for="item in list"
