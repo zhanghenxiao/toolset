@@ -1,5 +1,7 @@
 <template>
   <view class="page">
+    <update-modal />
+    <interstitial-ad-host />
     <view class="page-top-bar">
       <view class="version-badge" @tap="onVersionTap">
         <text>v{{ appVersion }}</text>
@@ -50,9 +52,7 @@
       </view>
     </view>
 
-    <!-- #ifdef APP-PLUS -->
-    <feed-ad />
-    <!-- #endif -->
+    <feed-ad :active="pageReady" />
 
     <view v-if="list.length > 0" class="book-grid">
       <view
@@ -109,15 +109,17 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
+import { onReady, onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import { meta, filterBooks } from '@/utils/books';
 import { APP_VERSION_NAME } from '@/utils/app-version';
 import { checkAppUpdate } from '@/utils/app-update';
+import UpdateModal from '@/components/UpdateModal.vue';
+import InterstitialAdHost from '@/components/InterstitialAdHost.vue';
+import FeedAd from '@/components/FeedAd.vue';
 import { showInterstitialAd } from '@/utils/interstitial-ad';
 
 const PAGE_SIZE = 20;
 const appVersion = APP_VERSION_NAME;
-
 const categories = meta.categories || [];
 const tags = meta.tags || [];
 const categoryOptions = ['全部分类', ...categories];
@@ -130,6 +132,7 @@ const keyword = ref('');
 const currentPage = ref(1);
 const totalPages = ref(1);
 const totalFiltered = ref(0);
+const pageReady = ref(false);
 let filteredCache = [];
 
 function applyFilters() {
@@ -184,8 +187,17 @@ function onNextPage() {
   applyFilters();
 }
 
-function onBookTap(id) {
+function goDetail(id) {
   uni.navigateTo({ url: `/pages/detail/detail?id=${id}` });
+}
+
+function onBookTap(id) {
+  showInterstitialAd({
+    delay: 0,
+    afterClose: () => goDetail(id),
+  }).then((shown) => {
+    if (!shown) goDetail(id);
+  });
 }
 
 let versionChecking = false;
@@ -206,6 +218,10 @@ async function onVersionTap() {
 
 onMounted(() => {
   applyFilters();
+});
+
+onReady(() => {
+  pageReady.value = true;
 });
 
 onShow(() => {

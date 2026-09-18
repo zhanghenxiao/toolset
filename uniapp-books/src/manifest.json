@@ -2,8 +2,8 @@
     "name" : "数维探索",
     "appid" : "__UNI__900559F",
     "description" : "精选小说书单",
-    "versionName" : "1.0.4",
-    "versionCode" : 104,
+    "versionName" : "1.0.6",
+    "versionCode" : 106,
     "transformPx" : false,
     "mp-weixin" : {
         "appid" : "",
@@ -16,6 +16,9 @@
     },
     "vueVersion" : "3",
     "app-plus" : {
+        "modules" : {
+            "UniAd" : {}
+        },
         "distribute" : {
             "google" : {
                 "permissionExternalStorage" : {
@@ -33,9 +36,13 @@
             },
             "sdkConfigs" : {
                 "ad" : {
-                    "ks" : {},
                     "sigmob" : {},
-                    "jl" : {}
+                    "zy" : {},
+                    "bz" : {},
+                    "fl" : {},
+                    "yt" : {},
+                    "jt" : {},
+                    "wa" : {}
                 }
             },
             "icons" : {
@@ -69,6 +76,9 @@
                         "spotlight@3x" : "unpackage/res/icons/120x120.png"
                     }
                 }
+            },
+            "android" : {
+                "minSdkVersion" : 21
             }
         }
     }

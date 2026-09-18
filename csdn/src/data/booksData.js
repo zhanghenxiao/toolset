@@ -2496,6 +2496,7 @@ import book2497Cover from '../assets/images/books/book-2497.jpg';
 import book2498Cover from '../assets/images/books/book-2498.jpg';
 import book2499Cover from '../assets/images/books/book-2499.jpg';
 import book2500Cover from '../assets/images/books/book-2500.jpg';
+import book2525Cover from '../assets/images/books/book-2525.jpg';
 import books114759Cover from '../assets/images/books/book-s114759.jpg';
 import books52266Cover from '../assets/images/books/book-s52266.jpg';
 import bookx450111Cover from '../assets/images/books/book-x450111.jpg';
@@ -47143,6 +47144,23 @@ export const bookItems = [
     readUrl: "https://pan.baidu.com/s/183SVsRAMwFH66pLnnck53w?pwd=fxb9",
     downloadUrl: "/books/2500_末日大佬成废雌，开局匹配五个SS级1-34章.txt",
     sourceUrl: "https://www.deqixs.org/2500/txt.html#dir",
+  },
+
+{
+    id: 2525,
+    slug: "斗罗-ai龙皇",
+    title: "斗罗：AI龙皇",
+    cover: book2525Cover,
+    author: "四噗接",
+    date: "2026-09-18",
+    category: "轻",
+    status: "已完结",
+    chapters: "1-543章",
+    latestChapter: "第543章 贯彻时间线，万变合一（大结局）",
+    excerpt: "被大运之神撞击，再睁开眼便是斗罗世界。 没有强横的血脉，没有优秀的背景，只有一份灵魂变异导致的AI思维。但谁说带着AI就不能通关斗罗大陆？ 陈明：我有今天全靠着我的努力，小i，开始推演！ 你有古典暗器，我有现代科技，来走着瞧吧——（反唐三，多女主，不走武魂殿，自创神位。）",
+    tags: [{ name: "轻", type: "purple" }, { name: "完结", type: "blue" }],
+    downloadUrl: "/books/2525_斗罗：AI龙皇1-543章.txt",
+    sourceUrl: "https://www.deqixs.org/2525/txt.html#dir",
   },
 
 {

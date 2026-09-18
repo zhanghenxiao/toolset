@@ -1,4 +1,5 @@
 <template>
+  <update-modal />
   <view v-if="book" class="detail-page">
     <view class="hero">
       <image class="hero-cover" :src="book.cover" mode="aspectFill" />
@@ -39,10 +40,10 @@
 
 <script setup>
 import { ref } from 'vue';
-import { onLoad, onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
+import { onLoad, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
+import UpdateModal from '@/components/UpdateModal.vue';
 import { getBookById } from '@/utils/books';
 import { copyQuarkReadUrl, onLatestChapterTap as handleLatestChapterTap } from '@/utils/read-url';
-import { showInterstitialAd } from '@/utils/interstitial-ad';
 
 const book = ref(null);
 
@@ -55,10 +56,6 @@ onLoad((options) => {
   }
   uni.setNavigationBarTitle({ title: found.title });
   book.value = found;
-});
-
-onShow(() => {
-  showInterstitialAd();
 });
 
 function onStartRead() {

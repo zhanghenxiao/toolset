@@ -39074,7 +39074,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1701/1701s.jpg"
+    "cover": "https://toolset.site/assets/book-1701-7e079b19.jpg"
   },
   {
     "id": 1702,
@@ -39097,7 +39097,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1702/1702s.jpg"
+    "cover": "https://toolset.site/assets/book-1702-8f4c4494.jpg"
   },
   {
     "id": 1703,
@@ -39120,7 +39120,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1703/1703s.jpg"
+    "cover": "https://toolset.site/assets/book-1703-fb430f03.jpg"
   },
   {
     "id": 1704,
@@ -39143,7 +39143,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1704/1704s.jpg"
+    "cover": "https://toolset.site/assets/book-1704-571e2823.jpg"
   },
   {
     "id": 1705,
@@ -39166,7 +39166,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1705/1705s.jpg"
+    "cover": "https://toolset.site/assets/book-1705-04b38d94.jpg"
   },
   {
     "id": 1706,
@@ -39189,7 +39189,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1706/1706s.jpg"
+    "cover": "https://toolset.site/assets/book-1706-89064ee9.jpg"
   },
   {
     "id": 1707,
@@ -39212,7 +39212,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1707/1707s.jpg"
+    "cover": "https://toolset.site/assets/book-1707-843614c9.jpg"
   },
   {
     "id": 1708,
@@ -39235,7 +39235,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1708/1708s.jpg"
+    "cover": "https://toolset.site/assets/book-1708-5d919d12.jpg"
   },
   {
     "id": 1709,
@@ -39258,7 +39258,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1709/1709s.jpg"
+    "cover": "https://toolset.site/assets/book-1709-4b77e3c3.jpg"
   },
   {
     "id": 1710,
@@ -39281,7 +39281,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1710/1710s.jpg"
+    "cover": "https://toolset.site/assets/book-1710-7b43417d.jpg"
   },
   {
     "id": 1711,
@@ -39304,7 +39304,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1711/1711s.jpg"
+    "cover": "https://toolset.site/assets/book-1711-54525ec6.jpg"
   },
   {
     "id": 1712,
@@ -39373,7 +39373,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1714/1714s.jpg"
+    "cover": "https://toolset.site/assets/book-1714-e447ac03.jpg"
   },
   {
     "id": 1715,
@@ -39396,7 +39396,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1715/1715s.jpg"
+    "cover": "https://toolset.site/assets/book-1715-c8c1b3ca.jpg"
   },
   {
     "id": 1716,
@@ -39419,7 +39419,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1716/1716s.jpg"
+    "cover": "https://toolset.site/assets/book-1716-4fcb1e58.jpg"
   },
   {
     "id": 1717,
@@ -39442,7 +39442,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1717/1717s.jpg"
+    "cover": "https://toolset.site/assets/book-1717-7ed71692.jpg"
   },
   {
     "id": 1718,
@@ -39465,7 +39465,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1718/1718s.jpg"
+    "cover": "https://toolset.site/assets/book-1718-928936cf.jpg"
   },
   {
     "id": 1719,
@@ -39488,7 +39488,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1719/1719s.jpg"
+    "cover": "https://toolset.site/assets/book-1719-9d4da3e7.jpg"
   },
   {
     "id": 1720,
@@ -39511,7 +39511,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1720/1720s.jpg"
+    "cover": "https://toolset.site/assets/book-1720-9ef64db6.jpg"
   },
   {
     "id": 1721,
@@ -39534,7 +39534,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1721/1721s.jpg"
+    "cover": "https://toolset.site/assets/book-1721-6668723b.jpg"
   },
   {
     "id": 1722,
@@ -39557,7 +39557,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1722/1722s.jpg"
+    "cover": "https://toolset.site/assets/book-1722-64146ddb.jpg"
   },
   {
     "id": 1723,
@@ -39580,7 +39580,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1723/1723s.jpg"
+    "cover": "https://toolset.site/assets/book-1723-a0134fae.jpg"
   },
   {
     "id": 1724,
@@ -39603,7 +39603,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1724/1724s.jpg"
+    "cover": "https://toolset.site/assets/book-1724-3521b932.jpg"
   },
   {
     "id": 1725,
@@ -39626,7 +39626,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1725/1725s.jpg"
+    "cover": "https://toolset.site/assets/book-1725-47586ac0.jpg"
   },
   {
     "id": 1726,
@@ -39649,7 +39649,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1726/1726s.jpg"
+    "cover": "https://toolset.site/assets/book-1726-6908fed3.jpg"
   },
   {
     "id": 1727,
@@ -39672,7 +39672,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1727/1727s.jpg"
+    "cover": "https://toolset.site/assets/book-1727-6cc1e149.jpg"
   },
   {
     "id": 1728,
@@ -39695,7 +39695,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1728/1728s.jpg"
+    "cover": "https://toolset.site/assets/book-1728-e94659e0.jpg"
   },
   {
     "id": 1729,
@@ -39718,7 +39718,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1729/1729s.jpg"
+    "cover": "https://toolset.site/assets/book-1729-88964e7a.jpg"
   },
   {
     "id": 1730,
@@ -39741,7 +39741,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1730/1730s.jpg"
+    "cover": "https://toolset.site/assets/book-1730-f69101dd.jpg"
   },
   {
     "id": 1731,
@@ -39764,7 +39764,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1731/1731s.jpg"
+    "cover": "https://toolset.site/assets/book-1731-7c2286f7.jpg"
   },
   {
     "id": 1732,
@@ -39787,7 +39787,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1732/1732s.jpg"
+    "cover": "https://toolset.site/assets/book-1732-465616fc.jpg"
   },
   {
     "id": 1733,
@@ -39810,7 +39810,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1733/1733s.jpg"
+    "cover": "https://toolset.site/assets/book-1733-0293b53c.jpg"
   },
   {
     "id": 1734,
@@ -39833,7 +39833,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1734/1734s.jpg"
+    "cover": "https://toolset.site/assets/book-1734-dbda9e1a.jpg"
   },
   {
     "id": 1735,
@@ -39856,7 +39856,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1735/1735s.jpg"
+    "cover": "https://toolset.site/assets/book-1735-18726dc4.jpg"
   },
   {
     "id": 1736,
@@ -39879,7 +39879,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1736/1736s.jpg"
+    "cover": "https://toolset.site/assets/book-1736-d517bac6.jpg"
   },
   {
     "id": 1737,
@@ -39902,7 +39902,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1737/1737s.jpg"
+    "cover": "https://toolset.site/assets/book-1737-99d5e90a.jpg"
   },
   {
     "id": 1738,
@@ -39925,7 +39925,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1738/1738s.jpg"
+    "cover": "https://toolset.site/assets/book-1738-8543a59f.jpg"
   },
   {
     "id": 1739,
@@ -39948,7 +39948,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1739/1739s.jpg"
+    "cover": "https://toolset.site/assets/book-1739-0399881b.jpg"
   },
   {
     "id": 1740,
@@ -39971,7 +39971,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1740/1740s.jpg"
+    "cover": "https://toolset.site/assets/book-1740-7bf7ee3d.jpg"
   },
   {
     "id": 1741,
@@ -40017,7 +40017,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1742/1742s.jpg"
+    "cover": "https://toolset.site/assets/book-1742-06518152.jpg"
   },
   {
     "id": 1743,
@@ -40040,7 +40040,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1743/1743s.jpg"
+    "cover": "https://toolset.site/assets/book-1743-d41dc314.jpg"
   },
   {
     "id": 1744,
@@ -40063,7 +40063,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1744/1744s.jpg"
+    "cover": "https://toolset.site/assets/book-1744-55b7d3d7.jpg"
   },
   {
     "id": 1745,
@@ -40086,7 +40086,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1745/1745s.jpg"
+    "cover": "https://toolset.site/assets/book-1745-6dd4ae84.jpg"
   },
   {
     "id": 1746,
@@ -40109,7 +40109,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1746/1746s.jpg"
+    "cover": "https://toolset.site/assets/book-1746-0f8ee759.jpg"
   },
   {
     "id": 1747,
@@ -40132,7 +40132,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1747/1747s.jpg"
+    "cover": "https://toolset.site/assets/book-1747-a4047ade.jpg"
   },
   {
     "id": 1748,
@@ -40155,7 +40155,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1748/1748s.jpg"
+    "cover": "https://toolset.site/assets/book-1748-27c816d1.jpg"
   },
   {
     "id": 1749,
@@ -40178,7 +40178,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1749/1749s.jpg"
+    "cover": "https://toolset.site/assets/book-1749-a5f9d00a.jpg"
   },
   {
     "id": 1750,
@@ -40201,7 +40201,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1750/1750s.jpg"
+    "cover": "https://toolset.site/assets/book-1750-3ef49051.jpg"
   },
   {
     "id": 1751,
@@ -40339,7 +40339,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1756/1756s.jpg"
+    "cover": "https://toolset.site/assets/book-1756-471c8d2a.jpg"
   },
   {
     "id": 1757,
@@ -40385,7 +40385,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1758/1758s.jpg"
+    "cover": "https://toolset.site/assets/book-1758-ae94b63c.jpg"
   },
   {
     "id": 1759,
@@ -40408,7 +40408,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1759/1759s.jpg"
+    "cover": "https://toolset.site/assets/book-1759-2d897377.jpg"
   },
   {
     "id": 1760,
@@ -40431,7 +40431,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1760/1760s.jpg"
+    "cover": "https://toolset.site/assets/book-1760-6cae99e5.jpg"
   },
   {
     "id": 1761,
@@ -40454,7 +40454,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1761/1761s.jpg"
+    "cover": "https://toolset.site/assets/book-1761-58e15abc.jpg"
   },
   {
     "id": 1762,
@@ -40477,7 +40477,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1762/1762s.jpg"
+    "cover": "https://toolset.site/assets/book-1762-6886c794.jpg"
   },
   {
     "id": 1763,
@@ -40500,7 +40500,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1763/1763s.jpg"
+    "cover": "https://toolset.site/assets/book-1763-0de7f178.jpg"
   },
   {
     "id": 1764,
@@ -40523,7 +40523,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1764/1764s.jpg"
+    "cover": "https://toolset.site/assets/book-1764-79c239fe.jpg"
   },
   {
     "id": 1765,
@@ -40546,7 +40546,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1765/1765s.jpg"
+    "cover": "https://toolset.site/assets/book-1765-54f92065.jpg"
   },
   {
     "id": 1766,
@@ -40569,7 +40569,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1766/1766s.jpg"
+    "cover": "https://toolset.site/assets/book-1766-c3c8482d.jpg"
   },
   {
     "id": 1767,
@@ -40592,7 +40592,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1767/1767s.jpg"
+    "cover": "https://toolset.site/assets/book-1767-ae3a3b78.jpg"
   },
   {
     "id": 1768,
@@ -40615,7 +40615,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1768/1768s.jpg"
+    "cover": "https://toolset.site/assets/book-1768-8bd34c18.jpg"
   },
   {
     "id": 1769,
@@ -40638,7 +40638,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1769/1769s.jpg"
+    "cover": "https://toolset.site/assets/book-1769-f765aaf4.jpg"
   },
   {
     "id": 1770,
@@ -40661,7 +40661,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1770/1770s.jpg"
+    "cover": "https://toolset.site/assets/book-1770-639fcee4.jpg"
   },
   {
     "id": 1771,
@@ -40684,7 +40684,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1771/1771s.jpg"
+    "cover": "https://toolset.site/assets/book-1771-f8ec2022.jpg"
   },
   {
     "id": 1772,
@@ -40707,7 +40707,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1772/1772s.jpg"
+    "cover": "https://toolset.site/assets/book-1772-2f01e96b.jpg"
   },
   {
     "id": 1773,
@@ -40730,7 +40730,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1773/1773s.jpg"
+    "cover": "https://toolset.site/assets/book-1773-8e1f6007.jpg"
   },
   {
     "id": 1774,
@@ -40753,7 +40753,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1774/1774s.jpg"
+    "cover": "https://toolset.site/assets/book-1774-4722585f.jpg"
   },
   {
     "id": 1775,
@@ -40776,7 +40776,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1775/1775s.jpg"
+    "cover": "https://toolset.site/assets/book-1775-4a6f913c.jpg"
   },
   {
     "id": 1776,
@@ -40799,7 +40799,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1776/1776s.jpg"
+    "cover": "https://toolset.site/assets/book-1776-efc59dd7.jpg"
   },
   {
     "id": 1777,
@@ -40822,7 +40822,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1777/1777s.jpg"
+    "cover": "https://toolset.site/assets/book-1777-8ab2d4d5.jpg"
   },
   {
     "id": 1778,
@@ -40845,7 +40845,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1778/1778s.jpg"
+    "cover": "https://toolset.site/assets/book-1778-1706a924.jpg"
   },
   {
     "id": 1779,
@@ -40868,7 +40868,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1779/1779s.jpg"
+    "cover": "https://toolset.site/assets/book-1779-f0aef0f3.jpg"
   },
   {
     "id": 1780,
@@ -40891,7 +40891,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1780/1780s.jpg"
+    "cover": "https://toolset.site/assets/book-1780-4fa1a30b.jpg"
   },
   {
     "id": 1781,
@@ -40914,7 +40914,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1781/1781s.jpg"
+    "cover": "https://toolset.site/assets/book-1781-b93f668a.jpg"
   },
   {
     "id": 1782,
@@ -40937,7 +40937,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1782/1782s.jpg"
+    "cover": "https://toolset.site/assets/book-1782-82e65b95.jpg"
   },
   {
     "id": 1783,
@@ -40960,7 +40960,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1783/1783s.jpg"
+    "cover": "https://toolset.site/assets/book-1783-2527c790.jpg"
   },
   {
     "id": 1784,
@@ -40983,7 +40983,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1784/1784s.jpg"
+    "cover": "https://toolset.site/assets/book-1784-a27c0e00.jpg"
   },
   {
     "id": 1785,
@@ -41006,7 +41006,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1785/1785s.jpg"
+    "cover": "https://toolset.site/assets/book-1785-9e4c9902.jpg"
   },
   {
     "id": 1786,
@@ -41029,7 +41029,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1786/1786s.jpg"
+    "cover": "https://toolset.site/assets/book-1786-8e7440a7.jpg"
   },
   {
     "id": 1787,
@@ -41052,7 +41052,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1787/1787s.jpg"
+    "cover": "https://toolset.site/assets/book-1787-30617c55.jpg"
   },
   {
     "id": 1788,
@@ -41075,7 +41075,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1788/1788s.jpg"
+    "cover": "https://toolset.site/assets/book-1788-eac51706.jpg"
   },
   {
     "id": 1789,
@@ -41098,7 +41098,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1789/1789s.jpg"
+    "cover": "https://toolset.site/assets/book-1789-ae6a9ce1.jpg"
   },
   {
     "id": 1790,
@@ -41121,7 +41121,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1790/1790s.jpg"
+    "cover": "https://toolset.site/assets/book-1790-d6829cb9.jpg"
   },
   {
     "id": 1791,
@@ -41144,7 +41144,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1791/1791s.jpg"
+    "cover": "https://toolset.site/assets/book-1791-15d8f23d.jpg"
   },
   {
     "id": 1792,
@@ -41167,7 +41167,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1792/1792s.jpg"
+    "cover": "https://toolset.site/assets/book-1792-66e08e69.jpg"
   },
   {
     "id": 1793,
@@ -41190,7 +41190,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1793/1793s.jpg"
+    "cover": "https://toolset.site/assets/book-1793-8ea7d347.jpg"
   },
   {
     "id": 1794,
@@ -41213,7 +41213,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1794/1794s.jpg"
+    "cover": "https://toolset.site/assets/book-1794-546631a6.jpg"
   },
   {
     "id": 1795,
@@ -41236,7 +41236,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1795/1795s.jpg"
+    "cover": "https://toolset.site/assets/book-1795-7013f994.jpg"
   },
   {
     "id": 1796,
@@ -41259,7 +41259,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1796/1796s.jpg"
+    "cover": "https://toolset.site/assets/book-1796-902d9754.jpg"
   },
   {
     "id": 1797,
@@ -41282,7 +41282,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1797/1797s.jpg"
+    "cover": "https://toolset.site/assets/book-1797-d6e1bb40.jpg"
   },
   {
     "id": 1798,
@@ -41305,7 +41305,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1798/1798s.jpg"
+    "cover": "https://toolset.site/assets/book-1798-8cb813fa.jpg"
   },
   {
     "id": 1799,
@@ -41328,7 +41328,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1799/1799s.jpg"
+    "cover": "https://toolset.site/assets/book-1799-e4802ac1.jpg"
   },
   {
     "id": 1800,
@@ -41351,7 +41351,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1800/1800s.jpg"
+    "cover": "https://toolset.site/assets/book-1800-57889b2c.jpg"
   },
   {
     "id": 1801,
@@ -41374,7 +41374,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1801/1801s.jpg"
+    "cover": "https://toolset.site/assets/book-1801-ad356bad.jpg"
   },
   {
     "id": 1802,
@@ -41397,7 +41397,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1802/1802s.jpg"
+    "cover": "https://toolset.site/assets/book-1802-8b94599d.jpg"
   },
   {
     "id": 1803,
@@ -41420,7 +41420,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1803/1803s.jpg"
+    "cover": "https://toolset.site/assets/book-1803-fd45aeae.jpg"
   },
   {
     "id": 1804,
@@ -41443,7 +41443,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1804/1804s.jpg"
+    "cover": "https://toolset.site/assets/book-1804-932899a4.jpg"
   },
   {
     "id": 1805,
@@ -41466,7 +41466,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1805/1805s.jpg"
+    "cover": "https://toolset.site/assets/book-1805-be4307ca.jpg"
   },
   {
     "id": 1806,
@@ -41489,7 +41489,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1806/1806s.jpg"
+    "cover": "https://toolset.site/assets/book-1806-00c582e1.jpg"
   },
   {
     "id": 1807,
@@ -41512,7 +41512,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1807/1807s.jpg"
+    "cover": "https://toolset.site/assets/book-1807-f59a16af.jpg"
   },
   {
     "id": 1808,
@@ -41535,7 +41535,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1808/1808s.jpg"
+    "cover": "https://toolset.site/assets/book-1808-10f1488b.jpg"
   },
   {
     "id": 1809,
@@ -41558,7 +41558,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1809/1809s.jpg"
+    "cover": "https://toolset.site/assets/book-1809-fa5af617.jpg"
   },
   {
     "id": 1810,
@@ -41581,7 +41581,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1810/1810s.jpg"
+    "cover": "https://toolset.site/assets/book-1810-e33f5cfc.jpg"
   },
   {
     "id": 1811,
@@ -41604,7 +41604,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1811/1811s.jpg"
+    "cover": "https://toolset.site/assets/book-1811-ba601178.jpg"
   },
   {
     "id": 1812,
@@ -41627,7 +41627,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1812/1812s.jpg"
+    "cover": "https://toolset.site/assets/book-1812-10e56e98.jpg"
   },
   {
     "id": 1813,
@@ -41650,7 +41650,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1813/1813s.jpg"
+    "cover": "https://toolset.site/assets/book-1813-06e51ba1.jpg"
   },
   {
     "id": 1814,
@@ -41673,7 +41673,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1814/1814s.jpg"
+    "cover": "https://toolset.site/assets/book-1814-299a6a66.jpg"
   },
   {
     "id": 1815,
@@ -41696,7 +41696,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1815/1815s.jpg"
+    "cover": "https://toolset.site/assets/book-1815-807f75aa.jpg"
   },
   {
     "id": 1816,
@@ -41719,7 +41719,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1816/1816s.jpg"
+    "cover": "https://toolset.site/assets/book-1816-086d43fd.jpg"
   },
   {
     "id": 1817,
@@ -41742,7 +41742,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1817/1817s.jpg"
+    "cover": "https://toolset.site/assets/book-1817-89e6e4b7.jpg"
   },
   {
     "id": 1818,
@@ -41765,7 +41765,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1818/1818s.jpg"
+    "cover": "https://toolset.site/assets/book-1818-72698054.jpg"
   },
   {
     "id": 1819,
@@ -41788,7 +41788,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1819/1819s.jpg"
+    "cover": "https://toolset.site/assets/book-1819-da6ba29e.jpg"
   },
   {
     "id": 1820,
@@ -41811,7 +41811,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1820/1820s.jpg"
+    "cover": "https://toolset.site/assets/book-1820-a378650e.jpg"
   },
   {
     "id": 1821,
@@ -41834,7 +41834,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1821/1821s.jpg"
+    "cover": "https://toolset.site/assets/book-1821-10143a73.jpg"
   },
   {
     "id": 1822,
@@ -41857,7 +41857,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1822/1822s.jpg"
+    "cover": "https://toolset.site/assets/book-1822-ed5e7e12.jpg"
   },
   {
     "id": 1823,
@@ -41880,7 +41880,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1823/1823s.jpg"
+    "cover": "https://toolset.site/assets/book-1823-2b8c6fe8.jpg"
   },
   {
     "id": 1824,
@@ -41903,7 +41903,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1824/1824s.jpg"
+    "cover": "https://toolset.site/assets/book-1824-f6708033.jpg"
   },
   {
     "id": 1825,
@@ -41926,7 +41926,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1825/1825s.jpg"
+    "cover": "https://toolset.site/assets/book-1825-9d075664.jpg"
   },
   {
     "id": 1826,
@@ -41949,7 +41949,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1826/1826s.jpg"
+    "cover": "https://toolset.site/assets/book-1826-6e4cef3a.jpg"
   },
   {
     "id": 1827,
@@ -41972,7 +41972,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1827/1827s.jpg"
+    "cover": "https://toolset.site/assets/book-1827-0b0c6de5.jpg"
   },
   {
     "id": 1828,
@@ -41995,7 +41995,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1828/1828s.jpg"
+    "cover": "https://toolset.site/assets/book-1828-bf2bfdbc.jpg"
   },
   {
     "id": 1829,
@@ -42018,7 +42018,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1829/1829s.jpg"
+    "cover": "https://toolset.site/assets/book-1829-838cd5b1.jpg"
   },
   {
     "id": 1830,
@@ -42041,7 +42041,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1830/1830s.jpg"
+    "cover": "https://toolset.site/assets/book-1830-172a9e2d.jpg"
   },
   {
     "id": 1831,
@@ -42064,7 +42064,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1831/1831s.jpg"
+    "cover": "https://toolset.site/assets/book-1831-fb3f7d8b.jpg"
   },
   {
     "id": 1832,
@@ -42087,7 +42087,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1832/1832s.jpg"
+    "cover": "https://toolset.site/assets/book-1832-c1b3138c.jpg"
   },
   {
     "id": 1833,
@@ -42110,7 +42110,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1833/1833s.jpg"
+    "cover": "https://toolset.site/assets/book-1833-525251bb.jpg"
   },
   {
     "id": 1834,
@@ -42133,7 +42133,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1834/1834s.jpg"
+    "cover": "https://toolset.site/assets/book-1834-68dbd8c8.jpg"
   },
   {
     "id": 1835,
@@ -42156,7 +42156,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1835/1835s.jpg"
+    "cover": "https://toolset.site/assets/book-1835-e64faf0a.jpg"
   },
   {
     "id": 1836,
@@ -42179,7 +42179,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1836/1836s.jpg"
+    "cover": "https://toolset.site/assets/book-1836-6c133838.jpg"
   },
   {
     "id": 1837,
@@ -42202,7 +42202,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1837/1837s.jpg"
+    "cover": "https://toolset.site/assets/book-1837-1567f9dc.jpg"
   },
   {
     "id": 1838,
@@ -42225,7 +42225,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1838/1838s.jpg"
+    "cover": "https://toolset.site/assets/book-1838-e3cd9966.jpg"
   },
   {
     "id": 1839,
@@ -42248,7 +42248,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1839/1839s.jpg"
+    "cover": "https://toolset.site/assets/book-1839-aac4359d.jpg"
   },
   {
     "id": 1840,
@@ -42271,7 +42271,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1840/1840s.jpg"
+    "cover": "https://toolset.site/assets/book-1840-1a165d59.jpg"
   },
   {
     "id": 1841,
@@ -42294,7 +42294,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1841/1841s.jpg"
+    "cover": "https://toolset.site/assets/book-1841-ca445110.jpg"
   },
   {
     "id": 1842,
@@ -42317,7 +42317,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1842/1842s.jpg"
+    "cover": "https://toolset.site/assets/book-1842-3c36cd8e.jpg"
   },
   {
     "id": 1843,
@@ -42340,7 +42340,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1843/1843s.jpg"
+    "cover": "https://toolset.site/assets/book-1843-feff67e1.jpg"
   },
   {
     "id": 1844,
@@ -42363,7 +42363,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1844/1844s.jpg"
+    "cover": "https://toolset.site/assets/book-1844-a9cc06ed.jpg"
   },
   {
     "id": 1845,
@@ -42386,7 +42386,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1845/1845s.jpg"
+    "cover": "https://toolset.site/assets/book-1845-4c915597.jpg"
   },
   {
     "id": 1846,
@@ -42409,7 +42409,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1846/1846s.jpg"
+    "cover": "https://toolset.site/assets/book-1846-1977c031.jpg"
   },
   {
     "id": 1847,
@@ -42432,7 +42432,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1847/1847s.jpg"
+    "cover": "https://toolset.site/assets/book-1847-bd24c2a8.jpg"
   },
   {
     "id": 1848,
@@ -42455,7 +42455,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1848/1848s.jpg"
+    "cover": "https://toolset.site/assets/book-1848-5b3a534a.jpg"
   },
   {
     "id": 1849,
@@ -42478,7 +42478,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1849/1849s.jpg"
+    "cover": "https://toolset.site/assets/book-1849-05d2d171.jpg"
   },
   {
     "id": 1850,
@@ -42501,7 +42501,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1850/1850s.jpg"
+    "cover": "https://toolset.site/assets/book-1850-55342e87.jpg"
   },
   {
     "id": 1851,
@@ -42524,7 +42524,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1851/1851s.jpg"
+    "cover": "https://toolset.site/assets/book-1851-6fa69080.jpg"
   },
   {
     "id": 1852,
@@ -42547,7 +42547,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1852/1852s.jpg"
+    "cover": "https://toolset.site/assets/book-1852-1f6a2d18.jpg"
   },
   {
     "id": 1853,
@@ -42570,7 +42570,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1853/1853s.jpg"
+    "cover": "https://toolset.site/assets/book-1853-ca25d6ac.jpg"
   },
   {
     "id": 1854,
@@ -42593,7 +42593,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1854/1854s.jpg"
+    "cover": "https://toolset.site/assets/book-1854-a65ed48f.jpg"
   },
   {
     "id": 1855,
@@ -42616,7 +42616,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1855/1855s.jpg"
+    "cover": "https://toolset.site/assets/book-1855-0e066bca.jpg"
   },
   {
     "id": 1856,
@@ -42639,7 +42639,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1856/1856s.jpg"
+    "cover": "https://toolset.site/assets/book-1856-a17811b0.jpg"
   },
   {
     "id": 1857,
@@ -42662,7 +42662,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1857/1857s.jpg"
+    "cover": "https://toolset.site/assets/book-1857-04c8e6e0.jpg"
   },
   {
     "id": 1858,
@@ -42685,7 +42685,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1858/1858s.jpg"
+    "cover": "https://toolset.site/assets/book-1858-59ebfc6e.jpg"
   },
   {
     "id": 1859,
@@ -42708,7 +42708,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1859/1859s.jpg"
+    "cover": "https://toolset.site/assets/book-1859-3574dc13.jpg"
   },
   {
     "id": 1860,
@@ -42731,7 +42731,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1860/1860s.jpg"
+    "cover": "https://toolset.site/assets/book-1860-4a236d1d.jpg"
   },
   {
     "id": 1861,
@@ -42754,7 +42754,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1861/1861s.jpg"
+    "cover": "https://toolset.site/assets/book-1861-8bdf0a82.jpg"
   },
   {
     "id": 1862,
@@ -42777,7 +42777,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1862/1862s.jpg"
+    "cover": "https://toolset.site/assets/book-1862-1547bc33.jpg"
   },
   {
     "id": 1863,
@@ -42800,7 +42800,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1863/1863s.jpg"
+    "cover": "https://toolset.site/assets/book-1863-826015dd.jpg"
   },
   {
     "id": 1864,
@@ -42823,7 +42823,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1864/1864s.jpg"
+    "cover": "https://toolset.site/assets/book-1864-5746c8f2.jpg"
   },
   {
     "id": 1865,
@@ -42846,7 +42846,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1865/1865s.jpg"
+    "cover": "https://toolset.site/assets/book-1865-e74c708b.jpg"
   },
   {
     "id": 1866,
@@ -42869,7 +42869,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1866/1866s.jpg"
+    "cover": "https://toolset.site/assets/book-1866-0188c62e.jpg"
   },
   {
     "id": 1867,
@@ -42892,7 +42892,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1867/1867s.jpg"
+    "cover": "https://toolset.site/assets/book-1867-d8c0ace2.jpg"
   },
   {
     "id": 1868,
@@ -42915,7 +42915,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1868/1868s.jpg"
+    "cover": "https://toolset.site/assets/book-1868-df29268a.jpg"
   },
   {
     "id": 1869,
@@ -42938,7 +42938,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1869/1869s.jpg"
+    "cover": "https://toolset.site/assets/book-1869-46873d81.jpg"
   },
   {
     "id": 1870,
@@ -42961,7 +42961,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1870/1870s.jpg"
+    "cover": "https://toolset.site/assets/book-1870-40fb1eb8.jpg"
   },
   {
     "id": 1871,
@@ -42984,7 +42984,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1871/1871s.jpg"
+    "cover": "https://toolset.site/assets/book-1871-3c99a0a2.jpg"
   },
   {
     "id": 1872,
@@ -43007,7 +43007,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1872/1872s.jpg"
+    "cover": "https://toolset.site/assets/book-1872-fc521434.jpg"
   },
   {
     "id": 1873,
@@ -43030,7 +43030,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1873/1873s.jpg"
+    "cover": "https://toolset.site/assets/book-1873-56dd10aa.jpg"
   },
   {
     "id": 1874,
@@ -43053,7 +43053,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1874/1874s.jpg"
+    "cover": "https://toolset.site/assets/book-1874-b14ddde0.jpg"
   },
   {
     "id": 1875,
@@ -43076,7 +43076,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1875/1875s.jpg"
+    "cover": "https://toolset.site/assets/book-1875-52e7c67c.jpg"
   },
   {
     "id": 1876,
@@ -43122,7 +43122,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1877/1877s.jpg"
+    "cover": "https://toolset.site/assets/book-1877-421c1d30.jpg"
   },
   {
     "id": 1878,
@@ -43145,7 +43145,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1878/1878s.jpg"
+    "cover": "https://toolset.site/assets/book-1878-a0602af0.jpg"
   },
   {
     "id": 1879,
@@ -43168,7 +43168,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1879/1879s.jpg"
+    "cover": "https://toolset.site/assets/book-1879-43ddb8eb.jpg"
   },
   {
     "id": 1880,
@@ -43191,7 +43191,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1880/1880s.jpg"
+    "cover": "https://toolset.site/assets/book-1880-3eb36d53.jpg"
   },
   {
     "id": 1881,
@@ -43214,7 +43214,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1881/1881s.jpg"
+    "cover": "https://toolset.site/assets/book-1881-095142e9.jpg"
   },
   {
     "id": 1882,
@@ -43237,7 +43237,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1882/1882s.jpg"
+    "cover": "https://toolset.site/assets/book-1882-a84f14b4.jpg"
   },
   {
     "id": 1883,
@@ -43260,7 +43260,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1883/1883s.jpg"
+    "cover": "https://toolset.site/assets/book-1883-1c26fcb0.jpg"
   },
   {
     "id": 1884,
@@ -43283,7 +43283,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1884/1884s.jpg"
+    "cover": "https://toolset.site/assets/book-1884-42b8ae8f.jpg"
   },
   {
     "id": 1885,
@@ -43306,7 +43306,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1885/1885s.jpg"
+    "cover": "https://toolset.site/assets/book-1885-e025d73a.jpg"
   },
   {
     "id": 1886,
@@ -43329,7 +43329,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1886/1886s.jpg"
+    "cover": "https://toolset.site/assets/book-1886-d7443936.jpg"
   },
   {
     "id": 1887,
@@ -43352,7 +43352,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1887/1887s.jpg"
+    "cover": "https://toolset.site/assets/book-1887-47bb4ad3.jpg"
   },
   {
     "id": 1888,
@@ -43375,7 +43375,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1888/1888s.jpg"
+    "cover": "https://toolset.site/assets/book-1888-e30dde1d.jpg"
   },
   {
     "id": 1889,
@@ -43398,7 +43398,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1889/1889s.jpg"
+    "cover": "https://toolset.site/assets/book-1889-d6a9a34c.jpg"
   },
   {
     "id": 1890,
@@ -43421,7 +43421,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1890/1890s.jpg"
+    "cover": "https://toolset.site/assets/book-1890-356693a6.jpg"
   },
   {
     "id": 1891,
@@ -43444,7 +43444,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1891/1891s.jpg"
+    "cover": "https://toolset.site/assets/book-1891-0ea75126.jpg"
   },
   {
     "id": 1892,
@@ -43467,7 +43467,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1892/1892s.jpg"
+    "cover": "https://toolset.site/assets/book-1892-bf8ce5c9.jpg"
   },
   {
     "id": 1893,
@@ -43490,7 +43490,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1893/1893s.jpg"
+    "cover": "https://toolset.site/assets/book-1893-7c5bbea7.jpg"
   },
   {
     "id": 1894,
@@ -43513,7 +43513,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1894/1894s.jpg"
+    "cover": "https://toolset.site/assets/book-1894-f7171ad1.jpg"
   },
   {
     "id": 1895,
@@ -43536,7 +43536,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1895/1895s.jpg"
+    "cover": "https://toolset.site/assets/book-1895-a87808aa.jpg"
   },
   {
     "id": 1896,
@@ -43559,7 +43559,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1896/1896s.jpg"
+    "cover": "https://toolset.site/assets/book-1896-04458d62.jpg"
   },
   {
     "id": 1897,
@@ -43582,7 +43582,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1897/1897s.jpg"
+    "cover": "https://toolset.site/assets/book-1897-ed3866b5.jpg"
   },
   {
     "id": 1898,
@@ -43605,7 +43605,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1898/1898s.jpg"
+    "cover": "https://toolset.site/assets/book-1898-2df9a98b.jpg"
   },
   {
     "id": 1899,
@@ -43628,7 +43628,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1899/1899s.jpg"
+    "cover": "https://toolset.site/assets/book-1899-517e4d59.jpg"
   },
   {
     "id": 1900,
@@ -43651,7 +43651,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1900/1900s.jpg"
+    "cover": "https://toolset.site/assets/book-1900-c26a5852.jpg"
   },
   {
     "id": 1901,
@@ -43674,7 +43674,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1901/1901s.jpg"
+    "cover": "https://toolset.site/assets/book-1901-0cbb2776.jpg"
   },
   {
     "id": 1902,
@@ -43697,7 +43697,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1902/1902s.jpg"
+    "cover": "https://toolset.site/assets/book-1902-d94fa9cb.jpg"
   },
   {
     "id": 1903,
@@ -43720,7 +43720,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1903/1903s.jpg"
+    "cover": "https://toolset.site/assets/book-1903-def90e85.jpg"
   },
   {
     "id": 1904,
@@ -43743,7 +43743,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1904/1904s.jpg"
+    "cover": "https://toolset.site/assets/book-1904-c4632cf9.jpg"
   },
   {
     "id": 1905,
@@ -43766,7 +43766,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1905/1905s.jpg"
+    "cover": "https://toolset.site/assets/book-1905-786e04e8.jpg"
   },
   {
     "id": 1906,
@@ -43789,7 +43789,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1906/1906s.jpg"
+    "cover": "https://toolset.site/assets/book-1906-50ec2061.jpg"
   },
   {
     "id": 1907,
@@ -43812,7 +43812,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1907/1907s.jpg"
+    "cover": "https://toolset.site/assets/book-1907-dc44c095.jpg"
   },
   {
     "id": 1908,
@@ -43835,7 +43835,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1908/1908s.jpg"
+    "cover": "https://toolset.site/assets/book-1908-ad6a9f48.jpg"
   },
   {
     "id": 1909,
@@ -43858,7 +43858,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1909/1909s.jpg"
+    "cover": "https://toolset.site/assets/book-1909-2fdcb799.jpg"
   },
   {
     "id": 1910,
@@ -43881,7 +43881,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1910/1910s.jpg"
+    "cover": "https://toolset.site/assets/book-1910-ada299c0.jpg"
   },
   {
     "id": 1911,
@@ -43904,7 +43904,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1911/1911s.jpg"
+    "cover": "https://toolset.site/assets/book-1911-00803fec.jpg"
   },
   {
     "id": 1912,
@@ -43927,7 +43927,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1912/1912s.jpg"
+    "cover": "https://toolset.site/assets/book-1912-b839c812.jpg"
   },
   {
     "id": 1913,
@@ -43950,7 +43950,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1913/1913s.jpg"
+    "cover": "https://toolset.site/assets/book-1913-92a83f0e.jpg"
   },
   {
     "id": 1914,
@@ -43973,7 +43973,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1914/1914s.jpg"
+    "cover": "https://toolset.site/assets/book-1914-6c589cfd.jpg"
   },
   {
     "id": 1915,
@@ -43996,7 +43996,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1915/1915s.jpg"
+    "cover": "https://toolset.site/assets/book-1915-1c7bcc43.jpg"
   },
   {
     "id": 1916,
@@ -44019,7 +44019,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1916/1916s.jpg"
+    "cover": "https://toolset.site/assets/book-1916-0cdee8c8.jpg"
   },
   {
     "id": 1917,
@@ -44042,7 +44042,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1917/1917s.jpg"
+    "cover": "https://toolset.site/assets/book-1917-8ebf7008.jpg"
   },
   {
     "id": 1918,
@@ -44065,7 +44065,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1918/1918s.jpg"
+    "cover": "https://toolset.site/assets/book-1918-72f20e2f.jpg"
   },
   {
     "id": 1919,
@@ -44088,7 +44088,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1919/1919s.jpg"
+    "cover": "https://toolset.site/assets/book-1919-624d80e1.jpg"
   },
   {
     "id": 1920,
@@ -44111,7 +44111,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1920/1920s.jpg"
+    "cover": "https://toolset.site/assets/book-1920-61af0f24.jpg"
   },
   {
     "id": 1921,
@@ -44134,7 +44134,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1921/1921s.jpg"
+    "cover": "https://toolset.site/assets/book-1921-8eb082e0.jpg"
   },
   {
     "id": 1922,
@@ -44157,7 +44157,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1922/1922s.jpg"
+    "cover": "https://toolset.site/assets/book-1922-919ddf42.jpg"
   },
   {
     "id": 1923,
@@ -44180,7 +44180,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1923/1923s.jpg"
+    "cover": "https://toolset.site/assets/book-1923-0f9cf05d.jpg"
   },
   {
     "id": 1924,
@@ -44203,7 +44203,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1924/1924s.jpg"
+    "cover": "https://toolset.site/assets/book-1924-94998854.jpg"
   },
   {
     "id": 1925,
@@ -44226,7 +44226,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1925/1925s.jpg"
+    "cover": "https://toolset.site/assets/book-1925-8fcb9679.jpg"
   },
   {
     "id": 1926,
@@ -44249,7 +44249,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1926/1926s.jpg"
+    "cover": "https://toolset.site/assets/book-1926-6178f620.jpg"
   },
   {
     "id": 1927,
@@ -44272,7 +44272,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1927/1927s.jpg"
+    "cover": "https://toolset.site/assets/book-1927-10b16041.jpg"
   },
   {
     "id": 1928,
@@ -44295,7 +44295,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1928/1928s.jpg"
+    "cover": "https://toolset.site/assets/book-1928-e82ec5be.jpg"
   },
   {
     "id": 1929,
@@ -44318,7 +44318,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1929/1929s.jpg"
+    "cover": "https://toolset.site/assets/book-1929-5f1b3888.jpg"
   },
   {
     "id": 1930,
@@ -44341,7 +44341,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1930/1930s.jpg"
+    "cover": "https://toolset.site/assets/book-1930-6e3839a2.jpg"
   },
   {
     "id": 1931,
@@ -44364,7 +44364,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1931/1931s.jpg"
+    "cover": "https://toolset.site/assets/book-1931-ab7ac336.jpg"
   },
   {
     "id": 1932,
@@ -44387,7 +44387,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1932/1932s.jpg"
+    "cover": "https://toolset.site/assets/book-1932-ff585c75.jpg"
   },
   {
     "id": 1933,
@@ -44410,7 +44410,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1933/1933s.jpg"
+    "cover": "https://toolset.site/assets/book-1933-78c444ff.jpg"
   },
   {
     "id": 1934,
@@ -44433,7 +44433,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1934/1934s.jpg"
+    "cover": "https://toolset.site/assets/book-1934-021c24f0.jpg"
   },
   {
     "id": 1935,
@@ -44456,7 +44456,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1935/1935s.jpg"
+    "cover": "https://toolset.site/assets/book-1935-d0605952.jpg"
   },
   {
     "id": 1936,
@@ -44479,7 +44479,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1936/1936s.jpg"
+    "cover": "https://toolset.site/assets/book-1936-3e20b15c.jpg"
   },
   {
     "id": 1937,
@@ -44502,7 +44502,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1937/1937s.jpg"
+    "cover": "https://toolset.site/assets/book-1937-198fd9ab.jpg"
   },
   {
     "id": 1938,
@@ -44525,7 +44525,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1938/1938s.jpg"
+    "cover": "https://toolset.site/assets/book-1938-7d43cb2e.jpg"
   },
   {
     "id": 1939,
@@ -44548,7 +44548,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1939/1939s.jpg"
+    "cover": "https://toolset.site/assets/book-1939-8ac9d472.jpg"
   },
   {
     "id": 1940,
@@ -44571,7 +44571,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1940/1940s.jpg"
+    "cover": "https://toolset.site/assets/book-1940-db650fa9.jpg"
   },
   {
     "id": 1941,
@@ -44594,7 +44594,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1941/1941s.jpg"
+    "cover": "https://toolset.site/assets/book-1941-28fc2f77.jpg"
   },
   {
     "id": 1942,
@@ -44617,7 +44617,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1942/1942s.jpg"
+    "cover": "https://toolset.site/assets/book-1942-9c9484ce.jpg"
   },
   {
     "id": 1943,
@@ -44640,7 +44640,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1943/1943s.jpg"
+    "cover": "https://toolset.site/assets/book-1943-b9be2d08.jpg"
   },
   {
     "id": 1944,
@@ -44663,7 +44663,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1944/1944s.jpg"
+    "cover": "https://toolset.site/assets/book-1944-04a1dd80.jpg"
   },
   {
     "id": 1945,
@@ -44686,7 +44686,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1945/1945s.jpg"
+    "cover": "https://toolset.site/assets/book-1945-e3552d95.jpg"
   },
   {
     "id": 1946,
@@ -44709,7 +44709,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1946/1946s.jpg"
+    "cover": "https://toolset.site/assets/book-1946-39fdc4ad.jpg"
   },
   {
     "id": 1947,
@@ -44732,7 +44732,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1947/1947s.jpg"
+    "cover": "https://toolset.site/assets/book-1947-6f6002be.jpg"
   },
   {
     "id": 1948,
@@ -44755,7 +44755,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1948/1948s.jpg"
+    "cover": "https://toolset.site/assets/book-1948-4b1b189c.jpg"
   },
   {
     "id": 1949,
@@ -44778,7 +44778,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1949/1949s.jpg"
+    "cover": "https://toolset.site/assets/book-1949-1d398dd4.jpg"
   },
   {
     "id": 1950,
@@ -44801,7 +44801,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1950/1950s.jpg"
+    "cover": "https://toolset.site/assets/book-1950-78ddd5c0.jpg"
   },
   {
     "id": 1951,
@@ -44824,7 +44824,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1951/1951s.jpg"
+    "cover": "https://toolset.site/assets/book-1951-0ff055c6.jpg"
   },
   {
     "id": 1952,
@@ -44847,7 +44847,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1952/1952s.jpg"
+    "cover": "https://toolset.site/assets/book-1952-6cc310ca.jpg"
   },
   {
     "id": 1953,
@@ -44870,7 +44870,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1953/1953s.jpg"
+    "cover": "https://toolset.site/assets/book-1953-5ab51dd5.jpg"
   },
   {
     "id": 1954,
@@ -44893,7 +44893,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1954/1954s.jpg"
+    "cover": "https://toolset.site/assets/book-1954-36dbc938.jpg"
   },
   {
     "id": 1955,
@@ -44916,7 +44916,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1955/1955s.jpg"
+    "cover": "https://toolset.site/assets/book-1955-240e1fec.jpg"
   },
   {
     "id": 1956,
@@ -44939,7 +44939,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1956/1956s.jpg"
+    "cover": "https://toolset.site/assets/book-1956-6898c642.jpg"
   },
   {
     "id": 1957,
@@ -44962,7 +44962,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1957/1957s.jpg"
+    "cover": "https://toolset.site/assets/book-1957-0acd7f1a.jpg"
   },
   {
     "id": 1958,
@@ -44985,7 +44985,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1958/1958s.jpg"
+    "cover": "https://toolset.site/assets/book-1958-321fd231.jpg"
   },
   {
     "id": 1959,
@@ -45008,7 +45008,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1959/1959s.jpg"
+    "cover": "https://toolset.site/assets/book-1959-b496f7fe.jpg"
   },
   {
     "id": 1960,
@@ -45031,7 +45031,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1960/1960s.jpg"
+    "cover": "https://toolset.site/assets/book-1960-e9009fb2.jpg"
   },
   {
     "id": 1961,
@@ -45054,7 +45054,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1961/1961s.jpg"
+    "cover": "https://toolset.site/assets/book-1961-d39e09e3.jpg"
   },
   {
     "id": 1962,
@@ -45077,7 +45077,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1962/1962s.jpg"
+    "cover": "https://toolset.site/assets/book-1962-f219d4a3.jpg"
   },
   {
     "id": 1963,
@@ -45100,7 +45100,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1963/1963s.jpg"
+    "cover": "https://toolset.site/assets/book-1963-f2b98c57.jpg"
   },
   {
     "id": 1964,
@@ -45123,7 +45123,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1964/1964s.jpg"
+    "cover": "https://toolset.site/assets/book-1964-75b4ff8d.jpg"
   },
   {
     "id": 1965,
@@ -45146,7 +45146,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1965/1965s.jpg"
+    "cover": "https://toolset.site/assets/book-1965-1c3c9d6d.jpg"
   },
   {
     "id": 1966,
@@ -45169,7 +45169,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1966/1966s.jpg"
+    "cover": "https://toolset.site/assets/book-1966-b039b4d8.jpg"
   },
   {
     "id": 1967,
@@ -45192,7 +45192,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1967/1967s.jpg"
+    "cover": "https://toolset.site/assets/book-1967-61efbda3.jpg"
   },
   {
     "id": 1968,
@@ -45215,7 +45215,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1968/1968s.jpg"
+    "cover": "https://toolset.site/assets/book-1968-76bc235b.jpg"
   },
   {
     "id": 1969,
@@ -45238,7 +45238,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1969/1969s.jpg"
+    "cover": "https://toolset.site/assets/book-1969-fa2636cd.jpg"
   },
   {
     "id": 1970,
@@ -45261,7 +45261,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1970/1970s.jpg"
+    "cover": "https://toolset.site/assets/book-1970-fa671460.jpg"
   },
   {
     "id": 1971,
@@ -45284,7 +45284,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1971/1971s.jpg"
+    "cover": "https://toolset.site/assets/book-1971-9a8edaa1.jpg"
   },
   {
     "id": 1972,
@@ -45307,7 +45307,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1972/1972s.jpg"
+    "cover": "https://toolset.site/assets/book-1972-00cc0440.jpg"
   },
   {
     "id": 1973,
@@ -45330,7 +45330,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1973/1973s.jpg"
+    "cover": "https://toolset.site/assets/book-1973-fee2ff39.jpg"
   },
   {
     "id": 1974,
@@ -45353,7 +45353,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1974/1974s.jpg"
+    "cover": "https://toolset.site/assets/book-1974-3945e799.jpg"
   },
   {
     "id": 1975,
@@ -45376,7 +45376,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1975/1975s.jpg"
+    "cover": "https://toolset.site/assets/book-1975-118fb3c3.jpg"
   },
   {
     "id": 1976,
@@ -45399,7 +45399,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1976/1976s.jpg"
+    "cover": "https://toolset.site/assets/book-1976-2e37f099.jpg"
   },
   {
     "id": 1977,
@@ -45422,7 +45422,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1977/1977s.jpg"
+    "cover": "https://toolset.site/assets/book-1977-eba909c0.jpg"
   },
   {
     "id": 1978,
@@ -45445,7 +45445,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1978/1978s.jpg"
+    "cover": "https://toolset.site/assets/book-1978-cc76ae68.jpg"
   },
   {
     "id": 1979,
@@ -45468,7 +45468,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1979/1979s.jpg"
+    "cover": "https://toolset.site/assets/book-1979-7ba8405e.jpg"
   },
   {
     "id": 1980,
@@ -45491,7 +45491,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1980/1980s.jpg"
+    "cover": "https://toolset.site/assets/book-1980-57469e99.jpg"
   },
   {
     "id": 1981,
@@ -45514,7 +45514,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1981/1981s.jpg"
+    "cover": "https://toolset.site/assets/book-1981-4c34c3e3.jpg"
   },
   {
     "id": 1982,
@@ -45537,7 +45537,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1982/1982s.jpg"
+    "cover": "https://toolset.site/assets/book-1982-5e86943d.jpg"
   },
   {
     "id": 1983,
@@ -45560,7 +45560,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1983/1983s.jpg"
+    "cover": "https://toolset.site/assets/book-1983-31faf0e8.jpg"
   },
   {
     "id": 1984,
@@ -45583,7 +45583,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1984/1984s.jpg"
+    "cover": "https://toolset.site/assets/book-1984-65a8e720.jpg"
   },
   {
     "id": 1985,
@@ -45606,7 +45606,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1985/1985s.jpg"
+    "cover": "https://toolset.site/assets/book-1985-700c8452.jpg"
   },
   {
     "id": 1986,
@@ -45629,7 +45629,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1986/1986s.jpg"
+    "cover": "https://toolset.site/assets/book-1986-c19ca321.jpg"
   },
   {
     "id": 1987,
@@ -45652,7 +45652,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1987/1987s.jpg"
+    "cover": "https://toolset.site/assets/book-1987-5ad4249c.jpg"
   },
   {
     "id": 1988,
@@ -45675,7 +45675,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1988/1988s.jpg"
+    "cover": "https://toolset.site/assets/book-1988-259ee0d6.jpg"
   },
   {
     "id": 1989,
@@ -45698,7 +45698,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1989/1989s.jpg"
+    "cover": "https://toolset.site/assets/book-1989-b47156d7.jpg"
   },
   {
     "id": 1990,
@@ -45721,7 +45721,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1990/1990s.jpg"
+    "cover": "https://toolset.site/assets/book-1990-3c7849fc.jpg"
   },
   {
     "id": 1991,
@@ -45744,7 +45744,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1991/1991s.jpg"
+    "cover": "https://toolset.site/assets/book-1991-209ee658.jpg"
   },
   {
     "id": 1992,
@@ -45767,7 +45767,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1992/1992s.jpg"
+    "cover": "https://toolset.site/assets/book-1992-557865b5.jpg"
   },
   {
     "id": 1993,
@@ -45790,7 +45790,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1993/1993s.jpg"
+    "cover": "https://toolset.site/assets/book-1993-83f35ebc.jpg"
   },
   {
     "id": 1994,
@@ -45813,7 +45813,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1994/1994s.jpg"
+    "cover": "https://toolset.site/assets/book-1994-885fc319.jpg"
   },
   {
     "id": 1995,
@@ -45836,7 +45836,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1995/1995s.jpg"
+    "cover": "https://toolset.site/assets/book-1995-b2cc6a72.jpg"
   },
   {
     "id": 1996,
@@ -45859,7 +45859,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1996/1996s.jpg"
+    "cover": "https://toolset.site/assets/book-1996-193a5194.jpg"
   },
   {
     "id": 1997,
@@ -45882,7 +45882,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1997/1997s.jpg"
+    "cover": "https://toolset.site/assets/book-1997-2caef6ec.jpg"
   },
   {
     "id": 1998,
@@ -45905,7 +45905,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1998/1998s.jpg"
+    "cover": "https://toolset.site/assets/book-1998-9b56a7fc.jpg"
   },
   {
     "id": 1999,
@@ -45928,7 +45928,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/1/1999/1999s.jpg"
+    "cover": "https://toolset.site/assets/book-1999-28172ca5.jpg"
   },
   {
     "id": 2000,
@@ -45951,7 +45951,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2000/2000s.jpg"
+    "cover": "https://toolset.site/assets/book-2000-b4e15d45.jpg"
   },
   {
     "id": 2001,
@@ -45974,7 +45974,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2001/2001s.jpg"
+    "cover": "https://toolset.site/assets/book-2001-ed98aa1a.jpg"
   },
   {
     "id": 2002,
@@ -45997,7 +45997,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2002/2002s.jpg"
+    "cover": "https://toolset.site/assets/book-2002-966fbc69.jpg"
   },
   {
     "id": 2003,
@@ -46020,7 +46020,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2003/2003s.jpg"
+    "cover": "https://toolset.site/assets/book-2003-feae675c.jpg"
   },
   {
     "id": 2004,
@@ -46043,7 +46043,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2004/2004s.jpg"
+    "cover": "https://toolset.site/assets/book-2004-823a9f03.jpg"
   },
   {
     "id": 2005,
@@ -46066,7 +46066,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2005/2005s.jpg"
+    "cover": "https://toolset.site/assets/book-2005-bb57f803.jpg"
   },
   {
     "id": 2006,
@@ -46089,7 +46089,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2006/2006s.jpg"
+    "cover": "https://toolset.site/assets/book-2006-1e8af475.jpg"
   },
   {
     "id": 2007,
@@ -46112,7 +46112,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2007/2007s.jpg"
+    "cover": "https://toolset.site/assets/book-2007-1593f686.jpg"
   },
   {
     "id": 2008,
@@ -46135,7 +46135,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2008/2008s.jpg"
+    "cover": "https://toolset.site/assets/book-2008-03ef55b9.jpg"
   },
   {
     "id": 2009,
@@ -46158,7 +46158,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2009/2009s.jpg"
+    "cover": "https://toolset.site/assets/book-2009-64c60dd5.jpg"
   },
   {
     "id": 2010,
@@ -46181,7 +46181,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2010/2010s.jpg"
+    "cover": "https://toolset.site/assets/book-2010-b5c3e906.jpg"
   },
   {
     "id": 2011,
@@ -46204,7 +46204,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2011/2011s.jpg"
+    "cover": "https://toolset.site/assets/book-2011-c8cdd9de.jpg"
   },
   {
     "id": 2012,
@@ -46227,7 +46227,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2012/2012s.jpg"
+    "cover": "https://toolset.site/assets/book-2012-a10e94f0.jpg"
   },
   {
     "id": 2013,
@@ -46250,7 +46250,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2013/2013s.jpg"
+    "cover": "https://toolset.site/assets/book-2013-dff264ec.jpg"
   },
   {
     "id": 2014,
@@ -46273,7 +46273,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2014/2014s.jpg"
+    "cover": "https://toolset.site/assets/book-2014-8f909069.jpg"
   },
   {
     "id": 2015,
@@ -46296,7 +46296,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2015/2015s.jpg"
+    "cover": "https://toolset.site/assets/book-2015-b1a7cf89.jpg"
   },
   {
     "id": 2016,
@@ -46319,7 +46319,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2016/2016s.jpg"
+    "cover": "https://toolset.site/assets/book-2016-0f08375a.jpg"
   },
   {
     "id": 2017,
@@ -46342,7 +46342,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2017/2017s.jpg"
+    "cover": "https://toolset.site/assets/book-2017-e56e72f7.jpg"
   },
   {
     "id": 2018,
@@ -46365,7 +46365,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2018/2018s.jpg"
+    "cover": "https://toolset.site/assets/book-2018-bcdff099.jpg"
   },
   {
     "id": 2019,
@@ -46388,7 +46388,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2019/2019s.jpg"
+    "cover": "https://toolset.site/assets/book-2019-ff9cf686.jpg"
   },
   {
     "id": 2020,
@@ -46411,7 +46411,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2020/2020s.jpg"
+    "cover": "https://toolset.site/assets/book-2020-9d60d576.jpg"
   },
   {
     "id": 2021,
@@ -46434,7 +46434,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2021/2021s.jpg"
+    "cover": "https://toolset.site/assets/book-2021-a9ed350f.jpg"
   },
   {
     "id": 2022,
@@ -46457,7 +46457,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2022/2022s.jpg"
+    "cover": "https://toolset.site/assets/book-2022-679a6fee.jpg"
   },
   {
     "id": 2023,
@@ -46480,7 +46480,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2023/2023s.jpg"
+    "cover": "https://toolset.site/assets/book-2023-f4ce16d3.jpg"
   },
   {
     "id": 2024,
@@ -46503,7 +46503,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2024/2024s.jpg"
+    "cover": "https://toolset.site/assets/book-2024-5c2a4f20.jpg"
   },
   {
     "id": 2025,
@@ -46526,7 +46526,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2025/2025s.jpg"
+    "cover": "https://toolset.site/assets/book-2025-5dcd6770.jpg"
   },
   {
     "id": 2026,
@@ -46549,7 +46549,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2026/2026s.jpg"
+    "cover": "https://toolset.site/assets/book-2026-19da3319.jpg"
   },
   {
     "id": 2027,
@@ -46572,7 +46572,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2027/2027s.jpg"
+    "cover": "https://toolset.site/assets/book-2027-5d32613e.jpg"
   },
   {
     "id": 2028,
@@ -46595,7 +46595,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2028/2028s.jpg"
+    "cover": "https://toolset.site/assets/book-2028-b30db890.jpg"
   },
   {
     "id": 2029,
@@ -46618,7 +46618,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2029/2029s.jpg"
+    "cover": "https://toolset.site/assets/book-2029-71825086.jpg"
   },
   {
     "id": 2030,
@@ -46641,7 +46641,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2030/2030s.jpg"
+    "cover": "https://toolset.site/assets/book-2030-65f32f8a.jpg"
   },
   {
     "id": 2031,
@@ -46664,7 +46664,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2031/2031s.jpg"
+    "cover": "https://toolset.site/assets/book-2031-0ee12a41.jpg"
   },
   {
     "id": 2032,
@@ -46687,7 +46687,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2032/2032s.jpg"
+    "cover": "https://toolset.site/assets/book-2032-209f5dfd.jpg"
   },
   {
     "id": 2033,
@@ -46710,7 +46710,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2033/2033s.jpg"
+    "cover": "https://toolset.site/assets/book-2033-6a635cae.jpg"
   },
   {
     "id": 2034,
@@ -46733,7 +46733,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2034/2034s.jpg"
+    "cover": "https://toolset.site/assets/book-2034-adcdddb4.jpg"
   },
   {
     "id": 2035,
@@ -46756,7 +46756,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2035/2035s.jpg"
+    "cover": "https://toolset.site/assets/book-2035-cbd5a1af.jpg"
   },
   {
     "id": 2036,
@@ -46779,7 +46779,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2036/2036s.jpg"
+    "cover": "https://toolset.site/assets/book-2036-1ae39e44.jpg"
   },
   {
     "id": 2037,
@@ -46802,7 +46802,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2037/2037s.jpg"
+    "cover": "https://toolset.site/assets/book-2037-da3de10c.jpg"
   },
   {
     "id": 2038,
@@ -46825,7 +46825,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2038/2038s.jpg"
+    "cover": "https://toolset.site/assets/book-2038-6489dcfc.jpg"
   },
   {
     "id": 2039,
@@ -46848,7 +46848,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2039/2039s.jpg"
+    "cover": "https://toolset.site/assets/book-2039-40a08e03.jpg"
   },
   {
     "id": 2040,
@@ -46871,7 +46871,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2040/2040s.jpg"
+    "cover": "https://toolset.site/assets/book-2040-1b3c6d26.jpg"
   },
   {
     "id": 2041,
@@ -46894,7 +46894,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2041/2041s.jpg"
+    "cover": "https://toolset.site/assets/book-2041-37e99f43.jpg"
   },
   {
     "id": 2042,
@@ -46917,7 +46917,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2042/2042s.jpg"
+    "cover": "https://toolset.site/assets/book-2042-0bf2188c.jpg"
   },
   {
     "id": 2043,
@@ -46940,7 +46940,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2043/2043s.jpg"
+    "cover": "https://toolset.site/assets/book-2043-7cdd88a9.jpg"
   },
   {
     "id": 2044,
@@ -46963,7 +46963,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2044/2044s.jpg"
+    "cover": "https://toolset.site/assets/book-2044-4ad47b95.jpg"
   },
   {
     "id": 2045,
@@ -46986,7 +46986,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2045/2045s.jpg"
+    "cover": "https://toolset.site/assets/book-2045-291bc7a6.jpg"
   },
   {
     "id": 2046,
@@ -47009,7 +47009,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2046/2046s.jpg"
+    "cover": "https://toolset.site/assets/book-2046-2167dd18.jpg"
   },
   {
     "id": 2047,
@@ -47032,7 +47032,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2047/2047s.jpg"
+    "cover": "https://toolset.site/assets/book-2047-238d574e.jpg"
   },
   {
     "id": 2048,
@@ -47055,7 +47055,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2048/2048s.jpg"
+    "cover": "https://toolset.site/assets/book-2048-cbee116f.jpg"
   },
   {
     "id": 2049,
@@ -47078,7 +47078,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2049/2049s.jpg"
+    "cover": "https://toolset.site/assets/book-2049-89237d0e.jpg"
   },
   {
     "id": 2050,
@@ -47101,7 +47101,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2050/2050s.jpg"
+    "cover": "https://toolset.site/assets/book-2050-503940d4.jpg"
   },
   {
     "id": 2051,
@@ -47124,7 +47124,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2051/2051s.jpg"
+    "cover": "https://toolset.site/assets/book-2051-8db9e1dd.jpg"
   },
   {
     "id": 2052,
@@ -47147,7 +47147,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2052/2052s.jpg"
+    "cover": "https://toolset.site/assets/book-2052-d3d592a8.jpg"
   },
   {
     "id": 2053,
@@ -47170,7 +47170,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2053/2053s.jpg"
+    "cover": "https://toolset.site/assets/book-2053-db79f905.jpg"
   },
   {
     "id": 2054,
@@ -47193,7 +47193,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2054/2054s.jpg"
+    "cover": "https://toolset.site/assets/book-2054-fe24e9bd.jpg"
   },
   {
     "id": 2055,
@@ -47216,7 +47216,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2055/2055s.jpg"
+    "cover": "https://toolset.site/assets/book-2055-07f4db64.jpg"
   },
   {
     "id": 2056,
@@ -47239,7 +47239,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2056/2056s.jpg"
+    "cover": "https://toolset.site/assets/book-2056-3d3d70ed.jpg"
   },
   {
     "id": 2057,
@@ -47262,7 +47262,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2057/2057s.jpg"
+    "cover": "https://toolset.site/assets/book-2057-5ebc4c77.jpg"
   },
   {
     "id": 2058,
@@ -47285,7 +47285,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2058/2058s.jpg"
+    "cover": "https://toolset.site/assets/book-2058-8f602d8d.jpg"
   },
   {
     "id": 2059,
@@ -47308,7 +47308,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2059/2059s.jpg"
+    "cover": "https://toolset.site/assets/book-2059-d4eb82c3.jpg"
   },
   {
     "id": 2060,
@@ -47331,7 +47331,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2060/2060s.jpg"
+    "cover": "https://toolset.site/assets/book-2060-7b492276.jpg"
   },
   {
     "id": 2061,
@@ -47354,7 +47354,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2061/2061s.jpg"
+    "cover": "https://toolset.site/assets/book-2061-d60e3ff1.jpg"
   },
   {
     "id": 2062,
@@ -47377,7 +47377,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2062/2062s.jpg"
+    "cover": "https://toolset.site/assets/book-2062-b6cfd3c5.jpg"
   },
   {
     "id": 2063,
@@ -47400,7 +47400,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2063/2063s.jpg"
+    "cover": "https://toolset.site/assets/book-2063-31e09ffa.jpg"
   },
   {
     "id": 2064,
@@ -47423,7 +47423,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2064/2064s.jpg"
+    "cover": "https://toolset.site/assets/book-2064-b9d044ae.jpg"
   },
   {
     "id": 2065,
@@ -47446,7 +47446,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2065/2065s.jpg"
+    "cover": "https://toolset.site/assets/book-2065-4e8ca8a1.jpg"
   },
   {
     "id": 2066,
@@ -47469,7 +47469,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2066/2066s.jpg"
+    "cover": "https://toolset.site/assets/book-2066-0a42fea5.jpg"
   },
   {
     "id": 2067,
@@ -47492,7 +47492,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2067/2067s.jpg"
+    "cover": "https://toolset.site/assets/book-2067-f2270e2e.jpg"
   },
   {
     "id": 2068,
@@ -47515,7 +47515,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2068/2068s.jpg"
+    "cover": "https://toolset.site/assets/book-2068-6ce0a0a9.jpg"
   },
   {
     "id": 2069,
@@ -47538,7 +47538,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2069/2069s.jpg"
+    "cover": "https://toolset.site/assets/book-2069-54570ac5.jpg"
   },
   {
     "id": 2070,
@@ -47561,7 +47561,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2070/2070s.jpg"
+    "cover": "https://toolset.site/assets/book-2070-0a8ea495.jpg"
   },
   {
     "id": 2071,
@@ -47584,7 +47584,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2071/2071s.jpg"
+    "cover": "https://toolset.site/assets/book-2071-37a64d8f.jpg"
   },
   {
     "id": 2072,
@@ -47607,7 +47607,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2072/2072s.jpg"
+    "cover": "https://toolset.site/assets/book-2072-73ef7639.jpg"
   },
   {
     "id": 2073,
@@ -47630,7 +47630,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2073/2073s.jpg"
+    "cover": "https://toolset.site/assets/book-2073-ac27b324.jpg"
   },
   {
     "id": 2074,
@@ -47653,7 +47653,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2074/2074s.jpg"
+    "cover": "https://toolset.site/assets/book-2074-c219af4d.jpg"
   },
   {
     "id": 2075,
@@ -47676,7 +47676,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2075/2075s.jpg"
+    "cover": "https://toolset.site/assets/book-2075-80bc3dd6.jpg"
   },
   {
     "id": 2076,
@@ -47699,7 +47699,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2076/2076s.jpg"
+    "cover": "https://toolset.site/assets/book-2076-56b2c04e.jpg"
   },
   {
     "id": 2077,
@@ -47722,7 +47722,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2077/2077s.jpg"
+    "cover": "https://toolset.site/assets/book-2077-c97f1f68.jpg"
   },
   {
     "id": 2078,
@@ -47745,7 +47745,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2078/2078s.jpg"
+    "cover": "https://toolset.site/assets/book-2078-1b12ba58.jpg"
   },
   {
     "id": 2079,
@@ -47768,7 +47768,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2079/2079s.jpg"
+    "cover": "https://toolset.site/assets/book-2079-42ae6849.jpg"
   },
   {
     "id": 2080,
@@ -47791,7 +47791,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2080/2080s.jpg"
+    "cover": "https://toolset.site/assets/book-2080-398d86a4.jpg"
   },
   {
     "id": 2081,
@@ -47814,7 +47814,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2081/2081s.jpg"
+    "cover": "https://toolset.site/assets/book-2081-dc36cc31.jpg"
   },
   {
     "id": 2082,
@@ -47837,7 +47837,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2082/2082s.jpg"
+    "cover": "https://toolset.site/assets/book-2082-c57b20ac.jpg"
   },
   {
     "id": 2083,
@@ -47860,7 +47860,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2083/2083s.jpg"
+    "cover": "https://toolset.site/assets/book-2083-3e86c78d.jpg"
   },
   {
     "id": 2084,
@@ -47883,7 +47883,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2084/2084s.jpg"
+    "cover": "https://toolset.site/assets/book-2084-f5805510.jpg"
   },
   {
     "id": 2085,
@@ -47906,7 +47906,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2085/2085s.jpg"
+    "cover": "https://toolset.site/assets/book-2085-b490687d.jpg"
   },
   {
     "id": 2086,
@@ -47929,7 +47929,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2086/2086s.jpg"
+    "cover": "https://toolset.site/assets/book-2086-0436a58d.jpg"
   },
   {
     "id": 2087,
@@ -47952,7 +47952,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2087/2087s.jpg"
+    "cover": "https://toolset.site/assets/book-2087-1ef316ed.jpg"
   },
   {
     "id": 2088,
@@ -47975,7 +47975,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2088/2088s.jpg"
+    "cover": "https://toolset.site/assets/book-2088-4d170fce.jpg"
   },
   {
     "id": 2089,
@@ -47998,7 +47998,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2089/2089s.jpg"
+    "cover": "https://toolset.site/assets/book-2089-0785355d.jpg"
   },
   {
     "id": 2090,
@@ -48021,7 +48021,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2090/2090s.jpg"
+    "cover": "https://toolset.site/assets/book-2090-bb590d69.jpg"
   },
   {
     "id": 2091,
@@ -48044,7 +48044,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2091/2091s.jpg"
+    "cover": "https://toolset.site/assets/book-2091-cc30fc77.jpg"
   },
   {
     "id": 2092,
@@ -48067,7 +48067,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2092/2092s.jpg"
+    "cover": "https://toolset.site/assets/book-2092-a643d925.jpg"
   },
   {
     "id": 2093,
@@ -48090,7 +48090,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2093/2093s.jpg"
+    "cover": "https://toolset.site/assets/book-2093-aabaf486.jpg"
   },
   {
     "id": 2094,
@@ -48113,7 +48113,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2094/2094s.jpg"
+    "cover": "https://toolset.site/assets/book-2094-f5db11c4.jpg"
   },
   {
     "id": 2095,
@@ -48136,7 +48136,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2095/2095s.jpg"
+    "cover": "https://toolset.site/assets/book-2095-38cde28a.jpg"
   },
   {
     "id": 2096,
@@ -48159,7 +48159,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2096/2096s.jpg"
+    "cover": "https://toolset.site/assets/book-2096-4124b1a3.jpg"
   },
   {
     "id": 2097,
@@ -48182,7 +48182,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2097/2097s.jpg"
+    "cover": "https://toolset.site/assets/book-2097-17e6d10d.jpg"
   },
   {
     "id": 2098,
@@ -48205,7 +48205,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2098/2098s.jpg"
+    "cover": "https://toolset.site/assets/book-2098-e9c66521.jpg"
   },
   {
     "id": 2099,
@@ -48228,7 +48228,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2099/2099s.jpg"
+    "cover": "https://toolset.site/assets/book-2099-6cc0dd58.jpg"
   },
   {
     "id": 2100,
@@ -48251,7 +48251,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2100/2100s.jpg"
+    "cover": "https://toolset.site/assets/book-2100-6abadcd0.jpg"
   },
   {
     "id": 2101,
@@ -48274,7 +48274,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2101/2101s.jpg"
+    "cover": "https://toolset.site/assets/book-2101-2c85c58a.jpg"
   },
   {
     "id": 2102,
@@ -48297,7 +48297,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2102/2102s.jpg"
+    "cover": "https://toolset.site/assets/book-2102-54dc63ba.jpg"
   },
   {
     "id": 2103,
@@ -48320,7 +48320,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2103/2103s.jpg"
+    "cover": "https://toolset.site/assets/book-2103-a14086df.jpg"
   },
   {
     "id": 2104,
@@ -48343,7 +48343,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2104/2104s.jpg"
+    "cover": "https://toolset.site/assets/book-2104-cda90b58.jpg"
   },
   {
     "id": 2105,
@@ -48366,7 +48366,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2105/2105s.jpg"
+    "cover": "https://toolset.site/assets/book-2105-aaf80f6e.jpg"
   },
   {
     "id": 2106,
@@ -48389,7 +48389,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2106/2106s.jpg"
+    "cover": "https://toolset.site/assets/book-2106-688b86d4.jpg"
   },
   {
     "id": 2107,
@@ -48412,7 +48412,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2107/2107s.jpg"
+    "cover": "https://toolset.site/assets/book-2107-f803b355.jpg"
   },
   {
     "id": 2108,
@@ -48435,7 +48435,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2108/2108s.jpg"
+    "cover": "https://toolset.site/assets/book-2108-b367716a.jpg"
   },
   {
     "id": 2109,
@@ -48458,7 +48458,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2109/2109s.jpg"
+    "cover": "https://toolset.site/assets/book-2109-7d529abc.jpg"
   },
   {
     "id": 2110,
@@ -48481,7 +48481,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2110/2110s.jpg"
+    "cover": "https://toolset.site/assets/book-2110-49846591.jpg"
   },
   {
     "id": 2111,
@@ -48504,7 +48504,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2111/2111s.jpg"
+    "cover": "https://toolset.site/assets/book-2111-0a174d75.jpg"
   },
   {
     "id": 2112,
@@ -48527,7 +48527,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2112/2112s.jpg"
+    "cover": "https://toolset.site/assets/book-2112-7954afb1.jpg"
   },
   {
     "id": 2113,
@@ -48550,7 +48550,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2113/2113s.jpg"
+    "cover": "https://toolset.site/assets/book-2113-f2f38f5c.jpg"
   },
   {
     "id": 2114,
@@ -48573,7 +48573,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2114/2114s.jpg"
+    "cover": "https://toolset.site/assets/book-2114-82729a8d.jpg"
   },
   {
     "id": 2115,
@@ -48596,7 +48596,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2115/2115s.jpg"
+    "cover": "https://toolset.site/assets/book-2115-92db1bf3.jpg"
   },
   {
     "id": 2116,
@@ -48619,7 +48619,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2116/2116s.jpg"
+    "cover": "https://toolset.site/assets/book-2116-44564f37.jpg"
   },
   {
     "id": 2117,
@@ -48642,7 +48642,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2117/2117s.jpg"
+    "cover": "https://toolset.site/assets/book-2117-a89030d7.jpg"
   },
   {
     "id": 2118,
@@ -48665,7 +48665,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2118/2118s.jpg"
+    "cover": "https://toolset.site/assets/book-2118-b4ea212f.jpg"
   },
   {
     "id": 2119,
@@ -48688,7 +48688,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2119/2119s.jpg"
+    "cover": "https://toolset.site/assets/book-2119-d71068e0.jpg"
   },
   {
     "id": 2120,
@@ -48711,7 +48711,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2120/2120s.jpg"
+    "cover": "https://toolset.site/assets/book-2120-42f65ae6.jpg"
   },
   {
     "id": 2121,
@@ -48734,7 +48734,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2121/2121s.jpg"
+    "cover": "https://toolset.site/assets/book-2121-eb7e96b5.jpg"
   },
   {
     "id": 2122,
@@ -48757,7 +48757,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2122/2122s.jpg"
+    "cover": "https://toolset.site/assets/book-2122-c47939b9.jpg"
   },
   {
     "id": 2123,
@@ -48780,7 +48780,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2123/2123s.jpg"
+    "cover": "https://toolset.site/assets/book-2123-b7eda9b6.jpg"
   },
   {
     "id": 2124,
@@ -48803,7 +48803,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2124/2124s.jpg"
+    "cover": "https://toolset.site/assets/book-2124-72575de0.jpg"
   },
   {
     "id": 2125,
@@ -48826,7 +48826,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2125/2125s.jpg"
+    "cover": "https://toolset.site/assets/book-2125-e0f3df7d.jpg"
   },
   {
     "id": 2126,
@@ -48849,7 +48849,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2126/2126s.jpg"
+    "cover": "https://toolset.site/assets/book-2126-c11b94f2.jpg"
   },
   {
     "id": 2127,
@@ -48872,7 +48872,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2127/2127s.jpg"
+    "cover": "https://toolset.site/assets/book-2127-9085d222.jpg"
   },
   {
     "id": 2128,
@@ -48895,7 +48895,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2128/2128s.jpg"
+    "cover": "https://toolset.site/assets/book-2128-00d9f653.jpg"
   },
   {
     "id": 2129,
@@ -48918,7 +48918,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2129/2129s.jpg"
+    "cover": "https://toolset.site/assets/book-2129-f7c3ff5b.jpg"
   },
   {
     "id": 2130,
@@ -48941,7 +48941,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2130/2130s.jpg"
+    "cover": "https://toolset.site/assets/book-2130-560ec765.jpg"
   },
   {
     "id": 2131,
@@ -48964,7 +48964,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2131/2131s.jpg"
+    "cover": "https://toolset.site/assets/book-2131-432749e9.jpg"
   },
   {
     "id": 2132,
@@ -48987,7 +48987,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2132/2132s.jpg"
+    "cover": "https://toolset.site/assets/book-2132-2392ad24.jpg"
   },
   {
     "id": 2133,
@@ -49010,7 +49010,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2133/2133s.jpg"
+    "cover": "https://toolset.site/assets/book-2133-7634fb51.jpg"
   },
   {
     "id": 2134,
@@ -49033,7 +49033,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2134/2134s.jpg"
+    "cover": "https://toolset.site/assets/book-2134-4eb34528.jpg"
   },
   {
     "id": 2135,
@@ -49056,7 +49056,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2135/2135s.jpg"
+    "cover": "https://toolset.site/assets/book-2135-2ba1c70f.jpg"
   },
   {
     "id": 2136,
@@ -49079,7 +49079,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2136/2136s.jpg"
+    "cover": "https://toolset.site/assets/book-2136-75c5fc78.jpg"
   },
   {
     "id": 2137,
@@ -49102,7 +49102,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2137/2137s.jpg"
+    "cover": "https://toolset.site/assets/book-2137-4060ace7.jpg"
   },
   {
     "id": 2138,
@@ -49125,7 +49125,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2138/2138s.jpg"
+    "cover": "https://toolset.site/assets/book-2138-a67efe5f.jpg"
   },
   {
     "id": 2139,
@@ -49148,7 +49148,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2139/2139s.jpg"
+    "cover": "https://toolset.site/assets/book-2139-83bc8340.jpg"
   },
   {
     "id": 2140,
@@ -49171,7 +49171,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2140/2140s.jpg"
+    "cover": "https://toolset.site/assets/book-2140-e7c1103c.jpg"
   },
   {
     "id": 2141,
@@ -49194,7 +49194,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2141/2141s.jpg"
+    "cover": "https://toolset.site/assets/book-2141-cb32ecf8.jpg"
   },
   {
     "id": 2142,
@@ -49217,7 +49217,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2142/2142s.jpg"
+    "cover": "https://toolset.site/assets/book-2142-620f910a.jpg"
   },
   {
     "id": 2143,
@@ -49240,7 +49240,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2143/2143s.jpg"
+    "cover": "https://toolset.site/assets/book-2143-cafbb0a4.jpg"
   },
   {
     "id": 2144,
@@ -49263,7 +49263,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2144/2144s.jpg"
+    "cover": "https://toolset.site/assets/book-2144-36e31266.jpg"
   },
   {
     "id": 2145,
@@ -49286,7 +49286,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2145/2145s.jpg"
+    "cover": "https://toolset.site/assets/book-2145-f02fd968.jpg"
   },
   {
     "id": 2146,
@@ -49309,7 +49309,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2146/2146s.jpg"
+    "cover": "https://toolset.site/assets/book-2146-85eb8073.jpg"
   },
   {
     "id": 2147,
@@ -49332,7 +49332,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2147/2147s.jpg"
+    "cover": "https://toolset.site/assets/book-2147-48c97fb2.jpg"
   },
   {
     "id": 2148,
@@ -49355,7 +49355,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2148/2148s.jpg"
+    "cover": "https://toolset.site/assets/book-2148-9ebb4af6.jpg"
   },
   {
     "id": 2149,
@@ -49378,7 +49378,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2149/2149s.jpg"
+    "cover": "https://toolset.site/assets/book-2149-029fbf52.jpg"
   },
   {
     "id": 2150,
@@ -49401,7 +49401,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2150/2150s.jpg"
+    "cover": "https://toolset.site/assets/book-2150-8dac6175.jpg"
   },
   {
     "id": 2151,
@@ -49424,7 +49424,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2151/2151s.jpg"
+    "cover": "https://toolset.site/assets/book-2151-3793355b.jpg"
   },
   {
     "id": 2152,
@@ -49447,7 +49447,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2152/2152s.jpg"
+    "cover": "https://toolset.site/assets/book-2152-b5af5420.jpg"
   },
   {
     "id": 2153,
@@ -49470,7 +49470,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2153/2153s.jpg"
+    "cover": "https://toolset.site/assets/book-2153-fa2f7343.jpg"
   },
   {
     "id": 2154,
@@ -49493,7 +49493,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2154/2154s.jpg"
+    "cover": "https://toolset.site/assets/book-2154-79aa1c75.jpg"
   },
   {
     "id": 2155,
@@ -49516,7 +49516,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2155/2155s.jpg"
+    "cover": "https://toolset.site/assets/book-2155-af254416.jpg"
   },
   {
     "id": 2156,
@@ -49539,7 +49539,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2156/2156s.jpg"
+    "cover": "https://toolset.site/assets/book-2156-e7999bc7.jpg"
   },
   {
     "id": 2157,
@@ -49562,7 +49562,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2157/2157s.jpg"
+    "cover": "https://toolset.site/assets/book-2157-cc64a98a.jpg"
   },
   {
     "id": 2158,
@@ -49585,7 +49585,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2158/2158s.jpg"
+    "cover": "https://toolset.site/assets/book-2158-bfe61a32.jpg"
   },
   {
     "id": 2159,
@@ -49608,7 +49608,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2159/2159s.jpg"
+    "cover": "https://toolset.site/assets/book-2159-95944d7a.jpg"
   },
   {
     "id": 2160,
@@ -49631,7 +49631,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2160/2160s.jpg"
+    "cover": "https://toolset.site/assets/book-2160-cb07a9b4.jpg"
   },
   {
     "id": 2161,
@@ -49654,7 +49654,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2161/2161s.jpg"
+    "cover": "https://toolset.site/assets/book-2161-3c138d14.jpg"
   },
   {
     "id": 2162,
@@ -49677,7 +49677,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2162/2162s.jpg"
+    "cover": "https://toolset.site/assets/book-2162-d30b5f05.jpg"
   },
   {
     "id": 2163,
@@ -49700,7 +49700,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2163/2163s.jpg"
+    "cover": "https://toolset.site/assets/book-2163-781c5f30.jpg"
   },
   {
     "id": 2164,
@@ -49723,7 +49723,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2164/2164s.jpg"
+    "cover": "https://toolset.site/assets/book-2164-a8a68123.jpg"
   },
   {
     "id": 2165,
@@ -49746,7 +49746,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2165/2165s.jpg"
+    "cover": "https://toolset.site/assets/book-2165-4ceacff3.jpg"
   },
   {
     "id": 2166,
@@ -49769,7 +49769,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2166/2166s.jpg"
+    "cover": "https://toolset.site/assets/book-2166-11e312bb.jpg"
   },
   {
     "id": 2167,
@@ -49792,7 +49792,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2167/2167s.jpg"
+    "cover": "https://toolset.site/assets/book-2167-329f0581.jpg"
   },
   {
     "id": 2168,
@@ -49815,7 +49815,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2168/2168s.jpg"
+    "cover": "https://toolset.site/assets/book-2168-0adaf318.jpg"
   },
   {
     "id": 2169,
@@ -49838,7 +49838,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2169/2169s.jpg"
+    "cover": "https://toolset.site/assets/book-2169-3111aa3a.jpg"
   },
   {
     "id": 2170,
@@ -49861,7 +49861,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2170/2170s.jpg"
+    "cover": "https://toolset.site/assets/book-2170-afe4e561.jpg"
   },
   {
     "id": 2171,
@@ -49884,7 +49884,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2171/2171s.jpg"
+    "cover": "https://toolset.site/assets/book-2171-ed60362d.jpg"
   },
   {
     "id": 2172,
@@ -49907,7 +49907,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2172/2172s.jpg"
+    "cover": "https://toolset.site/assets/book-2172-f5f5ed2d.jpg"
   },
   {
     "id": 2173,
@@ -49930,7 +49930,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2173/2173s.jpg"
+    "cover": "https://toolset.site/assets/book-2173-e697759e.jpg"
   },
   {
     "id": 2174,
@@ -49953,7 +49953,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2174/2174s.jpg"
+    "cover": "https://toolset.site/assets/book-2174-486b5709.jpg"
   },
   {
     "id": 2175,
@@ -49976,7 +49976,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2175/2175s.jpg"
+    "cover": "https://toolset.site/assets/book-2175-50839321.jpg"
   },
   {
     "id": 2176,
@@ -49999,7 +49999,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2176/2176s.jpg"
+    "cover": "https://toolset.site/assets/book-2176-a1dac587.jpg"
   },
   {
     "id": 2177,
@@ -50022,7 +50022,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2177/2177s.jpg"
+    "cover": "https://toolset.site/assets/book-2177-c9199ca7.jpg"
   },
   {
     "id": 2178,
@@ -50045,7 +50045,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2178/2178s.jpg"
+    "cover": "https://toolset.site/assets/book-2178-05b0983f.jpg"
   },
   {
     "id": 2179,
@@ -50068,7 +50068,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2179/2179s.jpg"
+    "cover": "https://toolset.site/assets/book-2179-61a8ff6c.jpg"
   },
   {
     "id": 2180,
@@ -50091,7 +50091,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2180/2180s.jpg"
+    "cover": "https://toolset.site/assets/book-2180-15222fcb.jpg"
   },
   {
     "id": 2181,
@@ -50114,7 +50114,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2181/2181s.jpg"
+    "cover": "https://toolset.site/assets/book-2181-01bbc739.jpg"
   },
   {
     "id": 2182,
@@ -50137,7 +50137,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2182/2182s.jpg"
+    "cover": "https://toolset.site/assets/book-2182-568125c1.jpg"
   },
   {
     "id": 2183,
@@ -50160,7 +50160,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2183/2183s.jpg"
+    "cover": "https://toolset.site/assets/book-2183-0126605e.jpg"
   },
   {
     "id": 2184,
@@ -50183,7 +50183,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2184/2184s.jpg"
+    "cover": "https://toolset.site/assets/book-2184-bee4ffb7.jpg"
   },
   {
     "id": 2185,
@@ -50206,7 +50206,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2185/2185s.jpg"
+    "cover": "https://toolset.site/assets/book-2185-484d1367.jpg"
   },
   {
     "id": 2186,
@@ -50229,7 +50229,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2186/2186s.jpg"
+    "cover": "https://toolset.site/assets/book-2186-6078e861.jpg"
   },
   {
     "id": 2187,
@@ -50252,7 +50252,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2187/2187s.jpg"
+    "cover": "https://toolset.site/assets/book-2187-eee99bd4.jpg"
   },
   {
     "id": 2188,
@@ -50275,7 +50275,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2188/2188s.jpg"
+    "cover": "https://toolset.site/assets/book-2188-292c728e.jpg"
   },
   {
     "id": 2189,
@@ -50298,7 +50298,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2189/2189s.jpg"
+    "cover": "https://toolset.site/assets/book-2189-103e86eb.jpg"
   },
   {
     "id": 2190,
@@ -50321,7 +50321,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2190/2190s.jpg"
+    "cover": "https://toolset.site/assets/book-2190-6529254c.jpg"
   },
   {
     "id": 2191,
@@ -50344,7 +50344,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2191/2191s.jpg"
+    "cover": "https://toolset.site/assets/book-2191-6301814f.jpg"
   },
   {
     "id": 2192,
@@ -50367,7 +50367,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2192/2192s.jpg"
+    "cover": "https://toolset.site/assets/book-2192-c16960bc.jpg"
   },
   {
     "id": 2193,
@@ -50390,7 +50390,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2193/2193s.jpg"
+    "cover": "https://toolset.site/assets/book-2193-944e70df.jpg"
   },
   {
     "id": 2194,
@@ -50413,7 +50413,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2194/2194s.jpg"
+    "cover": "https://toolset.site/assets/book-2194-a1930ee6.jpg"
   },
   {
     "id": 2195,
@@ -50436,7 +50436,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2195/2195s.jpg"
+    "cover": "https://toolset.site/assets/book-2195-f9f9846e.jpg"
   },
   {
     "id": 2196,
@@ -50459,7 +50459,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2196/2196s.jpg"
+    "cover": "https://toolset.site/assets/book-2196-d5a5fcbe.jpg"
   },
   {
     "id": 2197,
@@ -50482,7 +50482,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2197/2197s.jpg"
+    "cover": "https://toolset.site/assets/book-2197-40f04df7.jpg"
   },
   {
     "id": 2198,
@@ -50505,7 +50505,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2198/2198s.jpg"
+    "cover": "https://toolset.site/assets/book-2198-380435df.jpg"
   },
   {
     "id": 2199,
@@ -50528,7 +50528,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2199/2199s.jpg"
+    "cover": "https://toolset.site/assets/book-2199-62fa3092.jpg"
   },
   {
     "id": 2200,
@@ -50551,7 +50551,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2200/2200s.jpg"
+    "cover": "https://toolset.site/assets/book-2200-d6f82bf6.jpg"
   },
   {
     "id": 2201,
@@ -50574,7 +50574,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2201/2201s.jpg"
+    "cover": "https://toolset.site/assets/book-2201-421521ed.jpg"
   },
   {
     "id": 2202,
@@ -50597,7 +50597,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2202/2202s.jpg"
+    "cover": "https://toolset.site/assets/book-2202-c5a32e75.jpg"
   },
   {
     "id": 2203,
@@ -50620,7 +50620,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2203/2203s.jpg"
+    "cover": "https://toolset.site/assets/book-2203-63f554df.jpg"
   },
   {
     "id": 2204,
@@ -50643,7 +50643,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2204/2204s.jpg"
+    "cover": "https://toolset.site/assets/book-2204-1dc8dce9.jpg"
   },
   {
     "id": 2205,
@@ -50666,7 +50666,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2205/2205s.jpg"
+    "cover": "https://toolset.site/assets/book-2205-7747e656.jpg"
   },
   {
     "id": 2206,
@@ -50689,7 +50689,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2206/2206s.jpg"
+    "cover": "https://toolset.site/assets/book-2206-c489ba1d.jpg"
   },
   {
     "id": 2207,
@@ -50712,7 +50712,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2207/2207s.jpg"
+    "cover": "https://toolset.site/assets/book-2207-146ba213.jpg"
   },
   {
     "id": 2208,
@@ -50735,7 +50735,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2208/2208s.jpg"
+    "cover": "https://toolset.site/assets/book-2208-e4a0bf7f.jpg"
   },
   {
     "id": 2209,
@@ -50758,7 +50758,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2209/2209s.jpg"
+    "cover": "https://toolset.site/assets/book-2209-c9a3f5fa.jpg"
   },
   {
     "id": 2210,
@@ -50781,7 +50781,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2210/2210s.jpg"
+    "cover": "https://toolset.site/assets/book-2210-d7454dca.jpg"
   },
   {
     "id": 2211,
@@ -50804,7 +50804,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2211/2211s.jpg"
+    "cover": "https://toolset.site/assets/book-2211-21871787.jpg"
   },
   {
     "id": 2212,
@@ -50827,7 +50827,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2212/2212s.jpg"
+    "cover": "https://toolset.site/assets/book-2212-ab562582.jpg"
   },
   {
     "id": 2213,
@@ -50850,7 +50850,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2213/2213s.jpg"
+    "cover": "https://toolset.site/assets/book-2213-3d0fe054.jpg"
   },
   {
     "id": 2214,
@@ -50873,7 +50873,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2214/2214s.jpg"
+    "cover": "https://toolset.site/assets/book-2214-368a8822.jpg"
   },
   {
     "id": 2215,
@@ -50896,7 +50896,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2215/2215s.jpg"
+    "cover": "https://toolset.site/assets/book-2215-0723cfbe.jpg"
   },
   {
     "id": 2216,
@@ -50919,7 +50919,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2216/2216s.jpg"
+    "cover": "https://toolset.site/assets/book-2216-885f3c33.jpg"
   },
   {
     "id": 2217,
@@ -50942,7 +50942,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2217/2217s.jpg"
+    "cover": "https://toolset.site/assets/book-2217-c5bf3ec5.jpg"
   },
   {
     "id": 2218,
@@ -50965,7 +50965,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2218/2218s.jpg"
+    "cover": "https://toolset.site/assets/book-2218-a28a46c1.jpg"
   },
   {
     "id": 2219,
@@ -50988,7 +50988,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2219/2219s.jpg"
+    "cover": "https://toolset.site/assets/book-2219-7802d597.jpg"
   },
   {
     "id": 2220,
@@ -51011,7 +51011,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2220/2220s.jpg"
+    "cover": "https://toolset.site/assets/book-2220-48f393ff.jpg"
   },
   {
     "id": 2221,
@@ -51034,7 +51034,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2221/2221s.jpg"
+    "cover": "https://toolset.site/assets/book-2221-478ca05f.jpg"
   },
   {
     "id": 2222,
@@ -51057,7 +51057,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2222/2222s.jpg"
+    "cover": "https://toolset.site/assets/book-2222-5b5f03a6.jpg"
   },
   {
     "id": 2223,
@@ -51080,7 +51080,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2223/2223s.jpg"
+    "cover": "https://toolset.site/assets/book-2223-48d684bd.jpg"
   },
   {
     "id": 2224,
@@ -51103,7 +51103,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2224/2224s.jpg"
+    "cover": "https://toolset.site/assets/book-2224-21fe1b5b.jpg"
   },
   {
     "id": 2225,
@@ -51126,7 +51126,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2225/2225s.jpg"
+    "cover": "https://toolset.site/assets/book-2225-0761782a.jpg"
   },
   {
     "id": 2226,
@@ -51149,7 +51149,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2226/2226s.jpg"
+    "cover": "https://toolset.site/assets/book-2226-2483e70a.jpg"
   },
   {
     "id": 2227,
@@ -51172,7 +51172,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2227/2227s.jpg"
+    "cover": "https://toolset.site/assets/book-2227-4a31550e.jpg"
   },
   {
     "id": 2228,
@@ -51195,7 +51195,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2228/2228s.jpg"
+    "cover": "https://toolset.site/assets/book-2228-a16918f4.jpg"
   },
   {
     "id": 2229,
@@ -51218,7 +51218,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2229/2229s.jpg"
+    "cover": "https://toolset.site/assets/book-2229-4d3c4d4e.jpg"
   },
   {
     "id": 2230,
@@ -51241,7 +51241,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2230/2230s.jpg"
+    "cover": "https://toolset.site/assets/book-2230-dee8df55.jpg"
   },
   {
     "id": 2231,
@@ -51264,7 +51264,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2231/2231s.jpg"
+    "cover": "https://toolset.site/assets/book-2231-b1f453b4.jpg"
   },
   {
     "id": 2232,
@@ -51287,7 +51287,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2232/2232s.jpg"
+    "cover": "https://toolset.site/assets/book-2232-e0b3ca9e.jpg"
   },
   {
     "id": 2233,
@@ -51310,7 +51310,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2233/2233s.jpg"
+    "cover": "https://toolset.site/assets/book-2233-a70cb9e0.jpg"
   },
   {
     "id": 2234,
@@ -51333,7 +51333,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2234/2234s.jpg"
+    "cover": "https://toolset.site/assets/book-2234-ac010229.jpg"
   },
   {
     "id": 2235,
@@ -51356,7 +51356,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2235/2235s.jpg"
+    "cover": "https://toolset.site/assets/book-2235-2a78d25d.jpg"
   },
   {
     "id": 2236,
@@ -51379,7 +51379,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2236/2236s.jpg"
+    "cover": "https://toolset.site/assets/book-2236-2abb6eda.jpg"
   },
   {
     "id": 2237,
@@ -51402,7 +51402,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2237/2237s.jpg"
+    "cover": "https://toolset.site/assets/book-2237-e2b564bf.jpg"
   },
   {
     "id": 2238,
@@ -51425,7 +51425,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2238/2238s.jpg"
+    "cover": "https://toolset.site/assets/book-2238-3a0b8975.jpg"
   },
   {
     "id": 2239,
@@ -51448,7 +51448,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2239/2239s.jpg"
+    "cover": "https://toolset.site/assets/book-2239-53a027aa.jpg"
   },
   {
     "id": 2240,
@@ -51471,7 +51471,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2240/2240s.jpg"
+    "cover": "https://toolset.site/assets/book-2240-624bbab1.jpg"
   },
   {
     "id": 2241,
@@ -51494,7 +51494,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2241/2241s.jpg"
+    "cover": "https://toolset.site/assets/book-2241-2021ae9d.jpg"
   },
   {
     "id": 2242,
@@ -51517,7 +51517,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2242/2242s.jpg"
+    "cover": "https://toolset.site/assets/book-2242-5597ad08.jpg"
   },
   {
     "id": 2243,
@@ -51540,7 +51540,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2243/2243s.jpg"
+    "cover": "https://toolset.site/assets/book-2243-7dfaa177.jpg"
   },
   {
     "id": 2244,
@@ -51563,7 +51563,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2244/2244s.jpg"
+    "cover": "https://toolset.site/assets/book-2244-e110a3d0.jpg"
   },
   {
     "id": 2245,
@@ -51586,7 +51586,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2245/2245s.jpg"
+    "cover": "https://toolset.site/assets/book-2245-80e9873b.jpg"
   },
   {
     "id": 2246,
@@ -51609,7 +51609,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2246/2246s.jpg"
+    "cover": "https://toolset.site/assets/book-2246-1150e780.jpg"
   },
   {
     "id": 2247,
@@ -51632,7 +51632,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2247/2247s.jpg"
+    "cover": "https://toolset.site/assets/book-2247-973f0b2d.jpg"
   },
   {
     "id": 2248,
@@ -51655,7 +51655,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2248/2248s.jpg"
+    "cover": "https://toolset.site/assets/book-2248-15593434.jpg"
   },
   {
     "id": 2249,
@@ -51678,7 +51678,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2249/2249s.jpg"
+    "cover": "https://toolset.site/assets/book-2249-5284bedb.jpg"
   },
   {
     "id": 2250,
@@ -51701,7 +51701,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2250/2250s.jpg"
+    "cover": "https://toolset.site/assets/book-2250-cb24b35c.jpg"
   },
   {
     "id": 2251,
@@ -51724,7 +51724,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2251/2251s.jpg"
+    "cover": "https://toolset.site/assets/book-2251-6e1e66b6.jpg"
   },
   {
     "id": 2252,
@@ -51747,7 +51747,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2252/2252s.jpg"
+    "cover": "https://toolset.site/assets/book-2252-95932e45.jpg"
   },
   {
     "id": 2253,
@@ -51770,7 +51770,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2253/2253s.jpg"
+    "cover": "https://toolset.site/assets/book-2253-638c0c44.jpg"
   },
   {
     "id": 2254,
@@ -51793,7 +51793,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2254/2254s.jpg"
+    "cover": "https://toolset.site/assets/book-2254-d6490600.jpg"
   },
   {
     "id": 2255,
@@ -51816,7 +51816,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2255/2255s.jpg"
+    "cover": "https://toolset.site/assets/book-2255-4a069c9e.jpg"
   },
   {
     "id": 2256,
@@ -51839,7 +51839,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2256/2256s.jpg"
+    "cover": "https://toolset.site/assets/book-2256-7a8ec284.jpg"
   },
   {
     "id": 2257,
@@ -51862,7 +51862,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2257/2257s.jpg"
+    "cover": "https://toolset.site/assets/book-2257-bb1be09e.jpg"
   },
   {
     "id": 2258,
@@ -51885,7 +51885,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2258/2258s.jpg"
+    "cover": "https://toolset.site/assets/book-2258-de49435e.jpg"
   },
   {
     "id": 2259,
@@ -51908,7 +51908,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2259/2259s.jpg"
+    "cover": "https://toolset.site/assets/book-2259-9d45fa98.jpg"
   },
   {
     "id": 2260,
@@ -51931,7 +51931,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2260/2260s.jpg"
+    "cover": "https://toolset.site/assets/book-2260-c76b7c16.jpg"
   },
   {
     "id": 2261,
@@ -51954,7 +51954,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2261/2261s.jpg"
+    "cover": "https://toolset.site/assets/book-2261-76656490.jpg"
   },
   {
     "id": 2262,
@@ -51977,7 +51977,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2262/2262s.jpg"
+    "cover": "https://toolset.site/assets/book-2262-d7822382.jpg"
   },
   {
     "id": 2263,
@@ -52000,7 +52000,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2263/2263s.jpg"
+    "cover": "https://toolset.site/assets/book-2263-4c1d8a44.jpg"
   },
   {
     "id": 2264,
@@ -52023,7 +52023,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2264/2264s.jpg"
+    "cover": "https://toolset.site/assets/book-2264-fb8b2e76.jpg"
   },
   {
     "id": 2265,
@@ -52046,7 +52046,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2265/2265s.jpg"
+    "cover": "https://toolset.site/assets/book-2265-0cec29fe.jpg"
   },
   {
     "id": 2266,
@@ -52069,7 +52069,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2266/2266s.jpg"
+    "cover": "https://toolset.site/assets/book-2266-3a4069bf.jpg"
   },
   {
     "id": 2267,
@@ -52092,7 +52092,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2267/2267s.jpg"
+    "cover": "https://toolset.site/assets/book-2267-b5ee151c.jpg"
   },
   {
     "id": 2268,
@@ -52115,7 +52115,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2268/2268s.jpg"
+    "cover": "https://toolset.site/assets/book-2268-150a5626.jpg"
   },
   {
     "id": 2269,
@@ -52138,7 +52138,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2269/2269s.jpg"
+    "cover": "https://toolset.site/assets/book-2269-349a20e2.jpg"
   },
   {
     "id": 2270,
@@ -52161,7 +52161,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2270/2270s.jpg"
+    "cover": "https://toolset.site/assets/book-2270-636e49c2.jpg"
   },
   {
     "id": 2271,
@@ -52184,7 +52184,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2271/2271s.jpg"
+    "cover": "https://toolset.site/assets/book-2271-8e4ad515.jpg"
   },
   {
     "id": 2272,
@@ -52207,7 +52207,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2272/2272s.jpg"
+    "cover": "https://toolset.site/assets/book-2272-41ecc953.jpg"
   },
   {
     "id": 2273,
@@ -52230,7 +52230,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2273/2273s.jpg"
+    "cover": "https://toolset.site/assets/book-2273-b948f8c1.jpg"
   },
   {
     "id": 2274,
@@ -52253,7 +52253,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2274/2274s.jpg"
+    "cover": "https://toolset.site/assets/book-2274-677007c4.jpg"
   },
   {
     "id": 2275,
@@ -52276,7 +52276,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2275/2275s.jpg"
+    "cover": "https://toolset.site/assets/book-2275-565b3a31.jpg"
   },
   {
     "id": 2276,
@@ -52299,7 +52299,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2276/2276s.jpg"
+    "cover": "https://toolset.site/assets/book-2276-f82d874a.jpg"
   },
   {
     "id": 2277,
@@ -52322,7 +52322,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2277/2277s.jpg"
+    "cover": "https://toolset.site/assets/book-2277-ffd4ed9a.jpg"
   },
   {
     "id": 2278,
@@ -52345,7 +52345,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2278/2278s.jpg"
+    "cover": "https://toolset.site/assets/book-2278-da0e6a4d.jpg"
   },
   {
     "id": 2279,
@@ -52368,7 +52368,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2279/2279s.jpg"
+    "cover": "https://toolset.site/assets/book-2279-2f93ba9d.jpg"
   },
   {
     "id": 2280,
@@ -52391,7 +52391,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2280/2280s.jpg"
+    "cover": "https://toolset.site/assets/book-2280-2b49295f.jpg"
   },
   {
     "id": 2281,
@@ -52414,7 +52414,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2281/2281s.jpg"
+    "cover": "https://toolset.site/assets/book-2281-a574767c.jpg"
   },
   {
     "id": 2282,
@@ -52437,7 +52437,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2282/2282s.jpg"
+    "cover": "https://toolset.site/assets/book-2282-7aaf46b6.jpg"
   },
   {
     "id": 2283,
@@ -52460,7 +52460,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2283/2283s.jpg"
+    "cover": "https://toolset.site/assets/book-2283-d0fa7fa5.jpg"
   },
   {
     "id": 2284,
@@ -52483,7 +52483,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2284/2284s.jpg"
+    "cover": "https://toolset.site/assets/book-2284-7017433e.jpg"
   },
   {
     "id": 2285,
@@ -52506,7 +52506,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2285/2285s.jpg"
+    "cover": "https://toolset.site/assets/book-2285-a6ab15ad.jpg"
   },
   {
     "id": 2286,
@@ -52529,7 +52529,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2286/2286s.jpg"
+    "cover": "https://toolset.site/assets/book-2286-aa99858f.jpg"
   },
   {
     "id": 2287,
@@ -52552,7 +52552,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2287/2287s.jpg"
+    "cover": "https://toolset.site/assets/book-2287-a8dd4efb.jpg"
   },
   {
     "id": 2288,
@@ -52575,7 +52575,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2288/2288s.jpg"
+    "cover": "https://toolset.site/assets/book-2288-fc6678e2.jpg"
   },
   {
     "id": 2289,
@@ -52598,7 +52598,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2289/2289s.jpg"
+    "cover": "https://toolset.site/assets/book-2289-81e3b56f.jpg"
   },
   {
     "id": 2290,
@@ -52621,7 +52621,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2290/2290s.jpg"
+    "cover": "https://toolset.site/assets/book-2290-8af450be.jpg"
   },
   {
     "id": 2291,
@@ -52644,7 +52644,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2291/2291s.jpg"
+    "cover": "https://toolset.site/assets/book-2291-902a6886.jpg"
   },
   {
     "id": 2292,
@@ -52667,7 +52667,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2292/2292s.jpg"
+    "cover": "https://toolset.site/assets/book-2292-158562f1.jpg"
   },
   {
     "id": 2293,
@@ -52690,7 +52690,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2293/2293s.jpg"
+    "cover": "https://toolset.site/assets/book-2293-3717fc21.jpg"
   },
   {
     "id": 2294,
@@ -52713,7 +52713,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2294/2294s.jpg"
+    "cover": "https://toolset.site/assets/book-2294-e9b6aca6.jpg"
   },
   {
     "id": 2295,
@@ -52736,7 +52736,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2295/2295s.jpg"
+    "cover": "https://toolset.site/assets/book-2295-ac95491f.jpg"
   },
   {
     "id": 2296,
@@ -52759,7 +52759,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2296/2296s.jpg"
+    "cover": "https://toolset.site/assets/book-2296-43599321.jpg"
   },
   {
     "id": 2297,
@@ -52782,7 +52782,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2297/2297s.jpg"
+    "cover": "https://toolset.site/assets/book-2297-448e9f08.jpg"
   },
   {
     "id": 2298,
@@ -52805,7 +52805,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2298/2298s.jpg"
+    "cover": "https://toolset.site/assets/book-2298-bc99c185.jpg"
   },
   {
     "id": 2299,
@@ -52828,7 +52828,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2299/2299s.jpg"
+    "cover": "https://toolset.site/assets/book-2299-0fb985fa.jpg"
   },
   {
     "id": 2300,
@@ -52851,7 +52851,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2300/2300s.jpg"
+    "cover": "https://toolset.site/assets/book-2300-aee663d7.jpg"
   },
   {
     "id": 2301,
@@ -52874,7 +52874,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2301/2301s.jpg"
+    "cover": "https://toolset.site/assets/book-2301-af3675ab.jpg"
   },
   {
     "id": 2302,
@@ -52897,7 +52897,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2302/2302s.jpg"
+    "cover": "https://toolset.site/assets/book-2302-68be271a.jpg"
   },
   {
     "id": 2303,
@@ -52920,7 +52920,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2303/2303s.jpg"
+    "cover": "https://toolset.site/assets/book-2303-952ac007.jpg"
   },
   {
     "id": 2304,
@@ -52943,7 +52943,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2304/2304s.jpg"
+    "cover": "https://toolset.site/assets/book-2304-9d445d31.jpg"
   },
   {
     "id": 2305,
@@ -52966,7 +52966,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2305/2305s.jpg"
+    "cover": "https://toolset.site/assets/book-2305-fe84e134.jpg"
   },
   {
     "id": 2306,
@@ -52989,7 +52989,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2306/2306s.jpg"
+    "cover": "https://toolset.site/assets/book-2306-b4af8f38.jpg"
   },
   {
     "id": 2307,
@@ -53012,7 +53012,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2307/2307s.jpg"
+    "cover": "https://toolset.site/assets/book-2307-60675e09.jpg"
   },
   {
     "id": 2308,
@@ -53035,7 +53035,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2308/2308s.jpg"
+    "cover": "https://toolset.site/assets/book-2308-d518cce8.jpg"
   },
   {
     "id": 2309,
@@ -53058,7 +53058,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2309/2309s.jpg"
+    "cover": "https://toolset.site/assets/book-2309-0ac1d432.jpg"
   },
   {
     "id": 2310,
@@ -53081,7 +53081,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2310/2310s.jpg"
+    "cover": "https://toolset.site/assets/book-2310-9c1c356b.jpg"
   },
   {
     "id": 2311,
@@ -53104,7 +53104,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2311/2311s.jpg"
+    "cover": "https://toolset.site/assets/book-2311-1d31de5a.jpg"
   },
   {
     "id": 2312,
@@ -53127,7 +53127,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2312/2312s.jpg"
+    "cover": "https://toolset.site/assets/book-2312-d710281d.jpg"
   },
   {
     "id": 2313,
@@ -53150,7 +53150,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2313/2313s.jpg"
+    "cover": "https://toolset.site/assets/book-2313-1fa84186.jpg"
   },
   {
     "id": 2314,
@@ -53173,7 +53173,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2314/2314s.jpg"
+    "cover": "https://toolset.site/assets/book-2314-5934c6ca.jpg"
   },
   {
     "id": 2315,
@@ -53196,7 +53196,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2315/2315s.jpg"
+    "cover": "https://toolset.site/assets/book-2315-b2ef53ba.jpg"
   },
   {
     "id": 2316,
@@ -53219,7 +53219,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2316/2316s.jpg"
+    "cover": "https://toolset.site/assets/book-2316-5a80f99d.jpg"
   },
   {
     "id": 2317,
@@ -53242,7 +53242,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2317/2317s.jpg"
+    "cover": "https://toolset.site/assets/book-2317-26949e89.jpg"
   },
   {
     "id": 2318,
@@ -53265,7 +53265,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2318/2318s.jpg"
+    "cover": "https://toolset.site/assets/book-2318-d97b29a1.jpg"
   },
   {
     "id": 2319,
@@ -53288,7 +53288,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2319/2319s.jpg"
+    "cover": "https://toolset.site/assets/book-2319-07ddccbe.jpg"
   },
   {
     "id": 2320,
@@ -53311,7 +53311,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2320/2320s.jpg"
+    "cover": "https://toolset.site/assets/book-2320-0f155f1b.jpg"
   },
   {
     "id": 2321,
@@ -53334,7 +53334,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2321/2321s.jpg"
+    "cover": "https://toolset.site/assets/book-2321-dad3492b.jpg"
   },
   {
     "id": 2322,
@@ -53357,7 +53357,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2322/2322s.jpg"
+    "cover": "https://toolset.site/assets/book-2322-1cd43e95.jpg"
   },
   {
     "id": 2323,
@@ -53380,7 +53380,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2323/2323s.jpg"
+    "cover": "https://toolset.site/assets/book-2323-c910aeb7.jpg"
   },
   {
     "id": 2324,
@@ -53403,7 +53403,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2324/2324s.jpg"
+    "cover": "https://toolset.site/assets/book-2324-fc762325.jpg"
   },
   {
     "id": 2325,
@@ -53426,7 +53426,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2325/2325s.jpg"
+    "cover": "https://toolset.site/assets/book-2325-c9b9421a.jpg"
   },
   {
     "id": 2326,
@@ -53449,7 +53449,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2326/2326s.jpg"
+    "cover": "https://toolset.site/assets/book-2326-b47d7458.jpg"
   },
   {
     "id": 2327,
@@ -53472,7 +53472,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2327/2327s.jpg"
+    "cover": "https://toolset.site/assets/book-2327-a0127e22.jpg"
   },
   {
     "id": 2328,
@@ -53495,7 +53495,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2328/2328s.jpg"
+    "cover": "https://toolset.site/assets/book-2328-ec7f4ec0.jpg"
   },
   {
     "id": 2329,
@@ -53518,7 +53518,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2329/2329s.jpg"
+    "cover": "https://toolset.site/assets/book-2329-42f9613b.jpg"
   },
   {
     "id": 2330,
@@ -53541,7 +53541,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2330/2330s.jpg"
+    "cover": "https://toolset.site/assets/book-2330-25c3d03b.jpg"
   },
   {
     "id": 2331,
@@ -53564,7 +53564,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2331/2331s.jpg"
+    "cover": "https://toolset.site/assets/book-2331-26317895.jpg"
   },
   {
     "id": 2332,
@@ -53587,7 +53587,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2332/2332s.jpg"
+    "cover": "https://toolset.site/assets/book-2332-49e4becf.jpg"
   },
   {
     "id": 2333,
@@ -53610,7 +53610,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2333/2333s.jpg"
+    "cover": "https://toolset.site/assets/book-2333-74f0ead3.jpg"
   },
   {
     "id": 2334,
@@ -53633,7 +53633,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2334/2334s.jpg"
+    "cover": "https://toolset.site/assets/book-2334-bcfdb7de.jpg"
   },
   {
     "id": 2335,
@@ -53656,7 +53656,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2335/2335s.jpg"
+    "cover": "https://toolset.site/assets/book-2335-1c19ef3f.jpg"
   },
   {
     "id": 2336,
@@ -53679,7 +53679,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2336/2336s.jpg"
+    "cover": "https://toolset.site/assets/book-2336-9a48bdb8.jpg"
   },
   {
     "id": 2337,
@@ -53702,7 +53702,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2337/2337s.jpg"
+    "cover": "https://toolset.site/assets/book-2337-c959a504.jpg"
   },
   {
     "id": 2338,
@@ -53725,7 +53725,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2338/2338s.jpg"
+    "cover": "https://toolset.site/assets/book-2338-fe9cbeae.jpg"
   },
   {
     "id": 2339,
@@ -53748,7 +53748,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2339/2339s.jpg"
+    "cover": "https://toolset.site/assets/book-2339-9694e181.jpg"
   },
   {
     "id": 2340,
@@ -53771,7 +53771,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2340/2340s.jpg"
+    "cover": "https://toolset.site/assets/book-2340-ce0474b8.jpg"
   },
   {
     "id": 2341,
@@ -53794,7 +53794,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2341/2341s.jpg"
+    "cover": "https://toolset.site/assets/book-2341-77188e80.jpg"
   },
   {
     "id": 2342,
@@ -53817,7 +53817,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2342/2342s.jpg"
+    "cover": "https://toolset.site/assets/book-2342-144655de.jpg"
   },
   {
     "id": 2343,
@@ -53840,7 +53840,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2343/2343s.jpg"
+    "cover": "https://toolset.site/assets/book-2343-202213bf.jpg"
   },
   {
     "id": 2344,
@@ -53863,7 +53863,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2344/2344s.jpg"
+    "cover": "https://toolset.site/assets/book-2344-f6352314.jpg"
   },
   {
     "id": 2345,
@@ -53886,7 +53886,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2345/2345s.jpg"
+    "cover": "https://toolset.site/assets/book-2345-e4aa82ce.jpg"
   },
   {
     "id": 2346,
@@ -53909,7 +53909,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2346/2346s.jpg"
+    "cover": "https://toolset.site/assets/book-2346-3fc0dbaa.jpg"
   },
   {
     "id": 2347,
@@ -53932,7 +53932,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2347/2347s.jpg"
+    "cover": "https://toolset.site/assets/book-2347-a9844b07.jpg"
   },
   {
     "id": 2348,
@@ -53955,7 +53955,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2348/2348s.jpg"
+    "cover": "https://toolset.site/assets/book-2348-7187f521.jpg"
   },
   {
     "id": 2349,
@@ -53978,7 +53978,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2349/2349s.jpg"
+    "cover": "https://toolset.site/assets/book-2349-3a3de5a1.jpg"
   },
   {
     "id": 2350,
@@ -54001,7 +54001,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2350/2350s.jpg"
+    "cover": "https://toolset.site/assets/book-2350-ffb99566.jpg"
   },
   {
     "id": 2351,
@@ -54024,7 +54024,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2351/2351s.jpg"
+    "cover": "https://toolset.site/assets/book-2351-19963ce0.jpg"
   },
   {
     "id": 2352,
@@ -54047,7 +54047,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2352/2352s.jpg"
+    "cover": "https://toolset.site/assets/book-2352-4c72de63.jpg"
   },
   {
     "id": 2353,
@@ -54070,7 +54070,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2353/2353s.jpg"
+    "cover": "https://toolset.site/assets/book-2353-b0218d52.jpg"
   },
   {
     "id": 2354,
@@ -54093,7 +54093,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2354/2354s.jpg"
+    "cover": "https://toolset.site/assets/book-2354-e3f40686.jpg"
   },
   {
     "id": 2355,
@@ -54116,7 +54116,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2355/2355s.jpg"
+    "cover": "https://toolset.site/assets/book-2355-04d681a0.jpg"
   },
   {
     "id": 2356,
@@ -54139,7 +54139,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2356/2356s.jpg"
+    "cover": "https://toolset.site/assets/book-2356-ca5829cf.jpg"
   },
   {
     "id": 2357,
@@ -54162,7 +54162,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2357/2357s.jpg"
+    "cover": "https://toolset.site/assets/book-2357-987e4aee.jpg"
   },
   {
     "id": 2358,
@@ -54185,7 +54185,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2358/2358s.jpg"
+    "cover": "https://toolset.site/assets/book-2358-6ee00f8c.jpg"
   },
   {
     "id": 2359,
@@ -54208,7 +54208,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2359/2359s.jpg"
+    "cover": "https://toolset.site/assets/book-2359-05393169.jpg"
   },
   {
     "id": 2360,
@@ -54231,7 +54231,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2360/2360s.jpg"
+    "cover": "https://toolset.site/assets/book-2360-d89554e1.jpg"
   },
   {
     "id": 2361,
@@ -54254,7 +54254,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2361/2361s.jpg"
+    "cover": "https://toolset.site/assets/book-2361-cfec40d7.jpg"
   },
   {
     "id": 2362,
@@ -54277,7 +54277,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2362/2362s.jpg"
+    "cover": "https://toolset.site/assets/book-2362-558b95db.jpg"
   },
   {
     "id": 2363,
@@ -54300,7 +54300,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2363/2363s.jpg"
+    "cover": "https://toolset.site/assets/book-2363-5c6a565d.jpg"
   },
   {
     "id": 2364,
@@ -54323,7 +54323,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2364/2364s.jpg"
+    "cover": "https://toolset.site/assets/book-2364-8613d582.jpg"
   },
   {
     "id": 2365,
@@ -54346,7 +54346,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2365/2365s.jpg"
+    "cover": "https://toolset.site/assets/book-2365-184bf238.jpg"
   },
   {
     "id": 2366,
@@ -54369,7 +54369,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2366/2366s.jpg"
+    "cover": "https://toolset.site/assets/book-2366-f0592e95.jpg"
   },
   {
     "id": 2367,
@@ -54392,7 +54392,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2367/2367s.jpg"
+    "cover": "https://toolset.site/assets/book-2367-b7263308.jpg"
   },
   {
     "id": 2368,
@@ -54415,7 +54415,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2368/2368s.jpg"
+    "cover": "https://toolset.site/assets/book-2368-70bee405.jpg"
   },
   {
     "id": 2369,
@@ -54438,7 +54438,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2369/2369s.jpg"
+    "cover": "https://toolset.site/assets/book-2369-81f6e058.jpg"
   },
   {
     "id": 2370,
@@ -54461,7 +54461,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2370/2370s.jpg"
+    "cover": "https://toolset.site/assets/book-2370-f372c67e.jpg"
   },
   {
     "id": 2371,
@@ -54484,7 +54484,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2371/2371s.jpg"
+    "cover": "https://toolset.site/assets/book-2371-56c86a21.jpg"
   },
   {
     "id": 2372,
@@ -54507,7 +54507,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2372/2372s.jpg"
+    "cover": "https://toolset.site/assets/book-2372-9fc24135.jpg"
   },
   {
     "id": 2373,
@@ -54530,7 +54530,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2373/2373s.jpg"
+    "cover": "https://toolset.site/assets/book-2373-8efa3718.jpg"
   },
   {
     "id": 2374,
@@ -54553,7 +54553,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2374/2374s.jpg"
+    "cover": "https://toolset.site/assets/book-2374-2a3ea3f8.jpg"
   },
   {
     "id": 2375,
@@ -54576,7 +54576,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2375/2375s.jpg"
+    "cover": "https://toolset.site/assets/book-2375-4651b79f.jpg"
   },
   {
     "id": 2376,
@@ -54599,7 +54599,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2376/2376s.jpg"
+    "cover": "https://toolset.site/assets/book-2376-55be028e.jpg"
   },
   {
     "id": 2377,
@@ -54622,7 +54622,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2377/2377s.jpg"
+    "cover": "https://toolset.site/assets/book-2377-28383de1.jpg"
   },
   {
     "id": 2378,
@@ -54645,7 +54645,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2378/2378s.jpg"
+    "cover": "https://toolset.site/assets/book-2378-23d281b6.jpg"
   },
   {
     "id": 2379,
@@ -54668,7 +54668,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2379/2379s.jpg"
+    "cover": "https://toolset.site/assets/book-2379-c0706591.jpg"
   },
   {
     "id": 2380,
@@ -54691,7 +54691,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2380/2380s.jpg"
+    "cover": "https://toolset.site/assets/book-2380-94f01fad.jpg"
   },
   {
     "id": 2381,
@@ -54714,7 +54714,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2381/2381s.jpg"
+    "cover": "https://toolset.site/assets/book-2381-4288b81c.jpg"
   },
   {
     "id": 2382,
@@ -54737,7 +54737,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2382/2382s.jpg"
+    "cover": "https://toolset.site/assets/book-2382-a9d73a7b.jpg"
   },
   {
     "id": 2383,
@@ -54760,7 +54760,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2383/2383s.jpg"
+    "cover": "https://toolset.site/assets/book-2383-1ceb4677.jpg"
   },
   {
     "id": 2384,
@@ -54783,7 +54783,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2384/2384s.jpg"
+    "cover": "https://toolset.site/assets/book-2384-95454c06.jpg"
   },
   {
     "id": 2385,
@@ -54806,7 +54806,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2385/2385s.jpg"
+    "cover": "https://toolset.site/assets/book-2385-b52e9399.jpg"
   },
   {
     "id": 2386,
@@ -54829,7 +54829,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2386/2386s.jpg"
+    "cover": "https://toolset.site/assets/book-2386-e90b19a9.jpg"
   },
   {
     "id": 2387,
@@ -54852,7 +54852,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2387/2387s.jpg"
+    "cover": "https://toolset.site/assets/book-2387-945a9c47.jpg"
   },
   {
     "id": 2388,
@@ -54875,7 +54875,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2388/2388s.jpg"
+    "cover": "https://toolset.site/assets/book-2388-83ca3745.jpg"
   },
   {
     "id": 2389,
@@ -54898,7 +54898,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2389/2389s.jpg"
+    "cover": "https://toolset.site/assets/book-2389-fe8c31bd.jpg"
   },
   {
     "id": 2390,
@@ -54921,7 +54921,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2390/2390s.jpg"
+    "cover": "https://toolset.site/assets/book-2390-b9bbf642.jpg"
   },
   {
     "id": 2391,
@@ -54944,7 +54944,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2391/2391s.jpg"
+    "cover": "https://toolset.site/assets/book-2391-ce47613e.jpg"
   },
   {
     "id": 2392,
@@ -54967,7 +54967,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2392/2392s.jpg"
+    "cover": "https://toolset.site/assets/book-2392-ef2fc3ae.jpg"
   },
   {
     "id": 2393,
@@ -54990,7 +54990,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2393/2393s.jpg"
+    "cover": "https://toolset.site/assets/book-2393-fe1d3b34.jpg"
   },
   {
     "id": 2394,
@@ -55013,7 +55013,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2394/2394s.jpg"
+    "cover": "https://toolset.site/assets/book-2394-aff17665.jpg"
   },
   {
     "id": 2395,
@@ -55036,7 +55036,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2395/2395s.jpg"
+    "cover": "https://toolset.site/assets/book-2395-4bf8cb92.jpg"
   },
   {
     "id": 2396,
@@ -55059,7 +55059,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2396/2396s.jpg"
+    "cover": "https://toolset.site/assets/book-2396-28f91155.jpg"
   },
   {
     "id": 2397,
@@ -55082,7 +55082,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2397/2397s.jpg"
+    "cover": "https://toolset.site/assets/book-2397-79fada62.jpg"
   },
   {
     "id": 2398,
@@ -55105,7 +55105,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2398/2398s.jpg"
+    "cover": "https://toolset.site/assets/book-2398-4b07a3de.jpg"
   },
   {
     "id": 2399,
@@ -55128,7 +55128,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2399/2399s.jpg"
+    "cover": "https://toolset.site/assets/book-2399-a228aff2.jpg"
   },
   {
     "id": 2400,
@@ -55151,7 +55151,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2400/2400s.jpg"
+    "cover": "https://toolset.site/assets/book-2400-110d4696.jpg"
   },
   {
     "id": 2401,
@@ -55174,7 +55174,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2401/2401s.jpg"
+    "cover": "https://toolset.site/assets/book-2401-e44f2808.jpg"
   },
   {
     "id": 2402,
@@ -55197,7 +55197,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2402/2402s.jpg"
+    "cover": "https://toolset.site/assets/book-2402-136fd116.jpg"
   },
   {
     "id": 2403,
@@ -55220,7 +55220,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2403/2403s.jpg"
+    "cover": "https://toolset.site/assets/book-2403-747ca47b.jpg"
   },
   {
     "id": 2404,
@@ -55243,7 +55243,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2404/2404s.jpg"
+    "cover": "https://toolset.site/assets/book-2404-9acb7b9f.jpg"
   },
   {
     "id": 2405,
@@ -55266,7 +55266,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2405/2405s.jpg"
+    "cover": "https://toolset.site/assets/book-2405-cb9c9e03.jpg"
   },
   {
     "id": 2406,
@@ -55289,7 +55289,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2406/2406s.jpg"
+    "cover": "https://toolset.site/assets/book-2406-a6715db5.jpg"
   },
   {
     "id": 2407,
@@ -55312,7 +55312,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2407/2407s.jpg"
+    "cover": "https://toolset.site/assets/book-2407-fd0e1365.jpg"
   },
   {
     "id": 2408,
@@ -55335,7 +55335,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2408/2408s.jpg"
+    "cover": "https://toolset.site/assets/book-2408-3709d860.jpg"
   },
   {
     "id": 2409,
@@ -55358,7 +55358,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2409/2409s.jpg"
+    "cover": "https://toolset.site/assets/book-2409-94ae16c2.jpg"
   },
   {
     "id": 2410,
@@ -55381,7 +55381,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2410/2410s.jpg"
+    "cover": "https://toolset.site/assets/book-2410-ecfde8d0.jpg"
   },
   {
     "id": 2411,
@@ -55404,7 +55404,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2411/2411s.jpg"
+    "cover": "https://toolset.site/assets/book-2411-cc60415d.jpg"
   },
   {
     "id": 2412,
@@ -55427,7 +55427,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2412/2412s.jpg"
+    "cover": "https://toolset.site/assets/book-2412-8c9d11a4.jpg"
   },
   {
     "id": 2413,
@@ -55450,7 +55450,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2413/2413s.jpg"
+    "cover": "https://toolset.site/assets/book-2413-38751c1e.jpg"
   },
   {
     "id": 2414,
@@ -55473,7 +55473,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2414/2414s.jpg"
+    "cover": "https://toolset.site/assets/book-2414-9c404119.jpg"
   },
   {
     "id": 2415,
@@ -55496,7 +55496,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2415/2415s.jpg"
+    "cover": "https://toolset.site/assets/book-2415-f19f9e73.jpg"
   },
   {
     "id": 2416,
@@ -55519,7 +55519,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2416/2416s.jpg"
+    "cover": "https://toolset.site/assets/book-2416-1b50fb5b.jpg"
   },
   {
     "id": 2417,
@@ -55542,7 +55542,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2417/2417s.jpg"
+    "cover": "https://toolset.site/assets/book-2417-1f8bb023.jpg"
   },
   {
     "id": 2418,
@@ -55565,7 +55565,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2418/2418s.jpg"
+    "cover": "https://toolset.site/assets/book-2418-d20ae436.jpg"
   },
   {
     "id": 2419,
@@ -55588,7 +55588,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2419/2419s.jpg"
+    "cover": "https://toolset.site/assets/book-2419-db7cb753.jpg"
   },
   {
     "id": 2420,
@@ -55611,7 +55611,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2420/2420s.jpg"
+    "cover": "https://toolset.site/assets/book-2420-c20be869.jpg"
   },
   {
     "id": 2421,
@@ -55634,7 +55634,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2421/2421s.jpg"
+    "cover": "https://toolset.site/assets/book-2421-d8a26273.jpg"
   },
   {
     "id": 2422,
@@ -55657,7 +55657,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2422/2422s.jpg"
+    "cover": "https://toolset.site/assets/book-2422-dfc09743.jpg"
   },
   {
     "id": 2423,
@@ -55680,7 +55680,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2423/2423s.jpg"
+    "cover": "https://toolset.site/assets/book-2423-52da9951.jpg"
   },
   {
     "id": 2424,
@@ -55703,7 +55703,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2424/2424s.jpg"
+    "cover": "https://toolset.site/assets/book-2424-582e7b3a.jpg"
   },
   {
     "id": 2425,
@@ -55726,7 +55726,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2425/2425s.jpg"
+    "cover": "https://toolset.site/assets/book-2425-4a99fdc4.jpg"
   },
   {
     "id": 2426,
@@ -55749,7 +55749,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2426/2426s.jpg"
+    "cover": "https://toolset.site/assets/book-2426-58fb7fca.jpg"
   },
   {
     "id": 2427,
@@ -55772,7 +55772,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2427/2427s.jpg"
+    "cover": "https://toolset.site/assets/book-2427-705a357f.jpg"
   },
   {
     "id": 2428,
@@ -55795,7 +55795,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2428/2428s.jpg"
+    "cover": "https://toolset.site/assets/book-2428-7c0231c8.jpg"
   },
   {
     "id": 2429,
@@ -55818,7 +55818,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2429/2429s.jpg"
+    "cover": "https://toolset.site/assets/book-2429-bb8352a4.jpg"
   },
   {
     "id": 2430,
@@ -55841,7 +55841,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2430/2430s.jpg"
+    "cover": "https://toolset.site/assets/book-2430-c94504b4.jpg"
   },
   {
     "id": 2431,
@@ -55864,7 +55864,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2431/2431s.jpg"
+    "cover": "https://toolset.site/assets/book-2431-8b896946.jpg"
   },
   {
     "id": 2432,
@@ -55887,7 +55887,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2432/2432s.jpg"
+    "cover": "https://toolset.site/assets/book-2432-e4e3ea2f.jpg"
   },
   {
     "id": 2433,
@@ -55910,7 +55910,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2433/2433s.jpg"
+    "cover": "https://toolset.site/assets/book-2433-543a2d57.jpg"
   },
   {
     "id": 2434,
@@ -55933,7 +55933,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2434/2434s.jpg"
+    "cover": "https://toolset.site/assets/book-2434-6fef31f2.jpg"
   },
   {
     "id": 2435,
@@ -55956,7 +55956,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2435/2435s.jpg"
+    "cover": "https://toolset.site/assets/book-2435-a754c546.jpg"
   },
   {
     "id": 2436,
@@ -55979,7 +55979,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2436/2436s.jpg"
+    "cover": "https://toolset.site/assets/book-2436-8fd6fc99.jpg"
   },
   {
     "id": 2437,
@@ -56002,7 +56002,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2437/2437s.jpg"
+    "cover": "https://toolset.site/assets/book-2437-490e87db.jpg"
   },
   {
     "id": 2438,
@@ -56025,7 +56025,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2438/2438s.jpg"
+    "cover": "https://toolset.site/assets/book-2438-ea072fb0.jpg"
   },
   {
     "id": 2439,
@@ -56048,7 +56048,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2439/2439s.jpg"
+    "cover": "https://toolset.site/assets/book-2439-14638a12.jpg"
   },
   {
     "id": 2440,
@@ -56071,7 +56071,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2440/2440s.jpg"
+    "cover": "https://toolset.site/assets/book-2440-c8907b3a.jpg"
   },
   {
     "id": 2441,
@@ -56094,7 +56094,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2441/2441s.jpg"
+    "cover": "https://toolset.site/assets/book-2441-e4e67da2.jpg"
   },
   {
     "id": 2442,
@@ -56117,7 +56117,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2442/2442s.jpg"
+    "cover": "https://toolset.site/assets/book-2442-a49e9688.jpg"
   },
   {
     "id": 2443,
@@ -56140,7 +56140,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2443/2443s.jpg"
+    "cover": "https://toolset.site/assets/book-2443-8f14eb70.jpg"
   },
   {
     "id": 2444,
@@ -56163,7 +56163,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2444/2444s.jpg"
+    "cover": "https://toolset.site/assets/book-2444-ee3da994.jpg"
   },
   {
     "id": 2445,
@@ -56186,7 +56186,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2445/2445s.jpg"
+    "cover": "https://toolset.site/assets/book-2445-5eb8763a.jpg"
   },
   {
     "id": 2446,
@@ -56209,7 +56209,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2446/2446s.jpg"
+    "cover": "https://toolset.site/assets/book-2446-7452356b.jpg"
   },
   {
     "id": 2447,
@@ -56232,7 +56232,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2447/2447s.jpg"
+    "cover": "https://toolset.site/assets/book-2447-9d34601b.jpg"
   },
   {
     "id": 2448,
@@ -56255,7 +56255,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2448/2448s.jpg"
+    "cover": "https://toolset.site/assets/book-2448-3520e39a.jpg"
   },
   {
     "id": 2449,
@@ -56278,7 +56278,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2449/2449s.jpg"
+    "cover": "https://toolset.site/assets/book-2449-9b71a91f.jpg"
   },
   {
     "id": 2450,
@@ -56301,7 +56301,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2450/2450s.jpg"
+    "cover": "https://toolset.site/assets/book-2450-65cb44b8.jpg"
   },
   {
     "id": 2451,
@@ -56324,7 +56324,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2451/2451s.jpg"
+    "cover": "https://toolset.site/assets/book-2451-bea0878f.jpg"
   },
   {
     "id": 2452,
@@ -56347,7 +56347,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2452/2452s.jpg"
+    "cover": "https://toolset.site/assets/book-2452-60eb50fe.jpg"
   },
   {
     "id": 2453,
@@ -56370,7 +56370,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2453/2453s.jpg"
+    "cover": "https://toolset.site/assets/book-2453-5098641c.jpg"
   },
   {
     "id": 2454,
@@ -56393,7 +56393,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2454/2454s.jpg"
+    "cover": "https://toolset.site/assets/book-2454-48dc4595.jpg"
   },
   {
     "id": 2455,
@@ -56416,7 +56416,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2455/2455s.jpg"
+    "cover": "https://toolset.site/assets/book-2455-3a1a4d3f.jpg"
   },
   {
     "id": 2456,
@@ -56439,7 +56439,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2456/2456s.jpg"
+    "cover": "https://toolset.site/assets/book-2456-36c49f23.jpg"
   },
   {
     "id": 2457,
@@ -56462,7 +56462,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2457/2457s.jpg"
+    "cover": "https://toolset.site/assets/book-2457-8aaa45a0.jpg"
   },
   {
     "id": 2458,
@@ -56485,7 +56485,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2458/2458s.jpg"
+    "cover": "https://toolset.site/assets/book-2458-374f0d9d.jpg"
   },
   {
     "id": 2459,
@@ -56508,7 +56508,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2459/2459s.jpg"
+    "cover": "https://toolset.site/assets/book-2459-09d4dc2f.jpg"
   },
   {
     "id": 2460,
@@ -56531,7 +56531,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2460/2460s.jpg"
+    "cover": "https://toolset.site/assets/book-2460-3e641e70.jpg"
   },
   {
     "id": 2461,
@@ -56554,7 +56554,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2461/2461s.jpg"
+    "cover": "https://toolset.site/assets/book-2461-6388e157.jpg"
   },
   {
     "id": 2462,
@@ -56577,7 +56577,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2462/2462s.jpg"
+    "cover": "https://toolset.site/assets/book-2462-7d22c79d.jpg"
   },
   {
     "id": 2463,
@@ -56600,7 +56600,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2463/2463s.jpg"
+    "cover": "https://toolset.site/assets/book-2463-2e17bcce.jpg"
   },
   {
     "id": 2464,
@@ -56623,7 +56623,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2464/2464s.jpg"
+    "cover": "https://toolset.site/assets/book-2464-36049406.jpg"
   },
   {
     "id": 2465,
@@ -56646,7 +56646,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2465/2465s.jpg"
+    "cover": "https://toolset.site/assets/book-2465-beb2bfa2.jpg"
   },
   {
     "id": 2466,
@@ -56669,7 +56669,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2466/2466s.jpg"
+    "cover": "https://toolset.site/assets/book-2466-fdb7fc46.jpg"
   },
   {
     "id": 2467,
@@ -56692,7 +56692,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2467/2467s.jpg"
+    "cover": "https://toolset.site/assets/book-2467-3bfe9be4.jpg"
   },
   {
     "id": 2468,
@@ -56715,7 +56715,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2468/2468s.jpg"
+    "cover": "https://toolset.site/assets/book-2468-510e32ba.jpg"
   },
   {
     "id": 2469,
@@ -56738,7 +56738,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2469/2469s.jpg"
+    "cover": "https://toolset.site/assets/book-2469-a09c90b4.jpg"
   },
   {
     "id": 2470,
@@ -56761,7 +56761,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2470/2470s.jpg"
+    "cover": "https://toolset.site/assets/book-2470-f39fe442.jpg"
   },
   {
     "id": 2471,
@@ -56784,7 +56784,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2471/2471s.jpg"
+    "cover": "https://toolset.site/assets/book-2471-90506860.jpg"
   },
   {
     "id": 2472,
@@ -56807,7 +56807,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2472/2472s.jpg"
+    "cover": "https://toolset.site/assets/book-2472-c0ce9713.jpg"
   },
   {
     "id": 2473,
@@ -56830,7 +56830,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2473/2473s.jpg"
+    "cover": "https://toolset.site/assets/book-2473-642c2682.jpg"
   },
   {
     "id": 2474,
@@ -56853,7 +56853,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2474/2474s.jpg"
+    "cover": "https://toolset.site/assets/book-2474-775101a1.jpg"
   },
   {
     "id": 2475,
@@ -56876,7 +56876,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2475/2475s.jpg"
+    "cover": "https://toolset.site/assets/book-2475-52f8ad3a.jpg"
   },
   {
     "id": 2476,
@@ -56899,7 +56899,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2476/2476s.jpg"
+    "cover": "https://toolset.site/assets/book-2476-167fc691.jpg"
   },
   {
     "id": 2477,
@@ -56922,7 +56922,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2477/2477s.jpg"
+    "cover": "https://toolset.site/assets/book-2477-bba7a07b.jpg"
   },
   {
     "id": 2478,
@@ -56945,7 +56945,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2478/2478s.jpg"
+    "cover": "https://toolset.site/assets/book-2478-21afa07e.jpg"
   },
   {
     "id": 2479,
@@ -56968,7 +56968,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2479/2479s.jpg"
+    "cover": "https://toolset.site/assets/book-2479-c7c52a79.jpg"
   },
   {
     "id": 2480,
@@ -56991,7 +56991,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2480/2480s.jpg"
+    "cover": "https://toolset.site/assets/book-2480-ebe9db93.jpg"
   },
   {
     "id": 2481,
@@ -57014,7 +57014,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2481/2481s.jpg"
+    "cover": "https://toolset.site/assets/book-2481-258f75be.jpg"
   },
   {
     "id": 2482,
@@ -57037,7 +57037,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2482/2482s.jpg"
+    "cover": "https://toolset.site/assets/book-2482-65882589.jpg"
   },
   {
     "id": 2483,
@@ -57060,7 +57060,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2483/2483s.jpg"
+    "cover": "https://toolset.site/assets/book-2483-aadeb0dd.jpg"
   },
   {
     "id": 2484,
@@ -57083,7 +57083,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2484/2484s.jpg"
+    "cover": "https://toolset.site/assets/book-2484-66a9b169.jpg"
   },
   {
     "id": 2485,
@@ -57106,7 +57106,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2485/2485s.jpg"
+    "cover": "https://toolset.site/assets/book-2485-a7dc362b.jpg"
   },
   {
     "id": 2486,
@@ -57129,7 +57129,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2486/2486s.jpg"
+    "cover": "https://toolset.site/assets/book-2486-3b3553a4.jpg"
   },
   {
     "id": 2487,
@@ -57152,7 +57152,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2487/2487s.jpg"
+    "cover": "https://toolset.site/assets/book-2487-21f3fbfb.jpg"
   },
   {
     "id": 2488,
@@ -57175,7 +57175,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2488/2488s.jpg"
+    "cover": "https://toolset.site/assets/book-2488-5d50d36a.jpg"
   },
   {
     "id": 2489,
@@ -57198,7 +57198,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2489/2489s.jpg"
+    "cover": "https://toolset.site/assets/book-2489-1304c607.jpg"
   },
   {
     "id": 2490,
@@ -57221,7 +57221,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2490/2490s.jpg"
+    "cover": "https://toolset.site/assets/book-2490-adec100a.jpg"
   },
   {
     "id": 2491,
@@ -57244,7 +57244,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2491/2491s.jpg"
+    "cover": "https://toolset.site/assets/book-2491-d9632962.jpg"
   },
   {
     "id": 2492,
@@ -57267,7 +57267,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2492/2492s.jpg"
+    "cover": "https://toolset.site/assets/book-2492-b0fe4815.jpg"
   },
   {
     "id": 2493,
@@ -57290,7 +57290,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2493/2493s.jpg"
+    "cover": "https://toolset.site/assets/book-2493-e7936988.jpg"
   },
   {
     "id": 2494,
@@ -57313,7 +57313,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2494/2494s.jpg"
+    "cover": "https://toolset.site/assets/book-2494-ce9fd29f.jpg"
   },
   {
     "id": 2495,
@@ -57336,7 +57336,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2495/2495s.jpg"
+    "cover": "https://toolset.site/assets/book-2495-0fdc2aee.jpg"
   },
   {
     "id": 2496,
@@ -57359,7 +57359,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2496/2496s.jpg"
+    "cover": "https://toolset.site/assets/book-2496-18cb7110.jpg"
   },
   {
     "id": 2497,
@@ -57382,7 +57382,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2497/2497s.jpg"
+    "cover": "https://toolset.site/assets/book-2497-67770248.jpg"
   },
   {
     "id": 2498,
@@ -57405,7 +57405,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2498/2498s.jpg"
+    "cover": "https://toolset.site/assets/book-2498-e60ec383.jpg"
   },
   {
     "id": 2499,
@@ -57428,7 +57428,7 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2499/2499s.jpg"
+    "cover": "https://toolset.site/assets/book-2499-ad826f8c.jpg"
   },
   {
     "id": 2500,
@@ -57451,7 +57451,30 @@ module.exports = [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2500/2500s.jpg"
+    "cover": "https://toolset.site/assets/book-2500-e1e8df54.jpg"
+  },
+  {
+    "id": 2525,
+    "title": "斗罗：AI龙皇",
+    "author": "四噗接",
+    "category": "轻",
+    "status": "已完结",
+    "chapters": "1-543章",
+    "latestChapter": "第543章 贯彻时间线，万变合一（大结局）",
+    "excerpt": "被大运之神撞击，再睁开眼便是斗罗世界。 没有强横的血脉，没有优秀的背景，只有一份灵魂变异导致的AI思维。但谁说带着AI就不能通关斗罗大陆？ 陈明：",
+    "readUrl": "",
+    "downloadUrl": "/books/2525_斗罗：AI龙皇1-543章.txt",
+    "tags": [
+      {
+        "name": "轻",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/2/2525/2525s.jpg"
   },
   {
     "id": "s114759",
