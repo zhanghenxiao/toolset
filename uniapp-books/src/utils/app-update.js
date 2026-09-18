@@ -1,5 +1,6 @@
 import { SITE } from './config';
 import { DEFAULT_ANDROID_APK_URL, resolveAndroidApkUrl } from './app-version';
+import { showUpdatePrompt } from './update-prompt';
 
 export const VERSION_CHECK_URL = `${SITE}/app-version.json`;
 
@@ -232,56 +233,39 @@ async function runAndroidUpdate(remote) {
   }
 }
 
-function promptAppUpdate(remote) {
+async function promptAppUpdate(remote) {
   const platform = uni.getSystemInfoSync().platform;
   const isIOS = platform === 'ios';
   const pkg = isIOS ? remote.ios : remote.android;
   const wgtUrl = pkg?.wgtUrl;
-  const content = [remote.changelog, '', `版本号：${remote.versionCode}`]
-    .filter(Boolean)
-    .join('\n');
 
-  return new Promise((resolve) => {
-    uni.showModal({
-      title: remote.forceUpdate ? '发现重要更新' : '发现新版本',
-      content,
-      showCancel: !remote.forceUpdate,
-      confirmText: wgtUrl ? '立即更新' : '下载并安装',
-      cancelText: '稍后再说',
-      success: async (modal) => {
-        if (!modal.confirm) {
-          if (!remote.forceUpdate) markSkipVersion(remote.versionCode);
-          resolve(false);
-          return;
-        }
+  const confirmed = await showUpdatePrompt(remote);
+  if (!confirmed) {
+    if (!remote.forceUpdate) markSkipVersion(remote.versionCode);
+    return false;
+  }
 
-        try {
-          if (wgtUrl) {
-            await installWgt(wgtUrl);
-            resolve(true);
-            return;
-          }
-          if (isIOS) {
-            const storeUrl = remote.ios?.storeUrl;
-            if (storeUrl) {
-              openExternalUrl(storeUrl);
-              resolve(true);
-              return;
-            }
-            uni.showToast({ title: '暂无 iOS 安装地址', icon: 'none' });
-            resolve(false);
-            return;
-          }
-          await runAndroidUpdate(remote);
-          resolve(true);
-        } catch (error) {
-          console.warn(`${LOG_TAG} 更新流程异常`, error);
-          uni.showToast({ title: '更新失败，请稍后重试', icon: 'none' });
-          resolve(false);
-        }
-      },
-    });
-  });
+  try {
+    if (wgtUrl) {
+      await installWgt(wgtUrl);
+      return true;
+    }
+    if (isIOS) {
+      const storeUrl = remote.ios?.storeUrl;
+      if (storeUrl) {
+        openExternalUrl(storeUrl);
+        return true;
+      }
+      uni.showToast({ title: '暂无 iOS 安装地址', icon: 'none' });
+      return false;
+    }
+    await runAndroidUpdate(remote);
+    return true;
+  } catch (error) {
+    console.warn(`${LOG_TAG} 更新流程异常`, error);
+    uni.showToast({ title: '更新失败，请稍后重试', icon: 'none' });
+    return false;
+  }
 }
 
 export async function checkAppUpdate(options = {}) {
