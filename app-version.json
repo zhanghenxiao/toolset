@@ -1,16 +1,16 @@
 {
-  "versionName": "1.0.6",
-  "versionCode": 106,
+  "versionName": "1.0.61",
+  "versionCode": 1061,
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "",
     "inAppInstall": true,
-    "apkUrl": "https://www.pgyer.com/app/install/8060f3dba0125051e3939e587ea329b1"
+    "apkUrl": "https://www.pgyer.com/app/install/6cbb02387c457b02df9fe828864aa51d"
   },
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
   },
-  "updatedAt": "2026-09-18T09:49:03.178Z"
+  "updatedAt": "2026-09-22T10:02:44.763Z"
 }
