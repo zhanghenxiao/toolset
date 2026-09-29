@@ -333,7 +333,9 @@ function filterBooks({ categories = [], tags = [], keyword = '' }) {
 }
 
 function getBookById(id) {
-  return books.find((b) => b.id === Number(id));
+  // 数据中 id 可能是数字（145、114759）也可能是字符串（u_xxxxxx），统一转为字符串再比对
+  const key = String(id);
+  return books.find((b) => String(b.id) === key);
 }
 
 module.exports = {

@@ -1,0 +1,60 @@
+{
+  "bsonType": "object",
+  "required": ["trans_id"],
+  "permission": {
+    "read": false,
+    "create": false,
+    "update": false,
+    "delete": false
+  },
+  "properties": {
+    "_id": {
+      "description": "记录 ID"
+    },
+    "trans_id": {
+      "bsonType": "string",
+      "description": "激励视频唯一交易 ID（幂等键）",
+      "trim": "both"
+    },
+    "order_id": {
+      "bsonType": "string",
+      "description": "老版 HTTP 回调 order_id"
+    },
+    "user_id": {
+      "bsonType": "string",
+      "description": "客户端 urlCallback.userId"
+    },
+    "extra": {
+      "bsonType": "string",
+      "description": "客户端 urlCallback.extra"
+    },
+    "adpid": {
+      "bsonType": "string",
+      "description": "DCloud 广告位 ID"
+    },
+    "provider": {
+      "bsonType": "string",
+      "description": "广告服务商"
+    },
+    "platform": {
+      "bsonType": "string",
+      "description": "平台"
+    },
+    "cpm": {
+      "bsonType": "int",
+      "description": "千次曝光收益（分）"
+    },
+    "source": {
+      "bsonType": "string",
+      "description": "回调来源"
+    },
+    "raw_json": {
+      "bsonType": "string",
+      "description": "原始回调 JSON 字符串"
+    },
+    "created_at": {
+      "bsonType": "timestamp",
+      "description": "记录创建时间"
+    }
+  }
+}

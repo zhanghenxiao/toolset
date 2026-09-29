@@ -11,7 +11,7 @@ const {
   getWorkDir,
 } = require('./book-paths');
 
-const { SOURCE_SHARE_LINE } = require('./source-share-line');
+const { buildBookHeader, buildBookFooterBlock } = require('./source-share-line');
 
 const [, , idArg, title, author, ...segmentEnds] = process.argv;
 if (!idArg || !title || !author || segmentEnds.length === 0) {
@@ -74,8 +74,7 @@ for (const endStr of segmentEnds) {
   start = end + 1;
 }
 
-const header = `《${title}》  作者：${author}\n${SOURCE_SHARE_LINE}\n\n\n`;
-const merged = header + bodies.join('\n');
+const merged = buildBookHeader(title, author) + bodies.join('\n') + buildBookFooterBlock();
 const maxChapter = findMaxChapter(merged);
 if (!maxChapter) throw new Error('未识别到章节号');
 

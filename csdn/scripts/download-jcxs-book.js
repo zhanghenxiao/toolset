@@ -15,7 +15,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const { SOURCE_SHARE_LINE } = require('./source-share-line');
+const { buildBookHeader, finalizeBookFile } = require('./source-share-line');
 const BASE = 'https://www.jcxs.org';
 const DELAY_MS = 350;
 
@@ -231,7 +231,7 @@ async function main() {
     if (startIndex < 0) throw new Error(`目录中找不到第 ${resumeFrom} 章`);
     console.log(`续传 ${outPath}，从第 ${chapterNum(allChapters[startIndex])} 章起…`);
   } else {
-    const header = `《${meta.title}》  作者：${meta.author}\n${SOURCE_SHARE_LINE}\n\n\n`;
+    const header = buildBookHeader(meta.title, meta.author);
     fs.writeFileSync(outPath, header, 'utf8');
   }
 
@@ -257,6 +257,8 @@ async function main() {
     outPath = finalPath;
     filename = finalName;
   }
+
+  finalizeBookFile(outPath);
 
   const coverDir = path.join(root, 'csdn/src/assets/images/books');
   fs.mkdirSync(coverDir, { recursive: true });

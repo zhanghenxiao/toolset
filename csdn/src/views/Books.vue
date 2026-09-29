@@ -5,13 +5,10 @@
       <BookFilterSection @filter-change="handleFilterChange" />
 
       <section class="container py-40">
-        <div v-if="paginatedItems.length > 0">
+        <div v-if="displayItems.length > 0">
           <div class="grid fade-in">
-            <BookCard v-for="item in paginatedItems" :key="item.id" :book="item" />
+            <BookCard v-for="item in displayItems" :key="item.id" :book="item" />
           </div>
-
-          <Pagination :total="totalPages" :current="currentPage" :totalItems="filteredItems.length"
-            @change="handlePageChange" />
         </div>
         <div v-else class="no-results fade-in">
           <div v-if="isKeywordSearchEmpty" class="no-results-content no-results-scan">
@@ -36,10 +33,11 @@
 import SiteHeader from '../components/SiteHeader.vue';
 import BookFilterSection from '../components/BookFilterSection.vue';
 import BookCard from '../components/BookCard.vue';
-import Pagination from '../components/Pagination.vue';
 import SiteFooter from '../components/SiteFooter.vue';
 import { bookItems } from '../data/booksData';
 import { checkRateLimit, isSiteBlocked } from '../utils/siteGuard';
+
+const DISPLAY_LIMIT = 40;
 
 export default {
   name: 'Books',
@@ -47,7 +45,6 @@ export default {
     SiteHeader,
     BookFilterSection,
     BookCard,
-    Pagination,
     SiteFooter,
   },
   data() {
@@ -58,8 +55,6 @@ export default {
         tags: [],
         keyword: ''
       },
-      currentPage: 1,
-      pageSize: 10,
     };
   },
   computed: {
@@ -81,12 +76,8 @@ export default {
         return keywordMatch && categoryMatch && tagMatch;
       });
     },
-    totalPages() {
-      return Math.ceil(this.filteredItems.length / this.pageSize) || 1;
-    },
-    paginatedItems() {
-      const start = (this.currentPage - 1) * this.pageSize;
-      return this.filteredItems.slice(start, start + this.pageSize);
+    displayItems() {
+      return this.filteredItems.slice(0, DISPLAY_LIMIT);
     },
     isKeywordSearchEmpty() {
       return this.filters.keyword.trim().length > 0;
@@ -96,12 +87,6 @@ export default {
     handleFilterChange(newFilters) {
       if (isSiteBlocked() || !checkRateLimit('interaction')) return;
       this.filters = { ...newFilters };
-      this.currentPage = 1;
-    },
-    handlePageChange(page) {
-      if (isSiteBlocked() || !checkRateLimit('interaction')) return;
-      this.currentPage = page;
-      window.scrollTo({ top: 0, behavior: 'smooth' });
     },
   }
 };

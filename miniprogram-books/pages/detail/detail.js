@@ -1,7 +1,6 @@
 const { ensureLoaded, isFailed, onDataChange, getBookById } = require('../../utils/books');
 const { copyQuarkReadUrl } = require('../../utils/read-url');
-
-const DOUBLE_TAP_MS = 450;
+const { showRewardedAd } = require('../../utils/ad');
 
 Page({
   data: {
@@ -72,14 +71,23 @@ Page({
   },
 
   onLatestChapterTap() {
-    const now = Date.now();
-    const lastTap = this._latestTapAt || 0;
-    if (lastTap && now - lastTap < DOUBLE_TAP_MS) {
-      this._latestTapAt = 0;
-      this.copyReadUrlWithModal('网盘分享链接');
+    const book = this.data.book;
+    if (!book) return;
+    if (!book.readUrl) {
+      wx.showToast({ title: '暂无网盘分享链接', icon: 'none' });
       return;
     }
-    this._latestTapAt = now;
+    wx.showLoading({ title: '加载广告中...', mask: true });
+    showRewardedAd()
+      .then(() => this.copyReadUrlWithModal('网盘分享链接'))
+      .catch((err) => {
+        console.error('激励视频广告失败', err);
+        const msg = err && err.message === '观看未完成'
+          ? '需要看完广告才能获取链接'
+          : '广告暂不可用，请稍后再试';
+        wx.showToast({ title: msg, icon: 'none' });
+      })
+      .finally(() => wx.hideLoading());
   },
 
   onShareAppMessage() {

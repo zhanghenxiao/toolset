@@ -1,8 +1,31 @@
 /**
- * 清理小说 TXT 中的得奇小说网推广水印
+ * 清理小说 TXT 中的站点推广水印（得奇、小原文学网等）
  */
 const fs = require('fs');
 const path = require('path');
+const { SOURCE_SHARE_LINE, applyBookShareWatermarks } = require('./source-share-line');
+
+/** 本站书源分享行（勿当源站推广删掉） */
+function isSourceShareLine(line) {
+  const t = line.trim();
+  return /更多书源分享/.test(t) && /toolset\.site/i.test(t);
+}
+
+/** 速读谷「更新不易」水印 → 本站推广文案 */
+const SHUWEI_PROMO = '更新不易，记得分享，小程序数维探索看最新章节！';
+
+const SUDUGU_TO_SHUWEI_PATTERNS = [
+  /更新不易，记得分享，速[-*·．.\s,，、]+读[-*·．.\s,，、]+谷\s*w[-*·．.\s,，、]*w[-*·．.\s,，、]*w[-*·．.\s,，、]*\.?\s*s[-*u/·．.\s,，、]+d[-*u/·．.\s,，、]+u[-*u/·．.\s,，、]+g[-*u/·．.\s,，、]+u\s*\.?\s*o[-*r/·．.\s,，、]+r[-*r/·．.\s,，、]+g\s*看最新章节[！!]?/g,
+  /更新不易，请使用【必应】搜\s*s[\-/u·．.\s,，、]+d[\-/u·．.\s,，、]+u[\-/u·．.\s,，、]+g[\-/u·．.\s,，、]+u\.?\s*o[\-/r·．.\s,，、]+r[\-/r·．.\s,，、]+g\s*看更多最新小说章节[！!]?/g,
+];
+
+function replaceSuduguWithShuwei(text) {
+  let result = text;
+  for (const pattern of SUDUGU_TO_SHUWEI_PATTERNS) {
+    result = result.replace(pattern, SHUWEI_PROMO);
+  }
+  return result;
+}
 
 const SPAM_LINE_PATTERNS = [
   /^来源[：:]\s*得奇小说网\s*$/,
@@ -68,6 +91,35 @@ const SPAM_LINE_PATTERNS = [
   /可以关注我的微信号/,
   /关注我的微信号[：:]/,
   /看更多的.*可以关注我的微信号/,
+  /** min-yuan.com / 小原文学网（download-minyuan-book.js） */
+  /^\[本章下载失败:[^\]]+\]\s*$/,
+  /^来源[：:]\s*小原文学网\s*$/,
+  /^网址[：:]\s*https?:\/\/(www\.)?min-yuan\.com[^。]*$/i,
+  /^小原文学网\s*$/,
+  /^www\.min-yuan\.com\s*$/i,
+  /正在转码中[，,]?\s*请稍后再试/,
+  /^章节正在手打中/,
+  /** PHP/ThinkPHP 错误页、# 堆栈行（min-yuan 等站点转码失败时混入） */
+  /^\s*#\d+\s/,
+  /^\s*#\d+\s*\{main\}\s*$/,
+  /^\s*错误位置\s*$/,
+  /^\s*TRACE\s*$/,
+  /^\s*FILE:\s*\/www\/sites\//i,
+  /^\s*FILE:.*MyClass\.class\.php\s+LINE:\s*\d+/i,
+  /Home\\Controller\\IndexController/,
+  /Think\\App::invoke/,
+  /** 含 min-yuan.com / qidian2.com 的整行（下载失败 URL、站点水印、错误页路径） */
+  /min-yuan\.com/i,
+  /qidian2\.com/i,
+  /** 笔趣阁 e00df.icu 推广水印 */
+  /e00df\.icu/i,
+  /请收藏本站[：:]\s*\.?e00df\.icu/,
+  /笔趣阁手机版[：:]\s*\.?e00df\.icu/,
+  /** 邀请码 / 官方反馈群推广（勿匹配本站 toolset 分享行） */
+  /最后一批邀请码/,
+  /1900人发放/,
+  /^官方反馈群\s*2497460/,
+  /^2497460$/,
 ];
 
 const INLINE_SPAM_PATTERNS = [
@@ -121,6 +173,17 @@ const INLINE_SPAM_PATTERNS = [
   /\.dêqix\.[^。\n]*/gi,
   /\s*ｗｗｗ[\.．]ｄｅｑｉｘｓ[\.．]ｏｒｇ[^。\n]*/g,
   /\s*[，,、；;]?\s*站长只有这一个站[^。\n！!]*[！!]?/g,
+  /\s*\[本章下载失败:[^\]]+\]/g,
+  /\s*https?:\/\/(www\.)?min-yuan\.com[^\s\n]*/gi,
+  /\s*www\.min-yuan\.com[^\s\n]*/gi,
+  /\s*正在转码中[，,]?\s*请稍后再试[\.。…]*\s*/g,
+  /\s*章节正在手打中[^\n]*/g,
+  /\s*请收藏本站[：:]\s*\.?e00df\.icu[。．.]?\s*笔趣阁手机版[：:]\s*\.?e00df\.icu\s*/g,
+  /\s*请收藏本站[：:]\s*\.?e00df\.icu[。．.]?\s*/g,
+  /\s*笔趣阁手机版[：:]\s*\.?e00df\.icu[。．.]?\s*/g,
+  /\s*最后一批邀请码[^。\n]*/g,
+  /\s*[,，]?\s*官方反馈群\s*2497460[^。\n]*/g,
+  /\s*[,，]?\s*2497460[^。\n]*/g,
 ];
 
 const VERTICAL_WATERMARKS = [
@@ -422,6 +485,66 @@ function isOrgDomainLine(line) {
   return false;
 }
 
+/** 小原文学网 min-yuan.com 推广水印 */
+function isMinyuanSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  if (/min-yuan\.com/i.test(content)) return true;
+  if (/www\.min-yuan/i.test(content)) return true;
+  if (/正在转码中/.test(content) && /请稍后再试/.test(content)) return true;
+  if (/^章节正在手打中/.test(content)) return true;
+  if (content === '小原文学网' || /^小原文学网[！!。．…]*$/.test(content)) return true;
+
+  if (/小原文学网/.test(content)) {
+    const hints = /记住|更新|首发|网址|www|min-yuan|阅读|收藏|最新章|手打|本站|访问|域名/;
+    if (hints.test(content) && content.length <= 120) return true;
+  }
+
+  return false;
+}
+
+/** 含 qidian2.com 的站点错误页路径行 */
+function isQidian2SpamLine(line) {
+  return /qidian2\.com/i.test(line);
+}
+
+/** 行首 # 堆栈行、PHP/ThinkPHP 错误页残留（不误删正文中的 名字#名字） */
+function isHashOrPhpErrorSpamLine(line) {
+  const content = line.replace(/^[\s　]+/, '').trim();
+  if (!content) return false;
+
+  if (/^#/.test(content)) return true;
+
+  if (content === '错误位置' || content === 'TRACE') return true;
+  if (/^FILE:\s*\/www\/sites\//i.test(content)) return true;
+  if (/Think\\Think::/.test(content)) return true;
+  if (/ThinkPHP/.test(content)) return true;
+  if (/IndexController\.class\.php/.test(content)) return true;
+  if (/MyClass\.class\.php/.test(content)) return true;
+  if (/spl_autoload_call/.test(content)) return true;
+  if (/ReflectionMethod->invoke/.test(content)) return true;
+  if (/Think\\App::/.test(content)) return true;
+  if (/Home\\Controller\\IndexController/.test(content)) return true;
+  if (/require\('\/www\/sites\//.test(content)) return true;
+
+  return false;
+}
+
+/**
+ * 移除 qidian2 ThinkPHP 整段错误页（min-yuan 转码失败时插入章节中间）
+ * 示例：
+ *   错误位置
+ *   FILE: .../MyClass.class.php  LINE: 766
+ *   TRACE
+ *   #0 ... #9 {main}
+ */
+function removeQidian2PhpErrorBlocks(text) {
+  const block =
+    /(?:^|\n)错误位置\r?\n(?:FILE:[^\n]*(?:qidian2\.com|ThinkPHP)[^\n]*\r?\n)?TRACE\r?\n(?:#[^\n]*\r?\n)+#\d+\s*\{main\}\s*(?=\r?\n|$)/gi;
+  return text.replace(block, '\n');
+}
+
 function isSuduguSpamLine(line) {
   const content = line.replace(/^[\s　]+/, '').trim();
   const compact = compactText(content);
@@ -482,6 +605,10 @@ function isObfuscatedSpamLine(line) {
 function isSpamLine(line) {
   const trimmed = line.trim();
   if (!trimmed) return false;
+  if (isSourceShareLine(trimmed)) return false;
+  if (isMinyuanSpamLine(line)) return true;
+  if (isQidian2SpamLine(line)) return true;
+  if (isHashOrPhpErrorSpamLine(line)) return true;
   if (isMiaojiSpamLine(line)) return true;
   if (isDeqiShoudaSpamLine(line)) return true;
   if (isBingSpamLine(line)) return true;
@@ -518,11 +645,33 @@ function cleanInlineSpam(line) {
 }
 
 function cleanBookText(content) {
-  const normalized = content.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+  let normalized = replaceSuduguWithShuwei(
+    content.replace(/\r\n/g, '\n').replace(/\r/g, '\n')
+  );
+  normalized = removeQidian2PhpErrorBlocks(normalized);
   const lines = normalized.split('\n');
   const cleaned = [];
+  let inPhpErrorBlock = false;
 
   for (const line of lines) {
+    const trimmed = line.trim();
+
+    if (!inPhpErrorBlock && trimmed === '错误位置') {
+      inPhpErrorBlock = true;
+      continue;
+    }
+    if (inPhpErrorBlock) {
+      if (/^#\d+\s*\{main\}\s*$/.test(trimmed)) {
+        inPhpErrorBlock = false;
+      }
+      continue;
+    }
+
+    if (isSourceShareLine(trimmed)) {
+      cleaned.push(SOURCE_SHARE_LINE);
+      continue;
+    }
+
     const nextLine = cleanInlineSpam(line);
     if (isSpamLine(nextLine)) continue;
     if (isOrgDomainLine(nextLine)) continue;
@@ -540,7 +689,7 @@ function cleanFile(filePath) {
   }
 
   const original = readTextFile(filePath);
-  const cleaned = cleanBookText(original);
+  const cleaned = applyBookShareWatermarks(cleanBookText(original));
   if (cleaned === original) {
     console.log(`  - 无需清理: ${filePath}`);
     return 0;

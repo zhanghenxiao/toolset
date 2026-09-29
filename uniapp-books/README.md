@@ -9,10 +9,12 @@ cd uniapp-books
 npm install
 npm run sync:data    # 从 booksData.js 同步书籍数据
 npm run dev:mp-weixin   # 微信小程序
-npm run dev:h5          # H5
+npm run dev:h5          # H5，默认 http://localhost:5174（勿与 csdn 网站 5173 混用）
 ```
 
 用微信开发者工具打开 `dist/dev/mp-weixin` 目录预览小程序。
+
+PC 网站（蓝白书籍页）在 `csdn/` 目录：`npm run dev` → http://localhost:5173/books
 
 ## 构建
 
@@ -87,3 +89,13 @@ App 启动时会请求该文件，对比本地 `versionCode` 决定是否提示�
 ```
 
 代码入口：`src/utils/app-update.js`；首页右上角版本号可手动触发检查。
+
+## uniCloud · 激励视频服务器回调
+
+App 端激励视频需配置 uniCloud 云函数接收 uni-ad 服务器回调，详见：
+
+[`uniCloud-alipay/README.md`](uniCloud-alipay/README.md)
+
+- 云函数：`ad-reward-callback`
+- 客户端工具：`src/utils/rewarded-video-ad.js`
+- 测试页：`pages/detail/jili`（App 真机）

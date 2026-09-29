@@ -8,9 +8,20 @@ const {
   filterBooks,
   getBookById,
 } = require('../../utils/books');
-const { onLatestChapterTap: handleLatestChapterTap } = require('../../utils/read-url');
+const { copyQuarkReadUrl } = require('../../utils/read-url');
+const { showRewardedAd } = require('../../utils/ad');
 
-const PAGE_SIZE = 10;
+const MAX_DISPLAY = 40;
+
+// Fisher-Yates 原地打乱
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 Page({
   data: {
@@ -27,8 +38,6 @@ Page({
     selectedCategory: '',
     selectedTag: '',
     keyword: '',
-    currentPage: 1,
-    totalPages: 1,
     totalFiltered: 0,
     hasFilters: false,
   },
@@ -74,16 +83,14 @@ Page({
     const categories = selectedCategory ? [selectedCategory] : [];
     const tags = selectedTag ? [selectedTag] : [];
     const filtered = filterBooks({ categories, tags, keyword });
-    const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
-    const currentPage = Math.min(this.data.currentPage, totalPages);
-    const start = (currentPage - 1) * PAGE_SIZE;
-    const list = filtered.slice(start, start + PAGE_SIZE);
+    // 随机展示 MAX_DISPLAY 本（过滤后打乱再截断）
+    const list = filtered.length > MAX_DISPLAY
+      ? shuffle(filtered).slice(0, MAX_DISPLAY)
+      : filtered.slice();
 
     this.setData({
       list,
       totalFiltered: filtered.length,
-      totalPages,
-      currentPage,
       hasFilters: !!(keyword || selectedCategory || selectedTag),
       _filtered: filtered,
     });
@@ -94,19 +101,19 @@ Page({
   },
 
   onSearch() {
-    this.setData({ currentPage: 1 }, () => this.applyFilters());
+    this.applyFilters();
   },
 
   onCategoryChange(e) {
     const idx = Number(e.detail.value);
     const selectedCategory = idx === 0 ? '' : this.data.categories[idx - 1];
-    this.setData({ selectedCategory, currentPage: 1 }, () => this.applyFilters());
+    this.setData({ selectedCategory }, () => this.applyFilters());
   },
 
   onTagChange(e) {
     const idx = Number(e.detail.value);
     const selectedTag = idx === 0 ? '' : this.data.tags[idx - 1];
-    this.setData({ selectedTag, currentPage: 1 }, () => this.applyFilters());
+    this.setData({ selectedTag }, () => this.applyFilters());
   },
 
   onClearFilters() {
@@ -114,18 +121,7 @@ Page({
       keyword: '',
       selectedCategory: '',
       selectedTag: '',
-      currentPage: 1,
     }, () => this.applyFilters());
-  },
-
-  onPrevPage() {
-    if (this.data.currentPage <= 1) return;
-    this.setData({ currentPage: this.data.currentPage - 1 }, () => this.applyFilters());
-  },
-
-  onNextPage() {
-    if (this.data.currentPage >= this.data.totalPages) return;
-    this.setData({ currentPage: this.data.currentPage + 1 }, () => this.applyFilters());
   },
 
   onBookTap(e) {
@@ -136,7 +132,25 @@ Page({
   onLatestChapterTap(e) {
     const { id } = e.currentTarget.dataset;
     const book = getBookById(id);
-    handleLatestChapterTap(id, book && book.readUrl);
+    if (!book) {
+      wx.showToast({ title: '书籍不存在', icon: 'none' });
+      return;
+    }
+    if (!book.readUrl) {
+      wx.showToast({ title: '暂无网盘分享链接', icon: 'none' });
+      return;
+    }
+    wx.showLoading({ title: '加载广告中...', mask: true });
+    showRewardedAd()
+      .then(() => copyQuarkReadUrl(book.readUrl))
+      .catch((err) => {
+        console.error('激励视频广告失败', err);
+        const msg = err && err.message === '观看未完成'
+          ? '需要看完广告才能获取链接'
+          : '广告暂不可用，请稍后再试';
+        wx.showToast({ title: msg, icon: 'none' });
+      })
+      .finally(() => wx.hideLoading());
   },
 
   onOpenSite() {

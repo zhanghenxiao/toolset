@@ -1,6 +1,50 @@
 const DOUBLE_TAP_MS = 450;
 const tapState = new Map();
 
+async function copyReadUrlToClipboard(readUrl) {
+  return new Promise((resolve) => {
+    uni.setClipboardData({
+      data: readUrl,
+      success: async () => {
+        const { showReadCopySuccess } = await import('./read-prompt');
+        await showReadCopySuccess();
+        resolve(true);
+      },
+      fail: () => {
+        uni.showToast({ title: '复制失败，请重试', icon: 'none' });
+        resolve(false);
+      },
+    });
+  });
+}
+
+/** 弹窗提示 → 观看激励视频 → 看完后复制阅读链接 */
+export async function promptWatchAdThenCopyReadUrl(readUrl, bookId) {
+  if (!readUrl) {
+    uni.showToast({ title: '暂无阅读链接', icon: 'none' });
+    return false;
+  }
+
+  const { showReadRewardConfirm } = await import('./read-prompt');
+  const confirmed = await showReadRewardConfirm();
+  if (!confirmed) return false;
+
+  const { showRewardForReadUnlock } = await import('./ad-policy');
+  const { shown, isEnded } = await showRewardForReadUnlock(bookId);
+
+  if (!shown) {
+    uni.showToast({ title: '广告未能展示，请稍后重试', icon: 'none' });
+    return false;
+  }
+
+  if (!isEnded) {
+    uni.showToast({ title: '未看完广告，无法复制链接', icon: 'none' });
+    return false;
+  }
+
+  return copyReadUrlToClipboard(readUrl);
+}
+
 export function copyQuarkReadUrl(readUrl) {
   if (!readUrl) {
     uni.showToast({

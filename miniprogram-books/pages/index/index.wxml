@@ -85,10 +85,4 @@
     <text>暂无匹配的书籍</text>
     <text class="no-results-tip">请关注微信公众号「数维探索」留言你想找的书籍</text>
   </view>
-
-  <view wx:if="{{totalPages > 1}}" class="pagination">
-    <button class="page-btn" size="mini" disabled="{{currentPage <= 1}}" bindtap="onPrevPage">上一页</button>
-    <text class="page-info">{{currentPage}} / {{totalPages}}</text>
-    <button class="page-btn" size="mini" disabled="{{currentPage >= totalPages}}" bindtap="onNextPage">下一页</button>
-  </view>
 </view>

@@ -1,9 +1,18 @@
+<template>
+  <update-modal />
+</template>
+
 <script>
 import { checkForUpdateOnLaunch } from '@/utils/app-update';
+import { bindRewardAdAppLifecycle, initRewardAdCallback } from '@/utils/rewarded-video-ad';
+import UpdateModal from '@/components/UpdateModal.vue';
 
 export default {
+  components: { UpdateModal },
   onLaunch() {
     checkForUpdateOnLaunch();
+    initRewardAdCallback();
+    bindRewardAdAppLifecycle();
   },
 };
 </script>

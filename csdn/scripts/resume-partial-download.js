@@ -13,7 +13,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const { SOURCE_SHARE_LINE } = require('./source-share-line');
+const { buildBookHeader, buildBookFooterBlock } = require('./source-share-line');
 const MAX_SEGMENT = 500;
 const ids = process.argv.slice(2).map(Number).filter(Boolean);
 
@@ -159,7 +159,7 @@ for (const id of ids) {
 
     const allParts = getExistingParts(workDir);
     const bodies = allParts.map((p) => stripHeader(readBookText(p.path)));
-    const merged = `《${meta.title}》  作者：${meta.author}\n${SOURCE_SHARE_LINE}\n\n\n${bodies.join('\n')}`;
+    const merged = buildBookHeader(meta.title, meta.author) + bodies.join('\n') + buildBookFooterBlock();
     const tempOut = path.join(workDir, '_merged-temp.txt');
     fs.writeFileSync(tempOut, merged, 'utf8');
 
