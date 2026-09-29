@@ -13,7 +13,7 @@ const assetsDir = path.join(root, 'assets');
 const sourceCoverDir = path.join(root, 'csdn/src/assets/images/books');
 const SITE = 'https://toolset.site';
 const bookCoversDir = path.join(root, 'book-covers');
-const { deqixsCoverUrl } = require('./book-paths');
+const { deqixsCoverUrl, isLibahaoId } = require('./book-paths');
 const DEQIXS_COVER = (id) => deqixsCoverUrl(id);
 
 function sourceCoverPath(id) {
@@ -61,12 +61,12 @@ function resolveCoverUrl(id, coverMap) {
   const published = path.join(bookCoversDir, stable);
   const hasLocal = fs.existsSync(published) || fs.existsSync(sourceCoverPath(id));
 
-  if (/^[sx]\d+$/.test(idStr)) {
+  if (/^[sx]\d+$/.test(idStr) || isLibahaoId(idStr)) {
     if (process.env.MINIPROGRAM_COVER === 'stable' && hasLocal) {
       return `${SITE}/book-covers/${stable}`;
     }
     if (hasLocal) return `${SITE}/book-covers/${stable}`;
-    return '';
+    return isLibahaoId(idStr) ? '' : '';
   }
 
   // 稳定路径需先部署 book-covers/；部署前用得奇封面保证小程序可显示

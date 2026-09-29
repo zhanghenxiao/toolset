@@ -19,6 +19,7 @@
 <script setup>
 import { ref, computed, watch } from 'vue';
 import { AD_FEED_PID } from '@/utils/ad-config';
+import { isAdBusy } from '@/utils/ad-guard';
 
 const LOG_TAG = '[feed-ad]';
 const MAX_RETRY = 2;
@@ -27,6 +28,8 @@ const RETRY_DELAY_MS = 5000;
 const props = defineProps({
   /** 由首页 onReady 后再设为 true，确保布局完成 */
   active: { type: Boolean, default: false },
+  /** 次要广告额外延迟（毫秒），在 active 为 true 后再等待 */
+  startDelayMs: { type: Number, default: 0 },
 });
 
 const visible = ref(false);
@@ -126,6 +129,11 @@ async function loadFeedAd() {
 
 function startFeedAd() {
   if (visible.value || !isAppPlus()) return;
+  if (isAdBusy()) {
+    statusText.value = '等待其他广告结束…';
+    setTimeout(startFeedAd, 1500);
+    return;
+  }
   visible.value = true;
   retryCount.value = 0;
   console.log(`${LOG_TAG} mount adpid=${AD_FEED_PID}`);
@@ -136,7 +144,8 @@ watch(
   () => props.active,
   (val) => {
     if (!val) return;
-    setTimeout(startFeedAd, 300);
+    const delay = Math.max(0, props.startDelayMs) + 300;
+    setTimeout(startFeedAd, delay);
   },
   { immediate: true },
 );

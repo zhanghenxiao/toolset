@@ -16,7 +16,7 @@ const root = path.resolve(__dirname, '../..');
 const workDir = getWorkDir(root, localId);
 const legacyDir = path.join(root, 'books', localId);
 
-const { SOURCE_SHARE_LINE } = require('./source-share-line');
+const { buildBookHeader, buildBookFooterBlock } = require('./source-share-line');
 
 function readBookText(filePath) {
   const buffer = fs.readFileSync(filePath);
@@ -46,8 +46,7 @@ const bodies = partFiles.map((file) => {
   return stripHeader(readBookText(filePath));
 });
 
-const header = `《${title}》  作者：${author}\n${SOURCE_SHARE_LINE}\n\n\n`;
-const merged = header + bodies.join('\n');
+const merged = buildBookHeader(title, author) + bodies.join('\n') + buildBookFooterBlock();
 
 fs.mkdirSync(workDir, { recursive: true });
 const tempOut = path.join(workDir, '_merged-temp.txt');

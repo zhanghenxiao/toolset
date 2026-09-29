@@ -30966,7 +30966,7 @@ export default [
     "chapters": "1-95章",
     "latestChapter": "第20章 发装备了",
     "excerpt": "二零四六年，我来到了唐人街。 灵异事务科的前辈告诉我，有许多魔鬼蛰伏在人类社会的暗面，我们的工作，就是铲除这些趴在凡人身上磨牙吮血的地狱妖邪。 前辈们还说，这个世界有灵能，还有可以和死者沟通的特殊存在，不止如此，更有各种各样能被科学系统认知并且研究的超能力。 入职的那一年我十八岁，正是最不信邪的年纪。 他们要我加入快刀行动组，我就加入了。 ...... ...... PS:简单来说就是一个充满生活",
-    "readUrl": "",
+    "readUrl": "https://pan.baidu.com/s/1l7NG7mNIwXmjEGt89PrDPg?pwd=nyp8",
     "downloadUrl": "/books/1349_屠魔快刀1-95章.txt",
     "tags": [
       {
@@ -31656,7 +31656,7 @@ export default [
     "chapters": "1-155章",
     "latestChapter": "第154章 《诺言》",
     "excerpt": "那是个已经落幕的时代，随光阴老去，再也不会回来。 但它不该被遗忘。无数首金曲灿若星辰，大量影视剧皎洁如月。 无论你是否抬头，它们都在天空高悬、闪闪发光，映照着你的童年。 和现在。 穿越到平行时空九十年代的陆钦，化身“两界文艺交流大使”，用一首首经典的歌曲、影视剧，缔造文娱盛世。 他也因此，被尊为——文娱帝王。",
-    "readUrl": "https://pan.baidu.com/s/12RERjjc6sguz_BfLQsWJJw?pwd=xxrt",
+    "readUrl": "https://pan.baidu.com/s/1PdH4X35fuf-fS6n73jNfaw?pwd=2y64",
     "downloadUrl": "/books/1379_文娱帝王1-155章.txt",
     "tags": [
       {
@@ -34140,7 +34140,7 @@ export default [
     "chapters": "1-226章",
     "latestChapter": "第136章 命运分叉，不同的路",
     "excerpt": "【斗一同人】【利己主义者】 磁场是世界的脉络，我，只是握住了它的丝线…… 当一个精通物理的工学博士穿越到斗罗世界，会带来怎样的震撼？ －所有金属，都将听我的号令，臣服我的意志，我，是你们的王！ －指尖跳动的电光，是我永恒不变的信仰，超电磁炮，贯穿一切！ －以海虎之名，执掌磁场转动，百万匹力，粉碎一切敌人！ PS：新人前期节奏有些问题，建议从12章观看。",
-    "readUrl": "",
+    "readUrl": "https://pan.baidu.com/s/1_dsVgt_AAgVPbcnxv1Ci-A?pwd=ahqk",
     "downloadUrl": "/books/1487_斗罗：电磁掌控者1-226章.txt",
     "tags": [
       {
@@ -36624,7 +36624,7 @@ export default [
     "chapters": "1-302章",
     "latestChapter": "第300章 这样的七月与安生（月票满500和打赏共同加更）",
     "excerpt": "“本台记者将在阆苑传媒为你带来最新报道，让我们把镜头交给她！” 画面中，一个年轻的记者站在一位魅力与帅气并存的中年大叔面前。 “请问何导，你对网络上的‘内娱好几个圈子，你才是唯一的爷’说法怎么看？” “坐着看啊，他们要叫我爷，我也没办法~” “那很多人都说你的奖项都是公关得来？你否认吗？” “不否认~ 记者再问：“何导，很多人都羡慕你，说逍遥哥哥将灵儿娶回家了，都在说夺妻之恨，可以和大家分享一下这",
-    "readUrl": "",
+    "readUrl": "https://pan.baidu.com/s/1w0QTE2mrwXkYE4_7swrmQg?pwd=cc1y",
     "downloadUrl": "/books/1595_华娱公关流导演，被天仙攻略1-302章.txt",
     "tags": [
       {
@@ -36923,7 +36923,7 @@ export default [
     "chapters": "1-1254章",
     "latestChapter": "第500章 ‘魔法’",
     "excerpt": "普通人类罗彬瀚被外星飞船绑架了。这艘船上除他之外的成员有修真大少爷，魅魔，人工智能，奥特曼和许愿机。 罗彬瀚确信这个宇宙有点问题。 读者群号：1055986189 需要回答较难问题的读者群号：569466054 本书开放所有同人二创权限，感谢爱顾。",
-    "readUrl": "",
+    "readUrl": "https://pan.baidu.com/s/19bw3zG_jJzormI1nK4lEcg?pwd=aeju",
     "downloadUrl": "/books/1608_道与碳基猴子饲养守则1-1254章.txt",
     "tags": [
       {
@@ -57461,8 +57461,8 @@ export default [
     "status": "已完结",
     "chapters": "1-543章",
     "latestChapter": "第543章 贯彻时间线，万变合一（大结局）",
-    "excerpt": "被大运之神撞击，再睁开眼便是斗罗世界。 没有强横的血脉，没有优秀的背景，只有一份灵魂变异导致的AI思维。但谁说带着AI就不能通关斗罗大陆？ 陈明：",
-    "readUrl": "",
+    "excerpt": "被大运之神撞击，再睁开眼便是斗罗世界。 没有强横的血脉，没有优秀的背景，只有一份灵魂变异导致的AI思维。但谁说带着AI就不能通关斗罗大陆？ 陈明：我有今天全靠着我的努力，小i，开始推演！ 你有古典暗器，我有现代科技，来走着瞧吧——（反唐三，多女主，不走武魂殿，自创神位。）",
+    "readUrl": "https://pan.baidu.com/s/1qZ735mzQEJjH68ZOzx3C-w?pwd=4mq5",
     "downloadUrl": "/books/2525_斗罗：AI龙皇1-543章.txt",
     "tags": [
       {
@@ -57474,7 +57474,8057 @@ export default [
         "type": "blue"
       }
     ],
-    "cover": "https://www.deqixs.org/files/article/image/2/2525/2525s.jpg"
+    "cover": "https://toolset.site/assets/book-2525-4ab31766.jpg"
+  },
+  {
+    "id": "m_ah",
+    "title": "湿卵胎化",
+    "author": "黑环",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1400章",
+    "latestChapter": "第1390章 卦辞，三圣在",
+    "excerpt": "胎卵湿化，随其所应。 卵唯想生，胎因情有，湿以合感，化以离应。 ........................... 投胎自古以来都是一门技术活，而季明却是掌握了四门技术——湿、卵、胎、化。 自此...他可是花鸟鱼虫，可是社狐庙鼠，可是贫儿贵子，更可是那天人鬼众，九天神真。",
+    "readUrl": "https://pan.baidu.com/s/1DRXC1S3qQfOVMiOIbah1SA?pwd=5j96",
+    "downloadUrl": "/books/m_ah_湿卵胎化1-1400章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_aj",
+    "title": "长生：从种田刷新词条开始",
+    "author": "白发谈笑生",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1168章",
+    "latestChapter": "第1169章",
+    "excerpt": "秦铭穿越到修仙世界，可没有金手指，资质平庸的他，被家族放弃，奉命参与宗门的开荒征召任务，成了一名底层灵农。每天面临残酷的修炼环境，生存艰难，压力山大。直到有一天他种完地回来，发现自己收获的东西有点不太一样了。【名称】：金灵米【词条】：微弱法力（可收获）从今往后，他稳健经营，努力奋斗种田，终于成为了一方大佬。仙界发生大乱，所有人都傻眼了。“这是一个灵农该有的实力？！”“摊牌了，俺就是個耕田滴……”",
+    "readUrl": "https://pan.baidu.com/s/1f_s1gkqcOX_c2UNm1pQRqA?pwd=5j96",
+    "downloadUrl": "/books/m_aj_长生：从种田刷新词条开始1-1168章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ak",
+    "title": "凌霄仙门",
+    "author": "披着马甲的羊羊羊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1483章",
+    "latestChapter": "",
+    "excerpt": "﹝慢节奏，智商在线，稳健流。首订三百到高订破万，越写越精彩，精品之作，请大家放心阅读﹞ 「天涯明月老，岁月风霜刀。」 在这衰落的宗门、波谲云诡的修仙界里，天骄争锋，大能博弈，长生路上尸骨如山。有人天生道体，有人气运加身，而破落宗门的叶洋，只觉醒了一个看似平凡的命格——【坚韧不拔】。 「修仙不是打打杀杀，而是人情世故。」 他没有逆天资质，却刀剑双绝，步步为营；他并非气运之子，却左右逢源，借势而起；当",
+    "readUrl": "https://pan.baidu.com/s/1FdZs6VP_DKi1i-osqqTMhw?pwd=5j96",
+    "downloadUrl": "/books/m_ak_凌霄仙门1-1483章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ar",
+    "title": "请同学斩妖",
+    "author": "沉入太平洋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-482章",
+    "latestChapter": "",
+    "excerpt": "开局黄皮子拦路讨封：“你看我像人还是像仙？”刚刚穿越的方骁解下皮带，劈头盖脸地抽了过去！这是一个修士、武者和凡人并存，妖魔鬼怪横行的危险世界。幸好方骁带来的物品通通变成了强大的法宝。专属法宝和本命法宝！【三棱刺】【破甲、流血、伤蚀】【铜头皮带】【疼痛、恐惧、断骨】【赤子心册】【万武不惑、万法不入、万邪不侵】【……】杀死妖怪就能得到经验，修炼功法可以加点晋升。方骁由此踏上了一条斩妖除魔、日月换新的逆",
+    "readUrl": "https://pan.baidu.com/s/1Ry8-B5Y3pxtnVnVVT9jP6Q?pwd=5j96",
+    "downloadUrl": "/books/m_ar_请同学斩妖1-482章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_be",
+    "title": "咒禁山海",
+    "author": "北海牧鲸",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-797章",
+    "latestChapter": "",
+    "excerpt": "至正二十八年，天子登基，诏令：不得出海！不得出海！不得出海！孝康四年，浊河鬼棺逆跃龙门，一并带走了所有浊河捞尸人；宣德八年，宝船舰队回归刘家港，船上却空无一人...翻开史书，世间水脉以及东方那片沧溟大洋，每每都在纸页的字里行间让人不禁心生惊怖。万幸，早在汉始纪元年，九天道气下降与人立约，建立三官盟威。以【社稷主·真龙天子】为尊，奉天、地、水三官为正祀，形成了覆盖三教九流，内外八门的神道职官体系：走",
+    "readUrl": "https://pan.baidu.com/s/1_q8_3Kx08bTISJO_r-3S2g?pwd=5j96",
+    "downloadUrl": "/books/m_be_咒禁山海1-797章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_brdv",
+    "title": "咒术回战：反派第一人",
+    "author": "春雷秋虎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-316章",
+    "latestChapter": "",
+    "excerpt": "加纳静海看着身旁倒在了血泊之中的数个人影，再看了看面前的四天灾和羂索，用大概一秒钟的时间接受了事实。bro我好像是有点死了。“九相图的灵感在于观透尸骨后抵达的空性，那在其之后呢？于不净中预见真如……这便是我所领悟的‘无垢相’。”等等，你说我是羂索的某个试作品，是九相图之后的某个衍生作？喔那是真的牛批，虽然听起来很厉害，但考虑羂索布置下的种种手段，看来这辈子就只能给牢妈当牛做马打工了。但是等等，这个",
+    "readUrl": "https://pan.baidu.com/s/1TwsIF7kZvfVux1QXJwIxEw?pwd=gtiw",
+    "downloadUrl": "/books/m_brdv_咒术回战：反派第一人1-316章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_bv",
+    "title": "夜无疆",
+    "author": "辰东",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-827章",
+    "latestChapter": "第827章 天下沸腾",
+    "excerpt": "那一天太阳落下再也没有升起…………………",
+    "readUrl": "https://pan.baidu.com/s/1G4ecW6EpaabbSnSRpoYPHg?pwd=gtiw",
+    "downloadUrl": "/books/m_bv_夜无疆1-827章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_by",
+    "title": "大周仙官",
+    "author": "耳耳耳耳耳耳耳",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-342章",
+    "latestChapter": "第342章 缝开一瞬，名归人间",
+    "excerpt": "“在大周仙朝，一切伟力归于朝廷。”“重要法术，皆须持证上岗；修仙百艺，皆须考级定品。”“一纸敕令，可封山河正神。一场大考，定鼎一生命途。”“此身入局，是逐私欲，还是赌长生？”考官执印而视，眸光如炬。苏秦摇头：“术归于民，官系于土。”“不求仙寿，不取权柄。”“唯愿此地——岁稔民安。”",
+    "readUrl": "https://pan.baidu.com/s/15UYUrYPfKbxPS0izgyxT9w?pwd=5j96",
+    "downloadUrl": "/books/m_by_大周仙官1-342章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_bz",
+    "title": "你们的法术版本太低了！",
+    "author": "州默",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-494章",
+    "latestChapter": "第494章 ：我为，玄黄。",
+    "excerpt": "【法术自动更新完成，本次更新为小版本更新，法术效果调整如下……】齐运一朝穿越，成为魔宗底层储备人才。好在金手指觉醒，所有法术都开始自动更新。【基础剑气2.0版本】：威力提升五成。【基础剑气3.0版本】：剑气数量+1。【基础剑气4.0版本】：增加施法范围。……若干年后，万千正道围山，齐运淡淡一笑，一指点出，一道煌煌如大日，横压万千的璀璨剑芒撕裂长空！众敌愕然诧异：“这是基础剑气？”齐运缓缓点头：“不",
+    "readUrl": "https://pan.baidu.com/s/1b3GD8B_Fa68AvZztG1-jfA?pwd=5j96",
+    "downloadUrl": "/books/m_bz_你们的法术版本太低了！1-494章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_c",
+    "title": "从送子鲤鱼到天庭仙官",
+    "author": "锦绣灰",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-923章",
+    "latestChapter": "",
+    "excerpt": "身为游戏狗策划的游鸣或许因为划水太多，这一世成了仙侠世界的一条鲤鱼。 但他发现，前世游戏里的作弊码这一世依然能够使用。 于是，当他用颤抖的手输入一串串的作弊码…… 恭喜获得【繁衍之契】buff，辖区内的人口出生率增加50%。 恭喜获得【法力增益】能力：使用后可直接增长100点法力。 恭喜获得【无限负重】效果：角色携带无限量的物品，不会因超出负重而受惩罚。 …… 他们都说，我是天生的象征着孕育的灵物",
+    "readUrl": "https://pan.baidu.com/s/10uqyTCXQwQ0TOQ4qsOk0_Q?pwd=5j96",
+    "downloadUrl": "/books/m_c_从送子鲤鱼到天庭仙官1-923章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_cg",
+    "title": "百世修仙：我能固定天赋",
+    "author": "牛顿不秃顶",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-849章",
+    "latestChapter": "第850章 星辰大阵",
+    "excerpt": "陈胜穿越修仙界，成为世俗王侯，惨无灵根。本以为，一生碌碌，空享百年富贵。没成想，一朝觉醒至宝【百世书】。可与自身血脉之中，轮转百世，不堕真灵。血脉不绝，百世求仙！陈胜不再犹豫，这一世我要大生特生，生出了通天仙途。",
+    "readUrl": "https://pan.baidu.com/s/1DCpQweevScoDKVieJOlX4A?pwd=5j96",
+    "downloadUrl": "/books/m_cg_百世修仙：我能固定天赋1-849章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ci",
+    "title": "谁说我是靠女人升官的？",
+    "author": "海缸",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-606章",
+    "latestChapter": "",
+    "excerpt": "穿越衙门杂役，苏陌目标只是转正为正役，端上铁饭碗，然后娶了巷子口摊煎饼的小寡妇暖被窝。为何大武女帝，突然传来圣旨召见自己，让自己当朝廷帝师？当帝师就当帝师了，但要自己娶了她，当大武摄政王，这就是不是有点过分了？见到来说，这是一个底层胥吏，遇到一个恋爱脑且道行高深无比的女帝的故事！【八千定大精品，长跑型选手，无上架太监战绩可查，诸位客官可放心阅读】",
+    "readUrl": "https://pan.baidu.com/s/1XSZFBiBxCmElunpOzRTBdw?pwd=5j96",
+    "downloadUrl": "/books/m_ci_谁说我是靠女人升官的？1-606章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_cj",
+    "title": "龙拳",
+    "author": "蓄力猫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-254章",
+    "latestChapter": "第254章 烛火白蜡，一统水路",
+    "excerpt": "大新朝末年，兵灾妖武不断。 西洋命修，东瀛武士，火枪铁船，妖魔乱世。 九河下梢，万国通津。 三教九流共生于此，津门规矩大过王法。 在这兵荒马乱的王朝末年，秦庚觉醒【百业书】，从津门车夫开始，肝出个国术通神。 【车夫】环绕津门，奔走十日，解锁【神行】，耐力无穷，日行千里。 【扎纸】画龙点睛，引蝶来朝，解锁【六道画皮】，披死人皮，偷学武功。 【武师】形意出师，打人挂画，解锁【龙筋虎骨】，龙虎交征，生生",
+    "readUrl": "https://pan.baidu.com/s/1OYWNKf76A8x7IVyukgAGzw?pwd=gtiw",
+    "downloadUrl": "/books/m_cj_龙拳1-254章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_co",
+    "title": "我的修行进度每日结算",
+    "author": "短腿的跳蚤",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-362章",
+    "latestChapter": "第359章 后记，番外",
+    "excerpt": "沈砚穿越成大周王朝的一名书生，科举无成，武道不通，终日在商行中提笔做账勉强糊口。其父身死后，子承父业，投身天牢，成为一名不起眼的狱卒。本以为会如此过一生，没想到脑海中出现一枚金色道果。只要功法入门，即可自动修行，每日清晨便能得到修为反馈。【修行《太祖长拳》三日，初窥武道，气血自生。】【修行《金身决》三月，周身贯通，铜皮铁骨。】【修行《长生诀》三年，气冲玄关，武道通玄。】…………多年之后，他登临九天",
+    "readUrl": "https://pan.baidu.com/s/1hI5FVebX7Ec5QYVWuR-ShA?pwd=gtiw",
+    "downloadUrl": "/books/m_co_我的修行进度每日结算1-362章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_cr",
+    "title": "从十二形拳开始肉身成圣",
+    "author": "海无颜",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-471章",
+    "latestChapter": "第472章 出大事了，左诗与赵天行等人全部失踪！",
+    "excerpt": "乾坤倒转，天地幽暗。妖邪丛生，人间如狱。为了自保，楚凡进入七星帮成了一个杂役……好在他觉醒了“山河社稷图”，修炼任何武功、神通都没有瓶颈，可以不断破限，还能融合功法！【十二形拳】：从金刚铁腕到钢筋铁骨，板肋虬筋，五脏蕴神，金刚不坏，最后成就“十二真形”，肉身成圣！【鬼影幻身步】：从入门肝至圆满之境，不断破限，迈入超凡之境，幻影无数，一步千里！【九重惊雷刀+血魄九刀+七星连珠斩】：三门刀法破限后融合",
+    "readUrl": "https://pan.baidu.com/s/116eKlxUS9xLFTmQl-zXnrw?pwd=gtiw",
+    "downloadUrl": "/books/m_cr_从十二形拳开始肉身成圣1-471章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_du",
+    "title": "我在缸中世界当神王",
+    "author": "兔子的尾巴长不了",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-335章",
+    "latestChapter": "第335章 ：网线",
+    "excerpt": "林格有一个缸中世界，他可以在里面创造一切。、他将沙子撒入进去，变成了群星和山峦。他将水雾喷进去，汇聚成河流和大海。他将冰箱里的食物放进去，食物化为了魔神。最后。他将书架上的书也扔了进去，魔法便出现在了缸中世界。",
+    "readUrl": "https://pan.baidu.com/s/1x3ePhhva0cB8SUOeCvqiSQ?pwd=gtiw",
+    "downloadUrl": "/books/m_du_我在缸中世界当神王1-335章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ei",
+    "title": "权游：我，伊蒙德",
+    "author": "你懂环学吗",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-244章",
+    "latestChapter": "",
+    "excerpt": "穿越成伊蒙德·坦格利安的那一夜。他亲手改写了命运…他知道历史，这场斗殴，自己将失去一只眼睛。他努力试图，想避免它。可当那把匕首落下，失去眼睛的却是外甥。伊蒙德·坦格利安，他是坏种，弑亲者，弑君者，绿党的擎天柱。他也是摄政王，神眼湖游泳冠军，七国全境的守护者…",
+    "readUrl": "https://pan.baidu.com/s/1Jj_89AlRt-ygUPYaxd-l7w?pwd=gtiw",
+    "downloadUrl": "/books/m_ei_权游：我，伊蒙德1-244章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_et",
+    "title": "高武：从武科生到星空大帝",
+    "author": "北风渺渺",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-640章",
+    "latestChapter": "第640章 她怎么会在这儿？",
+    "excerpt": "银河历7000余年，中央银河帝国的武道文明已经繁衍到了一个惊人的高度。此时，帝国的国祚正盛，武运昌隆，秩序军纵横星空，威慑星空万族。而在帝国的统辖之下，一个偏远星域，一颗武道贫瘠的蓝色星球上，陈烈再一次踏上了自己的武道之路……",
+    "readUrl": "https://pan.baidu.com/s/1eGsf3vJbnwLamgXX_mFS8w?pwd=gtiw",
+    "downloadUrl": "/books/m_et_高武：从武科生到星空大帝1-640章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_fd",
+    "title": "金山寺旁的地仙",
+    "author": "非吾真人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-362章",
+    "latestChapter": "第363章 量劫将启",
+    "excerpt": "好消息，此世穿越至豪富之家，父母溺爱，家财万贯；坏消息，此世恰逢神话盛世，佛道高人不多，妖诡层出不穷，神不是好神，仙不是好仙。又是好消息，咱也有金手指，地仙福地随身，神通不多，够用；坏消息，无了！练就福地洞天，身具地仙真身，哪来的坏消息。“天地污垢？大不了打沉这片天地，再创洞天。”眼见金山将被那大妖白素贞与法海秃驴争斗中唤来的海水淹没，李清徐面无表情，一掌一个，平等创飞，如是说道。",
+    "readUrl": "https://pan.baidu.com/s/1K1BCMOOHn7tb-fGigtpTcw?pwd=5j96",
+    "downloadUrl": "/books/m_fd_金山寺旁的地仙1-362章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_fj",
+    "title": "古代末世的文弱书生",
+    "author": "陈词懒调",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-252章",
+    "latestChapter": "",
+    "excerpt": "穿越古代末世诚邀您加入歆州打工集团————————注：无异能，纯架空古代。因为不涉及任何真实历史朝代和人物，又含末世元素，所以没在历史分类，归到了玄幻。",
+    "readUrl": "https://pan.baidu.com/s/1cJxa-eEg9WHX1BbVjA4GTw?pwd=gtiw",
+    "downloadUrl": "/books/m_fj_古代末世的文弱书生1-252章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ga",
+    "title": "万国之国",
+    "author": "九鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-641章",
+    "latestChapter": "",
+    "excerpt": "他曾经只愿成为东征十字军中一个骁勇善战的骑士，鲍德温四世麾下一个忠诚的臣子，只为捍卫圣地与民众安宁，一个仁和的伯国领主……",
+    "readUrl": "https://pan.baidu.com/s/1wCREEvY2HmtvAwhkXzULdQ?pwd=gtiw",
+    "downloadUrl": "/books/m_ga_万国之国1-641章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_gc",
+    "title": "仙府！",
+    "author": "满船轻梦",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-726章",
+    "latestChapter": "",
+    "excerpt": "【种田流】【凡人流】【经营流】计缘穿越修仙世界，虽侥幸成了个修仙者，但却也是落了个给修仙宗门当捕鱼人的命。就这开局，他原以为自己多半只能走上莫欺少年穷，中年穷，老年穷这条路了。可没曾想，竟意外觉醒一块建筑升级面板。【鱼塘lv1：鱼苗生长速度+20%，半灵鱼有一定几率进化成灵鱼】【洞府lv1：墙体自愈，基础避尘结界，夜间灵气浓度+20%】【鸡圈lv1：灵卵一日一产，蕴含微量灵气，可辟谷】【猪圈lv1",
+    "readUrl": "https://pan.baidu.com/s/1Chzj4kNHBYSZUfTsM6MRfA?pwd=5j96",
+    "downloadUrl": "/books/m_gc_仙府！1-726章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_gk",
+    "title": "仙道尽头",
+    "author": "怕辣的红椒",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-538章",
+    "latestChapter": "",
+    "excerpt": "说话的牛，偷衣的我，被迫成亲的仙女。 看着这一切，刚刚穿越过来的江满感觉莫名的熟悉。",
+    "readUrl": "https://pan.baidu.com/s/1AxGi7KI1Ucw2oXVz7A7ddg?pwd=5j96",
+    "downloadUrl": "/books/m_gk_仙道尽头1-538章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_he",
+    "title": "西游：长生从拜师镇元子开始",
+    "author": "贰月拾一",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-215章",
+    "latestChapter": "第215章 青牛虚诈（4.3k）",
+    "excerpt": "李修安一觉醒来，发现自己穿越到了东汉。本想大干一番的他，某天偶然听到了一个消息。说是大汉西部边境有一座五行山。王莽篡汉之时，天降此山，下压着一个神猴，能口吐人言，不怕寒暑，不吃饮食，自有土神监押，教他饥餐铁丸，喝饮铜汁，自昔到今，冻饿不死。听闻此消息的李修安大为震惊，怀疑这是西游世界。为了求证，他亲自去了边境，找到了五行山，看到了猴子。李修安不疑有他，这才惊悉，这不是普通的东汉，而是西游世界。于是",
+    "readUrl": "https://pan.baidu.com/s/1SaVBAlu57W7XK5dYIgI3NA?pwd=5j96",
+    "downloadUrl": "/books/m_he_西游：长生从拜师镇元子开始1-215章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_hk",
+    "title": "唯我道",
+    "author": "路过二次元",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1599章",
+    "latestChapter": "",
+    "excerpt": "善恶正邪？天下大势？末日浩劫？芸芸众生？……世间处处是那无影无形但泾渭分明的束缚。当时代的浪潮强势来袭时，多是身不由己。然，举目望去又顿觉皆是虚妄！！！万般唯我，无分正邪，亦善亦恶，所思所欲即所行所为！！！已完本：《诸界之深渊恶魔》、《为所欲为者》。",
+    "readUrl": "https://pan.baidu.com/s/1pbioY57FvWyQvydw5woP0g?pwd=gtiw",
+    "downloadUrl": "/books/m_hk_唯我道1-1599章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_hn",
+    "title": "重生洪荒：吾为五行老祖",
+    "author": "爱吃肉的小屁孩",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-808章",
+    "latestChapter": "",
+    "excerpt": "盘古开天，洪荒大千。 洪荒的鼎盛时期在巫妖量劫，道祖鸿钧、三清圣人、十二祖巫、西方二圣、女娲伏羲·····，这些大神都有着属于自己的传奇。 那在巫妖量劫前的洪荒，龙汉量劫、凶兽量劫等等，又有何人成道？又有何等惊才之人？ 半部仙书成道果，重生洪荒悟五行。 吴兴重生洪荒五针松，成了日后那没死在凶兽量劫、龙汉量劫，却被鸿钧坑死在道魔之争的五行老祖身上，五行老祖（吴兴）发誓，定当问道求仙，终成无上大道。",
+    "readUrl": "https://pan.baidu.com/s/1WI36uRGoRrEP2wXiE_Dl5w?pwd=5j96",
+    "downloadUrl": "/books/m_hn_重生洪荒：吾为五行老祖1-808章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ig",
+    "title": "高武：从签到苍龙锻体术开始！",
+    "author": "何须天命",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-555章",
+    "latestChapter": "第555章 ：清点收获",
+    "excerpt": "穿越高武纪元，凶兽横行，武道为尊。王霄看着飙升的武大录取线，再看着父亲贴满膏药的后背，陷入了绝望。家境贫寒，资质平庸，连最新的第十套锻体术都买不起。前途，一片灰暗。直到------”高武崛起：签到有礼！“【叮】【成功签到第一天】【获得奖励苍龙锻体术，洗髓丹，血气丸】......当别人还在为第十套锻体术的发力技巧绞尽脑汁时，王霄已开始脚踩祥云，御风而行。当豪门天骄炫耀气血值暴涨0.5时，王霄的修为早",
+    "readUrl": "https://pan.baidu.com/s/1r0G2SXBlYYpTFGIvLZMGUA?pwd=gtiw",
+    "downloadUrl": "/books/m_ig_高武：从签到苍龙锻体术开始！1-555章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_il",
+    "title": "射雕：从镖人开始",
+    "author": "江舟火独",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-625章",
+    "latestChapter": "第624章 射雕：从镖人结束（终章）",
+    "excerpt": "周岩穿越而来，人在射雕，成为镖人。这一年，李莫愁初出茅庐问道红尘。这一年，火工头陀纵横西域啸狂沙。这一年，金刀驸马郭靖杏花烟雨下江南。这一年，桃花仙子黄蓉白马西风走塞上。这一年，铁掌莲花裘千尺嫁了绝情男人公孙止。大理有茶花女何沅君去中原。这一年，霍都，欧阳克、完颜康、裘千仞都想脚踩青云势，弯弓射大雕这几年，周岩曾千里走单骑，自西域送苦慧禅师落叶归根到少林。在终南山护小小龙女解开身份谜。这几年，周岩",
+    "readUrl": "https://pan.baidu.com/s/1FCM6fojRinScpibCAvDcpg?pwd=5j96",
+    "downloadUrl": "/books/m_il_射雕：从镖人开始1-625章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_in",
+    "title": "重生白龙，实在太弱的我只能自律",
+    "author": "爷傲奈我何呃",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1000章",
+    "latestChapter": "第1000章 十二环法术！【无垠之翼】！（大结局）",
+    "excerpt": "霍恩重生了。好消息，重生成了强大的真龙。坏消息，重生成了真龙之耻的白龙。最重要的是，没有龙娘庇护，弱小的白龙雏龙就连路边的狗都能踹上两脚，还有被霜寒巨人抓去当狗养的风险。但好在，霍恩发现白龙也有其独到之处，出生就有过目不忘的记忆力，对于任何事情都有极强的学习能力，只是被低下的智商封印了。从此之后，战技、魔法、炼金……一切的技艺都是霍恩强大的养料，一只传奇的白龙在大地上崛起，舒展开他苍白的双翼，让整",
+    "readUrl": "https://pan.baidu.com/s/1XUCT_Vd1J8bwwGO42oF-LQ?pwd=gtiw",
+    "downloadUrl": "/books/m_in_重生白龙，实在太弱的我只能自律1-1000章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jc",
+    "title": "混在大巫中的人族",
+    "author": "当世人杰",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-405章",
+    "latestChapter": "第403章 镇压元始天尊",
+    "excerpt": "帝苍真是一言难尽，别人穿越都是魂穿，只有他肉身穿越，这也就罢了。 直接来到了洪荒世界的第二量劫元年，妖族未曾统治三界，一百零八位大巫刚刚出世。 四下里一打听，洪荒此时连人族都还没有呢！ 无队伍无组织的他，迫于无奈，只能暂时勉强加入唯一肯收留他的巫族。 什么？ 听说巫族要争霸，还要孕育四亿八千万巫族，永镇洪荒？ 就十二祖巫，外加四亿八千万巫族，那不就是送菜的吗？ 巫族要是没了，我帝苍还能回到人族吗？",
+    "readUrl": "https://pan.baidu.com/s/1ydxuHjkaTHXe0uwbcSyZIQ?pwd=5j96",
+    "downloadUrl": "/books/m_jc_混在大巫中的人族1-405章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jd",
+    "title": "综武：那一夜，黄蓉从天而降",
+    "author": "白日天下",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-505章",
+    "latestChapter": "",
+    "excerpt": "李平穿越到了《笑傲江湖》的世界，看到时间长河被人打爆，无数时间支流中的人化为流星，来到了这个世界。他因此得到了操控时间的能力，并遇到了自己的外置大脑黄蓉，最佳辅助苏樱，开启了自己作死的人生。“我这么强很难接受吗？”“别人不敢练的武功，我来练，别人不能学的武功，我来学，别人用了就死的法门，我用起来像喝水。”“一句话，我练功只走捷径，从来不管捷径有多凶险！”“像你们这样按步就班的修行，拿什么和我斗？”",
+    "readUrl": "https://pan.baidu.com/s/1vN-ftz_FNXB9T4NHJlUyng?pwd=5j96",
+    "downloadUrl": "/books/m_jd_综武：那一夜，黄蓉从天而降1-505章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_je",
+    "title": "长生修仙，与龟同行",
+    "author": "狂奔的乌贼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-925章",
+    "latestChapter": "第925章 喜获至宝，破法重修（求月票，求订阅）",
+    "excerpt": "【凡人流】【伪长生】【苟道修仙】【慢热】陈江河版简介：陈江河穿越到了修仙世界，成为修仙家族中的一名渔农，意外与一只灵龟互换了寿命。不仅多了一只灵宠，寿命还是同等境界修士的三倍。于是，陈江河谨言慎行、忌争忌斗、广结善缘、稳健经营自己的修仙途。时光荏苒，纪元更替，漫长的修仙生涯。陈江河见证了无数仙道至尊、魔道巨子、盖世大妖、邪修天骄，从崛起到落幕，在时间长河中泯灭。唯有玄武真君陈江河与世长存，亘古不灭",
+    "readUrl": "https://pan.baidu.com/s/1ODuN53vHoTwtHMLMwPVrWQ?pwd=5j96",
+    "downloadUrl": "/books/m_je_长生修仙，与龟同行1-925章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jf",
+    "title": "巴塞丽莎的复国日记",
+    "author": "科西嘉14",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1695章",
+    "latestChapter": "",
+    "excerpt": "游历罗马、北欧、神罗，直到新大陆以历史的视角，体验毕达哥拉斯的数、亚里士多德的元素、赫尔墨斯的炼金术，还有托勒密的天球……感受那来自唯一的真神的压迫，还有那群反抗十字教的人们——诺斯替、卡巴拉、以及那群古老的多神信徒……当历史的谎言被逐一揭开，西方那个古老的帝国将如紫凤凰一般浴火重生。而这所有的故事，要从那个不会魔法的无能女王沦为海盗的俘虏开始——“陛下！别傻笑着自言自语了啊！快把你中的撬棍放下！",
+    "readUrl": "https://pan.baidu.com/s/1qDeCQZ4imIesFQauNMBuSg?pwd=gtiw",
+    "downloadUrl": "/books/m_jf_巴塞丽莎的复国日记1-1695章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jq",
+    "title": "六十大寿来系统，儿子被退婚了！",
+    "author": "九月有二",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-983章",
+    "latestChapter": "",
+    "excerpt": "穿越者不开挂跟咸鱼没有多大区别。穿越过来的林玄蹉跎了六十年时光，眼看着一只脚都要踏进棺材了，谁知在六十大寿的时候觉醒了系统！“六十年！六十年！系统你知道我这六十年是怎么过的吗！你知道吗！”“既然系统来了，那么老夫现在要告诉你们，什么叫做莫欺老年穷！”就在林玄系统觉醒的当天，自己那无法修炼的儿子居然还被退婚了？林凡：“三十年河东，三十年河西，莫欺少年穷！”林玄：“我特么要长脑子了。”PS：书名又为《",
+    "readUrl": "https://pan.baidu.com/s/10w0sWEt0pk6DQf-vGIRlaw?pwd=gtiw",
+    "downloadUrl": "/books/m_jq_六十大寿来系统，儿子被退婚了！1-983章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jtqp",
+    "title": "你才修行几年，就说修仙",
+    "author": "错字亦是烦恼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-570章",
+    "latestChapter": "",
+    "excerpt": "当齐飞修行成为仙人的时候，整个修仙界并无来道贺的。“师父，师父，你成仙那么快，怕是古往今来第一人，怎么没有人来道贺。”齐飞：“我不知，大概是羡慕嫉妒恨吧。”“不是的，师父，他们只是觉得你整天说话云里雾里，颠三倒三，不说人话。”齐飞：“那不是颠三倒四，而是辩证思维！我已经说得够简单了！”“师父，修仙有没有简单一点的？”“行知合一，他们既然听不懂，也该看得懂我做什么了！”“师父，他们全门派都被你扬了，",
+    "readUrl": "https://pan.baidu.com/s/1HaZu76trIv3fUKzGPF3ldg?pwd=5j96",
+    "downloadUrl": "/books/m_jtqp_你才修行几年，就说修仙1-570章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_jw",
+    "title": "堂哥修仙，命格成圣",
+    "author": "堂哥要逆袭",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-321章",
+    "latestChapter": "第312章 周天仙府",
+    "excerpt": "何青穿越修仙界，成了炼气家族何氏一族的血脉贵子。他本一心问道求长生，紧紧把握住命格【百尺竿头】给予的一线大道之机。不想他成了族人眼中的废物堂哥。舅舅眼中的他，好高骛远。隔房堂妹眼中的他，自甘堕落。族老眼中的他，逃避责任。...“但，那又如何？只要我成就筑基，家族会以我为荣。我成就金丹，家族为因我壮大。我成就元婴，家族会成晋为仙族！现在，你们统统闭嘴，我要炼丹刷词条了！”",
+    "readUrl": "https://pan.baidu.com/s/1dBPe4tn_Qi8GW66EjFV2ug?pwd=5j96",
+    "downloadUrl": "/books/m_jw_堂哥修仙，命格成圣1-321章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ld",
+    "title": "仙子且慢，我只想斩妖除魔",
+    "author": "见月思迁",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-477章",
+    "latestChapter": "第478章 ：小姨独飞天，观微戏白泽",
+    "excerpt": "书生夜里挑灯，观外狐精痴缠；南疆灵狐擎天，东海老龙沉眠；山中白虎问道，北境古尸封仙。 大乾立国千年，妖魔存世，古碑镇仙。……陆迟一觉醒来，成了浮云观一名道士，体内多了一块神秘残碑，能阅妖生平，随机掉落奖励。 只要斩妖除魔，就能不断变强。 原本只想安静升级，不料蝴蝶振翅，引起江湖波澜。同一时间，大乾长公主，派遣端阳郡主寻找失落已久的潜龙之碑。 …… “仙子且慢，我只想斩妖除魔，无意做国师弄权朝堂，有",
+    "readUrl": "https://pan.baidu.com/s/1GPYo4PJT_CjDUV26GKDizw?pwd=5j96",
+    "downloadUrl": "/books/m_ld_仙子且慢，我只想斩妖除魔1-477章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ly",
+    "title": "费伦法师总是准备充分",
+    "author": "赛博型老牛",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-400章",
+    "latestChapter": "",
+    "excerpt": "任务：剿灭地精部落，救出女骑士艾蕾难度：高规模：城邦级当前成功率：0%基础奖励：2智力属性提示：成功率超过100%，可以获得额外奖励。成功率越高，获得的奖励越丰厚。…………马文看着任务面板，果断拒绝：“别和我说什么博德之门第一美少女，公爵家的千金，洛山达的神选。任务成功率不堆到300%，我是不会出手的。”“在这个传奇多如狗，神选遍地走，到处是阴谋与意外的费伦大陆，行事一定要谨慎。”“什么？你问我为",
+    "readUrl": "https://pan.baidu.com/s/1YCv48fYA4wNntUG1Kzx9qg?pwd=gtiw",
+    "downloadUrl": "/books/m_ly_费伦法师总是准备充分1-400章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_m",
+    "title": "矢车菊魔女",
+    "author": "青空乐章",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-697章",
+    "latestChapter": "第343章 引星学习",
+    "excerpt": "这是为超凡【性相】影响的世界，每个人都拥有独属的【命格卡】和【能力卡】，这些卡牌也因获得的‘性相’之力不同，展现不同的‘效果’和‘特征’-----黄昏云海，大蛇遨游于天际大蛇，背负世界的大蛇七块大陆于蛇背之上起伏，亿万生灵随之于云海飘摇这是为天外异星击碎的世界，亦是无数英雄升起和黯灭的舞台世界的终焉尽头，十八条超凡性相的升阶之途闪耀，无数生灵也为此追逐奔走渴望成为神灵，渴望成为流传世间的传说，依或",
+    "readUrl": "https://pan.baidu.com/s/1vYZ8tutVCdiTGKyZpjO4-A?pwd=gtiw",
+    "downloadUrl": "/books/m_m_矢车菊魔女1-697章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mca",
+    "title": "尘中镜",
+    "author": "敲竹",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-276章",
+    "latestChapter": "",
+    "excerpt": "天地如洪炉，阴阳为炭，人为铜，道为火。有传道如抱薪救火者，终引火自焚，错，错，错。直到顾芳尘一睁眼，穿越到游戏《尘中镜》的世界里，他才终于明白这句话之中的秘密。……那一年，镇北王妃尚且温柔如水，溺子成痴。大郡主冷若冰霜，眼高于顶，千金难求一笑。小郡主娇俏蠢萌，一心英雄少侠，最恨无耻小人。长公主叱咤号军神，女国师翻手覆云雨。而以一无是处、坏得流脓闻名天下的镇北王独子，刚刚被发现实为昔年魔教调包的卑贱",
+    "readUrl": "https://pan.baidu.com/s/1D2mZrUO7MdO7AUbkHmqAyg?pwd=5j96",
+    "downloadUrl": "/books/m_mca_尘中镜1-276章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mco",
+    "title": "人在黄枫谷，机缘情报每日刷新！",
+    "author": "作家Od0B8u",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-394章",
+    "latestChapter": "",
+    "excerpt": "【苟道修仙】+【长生】+【稳健】 陆秋穿越至修仙世界，成为越国黄枫谷一名练气境弟子。 他天赋平庸，服用筑基丹突破失败，本以为长生无望，好在觉醒了【每日情报系统】。 白色情报：练气期修士李文摊位上，藏有一株两百年变异血精。 银色情报：坊市外的枫叶林，最中央的大树底下，有一埋藏的储物袋。 金色情报：不远处的春风小院，三十年前有一符师居住，现已陨落，床底下藏有一份符道传承。 …. 依靠系统每日刷新的机缘",
+    "readUrl": "https://pan.baidu.com/s/1E8whwYs5QarKn_jFOzdhYg?pwd=5j96",
+    "downloadUrl": "/books/m_mco_人在黄枫谷，机缘情报每日刷新！1-394章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_md",
+    "title": "每日结算，我以神通铸长生",
+    "author": "葱香牛肉面",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-320章",
+    "latestChapter": "",
+    "excerpt": "青孚天陆如日当空，照彻十方界域。 九州四海，仙山妙地。 有真仙弘道，有上真传法，有无尽生灵求仙问道。 大浪淘沙，万不存一。 ...... 陈舟穿越而来，成一俗事道观杂役。 觉醒神通，每日结算。 可根据评定不同，获取种种奖励。 【每日结算：评价下中，得精气一缕，服食可增气力、洗疲倦】 【每日结算：评价中下，得月露三滴，洗濯可增智慧、长悟性】 【每日结算：评价上上，得乙木青华，炼化可添寿元、塑根骨】",
+    "readUrl": "https://pan.baidu.com/s/13fiP2U5HxO1tBQtONJbYwA?pwd=5j96",
+    "downloadUrl": "/books/m_md_每日结算，我以神通铸长生1-320章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mfg",
+    "title": "洪荒：背锅成圣，整活证道！",
+    "author": "菩提煮酒",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-477章",
+    "latestChapter": "",
+    "excerpt": "道因时立，理自天开，圣人之道，亦是随世而移。 天道万物，皆在变化，浩渺虚空，寰宇众生，人人都想追求那至高无上的圣人道果。 玄胤穿越洪荒，拜入截教，成为亲传弟子，却发现这个洪荒世界和他想象的不一样。 地仙无中生有，开天辟地。 天仙化身亿万，道与天齐。 真仙虚构概念，炼假成真。 玄仙万法无咎，言出法随。 金仙道合希夷，本性自空，不朽不灭，却也只是个有名字的NPC。 神道太乙执掌一道，神与道同，可称道主",
+    "readUrl": "https://pan.baidu.com/s/1ioccu_t8DD4wfz7HjHHmaQ?pwd=5j96",
+    "downloadUrl": "/books/m_mfg_洪荒：背锅成圣，整活证道！1-477章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mfk",
+    "title": "瞎子捉刀人：开局满级九阳神功",
+    "author": "今日问道",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-346章",
+    "latestChapter": "",
+    "excerpt": "顾陌穿越到武侠世界，成了一个瞎子。 好在他有一个【捉刀人系统】，只要斩杀通缉犯，就可以获得各种武林绝学，且直接满级，开局便是满级九阳神功。 从此，顾陌开启了一条轰轰烈烈的捉刀人之路，探悬案、破浩劫、诛邪魔…… 江湖上，多了一个高深莫测的瞎子。 只要钱到位，天王老子也干废。 【斩杀马贼首领，奖励降龙十八掌】 【斩杀绝世魔头，奖励龙神功】 【斩杀幕后黑手，奖励如来神掌】 我叫顾陌，是个捉刀人，要来趟这",
+    "readUrl": "https://pan.baidu.com/s/11hO7Ubjkb6KJLV0q-X5AKA?pwd=5j96",
+    "downloadUrl": "/books/m_mfk_瞎子捉刀人：开局满级九阳神功1-346章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mfs",
+    "title": "黑西游：冒名星君",
+    "author": "过水看娇",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-696章",
+    "latestChapter": "第698章 ：白雪覆其尸",
+    "excerpt": "无人扶我青云志，我给自己上编制。",
+    "readUrl": "https://pan.baidu.com/s/14_0kS8WfyD352n4ifO0I8A?pwd=5j96",
+    "downloadUrl": "/books/m_mfs_黑西游：冒名星君1-696章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mfv",
+    "title": "太昊金章",
+    "author": "粉嫩的萌新作者",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-581章",
+    "latestChapter": "",
+    "excerpt": "半部地煞剑经，十年磨一剑，一名普普通通的凡人转世重生，获得界外天书传承。 然而环视四顾，强敌林立。 那些正道魁首，魔道巨擘，千载妖灵，万年老鬼，哪个不是天纵奇才，际遇非凡。 这漫漫长生路，他能否走到终点？… 太昊金章普通书友群：763826204太昊金章VIP书友群：136095978。",
+    "readUrl": "https://pan.baidu.com/s/1FN-aoEaGetB59xkZ1SfLvA?pwd=5j96",
+    "downloadUrl": "/books/m_mfv_太昊金章1-581章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mic",
+    "title": "武侠：开局满级九阳神功",
+    "author": "旧伞也遮雨",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-281章",
+    "latestChapter": "第200章 开创万世太平 （大结局）",
+    "excerpt": "李赴穿越武侠世界，成了一个微不足道的小捕快。江湖险恶，风波难测，他这样的小人物，或许明天就会无声无息死在某个匪徒手下，直到他意外获得一本惩凶天书。只要惩奸除恶，就能获得绝世武学！从此，一条捕快的无敌路，在刀光剑影中展开。【惩奸除恶成功，获得奖励：斗转星移！】【惩奸除恶成功，获得奖励：傲寒六诀！】【惩奸除恶成功，获得奖励：如来神掌！】……面对一个个恶霸凶徒，李赴横刀而立，只冷冷一句：“你的事，发了。",
+    "readUrl": "https://pan.baidu.com/s/1RZRaioHwm79Q8aCGsOw5MA?pwd=5j96",
+    "downloadUrl": "/books/m_mic_武侠：开局满级九阳神功1-281章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mij",
+    "title": "从零开始的修仙家族崛起记",
+    "author": "下午见",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-390章",
+    "latestChapter": "",
+    "excerpt": "仙缘界，觅仙缘人向道，欲成仙从前世的结丹期散修，重生为今世的十七岁少年，从岌岌无名的凡间小卒，到俯视众生的陆地神仙，且看一无所有的李清峰如何一步一步规划，从零开始建立修仙家族，走出一条与前世不同的家族之道。（家族修仙，从零开始，非独行侠，主角非太监）",
+    "readUrl": "https://pan.baidu.com/s/1euiS519EwTuTAEt8B7a7EQ?pwd=5j96",
+    "downloadUrl": "/books/m_mij_从零开始的修仙家族崛起记1-390章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mip",
+    "title": "西游：开局拜师菩提祖师",
+    "author": "阿牛要吃菜",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-461章",
+    "latestChapter": "",
+    "excerpt": "文王拉车八百步，定周朝八百年江山。 姜缘于西周之时，大梦一场，恍若隔世，惊觉花非花，雾非雾，我非我。 姜缘四岁之时决心寻道，求个长生，他见双亲俱在，将心暗藏，只道侍奉双亲一世，方寻仙问道。 十六之时，双亲逝世，他毅然决然的遣散下人，一把火烧掉故居，周游寻道。 十九之时，他寻得道人，苦心拜师，不得入门。 二十九时，他成功拜入道人门下。 “敢问师父法名？” “菩提！” 这竟是西游！ 我师父竟是菩提祖师",
+    "readUrl": "https://pan.baidu.com/s/1_lNw2B7BS2bDSyE18pURmQ?pwd=5j96",
+    "downloadUrl": "/books/m_mip_西游：开局拜师菩提祖师1-461章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_miw",
+    "title": "百世修仙：我能重返青春",
+    "author": "慧剑斩情缘",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-452章",
+    "latestChapter": "",
+    "excerpt": "李长青穿越修仙界，意外觉醒天赋《蚕蜕》，每当寿元将尽时，他都可以利用蚕蜕重获新生。第一世，他是权倾天下的凡间帝王，谋划数十载，终是逆天弑仙，夺得修行之法。第二世，他是坊市灵农，一生如履薄冰、战战兢兢。第三世，他是宗门长老，是修仙界小有名气的授徒名师。...........................................................................",
+    "readUrl": "https://pan.baidu.com/s/1rb0ZgBCK1k1o00oWB3RSDQ?pwd=5j96",
+    "downloadUrl": "/books/m_miw_百世修仙：我能重返青春1-452章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mki",
+    "title": "大衍仙族",
+    "author": "醉司命",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-493章",
+    "latestChapter": "第492章 合道之战",
+    "excerpt": "【高定35000的大精品家族修仙文，更新稳定，欢迎试读！】【家族修仙】【群像】【策略经营】【智商在线】加班猝死的牛马沈元意外穿越到浩瀚无垠的异世界，成为安阳县的一名富农。娶妻生子，守着几十亩良田，沈元本以为这一生能这般安逸到老。不曾想却因河中捕鱼捡到的一块白玉龟甲意外获得卜卦推演的能力。卦引机缘问长生。依靠着不断炼化白玉龟甲带来的好处，沈家从一边陲农户，一步步揭开这方大世界的秘密，开启了通往不朽仙",
+    "readUrl": "https://pan.baidu.com/s/1_wAt2jtwFhxXqe1g5YvGIA?pwd=5j96",
+    "downloadUrl": "/books/m_mki_大衍仙族1-493章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mma",
+    "title": "修仙：从阴兵法坛开始",
+    "author": "雪满林中",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1387章",
+    "latestChapter": "第1387章 连年血战",
+    "excerpt": "身有福德铁钱，建立阴兵法坛。修仙成道，一切从此开始！",
+    "readUrl": "https://pan.baidu.com/s/17Cdu6atVUFAWQ6l1wAiiUg?pwd=5j96",
+    "downloadUrl": "/books/m_mma_修仙：从阴兵法坛开始1-1387章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmd",
+    "title": "长生仙途：从解析基础观想法开始",
+    "author": "如仙亲临",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-432章",
+    "latestChapter": "",
+    "excerpt": "【修仙+巫师混搭+掠夺异界…】祝余携带某个小游戏人物的被动能力“真视之眼”转生修仙世界，凭借“真视之眼”解析万物的能力开始掠夺万界的强大之旅。——已有老书高定一万五，《长生仙途：育妖养植求仙》",
+    "readUrl": "https://pan.baidu.com/s/10FFuzdRDSKxEHovBhLpWzA?pwd=5j96",
+    "downloadUrl": "/books/m_mmd_长生仙途：从解析基础观想法开始1-432章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mme",
+    "title": "凡人：我乃魔道祖师爷",
+    "author": "雒城府院君",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-661章",
+    "latestChapter": "",
+    "excerpt": "魁星岛大劫后，穿越者罗宁侥幸未死，发现自己身具暗灵根。 在地底洞府偶得神秘传承，获无上魔功《九窍玄阴决》与混沌至宝饮血钵。 本想低调发育，不料饮血钵催熟的灵植引来窥伺。 当各路修士杀上门来，罗宁默默掏出了饮血钵。 “多谢诸位……助我修行。” 那一刻，他身后浮现的竟是……",
+    "readUrl": "https://pan.baidu.com/s/1A7k62whuJr90el7Tzg5ZVg?pwd=5j96",
+    "downloadUrl": "/books/m_mme_凡人：我乃魔道祖师爷1-661章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmf",
+    "title": "修仙，从傀儡师开始",
+    "author": "黑毛鸟",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-943章",
+    "latestChapter": "",
+    "excerpt": "凡人流，傀儡术，努力，一心向道陆昭穿越到修仙世界，沦落至一个练气三层散修，凭借努力成为傀儡师，开启傀珠，从周家坊市开始，一步一步从散修到宗门，陆昭经历所有。时光荏苒，陆昭发现身前再无一人，从散修到长青真仙。",
+    "readUrl": "https://pan.baidu.com/s/1z1PX_9PPsTa5X-NJEjKD9w?pwd=5j96",
+    "downloadUrl": "/books/m_mmf_修仙，从傀儡师开始1-943章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmk",
+    "title": "斗破：重生古族，开局截胡萧薰儿",
+    "author": "一心求生红孩儿",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-409章",
+    "latestChapter": "第396章 墨家覆灭",
+    "excerpt": "【斗破精品同人】大千世界，浩瀚无垠，无数位面交汇于此。转世斗气大陆，古风尘来到古族，还一不小心俘获了萧薰儿的芳心。他觉醒了饕餮之力，从此走上了吞噬天地万物的道路。嗝~古风尘下意识地舔了舔自己的嘴唇，那里似乎还残留着某个黑色戒指的残渣……有一定二创~~",
+    "readUrl": "https://pan.baidu.com/s/15Ff06A0p5fDl2nLbSyUHCA?pwd=gtiw",
+    "downloadUrl": "/books/m_mmk_斗破：重生古族，开局截胡萧薰儿1-409章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmp",
+    "title": "肝出个大器晚成！",
+    "author": "猪肉200斤",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-779章",
+    "latestChapter": "",
+    "excerpt": "“我好歹也是人皇圣朝的百夫长，享人族气运，修不朽大道。” “为何会有你这种资质凡品的儿子？”人皇圣朝云兽城百夫长，预备先锋军徐枪甲看着自己儿子。 “老爹，你又怎么知道今天的无名之辈，来日会不会名震天下呢？” “你儿子日后必将大器晚成，名响天下！” “狗屁，最基础的气血筑基之法你都修炼不好，跟我说大器晚成？” “乖，去宗门找个媳妇儿回来，多多壮大咱们家族，这才是正事！” 若干年后，人族至高神殿。 “",
+    "readUrl": "https://pan.baidu.com/s/1SsiEyIApKw4Br7cJW8Jx0A?pwd=5j96",
+    "downloadUrl": "/books/m_mmp_肝出个大器晚成！1-779章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmt",
+    "title": "天下无敌！",
+    "author": "乘风御剑",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-727章",
+    "latestChapter": "第727章 未来",
+    "excerpt": "每当我受到迫害、压榨时，我都会感到发自内心的高兴、喜悦，因为，还有人敢迫害我、压榨我，只能证明一个问题，我不够强！还有人，比我更强！我，还不是真正的无敌！我的前方，还有路！这……是何等的令人喜悦口牙。",
+    "readUrl": "https://pan.baidu.com/s/1Fu8jg-JyhJnd9qoMt_lx0Q?pwd=gtiw",
+    "downloadUrl": "/books/m_mmt_天下无敌！1-727章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmy",
+    "title": "隐秘的长生者",
+    "author": "向少年",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-163章",
+    "latestChapter": "第163章 子孙不孝",
+    "excerpt": "“今日天气晴，无事发生。”看似二十来岁的楚浔，翻了翻前几日写的字，几乎完全一样。想了想，他又继续写了两行：“我想起那年夏天的松果村，安秀在衣服里藏了水袋，一边喊着浔哥，一边顺着田埂跑来的样子。”还未等他继续往下写，童子在门外禀报：“老爷，圣灵仙尊想请一道法旨，要报了鸿天仙尊打他一拐的仇。”“几万年前的仇，怎到现在还记得。”楚浔摇头叹气，随手将面前的笔记合上。只见这封面上，赫然写着五个大字：我的长生",
+    "readUrl": "https://pan.baidu.com/s/1JZ8__d32xvCqnjZP7_76mw?pwd=5j96",
+    "downloadUrl": "/books/m_mmy_隐秘的长生者1-163章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mmz",
+    "title": "苟在武道世界成圣",
+    "author": "在水中的纸老虎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-933章",
+    "latestChapter": "第933章 登山（求月票！）",
+    "excerpt": "命格在手，苟道求生！ 陈庆穿越了，却穿进一个武道为尊、人命贱如草的乱世。开局便是哑子湾的贫苦渔家子，父亲被抓徭役杳无音信，孤儿寡母被官府税赋与帮派“龙王香火”层层盘剥，挣扎在饿死的边缘。 天无绝人之路，他脑海中悬着一道【命格：天道酬勤，必有所成】！这意味着任何技艺，对他而言没有资质门槛，没有瓶颈阻隔，只要付出，必有回报！",
+    "readUrl": "https://pan.baidu.com/s/1nv9YD6p-PvpOWPpji3-Azg?pwd=gtiw",
+    "downloadUrl": "/books/m_mmz_苟在武道世界成圣1-933章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_moq",
+    "title": "邪修飞升就是快！",
+    "author": "此间朝天",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-585章",
+    "latestChapter": "第174章 ：在我面前使用剑阵？",
+    "excerpt": "正道哪有邪修好？邪修飞升就是快！ 陈煜一睁眼，人在道宗，身体被魅魔道侣掏空，七日后还将面临考核，考核不过，就会被长老一把抓住，顷刻炼成灵韵！ 幸好此时系统觉醒，只要模拟功法的修炼过程就能获得经验值。 于是在稍微研究一下《引气决》后，陈煜振臂高呼：“谁说阴气不是气？！” 晋升道宗外门弟子，座上长老讲解《化焰决》，陈煜手攥两把辣椒，目光鄙夷：“叽里咕噜说什么呢？” 修炼《敛气法》，提前耗空灵力。 还有",
+    "readUrl": "https://pan.baidu.com/s/11W6lV1XRfZmIZ1A02t-98w?pwd=5j96",
+    "downloadUrl": "/books/m_moq_邪修飞升就是快！1-585章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mor",
+    "title": "重生成慕容复：这次我是主角",
+    "author": "三千年后知谁在",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-569章",
+    "latestChapter": "",
+    "excerpt": "同名同姓，穿越成了天龙八部中的表哥慕容复，面对自身武功尽废，江湖势力蠢蠢欲动的天崩开局，慕容复要怎么破？身为穿越众，到底是选择走主角的路，让主角无路可走，还是另辟蹊径，做回自己？三十年前的纷争，几代人的恩怨情仇，江湖风云，王朝争霸掩盖下的小民血泪。且看慕容复如何从心胸狭隘的最强大怨种蜕变成一代雄主，在乱世的江湖与庙堂里搅弄风云。",
+    "readUrl": "https://pan.baidu.com/s/1Ii2GL2g-ay6Nbr7NEa4q3g?pwd=5j96",
+    "downloadUrl": "/books/m_mor_重生成慕容复：这次我是主角1-569章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mou",
+    "title": "人仙！",
+    "author": "不会飞的笔",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-209章",
+    "latestChapter": "",
+    "excerpt": "天道崩殂，人道大昌！仙从人间来，何必远红尘？世间多不公，以血引雷霆！......道廷佛国南北对峙，泱泱大汉独尊儒术。诸子百家各显其道，借众生之力而登仙！武功已至天下第一的钟武，穿越到这样一个‘以人为本’的修仙世界，成了一国之君。且看他坐玉皇宝殿，执天帝卷册；掌生死，演造化，镇河山！“我钟武要为这人间再开一‘道’，为众生撑起脊梁！”这是一个立教称祖，君临天下的修仙故事......【并非传统气运流或仙",
+    "readUrl": "https://pan.baidu.com/s/1PyMT7hI-drhm20SGE8Ba1w?pwd=5j96",
+    "downloadUrl": "/books/m_mou_人仙！1-209章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mq",
+    "title": "高塔之上！",
+    "author": "风风忙忙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-734章",
+    "latestChapter": "第40章 新队员，方理！",
+    "excerpt": "全民登塔，降临万界！穿越到赛博玄幻世界的吴语刚买到“天灵根芯片”，准备“赛博修仙法力无边”的时候。一座青铜高塔忽然降临，将众生拖入太墟万界！【诡神武界】，白银王朝，万神浊世。【黄昏之城】，永恒黄昏，魔女寂灭。【山海一梦】，太阴呓语，云锁玉池。......降临太墟，全民超凡！机遇与危险同时到来！吴语抬头看向垄断都市的一个个超级公司，决定不装了，摊牌了！混沌无名，启动！“你是大学生，也是触犯天条，坠落",
+    "readUrl": "https://pan.baidu.com/s/1_IG-l3P9xH0EEbc3fVBjZA?pwd=gtiw",
+    "downloadUrl": "/books/m_mq_高塔之上！1-734章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mri",
+    "title": "从奖励上品灵桃开始证道长生",
+    "author": "我爱键盘",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-351章",
+    "latestChapter": "第280章 金蝉脱壳，逃离地元星（凡人篇结束）",
+    "excerpt": "一觉醒来，杨峰穿越到一个四十多岁，修为才练气四层的底层符师身上。 眼看这辈子筑基无望，准备躺平，度过余生，结果不曾想，他竟得到了一个肝经验面板。 而且他发现，只要他将修为、法术、技艺提升到更高境界，便能获得各种天材地宝。 【避尘符绘制经验肝至圆满，奖励一阶上品灵桃，可促进修为快速提升】 【修为突破至练气境后期，奖励筑基丹主药金玉灵芝。】 【三阶法术缩地成寸修至圆满，奖励四阶结婴灵物圣樱果。】 【…",
+    "readUrl": "https://pan.baidu.com/s/1rpwovmhYNZ0lC5VjgQNiXw?pwd=5j96",
+    "downloadUrl": "/books/m_mri_从奖励上品灵桃开始证道长生1-351章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ms",
+    "title": "地仙只想种田",
+    "author": "勤奋胡图图",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-797章",
+    "latestChapter": "第797章 我爹是元婴道主",
+    "excerpt": "林东来自流星坠落之地捡到了一枚神奇的道种，可演化洞天福地，可根扎黄泉，冠顶九霄！更可镇压大地，净化天地灵机！甚至就连叶片上凝聚的露珠，也有无穷妙用！可以加速生长，可以进阶灵药、甚至可以点化灵植为天地灵根！当他人还在如蝗虫一般掠夺天地资源时，林东来却已经开始反哺天地，梳理地脉！只要种田就有功德！咦？这些天地功德怎么如此厚重？哎呀！先天灵宝出世怎么奔着我来啊？原来我早已成为此方天地的亲爹啊！亦是此世地",
+    "readUrl": "https://pan.baidu.com/s/1QvcZwf_n10kS6ywXn8fsuQ?pwd=5j96",
+    "downloadUrl": "/books/m_ms_地仙只想种田1-797章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_msg",
+    "title": "镇龙廷",
+    "author": "鱼儿小小",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-257章",
+    "latestChapter": "",
+    "excerpt": "《演武令》姐妹篇，太极，八卦、形意、八极、咏春、六合、三皇炮锤……看各家武学，与洋枪洋炮血与火的交锋，用血肉之躯，筑出新的长城。PS：作者名下有完本精品小说《演武令》、《都市之国术无双》、《阴阳镜》……",
+    "readUrl": "https://pan.baidu.com/s/1iVBMUEfgi7Jo1kehXsvTGQ?pwd=5j96",
+    "downloadUrl": "/books/m_msg_镇龙廷1-257章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_msm",
+    "title": "洪荒：我帝辛开局献祭人族气运",
+    "author": "慕容复国",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-301章",
+    "latestChapter": "第278章 佛悲神隐三界寂，末法三十三年期",
+    "excerpt": "一觉醒来，成了封神量劫中的天定炮灰——人皇帝辛！时值女娲宫上香，圣人准提正欲出手算计，黑手悄然而至。“凡人也敢反抗圣人？”危急关头，帝辛觉醒宿慧，激活脑海中的大道祭坛，可献祭天地万物，换取诸天万界一切可能，获得万倍返还！圣人不可敌？孤偏要逆天改命！面对圣人逼迫，帝辛毫不犹豫。“既然要我死，那就都别活了！”“献祭——人族气运！”刹那间，洪荒震动，火云洞三皇五帝齐齐睁眼，怒视西方：“准提，尔敢欺我人族",
+    "readUrl": "https://pan.baidu.com/s/1Z60s1om6FpdjuFSGV_3nRQ?pwd=5j96",
+    "downloadUrl": "/books/m_msm_洪荒：我帝辛开局献祭人族气运1-301章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_msp",
+    "title": "问剑华山",
+    "author": "鱼儿小小",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-242章",
+    "latestChapter": "",
+    "excerpt": "江山美人，武林称雄，剑压天下，破碎虚空。主打怀旧，致敬少年时候看过的那些荡气回肠的武侠故事。……PS：作者名下有万订作品《阴阳镜》，大精品《一剑平天下》、《演武令》、《镇龙廷》、《都市之国术无双》，质量保证，欢迎品鉴。",
+    "readUrl": "https://pan.baidu.com/s/1xGQBmGQBEQRI2X-Kn1AC5g?pwd=5j96",
+    "downloadUrl": "/books/m_msp_问剑华山1-242章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mt",
+    "title": "人在封神，观想证道",
+    "author": "最爱吃素",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-462章",
+    "latestChapter": "",
+    "excerpt": "穿越到封神世界，成为赵公明的弟子陈九公，注定要身死道消上封神榜，好在觉醒天赋【观想成道】，只要观想之物完成百分之百，便得到观想武本源属性及化身观想物，陈九公开始一路观想证道。观想昊天满，得到天帝命格！观想封神榜，封神天地神灵！观想六道轮回，掌握轮回，观想太极图圆满，元神化为太极图，勾动天道，镇压诸天观想诛仙剑阵圆满，元神化为诛仙剑阵！观想通天圣人圆满，得到混元大罗金仙道果！.....封神大劫上，陈",
+    "readUrl": "https://pan.baidu.com/s/1hgwM8Pb8V1QdLfBHH3ZOdg?pwd=5j96",
+    "downloadUrl": "/books/m_mt_人在封神，观想证道1-462章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mtc",
+    "title": "我见过龙",
+    "author": "裴不了",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-428章",
+    "latestChapter": "第413章 跑路 【单更】",
+    "excerpt": "省流版简介： 十八岁那年，岳闻见到了一条龙。 从此开启了一场无厘头（划掉）……一场热血沸腾的修仙冒险之旅！ …… 费流版简介： “您是否曾想与家人外出旅行，却被妖兽袭扰？” “您是否一向与人为善，却遇到魇物作祟？” “您是否担心在平静的生活中，处处潜藏着可怕的魔族？” “我叫岳闻，是岳氏修真事务所的主理人，如果您遇到以上困扰，可以随时联系我。” “我们事务所秉持着物美价廉、除恶务尽的理念，力求为您",
+    "readUrl": "https://pan.baidu.com/s/14XkDvG9mYS0KyKy4ag62bA?pwd=5j96",
+    "downloadUrl": "/books/m_mtc_我见过龙1-428章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mti",
+    "title": "万世登仙：从先天气运开始",
+    "author": "都鸽们",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-494章",
+    "latestChapter": "第492章 始祖陨落，无尽之海",
+    "excerpt": "穿越修仙界。 李长青一届凡骨，摸爬滚打数十载，穷尽一生也求不来一丝仙缘。 觅长生，何其难！ 但在他死后，他的金手指好像来了。 …… 【总结你此生过往，你完成成就：小有身家、富甲一方……共计获得成就点：13】 【浮生若梦，万物轮回，生命何尝不能重来】 【下一世即将开启，先天气运商城已解锁，请选择你下一世的天生气运】 【伴生阴傀：一道共生于你的阴傀，天生便可修行鬼修法，100成就解锁】 【吾父元婴：你",
+    "readUrl": "https://pan.baidu.com/s/1uJOd4K_qYCMI4vtX5jeWfw?pwd=5j96",
+    "downloadUrl": "/books/m_mti_万世登仙：从先天气运开始1-494章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mts",
+    "title": "本官娘子就是妖",
+    "author": "登仙长安",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-482章",
+    "latestChapter": "",
+    "excerpt": "“大人，你家娘子是蛇妖！”看着面前眼含杀气的和尚，许仙面不改色地下达两个命令，妖僧诽谤朝廷诰命夫人，打入牢中，金山寺藏污纳垢，即日查封。丹笔一挥，百年古寺，沦为废墟。和尚大怒，试图反抗，然而一身法力却被官府气运无情镇压，被强行押入牢中。许仙站在原地，一脸平淡，区区百年修行妄图撼动我十年寒窗？无需我儿高中状元，我来即可。我家娘子是不是蛇妖，我还不清楚吗？我家还有兰若寺的鬼魂、辛家禅院的狐妖、洞庭湖的",
+    "readUrl": "https://pan.baidu.com/s/187bP6o5iWqZKbWjlVRRvsQ?pwd=5j96",
+    "downloadUrl": "/books/m_mts_本官娘子就是妖1-482章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mw",
+    "title": "序列：八道横行",
+    "author": "国产达闻西",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-600章",
+    "latestChapter": "第600章 灯火压肩（求月票）",
+    "excerpt": "【中式序列文】【老书成绩万均序列大明，品质保证】 地有东南西北，横生八道。 人分五仙五虫，共称十类。 天地人神鬼，鳞毛倮羽介。 神道邪、人道贼、鳞道淫、毛道恶。 地道招兵买马、介道占山为王、羽道偷因窃果、鬼道升棺发财.... 举头三尺有天，愚弄众生。 脚下百丈邪浊，入侵索命。 打打杀杀，为的就是多吃几两气数。 人情往来，所求不过多走几步命途。 行走江湖，逢人第一步，便是要问：“兄弟，你是混哪条道上",
+    "readUrl": "https://pan.baidu.com/s/1z2AezkZxqxEn8IrOxgXCVQ?pwd=gtiw",
+    "downloadUrl": "/books/m_mw_序列：八道横行1-600章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwe",
+    "title": "龙的仪式书",
+    "author": "至旁则正",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-508章",
+    "latestChapter": "第506章 对撞",
+    "excerpt": "（全新体系，设定带感，不谜语人，包爽不刀，作者已有四百万完本，人品绝对有保障，入坑不亏！）这个世界，命运由“律法”织写，神们以“诅咒”量刑，裁定生者的死期。而，当第二十五时钟声将响，间隙深处萌生亵渎，深渊将被世界侵蚀……龙迦的梦中，多出了一本仪式书。在这个本不存在龙族的世界，第一只龙将从龙迦的不谐之梦中孕育、降生，将用龙息回应律法。诸神从未审判，祂们只是加害。人类的律法，只能由人类自己书写。旧世界",
+    "readUrl": "https://pan.baidu.com/s/1U_zR1knnyhHF1Avd5iSUKA?pwd=gtiw",
+    "downloadUrl": "/books/m_mwe_龙的仪式书1-508章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwg",
+    "title": "长生仙路",
+    "author": "九夏忧桑",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1436章",
+    "latestChapter": "",
+    "excerpt": "穿越到修真世界十年，林山终于等来了金手指。他意外发现了自己有强化的能力。无论功法，丹药，法宝，神通，材料统统都能强化.........大梦千秋，今夕何年。不争一世，何以成仙？",
+    "readUrl": "https://pan.baidu.com/s/1kXm-Fi-d65NGjbpEW-5T1Q?pwd=5j96",
+    "downloadUrl": "/books/m_mwg_长生仙路1-1436章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwj",
+    "title": "我修仙后与长寿精灵讲寿命论",
+    "author": "清木弃疾",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-258章",
+    "latestChapter": "第257章 没关系，我教你如何修仙（完结）",
+    "excerpt": "林尔穿越奇幻异世界，加载了修仙面板。哥布林，亡灵，兽人，精灵，巨龙……这个世界充满了各种危机。偶遇一只金发精灵，双方在冒险中建立起了深厚的羁绊，朋友以上，恋人未满。第一幕……芙罗拉：对不起，凡人几十年寿命实在太短暂了，我不能接受你的表白。若干年后。芙罗拉终究还是答应了告白，接受了婚礼：你要永远陪着我哦。一千年后。芙罗拉寿命将至，倒在了大乘期林尔的怀中：相公，没有灵根真的不能修仙吗？本书又名《只要标",
+    "readUrl": "https://pan.baidu.com/s/1MtA4iGePMu1CwY4_B68jeQ?pwd=gtiw",
+    "downloadUrl": "/books/m_mwj_我修仙后与长寿精灵讲寿命论1-258章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwp",
+    "title": "巫师：我有修仙长生系统",
+    "author": "陆鹿一",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-344章",
+    "latestChapter": "第92章 多元宇宙",
+    "excerpt": "神秘、智慧、残忍、血腥，俨然是巫师的代名词。他们的意志笼罩万千位面，是所有生灵眼中不可企及的至高存在。然而巫师并非生来就屹立云端。在曙光战争之后，第一次位面大开拓以惨败告终，巫师文明坠入深渊。就在这片废墟中，一个异世界的灵魂悄然降临。从马夫到男爵，从巫师学徒到本源巫师。自炼气而筑基，自炼虚而合道。十年，百年，千年……时光的长河静静流淌。残存的巫师塔重新点亮辉光，失落的传承被逐一寻回，新的位面航道不",
+    "readUrl": "https://pan.baidu.com/s/1mjCgVutvbXyJxZsvcQYGuA?pwd=gtiw",
+    "downloadUrl": "/books/m_mwp_巫师：我有修仙长生系统1-344章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwq",
+    "title": "晦朔光年",
+    "author": "翔炎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-798章",
+    "latestChapter": "",
+    "excerpt": "李林觉得，要在这种有诡的世界里活下去，并不太难。但单纯地活着，似乎又太没有上进心了。那就定个小目标吧，先做到津城第一。结果还没有做到津城第一呢，就有友人上门来游说。“李坤歌，百姓皆苦，我与友人结社，欲助天下苦难人。”李林用力把门关上了。“月例十金！”李林又把门打开了。",
+    "readUrl": "https://pan.baidu.com/s/1wjArljavwVFaRH_I0Q2FAQ?pwd=gtiw",
+    "downloadUrl": "/books/m_mwq_晦朔光年1-798章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mwx",
+    "title": "刚定亲，退婚逆袭系统来了",
+    "author": "一世成仙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-573章",
+    "latestChapter": "第573章 最后因果了，成神飞升（大结局）",
+    "excerpt": "穿越到武道为尊，妖魔乱世的世界。刚订婚三天，退婚逆袭系统早到二十五年。【四十岁，你还在六品努力，企图攀登青云，入天人。准岳丈林青峰晋升武道二品，封镇南候，震惊天下。未婚妻林思瑶也晋升四品，风华绝代，举世瞩目】【半年后，林家上门退亲，你心有不甘，但也只能认下。是夜，准备离开玉京闯荡一番的你被一位神秘面具高手袭击，丹田破碎，经脉尽断，脑部也受创，失去大部分记忆和武道经验……】【武道被废，你成了全玉京的",
+    "readUrl": "https://pan.baidu.com/s/1sy11qCWCCAwSstaCBmPnuw?pwd=gtiw",
+    "downloadUrl": "/books/m_mwx_刚定亲，退婚逆袭系统来了1-573章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mys",
+    "title": "太筮",
+    "author": "子不言道",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-456章",
+    "latestChapter": "",
+    "excerpt": "六君创世，辟界开天。传三千大道，演仙职道途。其有一道曰阴符，精通术数，擅卜明道。阴者，玄性微照。符者，易通执道。这是一位持“阴符”仙职的少年，观天明道的故事。……本来打算取名《阴符》或者《我在仙界修大道》之类的。但前者被人用了，后者太大众化。索性沿袭《太浩》《太易》风格，叫《太筮》吧。筮，卜筮。这次的主角是一位精通占卜的阳光大男孩。嗯……很阳光！",
+    "readUrl": "https://pan.baidu.com/s/1OFotEv_mZMRa5iiB0G7vyQ?pwd=5j96",
+    "downloadUrl": "/books/m_mys_太筮1-456章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mz",
+    "title": "魔修",
+    "author": "白特慢啊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-287章",
+    "latestChapter": "",
+    "excerpt": "【伏请天书，示我今日可得之机缘。】【山门五十里外，碧水寒潭，有灵鱼一尾，可捕之。】【伏请天书，示我当前最契合之功法。】【庐山剑宗七品《元白衣甲子斩蛟歌》、栖霞山五品《采虹炼霓指玄经》、先天魔宗三品《玄君祝祷大圣真功》……】【伏请天书，示我合道之吉时、吉地、吉物。】【金乌东升，卯时三刻，须弥金顶，筑玄雷法坛，以仙都玉璜护身……】阎浮浩土如日，悬照大千世界。五域两天间，有道统显尘世，有仙佛立太虚，有万",
+    "readUrl": "https://pan.baidu.com/s/1PHUIxoQ1LkVqdDIDTAks3A?pwd=5j96",
+    "downloadUrl": "/books/m_mz_魔修1-287章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mzp",
+    "title": "造化仙族",
+    "author": "江老四",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-544章",
+    "latestChapter": "第544章 游历黑水，销金窟《求月票！》",
+    "excerpt": "【凡人流】【群像】【慢热】【经营】【家族】【从数十本家族文中杀出来的，少有精品家族文之一！】【成绩均订3000多，高订上万！】【日更8k以上，不曾间断！】【每月都有加更！】【已肥可宰杀！】----------------------穿越到乾元大陆，许川伴生一本血脉族谱。作为一代老祖的许川，得三项命格天赋加成。【龙精虎猛】：日日精力充沛，气血旺盛【每日一卦】：问卜每日之吉凶【天道酬勤】：但有所持，必",
+    "readUrl": "https://pan.baidu.com/s/1ViNjy12AexgiTYLGlMg4XA?pwd=5j96",
+    "downloadUrl": "/books/m_mzp_造化仙族1-544章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mzq",
+    "title": "苦境：今天世界毁灭了吗",
+    "author": "海客无心随白鸥",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-857章",
+    "latestChapter": "",
+    "excerpt": "什么叫我今天毁灭世界了吗？今天世界毁灭了吗？受不了了，跟你们爆了！弃天帝，来，这边走。这个世界三天一小灾五天一大难，十年险些被灭世八次，一百年掏空数千甲子底蕴，百姓凌晨固定刷新，和我有什么关系？那是因为我吗？我叫神谿，这是我为了活下去的挣扎。这本《苦境生存指南》送你了。——我叫神谿，我为自己代言。",
+    "readUrl": "https://pan.baidu.com/s/151p-WqyAL-vlYmkciRMtvw?pwd=5j96",
+    "downloadUrl": "/books/m_mzq_苦境：今天世界毁灭了吗1-857章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mzs",
+    "title": "修仙从手搓计算机开始",
+    "author": "木木爱画画",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-239章",
+    "latestChapter": "第20章 成仙（终章）",
+    "excerpt": "方钧穿越修仙世界，却发现自己只是个修炼速度低下的五灵根。不甘平庸的他，决定另辟蹊径，用前世的计算机知识改变命运！他亲手制作计算机，打造修真界最强辅助工具！从此，方钧的修仙之路如同开挂：别人苦修十年，不如他算法运行一天！别人炼丹炸炉，他模拟千次，一次成功！别人战斗靠莽，他数据分析，精准打击！且看方钧如何用计算机辅助修仙，一步步登顶巅峰，成为真仙！———————简介二：原子构成的世界里，为何独有灵气颠",
+    "readUrl": "https://pan.baidu.com/s/1FFD84r9RQHeQsbJeGuo8CQ?pwd=5j96",
+    "downloadUrl": "/books/m_mzs_修仙从手搓计算机开始1-239章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mzv",
+    "title": "混在末日，独自成仙",
+    "author": "言归正传",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-661章",
+    "latestChapter": "第657章 并非终点·完",
+    "excerpt": "【科幻末日背景+独自修仙主角，非无脑爽文】这是一个支离破碎的世界，人类文明在刃兽灾变后的星球上苟延残喘，地下堡垒中的文明火焰正时隐时现，太空中的人类精英酝酿着反攻刃兽的终极计划，人类的前路却有些星光黯淡……“所以说。”某位苦修一百二十五年结果渡劫失败一缕残魂来到这个‘古怪’世界的大乘期高手仰天长叹：“这关贫道屁事啊。”————————【PS：找老书点作者名，不一一介绍了，坑品有保证。新读者群有空了",
+    "readUrl": "https://pan.baidu.com/s/1a9X3E3WfPnv_LPSixSQZ6g?pwd=5j96",
+    "downloadUrl": "/books/m_mzv_混在末日，独自成仙1-661章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_mzy",
+    "title": "地仙只想种田",
+    "author": "忽悠啊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-915章",
+    "latestChapter": "第915章 洞渊碧波五德真水（补更）",
+    "excerpt": "林东来自流星坠落之地捡到了一枚神奇的道种，可演化洞天福地，可根扎黄泉，冠顶九霄！更可镇压大地，净化天地灵机！甚至就连叶片上凝聚的露珠，也有无穷妙用！可以加速生长，可以进阶灵药、甚至可以点化灵植为天地灵根！当他人还在如蝗虫一般掠夺天地资源时，林东来却已经开始反哺天地，梳理地脉！只要种田就有功德！咦？这些天地功德怎么如此厚重？哎呀！先天灵宝出世怎么奔着我来啊？原来我早已成为此方天地的亲爹啊！亦是此世地",
+    "readUrl": "https://pan.baidu.com/s/1FXWYSCC12NjO-qCfs_TRhA?pwd=5j96",
+    "downloadUrl": "/books/m_mzy_地仙只想种田1-915章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_nb",
+    "title": "洪荒：卷出一个混元大罗",
+    "author": "蔬菜炸丸子",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-313章",
+    "latestChapter": "第312章 大结局",
+    "excerpt": "白玄穿越洪荒，得盘古大神恩惠，和孕育了地火水风四把芭蕉扇的芭蕉树融为一体，成为与伏羲，女娲，红云，镇元子一般的顶尖先天神圣，然跟脚好却不一定能证道，洪荒的圣人皆有定数，成圣不可能，就只能走一条不同的路，为了超脱，为了日后能不受拘束逍遥自在，白玄开始卷了起来，卷修行，卷神通，卷法宝......卷着卷着他发现自己竟与大道肩并肩，这下谁都不能妨碍他享受了。",
+    "readUrl": "https://pan.baidu.com/s/1GuaM2zmxTgjKXb8WfgT6yg?pwd=5j96",
+    "downloadUrl": "/books/m_nb_洪荒：卷出一个混元大罗1-313章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ns",
+    "title": "洪荒：刚成太阳神，加入聊天群！",
+    "author": "人间正道事沧桑",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-636章",
+    "latestChapter": "第202章 恭迎天帝！（全书完）",
+    "excerpt": "穿越至洪荒，落于太阳星，取缔了原本的帝俊和太一，成为了太阳星唯一的大日金乌。帝夋。凝【天帝】道果，势要当那统御洪荒的天帝。可帝夋很慌。在洪荒里面当皇帝，不要命辣？前后道祖鸿钧设立玄门，后有六圣统御天地，更有诸多大神通者，岂会久居于人之下。哪怕想要求得逍遥，也得粉碎道果，自毁天命。所幸。在烦恼之际，却是加入了【太阳神聊天群】。诸多世界的太阳神互帮互助，帝夋更是以诸多群员世界提供气运。在洪荒，合纵连横",
+    "readUrl": "https://pan.baidu.com/s/1eOvV9cKP7-FGhEkkDRNHzQ?pwd=5j96",
+    "downloadUrl": "/books/m_ns_洪荒：刚成太阳神，加入聊天群！1-636章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_nv",
+    "title": "从武林门派到长生仙门",
+    "author": "任我笑",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-761章",
+    "latestChapter": "第761章 应运而起",
+    "excerpt": "“从今日起，你便是清霄门门主！”师父留下这句话后，就抛弃李清秋与师弟、师妹们下山，独自寻仙去。也就是这一日，李清秋开启道统传承，他可以通过道统面板查看弟子的忠诚度、资质、命格，当清霄门的发展每上一个台阶时，他还能复制门中弟子的命格。从武林起势，于红尘中修仙。江湖草莽如过江之鲫，快意恩仇，庙堂权贵苦求仙道，草菅人命，在动荡岁月里，李清秋带领清霄门一步步往上爬，超脱世俗。诸天修仙界，道统林立，万千道门",
+    "readUrl": "https://pan.baidu.com/s/1fnowUujA7xcLtWspWLQSuw?pwd=5j96",
+    "downloadUrl": "/books/m_nv_从武林门派到长生仙门1-761章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_nz",
+    "title": "从边军开始肝成武皇",
+    "author": "我妖无敌2",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-369章",
+    "latestChapter": "",
+    "excerpt": "一朝穿越，获得熟练度系统，但被家族所弃，为堂兄顶罪而发配边疆。从《破锋八式》到《三皇镇世刀》从《锋矢阵》到《万仙阵》从《金钟罩》到《八荒龙象身》......江湖，朝堂，人心叵测，各族争锋，诡谲危险，我自一力破之，打出一片天地，以八尺之躯登临绝顶。",
+    "readUrl": "https://pan.baidu.com/s/1FxTH9REWLbk3WQMyXxS_HQ?pwd=gtiw",
+    "downloadUrl": "/books/m_nz_从边军开始肝成武皇1-369章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_oj",
+    "title": "每日一门神通大成",
+    "author": "努力吃鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2200章",
+    "latestChapter": "",
+    "excerpt": "修炼难，难于上青天。【极山呼吸法简化中..简化成功...极山呼吸法→呼吸!】陈斐深吸了一口气。【极山呼吸法经验值+1。】【极山呼吸法圆满！】陈斐：“……”",
+    "readUrl": "https://pan.baidu.com/s/1kHK4aY6RgDkPx7DJTVX-dA?pwd=gtiw",
+    "downloadUrl": "/books/m_oj_每日一门神通大成1-2200章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_op",
+    "title": "在霍格沃茨转悠的日子",
+    "author": "榴莲只吃皮",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1197章",
+    "latestChapter": "第1147章 能不能采访一下",
+    "excerpt": "“孩子，你准备要去霍格沃茨念书了，我教你三个在学校常用的魔法吧。”“是哪三个呢？”“漂浮咒、投掷咒、阿瓦达啃大瓜……”",
+    "readUrl": "https://pan.baidu.com/s/1L8YR-VpoLNhIEGF3OXm1jw?pwd=gtiw",
+    "downloadUrl": "/books/m_op_在霍格沃茨转悠的日子1-1197章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_oq",
+    "title": "我在西游做神仙",
+    "author": "憨憨道人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-788章",
+    "latestChapter": "",
+    "excerpt": "羽衣执笏，玉诏唱名凌霄殿。金映天阁，兜率宫中炼金丹。灵山庄严，雷音寺里观宝莲。大道高远，逍遥三界乐无边。这是一个金手指化形成人，穿越到西游世界，游戏人间的故事。",
+    "readUrl": "https://pan.baidu.com/s/1arGLtNaKkcUztVJLs87Pkg?pwd=5j96",
+    "downloadUrl": "/books/m_oq_我在西游做神仙1-788章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ox",
+    "title": "凡人修仙，从种葫芦开始",
+    "author": "顿笔生锋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-670章",
+    "latestChapter": "第670章 飞升仙界（大结局）",
+    "excerpt": "何畏因穿越到凡人修仙传的世界中，成为越国黑煞教的外围成员。 一想到自己所在的魔教是被主角韩立带着师兄弟剿灭的魔教，何畏因便辗转难眠。 好在前世捡到的葫芦籽随自己穿越而来。 只要寻找灵脉，种下这葫芦籽，便可结出七个造化葫芦。 造化葫芦可以复制灵脉附近的宝物，并加以强化。 何畏因在越国皇宫的灵脉中，种下葫芦籽，直接得到《煞妖功》的进阶功法《惊蛰煞妖变》。 在灵兽山的灵脉中，种下葫芦籽，得到上品灵石。",
+    "readUrl": "https://pan.baidu.com/s/1mgEnviGV0TYttV_GInieaA?pwd=5j96",
+    "downloadUrl": "/books/m_ox_凡人修仙，从种葫芦开始1-670章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ph",
+    "title": "野夫提刀录",
+    "author": "大脑被掏空",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-662章",
+    "latestChapter": "",
+    "excerpt": "日出扶桑一丈高，人间万事细如毛。野夫怒见不平处，磨损胸中万古刀！这世上，神通流传，载祀绵邈，衔珠吐烛之怪，闻见以之衒惑，视万龄如旦暮，促累劫于寸阴。光怪陆离，精彩绝伦的世界中，有野夫提刀，行万里路，万里皆太平！（已有四百万字完本，放心追读，传统，古典，无系统。）（请多些耐心，给好故事一点时间）",
+    "readUrl": "https://pan.baidu.com/s/1PdgvxLkZQnM1_TM9Sfknwg?pwd=5j96",
+    "downloadUrl": "/books/m_ph_野夫提刀录1-662章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_pn",
+    "title": "我才是徒弟们的随身老爷爷？",
+    "author": "凶残的酒葫芦",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-492章",
+    "latestChapter": "",
+    "excerpt": "穿越但带错金手指了怎么办？好消息：穿越了！还带着修仙大礼包和基建金手指穿越的！坏消息：穿的是武道修真世界！灵气浓度低得让人痛不欲生！好在张承道的修炼不受灵气浓度的影响，很快就小有所成，就是感受着逐年上升的灵气浓度，他面露迷茫：说好的武道修真，怎么忽然就灵气复苏了？还好有一群爱徒可以依靠，就是这群徒弟个个手拿主角模板，人设还一个比一个俗套……“我大徒弟叫常平安，被人毁了本命剑、断了真气脉，还是个烂好",
+    "readUrl": "https://pan.baidu.com/s/1m1aGteaB8dd9JtgmnDrK5w?pwd=5j96",
+    "downloadUrl": "/books/m_pn_我才是徒弟们的随身老爷爷？1-492章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_pr",
+    "title": "同时穿越：在武侠诸天成为反派！",
+    "author": "天命东皇太一",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-303章",
+    "latestChapter": "第303章 又见逍遥！",
+    "excerpt": "天生邪恶的林动也赶了时髦，同时穿越诸天。鹿鼎记里，他是郑克塽。门前落尽六朝雪，孤剑愿守大明天。“我堂堂国姓爷子孙，怎能被康熙的弄臣羞辱，与其苟且偷生，不如驱除鞑虏，恢复中华！”收天地会，降沐王府，吞神龙教，趁三藩之乱，诛灭清妖，再造华夏。笑傲里，他是林平之。“割还是不割，这是一个问题.....”学九剑，练吸星，与美人抚琴，共谱笑傲江湖。倚天里，他是宋青书。“什么，已经杀了莫声谷，这下只能一条道走到",
+    "readUrl": "https://pan.baidu.com/s/1orAnY92HJBWp5OoxgSXX-A?pwd=5j96",
+    "downloadUrl": "/books/m_pr_同时穿越：在武侠诸天成为反派！1-303章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_pt",
+    "title": "帝皇在上",
+    "author": "滚不开",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-860章",
+    "latestChapter": "第860章 罗德的赞助，拔地而起的世界树",
+    "excerpt": "罗德穿越剑与魔法异世界。成为奥尔德林伯爵次子。这个世界异族林立，高地的蛮族、御兽的荒原人，甚至还有精灵、矮人、兽人和巨龙！在历经文明更迭的大陆中，危险与机遇并存！罗德从蛮族环伺的海港小镇分封起家。他激活游戏插件。养成自身、获得能力、检视万物！同时开启多重小地图视野。地图模式：矿藏、遗迹手到擒来，英雄和宝物也尽入彀中。俯瞰模式：“长弓方阵向后退两百步！山地步兵立阵！”若干年之后。当大陆臣服，罗德放眼",
+    "readUrl": "https://pan.baidu.com/s/1ZPVRgRiBNve7xtktgQX8mA?pwd=gtiw",
+    "downloadUrl": "/books/m_pt_帝皇在上1-860章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_py",
+    "title": "蜀山玄阴教主",
+    "author": "蓬国公",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-762章",
+    "latestChapter": "",
+    "excerpt": "主角在七月半鬼节，血月之夜，在工作岗位上骂骂咧咧的猝死，穿越到了蜀山世界，被长眉真人镇压在莽苍山下，怨气爆棚的妖尸谷辰身上！",
+    "readUrl": "https://pan.baidu.com/s/1OYBRBfdsiXpSWgSc7XONYg?pwd=5j96",
+    "downloadUrl": "/books/m_py_蜀山玄阴教主1-762章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_qg",
+    "title": "大赵斩夜使",
+    "author": "绿豆饼好好吃",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-717章",
+    "latestChapter": "第719章 掌控血魔",
+    "excerpt": "大赵为了应付黑夜侵蚀，设立恩学政策，以修士镇守各地。张乾走出道鸣院，来到镇守之地，于道场潜修。在阴阳颠倒的天地间，寻觅逍遥长生。",
+    "readUrl": "https://pan.baidu.com/s/12cKKT9RWGHZShFu0sblaoA?pwd=5j96",
+    "downloadUrl": "/books/m_qg_大赵斩夜使1-717章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ql",
+    "title": "入侵神话：从教书先生开始",
+    "author": "小黑帽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1497章",
+    "latestChapter": "第39章 这才对嘛",
+    "excerpt": "天地失序，仙神无踪，轮回崩塌，妖魔乱世，人心沉沦如鬼域。 ”嗯.......” ”没救了，一把火烧了吧。“ 格格不入的书生拿起筇杖开始行走天下。 第一步，踏破祝家的朱门。（已有400多万字完本作品，本书非历史文，有仙魔妖怪的架空世界。）",
+    "readUrl": "https://pan.baidu.com/s/1i7xzIn6NZOx0W6lEssrNMA?pwd=5j96",
+    "downloadUrl": "/books/m_ql_入侵神话：从教书先生开始1-1497章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_r",
+    "title": "降龙",
+    "author": "糖醋于",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-411章",
+    "latestChapter": "",
+    "excerpt": "降妖伏魔可得造化神通。 王慎凡人之躯却要斩那水下蛟龙。 幸有一部《降妖册》，可斩妖伏魔夺造化、觉神通。 从【怪力】到【挟山超海】， 从【通幽】到【起死回生】， 从【挪移】到【潜渊缩地】 …… 多年后，王慎回首望去，恶龙岂止一条，诸位真修大能缘何战战兢兢？ 中二版：“我要宰一条龙，做一桌宴席，用龙角和龙筋做一把弹弓，打那仙皇、佛陀家玻璃。”粉丝群：971622783",
+    "readUrl": "https://pan.baidu.com/s/1VyNN089yIhwHjjjx69itqQ?pwd=5j96",
+    "downloadUrl": "/books/m_r_降龙1-411章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ra",
+    "title": "原来我才是妖魔啊",
+    "author": "极品豆芽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-426章",
+    "latestChapter": "第426章 幼时的道女",
+    "excerpt": "作为一名朝廷底层鹰犬，姜暮对于自己的职业生涯规划很简单，白天出门斩妖除魔刷功绩，争取平步青云入朝堂。晚上回家抱老婆，争取生个大胖小子。可斩着斩着，他忽然发现了不对劲——大爷的，原来我才是妖魔啊。更离谱的是，家里捡来的媳妇，竟然是皇后。——本书又名：《斩妖斩到最后，我才是妖魔》《皇后真不是我媳妇啊》……豆芽出品，必属精品！",
+    "readUrl": "https://pan.baidu.com/s/1hYW5UsC6N4OgAoZogKW2pQ?pwd=5j96",
+    "downloadUrl": "/books/m_ra_原来我才是妖魔啊1-426章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_rl",
+    "title": "狗头人的巫师日志",
+    "author": "立寸山",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1083章",
+    "latestChapter": "",
+    "excerpt": "鲁格闷闷不乐。他发现自己最近有点掉毛。但那不重要。超凡世界的大门正向他敞开。他要成为强大的巫师，然后让自己长满鳞片，就像那恼人的令人恐惧的二十八爪钻地龙一样。他闲暇之余也时常做梦，梦到自己不再狗头狗脸，而是变回那个清爽的人类。他也常想着，让自己快秃毛的额头，钻出属于高等恶魔种的那种细长扭曲的弯角。但那并不比长出鳞片简单多少。那传说中的巨龙和强大的恶魔种，在成年后会拥有一个天然人类形态，是的，一个巨",
+    "readUrl": "https://pan.baidu.com/s/1hNKgxzCGtITGP2IYUqP5Xw?pwd=gtiw",
+    "downloadUrl": "/books/m_rl_狗头人的巫师日志1-1083章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ru",
+    "title": "洪荒：重生一气仙，稳健修行",
+    "author": "混元妖圣",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-493章",
+    "latestChapter": "第544章 明入天庭暗留路，北冥妖符系两端",
+    "excerpt": "穿越洪荒，竟成那骷髅山白骨洞中，跟脚浅薄的一气仙。 他知道，唯有稳健，方是长生真谛。 从此，世间再无煞气冲霄的一气仙，唯有潜心悟道的清净主。 他以骷髅山为根基，布先天大阵锁绝天机，种清心灵根洗涤煞气，炼护道至宝以待风云。 任你阐截相争，巫妖喋血，我自高坐洞府，闭关、修行、积功德。 直到封神劫起，漫天仙神杀至癫狂，才骇然发现—— 那不沾因果的骷髅山上，不知何时已立起一座功德金轮。 宝光之下，一位道人",
+    "readUrl": "https://pan.baidu.com/s/1gnX2X4nqdqTbdqAubYMhPQ?pwd=5j96",
+    "downloadUrl": "/books/m_ru_洪荒：重生一气仙，稳健修行1-493章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_rz",
+    "title": "我在修仙界大器晚成",
+    "author": "黑心师尊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1415章",
+    "latestChapter": "",
+    "excerpt": "山河易变，世间沧桑。卫图穿越仙侠世界，觉醒【大器晚成】命格。【命格：大器晚成。】【属性：坚韧不拔，必有所成。】看到这个命格，被磨平棱角的卫图心中终于燃起了希望，但他也不知道自己是否能够以草芥之身成仙作祖。所能做的。只有把握当下，珍惜眼前的老婆孩子热炕头。（已有三本精品，《我重写了家族历史》、《修仙：我能在诸天轮回》、《从白鹿原开始的诸天》）",
+    "readUrl": "https://pan.baidu.com/s/1e_6n_o_RdQNQNRaPqnV0mg?pwd=5j96",
+    "downloadUrl": "/books/m_rz_我在修仙界大器晚成1-1415章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_saq",
+    "title": "我，全民公敌",
+    "author": "大贤至圣先师",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-207章",
+    "latestChapter": "",
+    "excerpt": "外道敕命，无上真诠。轮转止息，超脱尘缘。无始真解，映照幽绵。斩断轮回，永住真天。说人话！“这一次，把凌霄宝殿烧成灰。”……本书又名《修真界有自己的强尼银手》",
+    "readUrl": "https://pan.baidu.com/s/1Xn21mtp51R2y7WYTuSlGAw?pwd=5j96",
+    "downloadUrl": "/books/m_saq_我，全民公敌1-207章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sbd",
+    "title": "道种修仙，从斩仙葫芦开始",
+    "author": "道叨叨",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-345章",
+    "latestChapter": "第353章 大结局（完）",
+    "excerpt": "周青一朝穿越，来到一仙佛林立，妖魔横行的世界。周青知道，若想好好活下去，唯有修行一途。随他一同穿越过来的赤金葫芦便是他修行成仙路上最大的依仗。法术神通，呼吸坐卧尽数化作技能，熟练度加持之下，只要努力便有收获！而且随着技能的熟练度圆满，技能还会衍生出道种，给予周青诸般神通天赋。牛魔大力道种、斩身灭肉道种、五色五行食气道种、十方古今吞天道种！“何方妖道！竟然无故屠灭一城之人！”“在下周青，太乙仙宗弟子",
+    "readUrl": "https://pan.baidu.com/s/1Gqqp7tQjccirUDDy2p_23Q?pwd=5j96",
+    "downloadUrl": "/books/m_sbd_道种修仙，从斩仙葫芦开始1-345章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sbj",
+    "title": "元始金章",
+    "author": "雾外江山",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-797章",
+    "latestChapter": "",
+    "excerpt": "修仙文明传承万万年，日新月异，革故鼎新，宗门如林，强者如蚁。修士有奇遇，宗门有死战，天地有灵物，大道有浩劫！修道中有至高传元始金章，太上金篆，如来金经，引领天下。修者洛舟，有宿慧前世，天威罚恶，至此踏上仙途，得元始金章，潜修，游历，顿悟，守念，苦战，渡劫，万胜，九径成仙！",
+    "readUrl": "https://pan.baidu.com/s/15pEYDjQgaK4JFERhOWCGyA?pwd=5j96",
+    "downloadUrl": "/books/m_sbj_元始金章1-797章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sbp",
+    "title": "西游之我是沙和尚",
+    "author": "爱作梦的懒虫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-509章",
+    "latestChapter": "",
+    "excerpt": "穿越西游，人在流沙河。姜宸即不想受百剑穿心之刑，也不想沦为后世以食人为生的沙僧。所以，他选择治理流沙河，化恶水为灵水，变沙漠为沃土，积累无量功德，一步步统御五湖四海，成就水帝至尊。 简单来说，这是一个现代人穿越西游，以治理流沙河为起点，从一介罪人，一步步成长为河神、水帝，并四处斩妖除魔的故事。",
+    "readUrl": "https://pan.baidu.com/s/1YRDTg0N_l3Qr7K7_bX73IA?pwd=5j96",
+    "downloadUrl": "/books/m_sbp_西游之我是沙和尚1-509章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sbs",
+    "title": "剑道余烬",
+    "author": "会摔跤的熊猫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1171章",
+    "latestChapter": "第238章 喜宴",
+    "excerpt": "“剑修，可以站着死，不可跪着生！” 谢玄衣坠入北海，却在【不死泉】的浇灌之下，意外迎来了第二次人生。 沉疴已去，新火重燃。 一点余烬，可以燎原。 妖女，剑仙，佛子……群魔乱舞，大潮将至，又是一个黄金盛世！ 前世身体孱弱，这一世便以金色元气炼体，成就琉璃金刚骨！ 当年三百飞剑，尽数折断，那便炼化一整座剑气洞天！ “符箓，阵纹，道术，我都只会那么一点——” 谢玄衣独坐大阵之中，昔日长剑，横摆膝前。 “",
+    "readUrl": "https://pan.baidu.com/s/1kexplgn2X7N776tCMATHNA?pwd=5j96",
+    "downloadUrl": "/books/m_sbs_剑道余烬1-1171章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sbz",
+    "title": "壶中仙",
+    "author": "枕上言",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-545章",
+    "latestChapter": "第543章 ：归墟之劫即将起",
+    "excerpt": "穿成壶中仙，十万年后才能从壶里出去。 好不容易弄了个神职化身，可以透透气，还是个神庭底层小神，天天给人许愿扶贫。 “壶天之外，你叫我壶中仙，说我是壶中残魂缚灵成道，我不挑你的理。” “进了我壶中天，不得叫我一声壶天玉阙无上弥罗玄清大帝？” 一寸乾坤里，逍遥壶中仙。 林清玄种灵根，开法会，建坊市，万千生灵入我壶中。 待外界修士尽数入了我壶中天，这天帝到底是你还是我？",
+    "readUrl": "https://pan.baidu.com/s/1qQ7RcVkvE9WUuR4Mn_xpsw?pwd=5j96",
+    "downloadUrl": "/books/m_sbz_壶中仙1-545章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_scd",
+    "title": "凡人，开局复制掌天瓶",
+    "author": "山岳真人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-598章",
+    "latestChapter": "第598章 再开杀戒的绝世凶魔",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/16rXopqpbjSvazYE1KUkYoA?pwd=5j96",
+    "downloadUrl": "/books/m_scd_凡人，开局复制掌天瓶1-598章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_scn",
+    "title": "拳之道！龙蛇起陆",
+    "author": "云水丹心",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-569章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1p_LtaQAUTOWYZult1UBomw?pwd=5j96",
+    "downloadUrl": "/books/m_scn_拳之道！龙蛇起陆1-569章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_scs",
+    "title": "你也不想秘密满朝皆知吧",
+    "author": "十万菜团",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-622章",
+    "latestChapter": "",
+    "excerpt": "【轻权谋+剧情流+多红颜+情报金手指+幕后黑手】 景平元月，人间出了件大事。 大周将领赵氏黄袍加身，政变夺权，登基称帝，改国号为“颂”，誓要开辟新气象。唯有一件苦恼，前朝小皇帝始终下落不明。 李明夷穿越而来，成为藏在民间，被天下海捕的前朝天子。更发现这个世界有点熟悉，酷似通关过的古风游戏。 于是他怀揣无数情报，昂首挺胸，走向大颂朝堂。 “朕来到这个世界，可不是为了当逃犯的。” …… 新朝公主昭庆近",
+    "readUrl": "https://pan.baidu.com/s/1nXFBLsAYiW1sicYZktJOdw?pwd=gtiw",
+    "downloadUrl": "/books/m_scs_你也不想秘密满朝皆知吧1-622章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_scw",
+    "title": "黑神话：钟鬼",
+    "author": "蒙面怪客",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-424章",
+    "latestChapter": "第44章 沈苍梧",
+    "excerpt": "世上何尝有鬼？妖魔皆从心生。他，豹头环眼，铁面虬鬓。他，杀鬼升级、吃鬼变强。这里有妖魔鬼怪，这里有神通法术，这里还有等待点亮的城隍庙。这里是黑神话。但他不是钟馗，他是钟鬼！",
+    "readUrl": "https://pan.baidu.com/s/1GPcoRqdCvI6t7d1ICeypTw?pwd=5j96",
+    "downloadUrl": "/books/m_scw_黑神话：钟鬼1-424章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sdc",
+    "title": "苟在修仙界吞噬成圣",
+    "author": "喵郡王",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-455章",
+    "latestChapter": "第451章 断桥",
+    "excerpt": "凡人流，苟道流。已改编成千万播放爆款动漫。已有五千均大精品百万字老书，可放心阅读。本书主角已达元婴，可以开宰！我每次解剖完妖兽尸体，都把自己三天饿上九顿，接着学习年迈老人走上100遍，直到自己瘦的像一个快要老死的凡人，才敢再次出门。可就在我以为自己伪装的天衣无缝时，一旁的老队长看了我几眼，老陈头，你枯木逢春了？已读过作品【凡人修仙传】",
+    "readUrl": "https://pan.baidu.com/s/1_yX9MoSw4BGQHKAMOs7Wyw?pwd=5j96",
+    "downloadUrl": "/books/m_sdc_苟在修仙界吞噬成圣1-455章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sds",
+    "title": "家族修仙：先打下一个位面当基业",
+    "author": "执笔鸽纸",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-256章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1kD_C5V2kbjXeG-7aVWFHLA?pwd=5j96",
+    "downloadUrl": "/books/m_sds_家族修仙：先打下一个位面当基业1-256章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_seb",
+    "title": "无限神职",
+    "author": "忘记穿马甲",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-463章",
+    "latestChapter": "第398章 ：终成",
+    "excerpt": "沈河穿越到了一个职业者的世界，在这里只要持之以恒的做某件事情，就可以生成相关的职业，获得各种各样的天赋与无限进阶的可能。从【格斗】开始，成为拳碎星河的【宇宙武神】从【穿越】开始，成为统御诸天的【万道之主】从【打坐】开始，成为超脱三界的【大罗金仙】在这基本路线之外，还有各种分支路线，可以造就各种分支职业，融合职业，稀有职业。沈河穿越而来，开启特殊职业穿越者，获得了穿越诸天与无限就职的能力……简而言之",
+    "readUrl": "https://pan.baidu.com/s/10IrSOY_6koanKUt8kUEVYw?pwd=5j96",
+    "downloadUrl": "/books/m_seb_无限神职1-463章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sef",
+    "title": "她们的修仙赢学",
+    "author": "许帆",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-391章",
+    "latestChapter": "第390章 紫云观记事",
+    "excerpt": "“有件事情我想不明白，你帮我分析一下。” “大人请讲。” “那几个女人不是我的阶下囚就是我的手下败将，还要被我压榨功法神通，为什么她们每天还笑的出来？” “大人，这个……我冒昧问一下她们住在哪里？” “我家，阶下囚怎么能让她们跑了。” “那几位平时的吃穿用度？” “这点开销我还是负担的起的。” “那大人是否对道有所研究？” “这个嘛……偶尔，毕竟相辅又相成，对修行大有裨益，对了我也很好奇……” “",
+    "readUrl": "https://pan.baidu.com/s/1grtunycK7LnnFx4VaIhhHQ?pwd=5j96",
+    "downloadUrl": "/books/m_sef_她们的修仙赢学1-391章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sen",
+    "title": "醉仙葫",
+    "author": "盛世周公",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2505章",
+    "latestChapter": "",
+    "excerpt": "小道士青阳从小被江湖奇人松鹤老道收养，跟着师父浪迹江湖，后师徒二人被仙师逼迫进入密地探宝，无意中激发师门宝物醉仙葫，师父冒死为徒儿盗取开脉丹与长生诀，青阳从此踏上修仙道路！ 凡人流小说，希望大家多多支持！",
+    "readUrl": "https://pan.baidu.com/s/17GyAIrve9r5kgtMPe9IOLA?pwd=5j96",
+    "downloadUrl": "/books/m_sen_醉仙葫1-2505章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sfl",
+    "title": "工业克苏鲁不相信魔法",
+    "author": "绫虚神",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-681章",
+    "latestChapter": "",
+    "excerpt": "【伪DND+航海+种田+工业革命】魔法是什么？假设一个物质世界真实存在魔力，它的构成要素到底是什么？在这个世界，剑与魔法依然占据主流，但钢铁与蒸汽也已展露出它的威能。变革带来的矛盾让诸多国家征战不休，地理大发现更是让这种争斗从陆地扩展到了海洋。众神殿的诸神端坐云端，控制着凡人所能达到的高度。在这个风起云涌的大时代里，苏文穿越成了一艘远洋商船上的船奴。更糟糕的是，他醒来时正因偷窃罪名，被凶神恶煞的水",
+    "readUrl": "https://pan.baidu.com/s/1ldkZ3-8ltVX05NZXj6f2Ew?pwd=gtiw",
+    "downloadUrl": "/books/m_sfl_工业克苏鲁不相信魔法1-681章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sft",
+    "title": "甲子登仙",
+    "author": "温酒食咸鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-385章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/19diSqtNm4CW2Lfl1J3YAIg?pwd=5j96",
+    "downloadUrl": "/books/m_sft_甲子登仙1-385章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sfv",
+    "title": "家族修仙：从孔雀血脉开始",
+    "author": "晨沧",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-933章",
+    "latestChapter": "",
+    "excerpt": "真灵世界，血脉修仙，真灵为尊。一品真灵家族金乌帝家，金乌血脉化成大日横空，普照十方。二品真灵家族太阴玉兔玉家，玉兔血脉化成太阴，月华洒落，恩泽万民。青龙、白虎、朱雀、玄武，血脉化成四象星宿，镇守四方。三品至九品真灵家族，血脉化成群星，镇压在上。这是一个众多真灵家族掌控的世界。孔文宣带着‘五色神光’传承降生在一个有着孔雀血脉的家族之中，他要做的第一步就是将家族孔雀血脉推上真灵之位，化成星辰镶嵌在星空",
+    "readUrl": "https://pan.baidu.com/s/1r7N8eZBxGmY06o-h4J0Tkw?pwd=5j96",
+    "downloadUrl": "/books/m_sfv_家族修仙：从孔雀血脉开始1-933章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sgb",
+    "title": "道君，从蓬莱筑基开始",
+    "author": "临渊今天一定更",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1532章",
+    "latestChapter": "第275章 天河赤霄，头名碰撞",
+    "excerpt": "风起山河境，劫动九霄天。江生降生山河大界，入道宗蓬莱，八岁许道、四载识文、六载春秋已天道筑基，恰逢大劫将起，风云汇聚。会四方天骄，斩魍魉鬼神，踏上长生之路，道君已在脚下。是曰：许道蓬莱阁，称尊上清天。PS：无系统，凡人流，没有老爷爷金手指",
+    "readUrl": "https://pan.baidu.com/s/15PnOiB0tg4rC6-TJ7S06Mw?pwd=gtiw",
+    "downloadUrl": "/books/m_sgb_道君，从蓬莱筑基开始1-1532章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sgi",
+    "title": "山河稷",
+    "author": "姬叉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-789章",
+    "latestChapter": "",
+    "excerpt": "且夫天地为炉兮，造化为工；阴阳为炭兮，万物为铜。——终有一天，要让这祭炼世界的炉火，换成属于我的火焰。——稷，祀也，社而稷之。",
+    "readUrl": "https://pan.baidu.com/s/14Tyf5jZw-3o_2hem8MCroA?pwd=5j96",
+    "downloadUrl": "/books/m_sgi_山河稷1-789章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sgq",
+    "title": "西游之斩业真君",
+    "author": "蓝色纱窗",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-823章",
+    "latestChapter": "",
+    "excerpt": "站在你面前的是：镇元大仙关门弟子，败华光，擒三妖，锁五圣千秋降魔披星斗，一生靖厄枕戈矛的护国显佑威灵镇海昭应广惠王、降魔元帅、泗州大圣三元玄冥正法都总管水界都统正法靖魔天尊斩业真君【无封神、无洪荒、无阴谋论】",
+    "readUrl": "https://pan.baidu.com/s/1aGoM3UXJ-EQQ08P1KYbjKg?pwd=gtiw",
+    "downloadUrl": "/books/m_sgq_西游之斩业真君1-823章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_shr",
+    "title": "道友托孤：从养成妖女开始长生",
+    "author": "咸鱼不是猫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-312章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/10YjRjLAKbkh7pcr3QBpyWw?pwd=5j96",
+    "downloadUrl": "/books/m_shr_道友托孤：从养成妖女开始长生1-312章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_shv",
+    "title": "从仙宗真传到无上道主",
+    "author": "乎乎大睡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-342章",
+    "latestChapter": "第343章 一切始终 无尽宇宙（大结局）",
+    "excerpt": "煌煌仙道，再世为人；仙宗大派，已是真传。采外药以内炼，观天地而悟道，畅享四时之利，兼纳五行之精。日月流转，道心不移，于无穷变数中得证永恒，成就万劫不磨的无上道主！关键词：高起点、天才流、杀伐果断",
+    "readUrl": "https://pan.baidu.com/s/1gHOXJPXCp_1hhmPN3S6C7w?pwd=5j96",
+    "downloadUrl": "/books/m_shv_从仙宗真传到无上道主1-342章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sii",
+    "title": "苟出一个武道天家",
+    "author": "我爱吃鸡枞",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-462章",
+    "latestChapter": "第462章 侠心",
+    "excerpt": "陈立穿越到小地主身上，觉醒家族武道系统。子嗣武道精进，反哺家族，系统奖励寿元、秘药、丹方等等。陈立从种地开始，步步为营，积攒银两，开枝散叶、培养子嗣。苟出一线生机，搏出一片天地。时光轮转，万年后，再回首，陈立发现，自己的家族已然成为亘古不变、与世长存的武道天家。",
+    "readUrl": "https://pan.baidu.com/s/1jr9q7pMkpUCG_w5TLX0yJw?pwd=gtiw",
+    "downloadUrl": "/books/m_sii_苟出一个武道天家1-462章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sil",
+    "title": "长生武道：我有一只金蝉分身",
+    "author": "滚远",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1302章",
+    "latestChapter": "第1305章",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/19Ivx_krlDvB3qxe63bzVAg?pwd=gtiw",
+    "downloadUrl": "/books/m_sil_长生武道：我有一只金蝉分身1-1302章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sio",
+    "title": "综武：从锦衣卫校尉开始",
+    "author": "他曾是少年",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-888章",
+    "latestChapter": "第887章 躁动的一夜",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1uXL8v2Saq_Vg8wEdfgNaJQ?pwd=5j96",
+    "downloadUrl": "/books/m_sio_综武：从锦衣卫校尉开始1-888章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sip",
+    "title": "摄政妖妃的赤胆忠臣",
+    "author": "点子大王",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-637章",
+    "latestChapter": "第637章 一品你也敢打（4k）",
+    "excerpt": "一觉醒来，何书墨成了玄幻王朝的杂鱼反派。不但声名狼藉，而且即将被抄家问斩。四处碰壁，自救无门。走投无路之下，只好投入女反派的怀抱。“妖妃？什么妖妃？”“贵妃娘娘是臣心中唯一的太阳！”自此开始。楚国少了一位无名小官。离国多了一位开国重臣。……楚历671年，厉贵妃肃清朝野，正式称帝，改国号为“离”。保皇派史官如实记录了全过程：《邪恶妖妃和她的无耻逆党试图垂死挣扎》《奸臣佞贼的卑鄙手段简直毫无底线》《妖",
+    "readUrl": "https://pan.baidu.com/s/1NpHbV1eXyEs8vV99vUXRSw?pwd=5j96",
+    "downloadUrl": "/books/m_sip_摄政妖妃的赤胆忠臣1-637章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_siz",
+    "title": "贫道略通拳脚",
+    "author": "九月当归",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2060章",
+    "latestChapter": "",
+    "excerpt": "穿越到乾国北封郡魏县，成为青云观最后一名道士。这一脉的道术有些难练，李言初只想打坐炼丹，早日修仙成功。可道观中除了一头黑驴，没有余财。要恰饭的李言初，只好戴上指虎，拿起杀猪刀，替人做法事驱邪。“小道士，你这玩意对我不起作用。”鬼魂冷笑。下一刻，鬼魂灰飞烟灭！“我这可是雷击木做的，泡过黑狗血的。”李言初发现，斩杀鬼魂，可以获取功德，通过敕封提升万物品质！多年后，李言初路过一个怨气冲天的偏僻山村，这是",
+    "readUrl": "https://pan.baidu.com/s/1p6DaT7Ed_4rtExg6Knq9Lg?pwd=5j96",
+    "downloadUrl": "/books/m_siz_贫道略通拳脚1-2060章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sja",
+    "title": "谁能书阁下，白首太玄经",
+    "author": "接卡口",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-246章",
+    "latestChapter": "",
+    "excerpt": "朱雀天翔！神君降世！这就是四圣降临的故事，之前白虎星君已经降临，这番论但朱雀了。",
+    "readUrl": "https://pan.baidu.com/s/1R53oaOOT5c8jiU8CqtcI2Q?pwd=5j96",
+    "downloadUrl": "/books/m_sja_谁能书阁下，白首太玄经1-246章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sje",
+    "title": "你越信我越真",
+    "author": "万里万雪",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-504章",
+    "latestChapter": "第425章 哈啊？！（3k）",
+    "excerpt": "灵气复苏在即，大争之世将启，古老的神祗们意图重铸天庭，上古的大能们执棋岁月，旧日诡异蠢蠢欲动。杜鸢提前闯入了这个看似太平盛世，实则诡谲难测的凶险世界。不过...“我说众生皆是未来佛，见我如见菩提树，你信吗？”若信——那菩提触目，为何不拜？“我说一气化三清，我即是道，道即是我，你信吗？”若信——那大道当头，为何不跪！“我说吾心即天理，见我如见浩然正气，你信吗？”若信——那天理至此，为何不尊？....",
+    "readUrl": "https://pan.baidu.com/s/1Q1aCC2fALQNpPRBUJmUIyQ?pwd=5j96",
+    "downloadUrl": "/books/m_sje_你越信我越真1-504章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sjf",
+    "title": "老祖，时代变了",
+    "author": "阿玖未",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-917章",
+    "latestChapter": "第914章 最后",
+    "excerpt": "前面的剑修！你超速了！请靠边停下，配合调查，出示你的御剑许可证！",
+    "readUrl": "https://pan.baidu.com/s/1RCeKPQO_rEWRpM7vm-ssOQ?pwd=5j96",
+    "downloadUrl": "/books/m_sjf_老祖，时代变了1-917章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sjl",
+    "title": "凡人：从红尘仙归来的韩立",
+    "author": "写书新手别喷",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-423章",
+    "latestChapter": "",
+    "excerpt": "二愣子做了一个梦。 梦里，他因缘巧合，踏上了修行之路，开苦海、铸道宫、炼四极、化脊柱为大龙、极尽一跃登仙台……一路崛起，败尽同阶之敌。 东荒神体、天妖体、圣体、混沌体……一个个传说中的强横体质尽数匍匐在他的脚下，这一世，韩立杀到无人敢称尊，最终，他证道大帝，一道压万道，举世茫茫，找不到对手，独立人道之巅。 光阴似箭，岁月如梭，他在滚滚红尘中熬炼，亲眼目睹一个个故人离去，两鬓斑白，风烛残年，于油尽灯",
+    "readUrl": "https://pan.baidu.com/s/1vWxqm4KwkwBoIFsqBHMBCw?pwd=5j96",
+    "downloadUrl": "/books/m_sjl_凡人：从红尘仙归来的韩立1-423章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sjw",
+    "title": "吟游诗人又幻想了",
+    "author": "请叫我鱼右",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-524章",
+    "latestChapter": "第520章 奖励与纯粹（4k求追订）",
+    "excerpt": "【记录故事，获得奖励；声名远扬，更多奖励】穿越到剑与魔法世界的唐奇，发现只要在【日志】上记录真实的故事，提升自己的【知名度】，就能获得法术、专长、道具、战技……从而变得更强。“道理我都懂，可你这写的都是什么！？《品鉴指南：关于我和那些异种族娘》？《矮人格斗法与膝盖保护指导》？《母龙的产后护理》？”“有什么问题吗？我只是在书写真实的历史而已。”多年后，世界纪录者、真相挖掘机、异种族鉴赏家、矮人公敌，",
+    "readUrl": "https://pan.baidu.com/s/1uwwl4f_bVfJRrPQ68-DniA?pwd=gtiw",
+    "downloadUrl": "/books/m_sjw_吟游诗人又幻想了1-524章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_skh",
+    "title": "苦境：赠礼万倍反还",
+    "author": "沭本归源",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-639章",
+    "latestChapter": "第639章 尘莲会 （二）",
+    "excerpt": "一觉醒来，成为“九州一精兵”九州一剑知的不该存在的便宜儿子，叶尘。本来他是拒绝的。谁让这里是号称“苦境大舞台，有胆你就来”的BOSS坟场。别的世界，徒弟与师父出去，死得可能是师父，而在苦境，死得肯定是年轻的那一个。好在一同来的有系统，赠礼结缘赚反馈。赠礼梦泽百兽筑基法，获得三十倍反馈，奖励道经赠礼兵甲武经生字卷，获得百倍反馈，奖励九字秘卷赠礼浩日长虹，获得千倍反馈，奖励诛仙四剑。 百器煅形，千丹赋",
+    "readUrl": "https://pan.baidu.com/s/1VF7OuZBVVAGK_Ss3Yao6EQ?pwd=5j96",
+    "downloadUrl": "/books/m_skh_苦境：赠礼万倍反还1-639章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_skj",
+    "title": "公若不弃，愿拜为义父",
+    "author": "辣酱热干面",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2412章",
+    "latestChapter": "第2390章 东华的请求",
+    "excerpt": "封神、西游为背景的洪荒世界，仙狐志怪传奇。",
+    "readUrl": "https://pan.baidu.com/s/1sTMaRL5VGTVxcy0qm9TFjg?pwd=5j96",
+    "downloadUrl": "/books/m_skj_公若不弃，愿拜为义父1-2412章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_skp",
+    "title": "神话降临现实，我在仙界留过学",
+    "author": "巴山一叶秋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-261章",
+    "latestChapter": "第261章 奇怪的笑声，规则体系的怪异！",
+    "excerpt": "本书原名：《穿梭两界，我有一尾阴阳鱼！》（叠个甲，本故事纯属虚构，没有任何现实影射！）现实世界，灵气复苏，诡域入侵，旧日传说将临，人类世界数千年从未出现的的大变局！此时，顾青书识海内有了一尾神奇的阴阳鱼！他能通过它前往一个修仙大世界，不仅如此，阴阳鱼还隐藏着神奇能量，能让丹药变异，功法进化，法器变强！两个世界，来回穿梭，资源互补。故事就此展开……应该颇为有趣，",
+    "readUrl": "https://pan.baidu.com/s/1I_JU888jZJgRbAED4QZ-Yw?pwd=gtiw",
+    "downloadUrl": "/books/m_skp_神话降临现实，我在仙界留过学1-261章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_skx",
+    "title": "凡人：我靠悟性修仙",
+    "author": "橘猫虎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-467章",
+    "latestChapter": "第466章 韩立现身",
+    "excerpt": "【穿越-凡人-无系统-非无敌文-高才情-慢节奏】岳铭重生凡人世界，成为一名散修，为求仙问道，历尽艰辛加入仙门！然并无顶尖资质，又无强大背景，更无逆天机缘！但凭借着坚定的求道之心，谨慎的行事风格，合理利用一切手段，辅以超高的才情，强大的悟性，推演功法，自创神通，艰难求道！继青元子、大衍神君之后，以惊才之资，纵横修仙界！",
+    "readUrl": "https://pan.baidu.com/s/1bn1sPsZPWEMOgKy0hy44jA?pwd=5j96",
+    "downloadUrl": "/books/m_skx_凡人：我靠悟性修仙1-467章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_skz",
+    "title": "西门仙族",
+    "author": "道心长青",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1595章",
+    "latestChapter": "第1650章 青州林家",
+    "excerpt": "认主空间至宝，获得巨大机缘，西门长青一步步从幼稚走向成熟，从弱小走向强大，逐步领悟修仙界残酷真相。【弱者会被欺凌，强者便是天道】为了族人不被欺凌，为了不让悲剧重演，为了家族的伟大复兴，他带领族人拓展家族产业，培养四艺人才，广开商铺，多种仙草、多猎妖兽，勇闯海外，勇探秘境，结交盟友，打击宿敌……数千年后，西门家强势踏入仙族之列。",
+    "readUrl": "https://pan.baidu.com/s/1I34u9LjdxNJSuiN5PJLbnA?pwd=5j96",
+    "downloadUrl": "/books/m_skz_西门仙族1-1595章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sl",
+    "title": "大燕武圣：从八极拳开始",
+    "author": "下一秒过火",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-412章",
+    "latestChapter": "第412章 神选大会",
+    "excerpt": "赵峰撞了大运，魂魄却撞进了一个贫苦猎户的败家子身体里，面对饥寒交迫的家人，代替自己服徭役而失踪的大哥。还有这风雨飘摇的武道乱世。天崩开局的他发现体内有熟练度面板，这意味着任何武艺对他没有资质和瓶颈阻碍，只要付出，必有所成！他习箭术，入武馆，从乡野中的无名小卒一步步踏上武道巅峰。 悠长岁月之后，大燕史书记载：昔有赵圣，起于微末，弓指苍穹，拳镇八荒，护佑天下苍生！",
+    "readUrl": "https://pan.baidu.com/s/1a15fJENiLef0aRssyMehiA?pwd=gtiw",
+    "downloadUrl": "/books/m_sl_大燕武圣：从八极拳开始1-412章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sld",
+    "title": "凡人：天南第一法修",
+    "author": "观月楼主",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-518章",
+    "latestChapter": "",
+    "excerpt": "穿越成黄枫谷传功弟子吴风，凭借五行法术上的独到天赋，能否成为万人景仰的吴天尊！不管什么样的法术神通，都能一学即会，一通百通！甚至能举一反三，自创神通。韩立：“吴师兄，我也练了三转重元功，法力怎么不如你？”吴风：“因为我练的是九转重元功啊！多年以后。韩立：吴师兄，我这百脉炼宝诀还有许多不明之处，求师兄指点！韩立：吴师兄，我这五脏锻元功……韩立：我这……………………本书又名：《凡人之天南炼气士》、《我",
+    "readUrl": "https://pan.baidu.com/s/1Z-3KgjZr-o3xA-zTwvHtUQ?pwd=5j96",
+    "downloadUrl": "/books/m_sld_凡人：天南第一法修1-518章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_slf",
+    "title": "魔师！",
+    "author": "金丹摘除手术",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-147章",
+    "latestChapter": "",
+    "excerpt": "十岁学法，八年筑基，磋磨五年，一十二载游历，终成紫府，超脱凡形。一个以开辟紫府为滥觞的魔修故事。……我要这九天十地，有情众生，皆俯首赞拜，共尊我为——魔师！",
+    "readUrl": "https://pan.baidu.com/s/1DVSDMLMGEnPtNCMHdpwKPg?pwd=5j96",
+    "downloadUrl": "/books/m_slf_魔师！1-147章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_slm",
+    "title": "在温瑞安书中，从执掌家门开始！",
+    "author": "苹果派里的招财猫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-292章",
+    "latestChapter": "",
+    "excerpt": "正如“武（妩）备志”所言的...我缺乏的不是闭门造车的勤练，而是刀光剑影、你死我活的感悟，还有老老实实走拯救佳人于危难之捷径的决心...快马轻刀夜江湖之事，乃我抛却书外残身、来此书中世界之夙愿，自是不必多提。至于拯救佳人于危难之际嘛...这根本就不是问题，谁不知道温瑞安的书里，是各种绝色佳人的地狱啊...虽然不太可能全都救下，但在先知先觉的条件之下，救个绝大部分问题应该不大。条条大路皆通罗马，人生",
+    "readUrl": "https://pan.baidu.com/s/1hKlW6F_yEBl2B86w-s5mdg?pwd=5j96",
+    "downloadUrl": "/books/m_slm_在温瑞安书中，从执掌家门开始！1-292章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_smg",
+    "title": "西游大悍匪",
+    "author": "白菜官",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-329章",
+    "latestChapter": "",
+    "excerpt": "江枫自幼在寺庙长大，有一次为了防止小香客生虫牙，他大发慈悲，吃掉了小香客手里的糖葫芦后，他发现自己只要“慈悲为怀”，就能获得法术、法力等奖励。从此，他就在“慈悲为怀”的道路上勇猛精进。直到有一天，观音菩萨化身成一个老和尚，问他：“隋三藏，你为何还不去西天取经？”江枫：“西天抢经是吧，那我就大发慈悲，走一趟灵山！”西游路上，从此有了个五庄观里压AK，一心洗劫雷音寺的悍匪……",
+    "readUrl": "https://pan.baidu.com/s/1s6rv3Ct1dFfxR9ns4Px9uw?pwd=5j96",
+    "downloadUrl": "/books/m_smg_西游大悍匪1-329章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_smh",
+    "title": "共生面板，我在修仙界种田长生",
+    "author": "桂花红茶叶蛋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-482章",
+    "latestChapter": "",
+    "excerpt": "【修仙+种田+日常+资源充沛世界观】 穿越到了修仙界的李叶本以为自己要面临修炼之路举步维艰的困境，却没想到这个世界的资源丰富到难以想象。 有大能修士调节坊市物价，故意放出各种修炼资源和机缘供养低阶修士，让每一位修士都能走修仙之路。 此外，他还获得了五色的绑定面板，能够将灵兽和灵植进行绑定，绑定的双方能够分享彼此的特殊性，发生变异。 通过这种方式，他能得到灵植和灵兽的小礼物，获得灵气、进化法术，获得",
+    "readUrl": "https://pan.baidu.com/s/1H0eee-ez7rGTN8vQT6dhQg?pwd=5j96",
+    "downloadUrl": "/books/m_smh_共生面板，我在修仙界种田长生1-482章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_smr",
+    "title": "长生修仙：从薅妖兽天赋开始",
+    "author": "廿三声",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-507章",
+    "latestChapter": "第507章 【中游金丹】，寿元暴涨！四阶灵土，宋地危局！",
+    "excerpt": "【凡人流】【异兽流】【偏种田】【苟道经营】【首订不足两百，写到精品，高订过万，越后越精彩】再睁开眼，林长珩降临危险的修仙界，宗门林立、世家割据，邪魔横行、妖兽乱世。他只能步步为营，挣扎前行，好在意外发现，竟有一尊元鼎随之而来！只要获取妖兽精血，就可培育宝种、加持自身！掠夺天赋、衍化神通！提升灵根、塑造灵体！杂品豢兽、山泽精怪、蛮荒异种、旧墟凶裔、上古遗种……都属妖兽！鲲鹏夔牛、天龙真凤、白泽霸下、",
+    "readUrl": "https://pan.baidu.com/s/12gWw0ZINqhbuXNpJ0OLLfw?pwd=5j96",
+    "downloadUrl": "/books/m_smr_长生修仙：从薅妖兽天赋开始1-507章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_smu",
+    "title": "凡人：开局拜师青易居士",
+    "author": "快乐的木子",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-701章",
+    "latestChapter": "第701章 福祸难料",
+    "excerpt": "一次偶然，李不凡穿越到凡人世界，成为乱星海南鹤岛青易居士门人，同时觉醒签到系统。看李不凡如何从乱星海开始，纵横修仙界！",
+    "readUrl": "https://pan.baidu.com/s/1hnSdENvpAmj9IF-LQHOXuA?pwd=5j96",
+    "downloadUrl": "/books/m_smu_凡人：开局拜师青易居士1-701章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_smw",
+    "title": "玄鉴仙族",
+    "author": "季越人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1613章",
+    "latestChapter": "第72章 古法秘法",
+    "excerpt": "陆江仙熬夜猝死，残魂却附在了一面满是裂痕的青灰色铜镜上，飘落到了浩瀚无垠的修仙世界。 凶险难测的大黎山，眉尺河旁小小的村落，一个小家族拾到了这枚镜子，于是传仙道授仙法，开启波澜壮阔的新时代。 (家族修仙，不圣母，种田，无系统，群像文)",
+    "readUrl": "https://pan.baidu.com/s/1mU5a2TtJIZ8cRkl3jT9Upg?pwd=5j96",
+    "downloadUrl": "/books/m_smw_玄鉴仙族1-1613章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_snf",
+    "title": "大宋为王十三年，方知是天龙",
+    "author": "幽燕倦客",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-608章",
+    "latestChapter": "第608章 永恒（大结局）",
+    "excerpt": "穿越大宋神宗第八子，哲宗皇帝的弟弟，赵倜有点烦。此刻距离五路伐夏已经过去十二年，距离太皇太后高滔滔薨世不足一载。七年之后哲宗宾天，向太后力主端王继承大位，就是后来的道君皇帝徽宗。还有二十七年梁山贼寇揭竿而起。还有二十八年方腊明教举事江南。还有三十三年女真金兵南下。还有三十四年东京城破，二帝北狩不返，同行宗室死伤无数。前路危机重重，赵倜苦心谋划。是陈桥兵变，还是烛影斧声？是假造金匮之盟，还是待女真南",
+    "readUrl": "https://pan.baidu.com/s/1P41C4ma840fWcm5S8QLzFA?pwd=5j96",
+    "downloadUrl": "/books/m_snf_大宋为王十三年，方知是天龙1-608章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sns",
+    "title": "幽冥画皮卷",
+    "author": "沁纸花青",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-553章",
+    "latestChapter": "",
+    "excerpt": "实体书已出版。实体书名《无相》，起点、京东等平台均有销售。-----------------------------一般来说，李无相会在每半年或者五千里的时候对自己进行一次小保养。主要项目是表皮养护，内脏翻新，根据实际情况看看要不要添加油脂体液。画皮的时候要注意用料，否则遇到气候恶劣的极端情况，会爆皮或者有小裂纹。翻新内脏的时候还是习惯用竹纸，虽然已经欺师灭祖了，但主打一个怀旧不忘本。岁岁添补，修",
+    "readUrl": "https://pan.baidu.com/s/1xgA_PdfkCukhuCVkDlsb9A?pwd=5j96",
+    "downloadUrl": "/books/m_sns_幽冥画皮卷1-553章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sof",
+    "title": "入劫封神，开局司掌风雷三灾",
+    "author": "原来是花基啊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-339章",
+    "latestChapter": "第339章 ：儒道五境界，初见孔夫子！",
+    "excerpt": "观天之道，执天之行！ 见之者昌，施行于天！ 辛环穿越洪荒世界，秉持混元四象宝鉴化生，正巧撞见神仙杀劫，经过苦心谋划，得以蟒雀吞龙，吞没了先天雷劫本源之力。 自此，洪荒世界少了一位雷震子，阐教当中又多了一位司掌风雷三灾的有道之士！ 凭借先知先觉的优势，辛环巧施算计，掠夺洪荒无数机遇，踏上了一条超脱之路。 （机巧算计，蟒雀吞龙，弱者逆袭。）",
+    "readUrl": "https://pan.baidu.com/s/1DsdH1cCy4csNaaO7U7bFDA?pwd=5j96",
+    "downloadUrl": "/books/m_sof_入劫封神，开局司掌风雷三灾1-339章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_soj",
+    "title": "人在战锤，是中古圣吉列斯",
+    "author": "龙帝神选",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-391章",
+    "latestChapter": "",
+    "excerpt": "穿越了，是战锤世界。我的上司是一个金光闪闪的大只佬。通过某种方式，他人会变成我的血脉子嗣。这些人会随着时间推移越来越像我。他们有血渴。偏好的涂装是红色。和混沌四神对立。还有关键词第二帝国皇帝。那么我是？我知道了，是圣吉列斯！(中古战锤文，并非40k，已有百万字作品放心入)",
+    "readUrl": "https://pan.baidu.com/s/1dCacUMSLF4seYMfP6-recA?pwd=gtiw",
+    "downloadUrl": "/books/m_soj_人在战锤，是中古圣吉列斯1-391章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sp",
+    "title": "综武：从全真走出的逍遥仙",
+    "author": "疯话血月",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-617章",
+    "latestChapter": "",
+    "excerpt": "玄羽，全真教丘处机门下一脉普通的不记名弟子。被赵志敬徒弟打伤昏迷，觉醒前世宿慧。 绑定任务系统，开局就完成新手任务，获得《凌波微步》。 他以此为原始资本，凭借着任务系统和先知优势，滚雪球一般让自己迅速变得强大起来。 他从全真小师弟，成为全真代掌教。 然后又从全真教走出，转战武侠世界九万里，双剑震九州！ 与天仙版无情结道侣，与萧峰拼过掌，与西门吹雪击过剑，与曹公公比谁退得远，击落过小李飞刀，与东方不",
+    "readUrl": "https://pan.baidu.com/s/1eI7cCUjjuAfUBRdRkqRSYA?pwd=5j96",
+    "downloadUrl": "/books/m_sp_综武：从全真走出的逍遥仙1-617章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sqb",
+    "title": "从寻找灵脉开始立派修仙",
+    "author": "梦潮生",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-990章",
+    "latestChapter": "",
+    "excerpt": "修仙之法，在于养灵根、开灵蕊、孕灵果，渡天劫瓜熟蒂落金丹成。而后破心魔大劫、历生死炼形、悟须弥芥子……渡尽劫波方成仙。门派遭劫，临危受命，陆乾于掌门指环中得修仙之法，当务之急便是要寻找一处灵脉，将跟着自己逃亡的师姐和师妹安顿下来，重开山门，立派修仙！……修仙盛世，万派争鸣，修仙百艺争奇斗艳，神通秘法玄妙无双，天下英豪如过江之鲫，正是我辈奋斗之时！立山门、开坊市、育弟子、纳贤才、施谋算、起征伐……掌",
+    "readUrl": "https://pan.baidu.com/s/1Qg8p8-CqS0ETcbidfHhDtg?pwd=5j96",
+    "downloadUrl": "/books/m_sqb_从寻找灵脉开始立派修仙1-990章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sqf",
+    "title": "家族修仙：从灵植夫开始",
+    "author": "迷糊小神通",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1899章",
+    "latestChapter": "",
+    "excerpt": "（日更一万）（家族流、凡人流、种田流）凌鹏云携带一卷道经，转生化为凌氏仙族族人，踏上仙途。以灵植夫壮大家族，让凌霄凌氏成就“天下粮仓”之名！！！！",
+    "readUrl": "https://pan.baidu.com/s/1e2gsUbwnchnhaNTnh-pC1Q?pwd=5j96",
+    "downloadUrl": "/books/m_sqf_家族修仙：从灵植夫开始1-1899章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sqh",
+    "title": "浊世武尊",
+    "author": "林守镜",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-504章",
+    "latestChapter": "第502章 身份，真相，接引之法，弥天大谎",
+    "excerpt": "大新民国三年，时局崩裂。南方政府初立，北方军阀割据混战。西洋铁舰叩关，前朝幽魂不散。 这是一个火枪与筋骨争锋、乱党与邪祟共舞的时代——革命暗潮之下，民间邪教滋生，兵武、妖魔、异兽、殖装铁躯… 滂沱雨夜，盛海租界。 傅觉民立于倾颓的巨厦废墟中，缓缓将双手从面前五米高、白头赤足的猿形巨怪胸膛中一点点抽出。 血水混着雨水自他指尖滴落。 “山海遗种，苍生余孽。” “吞了这只蕴含一丝朱厌血脉的异兽魂种，我【",
+    "readUrl": "https://pan.baidu.com/s/1RAuGOWd8_zH3VS6TfwXrBQ?pwd=gtiw",
+    "downloadUrl": "/books/m_sqh_浊世武尊1-504章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_srd",
+    "title": "我只想死，怎么还成圣了",
+    "author": "蚂蚁斩春风",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-317章",
+    "latestChapter": "",
+    "excerpt": "李通明：“我只有一个要求，把最危险的地方交给我！” 朝堂变法派：“李通明是人才，不能杀，贬走即可。” 书院大儒：“通明？我视他为知己！” 墨家匠人：“我也布吉啊，怎么我们干手艺活的还整出个圣人来！” 医家天才：“我要李通明长生久视，阎王也带不走他，我说的！” 李行川每日只有三件事，吃饭，睡觉，捞哥。",
+    "readUrl": "https://pan.baidu.com/s/15ZzJxR9aW5fUCFs4R8jJOw?pwd=5j96",
+    "downloadUrl": "/books/m_srd_我只想死，怎么还成圣了1-317章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_srg",
+    "title": "接管地府后，我成了诡异头子",
+    "author": "爆炸小拿铁",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1201章",
+    "latestChapter": "",
+    "excerpt": "郑确穿越到了修真界，开始努力的修炼。“鬼新娘，你今天怎么什么都没做？”“灵石矿脉挖了吗？”“灵药采了吗？”“你看看人家画皮女，今天已经挖了整整三座灵石矿！”“你再这样偷懒，我这个主人还怎么买天器宗定制版的法舟？住轩辕阁最好的洞府？”“你听着，修真界最不缺的就是女鬼，你不干，有的是女鬼干！”“这样吧，今晚你来我房间，我要好好指导指导你……”",
+    "readUrl": "https://pan.baidu.com/s/18I3JZFrJPX-qAwZ1fBbC3g?pwd=5j96",
+    "downloadUrl": "/books/m_srg_接管地府后，我成了诡异头子1-1201章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_srs",
+    "title": "民国：戏子？请叫我武道宗师！",
+    "author": "瑾巾",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-385章",
+    "latestChapter": "",
+    "excerpt": "民国二十年，北平天桥，风雪如晦。军阀混战，梨园浮沉，人命不如狗。这一年，陆诚是庆云班里那个“三棍子打不出个闷屁”的木头武生，是为了给老娘抓药、愁白了头的苦命人。这乱世，戏子是下九流，要想不跪着讨饭，要么有权，要么有拳。也就是在这年冬至，他在《风雪山神庙》的锣鼓点中，紧握那杆白蜡大枪，眼前浮现出了一行古朴字迹。【当前剧目：林冲夜奔】【评价：乙上。获得奖励：十年外家拳功力！】只要演，就能悟。只要入戏，",
+    "readUrl": "https://pan.baidu.com/s/1Ed1fjf7mBMkEbUYgrKRPSw?pwd=gtiw",
+    "downloadUrl": "/books/m_srs_民国：戏子？请叫我武道宗师！1-385章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_srx",
+    "title": "灵器世界的盗版仙人",
+    "author": "原斐",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-186章",
+    "latestChapter": "第186章 尸解仙级别的名师指导！",
+    "excerpt": "那一日，当祝缺被曝光了生平事迹，全修仙界都被他的传奇盗版经历震惊了。“祝缺，五等底层贱民，出身于垃圾场，因为没有资格使用正版灵器，便开辟了盗版修仙之路。”——修仙第一年——“必须万人献祭的【万魂幡】，他用几窝老鼠就仿造了一个【千魂幡】。”“这还有天理吗？”——修仙第三年——“一百五十年才能铸造的【天象道典】，他三天时间就仿造了一个【地象道典】。”“这谁玩得过他？？”——修仙第十年——“需要九天神火",
+    "readUrl": "https://pan.baidu.com/s/10Im5dfisDYGiLep_ihTrmg?pwd=5j96",
+    "downloadUrl": "/books/m_srx_灵器世界的盗版仙人1-186章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sry",
+    "title": "凡人：大晋雷修",
+    "author": "吴越王",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-883章",
+    "latestChapter": "第882章 记忆、大河",
+    "excerpt": "【非天南开局】【无系统】【雷灵根】【不压级】【不跟船】（一月一更新，目前修为：大乘）一觉醒来，穿越到了凡人世界。一座神秘的古塔，让陆尘踏上了修仙之路。“血色禁地？我熟！”“虚天殿？我熟！”“昆吾山？那我可太熟了！”两百多年后，乱星海，韩立一脸警惕的看着眼前的青年：“晚辈厉飞羽，不知前辈有何吩咐！““你确定你叫厉飞羽？”陆尘似笑非笑的看着韩立。",
+    "readUrl": "https://pan.baidu.com/s/1U58xlB6OEVrqu_ng0_MExQ?pwd=5j96",
+    "downloadUrl": "/books/m_sry_凡人：大晋雷修1-883章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ss",
+    "title": "人在大隋刚登基，你说这是西游记",
+    "author": "当风不觉醒",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-767章",
+    "latestChapter": "第767章 人王的嘱托，汉光武帝刘秀，混沌神魔的强大！",
+    "excerpt": "上古岁月，神话皇隋。 值人族气运更替之际。 天庭仙神转世人间，欲谋九州气运，西方灵山凭借国教之名，开始布局佛道东传之计。 此方天地，人如蝼蚁，仙佛横行。 在这里，众生皆可修行，有雷声普化天尊降世，投身军中为将，一杆风翅鎏金镗，能引动九天雷道苍茫！ 杨林护国忠君，怀中双棒打碎山川，镇杀天下蛟龙！ 秦琼拳打三州，锏镇六府，一口真气，能卷动天河之水！ 李元霸断江倒海。 大鹏真身有杀仙之力，有岐山凤鸣，紫",
+    "readUrl": "https://pan.baidu.com/s/1pktgwcoWuCIYimufbeixgg?pwd=5j96",
+    "downloadUrl": "/books/m_ss_人在大隋刚登基，你说这是西游记1-767章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssb",
+    "title": "速通武侠世界：我专治意难平！",
+    "author": "酉山小乙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-596章",
+    "latestChapter": "第20章 千古一帝（终章）",
+    "excerpt": "念头不通达？干就完了！方天白一觉醒来，竟成了武侠世界里的“悲剧专业户——他是《连城诀》中的狄云，三拳打散师徒情，一刀劈死血刀老祖，花铁干来不及跳反，就领了盒饭……他也是《笑傲江湖》中的林平之，一掌碾碎《辟邪剑谱》，剑救刘正风满门，反手把左冷禅钉上耻辱柱，建立新的五岳剑派……他还是《射雕英雄传》中的柯镇恶，杖出降魔，打爆黑风双煞；掌拳无双，硬刚东邪西毒，为天下百姓打出个青天白日……一个个故事荡气回肠",
+    "readUrl": "https://pan.baidu.com/s/124qtvFK1XzpgmyrmId-P3w?pwd=5j96",
+    "downloadUrl": "/books/m_ssb_速通武侠世界：我专治意难平！1-596章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssg",
+    "title": "极道江湖，抽卡成圣",
+    "author": "厉剑侠",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-574章",
+    "latestChapter": "第572章 金刀门",
+    "excerpt": "王朝末年，江湖乱世。武力即权柄，仙佛之名皆由拳掌刀剑夺取。苍生如草芥，在宗教、天灾与征伐中苦苦挣扎。路沉携一款抽卡手游，穿越至此。【玄功秘典】​卡池：《龙虎镇狱功》、《玄武真罡》​、《天魔剑谱》【奇门兵匣】卡池：子母离魂镖​、龙雀大环刀​、万妙摄魂伞【异蛊玄胎】​卡池：​万化蛊、血髓妖筋、涅槃虫巢【异人录】​卡池：毒医·虞夫人、算尽苍生·司马晦、酒肉头陀·不戒此间江湖，没有诗酒风流、只有蝇营狗苟。",
+    "readUrl": "https://pan.baidu.com/s/1TzoZRlT-wPteMZLypDly4w?pwd=gtiw",
+    "downloadUrl": "/books/m_ssg_极道江湖，抽卡成圣1-574章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssh",
+    "title": "御兽仙祖",
+    "author": "卖书小情郎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-850章",
+    "latestChapter": "第850章 ：四处袭扰",
+    "excerpt": "别人修仙靠天资，他修仙靠喂饭。穿越成万象宗杂役弟子，意外发现喂养灵兽就能不断获得奖励。加点功法、蜕变灵兽、吞噬血脉、融合成祖......当同门还在为契约一头灵兽烦恼时。余长生看着满院异变的仙宠陷入沉思。喷火的玄水龟，御雷的食铁兽，长出九条尾巴的杂毛狐狸。",
+    "readUrl": "https://pan.baidu.com/s/1OmryjJpoi6qFwWzfxL_zNw?pwd=5j96",
+    "downloadUrl": "/books/m_ssh_御兽仙祖1-850章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssj",
+    "title": "凡人：刚结丹，系统让我小心墨老",
+    "author": "炭烧鸡中翅",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-906章",
+    "latestChapter": "",
+    "excerpt": "【恭喜宿主年满八岁，凡人修仙养成系统绑定成功！】陆阳看着眼前的光幕，嘴角抽搐：“八岁？系统，你怕是脑袋被门挤了，我都结丹了能是八岁？”【任务：墨老居心不仁，意欲夺舍你或师兄韩立，活下去！】“呵，一个炼气期都摸不到边的渣渣？他夺舍的念头刚冒，本座吹口气就能镇压。”【任务：拯救张铁沦为傀儡的厄命！】“张铁倒是可惜了，随手救一救也行。”【任务：联手韩立、厉飞雨，覆灭野狼帮！】【任务：败金光上人，威震七玄",
+    "readUrl": "https://pan.baidu.com/s/1f4lC0TUT124MvMCdNGTdEQ?pwd=5j96",
+    "downloadUrl": "/books/m_ssj_凡人：刚结丹，系统让我小心墨老1-906章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssm",
+    "title": "国术通神，我在民国修长生",
+    "author": "九天一碗",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-305章",
+    "latestChapter": "第304章 破碎虚空叩天门，身合大道镇太初（完）",
+    "excerpt": "民国乱世第一拳，打的不是人，是命！喂的不是拳，是血！民国十六年，乱世烽烟。人如草芥，军阀割据四方；邪祟暗生，魑魅横行江湖。古宗师夺秘典、祭邪神，妄求长生不老；新武人熬筋骨、炼气血，只图力破极限！陈峥身怀神秘道书，从津门起家，国术开肝，气满通神。拳打洋枪铁骑，脚踩妖魔鬼怪！这乱世，人杀人，鬼吃人，想要活命，想要长生，唯有一拳...通神！从此，陈峥闯关东，下南洋，一关关劫难，一座座血染的功业，硬是打出",
+    "readUrl": "https://pan.baidu.com/s/17VZIljAz2-53gRYCwIZ12g?pwd=gtiw",
+    "downloadUrl": "/books/m_ssm_国术通神，我在民国修长生1-305章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ssy",
+    "title": "天堂刽子手",
+    "author": "惊悚541",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-634章",
+    "latestChapter": "第98章 我会一直看着你的",
+    "excerpt": "上帝睡了片刻，醒来见人间遍地满了强暴。就呼唤死神来到祂的宝座前。死神站在面前说：“世人皆偏离正路，一同变的污秽，没有行善的，连一个都没有，各人专顾自己，爱心全然冷淡。”而上帝对此却有别的看法。于是耶和华对死神说：“我与你立约：你要跟随一个义人，走遍七界，清除其中的罪人与恶魔。你便知道我的判断为真。”但目前最大的问题是，我根本就不是信教徒。",
+    "readUrl": "https://pan.baidu.com/s/1YJ0ND9U04Zazq4SByzkReg?pwd=gtiw",
+    "downloadUrl": "/books/m_ssy_天堂刽子手1-634章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_st",
+    "title": "从五禽拳开始肉身成圣",
+    "author": "江上景",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-888章",
+    "latestChapter": "第125章 与天下第二“苦海”交手！",
+    "excerpt": "金身不坏，水火不侵，万法不沾，是为肉身成圣。 江宁穿越而来，时逢天下将乱。为求保全自身，他凭借能肝经验的面板开始练武，默默发育。 渐渐的，他发现，随着功法破限，各种特性加身，其中某些特性更是蕴藏神灵权柄。 【五禽拳】：从入门肝至圆满之境，不断破限，各种特性加身，五脏藏精，五脏蕴神。 【金刚不灭身】：从入门肝至圆满之境，不断破限，各种特性加身，金身不坏，万法不沾。 【内丹养生功】：从入门肝至圆满之境",
+    "readUrl": "https://pan.baidu.com/s/1VkgnvWdZFAXf1kagrV7lNw?pwd=gtiw",
+    "downloadUrl": "/books/m_st_从五禽拳开始肉身成圣1-888章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_stb",
+    "title": "我在凡人百炼成仙",
+    "author": "被遗忘的小小凡人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-437章",
+    "latestChapter": "",
+    "excerpt": "凡人同人-多女主-无系统-金手指-慢节奏-不后宫本书又名《凡人：我绝不做严跑跑》威名赫赫的天镜散人，曾修为冠绝星海，灭杀过一位星宫之主，为何其后人泯然无闻？“八门金光镜”，曾一度号称星海第一攻击法宝，它又是如何力压有着上万年传承的星宫？后世之人严钧，身怀神秘的“蓝色星海”，来到这个“黑社会”修仙的世界。严钧：什么，蓝色星海！这里连废丹都没有，它能有什么用？还有别的功能？那就好。金磁重光、北极元光、",
+    "readUrl": "https://pan.baidu.com/s/14wSSMD4m6BskPdinBLefsQ?pwd=5j96",
+    "downloadUrl": "/books/m_stb_我在凡人百炼成仙1-437章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sti",
+    "title": "洪荒：拜师上清，我被截教坑了",
+    "author": "水青云淡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-371章",
+    "latestChapter": "第371章 蟠桃宴惹祸端，天命之力勃发（求追订！）",
+    "excerpt": "陆原穿越到了洪荒世界，身为天地间第一缕清浊之气蕴育的先天神魔，得享天地气数青睐。按理来说，以先天神魔的跟脚，若是有大智慧、大毅力，证道大神通者，称尊做祖不是问题。不过，听到耳边响起鸿钧成圣的道音，陆原心间倒吸了一口冷气！紫霄宫道祖讲道在即，可自己却未化形出世，他注定要错过紫霄宫道祖传道这一洪荒世界开天辟地来最大的机缘之一了。而且一想到紫霄宫传道后，巫妖两族称霸洪荒，六圣证道混元圣人，他便不寒而栗。",
+    "readUrl": "https://pan.baidu.com/s/1qT6-cotT5s42R2hEjwfEQw?pwd=5j96",
+    "downloadUrl": "/books/m_sti_洪荒：拜师上清，我被截教坑了1-371章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_stj",
+    "title": "看好了，法爷是这样玩的！",
+    "author": "小新吹泡泡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1000章",
+    "latestChapter": "",
+    "excerpt": "“来自蓝星的法师怪物在异次元大门登陆！”“不可名状的噩梦操控者向空间核心逼近！”“卑鄙的锁血挂王攻破能量母巢！”“任云起来了，又一座异次元空间要沦陷了。”“至高无上的陛下于今日抵达他忠诚的异次元！人类万岁！”这是一名超凡法师的故事————净化诅咒、操控噩梦、钢铁洪流、逆天锁血···任云起：“这波，优势真的在我！”",
+    "readUrl": "https://pan.baidu.com/s/17QmPqQLtaddMrtrlQnxoLA?pwd=gtiw",
+    "downloadUrl": "/books/m_stj_看好了，法爷是这样玩的！1-1000章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_stl",
+    "title": "从肝熟练度开始长生不死",
+    "author": "乌鸦还是黑的好",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-953章",
+    "latestChapter": "第954章 终极（完）",
+    "excerpt": "眼睛一闭一睁，已成矿监府地下的矿奴的徐云帆。以可修行世间一切技艺的熟练度面板，在这王朝末年、群雄割据、妖魔渐起的时代中一路高歌猛进。从挖矿磨身的《赤练铜身功》，到不垢不灭的《金刚镇狱经》；从趟步如飞的《飞毛腿》，到御空而行的《浮光掠影》；从口吐气箭的《虎豹雷音》，到焚山煮海的《金乌耀世功》！从微末崛起，势如破竹，到后来再无敌手，回首看去。‘终见曦轮开浩宇，晴川万里御长风。’",
+    "readUrl": "https://pan.baidu.com/s/14aQNcRKkCJxzITqthcDgHg?pwd=gtiw",
+    "downloadUrl": "/books/m_stl_从肝熟练度开始长生不死1-953章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sud",
+    "title": "修仙：我的本命灵舰纵横乱星海",
+    "author": "姜维姜天帝",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-522章",
+    "latestChapter": "第448章 三相归一压金丹，阴冥帅出统三军",
+    "excerpt": "莫离穿越修仙界，成了洛家一个不起眼的外戚。得其余荫，驾着一艘破旧灵舟在妖兽环伺的乱星海艰难求生。苦修无望，前途黯淡？神秘面板骤然觉醒：【本命同修】！绑定世间万物之一为本命，即可解析其脉络，助其晋升品阶！人与物气运相连，一同成长！飞剑法宝？不！身处瀚海狂涛，一艘强大的灵舟才是安身立命、纵横四海的根基！莫离毫不犹豫，将座下灵舟绑定为本命！伴随着灵舟轰鸣进化，修为瓶颈应声而破！从下品灵舟到空天巨舰，这是",
+    "readUrl": "https://pan.baidu.com/s/1EQ3rO8eClbbr0k_m3JCYRg?pwd=5j96",
+    "downloadUrl": "/books/m_sud_修仙：我的本命灵舰纵横乱星海1-522章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sv",
+    "title": "青梧仙族",
+    "author": "夕洛喵",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-499章",
+    "latestChapter": "",
+    "excerpt": "【家族修仙】【炼丹】【紫府仙族】…………林清昼重生至沂州林家，身负灵田洞天潜心修炼，安心种田养育仙草，自炼仙丹，培育后辈于大争之世布局求金之路，带领家族走向中兴…………【有家族金手指】（因为凡人或练气开局，崛起于微末之时的家族文太多了，所以想换个切入点，写一个本就强大紫府仙族的中兴）",
+    "readUrl": "https://pan.baidu.com/s/18cbEgDQNEa87o45cDTXH_w?pwd=5j96",
+    "downloadUrl": "/books/m_sv_青梧仙族1-499章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_svc",
+    "title": "无上悟性：从死士开始",
+    "author": "下雨的九月",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-425章",
+    "latestChapter": "",
+    "excerpt": "一朝穿越，成为受制于人、命如草芥的死士。好在苏牧发现自己每练成一门武功就能不断提升悟性，而且他的悟性提升无上限！【平平无奇】→【潜龙在渊】→【天生圣人】→【无上悟性】。苏牧于微末中崛起，他要一步步超越古之圣贤，成为那万古未有之妖孽！",
+    "readUrl": "https://pan.baidu.com/s/1F8GF7ai2BYlDxdTIODk-vA?pwd=gtiw",
+    "downloadUrl": "/books/m_svc_无上悟性：从死士开始1-425章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_svd",
+    "title": "长生从继承练气宗门开始",
+    "author": "爱吃han烧白",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-960章",
+    "latestChapter": "第154章 掌门破阵",
+    "excerpt": "【经营】【种田】【群像】 长生路上孤鸿影，凡尘劫中万壑雷 一介凡人重生混乱仙界，危机并存、惶惶度日。人到中年幸得一混元葫芦，自此以微末之姿叩问长生。 练气破境，初服葫芦灵露，提升自身灵根、调教大家贵女。参破《破妄金眸》、筑成不灭道基，过后窥破万邪、剪灭群凶。 筑基登阶，再服葫芦灵露，加之稀世玉璜相辅，悟得上古大宗北夜宮传承：修《太古原体》，肉身虬龙铸骨、八荒无俦；参《圆月观想法》，精进灵觉之敏、洞",
+    "readUrl": "https://pan.baidu.com/s/1n_ALUE9IAL3VEd22d2xmIw?pwd=5j96",
+    "downloadUrl": "/books/m_svd_长生从继承练气宗门开始1-960章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_svg",
+    "title": "修仙飞升指南",
+    "author": "无休又无止",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-554章",
+    "latestChapter": "第552章 不是久留之地",
+    "excerpt": "一个勉强的修仙资格，近乎一无所有的境地。一枚下品灵石，挂起来看着修炼的底层修士。一眼可见的人生道路，前方断绝的修炼之徒！本应如一粒尘埃渺小，又如野草一般短暂的生命！因一次善良以及两次生死危机，有了小小挣扎的资格。风与沙，剑尖流转的年华！风起危难，剑染红霞！别人家的修仙指南，普通与凡俗的仰望！",
+    "readUrl": "https://pan.baidu.com/s/12lY_2GLC7A90n-qPh9ogtg?pwd=5j96",
+    "downloadUrl": "/books/m_svg_修仙飞升指南1-554章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_svj",
+    "title": "红颜助我证长生",
+    "author": "宸宸跟你拼了",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1273章",
+    "latestChapter": "",
+    "excerpt": "【恋爱修仙日常】直到成婚的那一夜。赵庆才发现，自己的修行不太对劲。当灵动可人的娇妻沉沉睡去，通往丹道的大门却豁然洞开……当温婉师妹唤他主人，水火木三道灵根竟齐齐变化？当清冷郡主褪去红衣，自身的神识神通突飞猛进？面对那神秘淡漠的白发妖神，本该无多的寿元，竟突兀增长了三千年！？……多年后，赵庆站于仙道之巅，娇妻上前无奈笑啐。“夫君成仙有妙招啊！”赵庆：？这还不都是靠我努力修行得来的！？",
+    "readUrl": "https://pan.baidu.com/s/19x9P2vjWUFviKAUflhlCOQ?pwd=5j96",
+    "downloadUrl": "/books/m_svj_红颜助我证长生1-1273章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_svr",
+    "title": "十国侠影",
+    "author": "花天酒地丶",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-520章",
+    "latestChapter": "第178章 这杯酒，终究是没喝对时候",
+    "excerpt": "五代十国。 这是一个佛陀闭眼、恶鬼食人的末世。 饥荒、战乱、人相食，这片土地已经没有了秩序。 有一座寺，名为无常。 它不渡苦厄，只产修罗。 入此门者，非人非鬼，在血与肉的磨盘里，挣扎出一线生机。 赵九本该死在荒草野地里，成为人干。 可这个从尸堆里爬出来的少年，为护住身后那一点微光，被迫握紧了屠刀。 他一步一步踏上了无常寺的巅峰，成为了江湖朝堂上让人胆寒的夜龙，也成了审判这世道唯一的权力。 定唐刀、",
+    "readUrl": "https://pan.baidu.com/s/1YTr-1sw_bpSqZoTdL51Bgg?pwd=5j96",
+    "downloadUrl": "/books/m_svr_十国侠影1-520章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_swb",
+    "title": "山海提灯",
+    "author": "跃千愁",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-957章",
+    "latestChapter": "",
+    "excerpt": "女人握着少年的手，手把手教他写出了“师”，于是少年有了姓。 山海提灯，与皓月争辉！",
+    "readUrl": "https://pan.baidu.com/s/103hWJ8SGGgVYget6AbhRfA?pwd=5j96",
+    "downloadUrl": "/books/m_swb_山海提灯1-957章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_swd",
+    "title": "从祸乱后宫开始长生不死",
+    "author": "爱国爱党好青年",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-574章",
+    "latestChapter": "",
+    "excerpt": "已有四百万字，高订三万精品仙侠，请放心入坑。金銮殿上，朱笔批红尽是民脂民膏；江湖之中，名门正派豢养食人魔头；边关之外，异族铁骑磨刀霍霍。 陈皓咽下最后一口气时再睁眼时，已沦为这世上最卑贱的阉人。 深宫如狱，每块青砖都浸透鲜血。 龙椅之下，堆着饿殍铸就的台阶…… 江湖之巅，悬着名门豢养的肉鼎…… 贵妃罗帐内，太监的颅骨被雕成合欢铃；太和殿丹墀下，竟埋着八十一个“龙种”童男…… …… 宫墙之内，步步杀",
+    "readUrl": "https://pan.baidu.com/s/1bHxwz33UE-bI5xBxf1eG0g?pwd=gtiw",
+    "downloadUrl": "/books/m_swd_从祸乱后宫开始长生不死1-574章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_swk",
+    "title": "大赤仙门",
+    "author": "古顽石",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1160章",
+    "latestChapter": "第1009章 青女",
+    "excerpt": "取坎填离会龙虎，铅汞交济求性命。登仙路上，多少白骨？仙山道宗，几家长青？许玄一朝穿越，为大赤观掌门，师父仙逝，弟子尚幼，群雄环伺。幸得一玉碑，显化古字，拔擢道才，延续传承，且看这小门小派，如何夹缝求生。（宗门修仙，经营种田流）",
+    "readUrl": "https://pan.baidu.com/s/1SC0AYcqa2eeT2ldQ3oPNMw?pwd=5j96",
+    "downloadUrl": "/books/m_swk_大赤仙门1-1160章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_swp",
+    "title": "青葫剑仙",
+    "author": "竹林剑隐",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2883章",
+    "latestChapter": "",
+    "excerpt": "葫中藏日月，珠内锁阴阳。剑斩天外天，非生亦非死。古典仙侠，慢热爽文，布局宏大，连环相扣。",
+    "readUrl": "https://pan.baidu.com/s/1RvtNAkCax0zwkPhLBE65Xw?pwd=5j96",
+    "downloadUrl": "/books/m_swp_青葫剑仙1-2883章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sx",
+    "title": "西游之浪浪山的金蟾子",
+    "author": "安与闲",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-601章",
+    "latestChapter": "第604章 应作如是观（大结局）",
+    "excerpt": "穿越西游，金觉成为了浪浪山的金蟾子，就是那个组了个冒牌取经队伍的金蟾子。在被大雷音寺某小心眼方丈逼着去取经后，他只能冒充一下金蟾子，一边上路，一边在‘唐僧聊天群’里混些好处。群里的唐僧个个都是人才，说话又好听，金觉超喜欢在里面。然而除此之外，他遇到的大佬有些不太对劲。如来是个小心...谨慎的方丈。玉帝没事就喜欢念诗，说什么云在青天水在瓶。......就这么如履薄冰，走完了半程取经路。多年以后看着近",
+    "readUrl": "https://pan.baidu.com/s/1F0hlQHjAl3c53H_kmpptDg?pwd=5j96",
+    "downloadUrl": "/books/m_sx_西游之浪浪山的金蟾子1-601章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sxf",
+    "title": "万法诡道，我为灵尊",
+    "author": "真愚老人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-494章",
+    "latestChapter": "",
+    "excerpt": "诸神早已结束战争，向人间洒落一条条神之途径，超脱序列。在五大正神教派的庇护下，人类纪元从战国时代进入三国时代。乾、离、景三国初立之时，名为【伏羲】的天工之神自外域而来，一场蒸汽与奇观，席卷全世界的新时代浪潮开始掀起，十二金人、血肉实验室、机械佛陀、轮回天网、妖星、诡域、登神仪式、秘药配方、外神恩赐、混沌遗迹……。民风淳朴、人诡混居的万福城中，聆听着“菜人歌”醒来，发现自己被迫成为【禁神之子】的李渔",
+    "readUrl": "https://pan.baidu.com/s/1xjD9Ndsk7sxG-FeiSbZPvg?pwd=5j96",
+    "downloadUrl": "/books/m_sxf_万法诡道，我为灵尊1-494章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sxj",
+    "title": "家族崛起：从每日情报开始",
+    "author": "我爱吃韭菜煎蛋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-957章",
+    "latestChapter": "",
+    "excerpt": "南蛮入侵，家族长辈尽数战死，傅氏一族只余修真四子，傅长生临危受命担任族长之位，在家主情报系统协助之下，稳健发展家族势力，最终屹立世家之巅。“每日情报已更新”【1：傅明今日于南阳小镇集市之中闲逛，从好再来水果店中意外购买到了一枚云桑果，服用之后，成功引气入体】【2：你的族地北部，位于雷蒙山山谷之中拥有一座储量极为丰富的焱岗石矿脉】【3：十天之后，你的族地将遭受到南蛮人的袭击】【4，七天之后，你的族地",
+    "readUrl": "https://pan.baidu.com/s/10iPss3JjGTI8_qbK2xAmEA?pwd=5j96",
+    "downloadUrl": "/books/m_sxj_家族崛起：从每日情报开始1-957章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sxm",
+    "title": "高武修仙：从摆烂开始变强",
+    "author": "太古肥龙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-712章",
+    "latestChapter": "第619章 心有多大，世界就有多大",
+    "excerpt": "张凌风穿越到末世修炼界，收获躺平即无敌命格。【你拒绝跟随枪法大师修炼，获得全天候枪法自行强化能力。】【你拒绝拜入淬体大师门下，获得最强体质琉璃金身。】【你在呼吸法修炼课堂上拒绝呼吸吐纳，觉醒武道生最强吐纳能力。】【你拒绝宗师意志灌顶，将躺平践行到底，获得宗师级防御力量。】 当全班同学在修炼室卷生卷死时，张凌风围观女主播打怪？白嫖200公斤麒麟臂增幅！枪法训练课打瞌睡，睡梦中枪法直逼有形之境！班主任",
+    "readUrl": "https://pan.baidu.com/s/1Nv2fVUFn-GKr0AeVCy9Rkw?pwd=5j96",
+    "downloadUrl": "/books/m_sxm_高武修仙：从摆烂开始变强1-712章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sxt",
+    "title": "从龙象般若功开始创武成圣",
+    "author": "恐龙气球",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-381章",
+    "latestChapter": "第382章 ：真魔一掌真绝世，十阳白焰三阶极！",
+    "excerpt": "“你观想武仙真迹，化龙象秘术，开创出武学—龙象般若功！”“你手刃了九条魔龙，化魔龙神通，开创出武学—九阳无极神功！”“你融合了天角蚁力，化鲲秘法等十强宝术，开创出武学—完美至尊法！”·······无尽虚空中，有巨龙以星辰为食。汪洋海域里，有巨鲸跃海成鹏。无数个亚空间里，有邪神在呓语，有诡怪在试图撬开现世的屏障。这是灾祸频出的混乱年代。也是武道高度发达的武学盛事。武者擎天撼地，钓龙黜鲸，以力镇压一方",
+    "readUrl": "https://pan.baidu.com/s/1kzbtiSVGr7HM01HVxB6iKg?pwd=gtiw",
+    "downloadUrl": "/books/m_sxt_从龙象般若功开始创武成圣1-381章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_syb",
+    "title": "西游：我能分解世间万物",
+    "author": "青菜和鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-232章",
+    "latestChapter": "第233章 混元无极，洛羽创世",
+    "excerpt": "洛羽一朝穿越起初以为自己来到了大周，整日在守藏馆中与李耳下棋聊天，直到有一天李耳这位“图书馆管理员”骑牛走出函谷关，紫气东来，霞光万道，老子临走之前告知洛羽有一只石猴出世，洛羽才意识到自己来到了西游的世界。 好在洛羽穿越也是有金手指的，他自穿越来时识海中就有一个破旧的磨盘，磨盘可以分解一切物品。 分解生锈的青铜剑:获得铜块。 分解长弓:获得牛筋，木块。 分解守藏室竹书:获得通用字1000，马上学会",
+    "readUrl": "https://pan.baidu.com/s/1rloL9Y0Y4_mCqHpIgl0XIg?pwd=5j96",
+    "downloadUrl": "/books/m_syb_西游：我能分解世间万物1-232章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_syg",
+    "title": "蜀山镇世地仙",
+    "author": "东海镇守",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-693章",
+    "latestChapter": "",
+    "excerpt": "十年磨一剑， 霜刃未曾试。 今日把示君， 谁有不平事？",
+    "readUrl": "https://pan.baidu.com/s/176akr-IGuiK0erE39bY0ew?pwd=5j96",
+    "downloadUrl": "/books/m_syg_蜀山镇世地仙1-693章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_syu",
+    "title": "修仙：从装备栏开始",
+    "author": "蜉蝣窥天",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-429章",
+    "latestChapter": "第429章 太乙清灵丹",
+    "excerpt": "地球人丁言穿越修仙界，本是一微末散修，意外觉醒装备栏面板。 …… 装备【上品灵石】：法力上限+90%。 装备【灵眼之石】：法力上限+100%，修炼速度+100%。 装备【青竹剑】：御剑术熟练度+300。 装备【赤焰功玉简】：修炼赤焰功速度+10%，日常打坐修炼赤焰功时有0.1%的几率进入悟道状态，每次悟道结束修炼进度+100。 装备【炼丹纪要玉简】：每次炼制五种灵丹，熟练度额外+1；炼丹时有0.1",
+    "readUrl": "https://pan.baidu.com/s/1qNAefz4fT1Az3jouVGS1ng?pwd=5j96",
+    "downloadUrl": "/books/m_syu_修仙：从装备栏开始1-429章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_sze",
+    "title": "苟道修仙，从种田开始",
+    "author": "荔汁扣肉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1104章",
+    "latestChapter": "第1101章 大道无尽（终）",
+    "excerpt": "李牧魂穿修仙世界，苟在青玄宗门种田，不争不斗，靠着几亩灵田，养灵花，培灵草，炼器制符，过着安逸舒适的小日子。当宗门有难之时，李牧被迫出手，众宗门弟子这才发觉，宗门里竟还苟着一尊宗门老祖。",
+    "readUrl": "https://pan.baidu.com/s/18xotWGJfLI-j-H8pwc1WVw?pwd=5j96",
+    "downloadUrl": "/books/m_sze_苟道修仙，从种田开始1-1104章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_szl",
+    "title": "我成了女魔头的心魔",
+    "author": "金秋雨落",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-572章",
+    "latestChapter": "第567章 长夜凭栏望穹宇，帝星遥挂寒霄中",
+    "excerpt": "我叫陈墨，是个游戏宅。 最近沉迷一款名为《绝仙》的单机游戏，并且开挂虐了最终BOSS【玉贵妃】上百遍。 然后，我穿越了。 成了玉贵妃的狗腿子。 上班第一天，怎么感觉娘娘看我的眼神不太对呢…… …… 我叫玉幽寒，大元国皇贵妃，修为通天，横压九州。 最近我做了个“梦”。 梦里，我被一个男人击败上百次，毫无招架之力。本以为是修行出了差错，因此滋生心魔，直到那“心魔”活生生出现在我眼前…… …… 高墙深宫",
+    "readUrl": "https://pan.baidu.com/s/17dZ3HMEW7UMkRyxssPz0fQ?pwd=5j96",
+    "downloadUrl": "/books/m_szl_我成了女魔头的心魔1-572章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_szp",
+    "title": "旁门真仙：从阴鬼通幽法开始",
+    "author": "也火道人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-319章",
+    "latestChapter": "第320章 黑石惊喜",
+    "excerpt": "（本书多女主） 稳健修行，苦修补拙，杀伐果断护大道，元神法相问长生。 这方世界玄门修正法，魔门炼真身，旁门求同参，杂门借本命。 张元穿越而来，成为旁门小散修，恰逢妖鬼乱世，修行艰难。 好在他有阴阳玉书，可录世间万法，天道酬勤，从阴鬼通幽开始，步步为营，逐渐踏上旁门真仙之路。 食气炼体，斗法争锋，千般秘术，万种神通，诸君且看，应有尽有。",
+    "readUrl": "https://pan.baidu.com/s/1JDhXgO-WWmz-leX6o37m-A?pwd=5j96",
+    "downloadUrl": "/books/m_szp_旁门真仙：从阴鬼通幽法开始1-319章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_tc",
+    "title": "洪荒：石矶首徒，我以阵道撼大势",
+    "author": "是浅唱啊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-302章",
+    "latestChapter": "",
+    "excerpt": "穿越洪荒，江云拜入截教石矶门下，觉醒逆天悟性。此时三皇明道、五帝归位，封神量劫即将到来！量劫之下，苍生皆为蝼蚁，首当其冲的就是自己的憨憨师尊。大道争锋，要得就是步步争先！修阵道，创凶阵！三千大道，皆可布阵！以阵杀伐，以阵证道，以阵屠圣！江云以截教三代弟子之身，誓要硬撼大势，掀翻棋局，成为封神量劫的执棋人！……直到这一日，量劫到来，阐教十二金仙齐聚，却见骷髅山上大阵层叠。煞气滚滚，天地变色！江云：“",
+    "readUrl": "https://pan.baidu.com/s/1rw-ZScsM3s_7mtG5FO2gnQ?pwd=5j96",
+    "downloadUrl": "/books/m_tc_洪荒：石矶首徒，我以阵道撼大势1-302章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_tg",
+    "title": "人在峨眉，开局获取金色词条",
+    "author": "黑白大团子",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-773章",
+    "latestChapter": "第772章 外界来敌，优势在我",
+    "excerpt": "都说“武当好，少林棒，明教圣火焚江洋”。可在顾少安看来，只看武功和名声就要选择加入的门派，简直肤浅。拜师门派，荣辱与共，岂能儿戏？看了一眼自己金色的天赋词条【师太的青睐】后，顾少安毅然决然的加入了峨眉。师太，求罩。",
+    "readUrl": "https://pan.baidu.com/s/1l83d88iTef5zthX6A8d9cg?pwd=5j96",
+    "downloadUrl": "/books/m_tg_人在峨眉，开局获取金色词条1-773章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_tw",
+    "title": "瘤剑仙",
+    "author": "芬芳老马",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1027章",
+    "latestChapter": "第86章 豪气",
+    "excerpt": "上古修士遗有三颗大瘤子。裴夏也有一颗，不幸在他头里。瘤子告诉裴夏：“你太辛苦了，从今天开始，我希望你躺平。”然后废掉了裴夏的修为。瘤子还是天真了。我躺得平不平，是我自己能决定吗？",
+    "readUrl": "https://pan.baidu.com/s/1hnXZ8s77HXwa4JkKs_jHCg?pwd=gtiw",
+    "downloadUrl": "/books/m_tw_瘤剑仙1-1027章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_uaio",
+    "title": "我向大帝借了个脑子",
+    "author": "渣土车",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1114章",
+    "latestChapter": "",
+    "excerpt": "陈洛发现自己可以捡死人的脑子。于是他去墓地捡了一个死去大帝的脑子，决定先借来用一下。别人还在为怎么炼气烦恼，如何筑基成功的。陈洛已经开始考虑大乘的第九十九套方案了。【已完本高订破万两本，新书启航，求支持！】",
+    "readUrl": "https://pan.baidu.com/s/178ZNI33bQcTbWC2wU0IqKg?pwd=5j96",
+    "downloadUrl": "/books/m_uaio_我向大帝借了个脑子1-1114章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_uk",
+    "title": "元始法则",
+    "author": "飞天鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1291章",
+    "latestChapter": "",
+    "excerpt": "星空中的“道城”，修行最初的萌芽之地“祖洲”，浩瀚宇宙水之起源“神仓古泽”，虚暗禁区“战斧座空洞”。 还有藏在宏观中的天界，与微观中的地府幽境。 地球的微观世界…… 显微镜下——豆子般大小的佛祖舍利，宛若一颗浅红色星球，高耸的山脉和干枯的古河道密布，荒凉而辽阔，蔚为壮观。 研究人员怀着惊叹情绪，细细观察这片微观世界。 不久后，有了震撼的发现。 一艘形制古老且外观诡奇的青铜船舰，停泊在这颗浅红色星球",
+    "readUrl": "https://pan.baidu.com/s/1NhZ7HCo4ZoA1JuzX7d6nug?pwd=gtiw",
+    "downloadUrl": "/books/m_uk_元始法则1-1291章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_up",
+    "title": "御兽仙族：我御万灵证长生",
+    "author": "青靖石1",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2323章",
+    "latestChapter": "",
+    "excerpt": "【家族修仙】【凡人流】【御兽】【群像】【家族金手指】（慢节奏种田发育，智商在线，杀伐果断，不圣母） 重生至太行山叶家，身怀万灵图录 御兽、御山川、御草木、御天地万族 自育真灵，带领家族成为一代仙家！ （主角很苟，家族更苟，有【家族金手指】） 不圣母，杀伐果断，无系统，更新很猛 本书又名《御兽家族：我有一本万灵图鉴》《万灵仙族》",
+    "readUrl": "https://pan.baidu.com/s/1zJ_dYMTbas1edpJi_8IRYw?pwd=5j96",
+    "downloadUrl": "/books/m_up_御兽仙族：我御万灵证长生1-2323章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ur",
+    "title": "洪荒：十绝阵破，申公豹请我出山",
+    "author": "喜之郎cc爽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-284章",
+    "latestChapter": "第284章 赵公明对四圣，一招斩二佛！",
+    "excerpt": "重生洪荒赵公明，开局就遇到申公豹来请。 此时，十绝阵已经被破，封神大劫过半。 一旦下山，不仅自身难逃上榜，一身宝物，为他人嫁衣裳，甚至还要害死自家三位妹妹。 但，封神大劫，本就是阐截之争，身为截教外门大师兄，哪怕闭关不出，恐怕也逃脱不得。 好在，开局觉醒神选系统： 【选择一，同意申公豹邀请，下山落入算计，被钉头七箭书咒杀，害死自家三位妹妹三宵，奖励：先天豆腐一块（自己拿着撞死吧） 【选择二，果断拒",
+    "readUrl": "https://pan.baidu.com/s/1gSzxgepKG5kEi1qsyyuD4w?pwd=5j96",
+    "downloadUrl": "/books/m_ur_洪荒：十绝阵破，申公豹请我出山1-284章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_uy",
+    "title": "我，落难王子，打钱",
+    "author": "坚韧如铁",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-753章",
+    "latestChapter": "",
+    "excerpt": "我明明想在异世界养老，却成为他人眼中的暴君、战犯，这完全是因为靠兄弟（玩家）的鼎力支持（落井下石）。总而言之，崛起吧，帝国，颤抖吧，所有与第四天灾为敌的敌人。我带来战争和死亡，还有和平。",
+    "readUrl": "https://pan.baidu.com/s/1PsQLIIXWVcWbJElR9OZYMw?pwd=gtiw",
+    "downloadUrl": "/books/m_uy_我，落难王子，打钱1-753章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_vr",
+    "title": "大夏补天人",
+    "author": "醉虎",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-625章",
+    "latestChapter": "第622章 魔宝宗余孽",
+    "excerpt": "太古天裂，女娲炼五色神石补苍穹阙隅；伏羲演河洛八卦，定地维之乱。然魔氛未绝，遂有“补天阁”承二皇遗志，立八卦于王屋，藏河洛于乾宫，镇妖骸于坤殿。门下弟子额印石纹、掌绘卦图，自黄帝战蚩尤至郑和下西洋，护人间万载——持镜可照三界，悬符能平四海。 而神术之道，亦在人间烟火中演变。古老的傩戏，从乡野祭台走向补天阁的传承。那些曾用于驱邪纳吉的傩面——十三太保、二十四诸天、三十六天罡——一一粉墨登场。当青年林",
+    "readUrl": "https://pan.baidu.com/s/150l-pSWPNzCiiTrlijXPwQ?pwd=gtiw",
+    "downloadUrl": "/books/m_vr_大夏补天人1-625章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_vx",
+    "title": "今天也在努力做魔头",
+    "author": "开荒",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-924章",
+    "latestChapter": "第923章 终章",
+    "excerpt": "被大虞朝廷认定为「古今妖魔之最」的丹邪沈傲转世重修了！好消息是这一世开局一妻二妾，且个个国色天香、兰心蕙质，连身边的近侍妖奴也是秋水为神玉为骨；坏消息是这群风华绝代的美人全都暗怀杀机，正磨刀霍霍欲将他置于死地。幸得原主修持十二年童子功，沈傲当夜以秘法炼化阳元，一夜间气海生涛、丹田鸣钟，筑基小成！",
+    "readUrl": "https://pan.baidu.com/s/1_WAyfruFsC8KDgUB84F7cQ?pwd=5j96",
+    "downloadUrl": "/books/m_vx_今天也在努力做魔头1-924章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wae",
+    "title": "从易书开始摘夺果位",
+    "author": "念头不通达",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-308章",
+    "latestChapter": "第303章 海外银河，闻香尘缘",
+    "excerpt": "末劫将至，造化重开。 鱼吞舟身怀道佛经典，演太极阴阳，观鲲鹏法相，自气运洞天中杀出重围，开启了自己“横压一世，人主天下”的征途。 当他走出那方困住了他三年的洞天，登高而望—— 千年王朝，巍巍庙堂，已是大厦倾颓。 外有上古遗族叩关生祸。 内有宗门世家割据称雄 烽火中龙蛇并起，山河焦土。 天外神佛抬手落子，香火升腾…… 他将这天下乱象、人间沉浮，一并尽收眼底，怒道： “满座衣冠皆老朽！” …… 多年以",
+    "readUrl": "https://pan.baidu.com/s/1b5PNRmLAyUG4Ekc0AupvZQ?pwd=gtiw",
+    "downloadUrl": "/books/m_wae_从易书开始摘夺果位1-308章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wai",
+    "title": "盖世双谐",
+    "author": "三天两觉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-707章",
+    "latestChapter": "",
+    "excerpt": "江湖路上走走停停 翻开年少漂泊的回忆 如今走过这世间，万般留恋 峰吹起了从前",
+    "readUrl": "https://pan.baidu.com/s/1t8jQ5EG-ExJ_TXHDqp4V2w?pwd=5j96",
+    "downloadUrl": "/books/m_wai_盖世双谐1-707章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wam",
+    "title": "武侠：只想摆烂的我交的全是损友",
+    "author": "惊鸿掠浮萍",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-689章",
+    "latestChapter": "",
+    "excerpt": "九州世界。江湖波云诡谲，朝堂暗流涌动。前世奋斗了小半辈子正准备咸鱼的白修竹穿越至此，他的态度很明确，人活着已经很累了，何必去想那些有的没的。携一壶清酒，邀三五好友，做自己想做的事难道不香吗？可是，看着自己对面喝酒划拳的陆小凤和楚留香，旁边还有正在雕刻的李寻欢。白修竹发现咸鱼真不是一件简单的事。起码，不能交损友。",
+    "readUrl": "https://pan.baidu.com/s/17BvdcRjUhHymhhcrugvAXw?pwd=5j96",
+    "downloadUrl": "/books/m_wam_武侠：只想摆烂的我交的全是损友1-689章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wao",
+    "title": "修仙从十万大山开始",
+    "author": "雄鹰道长",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-789章",
+    "latestChapter": "",
+    "excerpt": "这大千界无限广大，便有山海修仙界。山海修仙界中有十万大山。这十万大山妖物成群，人族只能结寨以自保。故事的开始便发生在这十万大山的边缘地带。张清静携带“寻道大千”所化的系统，开始求道长生。",
+    "readUrl": "https://pan.baidu.com/s/1y1OIvcI2lOdDeu8MJujf1Q?pwd=5j96",
+    "downloadUrl": "/books/m_wao_修仙从十万大山开始1-789章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wap",
+    "title": "祭龙",
+    "author": "叶天南",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-333章",
+    "latestChapter": "第347章 轮回司",
+    "excerpt": "李余本来只是气象局负责增雨的一个临时打炮工而已。结果一次炸膛，顺利穿越，成了龙王庙庙祝。以为自己抱上龙王爷大腿，结果谁知是条受伤到不能自理的大母龙。没法子，只能利用自家两界穿梭的能力，各种手段砸资源，抢香火，硬生生把自家龙王爷给拉扯起来。天上地下，我龙独尊！",
+    "readUrl": "https://pan.baidu.com/s/1n-2Diazk-96IiuiHaPVCnA?pwd=5j96",
+    "downloadUrl": "/books/m_wap_祭龙1-333章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_waw",
+    "title": "羽化登仙，从炼药童子开始",
+    "author": "有雀归巢",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-708章",
+    "latestChapter": "第706章 星渊偷渡，炼化神丹",
+    "excerpt": "人世间是一个大苦海，「道」是载人舟楫，「术」是渡海篙橹。 只修道，不修术，终难横贯苦海，觅得长生。 吕玄意外觉醒宿慧，识海中忽现无上至宝「羽化飞升卷」，能够使得道途和技艺不断进阶，得赐仙职，更有无穷天赋，一证永证。 自此，他从一名炼药童子开始，不争虚名，勤勉修行，只求成仙。 修仙无岁月，须臾已千年。 等到劫云散尽，世人才发觉吕玄竟已羽化登仙，是为「纯阳妙法演正帝君」！",
+    "readUrl": "https://pan.baidu.com/s/1EmtUhaBXjm4DuxYT7_0Pxw?pwd=5j96",
+    "downloadUrl": "/books/m_waw_羽化登仙，从炼药童子开始1-708章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wax",
+    "title": "炉炼苍生薪，证我大道果！",
+    "author": "我一直在走",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1136章",
+    "latestChapter": "",
+    "excerpt": "“我卫鸿今日成就，具是自身奋斗的果实。“以我惊世智慧，以我无上资质，以我绝强毅力，心炉，加点！！！”——铜炉芥子藏心窍，性命余辉作烬柴，法火升腾灼玉液，丹成入腹道皆来。此种神异，谓之心炉。再世为人，降生灵赤大天，卫鸿意欲执心炉，披荆棘，临绝顶，行伟业，证道君！…【炼化太上遗宝——太清两仪真符】【习得根本法门：《太上道祖常说清静经》】【习得神通术：壶天】【洗去禀赋：「月魔皮」「血海身」......】",
+    "readUrl": "https://pan.baidu.com/s/1cDCMBQVzskzXQ8cca3cZAA?pwd=5j96",
+    "downloadUrl": "/books/m_wax_炉炼苍生薪，证我大道果！1-1136章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_way",
+    "title": "长生修仙：从脚踏实地修练开始",
+    "author": "小道喜欢水",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-648章",
+    "latestChapter": "第649章 楚门（大结局）",
+    "excerpt": "许凌恒穿越太云仙朝，成为了仙界芸芸众生的一员。发现前世和仙界没什么区别，不过是换了一个身份继续做牛马，原本以为自己又是碌碌无为，牛马一生时发现他能够看到修为进度条。只要脚踏实地的修炼，一分耕耘，一分收获，努力就有回报。许凌恒决心不在做牛马，追寻长生，求一个无拘无束，求一个逍遥自在。光阴如刀，长生斩骄。追求长生的路何其艰难？有人舍弃了灵根苦修，有人荒废了剑心磨砺，有人踏入了魔道邪途，有人醉心于虚幻仙",
+    "readUrl": "https://pan.baidu.com/s/1lm_BH9nkfqsSGE2HOPoNqg?pwd=5j96",
+    "downloadUrl": "/books/m_way_长生修仙：从脚踏实地修练开始1-648章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wbn",
+    "title": "末法时代，地仙道主",
+    "author": "苦海横渡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-511章",
+    "latestChapter": "",
+    "excerpt": "【目前高订六千，均订两千三，可食用！】青山云壑，念起无非仙境；隔雾观花，岂知世事朦胧？ 林忧误至此世，索性高卧山巅，仔细俯瞰着整个人间。 他看到了云的卷舒，风的无常，看到了曾有古仙于松下讲法，有帝王筑高台祭天，有老者踽踽独行，只为求得一个长生仙缘…… 细数人间风流尽， 未见红尘自在仙。 于是，他洒下了一颗种子。 多年以后，一株神树拔地而起，上穷碧落下黄泉，莹莹清光遍照大千。琉璃玉叶垂落，三千道种辉",
+    "readUrl": "https://pan.baidu.com/s/1sH1SjWdbeqBk4Cag_L65iw?pwd=5j96",
+    "downloadUrl": "/books/m_wbn_末法时代，地仙道主1-511章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wbo",
+    "title": "洪荒：师兄啊师兄，我比你更稳健",
+    "author": "刘玄羽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-334章",
+    "latestChapter": "第305章 ：锚点时间",
+    "excerpt": "李阳穿越洪荒世界，被齐源老道收徒，加入度仙门小琼峰，成为李长寿的师弟。在这危险的世界，到处都是阴谋诡计和暴力，性命朝不保夕，李阳决定学习师兄李长寿苟到天长地久。意外觉醒词条系统，获得词条【劳逸结合】【劳逸结合：（休息时间越长，修炼效果越好）】好家伙，这么离谱吗？有了这东西，我要在小琼峰待到天长地久。从此，这洪荒天地间多了一个比李长寿更苟.......呸，更宅的宅男。李长寿：“师弟，走，参加宗门历练",
+    "readUrl": "https://pan.baidu.com/s/1JdIFOMY9r0QnlkOmia5JDQ?pwd=5j96",
+    "downloadUrl": "/books/m_wbo_洪荒：师兄啊师兄，我比你更稳健1-334章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wbq",
+    "title": "这江湖不混也罢",
+    "author": "青草朦胧",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-826章",
+    "latestChapter": "",
+    "excerpt": "此生愿为岸，于江湖惊涛中守一处安宁，一半平风雨，一半醉烟火。这是楚岸平不入江湖的江湖故事。",
+    "readUrl": "https://pan.baidu.com/s/1YJ1NwCbrQtz-z3WewTU0LQ?pwd=5j96",
+    "downloadUrl": "/books/m_wbq_这江湖不混也罢1-826章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wbw",
+    "title": "我真的是反派啊",
+    "author": "情史尽成悔",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2858章",
+    "latestChapter": "第2857章 :长生老人",
+    "excerpt": "徐子墨发现自己重生了，带着前世一身惊天地的修为和所有的记忆。 但剧本不对的是，重生不都是主角的事吗？可老子的设定是个反派啊！ 这是一个反派一步步成为大魔王的故事。 —————————— 大争之世，道法齐鸣！ 真武圣宗的老人坐于柳岸河畔垂钓鱼台，忽闻龙吟阵阵，三千鲤鱼叩命门，化作万丈金龙，腾于苍穹，翩若惊鸿！ 有力士徒步丈量天地，有僧侣枯坐寺庙三千载，一朝顿悟，天降祥云，万法喝彩。 血月黑夜，长虹断",
+    "readUrl": "https://pan.baidu.com/s/1SeKjLYUNCwbOYO-A397TRA?pwd=gtiw",
+    "downloadUrl": "/books/m_wbw_我真的是反派啊1-2858章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wbz",
+    "title": "诡异修仙，我有一座五脏庙",
+    "author": "五志",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-900章",
+    "latestChapter": "第899章 谁吃谁？",
+    "excerpt": "商陆穿越到了一个古怪诡谲的修仙乱世，成了县衙里的小捕快。他有一个看不见的老婆，以及一座破败的五脏庙，庙里神祇的脸，还与他一模一样。有人盯上了他的一切，想要鸠占强夺，叫他家破人亡。商陆奋起力争，一步步踏上非凡之路。那一刻，他发现了这个世界的秘密……原来那些人，为了成仙长生，什么事都做得出来……",
+    "readUrl": "https://pan.baidu.com/s/1RDBXcZ205c8PXMH5MzH4UA?pwd=5j96",
+    "downloadUrl": "/books/m_wbz_诡异修仙，我有一座五脏庙1-900章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wcl",
+    "title": "宗门修仙：从气运天书开始崛起",
+    "author": "背负梦想的蜗牛",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1201章",
+    "latestChapter": "第439章 分身终成，侍奉童子",
+    "excerpt": "仙道昭昭，仙途浩瀚。宗门世家林立，匪修妖族肆虐。赵元毅，身为大师兄，在师父身陨后肩起重担，面对如狼似虎的匪修，他又该如何为身后年幼师弟撑起一片天？苦海浮沉，蝼蚁争渡。且看一介小修，如何在这弱肉强食的修行界里舍生忘死，呕心沥血，为宗门打出一条通天大道！（宗门修仙，智商在线，有金手指，气运流，开的不大）日更一万，放心食用。传统凡人流，节奏慢，请大家多担待！",
+    "readUrl": "https://pan.baidu.com/s/1huYpElFpY7sM17iAJzH8NQ?pwd=5j96",
+    "downloadUrl": "/books/m_wcl_宗门修仙：从气运天书开始崛起1-1201章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wct",
+    "title": "光明之路",
+    "author": "海逸小猪",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1137章",
+    "latestChapter": "",
+    "excerpt": "翻开一本铜皮古书，里面的旋涡瞬间将罗伊吸了进去……当罗伊再次睁开眼睛的时候，发现居然穿越进精灵的国度……精灵，矮人，迦娜，兽人，人类骑士，魔法师，神官……这是一个充满了魔法的奇幻世界！他是七届海的霸主，他带领船队所经之处便是光明之路",
+    "readUrl": "https://pan.baidu.com/s/1Y62Umxf05T8IltKrfbA3-w?pwd=gtiw",
+    "downloadUrl": "/books/m_wct_光明之路1-1137章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wd",
+    "title": "江湖都是前女友？",
+    "author": "驾舟圣手",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-821章",
+    "latestChapter": "",
+    "excerpt": "卫凌风只是来京城混个职位，为何高冷公主见他玉容羞红，飒爽女将喊他救命恩公，连孤傲出尘的道首都推开皇后，想先和他沟通沟通......“我不认识你们啊！”“装！继续装！你这负心汉！”“小魔头，老实交代！你江湖上到底有多少前女友？”直到某夜梦境破碎，卫凌风才惊觉——原来在她们绝望的夜晚，都曾有他踏月而来雪中送炭......而后又狠心将她们“抛弃”。",
+    "readUrl": "https://pan.baidu.com/s/1Gp3yL-Ip_ZkQReLnucLhxw?pwd=gtiw",
+    "downloadUrl": "/books/m_wd_江湖都是前女友？1-821章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wdc",
+    "title": "法舟",
+    "author": "寻春续昼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1006章",
+    "latestChapter": "第1006章 舍形炼质全太一（二合一求订！）",
+    "excerpt": "滚滚红尘浩如烟海，炼法作舟苦渡长生。-----------------这是一个柳洞清误入魔门，见鬼蜮森然，见红粉骷髅，见诡道异法，见波诡云谲，见因果算计，却始终凝视仙途，欲踏青天的故事。-----------------已有完本老书《御煞》、《灵章》，更新24K人品保证，新来的小伙伴们请放心阅读~",
+    "readUrl": "https://pan.baidu.com/s/1ifPsJeAzkpS5v1dEy39UKg?pwd=5j96",
+    "downloadUrl": "/books/m_wdc_法舟1-1006章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wdt",
+    "title": "我以天赋证长生",
+    "author": "西城烟火",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-508章",
+    "latestChapter": "第507章 来了！",
+    "excerpt": "胸中一点浩然气，天地千里快哉风。今朝乘鹤入仙门，来日当踏万道巅。————————————————五洲六海，灵枢无算，仙山洞藏，真修万千。仙、神、魔、精、鬼、妖……皆显圣迹。修者许青松，觉有宿慧，持鉴照身。可映进度于心，亦可法化天赋。愿与天地为常，穷尽大道风光。",
+    "readUrl": "https://pan.baidu.com/s/1_QzGaMXQBT0hg_l7i4Zc2Q?pwd=5j96",
+    "downloadUrl": "/books/m_wdt_我以天赋证长生1-508章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wed",
+    "title": "每日一卦，从坊市散修到长生仙尊",
+    "author": "北境南风",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-736章",
+    "latestChapter": "",
+    "excerpt": "【凡人流】【长生流】【苟道】【稳健】李长安转世至修仙世界，成为仙门落选的坊市散修。他天赋平庸，地位低微，本以为长生无望，好在觉醒了【每日问卦】系统。【今日卦象·吉】：你进山伐木，意外发现一个狐狸洞，在洞中找到一枚内蕴“符箓传承”的玉简。【今日卦象·凶】：你被劫修盯上，对方试图将你骗出坊市。【今日卦象·大吉】：你在坊市交易区，发现一枚血脉变异的“玄水龟”卵，实际血脉强度堪比地品灵兽，却被当做普通兽卵",
+    "readUrl": "https://pan.baidu.com/s/1jc-BqGkCmoXWrzVaotYbHg?pwd=5j96",
+    "downloadUrl": "/books/m_wed_每日一卦，从坊市散修到长生仙尊1-736章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wej",
+    "title": "县令起步，我在仙朝当天官",
+    "author": "老吴仙长",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1214章",
+    "latestChapter": "",
+    "excerpt": "张清川意外穿越到紫宸仙朝，这里仙道与天道合流，诞生仙朝天官，执天道权柄、代天道牧羊，为仙道共尊。 天官所辖地域，凡人、修仙者均为天道属民，可助益天官修行。 此界便分三重天地，凡人、仙人、天官。 有天官天授山河玺，横扫六大皇朝，开创元始仙朝。 有天官手持斩龙剑，斩尽世间恶龙，开辟神武仙朝。 有天官开局一个碗，踏平中元神朝，创建日月仙朝。 张清川十八岁开启天道印记，得一残缺玉碟，触发【万灵道果】，只要",
+    "readUrl": "https://pan.baidu.com/s/1S4FIRw4STnuZ2Ycnpg1-FA?pwd=5j96",
+    "downloadUrl": "/books/m_wej_县令起步，我在仙朝当天官1-1214章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wel",
+    "title": "战锤40k：锻钢兄弟",
+    "author": "本子学者",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-701章",
+    "latestChapter": "",
+    "excerpt": "荷鲁斯大叛乱失败后，混沌军团退败恐惧之眼，而隶属于钢铁勇士军团的速征军彼得与兄弟们脱离军团，成立自己的“锻钢兄弟”战帮。“我们不再是‘速征军’，不再是消耗品，不再是钢铁勇士，不再是佩图拉博的奴隶，我们现在是‘锻钢兄弟’。”“而这是我的战斧，‘克拉苏之血’，克拉苏之血必得报偿。”",
+    "readUrl": "https://pan.baidu.com/s/1tGq4lyG3IRjOve918LC4Xw?pwd=gtiw",
+    "downloadUrl": "/books/m_wel_战锤40k：锻钢兄弟1-701章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_weo",
+    "title": "高武：有挂，天才亿点很合理吧？",
+    "author": "猪小小",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-731章",
+    "latestChapter": "",
+    "excerpt": "【不正经简介】：天才，卷王，不服你咬我？挂逼，海王，专治各种作！【正经简介】：高武世界，万族争锋，人族微末！王曜宿命穿越，激活虚拟矩阵，扬名武道高考，逆袭草根崛起，开挂逆天改命，率领人族争霸，屹立万族之巅，独断星空万古！——本书又名《以天才之名，横扫万族！》，《那不是挂，是我的天赋！》，《让矩阵辅助？是我带它飞！》，《武曜星河，人族当兴！》，《你们不要再打了！要打去房间打》——快节奏爽文，质量保证",
+    "readUrl": "https://pan.baidu.com/s/1mGPMGq8KsHTQ1kTesV_lzg?pwd=gtiw",
+    "downloadUrl": "/books/m_weo_高武：有挂，天才亿点很合理吧？1-731章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wer",
+    "title": "重建修仙家族",
+    "author": "九玄山主",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1798章",
+    "latestChapter": "",
+    "excerpt": "【御兽流、家族修仙、种田流】尚未步入社会的学生，一朝穿越，成为御兽李氏家族子弟，从此踏上修行之路。故事，从李家被迫离开祖地开始。这是一个筑基家族步步崛起的修仙史诗！",
+    "readUrl": "https://pan.baidu.com/s/1lrawwSOl5HUisv3WHBybYw?pwd=5j96",
+    "downloadUrl": "/books/m_wer_重建修仙家族1-1798章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wfc",
+    "title": "长生从觉醒异能开始",
+    "author": "咸鱼王之之",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-923章",
+    "latestChapter": "",
+    "excerpt": "重生到一个异世界无名山村里的贫寒少年身上，陆青表示很无奈。好在觉醒了一个能够看穿物品信息的异能，让他有了点生存的资本。他看向路边的一株杂草。【牛骨草，品质一般，可药用，治疗骨伤颇有疗效。】看向河里一尾红色鲤鱼。【红月鲤，品质上佳，肉质鲜美，乃滋补上品。】看向山里的一只野兔。【灰兔，普通野兔，可食用。】凭借着自带的异能，陆青在村庄里逐渐站稳了脚跟，能够生存下去。就在他以为，自己僵在这个生产力底下的古",
+    "readUrl": "https://pan.baidu.com/s/1rEjvkHlITAkioEltlJ1cUw?pwd=5j96",
+    "downloadUrl": "/books/m_wfc_长生从觉醒异能开始1-923章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wfd",
+    "title": "人在凡人，觉醒荒古圣体",
+    "author": "九转大肠精",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-430章",
+    "latestChapter": "",
+    "excerpt": "本书又名说好的去遮天当圣天帝，结果穿到凡人了。霍易：“韩立，你也修炼到了筑基期，可有听说过哪个伪灵根结丹。”韩立：“师弟不也是伪灵根，还是五灵根。”霍易：“所以我特意打听到了一种可以洗涤灵根的丹药，补天丹！”“想要吗？师兄。”",
+    "readUrl": "https://pan.baidu.com/s/1xwMdCZfxzBjSVGpWJGZMoQ?pwd=5j96",
+    "downloadUrl": "/books/m_wfd_人在凡人，觉醒荒古圣体1-430章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wfh",
+    "title": "修仙：从复制灵龟长寿天赋开始！",
+    "author": "猫叫张胖丁",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-689章",
+    "latestChapter": "第359章 长生果，寿元大增！",
+    "excerpt": "蹉跎三十六载，道院苦修三十秋，灵根未显，仙途渺茫，世人皆叹“朽木难雕”。然，一枚古玉藏玄机，窃天机，夺造化！龟寿双百载，丹心通万法，自此，朽木逢春抽新枝，蛰龙终得风云起！......多年后，再回首，仙界群雄俯首，万族共颂长生之名！可知“长青道尊”，原是当年小小道院，那位被嘲笑了半生的“老学子”。PS：已有300万字精品凡人流仙侠，可放心阅读。【凡人流】【稳健】",
+    "readUrl": "https://pan.baidu.com/s/1bJHfSwEeVb0X3YPbhxpi_Q?pwd=5j96",
+    "downloadUrl": "/books/m_wfh_修仙：从复制灵龟长寿天赋开始！1-689章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wfs",
+    "title": "蜀山剑仙列传",
+    "author": "天魔诛仙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-390章",
+    "latestChapter": "第385章",
+    "excerpt": "自古英才爱骄狂，岂知天意不可量。诛仙剑下无冤魂，此去冥河莫彷徨。",
+    "readUrl": "https://pan.baidu.com/s/1LjO3CoOAjyGlmnFYpCtgDA?pwd=5j96",
+    "downloadUrl": "/books/m_wfs_蜀山剑仙列传1-390章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wfy",
+    "title": "拳之下",
+    "author": "厌三途",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-656章",
+    "latestChapter": "",
+    "excerpt": "武功者为何？力之奋也。武侠者为何？意气之奋也。……抬脚论输赢，拳下定生死。“在下练幽明，领教了！”",
+    "readUrl": "https://pan.baidu.com/s/1LvBlNp2dTFCpCiW_iXljwQ?pwd=5j96",
+    "downloadUrl": "/books/m_wfy_拳之下1-656章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wg",
+    "title": "大离长生仙",
+    "author": "白衣鹤上仙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-591章",
+    "latestChapter": "第591章 ：盘算",
+    "excerpt": "好消息，不用做牛马了！他穿越了！这是一个武道昌隆的世道，宗师可一指断江！坏消息，成了武侯世子！武道废材！他老子是皇帝手中刀！他开局就被狐妖劫持！（若和现实雷同，纯属巧合！！！）",
+    "readUrl": "https://pan.baidu.com/s/1QwJF_Urb795auVOQrJnofw?pwd=5j96",
+    "downloadUrl": "/books/m_wg_大离长生仙1-591章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wgk",
+    "title": "方仙外道",
+    "author": "布谷聊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-473章",
+    "latestChapter": "",
+    "excerpt": "小道士年方二八，正青春被勾动了烦恼。每日里身老病死苦，见些个爱恨嗔痴怨。我不愿容颜凋华萎，我不愿皮肉生衰斑，我不愿四肢枯槁、五脏虫空、白骨臭秽。小道士年方二八，一心只愿那长生不老。………………炼己为药，养身作饵，一介凡种渡劫求仙的故事。",
+    "readUrl": "https://pan.baidu.com/s/1BFduZ_irHKTrfodUw2iffQ?pwd=5j96",
+    "downloadUrl": "/books/m_wgk_方仙外道1-473章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wgn",
+    "title": "诡秘：小魔女不接受摆烂",
+    "author": "白毛者",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-656章",
+    "latestChapter": "",
+    "excerpt": "不是哥们，我跟魔女教派真的没有一点关系。 对，我是刺客途径没错，我以前是男人也没错，但我真不是故意喝“女巫”魔药的——唉不是，没人逼我喝，我也不想变。魔药是从魔女教派成员嘴边抢过来的，我哪知道“教唆者”晋升还有这效果？ 上校先生，请你相信我，我这一生行得正坐的端，金钱、地位、荣誉……哪个不是靠双手打拼来的？谁不知道我对王国有功？让我去见国王！英明的乔治三世陛下曾亲自为我授勋—— 哎呀不是，你这是偏",
+    "readUrl": "https://pan.baidu.com/s/1qwA1dzSwZ79EifkVGpxJiw?pwd=gtiw",
+    "downloadUrl": "/books/m_wgn_诡秘：小魔女不接受摆烂1-656章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wgp",
+    "title": "西游妖帝：从多宝金蟾开始",
+    "author": "点墨金蝉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-687章",
+    "latestChapter": "第694章 弥勒门下",
+    "excerpt": "那一年。 孙悟空还是花果山上的石头。 金蝉子还在佛祖座下打着瞌睡。 猪八戒也还在当着他的天蓬元帅。 花果山下，一个后世人类的灵魂，在一款《黑神话：西游》游戏中，穿越而来，成为了一只蟾蜍妖精。 …… 日蕴金乌，是为太阳；月乃蟾宫，是为太阴。 太阴太阳，孰弱孰强？阴阳共济，天下称皇！ 踏南天，碎灵霄，蟾蜍吞天！",
+    "readUrl": "https://pan.baidu.com/s/1Ifn93hxSpUGnU7afO0sEaQ?pwd=5j96",
+    "downloadUrl": "/books/m_wgp_西游妖帝：从多宝金蟾开始1-687章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wgw",
+    "title": "凡人：我温天仁，只想长生不死！",
+    "author": "陈晋甲",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-285章",
+    "latestChapter": "第200章 天魔宗，很好！！！",
+    "excerpt": "穿入凡人世界，成为了同名同姓的温天仁。温天仁：“师尊，我想与星宫双圣之女结为道侣。”六道极圣：“你可知我与那双圣是死对头？”温天仁：“那你这师尊不要也罢，老东西，受死！”六道极圣：“逆徒！逆徒！”以上搞笑！开局结丹巅峰，抢机缘，收女眷，压韩立。体内五色灵光，吞噬一切。铸就魔龙之躯，登顶诸界第一大乘。六极：你个死没良心的，我这里是你的托儿所吗？宝花：夫君帮我杀了六极，我就是你的！(简介无力请看正文，",
+    "readUrl": "https://pan.baidu.com/s/1CCA_H9EfVi2fiBSQLI-y1A?pwd=5j96",
+    "downloadUrl": "/books/m_wgw_凡人：我温天仁，只想长生不死！1-285章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wgx",
+    "title": "修真高手的田园生活",
+    "author": "小学嗣业",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-3400章",
+    "latestChapter": "第410章 临别相互赠送",
+    "excerpt": "只想安安静静的修仙，闲暇之余喝喝茶、溜溜食、卖卖菜。 但是怎么所有的人都不想让自己安静地待着？ 各种各样的人都要在自己面前晃悠，找事情的找事情，找麻烦的找麻烦，还有很多妹纸天天要来找自己 不要来啊！其实我真的只想安安静静的待着，好好修炼罢了。",
+    "readUrl": "https://pan.baidu.com/s/1h08BP_8YppbQPESxL5SwxA?pwd=5j96",
+    "downloadUrl": "/books/m_wgx_修真高手的田园生活1-3400章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_whj",
+    "title": "观山！",
+    "author": "要胖的红烧肉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-406章",
+    "latestChapter": "第393章 :疲惫的秦御风",
+    "excerpt": "【真长生流】+【大时间跨度】 山，是那座山。人，已非当年的人。 许然获得【长生道果】，自此踏上一场望不见尽头的修行。他目睹天骄陨落，见证宗门兴衰，曾把酒言欢的同道，终成冢中枯骨。长生路上，故人皆散，大道独行。沧海桑田，诸世变迁，唯有他岿然不动，静观那山",
+    "readUrl": "https://pan.baidu.com/s/1K4a05e5WwMyYLH1plsZJDA?pwd=5j96",
+    "downloadUrl": "/books/m_whj_观山！1-406章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_whs",
+    "title": "从白犬开始修仙",
+    "author": "尸魔道人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-466章",
+    "latestChapter": "第471章 天狗吞月（大结局）",
+    "excerpt": "吴天一朝醒来，成为苗疆寨子里一条普通的白犬，好在有系统面板可以发掘天赋，让他得以在邪崇阴鬼横行、妖魔遍地的大山里生存。叮，系统提示，您觉醒了天赋趋吉避凶。叮，系统提示，您觉醒了天赋铜皮铁骨。叮，系统提示，您觉醒了天赋火眼金睛。叮，系统提示，您觉醒了天赋三头六臂。……当无数岁月过去后，某只狗子轻轻抬头，张口吞下了一轮明月……",
+    "readUrl": "https://pan.baidu.com/s/11Q5MeElL80dSDVcybOfFkA?pwd=5j96",
+    "downloadUrl": "/books/m_whs_从白犬开始修仙1-466章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wib",
+    "title": "我师妹怎么看谁都像邪修？",
+    "author": "我不会骑自行车",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-753章",
+    "latestChapter": "第750章 逃亡狂飙！异形泥头车与人形推土机！",
+    "excerpt": "来到仙侠游戏《烬天》的世界里，林清风开宗立派，建立归曦宗。但不知为何，这里本地人却怎么都不肯过来入宗任职，这让宗门发展停滞不前。恰逢此时。伪灵根苏灵儿接下清虚观任务：卧底上古魔宗——归曦宗！在这里，她见证了弟子以身为炉，锻骨为剑，甚至还想将她炼为手中仙剑！为求自保，苏灵儿被迫成了新晋弟子的唯一引路人，甚至一度成为魔门圣女。面对那些向往魔道的面孔，苏灵儿亲手掐灭一颗又一颗火苗！然而，她没想到...清",
+    "readUrl": "https://pan.baidu.com/s/1VawgnTK4qOb5KRrGRhdRrQ?pwd=5j96",
+    "downloadUrl": "/books/m_wib_我师妹怎么看谁都像邪修？1-753章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wic",
+    "title": "开局被超人捡到的维星人",
+    "author": "茅庐藏酒壶",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-496章",
+    "latestChapter": "第495章 精英战士",
+    "excerpt": "我叫李贞。 维特鲁姆星优秀毕业生，同时也是维特鲁姆星的叛徒。 这个文明太残酷了，残酷到让我忍不住怀念上辈子在地球平平安安的日子。 为此，我在成人礼的这一天，做了一个重大决定。 趁着其他维特鲁姆预备役战士在征服了一颗星球后的松懈时刻。 从破败不堪的倒霉星球上抢了一艘飞船，打算前往地球，去过一段悠闲时光。 哪怕事后被维特鲁姆星清算。 但当我千辛万苦终于抵达了地球附近时，一个从未在我意料当中的家伙出现了",
+    "readUrl": "https://pan.baidu.com/s/1TzMu7TJoCFPnV-p62o0MsQ?pwd=gtiw",
+    "downloadUrl": "/books/m_wic_开局被超人捡到的维星人1-496章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_win",
+    "title": "西游：拦路人！",
+    "author": "九月病句",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-717章",
+    "latestChapter": "",
+    "excerpt": "穿越西游，觉醒拦路人系统。只要在每一难阻拦唐僧师徒取经的脚步就可以获得奖励。拦截三天，奖励：移山之术拦截七天，奖励：六转金丹拦截半个月，奖励：真龙龙珠拦截一个月，奖励：后天灵宝·五火神焰扇拦截一季，奖励：神通·五色神光拦截半年，奖励：祖龙精血拦截一年，奖励：先天灵宝·散魄葫芦拦截三年，奖励：先天灵宝·河图洛书拦截十二年，奖励：混沌钟拦截六十年……若干年后，西方极乐世界，如来问道：“观音尊者，取经人",
+    "readUrl": "https://pan.baidu.com/s/1nG6YBHhX50epTuJ68vNlNA?pwd=5j96",
+    "downloadUrl": "/books/m_win_西游：拦路人！1-717章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wip",
+    "title": "从仙门牛马苟到青帝仙君",
+    "author": "老王秘制小汉堡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-594章",
+    "latestChapter": "第594章 元婴大典",
+    "excerpt": "【凡人流、长生流、熟练度、种田、稳健、三观正常】许长安穿越而来，仙门弟子身份本以为是传奇开始，现实却给了他一巴掌。灵田种植需要法术，施展法术需要法力，法力上限受限修为。可经脉和神魂都用来恢复法力，哪有机会去提升？在他绝望之际，忽然觉醒熟练度面板。小云雨术，从原先施展四十次才覆盖十亩地，到后来挥手间笼罩方圆万里。小庚金术，从最初仅能斩断几株灵植，到后来抬手便将千里化作剑域。长春功，也蜕变成了集恢复、",
+    "readUrl": "https://pan.baidu.com/s/18XfR9pppUY6w17hBc9hnLA?pwd=5j96",
+    "downloadUrl": "/books/m_wip_从仙门牛马苟到青帝仙君1-594章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wjc",
+    "title": "末法天地长生仙",
+    "author": "徍男",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-404章",
+    "latestChapter": "",
+    "excerpt": "【大精可阅】【蛊酒针仙】【道侣红尘】【剑修】 古来圣贤皆寂寞，修仙得道留其名……惜秦皇汉武，终归尘土，唐宗宋祖，难逃天数，末法天地，无人可得长生，皆淹没于历史尘埃。 赵无羁穿越而来成了一名太医，发觉这个世界似乎有些不对劲，曾经求仙问道者，仿佛真有所成。 然当世末法，灵气衰竭，修仙者隐于幕后，操纵天下，严控仙法资源，他开局一根针，需要医病施针，炼丹酿酒，养蛊驭魂，红尘道侣，修得九阴九阳圆满，方得长生",
+    "readUrl": "https://pan.baidu.com/s/1o0Aeh46vNRg3yKQ8Rc4_SA?pwd=5j96",
+    "downloadUrl": "/books/m_wjc_末法天地长生仙1-404章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wjh",
+    "title": "暮年修仙，我成长寿道尊",
+    "author": "徍男",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-496章",
+    "latestChapter": "",
+    "excerpt": "【仙意侠气，人情练达，修仙长生，高订五万的万均仙侠，可阅】永忆江湖归白发，欲回天地入扁舟。陈登鸣一脚踏入纷乱江湖，直至年迈才踏入先天之境，但武道先天却并非他心中江湖的终点，修仙长生才是梦的启航。既然练功可以延寿，修道便更能直指长生。习武、炼蛊、修道、长生......这是一个普普通通穿越客在江湖、在修真界一步一步问道长生的故事。读暮年修仙，品启强人生！阅书少年，你是懂修仙的！...（已完本近五百万字",
+    "readUrl": "https://pan.baidu.com/s/15HjMV3DZtzNqVfWBhsVvjw?pwd=5j96",
+    "downloadUrl": "/books/m_wjh_暮年修仙，我成长寿道尊1-496章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wjm",
+    "title": "西游：真君，你化身蛟魔事发了！",
+    "author": "恒阳烟去",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-462章",
+    "latestChapter": "第461章",
+    "excerpt": "陈蛟一朝入西游，竟发现自己能以功德创造化身万千！人间修行三百年，终得飞升天庭授雷部天君。天君统雷将、掌权柄、司杀伐，降妖除魔，累积功勋，晋位真君。与哪吒互为损友，被杨戬引为挚友。北海之上，他是凶名赫赫的覆海蛟魔王，拳镇群妖，戟挑仙神，与牛王称兄道弟，和猴王切磋赌斗。妖王、剑仙、佛子……原来化身早已遍及三界。菩提树下有我听经，幽冥界中有我巡察凌霄殿上有我议事，万妖之国有我称帝。待雷霆骤起之日，方显布",
+    "readUrl": "https://pan.baidu.com/s/1LatHPfUylaRNwqZ5kzyw8g?pwd=5j96",
+    "downloadUrl": "/books/m_wjm_西游：真君，你化身蛟魔事发了！1-462章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wju",
+    "title": "金刚不坏大寨主",
+    "author": "徍男",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1284章",
+    "latestChapter": "",
+    "excerpt": "【横推】【爆燃】【2020-2021武侠最火作品】【漫画在腾讯动漫连载，可看】内练一口九阳气，外练一身金刚骨，金背九环刀横扫四十丈银蓝刀气，气沉丹田左冲右突，降龙神掌轰炸全场。道心魔种......忘我唯我......葵花真劲......飞刀朔空......袈裟伏魔......天龙七式......如来神掌、战神破碎！尽在群英荟萃精彩热血的江湖！....大寨主江大力雄壮之极的身躯静坐在雕花梨木大椅上，",
+    "readUrl": "https://pan.baidu.com/s/19mfaINSAsTFIOTurmoGyzg?pwd=5j96",
+    "downloadUrl": "/books/m_wju_金刚不坏大寨主1-1284章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wkh",
+    "title": "长生从抚养徒弟开始",
+    "author": "闲着西风",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-577章",
+    "latestChapter": "第576章 ：罗霄盟立；松阳精血",
+    "excerpt": "陈业穿越而来，竟成了暗黑仙侠游戏中传说级人物。据传，他是一介药农，却教导出举世闻名的两个仙子。大徒弟陆知微，天下第一的正道仙子。小徒弟徐青君，无恶不作的魔道妖女。……望着蜷缩成一团的两个瑟瑟发抖小女娃。陈业发现，他提前穿越了五百年。五百年后的事情，与他何干？他不过是修真界中平平无奇的老登，只想以一块熟练度面板，安安心心度过余生……顺带抚养两个徒儿长大。",
+    "readUrl": "https://pan.baidu.com/s/1CeDs30svlZWmDUICs87eeQ?pwd=5j96",
+    "downloadUrl": "/books/m_wkh_长生从抚养徒弟开始1-577章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wku",
+    "title": "从废灵根开始问魔修行",
+    "author": "手残喵喵酱",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1026章",
+    "latestChapter": "第72章 光阴长河（一）：临渊照真",
+    "excerpt": "转生修行世界十六载，从废灵根开始问魔修行。——————检测之日灵根落于五等，今生难以突破练气中期，仙门不收，长生难求。恰逢魔宗易奴，从各地搜刮资质低下者为“灵奴”，以燃寿魔功培养多批耗材，令其自损修为制作灵砂，供给魔宗享用。王煜于石湖城被掠往魔域之地，以灵奴之身入魔道大门，幸好有【放置栏】傍身，可解决诸多问题！——————【放置栏1：燃血功】「燃血功（0/100）：一日四十八练，一年可成。」Ps：",
+    "readUrl": "https://pan.baidu.com/s/1OE95D-1SWfIwvO_wprOwVw?pwd=5j96",
+    "downloadUrl": "/books/m_wku_从废灵根开始问魔修行1-1026章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wld",
+    "title": "西游：从拜师太乙救苦天尊开始",
+    "author": "清风映明月",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-610章",
+    "latestChapter": "第610章 朕",
+    "excerpt": "穿越西游世界，成了被猪八戒一钉耙打死的——后世赫赫有名的妖怪网红金钱豹的哥哥。于是为了拯救弟弟以及日后不和某个毛脸雷公嘴的和尚对掏，曹空决定走出大山，寻个靠山。不求闻达于仙佛，只愿苟得岁月静好。幸有机缘造化，拜师太乙救苦天尊门下。“徒儿，若是日后惹出祸来······”“师父我懂，若惹出祸来，决不提起师父一字。”太乙救苦天尊抚须大笑：“若惹出祸来，你且呼为师名讳，为师自会寻声赴感，前来救你。”曹空：",
+    "readUrl": "https://pan.baidu.com/s/1OiympH5VAHvui2RvWtuqyw?pwd=5j96",
+    "downloadUrl": "/books/m_wld_西游：从拜师太乙救苦天尊开始1-610章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wlh",
+    "title": "长生从炼丹宗师开始",
+    "author": "雨去欲续",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1298章",
+    "latestChapter": "第1296章 七彩光门",
+    "excerpt": "山人是为仙，往来青云巅。阴阳炉中炼，大道在心间。罗尘穿越修仙界，以一块熟练度面板，炼丹服气，习法研术，一步步走向长生大道。（跳过凡人世界，直接修仙界开局）",
+    "readUrl": "https://pan.baidu.com/s/1V0kG-tZVuaC8b4SFdOkLQA?pwd=5j96",
+    "downloadUrl": "/books/m_wlh_长生从炼丹宗师开始1-1298章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wlk",
+    "title": "我王语嫣，在线改命",
+    "author": "多帅少肉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-529章",
+    "latestChapter": "",
+    "excerpt": "安得天龙三百万，为君谈笑净湖沙。胎穿到天龙八部的王语嫣，想到原主手握一堆好牌却玩得稀巴烂，痛心之余，她吸取教训，自小习武。三岁就跟随母亲李青萝前往无量山琅嬛福地，取得《北冥神功》跟《凌波微步》。六岁习武，九岁杀敌，十二岁正式出道，自此开始属于自己的传奇江湖路。太湖挫鸠摩，擂鼓见无涯。缥缈峰上对童姥，长生谷内遇逍遥。曾乘鹤入皇宫，斩杀辽皇。曾挥掌摧青峰，威慑西夏。……她是天龙时代的天下第一人，是独孤",
+    "readUrl": "https://pan.baidu.com/s/1PsUYSWFnlGFMyKPwmHTUBg?pwd=5j96",
+    "downloadUrl": "/books/m_wlk_我王语嫣，在线改命1-529章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wll",
+    "title": "日夜游神",
+    "author": "青山尽墨",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-607章",
+    "latestChapter": "第604章 向死而生",
+    "excerpt": "古佛被羊头人身的怪物窃取了头颅，异鬼在佛殿里埋下一只眼睛，从此世间的火熄灭了，黑暗将大陆笼罩。为了对抗异鬼的入侵，天地间，诞生了日夜游神。这是说书人世世代代口述的戏文，曾经的大陆，古佛、异鬼、日夜游神的真相，究竟是如何？或许，从一家名为“周家班”的戏班，可以找到蛛丝马迹。周家班，是专给死人唱戏的戏班……",
+    "readUrl": "https://pan.baidu.com/s/1OUp7E1ElNSAalP7G1KWoKg?pwd=gtiw",
+    "downloadUrl": "/books/m_wll_日夜游神1-607章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wln",
+    "title": "情报每日刷新，我在公门武道成圣",
+    "author": "敌敌畏拌面",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-275章",
+    "latestChapter": "第275章 上任！难堪！",
+    "excerpt": "屠渊：谢邀，人在联邦。 好消息：工作在联邦体制内，是一名见习警员。 坏消息：朝中无人，晋升艰难，而且这个工作很危险，可能要面对肌肉密度大到能硬抗子弹的超凡生物，徒手甩飞车辆的武道家败类，以及能隔空伤人的邪恶精神念师。 好消息：屠渊脑海中有一枚铜钱，可每日提供情报信息。 【今日情报：因青龙药厂工作人员工作疏漏，将青龙九号药剂，误装至产品编号为QL379543G青龙三号药剂，此时这盒药剂位于瑞临路青龙",
+    "readUrl": "https://pan.baidu.com/s/1yubE1J40M71vUYBQATRiHw?pwd=gtiw",
+    "downloadUrl": "/books/m_wln_情报每日刷新，我在公门武道成圣1-275章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wlo",
+    "title": "哪有啥祖宗，都是我编的",
+    "author": "六作",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-814章",
+    "latestChapter": "第814章 不请自来",
+    "excerpt": "开局编造祖师爷，结果历史真被我篡改了！师父撒手人寰，陈清临危受命，成了个眼看就要“树倒猢狲散”的破落掌门。为稳住人心，他灵机一动，现场开编本门“上古秘史”！拳镇八荒的太上长老？力挽狂澜的中兴之祖？剑断天河的开派祖师？不存在的！全是拍脑门瞎掰的！本想先糊弄过去，日后再圆谎，谁知当天夜里……吹的牛，竟然成真了！陈清竟梦回过往，亲自扮演起刚编的猛人老祖。",
+    "readUrl": "https://pan.baidu.com/s/1U48KSzl152YkPXDku2uDmQ?pwd=5j96",
+    "downloadUrl": "/books/m_wlo_哪有啥祖宗，都是我编的1-814章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wlx",
+    "title": "我能强化世间万物！",
+    "author": "白鹤江上月",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-473章",
+    "latestChapter": "第473章 规则本源、天道世界",
+    "excerpt": "一觉醒来，方星意外穿越到了一方武道为尊的乱世之中，好在觉醒了独一无二的《强化》能力。长生内丹术，成功强化，获得武学《长生诀》！赤火拳，成功强化，获得武学《赤火神功》！四极元功，成功强化，获得武学《混天四绝》！枯荣真经，成功强化，获得仙法《诸天生死轮》！你强化了自身悟性，成功强化，你的悟性达到天纵之资！你强化了自身第一命格，成功强化，获得命格·紫《潜龙出渊》！化腐为奇，化凡为圣！浩瀚世界，从此多了一",
+    "readUrl": "https://pan.baidu.com/s/1a1SwVEV_KRXWIEoENZ8FTA?pwd=gtiw",
+    "downloadUrl": "/books/m_wlx_我能强化世间万物！1-473章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wmd",
+    "title": "荒野大暴徒",
+    "author": "叶不如荒",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-438章",
+    "latestChapter": "第439章 雪地炼狱场",
+    "excerpt": "【枪武、侠客、抢劫、美式居合、潜行刺杀，全网唯一题材，场面劲爆，肾上腺素飙升】——1668年末。一场大灾荒，彻底终结了帝王时代，这个世界迎来了军阀混治，蒸汽文明勃发，硝烟弥漫的亡命徒时代。这里帮派林立，暴徒横行，镖客、赏金猎人出没。这是左轮手枪的江湖。枪膛里射出的子弹，是恶魔的低语，亦是枪手的救赎。抢矿场，抢银行，抢工厂，抢寺庙，抢军营，抢轮船……——曹立没什么大的抱负，只想凭着手中的左轮，自由地",
+    "readUrl": "https://pan.baidu.com/s/1jr_fdXpDCN7FXZ3HI8GY6Q?pwd=5j96",
+    "downloadUrl": "/books/m_wmd_荒野大暴徒1-438章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wmh",
+    "title": "人间太岁神！",
+    "author": "五方行尽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-455章",
+    "latestChapter": "第106章 横推无敌，全部镇压！",
+    "excerpt": "【诸天流】【无敌流】【崛起于低武时代，超凡长生】洪元穿越了，随身揣着一座【太岁福地】——入主其间则福地不灭，己身不朽，与天同寿！这泼天富贵，爽到飞起？奈何开启福地，需解锁【武力】、【权力】双天下第一成就，属实亿点小缺陷。所幸，未能入主福地，洪元却被赋予了【根骨】、【悟性】无限成长的恐怖潜力。环顾四周，此世以一敌十便是高手，以一敌百便称天下顶尖？洪元看着这力量贫瘠的舞台，感受着体内永无止境变强的可能",
+    "readUrl": "https://pan.baidu.com/s/1KbooTINqXFBkJBUfkeInIg?pwd=gtiw",
+    "downloadUrl": "/books/m_wmh_人间太岁神！1-455章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wmp",
+    "title": "我从秦末开始修仙",
+    "author": "小老鎏",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-521章",
+    "latestChapter": "",
+    "excerpt": "秦二世元年七月，征发闾左戍卒九百人赴渔阳戍边，至此遇大雨，道不通，失期。“公等遇雨，皆已失期！按秦律，失期当斩……”一觉醒来，陆见平竟成了大泽乡九百戍卒里的一员，历史的文字正化为真实的声音，在耳边炸响。接下来，他们就要造反了，我该怎么办？在线等……咦，等会……原来我能修仙，那就不怕了……",
+    "readUrl": "https://pan.baidu.com/s/1y1GXkj1vHB3J1NRtNKQNMQ?pwd=5j96",
+    "downloadUrl": "/books/m_wmp_我从秦末开始修仙1-521章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wmy",
+    "title": "她们都叫我树妖姥姥",
+    "author": "冷冷蝉",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-296章",
+    "latestChapter": "",
+    "excerpt": "穿越聊斋，入主兰若。陈舟一觉醒来，发现自己重生成了千年树妖。好消息：人没死，还能修仙。坏消息：一道晴天霹雳过后，树妖的周身法力全无，手底下魑魅魍魉树倒猢狲散，唯独留下一个不谙世事的小狐妖。恰在此时，小狐妖手捧着一个陶罐，对陈舟说道：“姥姥，这是小倩的骨灰坛。”陈舟：……",
+    "readUrl": "https://pan.baidu.com/s/1QXdTUOj4GWaf2eAXOJnOjg?pwd=5j96",
+    "downloadUrl": "/books/m_wmy_她们都叫我树妖姥姥1-296章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wna",
+    "title": "临渊问道",
+    "author": "奕念之",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-497章",
+    "latestChapter": "第494章 飞升【大结局】",
+    "excerpt": "金丹大修叶临渊转世，从一位灵植夫开始修行。此世他修炼厚积薄发之法，种灵药、炼仙丹、修阵法，不知不觉之间已是一代仙尊。PS；已完本550万字仙侠大精品老书《逐道长青》高订3万，质量人品双保障，欢迎品鉴。",
+    "readUrl": "https://pan.baidu.com/s/1fVroV6vDfsZ5KK0R-kND1Q?pwd=5j96",
+    "downloadUrl": "/books/m_wna_临渊问道1-497章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wng",
+    "title": "修仙：从杂役到仙尊",
+    "author": "炎陵黄桃好吃",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1201章",
+    "latestChapter": "第316章 战功兑换，大师相召！",
+    "excerpt": "【凡人流精品之作，高定破万，请大家放心阅读！】当宗门天骄炫耀天灵根时，周寻看着眼前的草药笑了，吞噬，灵根+10，从杂役到仙尊，他让修仙界明白：所谓天才，只是没遇到开挂的凡人！（凡人流、稳健、修仙界开局、杀伐果断）ps:本书又名《我的灵根能吸收精华》《修仙：吸收精华，长成巨灵根开始》",
+    "readUrl": "https://pan.baidu.com/s/136IFScnXj-uylupVI6JSKw?pwd=5j96",
+    "downloadUrl": "/books/m_wng_修仙：从杂役到仙尊1-1201章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wnh",
+    "title": "凡人修仙：忘羽穿书，轮回道祖",
+    "author": "一杯可乐不加冰",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-532章",
+    "latestChapter": "第517章 、拍卖会，采购物资，两界的物价行情",
+    "excerpt": "【多女-凡人流-先知先觉-宗门家族】没有掌天瓶，我韩立就不能修仙吗？没有其余任何的金手指，伪灵根韩立可以创造奇迹后续崛起吗？真正的凡人流。不一样的剧情等着挖掘。韩立：“该接受的挑战，韩某都度过，该有的享受，自然也不能错过…”多女",
+    "readUrl": "https://pan.baidu.com/s/1s3Eo27xgsLa_06pwKTQbDg?pwd=5j96",
+    "downloadUrl": "/books/m_wnh_凡人修仙：忘羽穿书，轮回道祖1-532章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wno",
+    "title": "逐道长青",
+    "author": "奕念之",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2176章",
+    "latestChapter": "",
+    "excerpt": "书友群：914925527无尽混沌，万界沉浮。紫胤界，妖魔肆虐，苍生涂涂。又有仙族、宗门林立，护持人族繁衍生息。陈念之携一卷道经转世而来，化作陈氏仙族弟子，从此踏上了艰辛修行，逐道长青之路。PS：百万字老书高订近万，质量有保证，放心追书。",
+    "readUrl": "https://pan.baidu.com/s/1Q1h97JKHuvIoRUYuAjztOA?pwd=5j96",
+    "downloadUrl": "/books/m_wno_逐道长青1-2176章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wnx",
+    "title": "稳健修仙：从一分耕耘开始",
+    "author": "陌路离殇渡落魂",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-752章",
+    "latestChapter": "第752章 圣临混沌",
+    "excerpt": "仙路漫漫，灵根为基，境界为阶。然红尘争渡，终究难敌资源所化的利刃。陆尘觉醒前世记忆后，苦寻仙缘五载，终迎来大夏王朝灵根检验之机。奈何身无倚仗，一朝分配，便如落叶飘零，坠入这大夏闻名的“牛马之地”——灵植堂。此地法术浅薄，因无用武之地；资源寡薄，因无需多予。修士来此，不过是以有限寿元，为大夏培育无尽资源，所得不过沧海一粟，微末如尘。幸而，陆尘身负【一分耕耘】天赋，可于点滴劳作间积累熟练，逆转天命。初",
+    "readUrl": "https://pan.baidu.com/s/1s0OeTgoviBPPVTpBBrRmjg?pwd=5j96",
+    "downloadUrl": "/books/m_wnx_稳健修仙：从一分耕耘开始1-752章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wo",
+    "title": "集群重炮轰杀修仙者",
+    "author": "绝望羔羊",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2811章",
+    "latestChapter": "第2795章 太上大日古皇江定取得了所有成仙之战的胜利",
+    "excerpt": "炮弹亦是飞剑！ 虚假的练气期修士：施展水火法术，御使飞剑数十步外取敌首级，还有一枚盾牌法器，攻守兼备， 真实的练气期修士：驾驶99式主战坦克，搭载神识牵引125毫米法器主炮，两挺12.7毫米神识矫正牵引高平两用法器机枪，车尾悬挂9枚各式电磁神识联合牵引导弹，4架侦查无人机，在20公里外将敌人轰成灰烬。 更真实的元婴修士：空天母舰集群，作战范围万里…… 元素：【高武】【武道】【修仙】【两界】",
+    "readUrl": "https://pan.baidu.com/s/1JQW_i4TJEL0vGQwRQQn0AA?pwd=5j96",
+    "downloadUrl": "/books/m_wo_集群重炮轰杀修仙者1-2811章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wof",
+    "title": "渊天辟道",
+    "author": "我是瞎混的",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1100章",
+    "latestChapter": "第1100章 七星宝树",
+    "excerpt": "乾坤颠倒，万法失序。人夺天之髓，天绝人之道。仙道渺渺，永生空空，我自辟道而行，于深渊中见永生。",
+    "readUrl": "https://pan.baidu.com/s/1ig97QEAV53WRv6_K1JiKBw?pwd=5j96",
+    "downloadUrl": "/books/m_wof_渊天辟道1-1100章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wop",
+    "title": "青阳仙途",
+    "author": "执笔点春秋",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1134章",
+    "latestChapter": "第1128章",
+    "excerpt": "【无系统】【凡人流】【杀伐果断】这一年方逸十六岁，在陌生的修仙界醒来。 作为穿越者，感受着白嫩的皮肉，心脏擂鼓般跳动。 “终于不再是皮枯肉朽，寿元将近，垂垂老矣！” 他身子颤抖，决心低调行事。“阴尸需养，人傀照炼，但行事三思而灭族，断绝后患。” ...... 玄阳山，望着群修环绕，众星捧月的婀娜师姐，方逸面色古怪。 “嗯？我还在海选人材，反先被盯上了？”……岁月轮转，四季更迭。天骄易陨，大能摧折，",
+    "readUrl": "https://pan.baidu.com/s/1XvVmFg8K04G9QLDYoEH8Wg?pwd=5j96",
+    "downloadUrl": "/books/m_wop_青阳仙途1-1134章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wou",
+    "title": "魔门玩家，不讲道义",
+    "author": "不锈钢馒头",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-781章",
+    "latestChapter": "第779章 剑祖：我用的是软剑",
+    "excerpt": "“师兄，咱们度厄宗......真的是正经宗门吗？”“那当然，师弟快些在这‘弟子名录’上登记吧。”青衣人指着一面阴气森森的黑幡，如是说道。......一朝穿越，楚墨成了一名度厄魔门的“预备杂兵”。本以为推开的将是得道长生、御剑逍遥的求道之门，却没料到，此界修仙，不太一样。界海征伐、位面掠夺、万域归一，仙舟横渡虚空、巨炮轰击异界。修仙者搜寻无尽世界，发动跨界战争，散播道统，侵染位面......这里危机",
+    "readUrl": "https://pan.baidu.com/s/1ikBfxMRu5gOJtjM2GVAp3w?pwd=5j96",
+    "downloadUrl": "/books/m_wou_魔门玩家，不讲道义1-781章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wpe",
+    "title": "每日一抽，从杂役到道祖",
+    "author": "妙笔天星",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-445章",
+    "latestChapter": "第445章 前往百花",
+    "excerpt": "张道尘转世至修仙世界，成为修仙家族一名凡人，没有灵根，没有背景，长生无望。16岁那年被家族卖至百花宗，为家族发挥最后一丝余热，赚取灵石。本以为一辈子也就这样了，结果觉醒系统，获得【每日一抽】天赋。【抽取成功，获得灵石一块】【抽取成功，获得低阶灵草一颗】【抽取成功，获得仙子罗袜一只】【抽取成功，获得天赋‘兽语者’】……至此，依靠【每日一抽】。若干年后，张道尘稳健修行，结识仙子。光阴轮转，世事浮沉，从",
+    "readUrl": "https://pan.baidu.com/s/1WHhDQJdsRZF1ZquIXBO39A?pwd=5j96",
+    "downloadUrl": "/books/m_wpe_每日一抽，从杂役到道祖1-445章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wpo",
+    "title": "祖仙！",
+    "author": "黄焖鸡煲饭",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-921章",
+    "latestChapter": "第921章 深入探查，偶遇故人",
+    "excerpt": "（慢热，主角开始天赋不好，随着吸收的先祖天赋变多，后续修炼速度会逐渐提上来）苟道修心悟长生，一朝破境化仙颜。————陈言穿越修仙界，成为一名碌碌无为的无灵根凡人，此生注定仙缘无望。然而天意无常，幸得神秘至宝【血源经】降临识海。【血源经】：可觉醒先祖血脉，从血脉中获取先祖之力！凭借【血源经】，陈言在历史长河中溯流求源，追随历代先祖脚印，得灵根，塑天资，开启长生道途。结丹先祖、元婴先祖、化神先祖……溯",
+    "readUrl": "https://pan.baidu.com/s/1lpo2_hkCdviD9FgEyWYTBw?pwd=5j96",
+    "downloadUrl": "/books/m_wpo_祖仙！1-921章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wpp",
+    "title": "种田修仙：一斤灵谷兑换一年法力",
+    "author": "这个读者好帅",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-219章",
+    "latestChapter": "第219章 钟响九声，灭门危机",
+    "excerpt": "灵植堂执事：“长生啊，你这名字取得太大了。”顾长生：“修仙不就是为了长生吗？”灵植堂执事：“你也不想想，种灵田要是能成仙，还轮得到你种？”顾长生：“那要是我一斤灵谷兑换一年法力呢？”“......”",
+    "readUrl": "https://pan.baidu.com/s/17jsyQUAcLgl8qXfzaulUcw?pwd=5j96",
+    "downloadUrl": "/books/m_wpp_种田修仙：一斤灵谷兑换一年法力1-219章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wpu",
+    "title": "双穿，从当个倒爷开始",
+    "author": "难得问候",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1073章",
+    "latestChapter": "",
+    "excerpt": "普通小市民陈风意外获得了一幅能够前往异世界的画卷。通过画卷的能力，他开始在两个世界来回倒卖物品。在异世界获得普通矿石运到现代世界立刻成了军方的战略物资。而现代世界不起眼的小物品，放到异世界瞬间就被高价收购...原本的陈风只想这样安安稳稳的当个倒爷，过着躺平般的生活，但随着对异世界的深入探索，他发现这个世界不仅有武者，居然还有仙人。这下陈风彻底不淡定了.........PS：本书又名《能力不上交是怕",
+    "readUrl": "https://pan.baidu.com/s/1o2NRB7wuJb2vqdwCVyt71g?pwd=5j96",
+    "downloadUrl": "/books/m_wpu_双穿，从当个倒爷开始1-1073章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wqe",
+    "title": "我在妖魔世界老当益壮",
+    "author": "夏夜冰啤",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1176章",
+    "latestChapter": "第1178章 希望",
+    "excerpt": "穿越到妖魔频出、武者横行的王朝末年，穷困病弱的林玄空，发现自己拥有了命格【老当益壮】，活的越久，天赋和悟性就会越强。五十岁时修炼速度提升五十倍，八十岁时八十倍，三百岁时可提升三百倍.............数千年后，早已恢复青春的林玄空蓦然回首，他击杀的无数强敌，已经泥销白骨、烟消云散，他亲手点化的柳树，已经成为亿万妖魔之主！满船明月从此去，长生本是寂寞人。",
+    "readUrl": "https://pan.baidu.com/s/16InhZf58W3hm-AfIWbiEzQ?pwd=gtiw",
+    "downloadUrl": "/books/m_wqe_我在妖魔世界老当益壮1-1176章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wqg",
+    "title": "凡人：仿制诸天灵宝",
+    "author": "关山难越WA",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-679章",
+    "latestChapter": "第678章 雾山小筑，宝花始祖",
+    "excerpt": "凡人修仙传同人，严格遵循原著背景，金手指不会扰乱战力体系！慕羿穿越到凡人世界，能够仿制神话故事中宝物的青春版。八卦炉、万妖幡、斩仙飞刀、人种袋......",
+    "readUrl": "https://pan.baidu.com/s/1FZmh68xLfr0BiBYZcnvkqA?pwd=5j96",
+    "downloadUrl": "/books/m_wqg_凡人：仿制诸天灵宝1-679章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wqi",
+    "title": "开局无常司，满级活死人功",
+    "author": "神游白玉京",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-441章",
+    "latestChapter": "第13章 江州善真坊",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1LDMquGYaB4CLai5fpOvDgQ?pwd=gtiw",
+    "downloadUrl": "/books/m_wqi_开局无常司，满级活死人功1-441章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wqm",
+    "title": "苟在凛冬废土修仙",
+    "author": "山月道何人",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1142章",
+    "latestChapter": "",
+    "excerpt": "陈望穿越仙侠世界，成为一个坊市底层散修，没想到修仙竟也这么卷，资源紧缺，等级森严，生存压力极大。直到有一天，陈望又穿了......在修仙界礼貌谦让，在异世界横行霸道！（苟道长生+无限流，请书友们放心收藏阅读）",
+    "readUrl": "https://pan.baidu.com/s/1OuRdG2kDEVNQJaS-drpB7Q?pwd=5j96",
+    "downloadUrl": "/books/m_wqm_苟在凛冬废土修仙1-1142章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wrm",
+    "title": "长生：筑基成功后，外挂才开启",
+    "author": "好的名字很难想",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-597章",
+    "latestChapter": "第597章 我的四阶乐师技艺",
+    "excerpt": "穿越修仙界四十年，李平终于筑基成功。筑基修士已经算是修仙界的中层。李平深知以自己的三灵根资质，能走到这一步已是邀天之幸，后面的结丹、元婴、化神……这不是他一个无背景、无天赋、无机缘的三无修士该考虑的事情，能筑基他已经很满意了。就在他准备好好享受人生，再多娶上几位美貌妻子繁衍家族的时候，外挂终于来了。筑基成功的那一刹那，他的识海中，忽地开辟出一紫气空间，而在这空间中，一座灰色岛屿缓缓诞生。岛屿上种有",
+    "readUrl": "https://pan.baidu.com/s/1K45OsPTFr90GNtGXLS2NIw?pwd=5j96",
+    "downloadUrl": "/books/m_wrm_长生：筑基成功后，外挂才开启1-597章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wrv",
+    "title": "方士！",
+    "author": "买个窗帘",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-437章",
+    "latestChapter": "第438章 庙中不堪催心魔，真君亲传破道心、杀仙破界",
+    "excerpt": "深山玄牝，真修难藏丑秽之形。幽室香躯，佳人陡变温柔之质。欲用万寿仙朝万年寿，成就仙人洞里真仙人。……万寿仙朝，本取自万寿无疆之意。万寿乃国寿万载，无疆则版图无穷。如今万载已过，国如五鼓衔三月，寿似三更油尽灯。值此乱世，可以给万物加点强化的于肃睁开了眼。面对趴伏在众生之上，大口吸食乱世劫气的仙家，以及炼就一身造化宝血，设立天地奇观的方士。于肃决定告诉这个世界……他来过。",
+    "readUrl": "https://pan.baidu.com/s/1OFmFcbumqpa-XqxeNk6ONw?pwd=5j96",
+    "downloadUrl": "/books/m_wrv_方士！1-437章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ws",
+    "title": "巫师：从不义超人至太阳神",
+    "author": "苍梧栖凤",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-575章",
+    "latestChapter": "第576章 索瑟岛",
+    "excerpt": "黑光病毒肆虐的都市，他是以肉身接核弹的人间之神战锤宇宙中，他是亚空间阴影下的希望之光毁灭地狱里，他是恶魔颅骨堆上的终末审判…… “来者是，敌人坟头起舞的白焰、尼弗迦德帝国的皇帝——恩希尔·瓦·恩瑞斯。”传令官的声音响彻大殿，而王座之上的男人只是微微一笑。 “在你面前的是——”“人类之主帝皇、太阳与光明神王、艾尔登之王，术士枢密会的至尊法师、混沌恶魔的梦魇、白霜终结者、诸界救世主——卡尔·艾尔一世陛",
+    "readUrl": "https://pan.baidu.com/s/1hnp7APi-4_ISUK_uw1AGbw?pwd=gtiw",
+    "downloadUrl": "/books/m_ws_巫师：从不义超人至太阳神1-575章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wsf",
+    "title": "本座王重一",
+    "author": "王道一",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-544章",
+    "latestChapter": "第136章 幕后坐观风云（二十三）",
+    "excerpt": "本座王重一，又要突破啦！佛家法号：【法海】道家道号：【万寿】人间王号：【明王】修仙界尊号：【万寿无量重一纯阳大尊者】“本座又要突破了！”“以我全部的感悟！”“以我毕生的努力！”“以我通天的智慧！”“以我无敌的资质！”“蒂柯（外挂）！启动！”",
+    "readUrl": "https://pan.baidu.com/s/1dUOxSVn760VysG6iHvRFHw?pwd=5j96",
+    "downloadUrl": "/books/m_wsf_本座王重一1-544章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wsm",
+    "title": "宗门名额被占后，我成了散修",
+    "author": "红烧西瓜盅",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-415章",
+    "latestChapter": "",
+    "excerpt": "来到这里十年，发现是修仙世界，好不容易被选中修行，拜入仙门，却被宗门长老私生子顶替名额，原想着有根骨天赋，虽然中庸，但找个宗门不是难事，没想到根本没有路子幸好道长怜悯，下山时赠送《五行真经》，跟随一起下山的富家少年，来到一处灵气驳杂的小青山，做起了散修……江景本来只想简单修行，但没想到身边竟然不断发生异常，桃花折下，花开不败，陈旧香炉自己飞灰，小小白鼠莫名生智……直到江景发现，自己好像是一个宝穴，",
+    "readUrl": "https://pan.baidu.com/s/11GKZVC9i58i_QgXey8bFuw?pwd=5j96",
+    "downloadUrl": "/books/m_wsm_宗门名额被占后，我成了散修1-415章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wsn",
+    "title": "人在洪荒，正在奋斗",
+    "author": "赖思",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-426章",
+    "latestChapter": "",
+    "excerpt": "洪荒，对于仙神来说，是一个非常理想修炼场，但是对于一个后天人族来说，却并不是好的生存地。称王作祖！好吧，这只是臆想。首先，要小心的生存下来。然后，再定个小目标，成为最低等的仙，长生不老。最后，你有资格拥有更大的梦想了。",
+    "readUrl": "https://pan.baidu.com/s/1iJDiXS6i2Inhgb-sNwdgSg?pwd=5j96",
+    "downloadUrl": "/books/m_wsn_人在洪荒，正在奋斗1-426章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wso",
+    "title": "太上金阙",
+    "author": "弃还真",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-511章",
+    "latestChapter": "",
+    "excerpt": "太初有道，神与道同，是谓太一，称之一切有无之始； 无极之先，阴阳之母，是谓太上，称之辟地天开之祖； 一座石门，连接两方天地，门外山海诸神初露峥嵘，五方上帝天意高悬，门后阎浮世界四大部洲，三清四帝万劫永在； 仙与神，孰高孰低？道与佛，谁本谁源？太一与太上，哪個是真正的大道之源？ 吕尚大梦初醒，推开门扉，一点真灵落入门后的世界，再睁眼时，已是隋文开皇之治，这里有开隋九老，计都罗喉，还有一座自王莽篡汉时",
+    "readUrl": "https://pan.baidu.com/s/16lSK2VQ1jyFOKYMq2yrOFA?pwd=5j96",
+    "downloadUrl": "/books/m_wso_太上金阙1-511章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wsv",
+    "title": "东庭执灯人",
+    "author": "残雨独奏",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-989章",
+    "latestChapter": "",
+    "excerpt": "刘越被困秘窟阵法中身亡，一朝时光倒转，携神秘铜灯重回一个甲子前的少年之时。 前世仙路坎坷，纵历尽艰难险阻，终是筑基无望。 今生重来，或可登曾经遥不可及的巅峰，见一番天地广大。",
+    "readUrl": "https://pan.baidu.com/s/14ExulNuWKF65v706UCbLQw?pwd=5j96",
+    "downloadUrl": "/books/m_wsv_东庭执灯人1-989章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wt",
+    "title": "苟在西游得道长生",
+    "author": "既白v",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-268章",
+    "latestChapter": "第268章",
+    "excerpt": "灵台方寸山外，李晏看了三年的雾。此间洒扫，砍柴担水，浑噩度日。命书早定：他三年后当殒于妖瘴，魂飞魄散。而那同入山门的猢狲，天命所钟，气运冲霄，将来要踏碎凌霄，做那齐天大圣。仙路巍巍，圣人执棋。旁人皆瞩目于天命之子的璀璨，无人看见尘埃里那点微光。所幸，李晏能窥见天命流转，于因果交织处，窃取一线微末天机。于是，猢狲学七十二变时，他于劈柴中见道，开目窍。猢狲修长生法时，他于听风中悟理，通耳窍。他不争不显",
+    "readUrl": "https://pan.baidu.com/s/177B0kby7Qg8X-MUsWI-KNg?pwd=5j96",
+    "downloadUrl": "/books/m_wt_苟在西游得道长生1-268章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wtj",
+    "title": "冒险者的旅程",
+    "author": "近卫紫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-756章",
+    "latestChapter": "第745章 食堂混战",
+    "excerpt": "穿越而来的夏林，还没享受几天少爷生活，家中便破产了。为了生存下去，夏林只能依靠【物品鉴定】这项技能，走上了冒险者的道路。于是，一位传奇冒险者的故事，从下水道里清理老鼠开始了。作品要素：【奇幻小队冒险】、【伪DND】、【泛pf世界观】",
+    "readUrl": "https://pan.baidu.com/s/1ZzS1UHCRWyWe5NZuf-EZzw?pwd=gtiw",
+    "downloadUrl": "/books/m_wtj_冒险者的旅程1-756章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wul",
+    "title": "穿越大荒，祭祀焚香",
+    "author": "山人有妙计",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-915章",
+    "latestChapter": "",
+    "excerpt": "寿元在手，传承我有！ 沈灿穿越进了一个天灾频发、灾兽横行，异族视人族为血食、祭品的大荒世界。 成为山野小部炙炎部的继任庙祧（tiao），枭阳肆虐，玄鸟豢养，传承短缺、武者兽化。 沈灿以‘鸾刀’刺荒兽之颈，汲取祭品寿元，推衍功法、巫术、灵禁…… 筑传承，辟新途。 晋伯部，建联盟，成祖地。 时光荏苒，再回首，人族翻身农奴把歌唱。",
+    "readUrl": "https://pan.baidu.com/s/1KlJWKWwwr90fwN5THQvn-g?pwd=gtiw",
+    "downloadUrl": "/books/m_wul_穿越大荒，祭祀焚香1-915章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wvh",
+    "title": "叩问仙道",
+    "author": "雨打青石",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-2804章",
+    "latestChapter": "",
+    "excerpt": "一个凡人少年因为一次意外而误入仙道，在求仙路上挣扎前行。仙路难于登天，面对重重险阻，他的求道之心依然不减分毫。再回首，青山依旧在，故旧皆白骨。下面两个企鹅群，大家想加群的，可以酌情加入。禁言群：710441068（防止聊天群被封，里面可能会发一些通知、公告什么的，一般不会说话）",
+    "readUrl": "https://pan.baidu.com/s/1qejSjK780MbmUxPBTgqRMg?pwd=5j96",
+    "downloadUrl": "/books/m_wvh_叩问仙道1-2804章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wvj",
+    "title": "家师郭靖",
+    "author": "笔尖的梦想乡",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-431章",
+    "latestChapter": "",
+    "excerpt": "“先生，弟子有一位青梅，虽秀美绝伦、明艳逼人，却骄纵任性、鲁莽愚蠢，一想到要与她共度余生，弟子便觉得头晕脑胀，此生无望啊...”听着学生的抱怨，欧羡露出一个宠溺的微笑，缓缓道：“漂亮、单纯、还好骗，你小子有福了。”故事开始于宝庆三年这一年，成吉思汗铁木真在西夏六盘山病逝大侠郭靖黄蓉夫妇在返回桃花岛时，收下一位年仅五岁弟子，名为欧羡。面对日益复杂的时局，黄蓉做出一个大胆的决定：让天资聪慧的欧羡入朝堂",
+    "readUrl": "https://pan.baidu.com/s/17lrNnx70BigAeDesaavB5w?pwd=5j96",
+    "downloadUrl": "/books/m_wvj_家师郭靖1-431章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wvr",
+    "title": "托身白刃里，浪迹红尘中",
+    "author": "接卡口",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1018章",
+    "latestChapter": "",
+    "excerpt": "不过就是武侠穿越连续剧罢了，练武求超脱的故事",
+    "readUrl": "https://pan.baidu.com/s/1ThRb3-6285QeJRjLtbmkWg?pwd=5j96",
+    "downloadUrl": "/books/m_wvr_托身白刃里，浪迹红尘中1-1018章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wvs",
+    "title": "武圣从遗弃世界开始",
+    "author": "白鹤空山天境",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-270章",
+    "latestChapter": "",
+    "excerpt": "武馆侵吞，城相征伐，外有妖魔横行，内有邪祟作乱...幸好，齐彧是带着游戏作弊器穿越过来的。",
+    "readUrl": "https://pan.baidu.com/s/1blxXXncyfeAYgDx8MhCQjw?pwd=gtiw",
+    "downloadUrl": "/books/m_wvs_武圣从遗弃世界开始1-270章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wvt",
+    "title": "猪突猛进！",
+    "author": "不知悠",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-228章",
+    "latestChapter": "第64章",
+    "excerpt": "猪突猛进！猪突猛进！猪突猛进！————朱元徒转世修仙界，成了头被人圈养的大黑猪，不曾想意外觉醒天赋神通，能够将自身的“动作行为”修炼至极致，让他在这修仙界一路猪突猛进！……《古典仙侠》《寻仙问道》《妖怪志异》",
+    "readUrl": "https://pan.baidu.com/s/1DulmejHdDibnw2KUTrQCwg?pwd=5j96",
+    "downloadUrl": "/books/m_wvt_猪突猛进！1-228章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_ww",
+    "title": "青鱼修行笔录",
+    "author": "南山落桃花",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-360章",
+    "latestChapter": "第357章 敬道友！",
+    "excerpt": "一朝梦醒。黎泾魂穿异世，成了一条可吐纳日月精华的青鱼，故事自此而始。……有道是：青鳞岂是池中物，一遇风云便化龙。",
+    "readUrl": "https://pan.baidu.com/s/1S6RXlQQ2nBS3yAv45QHiiQ?pwd=5j96",
+    "downloadUrl": "/books/m_ww_青鱼修行笔录1-360章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wxm",
+    "title": "综武：开局捡个邀月当媳妇",
+    "author": "吃橘的鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-582章",
+    "latestChapter": "第582章 嬴政的软肋：法家老臣，我下不去手！",
+    "excerpt": "捡了个失忆女人竟然是移花宫邀月，还非他不嫁！捡了个奶凶奶凶的小乞丐竟然是俏黄蓉，妈妈终于不用担心我吃外卖了。出门买个侍女，竟然拐了个魔门妖女回来，她说自己叫绾绾！在家吃个饭，结果从天上掉下个受伤的女人，竟然是雪月剑仙李寒衣。除此之外，陈平安发现自己的悟性有那么一点点逆天。九层明玉功晦涩难懂？为什么我看一眼就会，而且他觉得明玉功不止九层，十二层也不是不可以。止水剑法的天道之剑领悟起来难如登天？为什么",
+    "readUrl": "https://pan.baidu.com/s/1sHB3T3KA_mNdGVXVVzo2dA?pwd=5j96",
+    "downloadUrl": "/books/m_wxm_综武：开局捡个邀月当媳妇1-582章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wxn",
+    "title": "西游：长生仙族从五行山喂猴开始",
+    "author": "贰林",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-782章",
+    "latestChapter": "",
+    "excerpt": "姜义穿越古代世界，拓土开荒，躬身种田，娶妻生子。原想这便是此生注定，平淡且足矣。偏是那五岁的长子，闲不住脚，三天两头往后山深处钻。竟在那云深不知处，撞见了一座形如五指的山峰。山脚下，还压着个毛脸雷公嘴的猢狲。日子，便从给那猴儿送山果开始。不知不觉间，姜义已带领姜家，成为名传三界、惊动四洲的长生仙族。【无系统】【纯西游】【家族修仙】",
+    "readUrl": "https://pan.baidu.com/s/1YND88gvtih84vH6YWBxzdg?pwd=5j96",
+    "downloadUrl": "/books/m_wxn_西游：长生仙族从五行山喂猴开始1-782章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wxz",
+    "title": "食气长生，我为妖庭主",
+    "author": "妄道狐言",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-681章",
+    "latestChapter": "",
+    "excerpt": "朝纲崩坏，天下末年，乱象纷起。沈季自卧虎山的山贼起势，豢养猛虎，饲弄诸妖，食气而图长生。纷争乱世，以妖庭争机缘，成自身长生大业。",
+    "readUrl": "https://pan.baidu.com/s/1l6553_SGFTRt2Rmrv1e9PA?pwd=5j96",
+    "downloadUrl": "/books/m_wxz_食气长生，我为妖庭主1-681章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wy",
+    "title": "从铁衣功开始肉身成圣",
+    "author": "浑子",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-682章",
+    "latestChapter": "第476章 开窍大成（4K-求订阅）",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1vEUZBM5xRR61osuAH1eQyQ?pwd=gtiw",
+    "downloadUrl": "/books/m_wy_从铁衣功开始肉身成圣1-682章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wyq",
+    "title": "仙命在我",
+    "author": "杜养吾",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1700章",
+    "latestChapter": "",
+    "excerpt": "总想着命里抽身事，一粒金丹天看老。到头来凡人瓜葛命，终去那仙人宴上作蟠桃。",
+    "readUrl": "https://pan.baidu.com/s/1LBlzdKdwEEZo21rrw3MjjQ?pwd=5j96",
+    "downloadUrl": "/books/m_wyq_仙命在我1-1700章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wyw",
+    "title": "长生修仙，从画符开始",
+    "author": "饺子一碗",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-762章",
+    "latestChapter": "第761章 神识突破 邪刀兵解【求月票】",
+    "excerpt": "【凡人流、熟练度、稳健、三观正常】林长安穿越仙侠世界，成为一名仙门落选的散修。苦修二十载，心灰意冷准备返回凡俗享受人间富贵时，觉醒了熟练度面板。只要用心勤学苦练，努力必有所成。一证永证！从现在开始，他便是画符宗师。……“修仙界，灵根虽差，但亦有修仙百艺，这个悟字不知造就了多少传奇修士，五百年来最惊艳之人，莫过于下品灵根出身的青木真君。”听着修仙界广为流传的传说，林长安不禁感慨万千。“我这一生如履薄",
+    "readUrl": "https://pan.baidu.com/s/17e8IugGiNqAc43D52MdBew?pwd=5j96",
+    "downloadUrl": "/books/m_wyw_长生修仙，从画符开始1-762章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wz",
+    "title": "诸天道祖，从遮天开始",
+    "author": "山海一闲鱼",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-266章",
+    "latestChapter": "第266章 鸿钧罗睺，来处去处，诸世贯通（终章）",
+    "excerpt": "高卧九重云，蒲团了道真。玄门都领袖，一气化鸿钧。一个属于紫霄宫道祖的传说，在九龙拉棺还未到来之时，已经开始启航。遮天世界，祭道之外，尚有道否？太古洪荒，魔道掌天，能持久乎？神话山海，神道相争，谁能胜耶？世称道祖，我为鸿钧，当为诸世开大道！登天路，踏歌行。在这个世界，开创属于自己的仙道，从赐成道后的乱古大帝一败开始。",
+    "readUrl": "https://pan.baidu.com/s/1ENj19NAMVsjjo8uKoYsA7A?pwd=5j96",
+    "downloadUrl": "/books/m_wz_诸天道祖，从遮天开始1-266章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_wzq",
+    "title": "国术：一天涨一年功力！",
+    "author": "峰仙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-514章",
+    "latestChapter": "",
+    "excerpt": "“我霍元鸿，要做那津门第一！”天朝369年，世家腐朽，阶级固化，底层永无出头之日，而洋人的坚船利炮正蠢蠢欲动。这一年，霍元鸿仰望着高高在上的世家门阀，卑微如蝼蚁。为活得像个人样，他点燃心火，化武道登神之阶，每练一日，可涨一年功力。一月化劲、三月抱丹、六月见神不坏……以三尺微命，逆着天下大势而上，从津门第一打到天下第一，从微末小卒打成国术脊梁！若干年后，当洋人的坚船利炮逼近，一位位旧时代宗师陷入绝望",
+    "readUrl": "https://pan.baidu.com/s/1_ixMw_ezjFrpKPbIBqyAhw?pwd=gtiw",
+    "downloadUrl": "/books/m_wzq_国术：一天涨一年功力！1-514章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_xa",
+    "title": "欢迎光临能力商店！",
+    "author": "二目",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-566章",
+    "latestChapter": "",
+    "excerpt": "陈玄在26岁那年得到了一家奇特的商店，熟悉的世界忽然间变得截然不同……修仙人士，历史名人，未来叛客都成了他的客人，只因为店里卖的是他们最需要的东西，「能力」。书友群：979669651",
+    "readUrl": "https://pan.baidu.com/s/1GA6aPjdCMZGam0kBRVQGmA?pwd=gtiw",
+    "downloadUrl": "/books/m_xa_欢迎光临能力商店！1-566章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_xd",
+    "title": "我以科举证长生",
+    "author": "想见江南",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-422章",
+    "latestChapter": "第422章 终章（贺东方拓盟）",
+    "excerpt": "圣贤书里藏仙箓，文渊阁中炼道心。 青衿难束凌云志，一言削尽圣贤名。 ………… 一本仙侠职场文。",
+    "readUrl": "https://pan.baidu.com/s/1VWUp6fv_iXJPZcWVpwva4w?pwd=5j96",
+    "downloadUrl": "/books/m_xd_我以科举证长生1-422章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_xh",
+    "title": "戏神！",
+    "author": "独孤欢",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-517章",
+    "latestChapter": "第517章 大结局（终）",
+    "excerpt": "学戏十六年，登台斩鬼神。演包公，亡魂喊冤，龙头铡下斩阎罗。扮钟馗，九州荡魔，擒得恶鬼好下酒。舞关公，义薄云天，青龙偃月荡不平。唱大圣，千钧棒起，玉宇澄清万里埃！……“区区戏子，也敢装神？”阴山深处，有鬼王出声戏嘲。“戏子？”周生猛地睁开丹凤眼，关公袍无风自荡，偃月刀震颤龙吟。“哇呀呀呀呀——！”花脸唱腔如平地惊雷，踏着急急风的锣鼓，青龙劈开鬼门关，单刀赴会擒魔头！万鬼伏诛，周生抚髯而立，戏腔念白。",
+    "readUrl": "https://pan.baidu.com/s/1LMCgw-Idlc-ecpPetRljdA?pwd=5j96",
+    "downloadUrl": "/books/m_xh_戏神！1-517章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_xl",
+    "title": "阵问长生",
+    "author": "观虚",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1562章",
+    "latestChapter": "第180章 亡魉子",
+    "excerpt": "幻阵、杀阵、剑阵、绝阵、大阵、仙阵，构先天阵道。阴阳、三才、四象、五行、七星、八卦，衍诸天阵流。修神识证道，悟阵法飞仙。一念济天下，求道问长生。-----------------------------------（长篇传统仙侠，天才流，阵法流，从主角小时候开始写，穿越的设定可有可无。）",
+    "readUrl": "https://pan.baidu.com/s/1LBXFtZVU1yT4URy9GcJxig?pwd=5j96",
+    "downloadUrl": "/books/m_xl_阵问长生1-1562章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_yp",
+    "title": "御兽：预支未来",
+    "author": "余清璇",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-417章",
+    "latestChapter": "第381章 未完的结局",
+    "excerpt": "”御兽，灵法，武道，异能，改造。““五个超凡途径，我已就职了御兽途径的职业，成为了一位御兽师。”“由于我前世的记忆苏醒，并把我灵魂分裂成两个，拥有两个灵魂的我，还能再选择一个超凡途径就职。”“该选那个途径作为我的第二途径呢？““灵法？当一个高贵的法师。”“武道？武夫的近战能力，能弥补御兽师近身脆弱的问题。”“异能？随即觉醒一个超能力？”“改造？狂打九针九龙之力，成为一个魔鬼筋肉人？”“四个途径中，",
+    "readUrl": "https://pan.baidu.com/s/1pEcGuo6vBt_Uz0GSVFau1A?pwd=gtiw",
+    "downloadUrl": "/books/m_yp_御兽：预支未来1-417章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_yu",
+    "title": "山雨蛟",
+    "author": "舒楠泽",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-268章",
+    "latestChapter": "第268章 搜索",
+    "excerpt": "修炼之路看似风光，实则如履薄冰，其中的苦只有自己知道。一条出身寒微的黑蛇，无依无靠，风雨独行，游走于人间边缘。逃不脱雷火焚身，苦苦挣扎，前路未知……记载过往，七分真三分假。",
+    "readUrl": "https://pan.baidu.com/s/1YaZ6SuLmUhVDoU7PLvSWFw?pwd=5j96",
+    "downloadUrl": "/books/m_yu_山雨蛟1-268章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_yw",
+    "title": "东土大隋",
+    "author": "巡天遥看一千河",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-355章",
+    "latestChapter": "第355章 兵力不够？那就硬着头皮干！李世民疯了？",
+    "excerpt": "自仙秦扫六合，铸边关长城御异族，神汉引九天仙气润养人间，鬼晋纵幽冥阴气祸乱天地，异族破关，九州陆沉。此后，三朝更迭，仙神隐现。时至末晋纷乱，妖魔滋扰，众生苦盼明主。这里不是东土大唐，而是……东土大隋！",
+    "readUrl": "https://pan.baidu.com/s/1B7vGXNTdbgYNhBM6dbgvJw?pwd=5j96",
+    "downloadUrl": "/books/m_yw_东土大隋1-355章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_yy",
+    "title": "长生从坊市散修开始",
+    "author": "许留仙",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-746章",
+    "latestChapter": "第746章 强敌，两大元婴中期巅峰修士",
+    "excerpt": "【凡人流｜雷修｜多女主｜催熟仙府】注意：多女主的凡人流修仙。姓名：李易。地点：万灵海。背景：坊市散修。修为：练气六层。灵根：雷木灵根。辅艺：丹符双修。金手指：催熟灵府。人设：能苟则苟，苟不住杀伐决断。灵兽：风雷兽小龟，天地灵猿之一的鬼猿，血鹫。从山脚石庐炼气小修开始，一步步成为万灵海，天元失落界面，九灵失落界面，南荒十二元婴修仙国、大晋仙朝，乃至整个天衍界人族的第一化神修士，进而飞升灵界……对了，",
+    "readUrl": "https://pan.baidu.com/s/1zC4WI4bFRdny5OrgNqFZyg?pwd=5j96",
+    "downloadUrl": "/books/m_yy_长生从坊市散修开始1-746章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_zb",
+    "title": "从两界开始御兽修仙",
+    "author": "乘龙快续",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-698章",
+    "latestChapter": "",
+    "excerpt": "五大洞天、十三仙宗、七九上宗、九九正宗。在这个仙盟统治世界的时代，修士需以借兽修真的方式摘取道果，得道成仙。只是借兽修真需要大量资源，穷者难攀仙阶，没钱根本修不了仙。陈北武出身中落之家，资源缺乏，未来的修炼之路一眼看得到头，最多成就筑基，与金丹无缘。直到他偶得至宝，开启一条未知的通天仙路。",
+    "readUrl": "https://pan.baidu.com/s/1EMX1hUkPLOp9epmfR_NlZQ?pwd=5j96",
+    "downloadUrl": "/books/m_zb_从两界开始御兽修仙1-698章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_zk",
+    "title": "仙工开物",
+    "author": "未知",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1040章",
+    "latestChapter": "",
+    "excerpt": "火山中，先贤大能遗留的机关仙宫，渴望着后继者。 母亲舍命争取，获得仙宫宝印，临终托付宁拙。 我佛心魔印！ 渡己为佛，渡人成魔。 掌印者，轻刻心印，驭机关若羽。众人御之，神疲意重；宁拙则以一纵万，轻盈若舞。 宁拙：“娘，孩儿一定不负您的嘱托，取得那仙宫！” 正是： 仙偶通灵秘，工巧合至理。 开宇出新境，物华与天齐。 古钟传法度，月下舞清辉。 真身具万象，人间谁与敌！",
+    "readUrl": "https://pan.baidu.com/s/1mvB5k0UMwxPqpI4c_lHEiQ?pwd=5j96",
+    "downloadUrl": "/books/m_zk_仙工开物1-1040章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_zz",
+    "title": "天海仙途",
+    "author": "落叶吹枫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-1756章",
+    "latestChapter": "",
+    "excerpt": "【凡人流】【大长篇】（剧情流，从首订一百到高定过万，剧情越往后越精彩）一次意外之后，一个来自异世界的灵魂开启自己追逐长生之路。身怀神秘异珠，在这个天地巨变大势之下，步步维艰追寻大道。万般谋划只为成仙。",
+    "readUrl": "https://pan.baidu.com/s/1mcGajXrV9fMr9MhltAXCxg?pwd=5j96",
+    "downloadUrl": "/books/m_zz_天海仙途1-1756章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_042e8208",
+    "title": "华娱：女顶流不让我摆烂",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-456章",
+    "latestChapter": "第444章 我也是重生！",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1pPsqVJsilnBmPsw1EJdMhw?pwd=gtiw",
+    "downloadUrl": "/books/u_042e8208_华娱：女顶流不让我摆烂1-456章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_14d1db57",
+    "title": "为盘我水库，全球大佬狂砸百亿",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1NeKBPKFTfbPj1icMaCoYPQ?pwd=gtiw",
+    "downloadUrl": "/books/u_14d1db57_为盘我水库，全球大佬狂砸百亿1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_22885c3a",
+    "title": "太尊!",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1X5K1LjSrzeRcaULc9YaJuw?pwd=gtiw",
+    "downloadUrl": "/books/u_22885c3a_太尊!1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_2ee59bf5",
+    "title": "在线鉴宠，大哥这狗认为在训你啊",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1338章",
+    "latestChapter": "第1326章 能力大进阶",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1pX7P5AYa7XjPLLyz4-H_7A?pwd=gtiw",
+    "downloadUrl": "/books/u_2ee59bf5_在线鉴宠，大哥这狗认为在训你啊1-1338章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_3d7ac1c5",
+    "title": "华娱光影年华，从摄影系开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-703章",
+    "latestChapter": "第703章 《花束》的捷报（求推荐）",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1sJnLwEtot1cheLz4mm93XQ?pwd=gtiw",
+    "downloadUrl": "/books/u_3d7ac1c5_华娱光影年华，从摄影系开始1-703章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_491d6541",
+    "title": "华娱：身怀系统，偏要当烂片之王",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1CthGq_s43QUHIxItz1eUYg?pwd=gtiw",
+    "downloadUrl": "/books/u_491d6541_华娱：身怀系统，偏要当烂片之王1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_4dd8e21b",
+    "title": "刚穿越成超人，被养父母上交国家",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-368章",
+    "latestChapter": "第356章 新的修炼体系，神帝罗丰（求订阅）",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1GdKQL1ZDHYMKq6Jhb-MQDA?pwd=gtiw",
+    "downloadUrl": "/books/u_4dd8e21b_刚穿越成超人，被养父母上交国家1-368章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_5662291a",
+    "title": "好莱坞，我凭特效封神",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-376章",
+    "latestChapter": "第364章 ：发布会、小情趣",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1HUSERuxwgAiV0uHpDR8ZEA?pwd=gtiw",
+    "downloadUrl": "/books/u_5662291a_好莱坞，我凭特效封神1-376章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_57a4f703",
+    "title": "半岛1984：我太忠诚了",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-431章",
+    "latestChapter": "第419章 哪怕天上九个太阳，林司令官也能全部射下来",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1ZI6T0FcJrQygM3VanuwPJg?pwd=gtiw",
+    "downloadUrl": "/books/u_57a4f703_半岛1984：我太忠诚了1-431章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_588da233",
+    "title": "我有一双透视神瞳",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-751章",
+    "latestChapter": "第0751章 二进山",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1AZqhnSLd_fN7bB14lnL_gA?pwd=gtiw",
+    "downloadUrl": "/books/u_588da233_我有一双透视神瞳1-751章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_6270010f",
+    "title": "高塔之上!",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-719章",
+    "latestChapter": "第719章 正在转码中，请稍后再试...",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/16CyFcsDGRvFXiT3v0yCBOA?pwd=gtiw",
+    "downloadUrl": "/books/u_6270010f_高塔之上!1-719章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_64b79c14",
+    "title": "大明道德绑架,我崇祯没道德",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-464章",
+    "latestChapter": "第464章 金融银票转发军饷！朝廷赚不赚另说，但肯定不会赔就是了！",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1BRsjk1GYVraZB54fDxjZMg?pwd=gtiw",
+    "downloadUrl": "/books/u_64b79c14_大明道德绑架,我崇祯没道德1-464章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_7215ac77",
+    "title": "四合院：解旷解忧",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-634章",
+    "latestChapter": "第622章 小五搅局",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1Sf8p6nw2qxm5b5sc-d198Q?pwd=gtiw",
+    "downloadUrl": "/books/u_7215ac77_四合院：解旷解忧1-634章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_72d0d7da",
+    "title": "华娱：明日爆红",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-876章",
+    "latestChapter": "第864章 讹诈世界级导演",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1RGe_rtZe-XMmSKflYgOntg?pwd=gtiw",
+    "downloadUrl": "/books/u_72d0d7da_华娱：明日爆红1-876章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_7c72c70d",
+    "title": "半岛：从破产公司到韩娱之王",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-762章",
+    "latestChapter": "第750章 腰酸背痛裴珠泫",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1dLGvCJWH_shXW1fgm1z_Lg?pwd=gtiw",
+    "downloadUrl": "/books/u_7c72c70d_半岛：从破产公司到韩娱之王1-762章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_7d8e129a",
+    "title": "美利坚大网红从无耻之徒开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-541章",
+    "latestChapter": "第541章 观众们的感动，66万点赞=$100，000",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1duCQ8uDSyD5I6Xdwj7cQWA?pwd=gtiw",
+    "downloadUrl": "/books/u_7d8e129a_美利坚大网红从无耻之徒开始1-541章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_84287519",
+    "title": "华娱：一遇魔童误终身",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1O2jlICKBW4zNePe2FTxjBA?pwd=gtiw",
+    "downloadUrl": "/books/u_84287519_华娱：一遇魔童误终身1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_862b180c",
+    "title": "财富自由，从APP破解版开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-428章",
+    "latestChapter": "第416章 互相摊牌的侄姨",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1dKe52aELjDaLAimEZ1SlfQ?pwd=gtiw",
+    "downloadUrl": "/books/u_862b180c_财富自由，从APP破解版开始1-428章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_8bfdf12b",
+    "title": "华娱从模拟恋爱开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-558章",
+    "latestChapter": "第546章 去半岛干嘛？张元英柳智敏也给你生孩子了？",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1z5IiW7j_tBpnBmW6zdMPBg?pwd=gtiw",
+    "downloadUrl": "/books/u_8bfdf12b_华娱从模拟恋爱开始1-558章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_8c550ab1",
+    "title": "游戏制作：从重铸二次元游戏开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1525章",
+    "latestChapter": "第1525章 涩涩商法",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/11y0fx6R16zLKtxmI3buVQg?pwd=gtiw",
+    "downloadUrl": "/books/u_8c550ab1_游戏制作：从重铸二次元游戏开始1-1525章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_8e479326",
+    "title": "华娱：满级导演但歌手出道",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-766章",
+    "latestChapter": "第766章 纽约演唱会开始",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/13s1mIynBsp5J-hgbS0Vr2g?pwd=gtiw",
+    "downloadUrl": "/books/u_8e479326_华娱：满级导演但歌手出道1-766章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_a40153e4",
+    "title": "我的青梅合租女友",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/13VAnu3II_OPRmeeqV2Lxxw?pwd=gtiw",
+    "downloadUrl": "/books/u_a40153e4_我的青梅合租女友1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_c2adc511",
+    "title": "重生97：从北艺校花到百亿首富",
+    "author": "未知",
+    "category": "其他",
+    "status": "已完结",
+    "chapters": "1-895章",
+    "latestChapter": "第883章 夫妻相处之道",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/10gcXLjYj7jrSTZ2367Hppw?pwd=gtiw",
+    "downloadUrl": "/books/u_c2adc511_重生97：从北艺校花到百亿首富1-895章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "完结",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_d28b9e49",
+    "title": "四合院：从交道口街道办开始！",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-752章",
+    "latestChapter": "第741章 把路全都给铺好了",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1wE2gXPLOV9BEVyHFAYBgjw?pwd=gtiw",
+    "downloadUrl": "/books/u_d28b9e49_四合院：从交道口街道办开始！1-752章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_d4eec1d8",
+    "title": "冒牌领主",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-314章",
+    "latestChapter": "第314章 道别",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/176G-eV-bHZmsRBDlvBXuFQ?pwd=gtiw",
+    "downloadUrl": "/books/u_d4eec1d8_冒牌领主1-314章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_de405c65",
+    "title": "缔造美利坚：我竞选经理是罗斯福",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-637章",
+    "latestChapter": "第627章 罗的海洋",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1a4XaZuVQnM6V15tgQIaX_w?pwd=gtiw",
+    "downloadUrl": "/books/u_de405c65_缔造美利坚：我竞选经理是罗斯福1-637章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_eba17131",
+    "title": "四合院：开局水货工程师",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-554章",
+    "latestChapter": "第345章 不会是神经病吧",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1u2PPo1MC6nDnQIThh0ibCg?pwd=gtiw",
+    "downloadUrl": "/books/u_eba17131_四合院：开局水货工程师1-554章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_ec43083a",
+    "title": "重返80：从黄大仙开始致富",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-1章",
+    "latestChapter": "",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1wHMEe45_c-s3_AQ8dwfhcw?pwd=gtiw",
+    "downloadUrl": "/books/u_ec43083a_重返80：从黄大仙开始致富1-1章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "u_f7030dd5",
+    "title": "财富自由从越南开始",
+    "author": "未知",
+    "category": "其他",
+    "status": "连载中",
+    "chapters": "1-524章",
+    "latestChapter": "第524章 爱玩火的姑娘",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1CQjidAy5oJh6XMtPMJDh3Q?pwd=gtiw",
+    "downloadUrl": "/books/u_f7030dd5_财富自由从越南开始1-524章.txt",
+    "tags": [
+      {
+        "name": "其他",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
   },
   {
     "id": "s114759",

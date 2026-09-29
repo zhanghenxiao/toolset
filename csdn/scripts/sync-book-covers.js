@@ -32,7 +32,7 @@ function main() {
   const files = fs.readdirSync(sourceCoverDir);
   const ids = new Set();
   for (const file of files) {
-    const m = file.match(/^book-((?:s\d+|\d+))\.jpg$/);
+    const m = file.match(/^book-((?:l_\d+(?:__\d+)?|m_[a-z0-9]+|s\d+|\d+))\.jpg$/i);
     if (m) ids.add(m[1]);
   }
   if (fs.existsSync(path.join(sourceCoverDir, 'wudao-154.jpg'))) {

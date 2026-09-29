@@ -1,0 +1,7 @@
+{
+  "name": "ad-reward-callback",
+  "version": "1.0.0",
+  "description": "uni-ad 激励视频服务器回调（接收 uniAdCallback 或 HTTP URL 化）",
+  "main": "index.js",
+  "dependencies": {}
+}

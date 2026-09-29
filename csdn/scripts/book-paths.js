@@ -2,13 +2,18 @@
  * 书籍 TXT 扁平路径约定：books/{id}_{书名}1-{章节}章.txt
  * jcxs.org 来源 id 以 s 前缀区分，如 s52266
  * x33xs6.com 来源 id 以 x 前缀区分，如 x450111
+ * min-yuan.com 来源 id 以 m_ 前缀区分，如 m_syr
+ * libahao2.com 来源 id 以 l_ 前缀区分，如 l_12492955__660499（siteBookId + imageId）
  */
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^((?:[xs]\d+|\d+))_(.+?)1-(\d+)章\.txt$/;
+const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|u_[a-z0-9]+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
+const CUSTOM_ID_RE = /^u_[a-z0-9]+$/i;
 const JCXS_ID_RE = /^s\d+$/;
 const X33XS_ID_RE = /^x\d+$/;
+const MINYUAN_ID_RE = /^m_[a-z0-9]+$/i;
+const LIBAHAO_ID_RE = /^l_\d+(?:__\d+)?$/i;
 
 function isJcxsId(id) {
   return JCXS_ID_RE.test(String(id));
@@ -18,8 +23,58 @@ function isX33xsId(id) {
   return X33XS_ID_RE.test(String(id));
 }
 
+function isMinyuanId(id) {
+  return MINYUAN_ID_RE.test(String(id));
+}
+
+function isLibahaoId(id) {
+  return LIBAHAO_ID_RE.test(String(id));
+}
+
+function isCustomBookId(id) {
+  return CUSTOM_ID_RE.test(String(id));
+}
+
 function isPrefixedSiteBookId(id) {
-  return isJcxsId(id) || isX33xsId(id);
+  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id);
+}
+
+function libahaoLocalId(siteBookId, imageId) {
+  const sid = String(siteBookId);
+  if (imageId != null && imageId !== '') {
+    return `l_${sid}__${String(imageId)}`;
+  }
+  return `l_${sid}`;
+}
+
+function parseLibahaoLocalId(localId) {
+  const s = String(localId);
+  const full = s.match(/^l_(\d+)__(\d+)$/i);
+  if (full) return { siteBookId: full[1], imageId: full[2] };
+  const legacy = s.match(/^l_(\d+)$/i);
+  if (legacy) return { siteBookId: legacy[1], imageId: null };
+  return null;
+}
+
+function libahaoBookUrl(localId) {
+  const p = parseLibahaoLocalId(localId);
+  if (!p?.imageId) return '';
+  return `https://m.libahao2.com/book/${p.siteBookId}_${p.imageId}/`;
+}
+
+function parseLibahaoBookUrl(input) {
+  const m = String(input).match(/\/book\/(\d+)_(\d+)\/?/i);
+  if (!m) return null;
+  return {
+    siteBookId: m[1],
+    imageId: m[2],
+    bookPath: `${m[1]}_${m[2]}`,
+    localId: libahaoLocalId(m[1], m[2]),
+  };
+}
+
+function minyuanLocalId(slug) {
+  return `m_${String(slug).toLowerCase()}`;
 }
 
 function jcxsLocalId(siteBookId) {
@@ -56,8 +111,9 @@ function sanitizeBookTitle(title) {
     .trim();
 }
 
-function buildBookFilename(id, title, maxChapter) {
-  return `${id}_${sanitizeBookTitle(title)}1-${maxChapter}章.txt`;
+function buildBookFilename(id, title, maxChapter, seq) {
+  const head = seq != null ? `${id}_${seq}` : String(id);
+  return `${head}_${sanitizeBookTitle(title)}1-${maxChapter}章.txt`;
 }
 
 function buildBookDownloadUrl(filename) {
@@ -74,13 +130,15 @@ function parseNewFormat(filename) {
   const m = filename.match(BOOK_FILE_RE);
   if (!m) return null;
   const id = parseBookId(m[1]);
-  const title = m[2];
-  const maxChapter = Number(m[3]);
+  const seq = m[2] ? Number(m[2]) : null;
+  const title = m[3];
+  const maxChapter = Number(m[4]);
   return {
     id,
+    seq,
     title,
     maxChapter,
-    filename: buildBookFilename(id, title, maxChapter),
+    filename: buildBookFilename(id, title, maxChapter, seq),
   };
 }
 
@@ -244,11 +302,20 @@ module.exports = {
   LEGACY_BOOK_FILE_RE,
   LEGACY_FLAT_FILE_RE,
   X33XS_ID_RE,
+  MINYUAN_ID_RE,
   isJcxsId,
   isX33xsId,
+  isMinyuanId,
+  isLibahaoId,
+  isCustomBookId,
   isPrefixedSiteBookId,
   jcxsLocalId,
   x33xsLocalId,
+  minyuanLocalId,
+  libahaoLocalId,
+  parseLibahaoLocalId,
+  libahaoBookUrl,
+  parseLibahaoBookUrl,
   parseBookId,
   compareBookIds,
   buildBookFilename,

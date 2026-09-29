@@ -1,5 +1,7 @@
 <template>
   <update-modal />
+  <read-prompt-modal />
+  <rewarded-video-ad-host v-if="needLocalRewardHost" />
   <view v-if="book" class="detail-page">
     <view class="hero">
       <image class="hero-cover" :src="book.cover" mode="aspectFill" />
@@ -33,19 +35,28 @@
 
     <view class="actions">
       <!-- <button class="action-btn primary" @tap="onStartRead">开始阅读</button> -->
-      <button class="action-btn  primary" @tap="onOpenReadUrl">在浏览器打开阅读</button>
+      <button class="action-btn  primary" :loading="readLoading" @tap="onOpenReadUrl">在浏览器打开阅读</button>
     </view>
   </view>
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 import { onLoad, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import UpdateModal from '@/components/UpdateModal.vue';
+import ReadPromptModal from '@/components/ReadPromptModal.vue';
+import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
 import { getBookById } from '@/utils/books';
-import { copyQuarkReadUrl, onLatestChapterTap as handleLatestChapterTap } from '@/utils/read-url';
+import { promptWatchAdThenCopyReadUrl, onLatestChapterTap as handleLatestChapterTap } from '@/utils/read-url';
 
 const book = ref(null);
+const readLoading = ref(false);
+const needLocalRewardHost = ref(false);
+
+onMounted(() => {
+  // 从分享直达详情时没有首页栈，需本地挂载激励组件
+  needLocalRewardHost.value = getCurrentPages().length <= 1;
+});
 
 onLoad((options) => {
   const found = getBookById(options.id);
@@ -58,29 +69,14 @@ onLoad((options) => {
   book.value = found;
 });
 
-function onStartRead() {
-  if (!book.value) return;
-  copyQuarkReadUrl(book.value.readUrl);
-}
-
-function onOpenReadUrl() {
-  if (!book.value) return;
-  if (!book.value.readUrl) {
-    uni.showToast({ title: '暂无阅读链接', icon: 'none' });
-    return;
+async function onOpenReadUrl() {
+  if (!book.value || readLoading.value) return;
+  readLoading.value = true;
+  try {
+    await promptWatchAdThenCopyReadUrl(book.value.readUrl, book.value.id);
+  } finally {
+    readLoading.value = false;
   }
-  uni.setClipboardData({
-    data: book.value.readUrl,
-    success: () => {
-      uni.showModal({
-        title: '在浏览器打开',
-        content: '阅读链接已复制，请打开浏览器粘贴访问。',
-        showCancel: false,
-        confirmText: '知道了',
-      });
-    },
-    fail: () => uni.showToast({ title: '复制失败，请重试', icon: 'none' }),
-  });
 }
 
 function onLatestChapterTap() {

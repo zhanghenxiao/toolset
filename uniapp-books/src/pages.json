@@ -1,23 +1,83 @@
 {
+
   "pages": [
+
     {
+
       "path": "pages/index/index",
+
       "style": {
-        "navigationBarTitleText": "数维探索"
+
+        "navigationBarTitleText": "首页"
+
       }
+
     },
+
     {
-      "path": "pages/detail/detail",
+
+      "path": "pages/mine/mine",
+
       "style": {
-        "navigationBarTitleText": "书籍详情"
+
+        "navigationBarTitleText": "关于"
+
       }
+
+    },
+
+    {
+
+      "path": "pages/about/about",
+
+      "style": {
+
+        "navigationBarTitleText": "关于"
+
+      }
+
+    },
+
+    {
+
+      "path": "pages/detail/detail",
+
+      "style": {
+
+        "navigationBarTitleText": "书籍详情"
+
+      }
+
+    },
+
+    {
+
+      "path": "pages/detail/jili",
+
+      "style": {
+
+        "navigationBarTitleText": "激励视频测试"
+
+      }
+
     }
+
   ],
+
   "globalStyle": {
+
     "navigationBarTextStyle": "white",
+
     "navigationBarTitleText": "数维探索",
+
     "navigationBarBackgroundColor": "#4a3728",
+
     "backgroundColor": "#f3ead8",
+
     "backgroundTextStyle": "dark"
+
   }
+
 }
+
+

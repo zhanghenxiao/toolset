@@ -15,7 +15,7 @@ const {
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
-const { SOURCE_SHARE_LINE } = require('./source-share-line');
+const { buildBookHeader, finalizeBookFile } = require('./source-share-line');
 const BASE_WWW = 'http://www.x33xs6.com';
 const BASE_M = 'http://m.x33xs6.com';
 const DELAY_MS = 350;
@@ -32,15 +32,31 @@ function sleep(ms) {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
 }
 
-function curl(url, mobile = false) {
+function curl(url, mobile = false, retries = 6) {
   const ua = mobile
     ? 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15'
     : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0';
-  return execSync(`curl.exe -sL -A "${ua}" "${url}"`, {
-    encoding: 'utf8',
-    maxBuffer: 50 * 1024 * 1024,
-    stdio: ['pipe', 'pipe', 'pipe'],
-  });
+  const cmd = `curl.exe -sL --connect-timeout 60 --max-time 180 -A "${ua}" "${url.replace(/"/g, '%22')}"`;
+  let lastErr;
+  for (let i = 0; i < retries; i += 1) {
+    try {
+      return execSync(cmd, {
+        encoding: 'utf8',
+        maxBuffer: 50 * 1024 * 1024,
+        stdio: ['pipe', 'pipe', 'pipe'],
+      });
+    } catch (err) {
+      const body = err.stdout || err.output?.[1];
+      if (body && String(body).length > 200) return String(body);
+      lastErr = err;
+      if (i < retries - 1) {
+        const waitMs = 3000 * (i + 1);
+        console.warn(`\n  网络异常，${Math.round(waitMs / 1000)}s 后重试 (${i + 1}/${retries - 1})…`);
+        sleep(waitMs);
+      }
+    }
+  }
+  throw lastErr;
 }
 
 function decodeHtml(text) {
@@ -60,16 +76,25 @@ function parseBookPath(input) {
 
 function parseBookMeta(html) {
   const title = html.match(/property="og:novel:book_name" content="([^"]+)"/)?.[1]
-    || html.match(/property="og:title" content="([^"]+)"/)?.[1]?.trim();
-  const author = html.match(/property="og:novel:author" content="([^"]+)"/)?.[1]?.trim();
-  const category = (html.match(/property="og:novel:category" content="([^"]+)"/)?.[1] || '其他')
+    || html.match(/property="og:title" content="([^"]+)"/)?.[1]?.trim()
+    || html.match(/<h1[^>]*>([^<]+)<\/h1>/i)?.[1]?.trim()
+    || html.match(/<h2>([^<]+)<\/h2>/i)?.[1]?.trim();
+  const author = html.match(/property="og:novel:author" content="([^"]+)"/)?.[1]?.trim()
+    || html.match(/作者[：:]\s*([^<\n]+)/)?.[1]?.trim();
+  const category = (html.match(/property="og:novel:category" content="([^"]+)"/)?.[1]
+    || html.match(/分类[：:][^<]*>([^<]+)</)?.[1]
+    || '其他')
     .replace(/小说$/, '');
-  const statusRaw = html.match(/property="og:novel:status" content="([^"]+)"/)?.[1] || '';
+  const statusRaw = html.match(/property="og:novel:status" content="([^"]+)"/)?.[1]
+    || html.match(/状态[：:]\s*([^<\n]+)/)?.[1]
+    || '';
   const status = /完/.test(statusRaw) ? '已完结' : '连载中';
   const latestChapter = html.match(/property="og:novel:latest_chapter_name" content="([^"]+)"/)?.[1] || '';
   let excerpt = html.match(/property="og:description" content="([^"]+)"/)?.[1] || '';
   if (!excerpt) {
-    excerpt = html.match(/<div id="intro"[^>]*>([\s\S]*?)<\/div>/i)?.[1] || '';
+    excerpt = html.match(/<div id="intro"[^>]*>([\s\S]*?)<\/div>/i)?.[1]
+      || html.match(/<div class="intro_info">([\s\S]*?)<\/div>/i)?.[1]
+      || '';
   }
   excerpt = decodeHtml(excerpt.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()).slice(0, 200);
   const date = html.match(/property="og:novel:update_time" content="([^"]+)"/)?.[1]?.slice(0, 10)
@@ -83,20 +108,46 @@ function chapterNumFromName(name) {
   return Number(name.match(/^(\d+)/)?.[1] || 0);
 }
 
-function parseCatalog(html) {
-  const chapters = [];
-  const re = /<dd><a href="(\/33xs\/\d+\/\d+\/\d+\.html)">([^<]+)<\/a><\/dd>/g;
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    const href = m[1];
-    const name = decodeHtml(m[2].trim());
-    const num = chapterNumFromName(name);
-    if (!num) continue;
-    if (!chapters.some((c) => c.href === href)) {
-      chapters.push({ href, name, num });
+function fetchIndexHtml(bookPath) {
+  const urls = [`${BASE_WWW}${bookPath}`, `${BASE_M}${bookPath}`];
+  for (const url of urls) {
+    const mobile = url.startsWith(BASE_M);
+    for (let retry = 0; retry < 4; retry++) {
+      const html = curl(url, mobile);
+      if (/Just a moment/.test(html)) {
+        sleep(1500 * (retry + 1));
+        continue;
+      }
+      if (html.length > 8000) return html;
+      sleep(1000);
     }
   }
-  return chapters.sort((a, b) => a.num - b.num);
+  throw new Error('目录页被 Cloudflare 拦截，请稍后重试');
+}
+
+function parseCatalog(html, bookPath) {
+  const block = html.includes('>正文</div>')
+    ? html.split('>正文</div>').pop()
+    : html;
+  const pathEsc = bookPath.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`<a href="(${pathEsc}\\d+\\.html)">([^<]+)</a>`, 'gi');
+  const byHref = new Map();
+  let m;
+  while ((m = re.exec(block)) !== null) {
+    const href = m[1];
+    const name = decodeHtml(m[2].trim());
+    if (!name || /javascript:/i.test(href)) continue;
+    if (!byHref.has(href)) byHref.set(href, name);
+  }
+
+  const chapters = [];
+  let seq = 0;
+  for (const [href, name] of byHref) {
+    seq += 1;
+    const num = chapterNumFromName(name) || seq;
+    chapters.push({ href, name, num: seq });
+  }
+  return chapters;
 }
 
 function trimChapterSpam(text) {
@@ -217,20 +268,28 @@ function slugify(title) {
     .slice(0, 40) || `book-${Date.now()}`;
 }
 
+function findResumeIndex(outPath, chapters) {
+  if (!fs.existsSync(outPath)) return 0;
+  const content = fs.readFileSync(outPath, 'utf8');
+  for (let i = 0; i < chapters.length; i += 1) {
+    const marker = `${chapters[i].name}\n\n`;
+    if (!content.includes(marker)) return i;
+    const chunk = content.split(marker)[1]?.split('\n\n\n')[0] || '';
+    if (chunk.startsWith('[本章下载失败')) return i;
+  }
+  return chapters.length;
+}
+
 async function main() {
   const parsed = parseBookPath(urlOrPath);
   if (!parsed) throw new Error('无法解析书籍 URL，需含 /33xs/{shard}/{bookId}/');
   const { shard, bookId, bookPath } = parsed;
-  const indexUrl = `${BASE_WWW}${bookPath}`;
   console.log(`抓取 x33xs 书籍 ${bookId}…`);
-  const indexHtml = curl(indexUrl, false);
-  if (/Just a moment/.test(indexHtml)) {
-    throw new Error('目录页被 Cloudflare 拦截，请稍后重试或使用 http://www.x33xs6.com');
-  }
+  const indexHtml = fetchIndexHtml(bookPath);
   const meta = parseBookMeta(indexHtml);
   if (!meta.title || !meta.author) throw new Error('无法解析书名/作者');
 
-  const chapters = parseCatalog(indexHtml);
+  const chapters = parseCatalog(indexHtml, bookPath);
   if (chapters.length === 0) throw new Error('目录为空');
 
   console.log(`《${meta.title}》 作者：${meta.author}`);
@@ -239,29 +298,49 @@ async function main() {
   let filename = buildBookFilename(localId, meta.title, maxChapter);
   let outPath = getBookPath(root, filename);
 
+  const booksOnDisk = discoverBooks(path.join(root, 'books'));
+  const existing = booksOnDisk.find((b) => String(b.id) === String(localId));
+  if (existing) {
+    outPath = existing.filePath;
+    filename = existing.filename;
+  }
+
   let startIndex = 0;
   if (startChapter > 1) {
-    const books = discoverBooks(path.join(root, 'books'));
-    const existing = books.find((b) => b.id === localId);
     if (!existing) throw new Error(`续传需要已有 localId=${localId} 的 TXT`);
-    outPath = getBookPath(root, existing.filename);
     startIndex = chapters.findIndex((ch) => ch.num >= startChapter);
     if (startIndex < 0) throw new Error(`目录中找不到第 ${startChapter} 章`);
     console.log(`续传 ${outPath}，从第 ${chapters[startIndex].num} 章起…`);
   } else {
-    const header = `《${meta.title}》  作者：${meta.author}\n${SOURCE_SHARE_LINE}\n\n\n`;
-    fs.writeFileSync(outPath, header, 'utf8');
+    startIndex = findResumeIndex(outPath, chapters);
+    if (startIndex >= chapters.length) {
+      console.log(`已全部下载，跳过: ${outPath}`);
+      return;
+    }
+    if (startIndex > 0) {
+      console.log(`续传 ${outPath}，从第 ${startIndex + 1}/${chapters.length} 章起…`);
+    } else {
+      const header = buildBookHeader(meta.title, meta.author);
+      fs.writeFileSync(outPath, header, 'utf8');
+    }
   }
 
   const todo = chapters.slice(startIndex);
   console.log(`共 ${chapters.length} 章，待下载 ${todo.length} 章…`);
 
+  let failed = 0;
   let done = startIndex;
   for (const ch of todo) {
     done++;
     process.stdout.write(`\r  [${done}/${chapters.length}] ${ch.name.slice(0, 36)}…`);
-    const text = fetchChapterText(ch.href, bookPath);
-    fs.appendFileSync(outPath, `${ch.name}\n\n${text}\n\n\n`, 'utf8');
+    try {
+      const text = fetchChapterText(ch.href, bookPath);
+      fs.appendFileSync(outPath, `${ch.name}\n\n${text}\n\n\n`, 'utf8');
+    } catch (err) {
+      failed++;
+      console.warn(`\n  跳过 ${ch.name}: ${err.message}`);
+      fs.appendFileSync(outPath, `${ch.name}\n\n[本章下载失败: ${err.message}]\n\n\n`, 'utf8');
+    }
     sleep(DELAY_MS);
   }
   process.stdout.write('\n');
@@ -274,6 +353,8 @@ async function main() {
     outPath = finalPath;
     filename = finalName;
   }
+
+  finalizeBookFile(outPath);
 
   const coverDir = path.join(root, 'csdn/src/assets/images/books');
   fs.mkdirSync(coverDir, { recursive: true });
@@ -316,7 +397,7 @@ async function main() {
   fs.writeFileSync(registryPath, JSON.stringify(registry, null, 2), 'utf8');
 
   console.log(`已写入 ${outPath}`);
-  console.log(`localId=${localId} 章节 1-${maxChapter}`);
+  console.log(`localId=${localId} 章节 1-${maxChapter}${failed ? `（失败 ${failed} 章）` : ''}`);
   console.log(`来源: https://www.x33xs6.com${bookPath}`);
 }
 

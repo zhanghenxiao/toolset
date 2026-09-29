@@ -12,11 +12,17 @@ const {
   compareBookIds,
   isJcxsId,
   isX33xsId,
+  isMinyuanId,
+  isLibahaoId,
+  isCustomBookId,
+  libahaoBookUrl,
+  parseLibahaoLocalId,
 } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
 const booksDataPath = path.join(root, 'csdn/src/data/booksData.js');
 const registryPath = path.join(root, 'csdn/src/data/deqixs-batch-registry.json');
+const plainRegistryPath = path.join(root, 'csdn/src/data/plain-books-registry.json');
 const excerptDir = path.join(root, 'csdn/src/data/books');
 const coverDir = path.join(root, 'csdn/src/assets/images/books');
 
@@ -68,10 +74,24 @@ function parseMetadata(html, id) {
 }
 
 const READ_URLS = {
-  2: 'https://pan.quark.cn/s/9e04191a6092?pwd=YpnA',
-  3: 'https://pan.quark.cn/s/23b297772e38?pwd=xvC1',
+  1: 'https://pan.quark.cn/s/4ca43135917a?pwd=A2da',
+  2: 'https://pan.quark.cn/s/2ee0af84ba59?pwd=NYQD',
+  3: 'https://pan.quark.cn/s/9406c7764851?pwd=KEac',
+  17: 'https://pan.quark.cn/s/393fa797268a?pwd=BhHy',
+  400: 'https://pan.quark.cn/s/0d05e0d64da1?pwd=DimY',
+  1349: 'https://pan.baidu.com/s/1VDACYaOBjaizr7_qppGXXQ?pwd=a86b',
+  1487: 'https://pan.baidu.com/s/1rTHk9BDd2dLl-F5UsdIf3w?pwd=wdda',
+  1595: 'https://pan.baidu.com/s/1NFJ3gpvcsuCIDmu2geqScg?pwd=kmae',
+  1608: 'https://pan.baidu.com/s/1A8Qh3Qotai56etpRIskAaw?pwd=hgwp',
   145: 'https://pan.quark.cn/s/3241f9ad0c8c',
   235: 'https://pan.quark.cn/s/d3bdf735c407',
+  l_12492825__660539: 'https://pan.xunlei.com/s/VP21z1UuaMInReHYCDQiGjVAA1?pwd=j2sy',
+  l_12492824__660523: 'https://pan.xunlei.com/s/VP21z1Up3-pLu21UXsANl0SUA1?pwd=33k6',
+  l_12492841__660536: 'https://pan.xunlei.com/s/VP21z1UsY6kk0D8rD1INfQx5A1?pwd=mnqj',
+  l_12492904__660524: 'https://pan.xunlei.com/s/VP21z1Uxp2N7CQBUU4qWSb1WA1?pwd=z4pn',
+  l_12492920__660525: 'https://pan.xunlei.com/s/VP21z1V-qFYh599RMvxZGGf5A1?pwd=4y4j',
+  l_12492955__660499: 'https://pan.xunlei.com/s/VP21z1V3utMzMLbiNyf2V-kfA1?pwd=d9c6',
+  l_12493017__660535: 'https://pan.xunlei.com/s/VP21z1Uy5bMFEwcA3WwjcUPtA1?pwd=st3c',
 };
 
 function parseBlockId(block) {
@@ -103,14 +123,52 @@ function loadExistingReadUrls() {
   return map;
 }
 
+const NOCOVER_COVER_VAR = 'nocoverCover';
+const NOCOVER_IMPORT_PATH = '../assets/images/books/nocover.jpg';
+
+/** 与 book-2686.jpg → bookCover2686 一致；带前缀 id 只保留数字部分 */
 function getCoverVar(id) {
+  const s = String(id);
+  const digits = s.replace(/\D/g, '');
+  if (digits) return `bookCover${digits}`;
+  const safe = s.replace(/[^a-zA-Z0-9]/g, '');
+  return `bookCover${safe}`;
+}
+
+function hasCoverFile(id) {
+  if (id === 145) {
+    return fs.existsSync(path.join(coverDir, 'wudao-154.jpg'));
+  }
+  return fs.existsSync(path.join(coverDir, `book-${id}.jpg`));
+}
+
+function getCoverVarForBook(id) {
   if (id === 145) return 'wudaoCover';
-  return `book${id}Cover`;
+  if (!hasCoverFile(id)) return NOCOVER_COVER_VAR;
+  return getCoverVar(id);
+}
+
+function normalizeBlockCover(block, id) {
+  const coverVar = getCoverVarForBook(id);
+  return block.replace(/(\n    cover: )[^,]+,/, `\n    cover: ${coverVar},`);
 }
 
 function coverImportPath(id) {
   if (id === 145) return '../assets/images/books/wudao-154.jpg';
   return `../assets/images/books/book-${id}.jpg`;
+}
+
+function libahaoSourceUrl(localId) {
+  const fromId = libahaoBookUrl(localId);
+  if (fromId) return fromId;
+  const parsed = parseLibahaoLocalId(localId);
+  if (!parsed?.siteBookId) return '';
+  const workDir = path.join(root, 'books/_work/libahao');
+  if (!fs.existsSync(workDir)) return '';
+  const hit = fs.readdirSync(workDir).find((f) => f.startsWith(`index-${parsed.siteBookId}_`) && f.endsWith('.html'));
+  if (!hit) return '';
+  const m = hit.match(/^index-(\d+)_(\d+)\.html$/);
+  return m ? `https://m.libahao2.com/book/${m[1]}_${m[2]}/` : '';
 }
 
 function discoverDiskBooks() {
@@ -138,7 +196,13 @@ function discoverDiskBooks() {
         ? `https://www.jcxs.org/book/${String(book.id).slice(1)}/`
         : isX33xsId(book.id)
           ? `https://www.x33xs6.com/33xs/${Math.floor(Number(String(book.id).slice(1)) / 1000)}/${String(book.id).slice(1)}/`
-          : `https://www.deqixs.org/${book.id}/txt.html#dir`,
+          : isMinyuanId(book.id)
+            ? `https://www.min-yuan.com/txt/${String(book.id).slice(2)}/`
+            : isLibahaoId(book.id)
+              ? libahaoSourceUrl(book.id)
+              : isCustomBookId(book.id)
+                ? ''
+                : `https://www.deqixs.org/${book.id}/txt.html#dir`,
       latestChapterFromFile: findLatestChapter(readBookText(book.filePath).slice(-50000)),
     });
   }
@@ -205,7 +269,7 @@ function collectMetaFromBlocks(blocks) {
 }
 
 function entryToBlock(id, entry) {
-  const coverVar = getCoverVar(id);
+  const coverVar = getCoverVarForBook(id);
   const lines = [
     '{',
     `    id: ${formatBlockId(id)},`,
@@ -232,7 +296,10 @@ function entryToBlock(id, entry) {
 const registry = fs.existsSync(registryPath)
   ? JSON.parse(fs.readFileSync(registryPath, 'utf8'))
   : [];
-const registryMap = new Map(registry.map((b) => [b.id, b]));
+const plainRegistry = fs.existsSync(plainRegistryPath)
+  ? JSON.parse(fs.readFileSync(plainRegistryPath, 'utf8'))
+  : [];
+const registryMap = new Map([...registry, ...plainRegistry].map((b) => [b.id, b]));
 
 const diskBooks = discoverDiskBooks();
 const existingReadUrls = loadExistingReadUrls();
@@ -276,7 +343,7 @@ for (const disk of diskBooks) {
 if (process.argv.includes('--online')) {
   for (const item of merged) {
     const { id, entry } = item;
-    if (isJcxsId(id) || isX33xsId(id)) continue;
+    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id)) continue;
     if (entry.author && entry.author !== '未知' && entry.category && entry.latestChapter) continue;
     try {
       const meta = parseMetadata(curlText(`https://www.deqixs.org/${id}/txt.html`), id);
@@ -309,17 +376,25 @@ for (const { id, entry } of merged) {
 
 // 保留无本地 TXT 的历史条目（如仅网盘、或 TXT 未同步到本机）
 const allIds = [...existingBlocks.keys()].sort(compareBookIds);
+for (const id of allIds) {
+  existingBlocks.set(id, normalizeBlockCover(existingBlocks.get(id), id));
+}
 const blocks = allIds.map((id) => existingBlocks.get(id)).join('\n');
 const { categories, tags } = collectMetaFromBlocks(allIds.map((id) => existingBlocks.get(id)));
 
 const importLines = [];
 if (allIds.includes(145)) importLines.push("import wudaoCover from '../assets/images/books/wudao-154.jpg';");
+let needsNocover = false;
 for (const id of allIds) {
   if (id === 145) continue;
-  const coverFile = path.join(coverDir, `book-${id}.jpg`);
-  if (fs.existsSync(coverFile)) {
-    importLines.push(`import book${id}Cover from '${coverImportPath(id)}';`);
+  if (hasCoverFile(id)) {
+    importLines.push(`import ${getCoverVar(id)} from '${coverImportPath(id)}';`);
+  } else {
+    needsNocover = true;
   }
+}
+if (needsNocover) {
+  importLines.push(`import ${NOCOVER_COVER_VAR} from '${NOCOVER_IMPORT_PATH}';`);
 }
 
 const output = `${importLines.join('\n')}

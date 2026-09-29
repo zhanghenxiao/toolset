@@ -1,5 +1,6 @@
 import { reactive } from 'vue';
 import { AD_INTERSTITIAL_PID, AD_INTERSTITIAL_INTERVAL } from './ad-config';
+import { AD_TYPE, isAdBusy, releaseAd, tryAcquireAd } from './ad-guard';
 
 const LOG_TAG = '[interstitial-ad]';
 const SHOW_TIMEOUT_MS = 12000;
@@ -88,6 +89,7 @@ export function onInterstitialLoad() {
 
 export function onInterstitialClose() {
   interstitialState.loaded = false;
+  releaseAd(AD_TYPE.INTERSTITIAL);
   console.log(`${LOG_TAG} closed`);
   runAfterClose();
 }
@@ -96,12 +98,19 @@ export function onInterstitialError(err) {
   interstitialState.loading = false;
   interstitialState.loaded = false;
   pendingShow = false;
+  releaseAd(AD_TYPE.INTERSTITIAL);
   logAdError('error', err);
   finishShow(false);
 }
 
 function doShow() {
+  if (!tryAcquireAd(AD_TYPE.INTERSTITIAL)) {
+    finishShow(false);
+    return;
+  }
+
   if (!adComponent?.show) {
+    releaseAd(AD_TYPE.INTERSTITIAL);
     finishShow(false);
     return;
   }
@@ -117,6 +126,7 @@ function doShow() {
     })
     .catch((err) => {
       interstitialState.loading = false;
+      releaseAd(AD_TYPE.INTERSTITIAL);
       logAdError('show failed', err);
       finishShow(false);
     });
@@ -144,6 +154,13 @@ export function showInterstitialAd(options = {}) {
       const now = Date.now();
       if (!force && now - lastShowAt < AD_INTERSTITIAL_INTERVAL) {
         console.log(`${LOG_TAG} skipped: interval`);
+        afterCloseCallback = null;
+        resolve(false);
+        return;
+      }
+
+      if (isAdBusy()) {
+        console.log(`${LOG_TAG} skipped: another ad active`);
         afterCloseCallback = null;
         resolve(false);
         return;

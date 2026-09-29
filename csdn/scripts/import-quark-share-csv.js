@@ -1,10 +1,11 @@
 /**
- * 从分享导出 CSV 导入 readUrl 到 booksData.js
- * 支持：夸克「分享结果导出」、百度「批量分享记录」（文件名,链接,提取码,...）
- * 用法: node csdn/scripts/import-quark-share-csv.js <csv路径> [csv路径2 ...]
+ * 从分享导出文件导入 readUrl 到 booksData.js
+ * 支持：夸克「分享结果导出」CSV、百度「批量分享记录」CSV、迅雷「分享结果导出」XLSX
+ * 用法: node csdn/scripts/import-quark-share-csv.js <文件路径> [文件路径2 ...]
  */
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 const { parseBookFilename } = require('./book-paths');
 
 const root = path.resolve(__dirname, '../..');
@@ -142,9 +143,28 @@ function parseSharesFromCsv(csvPath) {
   return parseQuarkSharesFromCsv(csvPath);
 }
 
+/** 迅雷分享结果导出 xlsx：创建分享状态,分享名,分享链接,提取码,... */
+function parseXunleiSharesFromXlsx(xlsxPath) {
+  const script = path.join(__dirname, 'parse-xunlei-xlsx-shares.py');
+  const raw = execFileSync('python', [script, xlsxPath], { maxBuffer: 20 * 1024 * 1024 });
+  const rows = JSON.parse(raw.toString('utf8'));
+  const shares = new Map();
+  for (const row of rows) {
+    mergeShare(shares, row);
+  }
+  return shares;
+}
+
+function parseSharesFromFile(filePath) {
+  if (/\.xlsx$/i.test(filePath)) {
+    return parseXunleiSharesFromXlsx(filePath);
+  }
+  return parseSharesFromCsv(filePath);
+}
+
 const shares = new Map();
 for (const csvPath of csvPaths) {
-  const parsed = parseSharesFromCsv(csvPath);
+  const parsed = parseSharesFromFile(csvPath);
   console.log(`${path.basename(csvPath)}: ${parsed.size} 条`);
   for (const book of parsed.values()) {
     mergeShare(shares, book);

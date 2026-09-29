@@ -104,7 +104,7 @@ function stripHeader(text) {
 
 ```
 《{书名}》  作者：{作者}
-更多书源分享，小程序搜：数维探索。或者访问官网：https://toolset.site
+更多书源分享，小程序搜：数维探索。最新资源获取方式：加入官方反馈群1041698859。  或者访问官网：https://toolset.site
 章节范围：1-{end}章（可选）
 
 

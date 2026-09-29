@@ -2,6 +2,7 @@
   <view class="page">
     <update-modal />
     <interstitial-ad-host />
+    <rewarded-video-ad-host />
     <view class="page-top-bar">
       <view class="version-badge" @tap="onVersionTap">
         <text>v{{ appVersion }}</text>
@@ -89,21 +90,7 @@
       <text class="no-results-tip">请关注微信公众号「数维探索」留言你想找的书籍</text>
     </view>
 
-    <view v-if="totalPages > 1" class="pagination">
-      <button
-        class="page-btn"
-        size="mini"
-        :disabled="currentPage <= 1"
-        @tap="onPrevPage"
-      >上一页</button>
-      <text class="page-info">{{ currentPage }} / {{ totalPages }}</text>
-      <button
-        class="page-btn"
-        size="mini"
-        :disabled="currentPage >= totalPages"
-        @tap="onNextPage"
-      >下一页</button>
-    </view>
+    <app-tab-bar />
   </view>
 </template>
 
@@ -115,10 +102,13 @@ import { APP_VERSION_NAME } from '@/utils/app-version';
 import { checkAppUpdate } from '@/utils/app-update';
 import UpdateModal from '@/components/UpdateModal.vue';
 import InterstitialAdHost from '@/components/InterstitialAdHost.vue';
+import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
 import FeedAd from '@/components/FeedAd.vue';
+import AppTabBar from '@/components/AppTabBar.vue';
 import { showInterstitialAd } from '@/utils/interstitial-ad';
+import { shouldShowRewardForSearch, showRewardForSearch } from '@/utils/ad-policy';
 
-const PAGE_SIZE = 20;
+const PAGE_SIZE = 40;
 const appVersion = APP_VERSION_NAME;
 const categories = meta.categories || [];
 const tags = meta.tags || [];
@@ -129,11 +119,18 @@ const list = ref([]);
 const selectedCategory = ref('');
 const selectedTag = ref('');
 const keyword = ref('');
-const currentPage = ref(1);
-const totalPages = ref(1);
-const totalFiltered = ref(0);
 const pageReady = ref(false);
-let filteredCache = [];
+const searchClickCount = ref(0);
+let searchPending = false;
+
+function isAppPlus() {
+  if (typeof plus !== 'undefined') return true;
+  try {
+    return uni.getSystemInfoSync().uniPlatform === 'app';
+  } catch {
+    return false;
+  }
+}
 
 function applyFilters() {
   const categoriesFilter = selectedCategory.value ? [selectedCategory.value] : [];
@@ -143,47 +140,57 @@ function applyFilters() {
     tags: tagsFilter,
     keyword: keyword.value,
   });
-  filteredCache = filtered;
-  const pages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
-  if (currentPage.value > pages) currentPage.value = pages;
-  const start = (currentPage.value - 1) * PAGE_SIZE;
-  list.value = filtered.slice(start, start + PAGE_SIZE);
-  totalFiltered.value = filtered.length;
-  totalPages.value = pages;
+  list.value = filtered.slice(0, PAGE_SIZE);
 }
 
 function onKeywordInput(e) {
   keyword.value = e.detail.value;
 }
 
-function onSearch() {
-  currentPage.value = 1;
-  applyFilters();
+async function onSearch() {
+  if (searchPending) return;
+
+  if (!isAppPlus()) {
+    applyFilters();
+    return;
+  }
+
+  searchClickCount.value += 1;
+
+  if (!shouldShowRewardForSearch(searchClickCount.value)) {
+    applyFilters();
+    return;
+  }
+
+  searchPending = true;
+  try {
+    const { shown, isEnded } = await showRewardForSearch();
+
+    if (!shown) {
+      uni.showToast({ title: '广告未能展示，请稍后重试', icon: 'none' });
+      return;
+    }
+
+    if (!isEnded) {
+      uni.showToast({ title: '请完整观看激励视频后再搜索', icon: 'none' });
+      return;
+    }
+
+    applyFilters();
+  } finally {
+    searchPending = false;
+  }
 }
 
 function onCategoryChange(e) {
   const idx = Number(e.detail.value);
   selectedCategory.value = idx === 0 ? '' : categories[idx - 1];
-  currentPage.value = 1;
   applyFilters();
 }
 
 function onTagChange(e) {
   const idx = Number(e.detail.value);
   selectedTag.value = idx === 0 ? '' : tags[idx - 1];
-  currentPage.value = 1;
-  applyFilters();
-}
-
-function onPrevPage() {
-  if (currentPage.value <= 1) return;
-  currentPage.value -= 1;
-  applyFilters();
-}
-
-function onNextPage() {
-  if (currentPage.value >= totalPages.value) return;
-  currentPage.value += 1;
   applyFilters();
 }
 
@@ -251,7 +258,7 @@ onShareTimeline(() => {
 <style lang="scss" scoped>
 .page {
   min-height: 100vh;
-  padding-bottom: 60rpx;
+  padding-bottom: 140rpx;
 }
 
 .page-top-bar {
@@ -527,31 +534,4 @@ onShareTimeline(() => {
   line-height: 1.8;
 }
 
-.pagination {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 32rpx;
-  margin-top: 48rpx;
-  padding: 0 32rpx;
-}
-
-.page-btn {
-  background: #fffdf7 !important;
-  color: #6d2229 !important;
-  border: 1rpx solid #c9a97a !important;
-  border-radius: 8rpx !important;
-  letter-spacing: 2rpx;
-}
-
-.page-btn[disabled] {
-  color: #c3b295 !important;
-  border-color: #e5d8bd !important;
-}
-
-.page-info {
-  font-size: 26rpx;
-  color: #8a7355;
-  letter-spacing: 2rpx;
-}
 </style>
