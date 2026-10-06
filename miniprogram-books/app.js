@@ -1,6 +1,9 @@
+const { createChapterUnlock } = require('./utils/unlock');
+
 App({
   globalData: {
     site: 'https://toolset.site',
+    chapterUnlock: createChapterUnlock(),
   },
   onLaunch() {
     if (wx.cloud) {

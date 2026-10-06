@@ -48,35 +48,58 @@
   </view>
 
   <view wx:elif="{{list.length > 0}}" class="book-grid">
-    <view
+    <block
       wx:for="{{list}}"
       wx:key="id"
-      class="book-card"
-      data-id="{{item.id}}"
-      bindtap="onBookTap"
     >
-      <view class="card-cover">
-        <image class="cover-img" src="{{item.cover}}" mode="aspectFill" lazy-load />
-        <text class="category-badge">{{item.category}}</text>
-        <text
-          wx:if="{{item.latestChapter}}"
-          class="chapter-badge"
-        >最新章节</text>
-      </view>
-      <view class="card-body">
-        <text class="card-title">{{item.title}}</text>
-        <text class="card-author">{{item.author}}</text>
-        <text class="card-excerpt">{{item.excerpt}}</text>
-        <view class="card-tags">
+      <view
+        class="book-card"
+        data-id="{{item.id}}"
+        bindtap="onBookTap"
+      >
+        <view class="card-cover">
+          <image class="cover-img" src="{{item.cover}}" mode="aspectFill" lazy-load />
+          <text class="category-badge">{{item.category}}</text>
           <text
-            wx:for="{{item.tags}}"
-            wx:for-item="tag"
-            wx:key="name"
-            class="tag tag-{{tag.type}}"
-          >{{tag.name}}</text>
+            wx:if="{{item.latestChapter}}"
+            class="chapter-badge"
+          >最新章节</text>
         </view>
-        <text class="read-btn">查看详情</text>
+        <view class="card-body">
+          <text class="card-title">{{item.title}}</text>
+          <text class="card-author">{{item.author}}</text>
+          <text class="card-excerpt">{{item.excerpt}}</text>
+          <view class="card-tags">
+            <text
+              wx:for="{{item.tags}}"
+              wx:for-item="tag"
+              wx:key="name"
+              class="tag tag-{{tag.type}}"
+            >{{tag.name}}</text>
+          </view>
+          <text class="read-btn">查看详情</text>
+        </view>
       </view>
+
+      <!-- 第 4 本书之后插入原生模板广告（位于列表中部） -->
+      <view wx:if="{{index === 3}}" class="ad-slot">
+        <ad-custom
+          unit-id="adunit-c3cb35ea07fdb0be"
+          bindload="adLoad"
+          binderror="adError"
+          bindclose="adClose"
+        ></ad-custom>
+      </view>
+    </block>
+
+    <!-- 列表末尾同样插入原生模板广告 -->
+    <view class="ad-slot ad-slot-end">
+      <ad-custom
+        unit-id="adunit-df43d35ba4890867"
+        bindload="adLoad"
+        binderror="adError"
+        bindclose="adClose"
+      ></ad-custom>
     </view>
   </view>
 

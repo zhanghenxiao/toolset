@@ -171,17 +171,29 @@ function downloadByUrl(url) {
 }
 
 // 下载书籍数据：优先临时链接，失败再退回 wx.cloud.downloadFile（存储权限放开时可用）
+// 临时链接偶发 5xx，先延迟重试一次再走兜底
 function downloadBooksFile(result) {
   const viaCloud = () => wx.cloud.downloadFile({ fileID: result.fileID });
-  const attempt = result.url
-    ? downloadByUrl(result.url).catch((err) =>
-        // 两种方式都失败时，报更主要的那个（临时链接）错误
-        viaCloud().catch(() => {
-          throw err;
-        }),
-      )
-    : viaCloud();
-  return attempt.then((dl) => readTempFile(dl.tempFilePath));
+  const viaUrl = () =>
+    downloadByUrl(result.url).catch((err) =>
+      // 两种方式都失败时，报更主要的那个（临时链接）错误
+      viaCloud().catch(() => {
+        throw err;
+      }),
+    );
+
+  const first = result.url ? viaUrl() : viaCloud();
+  return first
+    .catch((err) =>
+      wait(800).then(() => (result.url ? viaUrl() : viaCloud())).catch(() => {
+        throw err;
+      }),
+    )
+    .then((dl) => readTempFile(dl.tempFilePath));
+}
+
+function wait(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 // 向云函数取 fileID 与数据版本，再直连云存储下载数据本体

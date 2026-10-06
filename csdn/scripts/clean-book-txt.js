@@ -239,18 +239,27 @@ function removeVerticalWatermarks(lines) {
   return cleaned;
 }
 
+function looksLikeChineseNovel(text) {
+  const sample = text.slice(0, 4000);
+  return /[\u4e00-\u9fff]{20,}/.test(sample)
+    && (/《[^》]+》/.test(sample) || /作者[：:]/.test(sample));
+}
+
 function readTextFile(filePath) {
   const buffer = fs.readFileSync(filePath);
   const utf8 = buffer.toString('utf8');
+  if (looksLikeChineseNovel(utf8)) return utf8;
   const sample = utf8.slice(0, 4000);
-  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者：/.test(sample)) {
+  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者[：:]/.test(sample)) {
     return utf8;
   }
   try {
-    return new TextDecoder('gb18030').decode(buffer);
+    const gb = new TextDecoder('gb18030').decode(buffer);
+    if (looksLikeChineseNovel(gb) || /《|作者[：:]/.test(gb.slice(0, 4000))) return gb;
   } catch {
-    return utf8;
+    // ignore
   }
+  return utf8;
 }
 
 function normalizeBracketSpam(text) {
