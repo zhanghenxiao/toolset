@@ -5,3 +5,10 @@ books/_work/libahao/cookie.txt
 
 # 构建时从 csdn/src/assets/images/books 同步，不重复入库
 book-covers/*.jpg
+
+# 生成的书籍分享海报与二维码缓存，不入库
+book-posters/
+csdn/scripts/.cache/
+
+# 本地运行日志，不入库
+.logs/

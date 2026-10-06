@@ -247,17 +247,17 @@ function looksLikeChineseNovel(text) {
 
 function readTextFile(filePath) {
   const buffer = fs.readFileSync(filePath);
-  const utf8 = buffer.toString('utf8');
-  if (looksLikeChineseNovel(utf8)) return utf8;
-  const sample = utf8.slice(0, 4000);
-  if (!utf8.includes('\uFFFD') && /《|第\d+章|作者[：:]/.test(sample)) {
-    return utf8;
+  // 严格 UTF-8 校验：合法 UTF-8 直接采用，避免把 UTF-8 文件误按 GB18030 解码成乱码
+  try {
+    return new TextDecoder('utf-8', { fatal: true }).decode(buffer);
+  } catch {
+    /* 非合法 UTF-8，继续尝试 GB18030 */
   }
   try {
     const gb = new TextDecoder('gb18030').decode(buffer);
     if (looksLikeChineseNovel(gb) || /《|作者[：:]/.test(gb.slice(0, 4000))) return gb;
   } catch {
-    // ignore
+    return buffer.toString('utf8');
   }
   return utf8;
 }
