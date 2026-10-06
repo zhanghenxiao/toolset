@@ -7,3 +7,4 @@
 /jx
 /x3
 /m  /原
+/download-00w-book.js 

@@ -166,6 +166,16 @@
   padding: 0 24rpx;
 }
 
+/* 广告插在两排书卡之间：占满整行，flex 布局自动换行 */
+.ad-slot {
+  width: 100%;
+  margin: 8rpx 0 20rpx;
+}
+
+.ad-slot-end {
+  margin-top: 4rpx;
+}
+
 .book-card {
   width: 49%;
   margin-bottom: 20rpx;

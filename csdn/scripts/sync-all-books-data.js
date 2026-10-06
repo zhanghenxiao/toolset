@@ -15,6 +15,7 @@ const {
   isMinyuanId,
   isLibahaoId,
   isCustomBookId,
+  is00wId,
   libahaoBookUrl,
   parseLibahaoLocalId,
 } = require('./book-paths');
@@ -202,7 +203,9 @@ function discoverDiskBooks() {
               ? libahaoSourceUrl(book.id)
               : isCustomBookId(book.id)
                 ? ''
-                : `https://www.deqixs.org/${book.id}/txt.html#dir`,
+                : is00wId(book.id)
+                  ? `https://www.00w.org/bxwx_${String(book.id).slice(2)}/`
+                  : `https://www.deqixs.org/${book.id}/txt.html#dir`,
       latestChapterFromFile: findLatestChapter(readBookText(book.filePath).slice(-50000)),
     });
   }
@@ -343,7 +346,7 @@ for (const disk of diskBooks) {
 if (process.argv.includes('--online')) {
   for (const item of merged) {
     const { id, entry } = item;
-    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id)) continue;
+    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id)) continue;
     if (entry.author && entry.author !== '未知' && entry.category && entry.latestChapter) continue;
     try {
       const meta = parseMetadata(curlText(`https://www.deqixs.org/${id}/txt.html`), id);

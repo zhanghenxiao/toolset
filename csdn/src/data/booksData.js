@@ -53457,6 +53457,7 @@ export const bookItems = [
     downloadUrl: "/books/s52266_我的师妹不可能是傻白甜1-462章.txt",
     sourceUrl: "https://www.jcxs.org/book/52266/",
   },
+
 {
     id: "u_042e8208",
     slug: "华娱：女顶流不让我摆烂",
@@ -53474,6 +53475,7 @@ export const bookItems = [
     downloadUrl: "/books/u_042e8208_华娱：女顶流不让我摆烂1-456章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_14d1db57",
     slug: "为盘我水库，全球大佬狂砸百亿",
@@ -53490,6 +53492,7 @@ export const bookItems = [
     downloadUrl: "/books/u_14d1db57_为盘我水库，全球大佬狂砸百亿1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_22885c3a",
     slug: "太尊!",
@@ -53506,6 +53509,7 @@ export const bookItems = [
     downloadUrl: "/books/u_22885c3a_太尊!1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_2ee59bf5",
     slug: "在线鉴宠，大哥这狗认为在训你啊",
@@ -53523,6 +53527,7 @@ export const bookItems = [
     downloadUrl: "/books/u_2ee59bf5_在线鉴宠，大哥这狗认为在训你啊1-1338章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_3d7ac1c5",
     slug: "华娱光影年华，从摄影系开始",
@@ -53540,6 +53545,7 @@ export const bookItems = [
     downloadUrl: "/books/u_3d7ac1c5_华娱光影年华，从摄影系开始1-703章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_491d6541",
     slug: "华娱：身怀系统，偏要当烂片之王",
@@ -53556,6 +53562,7 @@ export const bookItems = [
     downloadUrl: "/books/u_491d6541_华娱：身怀系统，偏要当烂片之王1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_4dd8e21b",
     slug: "刚穿越成超人，被养父母上交国家",
@@ -53573,6 +53580,7 @@ export const bookItems = [
     downloadUrl: "/books/u_4dd8e21b_刚穿越成超人，被养父母上交国家1-368章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_5662291a",
     slug: "好莱坞，我凭特效封神",
@@ -53590,6 +53598,7 @@ export const bookItems = [
     downloadUrl: "/books/u_5662291a_好莱坞，我凭特效封神1-376章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_57a4f703",
     slug: "半岛1984：我太忠诚了",
@@ -53607,6 +53616,7 @@ export const bookItems = [
     downloadUrl: "/books/u_57a4f703_半岛1984：我太忠诚了1-431章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_588da233",
     slug: "我有一双透视神瞳",
@@ -53624,6 +53634,7 @@ export const bookItems = [
     downloadUrl: "/books/u_588da233_我有一双透视神瞳1-751章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_6270010f",
     slug: "高塔之上!",
@@ -53641,6 +53652,7 @@ export const bookItems = [
     downloadUrl: "/books/u_6270010f_高塔之上!1-719章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_64b79c14",
     slug: "大明道德绑架,我崇祯没道德",
@@ -53658,6 +53670,7 @@ export const bookItems = [
     downloadUrl: "/books/u_64b79c14_大明道德绑架,我崇祯没道德1-464章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_7215ac77",
     slug: "四合院：解旷解忧",
@@ -53675,6 +53688,7 @@ export const bookItems = [
     downloadUrl: "/books/u_7215ac77_四合院：解旷解忧1-634章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_72d0d7da",
     slug: "华娱：明日爆红",
@@ -53692,6 +53706,7 @@ export const bookItems = [
     downloadUrl: "/books/u_72d0d7da_华娱：明日爆红1-876章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_7c72c70d",
     slug: "半岛：从破产公司到韩娱之王",
@@ -53709,6 +53724,7 @@ export const bookItems = [
     downloadUrl: "/books/u_7c72c70d_半岛：从破产公司到韩娱之王1-762章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_7d8e129a",
     slug: "美利坚大网红从无耻之徒开始",
@@ -53726,6 +53742,7 @@ export const bookItems = [
     downloadUrl: "/books/u_7d8e129a_美利坚大网红从无耻之徒开始1-541章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_84287519",
     slug: "华娱：一遇魔童误终身",
@@ -53742,6 +53759,7 @@ export const bookItems = [
     downloadUrl: "/books/u_84287519_华娱：一遇魔童误终身1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_862b180c",
     slug: "财富自由，从APP破解版开始",
@@ -53759,6 +53777,7 @@ export const bookItems = [
     downloadUrl: "/books/u_862b180c_财富自由，从APP破解版开始1-428章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_8bfdf12b",
     slug: "华娱从模拟恋爱开始",
@@ -53776,6 +53795,7 @@ export const bookItems = [
     downloadUrl: "/books/u_8bfdf12b_华娱从模拟恋爱开始1-558章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_8c550ab1",
     slug: "游戏制作：从重铸二次元游戏开始",
@@ -53793,6 +53813,7 @@ export const bookItems = [
     downloadUrl: "/books/u_8c550ab1_游戏制作：从重铸二次元游戏开始1-1525章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_8e479326",
     slug: "华娱：满级导演但歌手出道",
@@ -53810,6 +53831,7 @@ export const bookItems = [
     downloadUrl: "/books/u_8e479326_华娱：满级导演但歌手出道1-766章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_a40153e4",
     slug: "我的青梅合租女友",
@@ -53826,6 +53848,7 @@ export const bookItems = [
     downloadUrl: "/books/u_a40153e4_我的青梅合租女友1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_c2adc511",
     slug: "重生97：从北艺校花到百亿首富",
@@ -53843,6 +53866,7 @@ export const bookItems = [
     downloadUrl: "/books/u_c2adc511_重生97：从北艺校花到百亿首富1-895章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_d28b9e49",
     slug: "四合院：从交道口街道办开始！",
@@ -53860,6 +53884,7 @@ export const bookItems = [
     downloadUrl: "/books/u_d28b9e49_四合院：从交道口街道办开始！1-752章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_d4eec1d8",
     slug: "冒牌领主",
@@ -53877,6 +53902,7 @@ export const bookItems = [
     downloadUrl: "/books/u_d4eec1d8_冒牌领主1-314章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_de405c65",
     slug: "缔造美利坚：我竞选经理是罗斯福",
@@ -53894,6 +53920,7 @@ export const bookItems = [
     downloadUrl: "/books/u_de405c65_缔造美利坚：我竞选经理是罗斯福1-637章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_eba17131",
     slug: "四合院：开局水货工程师",
@@ -53911,6 +53938,7 @@ export const bookItems = [
     downloadUrl: "/books/u_eba17131_四合院：开局水货工程师1-554章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_ec43083a",
     slug: "重返80：从黄大仙开始致富",
@@ -53927,6 +53955,7 @@ export const bookItems = [
     downloadUrl: "/books/u_ec43083a_重返80：从黄大仙开始致富1-1章.txt",
     sourceUrl: "",
   },
+
 {
     id: "u_f7030dd5",
     slug: "财富自由从越南开始",
@@ -53943,6 +53972,22 @@ export const bookItems = [
     readUrl: "https://pan.baidu.com/s/1CQjidAy5oJh6XMtPMJDh3Q?pwd=gtiw",
     downloadUrl: "/books/u_f7030dd5_财富自由从越南开始1-524章.txt",
     sourceUrl: "",
+  },
+{
+    id: "w_139814",
+    slug: "潘多拉的复仇",
+    title: "潘多拉的复仇",
+    cover: nocoverCover,
+    author: "一颗仔姜",
+    date: "2024-06-22",
+    category: "言情",
+    status: "连载中",
+    chapters: "1-112章",
+    latestChapter: "下卷71情难自禁",
+    excerpt: "潘多拉的复仇是由作者：一颗仔姜所著，零零文学免费提供潘多拉的复仇全文在线阅读。 三秒记住本站：零零文学 网址：www.00w.org",
+    tags: [{ name: "言情", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/w_139814_潘多拉的复仇1-112章.txt",
+    sourceUrl: "https://www.00w.org/bxwx_139814/",
   },
 
 {

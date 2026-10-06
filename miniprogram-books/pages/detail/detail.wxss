@@ -180,3 +180,40 @@
   line-height: 1.7;
   border-top: 1rpx dashed #d8c6a4;
 }
+
+/* ---------- 页面状态视图（加载中/失败/不存在） ---------- */
+.state-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 160rpx 60rpx;
+}
+
+.state-icon {
+  font-size: 80rpx;
+  margin-bottom: 24rpx;
+}
+
+.state-text {
+  font-size: 30rpx;
+  color: #5c4c3a;
+  letter-spacing: 2rpx;
+}
+
+.state-tip {
+  margin-top: 16rpx;
+  font-size: 24rpx;
+  color: #a08a68;
+  text-align: center;
+  line-height: 1.7;
+}
+
+.retry-btn {
+  margin-top: 40rpx;
+  background: linear-gradient(135deg, #8c2f39, #6d2229) !important;
+  color: #f7eeda !important;
+  border-radius: 8rpx !important;
+  font-size: 28rpx !important;
+  letter-spacing: 3rpx;
+}

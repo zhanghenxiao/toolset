@@ -8,8 +8,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|u_[a-z0-9]+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
+const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|u_[a-z0-9]+|w_\d+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
 const CUSTOM_ID_RE = /^u_[a-z0-9]+$/i;
+const OOW_ID_RE = /^w_\d+$/i;
 const JCXS_ID_RE = /^s\d+$/;
 const X33XS_ID_RE = /^x\d+$/;
 const MINYUAN_ID_RE = /^m_[a-z0-9]+$/i;
@@ -35,8 +36,16 @@ function isCustomBookId(id) {
   return CUSTOM_ID_RE.test(String(id));
 }
 
+function is00wId(id) {
+  return OOW_ID_RE.test(String(id));
+}
+
+function oowLocalId(siteBookId) {
+  return `w_${String(siteBookId)}`;
+}
+
 function isPrefixedSiteBookId(id) {
-  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id);
+  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id);
 }
 
 function libahaoLocalId(siteBookId, imageId) {
@@ -308,6 +317,8 @@ module.exports = {
   isMinyuanId,
   isLibahaoId,
   isCustomBookId,
+  is00wId,
+  oowLocalId,
   isPrefixedSiteBookId,
   jcxsLocalId,
   x33xsLocalId,

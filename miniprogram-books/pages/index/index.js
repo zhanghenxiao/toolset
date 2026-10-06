@@ -140,17 +140,36 @@ Page({
       wx.showToast({ title: '暂无网盘分享链接', icon: 'none' });
       return;
     }
-    wx.showLoading({ title: '加载广告中...', mask: true });
-    showRewardedAd()
-      .then(() => copyQuarkReadUrl(book.readUrl))
-      .catch((err) => {
-        console.error('激励视频广告失败', err);
-        const msg = err && err.message === '观看未完成'
-          ? '需要看完广告才能获取链接'
-          : '广告暂不可用，请稍后再试';
-        wx.showToast({ title: msg, icon: 'none' });
-      })
-      .finally(() => wx.hideLoading());
+    const unlock = getApp().globalData.chapterUnlock;
+    const r = unlock.handle(book);
+    if (r.kind === 'needAd') {
+      wx.showLoading({ title: '加载广告中...', mask: true });
+      showRewardedAd()
+        .then(() => {
+          unlock.markAdWatched(book);
+          wx.showToast({
+            title: `已解锁，再点 ${unlock.required} 次获取资源链接`,
+            icon: 'none',
+            duration: 1500,
+          });
+        })
+        .catch((err) => {
+          console.error('激励视频广告失败', err);
+          const msg = err && err.message === '观看未完成'
+            ? '需要看完广告才能获取链接'
+            : '广告暂不可用，请稍后再试';
+          wx.showToast({ title: msg, icon: 'none' });
+        })
+        .finally(() => wx.hideLoading());
+    } else if (r.kind === 'copied') {
+      copyQuarkReadUrl(book.readUrl);
+    } else if (r.kind === 'progress') {
+      wx.showToast({
+        title: `再点 ${r.left} 次获取资源链接`,
+        icon: 'none',
+        duration: 1000,
+      });
+    }
   },
 
   onOpenSite() {
@@ -158,6 +177,17 @@ Page({
       data: this.data.site,
       success: () => wx.showToast({ title: '网址已复制', icon: 'success' }),
     });
+  },
+
+  /* ---------- 原生模板广告 ---------- */
+  adLoad() {
+    console.log('原生模板广告加载成功');
+  },
+  adError(err) {
+    console.error('原生模板广告加载失败', err);
+  },
+  adClose() {
+    console.log('原生模板广告关闭');
   },
 
   onShareAppMessage() {

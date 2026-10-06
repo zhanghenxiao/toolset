@@ -65527,6 +65527,29 @@ export default [
     "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
   },
   {
+    "id": "w_139814",
+    "title": "潘多拉的复仇",
+    "author": "一颗仔姜",
+    "category": "言情",
+    "status": "连载中",
+    "chapters": "1-112章",
+    "latestChapter": "下卷71情难自禁",
+    "excerpt": "潘多拉的复仇是由作者：一颗仔姜所著，零零文学免费提供潘多拉的复仇全文在线阅读。 三秒记住本站：零零文学 网址：www.00w.org",
+    "readUrl": "",
+    "downloadUrl": "/books/w_139814_潘多拉的复仇1-112章.txt",
+    "tags": [
+      {
+        "name": "言情",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
     "id": "s114759",
     "title": "掌中香（糙汉h）",
     "author": "穆如归穆旭成",

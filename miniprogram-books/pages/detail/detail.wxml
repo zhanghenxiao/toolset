@@ -1,4 +1,22 @@
-<view wx:if="{{book}}" class="detail-page">
+<view wx:if="{{status === 'loading'}}" class="state-view">
+  <text class="state-icon">📖</text>
+  <text class="state-text">书卷加载中…</text>
+</view>
+
+<view wx:elif="{{status === 'failed'}}" class="state-view">
+  <text class="state-icon">📡</text>
+  <text class="state-text">书卷加载失败</text>
+  <text class="state-tip">请检查网络后重试</text>
+  <button class="retry-btn" size="mini" bindtap="onRetry">重新加载</button>
+</view>
+
+<view wx:elif="{{status === 'missing'}}" class="state-view">
+  <text class="state-icon">📚</text>
+  <text class="state-text">书籍不存在</text>
+  <text class="state-tip">请关注微信公众号「数维探索」留言你想找的书籍</text>
+</view>
+
+<view wx:elif="{{book}}" class="detail-page">
   <view class="hero">
     <image class="hero-cover" src="{{book.cover}}" mode="aspectFill" />
     <view class="hero-info">
@@ -29,7 +47,7 @@
   >
     <text class="section-title">最新章节</text>
     <text class="section-content latest">{{book.latestChapter}}</text>
-    <!-- <text class="latest-hint">点击查看激励视频广告后获取网盘分享链接</text> -->
+    <!-- <text class="latest-hint">点击查看广告解锁，再连点 5 次获取网盘分享链接</text> -->
   </view>
 
   <!-- <view class="actions">
