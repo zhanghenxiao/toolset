@@ -8,6 +8,7 @@
     "deploy": "node scripts/build-and-push.js",
     "sync:miniprogram": "node scripts/sync-miniprogram-books-data.js",
     "sync:app-version": "node scripts/sync-app-version.js",
+    "posters": "node scripts/generate-book-posters.js",
     "upload:books": "node scripts/upload-miniprogram-books.js",
     "publish:books": "node scripts/sync-miniprogram-books-data.js && node scripts/upload-miniprogram-books.js",
     "preview": "vite preview"

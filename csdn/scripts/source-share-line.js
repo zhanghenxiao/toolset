@@ -1,5 +1,5 @@
 /** 书籍 TXT 头部/尾部与站点展示的统一书源分享文案 */
-const SOURCE_SHARE_LINE = '更多书源分享，小程序搜：数维探索。最新资源获取方式：加入官方反馈群1041698859。  或者访问官网：https://toolset.site';
+const SOURCE_SHARE_LINE = '更多书源分享，小程序搜：数维探索。最新资源获取方式：加入官方反馈群1041698859。或者下载数维探索APP,https://www.pgyer.com/c3d2574b8e82fd154be8e4a61b3c83d0  或者访问官网：https://toolset.site';
 
 const LEGACY_SOURCE_SHARE_LINES = [
   '更多书源分享，小程序搜：数维探索。或者访问官网：https://toolset.site',
