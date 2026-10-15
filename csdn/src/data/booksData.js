@@ -2497,6 +2497,7 @@ import bookCover2498 from '../assets/images/books/book-2498.jpg';
 import bookCover2499 from '../assets/images/books/book-2499.jpg';
 import bookCover2500 from '../assets/images/books/book-2500.jpg';
 import bookCover2525 from '../assets/images/books/book-2525.jpg';
+import bookCover12492825660539 from '../assets/images/books/book-l_12492825__660539.jpg';
 import bookCovermaa from '../assets/images/books/book-m_aa.jpg';
 import bookCovermab from '../assets/images/books/book-m_ab.jpg';
 import bookCovermac from '../assets/images/books/book-m_ac.jpg';
@@ -2589,6 +2590,7 @@ import bookCovermel from '../assets/images/books/book-m_el.jpg';
 import bookCovermem from '../assets/images/books/book-m_em.jpg';
 import bookCovermen from '../assets/images/books/book-m_en.jpg';
 import bookCovermeo from '../assets/images/books/book-m_eo.jpg';
+import bookCovermeocj from '../assets/images/books/book-m_eocj.jpg';
 import bookCovermep from '../assets/images/books/book-m_ep.jpg';
 import bookCovermeq from '../assets/images/books/book-m_eq.jpg';
 import bookCovermes from '../assets/images/books/book-m_es.jpg';
@@ -2672,6 +2674,7 @@ import bookCovermit from '../assets/images/books/book-m_it.jpg';
 import bookCovermiv from '../assets/images/books/book-m_iv.jpg';
 import bookCovermiy from '../assets/images/books/book-m_iy.jpg';
 import bookCovermj from '../assets/images/books/book-m_j.jpg';
+import bookCovermjakh from '../assets/images/books/book-m_jakh.jpg';
 import bookCovermjb from '../assets/images/books/book-m_jb.jpg';
 import bookCovermjc from '../assets/images/books/book-m_jc.jpg';
 import bookCovermjd from '../assets/images/books/book-m_jd.jpg';
@@ -2682,6 +2685,7 @@ import bookCovermjl from '../assets/images/books/book-m_jl.jpg';
 import bookCovermjn from '../assets/images/books/book-m_jn.jpg';
 import bookCovermjo from '../assets/images/books/book-m_jo.jpg';
 import bookCovermjq from '../assets/images/books/book-m_jq.jpg';
+import bookCovermjrhs from '../assets/images/books/book-m_jrhs.jpg';
 import bookCovermjs from '../assets/images/books/book-m_js.jpg';
 import bookCovermjtqp from '../assets/images/books/book-m_jtqp.jpg';
 import bookCovermjw from '../assets/images/books/book-m_jw.jpg';
@@ -49025,6 +49029,3152 @@ export const bookItems = [
     sourceUrl: "https://www.deqixs.org/2525/txt.html#dir",
   },
 {
+    id: "l_10068770__603016",
+    slug: "人在玄幻，能去低武世界",
+    title: "人在玄幻，能去低武世界",
+    cover: nocoverCover,
+    author: "跟风者1",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-483章",
+    latestChapter: "第483章 斗破世界›",
+    excerpt: "在遮天这种战斗起来动不动就磨灭大道的玄幻世界，给了我一个能够通往武侠世界的外挂？这是不是有哪里搞错了？不过很快，张恒就发现低武世界也不是没有优势，他随便一出手，便已经是世界的极限，每一次都能搅动风云，主宰世界的变化，获得最大程度的奖励。龙蛇",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10068770__603016_人在玄幻，能去低武世界1-483章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10068770_603016/",
+  },
+{
+    id: "l_10068920__602913",
+    slug: "亡灵天灾从坟场魔开始",
+    title: "亡灵天灾从坟场魔开始",
+    cover: nocoverCover,
+    author: "羽民",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-967章",
+    latestChapter: "第939章 想要飞行？简单（求订阅）›",
+    excerpt: "一切都从顾苏买到了一个拼夕夕猴版的坟场魔开始！如果不想死在游戏里，就要想办法拼命！拾荒、战斗、发展城市，最后一个亡灵天灾级别的存在，就出现在这个游戏与现实相融合的世界里！——————英雄无敌风，种田、建城、战斗、移动城市、无限流，作者在英雄",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10068920__602913_亡灵天灾从坟场魔开始1-967章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10068920_602913/",
+  },
+{
+    id: "l_10526736__658091",
+    slug: "从大清到民国的百年世家",
+    title: "从大清到民国的百年世家",
+    cover: nocoverCover,
+    author: "慕百峰",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-114章",
+    latestChapter: "第114章 多棱厅的退让›",
+    excerpt: "反清，咱就要有愚公移山的精神，一代人不行，那就两代人两代人不行，那就三代人三代人不行，那就四五六七八代人……子子孙孙，无穷尽也！毕竟没有千年的王朝，只有千年的世家！...本书又名：《八爷：怎么有人比我还“贤”》《如烟大帝咸丰：大不了封他个汉",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526736__658091_从大清到民国的百年世家1-114章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526736_658091/",
+  },
+{
+    id: "l_10526741__658171",
+    slug: "带着别墅，流放岭南",
+    title: "带着别墅，流放岭南",
+    cover: nocoverCover,
+    author: "火琉萤",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-174章",
+    excerpt: "李春晓一不小心穿越到了一个古代老太太的身上。好消息：这个老太太才35岁，和她一样大，身子骨比她还好。其次，老太太有一个儿子，甚至都有一个孙女了。更大的好消息，她公婆都过世了，甚至丈夫也早就死了。上无公婆，中间死了男人，下有儿有孙女。这意味着",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526741__658171_带着别墅，流放岭南1-174章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526741_658171/",
+  },
+{
+    id: "l_10526745__657979",
+    slug: "求生游戏：她千万年寿命开挂了吧",
+    title: "求生游戏：她千万年寿命开挂了吧",
+    cover: nocoverCover,
+    author: "茯苓不加辣",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-209章",
+    excerpt: "【规则求生，无cp、黑暗系、疯批女主、英式怪谈、微克苏鲁】冷凝被全世界抛弃，生命仅剩3小时。全球公告响起，全人类将被拉入“天堂乐园”，寿命即是金钱。濒死之际，触发天赋七宗罪之怠惰：当前寿命100年....她用一天的时间记住了六个人的脸。直到",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526745__657979_求生游戏：她千万年寿命开挂了吧1-209章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526745_657979/",
+  },
+{
+    id: "l_10526784__658094",
+    slug: "LOL：刚准备退役，系统来了",
+    title: "LOL：刚准备退役，系统来了",
+    cover: nocoverCover,
+    author: "你头发好像乱了",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-124章",
+    excerpt: "2019年，八月二十八日。做好输掉这场决赛就退役享受生活的李正义，面前却突然浮现出了一行小字。【现在是2012年，联盟赛事刚刚起步，一切都还没有走向正规化！】【电子竞技的莽荒时代，艰苦的环境让这个时候的职业选手，很容易误入歧途，又或者坚持不",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526784__658094_LOL：刚准备退役，系统来了1-124章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526784_658094/",
+  },
+{
+    id: "l_10526789__658174",
+    slug: "被逼退婚？我靠读心术手撕白莲花",
+    title: "被逼退婚？我靠读心术手撕白莲花",
+    cover: nocoverCover,
+    author: "轩梧菲",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-152章",
+    latestChapter: "第152章 地窖赏血，殿下当真好兴致？›",
+    excerpt: "【古言重生+读心术+宅斗权谋+吐血反杀+外柔内疯+1v1】我叫沈听澜，定远侯府病弱嫡女。重生回到十八岁，继母正端着毒药逼我喝下，渣男表哥和白莲花庶妹在一旁逼我退婚让嫁妆。可他们不知道，我觉醒了闻毒与读心的天赋。只要碰到他们的脉门，那些恶毒的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526789__658174_被逼退婚？我靠读心术手撕白莲花1-152章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526789_658174/",
+  },
+{
+    id: "l_10526792__657966",
+    slug: "她非死不可吗",
+    title: "她非死不可吗",
+    cover: nocoverCover,
+    author: "求墨",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-286章",
+    latestChapter: "第286章 看笑话›",
+    excerpt: "一条诡异的隧道，一张来历不明的CD，让周铭见到了十八岁的自己。18岁周铭：给我明天的彩票号码！周铭：我身价十几亿，买彩票？18岁周铭：把周杰伦明年的专辑给我，我要做音乐上的皇帝！周铭：我身价十几亿，去做艺人？18岁周铭：你什么都不缺，还穿什",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526792__657966_她非死不可吗1-286章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526792_657966/",
+  },
+{
+    id: "l_10526860__658018",
+    slug: "美漫世界当大亨",
+    title: "美漫世界当大亨",
+    cover: nocoverCover,
+    author: "追梦的猪八戒",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-60章",
+    excerpt: "黎平穿越错综复杂的美漫世界，唯一的依靠是一间能沟通诸天世界的八方解忧铺。金钱，名利，世间凡心有执念者皆可来此。黎平为他人解忧，也靠着这间铺子在美漫世界站稳脚跟。不是，也没人告诉他，路是双向的，帝皇请我过去是几个意思。谢谢帝皇好意，我就不过去",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526860__658018_美漫世界当大亨1-60章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526860_658018/",
+  },
+{
+    id: "l_10526864__658083",
+    slug: "随貌美爹倒插门，我成继母家团宠",
+    title: "随貌美爹倒插门，我成继母家团宠",
+    cover: nocoverCover,
+    author: "紫雪凝烟",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-88章",
+    latestChapter: "第88章 ：买四合院›",
+    excerpt: "医学圣手陆锦绣穿书成了九十年代同名同姓的炮灰女配，为了不重蹈覆撤，她拒绝了跟离婚母亲去城里享福，反而凭借老爸的美貌，迅速给自己找一个能干的后妈。入赘的日子原本以为会谨小慎微，没想到却被后妈一家宠上了天。一开始：继兄继弟们：又来俩拖油瓶，这是",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526864__658083_随貌美爹倒插门，我成继母家团宠1-88章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526864_658083/",
+  },
+{
+    id: "l_10526924__658022",
+    slug: "从凡人歌开始的诸天影视之旅",
+    title: "从凡人歌开始的诸天影视之旅",
+    cover: nocoverCover,
+    author: "极致风华",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-94章",
+    excerpt: "穿越诸天影视世界，体味百态人生。从《凡人歌》开始……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10526924__658022_从凡人歌开始的诸天影视之旅1-94章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10526924_658022/",
+  },
+{
+    id: "l_10592313__658233",
+    slug: "修仙：从两界穿梭开始",
+    title: "修仙：从两界穿梭开始",
+    cover: nocoverCover,
+    author: "浅浅鱼同",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-183章",
+    excerpt: "张牧苦修十年，依旧是个底层外门弟子。幸好【界珠】觉醒，让他勾连了另一个世界。拒绝修仙内卷，从跨界倒爷做起。从此，修仙界最恐怖的资源巨鳄诞生了。从外门弟子开始，靠着两界资源，张牧要用灵石硬生生砸出一条长生大道！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10592313__658233_修仙：从两界穿梭开始1-183章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10592313_658233/",
+  },
+{
+    id: "l_10592325__658430",
+    slug: "从乔丹退役赛季开始争冠",
+    title: "从乔丹退役赛季开始争冠",
+    cover: nocoverCover,
+    author: "黄昏的约定",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-312章",
+    excerpt: "乔丹：“事实证明，我离开皮蓬一样可拿到总冠军。记者：“但是有江晨啊。”乔丹：“但是我是总决赛fmvp。”记者：“难道不是靠情怀拿的吗？”乔丹：“……”。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10592325__658430_从乔丹退役赛季开始争冠1-312章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10592325_658430/",
+  },
+{
+    id: "l_10592431__658256",
+    slug: "艾泽拉斯：抓个德鲁伊当宝宝",
+    title: "艾泽拉斯：抓个德鲁伊当宝宝",
+    cover: nocoverCover,
+    author: "阿聪的奇妙冒险",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-188章",
+    latestChapter: "第189章 洛瑟玛的妥协›",
+    excerpt: "“索恩先生，作为传说猎人，您的夜刃豹为什么耳朵尖尖的？”索恩抱着怀里那只紫罗兰色的黏人猫猫，漫不经心地撸了一把：“这是荒野的赐福。”“那您身后的鹰身人、树妖和巨龙也是宠物？”“当然，”索恩露出慈爱的微笑，“他们都是艾泽拉斯荒野的生灵。”“…",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10592431__658256_艾泽拉斯：抓个德鲁伊当宝宝1-188章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10592431_658256/",
+  },
+{
+    id: "l_10592459__658198",
+    slug: "吕布歪传：汉末乱语录",
+    title: "吕布歪传：汉末乱语录",
+    cover: nocoverCover,
+    author: "游鼠",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-100章",
+    latestChapter: "第99章 韩当斩将、形势›",
+    excerpt: "人中吕布，马中赤兔。当吕布在雷雪天杀了一个穿越者后，他发现自己越来越控制不住自己那张嘴了。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10592459__658198_吕布歪传：汉末乱语录1-100章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10592459_658198/",
+  },
+{
+    id: "l_10592467__658327",
+    slug: "无畏契约：这个世一狙太豪了",
+    title: "无畏契约：这个世一狙太豪了",
+    cover: nocoverCover,
+    author: "我走路能带风",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-107章",
+    latestChapter: "第107章 对阵BLG，EDG的双一突›",
+    excerpt: "被霓头车大运创死的江辞得到了重来一次的机会。重回十六岁，并随身携带了“豪气冲天”系统，只要完成系统颁布的嘉豪任务，他就能获得职业选手的词条和熟练度奖励，还能根据任务完成程度获取豪意值进行抽奖。越豪越强，越强越豪。于是……“都是同龄人我原本没",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10592467__658327_无畏契约：这个世一狙太豪了1-107章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10592467_658327/",
+  },
+{
+    id: "l_10594881__3006",
+    slug: "一秒一个技能点，我把火球变禁咒",
+    title: "一秒一个技能点，我把火球变禁咒",
+    cover: nocoverCover,
+    author: "孤云伴夜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1564章",
+    latestChapter: "第1564章 只有我能带你们出去›",
+    excerpt: "深渊降临，蓝星异变！这是一个职业者的时代，所有人在成年那一天，都能够得到人生中的第一个技能，成为职业者！林逸得到火球术，成为普普通通的一名法爷。与此同时，还觉醒一个SSS级天赋：诸神之赐！效果：你每秒都能够获得1个技能点！别人一趟副本只能得",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10594881__3006_一秒一个技能点，我把火球变禁咒1-1564章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10594881_3006/",
+  },
+{
+    id: "l_10657848__657449",
+    slug: "家族百年：从民国开始崛起",
+    title: "家族百年：从民国开始崛起",
+    cover: nocoverCover,
+    author: "作家jOt1Fe",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-66章",
+    excerpt: "十三太保，一夫当道。浪子富翁、教头快刀、学生少爷、熊虎鹰豹、眼镜烟嘴、长枪难逃。天下人都以为少爷是一个人。实际上。少爷有两人，小少爷梁羽，大少爷梁少雄。而为了削弱沈刚夫的实力，张万霖编出了另外一个版本。南小杜北老九、乞丐、教头、纳三少、车夫",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657848__657449_家族百年：从民国开始崛起1-66章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657848_657449/",
+  },
+{
+    id: "l_10657915__657437",
+    slug: "LOL：开局重生LPL末法时代",
+    title: "LOL：开局重生LPL末法时代",
+    cover: nocoverCover,
+    author: "爱喝海鲜粥",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-225章",
+    excerpt: "黄晓穿越到平行时空的蓝星，还觉醒了系统。【宿主每成功击败当打选手、获得有名教练赏识、吊打大热主播，就能获得相应奖励】“穿越了是很好，可是现在是2026年啊……”2026年，英雄联盟进入S16版本，LPL已经连续四年没能夺得S赛的冠军，就连其",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657915__657437_LOL：开局重生LPL末法时代1-225章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657915_657437/",
+  },
+{
+    id: "l_10657961__657456",
+    slug: "从大唐开始科学修仙",
+    title: "从大唐开始科学修仙",
+    cover: nocoverCover,
+    author: "未莫闻",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-132章",
+    excerpt: "周溯穿越了。穿越到了隋朝末年，天下大乱，民不聊生，普通人生存概率极低。“问题不大。”周溯看着手中的《长生诀》。“超频模式！让我看看你的极限！”······从《长生诀》开始，周溯走上了一条非传统科学修仙之路。PS：无系统，纯人工手搓！PPS：",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657961__657456_从大唐开始科学修仙1-132章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657961_657456/",
+  },
+{
+    id: "l_10657972__657633",
+    slug: "三国：我的一百零七将兄弟",
+    title: "三国：我的一百零七将兄弟",
+    cover: nocoverCover,
+    author: "我是一只猫叔",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第122章 荀彧之死›",
+    excerpt: "穿越汉末会稽郡，开局觉醒“结拜就变强系统”，还能够看到人的五维数据！见到够义气的壮汉，来来来，喝杯酒，从此是兄弟。见到少年贺齐，来来来，喝杯酒，从此是兄弟。见到被赶出长安的吕布，来来来，喝杯酒，从此是兄弟。见到狼狈不知去处的刘关张，来来来，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657972__657633_三国：我的一百零七将兄弟1-122章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657972_657633/",
+  },
+{
+    id: "l_10657988__657638",
+    slug: "尸解仙上仙",
+    title: "尸解仙上仙",
+    cover: nocoverCover,
+    author: "杯中奶",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-132章",
+    excerpt: "仙人以众生为基粮，圈养众生获取法力。仙上仙以仙人为基粮，圈养仙人获取法力。下士先死后蜕，谓之尸解仙。人有人上人，仙也有仙上仙，仙道之中，以尸解为下品，为其它上仙所鄙夷，不被承认为仙人。王衡穿越而来，修行父母留下的［七解上仙法］，历经水解、火",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657988__657638_尸解仙上仙1-132章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657988_657638/",
+  },
+{
+    id: "l_10657990__657606",
+    slug: "迷雾求生：我能看到游戏公告",
+    title: "迷雾求生：我能看到游戏公告",
+    cover: nocoverCover,
+    author: "蔬菜本菜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-195章",
+    excerpt: "【迷雾求生，种田发育，领主召唤，信息流】全球迷雾化，每个人绑定领地核心，在迷雾中挣扎求生。穿越过来的陈宇一头雾水，却震惊地发现自己能看到迷雾世界的更新公告！【制作组通讯：下周开放秘境，内有稀有兵种核心，坐标已标注，领主们快去争抢吧】【已知问",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10657990__657606_迷雾求生：我能看到游戏公告1-195章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10657990_657606/",
+  },
+{
+    id: "l_10658041__657461",
+    slug: "他嘉豪啊，咋成了恐游团宠？",
+    title: "他嘉豪啊，咋成了恐游团宠？",
+    cover: nocoverCover,
+    author: "键盘咋坏了",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-134章",
+    latestChapter: "第132章 C级玩家的星级区分›",
+    excerpt: "“你是说这游戏的规则，玩家越自信，就会越幸运？”“这tm是恐怖游戏！不仅真实死亡，更离谱的是游戏无法退出，你自信个试试？主播都能被吓哭！”在这游戏里，玩家从一开始的兴奋，到恐慌，到绝望，他们被死亡笼罩！苏昊从小就相信，自己是修仙的料，但身边",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10658041__657461_他嘉豪啊，咋成了恐游团宠？1-134章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10658041_657461/",
+  },
+{
+    id: "l_10723464__657698",
+    slug: "驯弛",
+    title: "驯弛",
+    cover: nocoverCover,
+    author: "圆归",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-89章",
+    excerpt: "淡女x明骚男/微强制/火葬场/驯化母亲那场看似偶然的二婚，是程真一手促成的。段家有钱有权，是她为自己挑中的最优跳板。-段弛刚回国接手公司，老爷子就把程真塞到他身边当特助。所有人都等着她被段弛折磨，段弛也确实没给她好脸色。他鸡蛋里挑骨头，亲手",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10723464__657698_驯弛1-89章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10723464_657698/",
+  },
+{
+    id: "l_10723575__657877",
+    slug: "领主大人，奇观误国呀！",
+    title: "领主大人，奇观误国呀！",
+    cover: nocoverCover,
+    author: "橙鸽不咕",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-155章",
+    latestChapter: "第155章 领主宫殿升级！›",
+    excerpt: "穿越到异世界，康纳成为了被发配到边境要塞的落魄领主。而他在抵达领地的同时，解锁了棱彩级领主天赋“奇观赐福”。【奇观赐福：建造或发现奇观时将获得额外奖励与加成，领地内奇观越多，效果越强！】“凛冬圣坛能带来400%的生产值加成？给我修！”“英雄",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10723575__657877_领主大人，奇观误国呀！1-155章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10723575_657877/",
+  },
+{
+    id: "l_10788898__659080",
+    slug: "请叫我殖民者的慈父",
+    title: "请叫我殖民者的慈父",
+    cover: nocoverCover,
+    author: "蓝绿之间",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-156章",
+    excerpt: "蒸汽殖民时代➕殖民者严父➕摘棉花机器创始人➕每【日】签到系统主角林燃意外穿越蒸汽殖民时代，大周帝国正带领炎黄子孙与白人争夺殖民地，主角每日签到系统失效，下海之后意外发现是这样的……每日签到。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10788898__659080_请叫我殖民者的慈父1-156章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10788898_659080/",
+  },
+{
+    id: "l_10788918__659145",
+    slug: "华娱：意外的来客",
+    title: "华娱：意外的来客",
+    cover: nocoverCover,
+    author: "斯威尔达",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-271章",
+    excerpt: "李之白遇到一个女孩，看着像刘艺菲。三年以上，十年以下的念头在他脑海浮现。好吧，李之白的青春回来了。两人改写梦想的轨迹。也是双向的奔赴。（节奏偏慢，逐渐加快，绝对的单女主）",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10788918__659145_华娱：意外的来客1-271章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10788918_659145/",
+  },
+{
+    id: "l_10789040__659105",
+    slug: "谁说我是阴间御兽师？",
+    title: "谁说我是阴间御兽师？",
+    cover: nocoverCover,
+    author: "紫学家",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-88章",
+    latestChapter: "第88章 叶魔女，离谱的特性›",
+    excerpt: "“你这都什么阴间精灵啊，以后真没人愿意跟你对战了！”“好处说完了，坏处呢？”“？？？”",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10789040__659105_谁说我是阴间御兽师？1-88章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10789040_659105/",
+  },
+{
+    id: "l_10789072__659111",
+    slug: "大明：我和公主互换了",
+    title: "大明：我和公主互换了",
+    cover: nocoverCover,
+    author: "知安鱼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-254章",
+    excerpt: "【大明穿越+双主角+宫廷逆袭】历史系研究生李烁穿到了万历九年。他先是成了张居正的儿子张允修，后来又和永宁公主朱尧媖互穿。一半时间，他是宫墙内洞察朝局的病弱公主。一半时间，他是宫墙外搅动风云的首辅之子。正当他利用双重身份，准备给即将倒台的张家",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10789072__659111_大明：我和公主互换了1-254章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10789072_659111/",
+  },
+{
+    id: "l_10789092__659172",
+    slug: "花果山的边角料？龙族的小骄傲",
+    title: "花果山的边角料？龙族的小骄傲",
+    cover: nocoverCover,
+    author: "红尘历",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-70章",
+    excerpt: "重生西游，觉醒因果加点面板。只要插手别人因果，就可以获得因果点进行加点功法神通甚至修为。【待在花果山奇石旁修炼百年，因果点+100】【被金头揭谛索要人事，因果点+1】【路遇干旱，私自降雨，因果点+4】【冒充方寸山弟子，因果点+100】以为这",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10789092__659172_花果山的边角料？龙族的小骄傲1-70章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10789092_659172/",
+  },
+{
+    id: "l_10854460__659305",
+    slug: "北望崖山",
+    title: "北望崖山",
+    cover: nocoverCover,
+    author: "四十行梦",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-87章",
+    latestChapter: "第87章 草原›",
+    excerpt: "蒙古帝国第二次西征时期，穿越到西征大军中。面对前工业时代最成功的征服机器，李唐没有摆烂。正面打不过，我可以捡漏。异域崛起，在亚欧大陆交汇处刻下独属于汉人的荣光。几十年后的崖山，君临。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854460__659305_北望崖山1-87章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854460_659305/",
+  },
+{
+    id: "l_10854478__659278",
+    slug: "越败家越富？拜金罪雌竟是万人迷",
+    title: "越败家越富？拜金罪雌竟是万人迷",
+    cover: nocoverCover,
+    author: "鹿衔青",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-64章",
+    latestChapter: "第64章 没办法，他给的实在是太多了›",
+    excerpt: "【女扮男装+消费系统+星际兽世学校1v6雄竞修罗场+前全家火葬场】姜漾穿成流放到贫困星球的假千金，被真千金设局住进男生宿舍，开局面对4大校霸，生命沙漏还倒计时。消费系统：“想要活下去吗？100金币1分钟，亲亲想买多长时间的活人体验卡呀？”为",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854478__659278_越败家越富？拜金罪雌竟是万人迷1-64章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854478_659278/",
+  },
+{
+    id: "l_10854492__659311",
+    slug: "赤府巫尊：反内卷成王之路",
+    title: "赤府巫尊：反内卷成王之路",
+    cover: nocoverCover,
+    author: "不减狂骄不笑",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-85章",
+    latestChapter: "第85章 跟我比资源？›",
+    excerpt: "兵圣大陆，万军为法。酆都掌幽冥，镇衍布大阵;凌霄为仙朝，万塔承巫祖。圣言曰:十王毕，四海一;泰岳兀，帝尊出。少年继承巫法，踏上寻巫之旅。天下英雄如过江之鲫，谁能笑傲群雄？(英雄无敌类型新书)",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854492__659311_赤府巫尊：反内卷成王之路1-85章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854492_659311/",
+  },
+{
+    id: "l_10854507__659228",
+    slug: "1983：从红楼剧组开始",
+    title: "1983：从红楼剧组开始",
+    cover: nocoverCover,
+    author: "寂寞也算大师",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-118章",
+    latestChapter: "第118章 两居室›",
+    excerpt: "美妆博主兼特效化妆师林阳，意外穿到了1983年的四九城里，成了人人讨厌的“待业青年”。没钱也没工作，亲妈每天都逼着他去肉联厂切猪肉。正当他为怎么解决目前困境发愁的时候，亲妹妹顶着两坨“猴屁股”腮红，还有毛毛虫粗眉，就去参加央视【红楼梦】的海",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854507__659228_1983：从红楼剧组开始1-118章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854507_659228/",
+  },
+{
+    id: "l_10854516__659437",
+    slug: "我在乱世百炼成钢",
+    title: "我在乱世百炼成钢",
+    cover: nocoverCover,
+    author: "师尊胡杨",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-74章",
+    latestChapter: "第74章 引蛇›",
+    excerpt: "乱世之中，人命如草芥！陆承穿越武道乱世，成为一名樵夫，却不想山贼肆虐，他连樵夫也做不成，几乎走投无路。好在他拥有一个百炼成钢面板，只要修炼，必有所成！而且武学突破之后，还能用矿物强化武学，“钢”一下，威力暴涨！有了这个底气，他选择假造武馆学",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854516__659437_我在乱世百炼成钢1-74章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854516_659437/",
+  },
+{
+    id: "l_10854524__659309",
+    slug: "大明：我怎么成了闯王啊！",
+    title: "大明：我怎么成了闯王啊！",
+    cover: nocoverCover,
+    author: "丰机大副",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-74章",
+    latestChapter: "第74章 始于通州卫›",
+    excerpt: "李伟一睁开眼，看到了一棵歪脖子树。树上还挂着一个穿着龙袍的人。那是崇祯皇帝。而他李伟，居然成了闯王李自成！看着随风飘荡的崇祯，他心中想的却是一片石大败和死得莫名其妙的李自成。还有满清入关，山河破碎，神州陆沉。明明这片土地已经遭受了那么多的苦",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854524__659309_大明：我怎么成了闯王啊！1-74章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854524_659309/",
+  },
+{
+    id: "l_10854637__659316",
+    slug: "篮坛GOAT算什么，我体坛之王",
+    title: "篮坛GOAT算什么，我体坛之王",
+    cover: nocoverCover,
+    author: "四仰化三铁",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-103章",
+    latestChapter: "第103章 最佳（求月票）›",
+    excerpt: "穿回20年前的陆远得到一个系统，说是篮球版，抽取运动员模板自行开发即可变强，结果第一个抽出来的模板，居然是博尔特？！系统还不让转战短跑，没办法，陆远只能利用这个抽象的系统，先打篮球，中间打打自由搏击和拳击，跑两段短跑，中途退役踢两年足球，最",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10854637__659316_篮坛GOAT算什么，我体坛之王1-103章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10854637_659316/",
+  },
+{
+    id: "l_10919981__658552",
+    slug: "香江影帝，从片场升级装备开始！",
+    title: "香江影帝，从片场升级装备开始！",
+    cover: nocoverCover,
+    author: "蜂蜜瓜子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-125章",
+    latestChapter: "第125章 阿祖，投降吧！（警察故事拍摄结束）›",
+    excerpt: "七十年代，香江电影黄金时代刚刚拉开序幕。陈寻片场穿越，觉醒影帝装备面板。【检测到道具：竹竿】【等级：白色（0/100）】【效果：你对于棍状或长条状的物品掌控感+50%】陈寻：？？？这玩意儿还能升级？从此他开始游走各个片场：群演、武行、特邀、",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10919981__658552_香江影帝，从片场升级装备开始！1-125章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10919981_658552/",
+  },
+{
+    id: "l_10920030__658511",
+    slug: "华娱：我国家队，你让我辞职",
+    title: "华娱：我国家队，你让我辞职",
+    cover: nocoverCover,
+    author: "孺瑶子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-181章",
+    excerpt: "穿越平行世界，顾砚洲成为羊视节目《开讲啦》的键盘手，负责调动现场氛围。两世灵魂融合，御用伴奏师实力上线。周董惊为天人，打断节目录制，邀请顾砚洲参加个人演唱会担任嘉宾。周董经纪人更是发来邀约，描绘成为顶流明星的愿景。顾砚洲：？？？我十几年寒窗",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10920030__658511_华娱：我国家队，你让我辞职1-181章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10920030_658511/",
+  },
+{
+    id: "l_10920160__658596",
+    slug: "四合院：嫁人？不，我选铁饭碗",
+    title: "四合院：嫁人？不，我选铁饭碗",
+    cover: nocoverCover,
+    author: "成兰子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-93章",
+    latestChapter: "第93章 你别怂恿她！（求月票，求书架）›",
+    excerpt: "（多人穿越+微群像+家长里短+温馨日常+女主无金手指）秦熙胎穿十五年后因为一场惊吓觉醒了上一世的记忆。十五岁就说亲？不，她选择进城找工作去。堂姐秦淮茹嫁到城里的高门大户？不，她自己就是高门。……张川发现自己穿越到情满四合院被魔改的同人文里，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10920160__658596_四合院：嫁人？不，我选铁饭碗1-93章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10920160_658596/",
+  },
+{
+    id: "l_10985480__658730",
+    slug: "妄揽京色",
+    title: "妄揽京色",
+    cover: nocoverCover,
+    author: "九页诗",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-123章",
+    latestChapter: "第123章 ：山雨欲来›",
+    excerpt: "季诗情对周宥资见色起意了。他手戴菩提，身披檀香，眉眼疏离如隔云端。是权贵堆里最不按常理出牌的那位。季诗情一追就是三年，满身酒气追到满袖清寂。没撩动这位冷心冷清的太子爷，却感动了周家长辈。订婚消息砸下来时，轰动了整个京圈。*偏偏这时，昔日死对",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985480__658730_妄揽京色1-123章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985480_658730/",
+  },
+{
+    id: "l_10985547__658718",
+    slug: "LOL：救火DWG开始的世一上",
+    title: "LOL：救火DWG开始的世一上",
+    cover: nocoverCover,
+    author: "上帝vs嗜血",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-70章",
+    excerpt: "2020年，经历了IG，FPX两年双冠之后，LPL走到了自己的鼎盛时期。在各种机缘巧合之下，一个首尔大学的中国留学生李暄临危受命，成为了一名LCK赛区的中援，在春季赛第二轮面对T1的比赛中，作为救火队员顶替Nuguri上场。功能性蓝领？进攻",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985547__658718_LOL：救火DWG开始的世一上1-70章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985547_658718/",
+  },
+{
+    id: "l_10985565__658815",
+    slug: "一只鹤的修真门派掌门路",
+    title: "一只鹤的修真门派掌门路",
+    cover: nocoverCover,
+    author: "胖若两月",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-238章",
+    latestChapter: "第238章 小赚一笔›",
+    excerpt: "唐玉青穿入《修真门派掌门路》，化作一只青羽灵鹤。成为新晋二代掌门专属伴兽，享宗门供养。本以为能安稳修行，悠闲悟道。谁知天有不测风云，掌门一脉倚靠的靠山骤然崩塌，无后台庇护的小门瞬间沦为白山众宗门算计蚕食的肥肉。眼看门派要被瓜分，自己也受人觊",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985565__658815_一只鹤的修真门派掌门路1-238章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985565_658815/",
+  },
+{
+    id: "l_10985625__658739",
+    slug: "降维打击，交友商怎么玩手机",
+    title: "降维打击，交友商怎么玩手机",
+    cover: nocoverCover,
+    author: "无用的良品",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-120章",
+    latestChapter: "第120章 国民女神牵手科技新贵，现实里的顾漫小说男女主›",
+    excerpt: "下面有请，华夏手机的领航者，全球最大的手机厂商星耀集团的掌门人——梁锋！他是全屏手机的开拓者，是国产芯片的领航员，是所有友商的梦中情人（恨不得打死的那种），是全国单身女生的国民老公……梁锋一个网文作者重生到2010年，从接手一家战略失败的山",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985625__658739_降维打击，交友商怎么玩手机1-120章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985625_658739/",
+  },
+{
+    id: "l_10985634__658816",
+    slug: "西游：这个圣僧有点赖！",
+    title: "西游：这个圣僧有点赖！",
+    cover: nocoverCover,
+    author: "料姜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-234章",
+    latestChapter: "第234章 没人比你更蠢›",
+    excerpt: "武松于六和寺八十岁善终，魂穿西游世界，成为唐三藏。此时，他已经拜别了大唐皇帝，离开了长安，踏上了西行之路，退无可退！他虽然满身武艺，但终究是个凡人，西游路上的任何一个小妖，都能要了他的命。正在武松头疼的时候，他意外地发现他魂穿的这幅躯体中，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985634__658816_西游：这个圣僧有点赖！1-234章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985634_658816/",
+  },
+{
+    id: "l_10985668__658918",
+    slug: "苟道成圣：开局获取金色词条",
+    title: "苟道成圣：开局获取金色词条",
+    cover: nocoverCover,
+    author: "雨中的祂",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-106章",
+    latestChapter: "第106章 血色眼中只有你›",
+    excerpt: "【穿越】【词条系统】【苟道流】【凡人修仙】【慢发育】】【扮猪吃虎】【单女主】别人穿越修仙，觉醒绝世灵根，争秘境，夺机缘，与天骄争锋，步步厮杀攀向顶峰。主角穿越过来，有灵根无天赋，考核之际觉醒金色词条。他靠着词条在百宝峰开始修行。平时低调修炼",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985668__658918_苟道成圣：开局获取金色词条1-106章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985668_658918/",
+  },
+{
+    id: "l_10985681__658871",
+    slug: "离婚后，我得到了地球！",
+    title: "离婚后，我得到了地球！",
+    cover: nocoverCover,
+    author: "晨冻",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-112章",
+    latestChapter: "第112章 白骨爪›",
+    excerpt: "韩硕四十六岁生日这天，被妻子赵静柔在景云天大酒店包厢里当面摊牌。二十年婚姻是假的，一双儿女是她和初恋傅修远的种。百亿集团掌门人归来，韩硕忍痛签下离婚协议，却被保镖一耳光扇飞两颗牙。养了二十年的儿女毫不犹豫认贼作父，连一声&quot;爸&quot;都吝啬。心灰意",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985681__658871_离婚后，我得到了地球！1-112章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985681_658871/",
+  },
+{
+    id: "l_10985714__658821",
+    slug: "凡人：我刷成就得奖励成仙",
+    title: "凡人：我刷成就得奖励成仙",
+    cover: nocoverCover,
+    author: "风雨掀涛",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-317章",
+    latestChapter: "第317章 修仙界的傻丫头›",
+    excerpt: "姜沐阳在《凡人修仙传》的世界重生，绑定了一个成就奖励系统！“恭喜你，达成穿越修仙界的成就（红色）！”“奖励三属性融合灵根（土生金、金生水）！”“恭喜你，达成‘遇见金丹仙子’的成就（红色）！”“奖励水属性顶级功法《沧浪御水功》！”“恭喜你，达",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_10985714__658821_凡人：我刷成就得奖励成仙1-317章.txt",
+    sourceUrl: "https://m.libahao2.com/book/10985714_658821/",
+  },
+{
+    id: "l_11051054__655944",
+    slug: "绣春刀开始的登顶路",
+    title: "绣春刀开始的登顶路",
+    cover: nocoverCover,
+    author: "木耳白菜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-182章",
+    latestChapter: "第106章 绣春刀完",
+    excerpt: "秦鹤手握残破逆天珠，以逆乱诸天人物命运为养料，在逆天珠完善的同时，秦鹤也不知不觉傲立诸天之巅。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11051054__655944_绣春刀开始的登顶路1-182章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11051054_655944/",
+  },
+{
+    id: "l_11051098__655887",
+    slug: "斗罗：毁灭重生，追着喂我成神王",
+    title: "斗罗：毁灭重生，追着喂我成神王",
+    cover: nocoverCover,
+    author: "虾仁不瞎",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-122章",
+    latestChapter: "第122章 认亲叶骨衣›",
+    excerpt: "【绝世唐门】【日月线】穿越斗罗大陆，叶凡于时空乱流中意外撞到神界破碎后众叛亲离的毁灭神王，两人纷纷穿越绝世唐门时期。坏消息是，叶凡穿越成为斗罗大陆人人喊打的天使传人叶骨衣的亲弟弟，开局觉醒双生武魂，死亡天使和生命天使。好消息是，毁灭神王重生",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11051098__655887_斗罗：毁灭重生，追着喂我成神王1-122章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11051098_655887/",
+  },
+{
+    id: "l_11053772__614",
+    slug: "六年后，她带三个奶团炸翻全球",
+    title: "六年后，她带三个奶团炸翻全球",
+    cover: nocoverCover,
+    author: "月下长安",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-3323章",
+    latestChapter: "第3357章 那个孩子›",
+    excerpt: "六年前，安颜遭设计，要嫁给老男人，不料误打误撞，，，，六年后，携子归来，男人将她堵在墙角：战家三代单传，谢谢老婆！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11053772__614_六年后，她带三个奶团炸翻全球1-3323章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11053772_614/",
+  },
+{
+    id: "l_11116559__656218",
+    slug: "你管这叫第一前锋？",
+    title: "你管这叫第一前锋？",
+    cover: nocoverCover,
+    author: "苍穹芝心",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-318章",
+    latestChapter: "第319章 易主前夜›",
+    excerpt: "科恩，是拉丁语中的“祭司”他，就被称为超级“祭司”可……球场“祭司”是怎么炼成的？是出众的球技？还是疯狂的进球？不！那是欧洲人发不出“焜”的音！重生AC米兰青训营的谢焜，在吐槽中获得了系统，但还是被伟大的AC米兰淘汰。从此开启了他脚踏C罗，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11116559__656218_你管这叫第一前锋？1-318章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11116559_656218/",
+  },
+{
+    id: "l_11116593__656313",
+    slug: "庶房兴家",
+    title: "庶房兴家",
+    cover: nocoverCover,
+    author: "竹篱清茶",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-147章",
+    latestChapter: "第147章 卖船同行，信任交付›",
+    excerpt: "沈清竹一家意外穿越到大靖王朝侍御史沈家，成了沈家庶出三房，原主临出嫁前，莫名其妙被嫡出堂姐抢了婚事，全家羞愤难当，一起赴死报复大房。沈清竹理清头绪，无语至极。大房嫁女，一家身着白衣到场，差点把沈老夫人气死。陈世美未婚夫当众羞辱，她硬气反击，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11116593__656313_庶房兴家1-147章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11116593_656313/",
+  },
+{
+    id: "l_11116621__656254",
+    slug: "战锤：群星玩家的终末之旅",
+    title: "战锤：群星玩家的终末之旅",
+    cover: nocoverCover,
+    author: "KK1380",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-203章",
+    latestChapter: "第203章 意气风发啊，可汗›",
+    excerpt: "第42个千年。银河系被大裂隙劈成两半，星炬光芒照耀不到的暗面陷入了无尽战争，另一半沐浴在帝皇荣光的疆域却还在内耗。人类与叛徒、混沌、异形在各个星系混战，文明逐渐向深渊滑落。安德洛，一个对战锤世界一无所知的群星玩家，带着自己的群星世界被意外丢",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11116621__656254_战锤：群星玩家的终末之旅1-203章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11116621_656254/",
+  },
+{
+    id: "l_11116640__656300",
+    slug: "穿越斗罗，我奥斯卡不当辅助了",
+    title: "穿越斗罗，我奥斯卡不当辅助了",
+    cover: nocoverCover,
+    author: "大大怪元帅",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-200章",
+    excerpt: "魂穿斗一，成为主角团成员之一的奥斯卡，奥斯卡感觉这很妙。大陆第一位食物系先天满魂力，四十岁前修炼到封号斗罗就可以百分百继承食神神位，可以复制任何武魂的超标能力……奥斯卡表示我不吃牛肉。唐三？这里是斗一，你还是小瘪三，不是唐神王，哪来的回哪去",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11116640__656300_穿越斗罗，我奥斯卡不当辅助了1-200章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11116640_656300/",
+  },
+{
+    id: "l_11116799__656213",
+    slug: "神祇：自然主宰",
+    title: "神祇：自然主宰",
+    cover: nocoverCover,
+    author: "文子菌",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-247章",
+    latestChapter: "第155章 白晶能源块›",
+    excerpt: "诸神黄昏落幕，新旧纪元更迭，虚界重开。纪玄意外被选中进入神祇游戏。在这里，祂将融合神格、开辟神域、培育眷族，收集信仰，点燃神火。在这里，祂将带领眷族发展，探索虚界，与异族诸神争锋。神性生命-半神-微弱神力-弱等神力-中等神力-强大神力-伟大",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11116799__656213_神祇：自然主宰1-247章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11116799_656213/",
+  },
+{
+    id: "l_11182098__655499",
+    slug: "穿七零，假千金科研搞钱两手抓",
+    title: "穿七零，假千金科研搞钱两手抓",
+    cover: nocoverCover,
+    author: "迟苏",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-238章",
+    latestChapter: "第242章 各显本事›",
+    excerpt: "沈渡云在末世被异种撞死，穿越到华国七零年代，一个买啥都要票的年代，原身恋爱脑还大方，沈渡云直接送渣男和渣男表妹去见原主，一不小心修了个车，被军方注意到，又一不小心看到电脑，被研究院求着进。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11182098__655499_穿七零，假千金科研搞钱两手抓1-238章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11182098_655499/",
+  },
+{
+    id: "l_11182169__655423",
+    slug: "NBA：东北大呲花，扣遍全联盟",
+    title: "NBA：东北大呲花，扣遍全联盟",
+    cover: nocoverCover,
+    author: "芃驰",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-347章",
+    latestChapter: "第348章 凌晨四点›",
+    excerpt: "架空历史架空历史架空历史，不要拿这个世界当成原本世界。2002年NBA总决赛中场，一个被拉来救场的中国留学生，抄起唢呐吹了一曲《男儿当自强》。吹完不过瘾，他冲上场，隔着奥尼尔把球砸进了篮筐。落地一句东北话：“别搁那杵着，有能耐防一个。”全美",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11182169__655423_NBA：东北大呲花，扣遍全联盟1-347章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11182169_655423/",
+  },
+{
+    id: "l_11182181__655612",
+    slug: "没兽耳的坐骑我不骑！",
+    title: "没兽耳的坐骑我不骑！",
+    cover: nocoverCover,
+    author: "来一局牌吗",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-379章",
+    excerpt: "想成为一名骑士，你必须拥有一匹坐骑。红龙女王怎么样？强壮，美丽，足以在星界翱翔冲锋。还是你喜欢我这头深渊独角兽？漆黑顺滑的皮毛，以及锐利的独角，冲锋起来势不可挡。还是说，我这一只星界大鲸，庞大的身躯，可以撞开神国的封锁。每一头坐骑，都会给他",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11182181__655612_没兽耳的坐骑我不骑！1-379章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11182181_655612/",
+  },
+{
+    id: "l_11182298__655367",
+    slug: "离宫三年后，废太子携崽求入赘",
+    title: "离宫三年后，废太子携崽求入赘",
+    cover: nocoverCover,
+    author: "五月柚",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-189章",
+    excerpt: "姜棠曾在东宫中当差时，奉皇后之命，阴差阳错怀上当今太子的子嗣。然而内定太子妃崔娇却想要与太子殿下一生一世一双人，因宫女有孕气恼不已，逼着太子让姜棠打胎，否则她便另嫁。皇后却是力保姜棠腹中胎儿。太子两难之下，提议去母留子。姜棠诞下小郡主，一眼",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11182298__655367_离宫三年后，废太子携崽求入赘1-189章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11182298_655367/",
+  },
+{
+    id: "l_11247635__655771",
+    slug: "西游：从拜师九天荡魔祖师开始",
+    title: "西游：从拜师九天荡魔祖师开始",
+    cover: nocoverCover,
+    author: "素人特工",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-231章",
+    excerpt: "陆山君穿越西游，成了八百里黄风岭的虎先锋。深知西游水深，满地都是大能的棋子。他不愿浑浑噩噩做个被一棍子打死的野妖，于是吞灵果破胎迷，洗去一身血食业力。觉醒熟练度面板，【野兽本能】演化为【神通术法】，【微弱妖气】肝成【无漏金丹】。虽是妖族，却",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11247635__655771_西游：从拜师九天荡魔祖师开始1-231章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11247635_655771/",
+  },
+{
+    id: "l_11247710__655695",
+    slug: "七零大院来了个绝色大美人",
+    title: "七零大院来了个绝色大美人",
+    cover: nocoverCover,
+    author: "折耳根i",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-215章",
+    latestChapter: "第215章 李秀兰开始催生了›",
+    excerpt: "【古穿今+七零+上位者低头+1v1】【精致利己作精娇气的矜贵小公主×一见钟情自卑敏感的恋爱脑军官】夏清晏是大夏王朝开国皇帝最受宠的嫡公主，被皇帝捧在手心里长大，从小锦衣玉食，由帝王亲自教学。自出生时便被寄予厚望，从小与开国将军小儿子订下婚约",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11247710__655695_七零大院来了个绝色大美人1-215章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11247710_655695/",
+  },
+{
+    id: "l_11247792__655777",
+    slug: "这游戏也太奇怪啦",
+    title: "这游戏也太奇怪啦",
+    cover: nocoverCover,
+    author: "床前鸣月光",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-354章",
+    latestChapter: "第352章 这还是个游戏吗？›",
+    excerpt: "意外穿越到异星海洋，成为一座孤零零开拓基地的指挥官。面对深海的巨兽、璀璨的星空与无边的孤寂，李昂意外发现，自己能将这个真实的“外星求生”包装成游戏，拉来一群天真活泼的地球玩家当打工人！看着电脑屏幕后的他们肝得飞起，一边抓鱼一边喊着“这是全宇",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11247792__655777_这游戏也太奇怪啦1-354章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11247792_655777/",
+  },
+{
+    id: "l_11313245__657023",
+    slug: "霍格沃茨：马丁的变身每日刷新",
+    title: "霍格沃茨：马丁的变身每日刷新",
+    cover: nocoverCover,
+    author: "哈利波特红",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-458章",
+    latestChapter: "第158章 十人包厢？学期结束",
+    excerpt: "时间：1991年地点：霍格沃茨人物：马丁(千变万化版)……他贪财缺爱他爱吃盖浇饭他考试总考零分他喜欢在酒吧演讲他能让你黑魔王大人破防他坑哭了七届黑魔法防御术教授，七届他是巫师界最能整活的哑炮，魔法部最年轻的傲罗，斯莱特林学生最严厉的父亲……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11313245__657023_霍格沃茨：马丁的变身每日刷新1-458章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11313245_657023/",
+  },
+{
+    id: "l_11313363__657047",
+    slug: "人在港综，逆天改命",
+    title: "人在港综，逆天改命",
+    cover: nocoverCover,
+    author: "睡卧南山",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-262章",
+    excerpt: "据说，只要有人能够连续看完一千部完整的灵异电影，就能获得穿越到看过的灵异电影中的能力。苏沐相信了，然后花了将近三个月时间，收集并看完了一千部灵异电影，没想到竟然真的穿越了！但是苏沐发现他穿越的并不是单一的灵异电影世界，而是一个由他看过的一千",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11313363__657047_人在港综，逆天改命1-262章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11313363_657047/",
+  },
+{
+    id: "l_11313381__657140",
+    slug: "明末东江一哨官",
+    title: "明末东江一哨官",
+    cover: nocoverCover,
+    author: "大包小馒",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-275章",
+    latestChapter: "第145章 辞赴烽津›",
+    excerpt: "崇祯四年十月末。现代基层军官周元一朝魂穿，成为东江镇一名不入流的十八岁哨官！彼时的大明王朝刚历大凌河惨败，又将迎由那只鸡引发的惨案—吴桥兵变。刚穿越的周元于生死间暴起，一息双擒，救下即将受割鼻断腿之辱的东江总兵黄龙。少年孤勇，一战成名，独守",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11313381__657140_明末东江一哨官1-275章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11313381_657140/",
+  },
+{
+    id: "l_11378721__657336",
+    slug: "人在白令海，有御兽宗什么事",
+    title: "人在白令海，有御兽宗什么事",
+    cover: nocoverCover,
+    author: "行人甲",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-166章",
+    latestChapter: "第167章 喂鲸›",
+    excerpt: "【手搓+系统+宠物+白令海+狩猎+捕蟹+岛屿+种田+经营】40岁离婚。人在阿拉斯加白令海当渔民，房子没了，钱也没了，女儿也判给前妻，自己只得到一份每月2000美元的抚养费判决书。系统却给了一个御兽宗。.......【日常：潜伏任务】【外门弟",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11378721__657336_人在白令海，有御兽宗什么事1-166章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11378721_657336/",
+  },
+{
+    id: "l_11378763__657182",
+    slug: "日本战国：土佐一条大神的野望",
+    title: "日本战国：土佐一条大神的野望",
+    cover: nocoverCover,
+    author: "剑铸天成",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-256章",
+    latestChapter: "第254章 守将威名 岛津之困›",
+    excerpt: "穿越到日本战国，自当与信长公争天下。“此世即吾世，如月当无缺。”一条先祖藤原道长的豪言，正是乱世的奋斗目标。一条大神无能，可我穿越者却要试上一试。科技受阻？难从强敌环伺，却最为贫瘠的四国起家？难公家出身与武家先天冲突？难......可再难，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11378763__657182_日本战国：土佐一条大神的野望1-256章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11378763_657182/",
+  },
+{
+    id: "l_11378792__657196",
+    slug: "斗罗：我以模拟系统纵横诸天",
+    title: "斗罗：我以模拟系统纵横诸天",
+    cover: nocoverCover,
+    author: "流云香菇",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-138章",
+    latestChapter: "第138章 葬龙（上）›",
+    excerpt: "【反三】【多女主】【虐大师】【干柳二龙】【合作比比东】【灭七宝宗】【调教宁荣荣】【腹黑】【无敌流】穿越斗罗大陆，没有显赫....咦？不对！那是拥有还算显赫家庭背景的林岩，觉醒的武魂以及先天魂力都能达到中等。对此，林岩都本打算去跪舔主角唐三来",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11378792__657196_斗罗：我以模拟系统纵横诸天1-138章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11378792_657196/",
+  },
+{
+    id: "l_11378875__657169",
+    slug: "国运：让你找怪人弱点，你选帝骑",
+    title: "国运：让你找怪人弱点，你选帝骑",
+    cover: nocoverCover,
+    author: "看我壹掵通关",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-218章",
+    latestChapter: "第218章 ：生存龙骑！爆杀瞪羚怪物群！一个人，盘活整个龙国！›",
+    excerpt: "陆离穿越到了骑士国运游戏降临的世界，每隔一段时间所有国家都会挑选三人进入到游戏世世界中。龙国此时已经经历了三次惨败，若再次失败，大半的领土将会被怪人组织吞没！国运游戏规则，怪人必须要有相应体系的骑士才能彻底击杀，想要知道什么骑士可以击杀对应",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11378875__657169_国运：让你找怪人弱点，你选帝骑1-218章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11378875_657169/",
+  },
+{
+    id: "l_11381485__1908",
+    slug: "我靠休假给异世带来亿点震撼",
+    title: "我靠休假给异世带来亿点震撼",
+    cover: nocoverCover,
+    author: "林夭夭",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-311章",
+    latestChapter: "第311章 你们有仇？›",
+    excerpt: "嗨～休假不？去异世界体验废柴逆袭的那种？又名《我靠开挂，在星际成为修仙大佬》",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11381485__1908_我靠休假给异世带来亿点震撼1-311章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11381485_1908/",
+  },
+{
+    id: "l_11444275__656537",
+    slug: "人在吞噬星空，融合林雷模板",
+    title: "人在吞噬星空，融合林雷模板",
+    cover: nocoverCover,
+    author: "桃源闲人",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-176章",
+    excerpt: "穿越吞噬星空，获得盘龙鸿蒙掌控者林雷模板只要解锁特定的条件，就能不断解锁角色模板痛饮活龙血，激活青龙血脉，成为龙血战士，基因层次跃升解锁魔法师天赋，成为精神念师横扫四方解锁成神条件，获得神分身解锁青龙血脉，成就完美基因，化身青龙，掌控时空…",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11444275__656537_人在吞噬星空，融合林雷模板1-176章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11444275_656537/",
+  },
+{
+    id: "l_11444399__656464",
+    slug: "西游：我和猴哥儿嘎嘎乱杀",
+    title: "西游：我和猴哥儿嘎嘎乱杀",
+    cover: nocoverCover,
+    author: "熊二先生",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-165章",
+    latestChapter: "第90章 ：书写历史",
+    excerpt: "你向猴哥儿传授了呼吸法，猴哥儿稍加修行，领悟了天罡神通九息服气；你向猴哥儿传授了十二路象形拳，猴哥儿看了一眼，猴拳圆满，激发了灵明石猴的潜力，通变化、识天时、移星换斗；你向猴哥儿传授了观想法，猴哥儿明悟了元神大道，修成不灭元神。本以为是祖龙",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11444399__656464_西游：我和猴哥儿嘎嘎乱杀1-165章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11444399_656464/",
+  },
+{
+    id: "l_11444416__656550",
+    slug: "人在红楼：开局护送黛玉进京",
+    title: "人在红楼：开局护送黛玉进京",
+    cover: nocoverCover,
+    author: "沐玄音",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-164章",
+    latestChapter: "第164章 这剧本不对›",
+    excerpt: "北离王朝，混乱的世道，一个手持“赤金刀”的狠人横空出世。他担的事从不出错，送人，押货，杀人，只要你出的起“千金”的价，不违背道义，他都敢接。不管是匪徒杀手，江湖门派，还是达官显贵，皇亲国戚，只要敢坏他的生意，他都照砍不误！只因他叫李千金，一",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11444416__656550_人在红楼：开局护送黛玉进京1-164章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11444416_656550/",
+  },
+{
+    id: "l_11447566__459850",
+    slug: "全法：莫凡的非正经人生选择系统",
+    title: "全法：莫凡的非正经人生选择系统",
+    cover: nocoverCover,
+    author: "纯爱掌门人",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-365章",
+    latestChapter: "第359章 西班牙队›",
+    excerpt: "莫凡绑定了一个【不正经人生选择器】，他原本就骚动的人生，彻底失控了。【魔法师之路始于足下，请开始你的表演：】选项一：集中精神，正常完成觉醒。奖励：随机单系魔法觉醒。选项二：觉醒前，对全班同学露出一个自信笑容，并说：“颤抖吧，凡人们，本王的力",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11447566__459850_全法：莫凡的非正经人生选择系统1-365章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11447566_459850/",
+  },
+{
+    id: "l_11509777__656827",
+    slug: "人在华山，卷死同行",
+    title: "人在华山，卷死同行",
+    cover: nocoverCover,
+    author: "黑神话四妹夫",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-130章",
+    latestChapter: "第130章 野拳门齐丽挺漂亮›",
+    excerpt: "出身不好？没事，只要足够卷，死的就是同行。身负【卷王之王】棱彩词条，百倍学习效率。好消息，是华山弟子！坏消息，气宗当家，自己是剑宗余孽！天资驽钝？那怎么学会降龙十八掌的？筋骨欠佳？那怎么紫霞神功的？容貌一般？怎么小师妹，东方阿姨都围着他转？",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11509777__656827_人在华山，卷死同行1-130章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11509777_656827/",
+  },
+{
+    id: "l_11509791__656731",
+    slug: "大唐安西军",
+    title: "大唐安西军",
+    cover: nocoverCover,
+    author: "键盘的悲哀",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-153章",
+    excerpt: "安史之乱后，西域孤悬。安西都护府与中原断绝音讯，已近半个世纪。元和三年冬，吐蕃攻陷龟兹。安西大都护郭昕殉国，临终前，将官印、军籍与一张东归路线图，交到一个年轻人手中。裴霜戈，时年二十，穿越者。他在都护府长大，知道安西陷落的结局，却从未想过，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11509791__656731_大唐安西军1-153章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11509791_656731/",
+  },
+{
+    id: "l_11509948__656737",
+    slug: "网游之幸运龙骑士",
+    title: "网游之幸运龙骑士",
+    cover: nocoverCover,
+    author: "发飙的鼠鼠",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-161章",
+    latestChapter: "第142章 偶遇（下）",
+    excerpt: "长路漫漫，与龙作伴；从菜鸟到传奇，一名生活职业全精通的龙骑士的冒险之旅。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11509948__656737_网游之幸运龙骑士1-161章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11509948_656737/",
+  },
+{
+    id: "l_11706424__661545",
+    slug: "半岛修正带，我能听见爱豆心声",
+    title: "半岛修正带，我能听见爱豆心声",
+    cover: nocoverCover,
+    author: "热血布偶猫",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-14章",
+    latestChapter: "第14章 名井南似乎不太开心›",
+    excerpt: "我不懂女人心，但我能听到女人心。最开始，我身为JYP艺人培育部实习生，身怀系统，却因为过于直男，总把事情搞糟。直到我第一次B抽出金。【心声聆听】S级主动能力，可听见他人心声从此，我的人生迎来巨变。【韩娱】【多女】【治愈】【听见心声】【人格修",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11706424__661545_半岛修正带，我能听见爱豆心声1-14章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11706424_661545/",
+  },
+{
+    id: "l_11706488__661549",
+    slug: "1984赶海致富，每日一条渔讯",
+    title: "1984赶海致富，每日一条渔讯",
+    cover: nocoverCover,
+    author: "水静时亦镜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-165章",
+    excerpt: "陈向东带着遗憾回到了1984年。回到了那个熟悉的小渔村，遗憾了大半辈子。这一次一定做个好丈夫，好父亲。【每日渔讯：今日晚八点海风三级东礁石滩有石斑鱼群经过】【每日渔讯：今日晚九点海风五级航向正东方有大片大黄鱼出没】【每日渔讯：今日晚上五点海",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11706488__661549_1984赶海致富，每日一条渔讯1-165章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11706488_661549/",
+  },
+{
+    id: "l_11706538__661504",
+    slug: "三流摄影师：我接的都是要命活",
+    title: "三流摄影师：我接的都是要命活",
+    cover: nocoverCover,
+    author: "拔个八",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-171章",
+    latestChapter: "第170章 心里长草›",
+    excerpt: "【御鬼】【收集】【职业经历改编】张尽，亲鬼体，三流摄影师，经营的影楼生意惨淡。为求生计，他不得不接下各类订单。委托愈发诡异，报酬却愈发惊人。他惊觉自己早已落入他人算计。不甘做一枚任人摆布的棋子，他在接连不断的诡秘事件中，步步为营。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11706538__661504_三流摄影师：我接的都是要命活1-171章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11706538_661504/",
+  },
+{
+    id: "l_11774600__6434",
+    slug: "波斯帝国1845",
+    title: "波斯帝国1845",
+    cover: nocoverCover,
+    author: "卡尔玛联盟",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1306章",
+    excerpt: "陈诚穿越回19世纪的恺加王朝，还成为了阿塞拜疆的总督纳赛尔丁。而此时的波斯内外交困，已经沦为了和奥斯曼一样的命运。既来之则安之，如何保护波斯摆脱那些列强，就成为了他的主要目标。但目前，还是把自己的总督做好吧。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_11774600__6434_波斯帝国18451-1306章.txt",
+    sourceUrl: "https://m.libahao2.com/book/11774600_6434/",
+  },
+{
+    id: "l_12099587__660122",
+    slug: "以骑士之名！",
+    title: "以骑士之名！",
+    cover: nocoverCover,
+    author: "印第安大黑猴",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-51章",
+    excerpt: "西历5339年，旱荒席卷塞恩王国。为了活命，一个平民主动申请前往北境战场，从一篇秘法残页开始修炼，追寻骑士的真谛，掌握更强的力量，并走向星空之巅。“现在站在你面前的是：卫道骑士团团长、骑士大陆守护者、星空之下第一骑士、诸神黄昏的缔造者、寰宇",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12099587__660122_以骑士之名！1-51章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12099587_660122/",
+  },
+{
+    id: "l_12099659__659998",
+    slug: "从见习机械师开始！",
+    title: "从见习机械师开始！",
+    cover: nocoverCover,
+    author: "希望之眼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-61章",
+    latestChapter: "第61章 不死幽魂·渡鸦›",
+    excerpt: "【超神机械师面板】【琥珀流】【爽文】【杀伐果断】王尘携NPC面板穿越回到游戏《星渊》1.0版本，从被誉为新手地狱难度的湛蓝星开始。星球地表各国争锋大战、侵蚀潮汐自地底蔓延、宛若囚笼般的天穹能量薄膜阻拦逃向星空的希望。但这也是被誉为机遇最多的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12099659__659998_从见习机械师开始！1-61章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12099659_659998/",
+  },
+{
+    id: "l_12099701__660221",
+    slug: "网王：开局打崩职业选手",
+    title: "网王：开局打崩职业选手",
+    cover: nocoverCover,
+    author: "锋沐",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-191章",
+    latestChapter: "第191章 ：这究竟是怎样强大的怪物？›",
+    excerpt: "这是最美妙的网球时代。手冢国光、迹部景吾、立海大三巨头、越前龙雅、平等院凤凰、梅达诺雷...无数网球天才争相涌现，犹如漫天繁星一般闪耀。这也是最令天才们绝望的网球时代。因为在他们头上有个太阳统治着这个时代，盖过了所有天才的光芒。北宫夏和，一",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12099701__660221_网王：开局打崩职业选手1-191章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12099701_660221/",
+  },
+{
+    id: "l_12099730__660099",
+    slug: "全民塔防：亡灵弱？见过天灾吗？",
+    title: "全民塔防：亡灵弱？见过天灾吗？",
+    cover: nocoverCover,
+    author: "墨香染流年",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-135章",
+    latestChapter: "第135章 花魁的夹子音与人马大乱斗›",
+    excerpt: "沈飞穿越全民塔防世界，觉醒兵种亡灵。世人皆说亡灵弱，后期不足死的快。但他第一次免费十连抽卡，便抽出了特殊卡牌亡灵农民。本以为是张废卡，结果在塔防秘境中，一个亡灵农民种出的土地却可以给人回血，妥妥一个泉水制造机！亡灵弱？见过天灾吗？",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12099730__660099_全民塔防：亡灵弱？见过天灾吗？1-135章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12099730_660099/",
+  },
+{
+    id: "l_12165168__660393",
+    slug: "一颗头也可以成为冒险者吗",
+    title: "一颗头也可以成为冒险者吗",
+    cover: nocoverCover,
+    author: "木又洲",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-231章",
+    latestChapter: "第131章 ：决赛第一场›",
+    excerpt: "坏消息：罗里穿越第一天，头就被砍。好消息：只要头还在，他就能无限拼装。开局在乱葬岗醒来，脖子下面空空如也。罗里本以为这是地狱难度，直到他发现自己觉醒拼装能力：【精灵左臂】+【破旧狼牙棒】=附带爆裂一击的狼牙拳套；【提夫林心脏】+【木制蒸汽机",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12165168__660393_一颗头也可以成为冒险者吗1-231章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12165168_660393/",
+  },
+{
+    id: "l_12165173__660473",
+    slug: "聊斋大明，我有一块左道术士面板",
+    title: "聊斋大明，我有一块左道术士面板",
+    cover: nocoverCover,
+    author: "这恒河狸",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-43章",
+    latestChapter: "第43章 投靠魏忠贤！›",
+    excerpt: "林奇意外穿越到了大明，不过不是历史上的大明，而是一个庙里藏鬼，野外有妖的聊斋大明。更重要的是，他穿越过来的还是天启元年，即将天下大乱的天启元年。幸好林奇发现自己随身携带着左道术士的职业面板！林奇本想要靠着职业面板过自己的安稳日子，谁知道职业",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12165173__660473_聊斋大明，我有一块左道术士面板1-43章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12165173_660473/",
+  },
+{
+    id: "l_12165275__660243",
+    slug: "无限从获得轮椅术式开始",
+    title: "无限从获得轮椅术式开始",
+    cover: nocoverCover,
+    author: "击坠王的孤独",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-200章",
+    latestChapter: "第61章 神族不死身›",
+    excerpt: "皇级实力参加顶上之战，自选术式肘击宿傩，何选？林白毫不犹豫地回答：“我打宿傩！”本以为只是网上选着玩，结果林白真的穿越到咒术回战世界，获得了号称轮椅术式的【混沌与调和】。奈何，本人只有咒之力三段水准，本想激流勇退，却又收到了主神空间的邀请函",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12165275__660243_无限从获得轮椅术式开始1-200章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12165275_660243/",
+  },
+{
+    id: "l_12165320__660262",
+    slug: "修仙：从逆行村开始成为颠倒圣君",
+    title: "修仙：从逆行村开始成为颠倒圣君",
+    cover: nocoverCover,
+    author: "小Y想吃肉肉肉肉",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-74章",
+    latestChapter: "第74章 和对方交易›",
+    excerpt: "苏衍穿越到了仙侠游戏《寰宇》的世界中，开局苏醒于逆行村。此方天地，万法皆可成道，世间万般际遇，皆可演化出属于自己的修行坦途。【清玄道】吐纳元炁，证道仙宗：【启炁修士】→【府灵羽生】→【罡罡君使】.......【铸兵道】以熔炉锻骨，以兵锋养神",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12165320__660262_修仙：从逆行村开始成为颠倒圣君1-74章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12165320_660262/",
+  },
+{
+    id: "l_12165350__660420",
+    slug: "修仙：从打破武道上限开始",
+    title: "修仙：从打破武道上限开始",
+    cover: nocoverCover,
+    author: "斩关夺隘",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-209章",
+    excerpt: "诸天文，两界文，次修仙【天水神功：圆满(99%，待破限)】【破限特性：武道通神，超凡入圣，真形化实。】【十三太保横练（破限）：铜皮铁骨，金血玉髓，天生神力。】【晨露沤肥术（破限）：沤肥养地，增速增产，植株变异。】【天魔解体大法（破限）：血肉",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12165350__660420_修仙：从打破武道上限开始1-209章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12165350_660420/",
+  },
+{
+    id: "l_12230794__659458",
+    slug: "从截胡李莫愁开始扬名诸天",
+    title: "从截胡李莫愁开始扬名诸天",
+    cover: nocoverCover,
+    author: "神枪老飞侠",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-87章",
+    excerpt: "分家分得一条破船，竟能穿梭今古两界！一边是现代社会，另一边古武江湖，陆飞游走其间——拜师学武，让现代人瞧瞧内力的神奇，跨界带货，给高手们来点科技的震撼！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12230794__659458_从截胡李莫愁开始扬名诸天1-87章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12230794_659458/",
+  },
+{
+    id: "l_12230803__659603",
+    slug: "东方巨蛇！北美走蛟被直播啦！",
+    title: "东方巨蛇！北美走蛟被直播啦！",
+    cover: nocoverCover,
+    author: "汉武帝的冠军侯",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-100章",
+    latestChapter: "第108章 抽取气运！重塑结点›",
+    excerpt: "留学生秦风在密西西比河畔遭遇紫色闪电，再醒来时，已变成一条十几米的巨蛇——不，是蛟龙。逆鳞暗生，双角破颅，血脉深处的传承记忆苏醒：走蛟化龙，期限三个月。否则，他将彻底沦为一条没有理智的洪荒巨兽。可问题是——他藏在密西西比河底，偏偏被一群作死",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12230803__659603_东方巨蛇！北美走蛟被直播啦！1-100章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12230803_659603/",
+  },
+{
+    id: "l_12230842__659457",
+    slug: "苦境：每年一词条",
+    title: "苦境：每年一词条",
+    cover: nocoverCover,
+    author: "沭本归源",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-92章",
+    excerpt: "【走数值碾压、无敌流，前期慢热、后期横扫}你有天生剑/刀觉；我有万法通明；你有过目不忘，我有天道酬勤；你有五大神器，我有云销风雷；你有气双流·纳真神诀，我有生生不息；你有正邪不破之躯，我有仙邪不破之躯；···“现在这是我的世界。”剑凡看着苦",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12230842__659457_苦境：每年一词条1-92章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12230842_659457/",
+  },
+{
+    id: "l_12230857__659510",
+    slug: "柯南：开局成为东京最强律师",
+    title: "柯南：开局成为东京最强律师",
+    cover: nocoverCover,
+    author: "在乎这条小鱼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-177章",
+    excerpt: "（又名：在柯南里觉醒伏诛赐死，ps：魔改版）琴酒：我本来开武装直升机扫射东京塔，找了新井律师，最后定成民用直升机观光误碰烟花开关，赔玻璃清洁费，驾照扣6分罚3万日元。伏特加：我本来非法持有枪械、参与地下交易，找了新井律师，最后定成漫展COS",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12230857__659510_柯南：开局成为东京最强律师1-177章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12230857_659510/",
+  },
+{
+    id: "l_12296236__659816",
+    slug: "成为最强冒险者，从手抽词条开始",
+    title: "成为最强冒险者，从手抽词条开始",
+    cover: nocoverCover,
+    author: "错误抉对",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-75章",
+    excerpt: "在地下城中探索，为了得到宝物而冒险，和危险的魔物战斗，最后满载而归，享受雷霆般喝彩。这就是冒险者的日常。穿越到异世界的乌恩，原本想借着能从接触的物品中抽取出技能或能力的天赋在冒险者这一行中站稳脚跟，却走上了和预想不同的，回收危险魔具的道路。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12296236__659816_成为最强冒险者，从手抽词条开始1-75章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12296236_659816/",
+  },
+{
+    id: "l_12296239__659800",
+    slug: "武帝爪牙，圣朝鹰犬",
+    title: "武帝爪牙，圣朝鹰犬",
+    cover: nocoverCover,
+    author: "万古青莲",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-60章",
+    latestChapter: "第60章 ：金阳玉佩！御命金牌！›",
+    excerpt: "自大胤武帝诛灭六国，一统天阙灵洲，建立大胤圣朝，功盖千秋。圣朝十五年，武帝参悟长生之道，任命太子监国理政。然朝中奸佞四起，外有妖魔横行，更有前朝余孽作祟，意图搅弄风云祸乱天下。太子奉武帝之命成立绣衣司，把控朝堂监察天下。江平意外穿越到一个新",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12296239__659800_武帝爪牙，圣朝鹰犬1-60章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12296239_659800/",
+  },
+{
+    id: "l_12296398__659782",
+    slug: "九君齐天",
+    title: "九君齐天",
+    cover: nocoverCover,
+    author: "风凌天下",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-63章",
+    excerpt: "人间浮沉，修身求真；一路坎坷，步步风云。登临巅峰时，方知诸天星河，在等我一人。大道倾颓日，天地翻覆间，看云端，有九君齐天。…………877103143普群3群（回答书名九君齐天即可自动加群）1087737804奶粉盟群(粉丝值100000以上",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12296398__659782_九君齐天1-63章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12296398_659782/",
+  },
+{
+    id: "l_12298957__4470",
+    slug: "重生八零：我在长白山猎野味发家",
+    title: "重生八零：我在长白山猎野味发家",
+    cover: nocoverCover,
+    author: "忧伤的蓝刀鱼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1087章",
+    latestChapter: "第1084章 验收›",
+    excerpt: "重生+年代+乡土+硬核训鹰狩猎文一觉醒来，精通训鹰的老猎户岳峰重生回了1980年长白山脚下的小山村。那一年，土地还没有承包到户，野生动物保护法还没有颁布，国家还没有禁猎禁枪。村里突然蹿起了个年轻的鹰猎人。岳峰从一架雀鹰开始起步，训鹞子，养大",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12298957__4470_重生八零：我在长白山猎野味发家1-1087章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12298957_4470/",
+  },
+{
+    id: "l_12361747__661147",
+    slug: "开局断亲，我带夫君赚亿万金",
+    title: "开局断亲，我带夫君赚亿万金",
+    cover: nocoverCover,
+    author: "万般皆轻",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-53章",
+    excerpt: "【种田经商+大女主+科举+先婚后爱+双强】财阀千金苏秋水一睁眼发现自己穿成了一户农家妻子，面对娘家人的势利冷血，她决意断亲。新家又穷又苦？无妨，且看她这个现代商业天才，如何利用自身的知识发家致富。苏秋水鼓励夫君考科举，带着全家做买卖，开铺子",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361747__661147_开局断亲，我带夫君赚亿万金1-53章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361747_661147/",
+  },
+{
+    id: "l_12361821__661119",
+    slug: "主神但综漫，从村民玩坏火影开始",
+    title: "主神但综漫，从村民玩坏火影开始",
+    cover: nocoverCover,
+    author: "我可都是乱写的",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-143章",
+    excerpt: "别人在主神空间拼命求生，能自己穿越时空的周防司却想着怎么利用这个多元交汇平台，给自己的诸天之旅打个最好的基础。落地火影忍者，队友郑吒等人逃往避难所，周防司却醒悟自己村民身份后却毅然独走，带着木叶村民冲到四紫炎阵旁，以凡人之躯爆刷支线剧情，展",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361821__661119_主神但综漫，从村民玩坏火影开始1-143章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361821_661119/",
+  },
+{
+    id: "l_12361827__661148",
+    slug: "和新同桌成为死对头开始",
+    title: "和新同桌成为死对头开始",
+    cover: nocoverCover,
+    author: "甘橘茶",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-66章",
+    latestChapter: "第66章 不好也加›",
+    excerpt: "年级第一的许若好是校园里的传奇人物，她打扮另类，长期请假，上学的日子屈指可数，是学校里不少人学习的偶像。本以为日子会这样风轻云淡地过下去，直到她有了新同桌。这人长得好看，说话却很难听……“许若好，你给我找的位置呢?”“谢随安，你是少爷我也不",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361827__661148_和新同桌成为死对头开始1-66章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361827_661148/",
+  },
+{
+    id: "l_12361853__661117",
+    slug: "卡我合同我装唐，解约之后我称王",
+    title: "卡我合同我装唐，解约之后我称王",
+    cover: nocoverCover,
+    author: "真实伤害最真实",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-15章",
+    latestChapter: "第15章 醉翁之意不在酒›",
+    excerpt: "S12对战T1的八强赛上，RNG动用秘密武器，让终极天才新人许锋打首发中单。此前对战T1的训练赛中，许锋乱杀faker未尝一败，给了RNG管理层莫大的希望。本以为可以三比零轻松送走T1，然而......朱开：许锋，你这波团为什么不开大啊？“",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361853__661117_卡我合同我装唐，解约之后我称王1-15章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361853_661117/",
+  },
+{
+    id: "l_12361887__661075",
+    slug: "闻妄观道",
+    title: "闻妄观道",
+    cover: nocoverCover,
+    author: "冰椰不加汁",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-40章",
+    excerpt: "世人言语，有真有妄，心口万念，未必形于口舌。假话尚且可知，真话防不胜防。少年江叙白。识官营，吃玄果；解横刀，缴甲胄。降世以来便有非人之能。闻人言语，无事便真，预警则假。三年戍边战功。卸甲归田时，荣登仙路日。闻妄观道，趋吉避凶。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361887__661075_闻妄观道1-40章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361887_661075/",
+  },
+{
+    id: "l_12361892__661216",
+    slug: "东京：妹妹的养成方法",
+    title: "东京：妹妹的养成方法",
+    cover: nocoverCover,
+    author: "日月天a",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-37章",
+    excerpt: "重生在东京，十文字悟有一个系统，只要帮妹妹达成心愿，就可以获得奖励，不管是技能还是天赋，甚至还有异能。心灵感应、百发百中、语言精通、料理、格斗术、兽语......但他并没有那么多妹妹。不过这不是问题，干妹妹也是妹妹，只要不断认妹妹就行了。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361892__661216_东京：妹妹的养成方法1-37章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361892_661216/",
+  },
+{
+    id: "l_12361893__661232",
+    slug: "登月",
+    title: "登月",
+    cover: nocoverCover,
+    author: "忧伤的饭饭",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-22章",
+    latestChapter: "第22章 无限的轨迹›",
+    excerpt: "浓雾终年笼罩王国，蒸汽机的轰鸣响彻大地。人们崇拜神秘学，信仰着自古流传下来的双月传说。黎默曾是公认的天才，却在觉醒记忆后失去了神秘学感知，沦为雾都弃儿。在这个连内燃机都未曾普及的年代，一个失去了魔法的普通人，平静地抬头看向星空。目标：三十八",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361893__661232_登月1-22章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361893_661232/",
+  },
+{
+    id: "l_12361901__661104",
+    slug: "她们都是穿越者！",
+    title: "她们都是穿越者！",
+    cover: nocoverCover,
+    author: "柯以南",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-113章",
+    latestChapter: "第112章 摄影的关键就是模特长得美›",
+    excerpt: "某天，方鸣突然发现同桌林晓晓有点不对劲。大体表现为精神混乱、记忆与现实出现了严重偏差、并且还口口声声喊他“老公”。这给方鸣带来了许多困扰。好在经过不懈努力，问题终于得到了解决。但很快他就意识到事情远没有这么简单。因为……“方鸣！她是谁？！！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361901__661104_她们都是穿越者！1-113章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361901_661104/",
+  },
+{
+    id: "l_12361917__661105",
+    slug: "冒险者放置成神",
+    title: "冒险者放置成神",
+    cover: nocoverCover,
+    author: "写书的喵",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-36章",
+    latestChapter: "第36章 共浴›",
+    excerpt: "穿越到遍地亚人、冒险者和魔物的奇幻世界。霍恩本来只想过平静的生活，广交各个种族的小姐姐，却被逼着当冒险者还债。还好他获得了一款放置游戏，放置就能获取收益！……【放置日志】【地点：史莱姆洞窟（F级）】【时长：8小时】【铜币+60！】【史莱姆黏",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361917__661105_冒险者放置成神1-36章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361917_661105/",
+  },
+{
+    id: "l_12361923__661142",
+    slug: "六扇门小厨娘：我只会做饭，不会破案啊",
+    title: "六扇门小厨娘：我只会做饭，不会破案啊",
+    cover: nocoverCover,
+    author: "歌悦兮",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-81章",
+    latestChapter: "第59章 字灵微笑案（十九）",
+    excerpt: "古风+美食+探案+轻悬疑+群像+单元剧+众生百态宁云君，一代厨神，没想到自己被毒死了！在失去意识的前一秒，她一口亲上死对头的唇，要死那就一起死！等再次睁眼，发现自己身处茅草屋之中，床边的娃娃正在喊饿。后来她去六扇门应聘厨役。啃了口死者留下的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361923__661142_六扇门小厨娘：我只会做饭，不会破案啊1-81章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361923_661142/",
+  },
+{
+    id: "l_12361937__661175",
+    slug: "让你当驸马，你劝公主登基？",
+    title: "让你当驸马，你劝公主登基？",
+    cover: nocoverCover,
+    author: "左岸七夜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-18章",
+    latestChapter: "第18章 烈火焚身！大妖化形！›",
+    excerpt: "大争之世，妖蛮横行，巫魔作乱，人如草芥，名将辈出！有佛坐镇西陆莲花天下，普度众生；有圣人执掌浩然中原，立人族道统。京都永安城，一代天骄永安公主试炼时不慎走火入魔，修为散尽，惨遭毁容……神武侯府，少年文宫碎裂，无法修行……直至，陛下一旨婚书，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361937__661175_让你当驸马，你劝公主登基？1-18章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361937_661175/",
+  },
+{
+    id: "l_12361941__661239",
+    slug: "从空岛猎人开始冒险",
+    title: "从空岛猎人开始冒险",
+    cover: nocoverCover,
+    author: "天青色风铃",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-28章",
+    latestChapter: "第28章 临行前›",
+    excerpt: "大地沉没，世界只剩下一座座空岛。幸存的人类生活在天空上，面临强大的怪物威胁，组建了空岛猎人协会。驾驶飞艇探索未知空域，寻找远古遗迹的宝藏。一个属于冒险的大时代来临！林维希望能通过猎人考核，成为一名正式猎人，改变贫困的生活。还好，他觉醒了异能",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361941__661239_从空岛猎人开始冒险1-28章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361941_661239/",
+  },
+{
+    id: "l_12361959__661204",
+    slug: "民国武神，来自仙界",
+    title: "民国武神，来自仙界",
+    cover: nocoverCover,
+    author: "八月飞鹰",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-22章",
+    excerpt: "【穿越到了修仙界，可惜一穷二白，天赋平庸。】黄庭：“转机在哪里？”【二次穿越到东洲新华民国，军阀混战，妖魔作乱，列强横行。】黄庭：“画风差别有些大。”【自由往来两界，资源错位，互补有无。】黄庭：“这里面有机会……”【修仙界道法和民国武道一起",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12361959__661204_民国武神，来自仙界1-22章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12361959_661204/",
+  },
+{
+    id: "l_12427266__661386",
+    slug: "1899不当太监就去美利坚",
+    title: "1899不当太监就去美利坚",
+    cover: nocoverCover,
+    author: "桔子皮煮酱油",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-167章",
+    latestChapter: "第167章 规模›",
+    excerpt: "后来，李卓凡回想自己这辈子，最光辉的事迹：不是成为唐人街的电力大王；也不是纽约商会的洋人排队给他敬酒；更不是那些剪了辫子的新青年喊他“李先生大义”。而是光绪二十五年秋天那个晚上，他没当太监，去了美利坚，这是一个改变了他和这片土地命运的选择。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427266__661386_1899不当太监就去美利坚1-167章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427266_661386/",
+  },
+{
+    id: "l_12427271__661466",
+    slug: "绝世唐门：霍雨浩的重启人生",
+    title: "绝世唐门：霍雨浩的重启人生",
+    cover: nocoverCover,
+    author: "烤鱼至圣先师",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-108章",
+    excerpt: "春秋蝉秋冬蝉傻傻分不清楚，这是一个原生雨浩重生归来弥补遗憾的故事飞升神界后的某个夜晚，霍雨浩脑海中莫名出现了一本《绝世唐门》。以局外人视角，看完自己被操控、被利用、挚爱被迫撕裂灵魂的一生，他突然有了一个疯狂的想法。什么神王布局？什么万年大计",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427271__661466_绝世唐门：霍雨浩的重启人生1-108章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427271_661466/",
+  },
+{
+    id: "l_12427284__661483",
+    slug: "铠甲：从火铠传人到天道帝皇",
+    title: "铠甲：从火铠传人到天道帝皇",
+    cover: nocoverCover,
+    author: "甘求白首闲",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-44章",
+    excerpt: "穿越异能兽入侵的世界，李昭珩的身份是当世火凯传人，手握火影石，为官方铠甲小队首席。本以为这就已经是爽文剧本，却没想到他还额外觉醒了两个天赋！【天赋一：左拳伤害高：你的左拳伤害会比右拳稍微高一些。】【天赋二：右拳高伤害：你右拳造成的伤害会比左",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427284__661483_铠甲：从火铠传人到天道帝皇1-44章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427284_661483/",
+  },
+{
+    id: "l_12427310__661320",
+    slug: "巫师：什么叫学者系猎魔人？",
+    title: "巫师：什么叫学者系猎魔人？",
+    cover: nocoverCover,
+    author: "夜色墨河",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-27章",
+    excerpt: "（没玩过游戏，也不会影响阅读体验，作者会尽量写得详细一些）巫师世界，纪元1272年，一个来自于蓝星的灵魂进入了永恒之火的牢房，占据了囚犯塞维恩的身躯。他被父亲强行灌下青草药剂，被女巫猎人抓入牢房，面临着被烧死的命运。幸好改良版系统面板激活，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427310__661320_巫师：什么叫学者系猎魔人？1-27章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427310_661320/",
+  },
+{
+    id: "l_12427330__661390",
+    slug: "从百病缠身到长生仙尊",
+    title: "从百病缠身到长生仙尊",
+    cover: nocoverCover,
+    author: "朗鸢",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-162章",
+    excerpt: "觉醒前世记忆的顾辰，发现自己所处的修仙界，似乎与想象中的不太一样。此界修士在吸纳灵气，炼化为自身修为时，体内会产生名为天秽的浊气，不断侵蚀着修士的肉身。无论是修炼功法术法，还是服用各类丹药，甚至是突破自身境界，都会遭到天道反噬，在体内产生大",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427330__661390_从百病缠身到长生仙尊1-162章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427330_661390/",
+  },
+{
+    id: "l_12427382__661453",
+    slug: "中世纪：这家族来自东方",
+    title: "中世纪：这家族来自东方",
+    cover: nocoverCover,
+    author: "您说的都怼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-31章",
+    excerpt: "身穿中世纪意大利，娶妻生子，建立家族。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427382__661453_中世纪：这家族来自东方1-31章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427382_661453/",
+  },
+{
+    id: "l_12427495__661460",
+    slug: "每日情报：我老婆居然是侯府千金",
+    title: "每日情报：我老婆居然是侯府千金",
+    cover: nocoverCover,
+    author: "炫酷小海豹",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-17章",
+    latestChapter: "第17章 差点就被野猪拱了›",
+    excerpt: "现代青年秦川，穿越到一个类似五代十国的历史时空，成为一个吃不饱饭的底层人，觉醒每日情报系统。靠着系统情报，秦川带领家人在乱世中求生。某一天，他意外发现，每天给自己暖被窝的老婆，居然是侯府千金！当狸猫皇太子的戏码发生在身边，当老婆的生命受到威",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427495__661460_每日情报：我老婆居然是侯府千金1-17章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427495_661460/",
+  },
+{
+    id: "l_12427505__661429",
+    slug: "长江口渡劫成神龙，轰动全球",
+    title: "长江口渡劫成神龙，轰动全球",
+    cover: nocoverCover,
+    author: "半城泥沙",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-43章",
+    latestChapter: "第43章 九九归一›",
+    excerpt: "穿越到五千年前，龙寻变成一条小黑蛇。好在激活系统，每沉睡一次就能进化一次。从蛇到蟒、再到蚺、最后到蛟龙，龙寻最后一次沉睡在长江入海口。这一睡就是千年，当再度醒来时已到渡劫化真龙之日。魔都上空乌云密布，长江无数奇珍异怪顺流而下，东海数不清远古",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12427505__661429_长江口渡劫成神龙，轰动全球1-43章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12427505_661429/",
+  },
+{
+    id: "l_12492825__660539",
+    slug: "从一座小镇开始的领主时代",
+    title: "从一座小镇开始的领主时代",
+    cover: bookCover12492825660539,
+    author: "一年红尘",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-187章",
+    latestChapter: "第187章 黄金高阶？›",
+    excerpt: "【西幻＋种田＋剑与魔法】从地球ol通关的罗兰，再次睁眼来到了一个充满奇幻的世界，这里有着会斗气的骑士，会魔法的法师，还有着精灵矮人兽人等各种奇异的种族。依靠着系统赠送的新手大礼包买下一块北方荒野的领地，罗兰就此开启了自己的领主之路。开荒、种",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.xunlei.com/s/VP21z1UuaMInReHYCDQiGjVAA1?pwd=j2sy",
+    downloadUrl: "/books/l_12492825__660539_从一座小镇开始的领主时代1-187章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492825_660539/",
+  },
+{
+    id: "l_12492828__660587",
+    slug: "四合院：刘海中的进步之路",
+    title: "四合院：刘海中的进步之路",
+    cover: nocoverCover,
+    author: "红魔当兴",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-120章",
+    latestChapter: "第120章 杨翠兰领证结婚，崩溃的易中海›",
+    excerpt: "刘大海很蒙圈，自己还没好好享受退休生活怎么就穿越了，而且是穿越到了1961年的时候。不仅如此，老伴还给了自己一个噩耗，最疼爱的大儿子竟然刚结完婚就跑路了。幸好还有两个儿子，还激活了声望值系统。院里的禽兽还敢蹦跶，看刘海中怎么收拾众禽。且看刘",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492828__660587_四合院：刘海中的进步之路1-120章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492828_660587/",
+  },
+{
+    id: "l_12492836__660712",
+    slug: "我的美德没有上限！",
+    title: "我的美德没有上限！",
+    cover: nocoverCover,
+    author: "黑猫教徒",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-38章",
+    latestChapter: "第38章 银发少女不敢相信›",
+    excerpt: "“叔叔寄给了我一封信，让我回去继承我祖上的土地和财产，好耶，可以去星露谷种田钓鱼了……”“诶？！亡灵，猪人，蘑菇人，深潜者……这是哪门子的家产？！”……【坚定】、【无畏】、【专注】、【勇猛】、【振奋】“我永不妥协！““我们永不妥协！”……“",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492836__660712_我的美德没有上限！1-38章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492836_660712/",
+  },
+{
+    id: "l_12492844__660584",
+    slug: "[诡秘之主]邪神养成模拟器",
+    title: "[诡秘之主]邪神养成模拟器",
+    cover: nocoverCover,
+    author: "应是紫流云",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-56章",
+    latestChapter: "第56章 邪恶神明›",
+    excerpt: "某天，普通社畜周明瑞的手机上出现了一款游戏——《邪神模拟器》。想当然认为是自己不小心下载后，周明瑞在好奇心的驱使下点开了图标。经过简单的捏脸和新手教程后，他领取到了第一个主线任务：【伟大的、崇高的、仁慈的“愚者”，请您为自己寻找第一个信徒。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492844__660584_[诡秘之主]邪神养成模拟器1-56章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492844_660584/",
+  },
+{
+    id: "l_12492855__660697",
+    slug: "从努力修炼开始横推一切",
+    title: "从努力修炼开始横推一切",
+    cover: nocoverCover,
+    author: "乌鸦还是黑的好",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-43章",
+    latestChapter: "第43章 第三式腾展（求追读！）›",
+    excerpt: "大宋末年，王朝崩塌，山河破碎。诸侯割据，门派林立，帮派征伐不休，魔门暗处作乱，更兼天灾人祸，黎民流离失所，饿殍遍野。比人祸天灾更绝望的，是妖魔。世人习武求存，拳脚难伤妖躯，倾尽一门一派也不过是妖魔口中一餐。武道之路已走到尽头，天下苍生仰望苍",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492855__660697_从努力修炼开始横推一切1-43章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492855_660697/",
+  },
+{
+    id: "l_12492867__660638",
+    slug: "这个地下城的骷髅很凶",
+    title: "这个地下城的骷髅很凶",
+    cover: nocoverCover,
+    author: "天线大波",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-39章",
+    latestChapter: "第39章 骷髅怪不再坐以待毙›",
+    excerpt: "徐阳莫名其妙转生成了骷髅怪，在地下城帮无恶不作的魔王镇守大门。各种勇者小队常年不间断的讨伐魔王，徐阳的骨头作为勇者们的勇者之证撒遍了地下城每个角落。后来魔王决定给他加点担子，将骷髅怪外派到地下城里去，可一个老弱病残占了四个的骷髅怪怎么和魔物",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492867__660638_这个地下城的骷髅很凶1-39章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492867_660638/",
+  },
+{
+    id: "l_12492868__660718",
+    slug: "半岛：成了经纪人也要好好努力哦",
+    title: "半岛：成了经纪人也要好好努力哦",
+    cover: nocoverCover,
+    author: "我有真率陪伴",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-64章",
+    latestChapter: "第64章 商场偶遇大肥兔›",
+    excerpt: "起初，重回2021年的林白成为一名经纪人，拥有系统的他誓要将Aespa推上顶流，但她们一个胸无大志、一个心机、一个小透明、一个乐天派。决定摆正她们性格的林白发现，怎么越摆越歪了，而且往着不可控的方向而去。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492868__660718_半岛：成了经纪人也要好好努力哦1-64章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492868_660718/",
+  },
+{
+    id: "l_12492894__660559",
+    slug: "综网：从心之钢开始的武僧",
+    title: "综网：从心之钢开始的武僧",
+    cover: nocoverCover,
+    author: "柳分无一",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-177章",
+    latestChapter: "第177章 新形态解锁，俺寻思这能行›",
+    excerpt: "【无尽多元宇宙综合维度游戏网络平台连接中……（以下简称综网）】【当前版号为：命痕行者的无限旅途】【在该版本下开放特殊命痕体系，玩家可通过完成特定命运任务或突破自我来获得命痕】江诗受到了来自综网的青睐，光荣的转职成为了一名武僧，更是获得了无限",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492894__660559_综网：从心之钢开始的武僧1-177章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492894_660559/",
+  },
+{
+    id: "l_12492901__660732",
+    slug: "干了这瓶魔女药剂！",
+    title: "干了这瓶魔女药剂！",
+    cover: nocoverCover,
+    author: "紫微仙子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-174章",
+    latestChapter: "第173章 预言截止›",
+    excerpt: "作为异世界来客，艾莉丝可以适应人人避之不及的魔女药剂，每喝下一瓶，就获得一种凡人难以获得的魔女特性。“帝国正在围剿魔女？很可惜，当今女帝和我亲着呢！”赶来围剿的魔法师们感觉帝国的天黑了。就在众人绝望之际，天空中盘旋的金龙化作金瞳少女落到地面",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492901__660732_干了这瓶魔女药剂！1-174章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492901_660732/",
+  },
+{
+    id: "l_12492918__660685",
+    slug: "战锤：大叛乱前夕，我提前跑路",
+    title: "战锤：大叛乱前夕，我提前跑路",
+    cover: nocoverCover,
+    author: "一米六的我",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-33章",
+    excerpt: "土木牛马下班路上，为了救一个即将被大运创飞的小女孩，然后穿越来到了战锤。可是，穿越就穿越吧，毕竟他穿成了佩图拉博，一个原体，这开局怎么着也不算差了。就在佩图拉博正想着扭转原本那拧巴一生的时候，伊斯塔万三号已结束是什么意思?佩图拉博看着地表那",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492918__660685_战锤：大叛乱前夕，我提前跑路1-33章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492918_660685/",
+  },
+{
+    id: "l_12492936__660514",
+    slug: "七零，不要系统我独自涅槃重生",
+    title: "七零，不要系统我独自涅槃重生",
+    cover: nocoverCover,
+    author: "砖街20号",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-146章",
+    latestChapter: "第68章 老王太太要活不起了",
+    excerpt: "经历了九世轮回，王小芳次次被系统操控，最终落得家破人亡、错嫁渣男的下场。第十世她系统觉醒在黑省小河村，她决定撕烂系统绑定，绝不再做傀儡。极品亲戚要吸血？她手撕偏心老太太，踹开吸血鬼，守住自家家底；风灾要毁家？她提前备战，苫房储粮建挡风墙；渣",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492936__660514_七零，不要系统我独自涅槃重生1-146章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492936_660514/",
+  },
+{
+    id: "l_12492943__660562",
+    slug: "我的进度条可是能突破天际的呀！",
+    title: "我的进度条可是能突破天际的呀！",
+    cover: nocoverCover,
+    author: "有点一般般",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-184章",
+    latestChapter: "第184章 魔潮？还是好好挣扎吧›",
+    excerpt: "李泽很自豪，他是星联的骄傲，是最优秀的驾驶员之一，经过重重筛选，站在了宇宙的边界，替人类探索位置。可他发现，自己的副手突然叫自己是生化人，是工具。而他的对面，宇宙的边际则有一个神秘的雾洞，以及一位只身站立虚空的老人。而雾洞后面，似乎连通着全",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492943__660562_我的进度条可是能突破天际的呀！1-184章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492943_660562/",
+  },
+{
+    id: "l_12492967__660688",
+    slug: "和我的光速拳说去吧",
+    title: "和我的光速拳说去吧",
+    cover: nocoverCover,
+    author: "我不是驴子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-59章",
+    excerpt: "妖怪？神明？恶魔？仙人？灭世之灾？什么魑魅魍魉，和我的光速拳说去吧！二手穿越者徐泉在穿越成圣斗士又在神战中变成炮灰死去，才发现自己再次穿越到了另一个陌生又熟悉的世界。自此，光速拳开始闪烁在诸天万界之中。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492967__660688_和我的光速拳说去吧1-59章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492967_660688/",
+  },
+{
+    id: "l_12492984__660513",
+    slug: "流放荒星？恶雌被五个凶兽娇宠",
+    title: "流放荒星？恶雌被五个凶兽娇宠",
+    cover: nocoverCover,
+    author: "咬一口胖橘橘",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-86章",
+    excerpt: "苏梨穿成了星际最惨的炮灰。没有精神力，被养妹算计丢进原始星，给五个凶兽当补偿雌性？原主动辄打骂羞辱兽夫们，不仅把人鱼兽夫丢进鳄鱼群当诱饵，甚至要活烤了蛇兽当晚饭，成功把自己作死苏梨睁眼，就是几大巨兽围着她拱的画面更要命的是，蛇兽夫真被烤了，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492984__660513_流放荒星？恶雌被五个凶兽娇宠1-86章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492984_660513/",
+  },
+{
+    id: "l_12492999__660694",
+    slug: "镇妖模拟器",
+    title: "镇妖模拟器",
+    cover: nocoverCover,
+    author: "风筝在哪",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-17章",
+    latestChapter: "第7章 账要算完›",
+    excerpt: "穿越成镇妖校尉，顾城开局就被挂在房梁上。原身胆小如鼠，勾结黑风山妖怪，每月送银送粮送死囚，只为保自己一条命。如今朝廷巡查使将至，事败在即，原身直接上吊了事。顾城刚睁眼，就成了勾结妖魔的铁案主犯——剥皮抽筋、挫骨扬灰的那种。好消息是，他觉醒了",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12492999__660694_镇妖模拟器1-17章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12492999_660694/",
+  },
+{
+    id: "l_12493000__660518",
+    slug: "重生嫁瘸王？系统逼我疯狂攒经验值",
+    title: "重生嫁瘸王？系统逼我疯狂攒经验值",
+    cover: nocoverCover,
+    author: "芫华",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-118章",
+    latestChapter: "第118章 前往镜湖›",
+    excerpt: "沈知宁前世错信渣男，落得白绫魂归虚无。再睁眼，竟重回过去，一切悲剧未发生时。叮！金钥匙系统绑定。她疯狂做任务、攒经验只为回现代。庶妹伪善？撕！渣男荣王？拒！为避免重蹈覆辙，她放弃荣华婚约，反手求嫁瘸腿落魄王爷。揭开盖头，男人扣住她手腕低笑：",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12493000__660518_重生嫁瘸王？系统逼我疯狂攒经验值1-118章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12493000_660518/",
+  },
+{
+    id: "l_12493005__660598",
+    slug: "凡人：我的物品有升级面板",
+    title: "凡人：我的物品有升级面板",
+    cover: nocoverCover,
+    author: "一百次化神",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-147章",
+    excerpt: "李安澜穿越凡人修仙传世界，觉醒了升级万物的金手指。【物品：黄龙丹（可升级）】【升级效果：药效提升四倍】【升级条件：下品灵石一枚，草木灰五十斤】李安澜：“系统，让我看看你的极限！”下品法器→极品法器→法宝→通天灵宝......",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12493005__660598_凡人：我的物品有升级面板1-147章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12493005_660598/",
+  },
+{
+    id: "l_12493021__660599",
+    slug: "穿越曹彰：从截胡甄宓开始夺嫡",
+    title: "穿越曹彰：从截胡甄宓开始夺嫡",
+    cover: nocoverCover,
+    author: "堕落的狼崽",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-65章",
+    excerpt: "穿越成曹彰，进入邺城，从截胡甄宓开始夺嫡。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12493021__660599_穿越曹彰：从截胡甄宓开始夺嫡1-65章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12493021_660599/",
+  },
+{
+    id: "l_12493052__660581",
+    slug: "1900：学霸的物理大一统之路",
+    title: "1900：学霸的物理大一统之路",
+    cover: nocoverCover,
+    author: "寒木2017",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-181章",
+    excerpt: "1900年，上海租界河南路苏家降生一子苏衡。八岁便展露出惊世的数理天赋，苦读中国古数典籍与泰西算学。清廷飘摇，洋学垄断，欧美物理界群星璀璨，爱因斯坦、玻尔名动天下。少年自十里洋场启程，远赴欧洲深造，拜师洛伦兹，以数学为基石深耕物理。最终独创",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12493052__660581_1900：学霸的物理大一统之路1-181章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12493052_660581/",
+  },
+{
+    id: "l_12495376__5291",
+    slug: "网游之王者再战",
+    title: "网游之王者再战",
+    cover: nocoverCover,
+    author: "遗忘之志",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2785章",
+    excerpt: "昔日王者，如今野人，三年空白，落伍他人甚多，却无法掩埋自身本有的光与热，游戏内外，等待他重返荣耀，找回曾属自己的游戏坦途。昔日少爷，如今村夫，三年遁走，埋没多少尘事，却无法摆脱自身应有的缘与命，漫漫人生，等待他重新站起，突破束缚自己的万千桎",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12495376__5291_网游之王者再战1-2785章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12495376_5291/",
+  },
+{
+    id: "l_12558351__660826",
+    slug: "大周世祖",
+    title: "大周世祖",
+    cover: nocoverCover,
+    author: "马口铁",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-26章",
+    excerpt: "残唐坠绪，奸谋炽、萧墙祸结。枭雄伺、九重虚位，篡谋频迭。扫尽赵宋孱弱弊，荡清寰宇滔天孽。驭雷霆、策马入京华，补天阙。临宸极，通天彻。修王道，除灾劫。振中原浩气，千秋雄烈。光复燕云销虏患，廓清四海烽烟绝。自今朝、五代罢干戈，风威冽。故事要从乾",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12558351__660826_大周世祖1-26章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12558351_660826/",
+  },
+{
+    id: "l_12558448__660909",
+    slug: "凡人：我真不是韩老魔",
+    title: "凡人：我真不是韩老魔",
+    cover: nocoverCover,
+    author: "法师邓九公",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-61章",
+    excerpt: "韩立结婴，举世皆惊！看着韩立结婴成为韩天尊，躲在落云宗修炼的了二百多年的王渊笑开了花。王渊：终于可以解锁新副本了。韩老魔，你知道我这些年是怎么过的么？你知道么？就在王渊幻想美好未来的时候，一大群女修冲到了落云宗。其中还有元婴女修士。看到如此",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12558448__660909_凡人：我真不是韩老魔1-61章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12558448_660909/",
+  },
+{
+    id: "l_12558475__660754",
+    slug: "同时穿越，打造人设弄假成真！",
+    title: "同时穿越，打造人设弄假成真！",
+    cover: nocoverCover,
+    author: "啊噗噜的苹果",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-183章",
+    latestChapter: "第183章 无天无地之所（4k）›",
+    excerpt: "贾修和无数个自己同时穿越。共享特性、共享记忆，甚至是……共享人气。他同时穿越到的无数世界，竟然都是尚未播出，或是正在播出的番剧世界，而观众们对他的关注，都能转化为人气！只要拥有足够的人气，就能兑换永久的、观众认为他拥有的能力！时间暂停、空间",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12558475__660754_同时穿越，打造人设弄假成真！1-183章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12558475_660754/",
+  },
+{
+    id: "l_12558486__660931",
+    slug: "东京：我的问题来自身边的少女",
+    title: "东京：我的问题来自身边的少女",
+    cover: nocoverCover,
+    author: "大苟大苟",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-126章",
+    latestChapter: "第125章 新学期的换座位，是上天制造心动的距离›",
+    excerpt: "【校园恋爱】【微重力】【轻胃疼】清水莲原本以为糟糕的日子会一直持续下去。却没想到坚持了十年学期第一后，生活迎来了转机。只要正确回答系统的问题，就能获得奖励！果然，我的青春恋爱物语一定有问题。等等，怎么是这个问题？【提问：小池千穗今天的**是",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12558486__660931_东京：我的问题来自身边的少女1-126章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12558486_660931/",
+  },
+{
+    id: "l_12558556__660839",
+    slug: "从修仙游戏开始高武成神",
+    title: "从修仙游戏开始高武成神",
+    cover: nocoverCover,
+    author: "吃不饱的雀",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-198章",
+    latestChapter: "第198章 太初宇宙›",
+    excerpt: "本书又名：《从杀蟑螂开始证道无敌》《高武后宫日常》《高武的我实在太稳健了》《一天一门功法圆满》《我有一座白玉京》「高位截瘫写作不易，老板们点进来看看吧～」……高武世界的许浪得到一个修仙游戏系统。【蟑螂怪已入侵村庄，肆意糟蹋食物，伤害百姓，请",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_12558556__660839_从修仙游戏开始高武成神1-198章.txt",
+    sourceUrl: "https://m.libahao2.com/book/12558556_660839/",
+  },
+{
+    id: "l_13085266__28047",
+    slug: "抗战：重整山河",
+    title: "抗战：重整山河",
+    cover: nocoverCover,
+    author: "长风",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-799章",
+    excerpt: "退役特战兵王罗四海，意外回到淞沪会战的战场上，结识一群志同道合的伙伴儿，组建山河特战小队，杀日寇，救黎民，转战大半个中国，成为日寇闻风丧胆的罗阎王。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_13085266__28047_抗战：重整山河1-799章.txt",
+    sourceUrl: "https://m.libahao2.com/book/13085266_28047/",
+  },
+{
+    id: "l_13412895__26203",
+    slug: "三国争霸之乱世召唤",
+    title: "三国争霸之乱世召唤",
+    cover: nocoverCover,
+    author: "哥舒不带刀",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1746章",
+    excerpt: "刘章穿越到三国时期成为刘璋，却发现这个三国有些不一样！猛将辈出，秘籍功法，神仙乱斗。吕布的单手十八挑，一戟挑天下！项羽的霸王十三式，一戟霸万古！赵云的百鸟朝凤枪，一枪定乾坤！……手握神战召唤系统的刘璋，在风云乱世，看群雄逐鹿！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_13412895__26203_三国争霸之乱世召唤1-1746章.txt",
+    sourceUrl: "https://m.libahao2.com/book/13412895_26203/",
+  },
+{
+    id: "l_13740727__31697",
+    slug: "陆逢时",
+    title: "陆逢时",
+    cover: nocoverCover,
+    author: "悠然南菊",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1014章",
+    latestChapter: "第1014章 废物›",
+    excerpt: "一睁眼，顶级风水师陆逢时，成了北宋山沟里声名狼藉的“陆逢时”——一个刚被私奔姘头砸死的肥妇！额角染血，渣男狞笑犹在耳：“肥猪！图你钱罢了！”银簪封喉，夺财索命！雷霆手段，先送豺狼见阎罗！然生机之下，杀机四伏：冷面举人夫君目光如刃，刺探她骤变",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_13740727__31697_陆逢时1-1014章.txt",
+    sourceUrl: "https://m.libahao2.com/book/13740727_31697/",
+  },
+{
+    id: "l_14658613__423417",
+    slug: "综漫：从精灵世界开始无敌",
+    title: "综漫：从精灵世界开始无敌",
+    cover: nocoverCover,
+    author: "假期就在家",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-894章",
+    excerpt: "“你是说，你看到小智一拳打碎了收藏家的飞船？”“是的。”“你是说，小智举着肯泰罗说着：创死它！肯泰罗！就把比夏斯的机甲给破坏了？”“没错。”“你是说，你看到小智把巨大大岩蛇当武器用把对面的宝可梦猎人飞行器全打下来了？”“肯定啊。”第二天，在",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_14658613__423417_综漫：从精灵世界开始无敌1-894章.txt",
+    sourceUrl: "https://m.libahao2.com/book/14658613_423417/",
+  },
+{
+    id: "l_15836120__613159",
+    slug: "维度魔神成长日记，从龙族开始",
+    title: "维度魔神成长日记，从龙族开始",
+    cover: nocoverCover,
+    author: "一只路过的屑狐狸",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-440章",
+    excerpt: "人在无边混沌，刚成维度魔神。单体起步，上限无限多元的顶级强者，本以为可以过上不吃牛肉的生活，但是一回神发现自身居然维度空间只有一乘一乘一里立方米。可怜，弱小，又无助。看着自身狭小的维度空间，为了不被某位路过的强者一把抓住，顷刻炼化，叶云毅然",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_15836120__613159_维度魔神成长日记，从龙族开始1-440章.txt",
+    sourceUrl: "https://m.libahao2.com/book/15836120_613159/",
+  },
+{
+    id: "l_15968834__22926",
+    slug: "重生2005，从做软件开始",
+    title: "重生2005，从做软件开始",
+    cover: nocoverCover,
+    author: "星雨满天",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-711章",
+    latestChapter: "第590章 春节，领证！不，风险管理（6.2K）›",
+    excerpt: "乘坐飞机度假，坏消息飞机摔了；好消息，李行远重生了，还是2005年。重生回2005，李行远决定先拉人入伙，把自己团队组建起来，李行远顺势把搞得小游戏网站卖了，买家是渣浪，李行远数着钱看着新闻吃瓜，这年盛达VS渣浪大战正酣，这年珊瑚虫QQ刚刚",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_15968834__22926_重生2005，从做软件开始1-711章.txt",
+    sourceUrl: "https://m.libahao2.com/book/15968834_22926/",
+  },
+{
+    id: "l_3254967__39889",
+    slug: "武侠：开局获得神照经",
+    title: "武侠：开局获得神照经",
+    cover: nocoverCover,
+    author: "纸上声音",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-256章",
+    latestChapter: "第253章 华山之巅›",
+    excerpt: "我叫陈休，刚刚穿越到连城诀世界，获得了神照经，还遇见一个如水一般的女孩……这一年，江湖上腥风血雨，让人难以忘怀。“连城诀”名动江湖，武林之中人人争夺；血刀门欺男霸女，恶行罄竹难书；万震山深夜砌墙，为夺剑谱同门相残。神照功、血刀经、太极剑、连",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_3254967__39889_武侠：开局获得神照经1-256章.txt",
+    sourceUrl: "https://m.libahao2.com/book/3254967_39889/",
+  },
+{
+    id: "l_3777267__562069",
+    slug: "1979：文豪的悠闲人生",
+    title: "1979：文豪的悠闲人生",
+    cover: nocoverCover,
+    author: "三分糖去冰",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-539章",
+    latestChapter: "第539章 聊›",
+    excerpt: "重活一次，陈卫东看着刚出生的儿子，三岁的女儿。还有那个熟悉而又陌生的小村庄，只是他已经不是年轻时候的他了。混账了半辈子，这回他想好好来过。上辈子没出息，这辈子他只想挽回遗憾，给闺女做一个好榜样，让儿子娶一个贤惠媳妇，让一家子平安喜乐就好。为",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_3777267__562069_1979：文豪的悠闲人生1-539章.txt",
+    sourceUrl: "https://m.libahao2.com/book/3777267_562069/",
+  },
+{
+    id: "l_3779267__37782",
+    slug: "斗罗：无我法相！无法无天！",
+    title: "斗罗：无我法相！无法无天！",
+    cover: nocoverCover,
+    author: "七月浮明",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-849章",
+    excerpt: "（龙王传说）分身＋整活主角的本命神通就是无我法相，分身我倾向于塑造，并不是夺舍。魂兽与人类之间最后的反扑，深渊与斗罗位面的决战，成神之路就在眼前，那么潜伏吧，游离于世界之中，化作命运，化作因果之主，主宰这片世间吧！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_3779267__37782_斗罗：无我法相！无法无天！1-849章.txt",
+    sourceUrl: "https://m.libahao2.com/book/3779267_37782/",
+  },
+{
+    id: "l_4170428__562529",
+    slug: "收徒就变强，我靠弟子证道无敌",
+    title: "收徒就变强，我靠弟子证道无敌",
+    cover: nocoverCover,
+    author: "错落曾经",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-460章",
+    excerpt: "别人穿越，不是仙帝重生就是系统傍身。我陈平穿越，成了青云宗最废峰主，修为不如杂役，寿元将尽。好不容易激活【师徒系统】，却被告知：收不到徒弟就解绑等死！收徒大典上，我散尽家财，只等来一个人人避之不及的“天厌之体”少女。全宗笑我：破罐子破摔，师",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4170428__562529_收徒就变强，我靠弟子证道无敌1-460章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4170428_562529/",
+  },
+{
+    id: "l_4172495__38230",
+    slug: "满门忠烈，诬陷我造反？",
+    title: "满门忠烈，诬陷我造反？",
+    cover: nocoverCover,
+    author: "巴里巴里胡",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-67章",
+    excerpt: "“天日昭昭！天日昭昭！”九州大陆，烽火不休。瀛洲一朝，累世将门，当代战神岳昊，遭奸臣构陷，被当朝皇帝以莫须有罪名下狱，含冤而死。其独自岳曌，得后世人穿越附身，觉醒将星轮盘，可召唤华夏上下五千年之文臣猛将，为报父仇，掀起造反大旗。收大军，灭王",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4172495__38230_满门忠烈，诬陷我造反？1-67章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4172495_38230/",
+  },
+{
+    id: "l_4172520__38180",
+    slug: "魔女1999",
+    title: "魔女1999",
+    cover: nocoverCover,
+    author: "铁血喵嗷",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-624章",
+    latestChapter: "第625章 震！撼！小！梅！›",
+    excerpt: "1999年，我的家乡被伟大魔女议会与世界魔女协会联合评为年度最佳殖民地、年度最有入侵价值异世界。我对此做了一些微小贡献——例如将家乡坐标卖给了魔女。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4172520__38180_魔女19991-624章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4172520_38180/",
+  },
+{
+    id: "l_4301677__650108",
+    slug: "港综：从僵约开始成仙",
+    title: "港综：从僵约开始成仙",
+    cover: nocoverCover,
+    author: "十号大风球",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-410章",
+    latestChapter: "第411章 婚帖已达›",
+    excerpt: "梦醒港岛，何文杰发现自己是僵约世界何应求的远房侄子。在这个混乱，灵异事件层出不穷的时代，为求自保，何文杰主动修道，历红尘、扫不平。陨石之夜，启德机场，何文杰踏空而行，对长得像阿乐的僵尸王将臣，道：你什么时候产生了我打不过你的错觉？",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4301677__650108_港综：从僵约开始成仙1-410章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4301677_650108/",
+  },
+{
+    id: "l_4563777__651198",
+    slug: "从盗版商开始统治华娱",
+    title: "从盗版商开始统治华娱",
+    cover: nocoverCover,
+    author: "无忧森林",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-410章",
+    latestChapter: "第410章 华谊上市即破百亿 券商蜂拥香饽饽天道›",
+    excerpt: "【华娱、重生、恋爱、中美影视与互联网商战、多女主。】姬云是业内有口皆碑的执行副导演，却苦于没有资本支持，始终拿不到独立执导的机会出头。一场车祸，让他重回风起云涌的2008年。这一年，他本还是个大一新生，却因接手家里即将倒闭的盗版碟公司，忙得",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4563777__651198_从盗版商开始统治华娱1-410章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4563777_651198/",
+  },
+{
+    id: "l_4563874__651136",
+    slug: "修仙学院恶毒女配？众天骄跪求宠",
+    title: "修仙学院恶毒女配？众天骄跪求宠",
+    cover: nocoverCover,
+    author: "昭月翎",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-312章",
+    latestChapter: "第312章 回春阵›",
+    excerpt: "【雄竞修罗场+修仙学院+男主全洁】猝死后，苏云窈穿进了一本修仙学院文里，系统说要她出演一下恶毒女配，怎么恶毒怎么来，只要不死，杀青时就可以领三个亿和重生奖励。苏云窈喜上眉梢答应了。可惜男主们又帅又强，女主却还是三推四拒。苏云窈忍不住吐槽，死",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4563874__651136_修仙学院恶毒女配？众天骄跪求宠1-312章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4563874_651136/",
+  },
+{
+    id: "l_4563906__651142",
+    slug: "人在华娱，快乐修仙",
+    title: "人在华娱，快乐修仙",
+    cover: nocoverCover,
+    author: "我想要有一个庄园",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-263章",
+    latestChapter: "第263章 三角绯闻，浪子人设升级›",
+    excerpt: "获得了上古末法时期合欢宗修仙功法的林子轩重新回到了2006年，在娱乐圈搅动风云。合欢宗至高功法合欢问仙诀，在无灵时代，可以吸收芸芸众生的情绪力量代替灵气进行修炼，成为明星，获得人气可以用来修炼，也可以吸收女明星的人气进行修炼。为了修仙大业，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4563906__651142_人在华娱，快乐修仙1-263章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4563906_651142/",
+  },
+{
+    id: "l_4629271__650459",
+    slug: "影视：我的外挂是AI",
+    title: "影视：我的外挂是AI",
+    cover: nocoverCover,
+    author: "Sky锦衣",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-236章",
+    latestChapter: "第62章",
+    excerpt: "意外激活了豆包，没想到人却在异世界，还是重案六组的世界里。（进行中:重案六组）（未来：心术、白夜追凶，白夜破晓，欢乐颂，三十而已，流金岁月，精英律师，小欢喜，家有儿女，一代宗师，小巷人家，凡人歌，南来北往…………排名不分先后。）",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4629271__650459_影视：我的外挂是AI1-236章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4629271_650459/",
+  },
+{
+    id: "l_4694823__650712",
+    slug: "火影：我鸣人开局获得轮回眼",
+    title: "火影：我鸣人开局获得轮回眼",
+    cover: nocoverCover,
+    author: "想要钱钱的旅行者",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-330章",
+    excerpt: "穿越到木叶，成为漩涡鸣人，开启轮回眼。鸣人不愿重走老路。火影?谁爱当谁当，反正我不当。忍界?谁爱拯救谁拯救，反正我不拯救。你们走你们的阳关道，我过我的独木桥。别来打扰我!",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_4694823__650712_火影：我鸣人开局获得轮回眼1-330章.txt",
+    sourceUrl: "https://m.libahao2.com/book/4694823_650712/",
+  },
+{
+    id: "l_5088073__649022",
+    slug: "大明第一刀",
+    title: "大明第一刀",
+    cover: nocoverCover,
+    author: "冬郎的春天",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-533章",
+    latestChapter: "第532章 爹，不孝子来看你来了›",
+    excerpt: "开局推着老爹的尸体跳进凤阳万人坑，万长发硬生生从死人堆里爬了出来，成了应天府最疯的野郎中！太子妃难产，一尸两命？他当场怒怼废物太医：“别给老子讲什么狗屁的男女大妨！谁不是女人生的？！”他一把手术刀当众剖腹取子！诊费黄金一万两老朱牙疼——给你",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5088073__649022_大明第一刀1-533章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5088073_649022/",
+  },
+{
+    id: "l_5088155__648979",
+    slug: "E级向导，却要驯服七位顶级哨兵",
+    title: "E级向导，却要驯服七位顶级哨兵",
+    cover: nocoverCover,
+    author: "戌元初一",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-427章",
+    excerpt: "【星际向哨+多男主1VN+修罗场+剧情向+逆袭成长+极致偏爱】云茉刚穿越星际向哨世界，就被迫以E级向导身份去安抚一个ss级狂暴哨兵，没想到她竟然成功安抚了他的精神暴乱，还获得了他的冰系异能什么？一个向导居然能绑定标记哨兵获得他们的攻击异能！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5088155__648979_E级向导，却要驯服七位顶级哨兵1-427章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5088155_648979/",
+  },
+{
+    id: "l_5284614__654026",
+    slug: "让你支教，你带出大夏神级冠军？",
+    title: "让你支教，你带出大夏神级冠军？",
+    cover: nocoverCover,
+    author: "乐不器",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-446章",
+    excerpt: "【幕后推手】【草根逆袭】【暴爽打脸】【爱国热血】大夏国羽全线崩溃，全网跪求神秘大魔王教练出山救主！此时，神秘教练苏寒正蹲在西南深山里，为系统的硬性规定发愁。系统提示：必须“真心教学”才能触发高倍暴击！这导致他被迫当上了男妈妈！【日常特训】苏",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5284614__654026_让你支教，你带出大夏神级冠军？1-446章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5284614_654026/",
+  },
+{
+    id: "l_5284762__653827",
+    slug: "坠入白垩纪",
+    title: "坠入白垩纪",
+    cover: nocoverCover,
+    author: "背剑诗人",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-236章",
+    latestChapter: "第236章 是生物枪›",
+    excerpt: "飞机失事在白垩纪。我是一个求生博主，必须一定带着83人活下去。好消息：我是古生物学出身。坏消息：我那些荒野求生视频全是演的。篝火是打火机点的。溪里的鱼是放的。庇护所是团队弄的……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5284762__653827_坠入白垩纪1-236章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5284762_653827/",
+  },
+{
+    id: "l_5350381__654196",
+    slug: "重生八零：从破草棚到蔬菜女王",
+    title: "重生八零：从破草棚到蔬菜女王",
+    cover: nocoverCover,
+    author: "晴晚儿",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-459章",
+    excerpt: "前世周静为争一口气，客死他乡，睁眼重生回到八十年代，爹娘年轻，两个妹妹还没有被自己拖累，她决定好好守护这个家。奶奶偏心，小叔贪婪，周静淘到第一桶金后，直接和他们断亲，带着全家人离开。从零售到批发，她的蔬菜运输公司逐渐成为市里纳税大户。断亲的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5350381__654196_重生八零：从破草棚到蔬菜女王1-459章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5350381_654196/",
+  },
+{
+    id: "l_5415805__653437",
+    slug: "斗罗：魂技抽象，唐三见面就跪",
+    title: "斗罗：魂技抽象，唐三见面就跪",
+    cover: nocoverCover,
+    author: "玩什么飞机",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-240章",
+    latestChapter: "第240章 ：瞅你咋滴！›",
+    excerpt: "【虐三，虐刚子，虐耗子，多女主】苏辰穿越斗罗觉醒抽象系统，获得武魂规则之心，解锁因果规则类魂技。第一魂技：百分百被空手接白刃，一剑出，唐三跪。第二魂技：有难同当：受到伤害转到小瘪三身上。第三魂技：无敌的BGM中我是无敌的存在：（小瘪三，没吃",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5415805__653437_斗罗：魂技抽象，唐三见面就跪1-240章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5415805_653437/",
+  },
+{
+    id: "l_5481434__653575",
+    slug: "从衔尾蛇石碑开始超凡",
+    title: "从衔尾蛇石碑开始超凡",
+    cover: nocoverCover,
+    author: "深红月",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-479章",
+    latestChapter: "第479章 肉身磁场三十六万匹›",
+    excerpt: "“生而为人，便当知人是有极限的。”“想要获得无上的力量，就要学会舍弃。”“舍弃你生而为人的枷锁。”林野获得一面衔尾蛇石碑，其名‘丰碑’。自此连通神秘的阴域，解锁丰碑成就，以无尽潜能点进化超凡。“丰碑！给我加点！”——【触发成就：黑山羊的诞生",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5481434__653575_从衔尾蛇石碑开始超凡1-479章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5481434_653575/",
+  },
+{
+    id: "l_5546816__655022",
+    slug: "从梦华录开始的诸天",
+    title: "从梦华录开始的诸天",
+    cover: nocoverCover,
+    author: "鹤游百湖",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-239章",
+    latestChapter: "第239章 攻占银矿›",
+    excerpt: "一朝梦醒，发现自己成了皇子，而且还是皇帝唯一的儿子，本以为是天胡开局，结果后来他发现这里竟然是北宋，他的名字叫赵受益，也就是日后大名鼎鼎的傀儡皇帝赵祯。就在他一门心思想着，怎么摆脱傀儡命运的时候，他听到了几个似是而非的名字，赵盼儿，张好好，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546816__655022_从梦华录开始的诸天1-239章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546816_655022/",
+  },
+{
+    id: "l_5546836__655087",
+    slug: "神话武装：从天兵开始",
+    title: "神话武装：从天兵开始",
+    cover: nocoverCover,
+    author: "司晨啼晓",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-346章",
+    latestChapter: "第346章 天狼战法›",
+    excerpt: "神裔大陆，一个以神话力量强化自身，召唤神话武装的世界。陆松穿越而来，觉醒力量系神心，并与力之魔神盘古缔结初心契约。只是，力量系神明在这个世界的“风评”似乎不太行，各种规则系、机制系神明才是王道。什么？力、体、敏三系被称为吉祥三宝？到后期只配",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546836__655087_神话武装：从天兵开始1-346章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546836_655087/",
+  },
+{
+    id: "l_5546859__654876",
+    slug: "大明：重生朱标，朱元璋哭了",
+    title: "大明：重生朱标，朱元璋哭了",
+    cover: nocoverCover,
+    author: "墨守白",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-147章",
+    excerpt: "洪武二十五年太子朱标去世，下葬三日封陵之后，雷击太子陵，朱元璋悲痛欲绝。同一时间，距离太子陵约两百里处，一人在雷雨夜睁开了眼，正是去世的朱标！只不过穿越而来的朱达，并没有继承朱标的记忆，只以为自己穿越的是一个南下的灾民。随灾民安置在应天城北",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546859__654876_大明：重生朱标，朱元璋哭了1-147章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546859_654876/",
+  },
+{
+    id: "l_5546862__654924",
+    slug: "今天打兄弟篮球了吗？",
+    title: "今天打兄弟篮球了吗？",
+    cover: nocoverCover,
+    author: "醉枕书眠",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-220章",
+    latestChapter: "第220章 乔是我兄弟！›",
+    excerpt: "又名：《真正的兄弟篮球》、《舍友篮球》、《从克里斯-韦伯模板开始》……从维拉诺瓦的板凳末端，到纽约麦迪逊广场花园的中心。乔川、布伦森、布里奇斯、哈特、迪文琴佐。五个人从各奔前程到重逢、从经历失败到统治联盟！有人问他们成功的秘诀是什么，乔川想",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546862__654924_今天打兄弟篮球了吗？1-220章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546862_654924/",
+  },
+{
+    id: "l_5546907__654867",
+    slug: "原始文明：从死而复生到建国称王",
+    title: "原始文明：从死而复生到建国称王",
+    cover: nocoverCover,
+    author: "老周小王",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-258章",
+    latestChapter: "第106章 河西发展之路›",
+    excerpt: "何自刚从未想过，救人牺牲后的“奖励”，是被扔进茹毛饮血的原始部落。一睁眼，他成了部落里被猎手们抬回的“死者”，一个没有任何血缘庇佑的活死人。蛮荒大地，猛兽环伺，邻族相食。面对的不是英雄的欢呼，而是比野兽更凶残的生存绝境。但他带来了五千年的文",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546907__654867_原始文明：从死而复生到建国称王1-258章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546907_654867/",
+  },
+{
+    id: "l_5546909__654963",
+    slug: "没说写小说也会死人啊",
+    title: "没说写小说也会死人啊",
+    cover: nocoverCover,
+    author: "若是花开伴叶",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-143章",
+    latestChapter: "第123章 引发讨论。",
+    excerpt: "穿越到一个历史文明被掠夺遗失的未来世界后，休文准备继续老本行，以写小说为生，但没人告诉她，写小说也会有生命危险啊！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546909__654963_没说写小说也会死人啊1-143章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546909_654963/",
+  },
+{
+    id: "l_5546912__655008",
+    slug: "诸天影视：从玫瑰的故事开始",
+    title: "诸天影视：从玫瑰的故事开始",
+    cover: nocoverCover,
+    author: "快乐二哥啊",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-185章",
+    latestChapter: "第79章 凡人歌完结›",
+    excerpt: "陈阳意外穿越，每个世界都可以觉醒专属词条。第一个世界：玫瑰的故事...........................不是...系统！这【渣男】词条是什么鬼啊？...........................陈阳开局抽取渣男词条，周旋",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546912__655008_诸天影视：从玫瑰的故事开始1-185章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546912_655008/",
+  },
+{
+    id: "l_5546942__654913",
+    slug: "CS：什么叫成为嘉豪就乱杀？",
+    title: "CS：什么叫成为嘉豪就乱杀？",
+    cover: nocoverCover,
+    author: "爱开小差",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-208章",
+    latestChapter: "第208章 正常人真有那么打比赛的吗？›",
+    excerpt: "曾誉为CNCS史上最豪之人在率队杀入传奇组的第二年因为手伤缘故无力支撑那以极致个人能力著称的打法而被迫转洲。突然有一天万凯钊一觉睡醒，忽然发现自己来到了2024年，变成了一支名为LVG的中国CS战队替补。除了CS的游戏内容之外。那些过去万凯",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546942__654913_CS：什么叫成为嘉豪就乱杀？1-208章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546942_654913/",
+  },
+{
+    id: "l_5546958__654918",
+    slug: "外神入侵，统统塞进装备栏",
+    title: "外神入侵，统统塞进装备栏",
+    cover: nocoverCover,
+    author: "躺赢一直爽",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-246章",
+    excerpt: "[万物皆可装备]+[装备栏]+[数值怪]+[外神]+[全民勇者]装备栏+物品=极品装备装备栏+书籍（笔记）=记忆碎片（技能或者勇者异能）装备栏+魔物遗骸=魔物属性能力加持装备栏+外神器官=???装备栏+一颗星球=……肖恩死死盯住了面前那入侵",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5546958__654918_外神入侵，统统塞进装备栏1-246章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5546958_654918/",
+  },
+{
+    id: "l_5612297__655162",
+    slug: "火影：我的强大源于你的想象",
+    title: "火影：我的强大源于你的想象",
+    cover: nocoverCover,
+    author: "在很久以后",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-211章",
+    latestChapter: "第211章 选择复活的千手扉间›",
+    excerpt: "左眼：聚灵，聚灵瞳术，能够将他人对自身的想象，印象吸收，凝聚，形成一个个词条。右眼：灵格固化，灵格固化瞳术，能够将左眼聚灵瞳术凝聚的词条固化，成为真正的可以使用的词条。宇智波诚来到火影世界，在发现在过几个月，就要死在宇智波鼬手中后，在巨大的",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5612297__655162_火影：我的强大源于你的想象1-211章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5612297_655162/",
+  },
+{
+    id: "l_5612441__655155",
+    slug: "妖尾：开局俘获魔人米拉杰",
+    title: "妖尾：开局俘获魔人米拉杰",
+    cover: nocoverCover,
+    author: "墨守不成呱",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-220章",
+    latestChapter: "第220章 约瑟：如果连我都倒下了，还有谁能阻止邪恶的妖精的尾巴？！›",
+    excerpt: "伊格穿越了，但是伊格一点不慌……因为和他一起穿越的，还有一个用来召唤恶魔的魔法阵，以及可以无限契约《电锯人》世界观恶魔的系统。伊格自认为自己可以靠着无限契约恶魔的优势，在电锯人的世界之中称王称霸，直至他被一位白发少女捡回家，那位白发少女名为",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5612441__655155_妖尾：开局俘获魔人米拉杰1-220章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5612441_655155/",
+  },
+{
+    id: "l_5678001__654513",
+    slug: "苟在魔门修炼，从种药养兽开始",
+    title: "苟在魔门修炼，从种药养兽开始",
+    cover: nocoverCover,
+    author: "宅家的企鹅",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-434章",
+    latestChapter: "第434章 残骸›",
+    excerpt: "李寒夜穿越修真界，本想问鼎天下寻长生，却被酒鬼父亲卖入魔门换取酒钱。一夜，一位神秘老者往他脑袋里塞了一座白玉楼…",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5678001__654513_苟在魔门修炼，从种药养兽开始1-434章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5678001_654513/",
+  },
+{
+    id: "l_5678010__654337",
+    slug: "什么叫人类邪神加入了聊天群？",
+    title: "什么叫人类邪神加入了聊天群？",
+    cover: nocoverCover,
+    author: "吾寄日月与卿等",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-259章",
+    latestChapter: "第259章 ：混沌之火，造化与毁灭的力量……›",
+    excerpt: "穿越灵笼世界，陈圣好不容易凭借金手指干出一番事业。可奈何末日世界人员稀少，生命成长上限锁死。就在他为此头疼，不知要如何抉择与加快自身文明进程之时。一个穿越者聊天群忽然出现在了眼前。神话世界穿越者：“大佬们救命啊，我刚穿越就被众神发现了！”战",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5678010__654337_什么叫人类邪神加入了聊天群？1-259章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5678010_654337/",
+  },
+{
+    id: "l_5678014__654401",
+    slug: "从拐走绘梨衣开始成为拦路人",
+    title: "从拐走绘梨衣开始成为拦路人",
+    cover: nocoverCover,
+    author: "未闻龙名",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-247章",
+    latestChapter: "第247章 笼罩全城的【黑域】›",
+    excerpt: "濒死之际，被天启乐园丢到龙族，偶遇绘梨衣。觉醒天赋【拦路人】。绘梨衣：“你也要过马路吗？”关洛：“不，我拦路。”看着天赋面板上“阻止绘梨衣回家”，然后瞅瞅眼前这个能用“审判”把自己切成碎片的女孩。关洛决定，为了天赋觉醒任务，先赌上一把。拦住",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5678014__654401_从拐走绘梨衣开始成为拦路人1-247章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5678014_654401/",
+  },
+{
+    id: "l_5678035__654487",
+    slug: "巫师：从狼学派猎魔人开始肝经验",
+    title: "巫师：从狼学派猎魔人开始肝经验",
+    cover: nocoverCover,
+    author: "豆浆大饼油条",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-223章",
+    latestChapter: "第223章 混沌魔力›",
+    excerpt: "1228年，一名资深《巫师》玩家穿越到一位叫阿尔温·蒂森的猎魔人学徒上。这一年，北方诸国忙着开拓领土，边境线充满了战火与矛盾。大山荒野中处处都藏有怪物，明明该是猎魔人最活跃的时期，却被《怪胎》一书给摧毁。好在阿尔温觉醒了职业熟练度系统，杀死",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5678035__654487_巫师：从狼学派猎魔人开始肝经验1-223章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5678035_654487/",
+  },
+{
+    id: "l_5743263__589139",
+    slug: "木筏求生：我能无限进化女神天赋",
+    title: "木筏求生：我能无限进化女神天赋",
+    cover: nocoverCover,
+    author: "昏昏黄",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-284章",
+    latestChapter: "第284章 看戏？›",
+    excerpt: "全民穿越无尽汪洋，开局一块木板。天道公正系统激活，越是绝色美女，觉醒的天赋越是垃圾E级，惨遭全员嫌弃！唯有林寂觉醒【洞察之眼】，看穿世界底牌：E级天赋=无限进化的神之雏形！“没人要？我全收了！”林寂果断收留五位废柴女神，利用【神级进化系统】",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5743263__589139_木筏求生：我能无限进化女神天赋1-284章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5743263_589139/",
+  },
+{
+    id: "l_5743430__654798",
+    slug: "半岛：重生开局就得玩梭哈",
+    title: "半岛：重生开局就得玩梭哈",
+    cover: nocoverCover,
+    author: "我是小柚子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-179章",
+    excerpt: "（韩娱+重生+日常+轻松+搞笑+恋爱+爽文）哎！没错我重生了，但没有金手指跟系统。不过没关系，我有重生前记忆，小米，阿里巴巴，特斯拉，英伟达，比特币….等等全部跑不了，因为我要开始梭哈了裴珠泫：怒那…难道对你不好吗？金雪炫：哼哼，说好让我当",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5743430__654798_半岛：重生开局就得玩梭哈1-179章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5743430_654798/",
+  },
+{
+    id: "l_5743431__654814",
+    slug: "重生82：从影院门口卖卤味开始",
+    title: "重生82：从影院门口卖卤味开始",
+    cover: nocoverCover,
+    author: "十只炸鸡",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-167章",
+    latestChapter: "第167章 往后谁还敢混日子，那真的是良心坏透了！›",
+    excerpt: "秦万山眼一睁一闭，就重生回到了1982年。上辈子，他努力过、拼搏过、挣扎过，最终依旧活成了普通人模样。重来一世，秦万山也没有什么大理想，只想自家日子能过得好一点，身边人的日子也能过得好一点。顺带给这缺油少盐的年代，带来一些后世才有的美味。卤",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5743431__654814_重生82：从影院门口卖卤味开始1-167章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5743431_654814/",
+  },
+{
+    id: "l_5874523__652063",
+    slug: "骂谁世界级剧情呢？",
+    title: "骂谁世界级剧情呢？",
+    cover: nocoverCover,
+    author: "金属雨点",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-253章",
+    latestChapter: "第253章 莱恩的邪道开箱术›",
+    excerpt: "对于西幻领主来说，玩家到底是什么？数量庞大不服管教，奇装异服乱偷东西，为非作歹法外狂徒，见谁都要喊老婆的变态。这些初生将成群结队地降临到我的领土？全都滚蛋。总而言之，为了劝退他们，莱恩决定成为一名狗策划。谜语文案，碎片叙事，摄像视角，反派洗",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5874523__652063_骂谁世界级剧情呢？1-253章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5874523_652063/",
+  },
+{
+    id: "l_5940178__651399",
+    slug: "斗罗：武魂双臂，我修降龙十八掌",
+    title: "斗罗：武魂双臂，我修降龙十八掌",
+    cover: nocoverCover,
+    author: "驯龙听雨",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-348章",
+    latestChapter: "第348章 英雄救美：救世主、英雄和真命天子！›",
+    excerpt: "（斗一同人，多女主，杀伐果断）当唐三还在唐门鬼见愁悬崖发表跳崖感言时。徐虎啸穿越了，比唐三大了整整六岁，而且还是天胡开局。他父亲是武魂殿魔熊斗罗，母亲宁风语，并获得了系统君遗留的新手大礼包。里面有顶级武功、全知之眼，还有顶级武魂怪物史莱克和",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_5940178__651399_斗罗：武魂双臂，我修降龙十八掌1-348章.txt",
+    sourceUrl: "https://m.libahao2.com/book/5940178_651399/",
+  },
+{
+    id: "l_6005536__651688",
+    slug: "无职转生，血族小姐要拿出真本事",
+    title: "无职转生，血族小姐要拿出真本事",
+    cover: nocoverCover,
+    author: "红烧咕咕鸡",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-305章",
+    excerpt: "日常慢热，轻松搞笑向，不爱者慎入(=^▽^=)————————洛琪希：希尔瓦尼亚老师是我最尊敬的老师，我会永远忠诚她的！七星静香：希德琳不仅仅是我的朋友，而且说句实话……我现在对回家没有那么……”鲁迪乌斯：洛琪希是神，那神的老师是什么呢？希",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6005536__651688_无职转生，血族小姐要拿出真本事1-305章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6005536_651688/",
+  },
+{
+    id: "l_6005716__651751",
+    slug: "诸天降临：从武当开始",
+    title: "诸天降临：从武当开始",
+    cover: nocoverCover,
+    author: "苟道风流",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-252章",
+    latestChapter: "第252章 诸天强者，全都来了›",
+    excerpt: "巨兽出笼，灵异蔓延，动植物异变，僵尸怨气滔天，恶魔爬出深渊，神话传说显化人间。世界末日降临，天空上却出现了一个个世界倒影，邀请蓝星人前往游戏获取机缘。林凡看着只有他熟悉的世界，不禁笑了。武当山与张真人论道，吞噬中并肩罗峰作战，西游给猴子开小",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6005716__651751_诸天降临：从武当开始1-252章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6005716_651751/",
+  },
+{
+    id: "l_6007829__455163",
+    slug: "傩祭失败，蛇君前夫来索命",
+    title: "傩祭失败，蛇君前夫来索命",
+    cover: nocoverCover,
+    author: "木牵鱼",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-466章",
+    latestChapter: "第466章 万里寻骨›",
+    excerpt: "【大女主+相爱相杀+民俗悬疑+中式克苏鲁+现代都市诡事】关初月硕士刚毕业就被爷爷叫回去，说是给她治病。在沉龙潭边的一只傩舞，她不小心唤醒了沉睡了数千年的蛇祟，还有那个说欠了他一条命的男人。男人在她腰上烙上百日倒计时，让她去寻找散落在巴山楚水",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6007829__455163_傩祭失败，蛇君前夫来索命1-466章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6007829_455163/",
+  },
+{
+    id: "l_6008038__455108",
+    slug: "婚后第三年，沈总还在求原谅",
+    title: "婚后第三年，沈总还在求原谅",
+    cover: nocoverCover,
+    author: "李不言",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-611章",
+    latestChapter: "第611章 吃瓜没吃完整不舒服›",
+    excerpt: "豪门摆烂弃女vs板板正正的老干部18岁，安也在多伦多酒吧捡到了一个男人。跟对方过了三个月甜甜蜜蜜，不问出身，不问来处，只谈性欲的生活。三个月期限一到，她潇洒拍屁股走人。四年后，一纸病危通知书将她骗进桢景台。安也终于见到那位传说中掌控南洋经济",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6008038__455108_婚后第三年，沈总还在求原谅1-611章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6008038_455108/",
+  },
+{
+    id: "l_6071194__652803",
+    slug: "修仙：我能叠加制符成功率",
+    title: "修仙：我能叠加制符成功率",
+    cover: nocoverCover,
+    author: "至暗帷幕",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-286章",
+    excerpt: "【凡人流】樊冬生魂穿修仙世界金雾宗一个资质三灵根的制符学徒身上，觉醒命格【符道不朽】，以正确手法和材料绘制每一种符篆之时都有初始成功率，每一次尝试，无论成功或是失败，都会令这个概率永久叠加，超过100%后，还有概率创造新的符篆！仙道缥缈，樊",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6071194__652803_修仙：我能叠加制符成功率1-286章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6071194_652803/",
+  },
+{
+    id: "l_6071250__652935",
+    slug: "姐姐抢嫁太子，我转身掌凤印",
+    title: "姐姐抢嫁太子，我转身掌凤印",
+    cover: nocoverCover,
+    author: "苄错站",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-732章",
+    latestChapter: "第733章 皇庄黑幕水太深›",
+    excerpt: "【双重生+虐渣+爽文+团宠+甜宠】上一世，顾夕瑶呕心沥血，替父兄谋前程，帮夫君登皇位，换来的，却是死在宫中无人问询的凄惨结局。这一世，她与姐姐双双重生在爹娘和离当日。姐姐迫不及待踏上她上一世所走的路，而她则跟随娘亲改嫁离开，成为镇北侯府金尊",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6071250__652935_姐姐抢嫁太子，我转身掌凤印1-732章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6071250_652935/",
+  },
+{
+    id: "l_6073565__456311",
+    slug: "巫师：从零开始打造魔像军团",
+    title: "巫师：从零开始打造魔像军团",
+    cover: nocoverCover,
+    author: "爱看书爱写书",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-651章",
+    latestChapter: "第650章 战火初歇›",
+    excerpt: "元素位面，战场化为焦土。炎魔领主的咆哮与传奇巫术对撞，将山脉破碎，令河流沸腾。巫师们的防线在纯粹暴力的碾压下濒临破碎。“支援在哪里？……我们的魔力耗尽了！”一名巫师嘶吼着，声音淹没在爆炸的轰鸣中。轰—轰—轰——！！！一连串突破音障的爆鸣撕",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6073565__456311_巫师：从零开始打造魔像军团1-651章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6073565_456311/",
+  },
+{
+    id: "l_6267658__652554",
+    slug: "凡人：家祖魏无涯",
+    title: "凡人：家祖魏无涯",
+    cover: nocoverCover,
+    author: "闲云之鹤",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-368章",
+    excerpt: "本书又名《在下魏离辰，有何指教？》《本座乃九国盟，化意门少主！》《我在天南当第一仙二代》《原韩老魔情敌（伪），现韩老魔良师益友（所有机缘截取者）》《附人界第一收集酷跑爱好者》《论谁才是天南第一话事人，人界第一修士，灵界第一大乘！》",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6267658__652554_凡人：家祖魏无涯1-368章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6267658_652554/",
+  },
+{
+    id: "l_6267799__652755",
+    slug: "我的电脑连接着一个真实文明",
+    title: "我的电脑连接着一个真实文明",
+    cover: nocoverCover,
+    author: "蹉跎一世苦",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-250章",
+    latestChapter: "第250章 零过载齐射，星团级火控联动›",
+    excerpt: "五十块淘来的旧电脑，竟连接着一个真实的文明。起初，路远以为这是上帝模拟器。移动一条矿脉，他们便举城欢庆“神迹”降临。投放一套工具，从天而降的光柱便让他们敬畏臣服。划定一个坐标，便有无形之力为他们指明通往禁地的唯一路径。直到，一个尘封古迹被发",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_6267799__652755_我的电脑连接着一个真实文明1-250章.txt",
+    sourceUrl: "https://m.libahao2.com/book/6267799_652755/",
+  },
+{
+    id: "l_7056782__508226",
+    slug: "轮回后，宿敌成黏人道侣怎么办？",
+    title: "轮回后，宿敌成黏人道侣怎么办？",
+    cover: nocoverCover,
+    author: "薛定卯",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-172章",
+    excerpt: "【清冷自持灵尊x笑面佛疯批魔君】HE、1v1双洁、女强槿山是东仙界最年轻的灵尊。魔君从天而降，就在她要将他切片加餐时忽然发现，这不是她还未强大时，那离不开她便切她手指还违约的老仇人吗！两人打作一团咬在一起，结果却不得不一起下界轮回。第一世她",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/l_7056782__508226_轮回后，宿敌成黏人道侣怎么办？1-172章.txt",
+    sourceUrl: "https://m.libahao2.com/book/7056782_508226/",
+  },
+
+{
     id: "m_aa",
     slug: "我给世界打个MOD",
     title: "我给世界打个MOD",
@@ -49040,6 +52190,7 @@ export const bookItems = [
     downloadUrl: "/books/m_aa_我给世界打个MOD1-145章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/aa/",
   },
+
 {
     id: "m_ab",
     slug: "同时穿越：全是深渊难度",
@@ -49056,6 +52207,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ab_同时穿越：全是深渊难度1-1301章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ab/",
   },
+
 {
     id: "m_ac",
     slug: "捞尸人",
@@ -49071,6 +52223,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ac_捞尸人1-732章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ac/",
   },
+
 {
     id: "m_ad",
     slug: "佣兵我为王",
@@ -49087,6 +52240,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ad_佣兵我为王1-1893章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ad/",
   },
+
 {
     id: "m_af",
     slug: "摊牌了我真是封号斗罗",
@@ -49102,6 +52256,7 @@ export const bookItems = [
     downloadUrl: "/books/m_af_摊牌了我真是封号斗罗1-4506章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/af/",
   },
+
 {
     id: "m_ag",
     slug: "半岛：我的金手指不科学",
@@ -49136,6 +52291,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ah_湿卵胎化1-1400章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ah/",
   },
+
 {
     id: "m_ai",
     slug: "全职高手之离开霸图成了电锯磨王",
@@ -49187,6 +52343,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ak_凌霄仙门1-1483章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ak/",
   },
+
 {
     id: "m_al",
     slug: "让你做游戏，口袋妖怪什么鬼？",
@@ -49203,6 +52360,7 @@ export const bookItems = [
     downloadUrl: "/books/m_al_让你做游戏，口袋妖怪什么鬼？1-380章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/al/",
   },
+
 {
     id: "m_ao",
     slug: "综网卡师：我有一部神魔图录",
@@ -49218,6 +52376,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ao_综网卡师：我有一部神魔图录1-511章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ao/",
   },
+
 {
     id: "m_ap",
     slug: "新京都调查官",
@@ -49251,6 +52410,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ar_请同学斩妖1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ar/",
   },
+
 {
     id: "m_as",
     slug: "开局一座神秘岛",
@@ -49267,6 +52427,7 @@ export const bookItems = [
     downloadUrl: "/books/m_as_开局一座神秘岛1-1714章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/as/",
   },
+
 {
     id: "m_at",
     slug: "三国神话世界",
@@ -49282,6 +52443,7 @@ export const bookItems = [
     downloadUrl: "/books/m_at_三国神话世界1-3195章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/at/",
   },
+
 {
     id: "m_au",
     slug: "秦时小说家",
@@ -49297,6 +52459,7 @@ export const bookItems = [
     downloadUrl: "/books/m_au_秦时小说家1-3829章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/au/",
   },
+
 {
     id: "m_av",
     slug: "玩家重生以后",
@@ -49313,6 +52476,7 @@ export const bookItems = [
     downloadUrl: "/books/m_av_玩家重生以后1-394章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/av/",
   },
+
 {
     id: "m_aw",
     slug: "芙莉莲：不懂爱的小小师祖",
@@ -49328,6 +52492,7 @@ export const bookItems = [
     downloadUrl: "/books/m_aw_芙莉莲：不懂爱的小小师祖1-495章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/aw/",
   },
+
 {
     id: "m_ax",
     slug: "我的神明养成游戏",
@@ -49344,6 +52509,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ax_我的神明养成游戏1-319章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ax/",
   },
+
 {
     id: "m_ay",
     slug: "半岛之喜爱十多年的爱豆成了我姐",
@@ -49360,6 +52526,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ay_半岛之喜爱十多年的爱豆成了我姐1-756章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ay/",
   },
+
 {
     id: "m_az",
     slug: "宝可梦：从零开始的小智培养计划",
@@ -49376,6 +52543,7 @@ export const bookItems = [
     downloadUrl: "/books/m_az_宝可梦：从零开始的小智培养计划1-363章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/az/",
   },
+
 {
     id: "m_b",
     slug: "诸天：从诡秘序列到遮天秘境法",
@@ -49391,6 +52559,7 @@ export const bookItems = [
     downloadUrl: "/books/m_b_诸天：从诡秘序列到遮天秘境法1-299章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/b/",
   },
+
 {
     id: "m_bc",
     slug: "美漫世界的多嘴乌鸦",
@@ -49423,6 +52592,7 @@ export const bookItems = [
     downloadUrl: "/books/m_be_咒禁山海1-797章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/be/",
   },
+
 {
     id: "m_bf",
     slug: "原神，长枪依旧",
@@ -49438,6 +52608,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bf_原神，长枪依旧1-2454章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bf/",
   },
+
 {
     id: "m_bg",
     slug: "三角洲：让你考核，你三分钟清图",
@@ -49454,6 +52625,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bg_三角洲：让你考核，你三分钟清图1-531章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bg/",
   },
+
 {
     id: "m_bh",
     slug: "东京少女们大有问题",
@@ -49470,6 +52642,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bh_东京少女们大有问题1-480章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bh/",
   },
+
 {
     id: "m_bk",
     slug: "不正经魔物娘改造日记",
@@ -49485,6 +52658,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bk_不正经魔物娘改造日记1-875章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bk/",
   },
+
 {
     id: "m_bl",
     slug: "诸天影视，从四合院开始",
@@ -49501,6 +52675,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bl_诸天影视，从四合院开始1-666章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bl/",
   },
+
 {
     id: "m_bn",
     slug: "诸天之百味人生",
@@ -49516,6 +52691,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bn_诸天之百味人生1-1672章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bn/",
   },
+
 {
     id: "m_bo",
     slug: "坏了，这联盟作家真超越李相赫了",
@@ -49532,6 +52708,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bo_坏了，这联盟作家真超越李相赫了1-372章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bo/",
   },
+
 {
     id: "m_bq",
     slug: "主播：男生女相七擒大马猴",
@@ -49547,6 +52724,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bq_主播：男生女相七擒大马猴1-663章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bq/",
   },
+
 {
     id: "m_br",
     slug: "超人的儿子想当超人有什么错？",
@@ -49579,6 +52757,7 @@ export const bookItems = [
     downloadUrl: "/books/m_brdv_咒术回战：反派第一人1-316章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/brdv/",
   },
+
 {
     id: "m_bs",
     slug: "都退役当主播了，系统让我打职业",
@@ -49594,6 +52773,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bs_都退役当主播了，系统让我打职业1-496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bs/",
   },
+
 {
     id: "m_bt",
     slug: "赛博朋克：2075",
@@ -49609,6 +52789,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bt_赛博朋克：20751-1192章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bt/",
   },
+
 {
     id: "m_bu",
     slug: "巨舰横宋：我的物资来自祖国",
@@ -49643,6 +52824,7 @@ export const bookItems = [
     downloadUrl: "/books/m_bv_夜无疆1-827章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/bv/",
   },
+
 {
     id: "m_bw",
     slug: "从阳神弥陀经开始显化诸天",
@@ -49711,6 +52893,7 @@ export const bookItems = [
     downloadUrl: "/books/m_c_从送子鲤鱼到天庭仙官1-923章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/c/",
   },
+
 {
     id: "m_ca",
     slug: "都大学了，小学系统才来？",
@@ -49726,6 +52909,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ca_都大学了，小学系统才来？1-522章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ca/",
   },
+
 {
     id: "m_cb",
     slug: "军途：从一封征兵信邮寄开始",
@@ -49741,6 +52925,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cb_军途：从一封征兵信邮寄开始1-481章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cb/",
   },
+
 {
     id: "m_cc",
     slug: "都重生了，谁还当演员",
@@ -49757,6 +52942,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cc_都重生了，谁还当演员1-1111章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cc/",
   },
+
 {
     id: "m_cd",
     slug: "主神：从月入五千到资产千亿",
@@ -49772,6 +52958,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cd_主神：从月入五千到资产千亿1-2057章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cd/",
   },
+
 {
     id: "m_cf",
     slug: "战锤：从种田开始重塑黄金时代",
@@ -49806,6 +52993,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cg_百世修仙：我能固定天赋1-849章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cg/",
   },
+
 {
     id: "m_ch",
     slug: "文明乐园",
@@ -49856,6 +53044,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cj_龙拳1-254章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cj/",
   },
+
 {
     id: "m_cl",
     slug: "科技入侵现代",
@@ -49872,6 +53061,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cl_科技入侵现代1-823章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cl/",
   },
+
 {
     id: "m_cm",
     slug: "光影绘心",
@@ -49906,6 +53096,7 @@ export const bookItems = [
     downloadUrl: "/books/m_co_我的修行进度每日结算1-362章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/co/",
   },
+
 {
     id: "m_cp",
     slug: "新概念诡道升仙",
@@ -49928,7 +53119,7 @@ export const bookItems = [
     title: "重回五八：从肝职业面板开始",
     cover: bookCovermcq,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-480章",
@@ -49955,6 +53146,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cr_从十二形拳开始肉身成圣1-471章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cr/",
   },
+
 {
     id: "m_cs",
     slug: "抗战：从成为楚云飞开始崛起",
@@ -49971,6 +53163,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cs_抗战：从成为楚云飞开始崛起1-827章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cs/",
   },
+
 {
     id: "m_ct",
     slug: "大明：马皇后亲弟，开局救朱雄英",
@@ -49987,6 +53180,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ct_大明：马皇后亲弟，开局救朱雄英1-458章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ct/",
   },
+
 {
     id: "m_cu",
     slug: "大秦公主的悠闲生活",
@@ -50002,6 +53196,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cu_大秦公主的悠闲生活1-660章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cu/",
   },
+
 {
     id: "m_cw",
     slug: "离婚后的我开始转运了",
@@ -50018,6 +53213,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cw_离婚后的我开始转运了1-2116章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cw/",
   },
+
 {
     id: "m_cx",
     slug: "天幕：我仙王巨头，被斗罗直播了",
@@ -50034,6 +53230,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cx_天幕：我仙王巨头，被斗罗直播了1-397章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cx/",
   },
+
 {
     id: "m_cy",
     slug: "从装脏法开始民俗游戏",
@@ -50050,6 +53247,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cy_从装脏法开始民俗游戏1-1316章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cy/",
   },
+
 {
     id: "m_cz",
     slug: "斗罗：重生雨浩，她们眼神不对劲",
@@ -50066,6 +53264,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cz_斗罗：重生雨浩，她们眼神不对劲1-602章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cz/",
   },
+
 {
     id: "m_d",
     slug: "短跑：初中的我，跑赢亚洲飞人",
@@ -50081,6 +53280,7 @@ export const bookItems = [
     downloadUrl: "/books/m_d_短跑：初中的我，跑赢亚洲飞人1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/d/",
   },
+
 {
     id: "m_da",
     slug: "什么？她们都是真实存在的？",
@@ -50096,6 +53296,7 @@ export const bookItems = [
     downloadUrl: "/books/m_da_什么？她们都是真实存在的？1-313章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/da/",
   },
+
 {
     id: "m_de",
     slug: "从诛仙开始修金丹法，横推万界",
@@ -50112,6 +53313,7 @@ export const bookItems = [
     downloadUrl: "/books/m_de_从诛仙开始修金丹法，横推万界1-1278章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/de/",
   },
+
 {
     id: "m_df",
     slug: "那年搞军工，我的无人机卖爆了",
@@ -50128,6 +53330,7 @@ export const bookItems = [
     downloadUrl: "/books/m_df_那年搞军工，我的无人机卖爆了1-520章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/df/",
   },
+
 {
     id: "m_di",
     slug: "1978从长影厂开始",
@@ -50144,6 +53347,7 @@ export const bookItems = [
     downloadUrl: "/books/m_di_1978从长影厂开始1-1326章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/di/",
   },
+
 {
     id: "m_dk",
     slug: "龙珠：赛亚人的诸天美食之旅",
@@ -50159,6 +53363,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dk_龙珠：赛亚人的诸天美食之旅1-988章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dk/",
   },
+
 {
     id: "m_dm",
     slug: "穿越大明：我能接收现代物资",
@@ -50175,6 +53380,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dm_穿越大明：我能接收现代物资1-721章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dm/",
   },
+
 {
     id: "m_dn",
     slug: "星战：忠诚高于一切",
@@ -50190,6 +53396,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dn_星战：忠诚高于一切1-428章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dn/",
   },
+
 {
     id: "m_do",
     slug: "逼我当神豪是吧",
@@ -50206,6 +53413,7 @@ export const bookItems = [
     downloadUrl: "/books/m_do_逼我当神豪是吧1-914章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/do/",
   },
+
 {
     id: "m_dp",
     slug: "我，混沌体，开局加入聊天群",
@@ -50222,6 +53430,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dp_我，混沌体，开局加入聊天群1-453章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dp/",
   },
+
 {
     id: "m_ds",
     slug: "蜀国降将，但魏国地下皇帝",
@@ -50238,6 +53447,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ds_蜀国降将，但魏国地下皇帝1-929章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ds/",
   },
+
 {
     id: "m_dt",
     slug: "这个影帝不当人！",
@@ -50272,6 +53482,7 @@ export const bookItems = [
     downloadUrl: "/books/m_du_我在缸中世界当神王1-335章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/du/",
   },
+
 {
     id: "m_dw",
     slug: "篮坛神迹",
@@ -50287,6 +53498,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dw_篮坛神迹1-626章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dw/",
   },
+
 {
     id: "m_dz",
     slug: "财富自由后，发现女友是超级富婆",
@@ -50303,6 +53515,7 @@ export const bookItems = [
     downloadUrl: "/books/m_dz_财富自由后，发现女友是超级富婆1-740章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/dz/",
   },
+
 {
     id: "m_e",
     slug: "谁让你带工业邪神穿越的？",
@@ -50319,6 +53532,7 @@ export const bookItems = [
     downloadUrl: "/books/m_e_谁让你带工业邪神穿越的？1-420章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/e/",
   },
+
 {
     id: "m_ea",
     slug: "一人之下：我的内景通万界！",
@@ -50334,6 +53548,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ea_一人之下：我的内景通万界！1-537章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ea/",
   },
+
 {
     id: "m_eb",
     slug: "我的超绝能力高于一切",
@@ -50350,6 +53565,7 @@ export const bookItems = [
     downloadUrl: "/books/m_eb_我的超绝能力高于一切1-469章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eb/",
   },
+
 {
     id: "m_ec",
     slug: "你这义体合法吗",
@@ -50365,6 +53581,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ec_你这义体合法吗1-603章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ec/",
   },
+
 {
     id: "m_ee",
     slug: "武侠诸天：开局复制小李飞刀",
@@ -50381,6 +53598,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ee_武侠诸天：开局复制小李飞刀1-475章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ee/",
   },
+
 {
     id: "m_eg",
     slug: "灵潮将至",
@@ -50397,6 +53615,7 @@ export const bookItems = [
     downloadUrl: "/books/m_eg_灵潮将至1-862章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eg/",
   },
+
 {
     id: "m_eh",
     slug: "大明：从边军开始覆明灭清",
@@ -50430,6 +53649,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ei_权游：我，伊蒙德1-244章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ei/",
   },
+
 {
     id: "m_ek",
     slug: "内娱顶流：从跑男出道",
@@ -50445,6 +53665,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ek_内娱顶流：从跑男出道1-613章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ek/",
   },
+
 {
     id: "m_el",
     slug: "财富自由：从三十开始",
@@ -50460,6 +53681,7 @@ export const bookItems = [
     downloadUrl: "/books/m_el_财富自由：从三十开始1-1192章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/el/",
   },
+
 {
     id: "m_em",
     slug: "电子哪吒",
@@ -50476,6 +53698,7 @@ export const bookItems = [
     downloadUrl: "/books/m_em_电子哪吒1-345章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/em/",
   },
+
 {
     id: "m_en",
     slug: "年代：从错娶小姨子开始",
@@ -50492,6 +53715,7 @@ export const bookItems = [
     downloadUrl: "/books/m_en_年代：从错娶小姨子开始1-1097章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/en/",
   },
+
 {
     id: "m_eo",
     slug: "红楼之胜天半子",
@@ -50509,6 +53733,22 @@ export const bookItems = [
     sourceUrl: "https://www.min-yuan.com/txt/eo/",
   },
 {
+    id: "m_eocj",
+    slug: "凤傲天小说里的黄毛反派也想幸福",
+    title: "凤傲天小说里的黄毛反派也想幸福",
+    cover: bookCovermeocj,
+    author: "子",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-715章",
+    excerpt: "《凤傲天小说里的黄毛反派也想幸福》穿越成某凤傲天小说的前期黄毛反派，沐恩表示自己只想好好活下去。但，故事发展似乎有点不对劲？给公主下药裤子都脱了可为何主角迟迟没有赶到？主角的青梅竹马高洁圣女为何频频向我暗送秋波？就连乖巧听话的贴身女仆最近看我的眼神也逐渐危险起来！主角呢？主角救一下啊！！呵呵，抢了我的女人，你可就要负责到底哦凤傲天主角手握柴刀，和善的微笑道。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_eocj_凤傲天小说里的黄毛反派也想幸福1-715章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/eocj/",
+  },
+
+{
     id: "m_ep",
     slug: "半岛：说好一起当梦楠，你玩叛变",
     title: "半岛：说好一起当梦楠，你玩叛变",
@@ -50524,6 +53764,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ep_半岛：说好一起当梦楠，你玩叛变1-418章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ep/",
   },
+
 {
     id: "m_eq",
     slug: "大明：私人订制，从挑战软肋开始",
@@ -50540,6 +53781,7 @@ export const bookItems = [
     downloadUrl: "/books/m_eq_大明：私人订制，从挑战软肋开始1-113章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eq/",
   },
+
 {
     id: "m_es",
     slug: "霍格沃茨：中国式教授",
@@ -50574,6 +53816,7 @@ export const bookItems = [
     downloadUrl: "/books/m_et_高武：从武科生到星空大帝1-640章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/et/",
   },
+
 {
     id: "m_eu",
     slug: "我在二战当文豪",
@@ -50590,6 +53833,7 @@ export const bookItems = [
     downloadUrl: "/books/m_eu_我在二战当文豪1-263章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eu/",
   },
+
 {
     id: "m_ev",
     slug: "机战：先驱者的归来",
@@ -50606,6 +53850,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ev_机战：先驱者的归来1-2188章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ev/",
   },
+
 {
     id: "m_ew",
     slug: "圣域乐园",
@@ -50621,6 +53866,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ew_圣域乐园1-1099章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ew/",
   },
+
 {
     id: "m_ez",
     slug: "火影：从抽卡开始打造最强宇智波",
@@ -50637,6 +53883,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ez_火影：从抽卡开始打造最强宇智波1-396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ez/",
   },
+
 {
     id: "m_fa",
     slug: "四合院：解旷解忧",
@@ -50653,6 +53900,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fa_四合院：解旷解忧1-1707章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fa/",
   },
+
 {
     id: "m_fb",
     slug: "我真不想和网瘾少女谈恋爱了！",
@@ -50686,6 +53934,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fd_金山寺旁的地仙1-362章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fd/",
   },
+
 {
     id: "m_fg",
     slug: "别胡说，我这是人皇幡",
@@ -50702,6 +53951,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fg_别胡说，我这是人皇幡1-1248章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fg/",
   },
+
 {
     id: "m_fh",
     slug: "华娱：系统逼我当导演？",
@@ -50718,6 +53968,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fh_华娱：系统逼我当导演？1-659章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fh/",
   },
+
 {
     id: "m_fi",
     slug: "旧日恐剧",
@@ -50750,6 +54001,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fj_古代末世的文弱书生1-252章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fj/",
   },
+
 {
     id: "m_fk",
     slug: "我的高武世界怎么是二次元画风",
@@ -50765,6 +54017,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fk_我的高武世界怎么是二次元画风1-237章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fk/",
   },
+
 {
     id: "m_fl",
     slug: "权游：狮子家的魅魔首相",
@@ -50780,6 +54033,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fl_权游：狮子家的魅魔首相1-664章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fl/",
   },
+
 {
     id: "m_fm",
     slug: "谁让你专吃窝边草的？",
@@ -50795,6 +54049,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fm_谁让你专吃窝边草的？1-357章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fm/",
   },
+
 {
     id: "m_fo",
     slug: "分手后，前女友给我生了一个女儿",
@@ -50811,6 +54066,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fo_分手后，前女友给我生了一个女儿1-183章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fo/",
   },
+
 {
     id: "m_fp",
     slug: "全民扮演游戏，从封建到蒸汽时代",
@@ -50827,6 +54083,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fp_全民扮演游戏，从封建到蒸汽时代1-359章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fp/",
   },
+
 {
     id: "m_fq",
     slug: "开局红警基地，你却让我拍电影？",
@@ -50843,6 +54100,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fq_开局红警基地，你却让我拍电影？1-314章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fq/",
   },
+
 {
     id: "m_fr",
     slug: "这个学霸过于自律",
@@ -50859,6 +54117,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fr_这个学霸过于自律1-495章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fr/",
   },
+
 {
     id: "m_fs",
     slug: "我在法兰西当王太子",
@@ -50875,6 +54134,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fs_我在法兰西当王太子1-1625章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fs/",
   },
+
 {
     id: "m_fu",
     slug: "诛仙：我，逍遥剑仙，加入聊天群",
@@ -50891,6 +54151,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fu_诛仙：我，逍遥剑仙，加入聊天群1-388章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fu/",
   },
+
 {
     id: "m_fv",
     slug: "1983：我在东京做游戏",
@@ -50906,6 +54167,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fv_1983：我在东京做游戏1-1039章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fv/",
   },
+
 {
     id: "m_fw",
     slug: "影视世界：从前任开始",
@@ -50922,6 +54184,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fw_影视世界：从前任开始1-633章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fw/",
   },
+
 {
     id: "m_fx",
     slug: "收听率刚破纪录，你就开除我？",
@@ -50937,6 +54200,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fx_收听率刚破纪录，你就开除我？1-989章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fx/",
   },
+
 {
     id: "m_fy",
     slug: "格斗之王从健身开始",
@@ -50953,6 +54217,7 @@ export const bookItems = [
     downloadUrl: "/books/m_fy_格斗之王从健身开始1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/fy/",
   },
+
 {
     id: "m_g",
     slug: "楚轩穿越神秘复苏",
@@ -50986,6 +54251,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ga_万国之国1-641章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ga/",
   },
+
 {
     id: "m_gb",
     slug: "三国：昭烈谋主，三兴炎汉",
@@ -51018,6 +54284,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gc_仙府！1-726章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gc/",
   },
+
 {
     id: "m_ge",
     slug: "半岛：恋爱系爱豆",
@@ -51034,6 +54301,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ge_半岛：恋爱系爱豆1-401章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ge/",
   },
+
 {
     id: "m_gf",
     slug: "北电第一怪人，出山了！",
@@ -51050,6 +54318,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gf_北电第一怪人，出山了！1-345章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gf/",
   },
+
 {
     id: "m_gg",
     slug: "开局C罗模版，梅西求我入巴萨",
@@ -51066,6 +54335,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gg_开局C罗模版，梅西求我入巴萨1-214章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gg/",
   },
+
 {
     id: "m_gj",
     slug: "华娱：明日爆红",
@@ -51099,6 +54369,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gk_仙道尽头1-538章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gk/",
   },
+
 {
     id: "m_gl",
     slug: "我在墨西哥当警察",
@@ -51115,6 +54386,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gl_我在墨西哥当警察1-352章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gl/",
   },
+
 {
     id: "m_gm",
     slug: "造船的？那这个像航母的是什么鬼",
@@ -51130,6 +54402,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gm_造船的？那这个像航母的是什么鬼1-302章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gm/",
   },
+
 {
     id: "m_gn",
     slug: "重生末日前：我的后盾是国家",
@@ -51146,6 +54419,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gn_重生末日前：我的后盾是国家1-575章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gn/",
   },
+
 {
     id: "m_gs",
     slug: "沸腾时代",
@@ -51161,6 +54435,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gs_沸腾时代1-1023章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gs/",
   },
+
 {
     id: "m_gt",
     slug: "华娱从跑男开始",
@@ -51177,6 +54452,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gt_华娱从跑男开始1-902章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gt/",
   },
+
 {
     id: "m_gw",
     slug: "华娱：从和宝岛妹子同居开始",
@@ -51193,6 +54469,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gw_华娱：从和宝岛妹子同居开始1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gw/",
   },
+
 {
     id: "m_gy",
     slug: "带着英雄无敌穿越武侠世界",
@@ -51208,6 +54485,7 @@ export const bookItems = [
     downloadUrl: "/books/m_gy_带着英雄无敌穿越武侠世界1-479章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/gy/",
   },
+
 {
     id: "m_ha",
     slug: "虎贲郎",
@@ -51224,6 +54502,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ha_虎贲郎1-1396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ha/",
   },
+
 {
     id: "m_hc",
     slug: "娱乐圈的老实人",
@@ -51240,6 +54519,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hc_娱乐圈的老实人1-426章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hc/",
   },
+
 {
     id: "m_hd",
     slug: "我在战锤召唤第四天灾",
@@ -51273,6 +54553,7 @@ export const bookItems = [
     downloadUrl: "/books/m_he_西游：长生从拜师镇元子开始1-215章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/he/",
   },
+
 {
     id: "m_hf",
     slug: "非正常美食文",
@@ -51288,6 +54569,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hf_非正常美食文1-666章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hf/",
   },
+
 {
     id: "m_hg",
     slug: "CS：从觉醒死神之眼开始",
@@ -51304,6 +54586,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hg_CS：从觉醒死神之眼开始1-636章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hg/",
   },
+
 {
     id: "m_hh",
     slug: "咸鱼重生",
@@ -51319,6 +54602,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hh_咸鱼重生1-397章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hh/",
   },
+
 {
     id: "m_hi",
     slug: "诸天：从时空商人开始",
@@ -51351,6 +54635,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hk_唯我道1-1599章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hk/",
   },
+
 {
     id: "m_hl",
     slug: "华娱：天才时代",
@@ -51389,7 +54674,7 @@ export const bookItems = [
     title: "刚准备高考，过气顶流逆袭什么鬼",
     cover: bookCovermho,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-650章",
@@ -51398,6 +54683,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ho_刚准备高考，过气顶流逆袭什么鬼1-650章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ho/",
   },
+
 {
     id: "m_hr",
     slug: "没钱还怎么当崇祯",
@@ -51414,6 +54700,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hr_没钱还怎么当崇祯1-889章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hr/",
   },
+
 {
     id: "m_hs",
     slug: "贞观六年，世民亦未寝",
@@ -51430,6 +54717,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hs_贞观六年，世民亦未寝1-393章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hs/",
   },
+
 {
     id: "m_hu",
     slug: "大明：史官直书，你真一字不改？",
@@ -51446,6 +54734,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hu_大明：史官直书，你真一字不改？1-239章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hu/",
   },
+
 {
     id: "m_hv",
     slug: "截胡高俅人生，我带大宋强盛",
@@ -51462,6 +54751,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hv_截胡高俅人生，我带大宋强盛1-370章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hv/",
   },
+
 {
     id: "m_hw",
     slug: "重生S5，打造LCK最强战队",
@@ -51478,6 +54768,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hw_重生S5，打造LCK最强战队1-629章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hw/",
   },
+
 {
     id: "m_hx",
     slug: "柯南世界的黑手名侦探",
@@ -51494,6 +54785,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hx_柯南世界的黑手名侦探1-757章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hx/",
   },
+
 {
     id: "m_hy",
     slug: "双斗罗对比：这个玄子，正的发邪",
@@ -51510,6 +54802,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hy_双斗罗对比：这个玄子，正的发邪1-290章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hy/",
   },
+
 {
     id: "m_hz",
     slug: "足球：我的天赋来自伤仲永",
@@ -51526,6 +54819,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hz_足球：我的天赋来自伤仲永1-466章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hz/",
   },
+
 {
     id: "m_i",
     slug: "无限：杀穿电影世界",
@@ -51541,6 +54835,7 @@ export const bookItems = [
     downloadUrl: "/books/m_i_无限：杀穿电影世界1-1706章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/i/",
   },
+
 {
     id: "m_ia",
     slug: "黄金家族，我带蒙古铁骑横扫亚欧",
@@ -51556,6 +54851,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ia_黄金家族，我带蒙古铁骑横扫亚欧1-578章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ia/",
   },
+
 {
     id: "m_ib",
     slug: "四合院：从天道酬勤开始",
@@ -51572,6 +54868,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ib_四合院：从天道酬勤开始1-475章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ib/",
   },
+
 {
     id: "m_ic",
     slug: "美利坚：刻板印象能力者",
@@ -51588,6 +54885,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ic_美利坚：刻板印象能力者1-674章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ic/",
   },
+
 {
     id: "m_ie",
     slug: "半岛：不准和偶像恋爱",
@@ -51603,6 +54901,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ie_半岛：不准和偶像恋爱1-812章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ie/",
   },
+
 {
     id: "m_if",
     slug: "我有一双透视神瞳",
@@ -51637,6 +54936,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ig_高武：从签到苍龙锻体术开始！1-555章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ig/",
   },
+
 {
     id: "m_ih",
     slug: "修真版大明",
@@ -51652,6 +54952,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ih_修真版大明1-317章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ih/",
   },
+
 {
     id: "m_ij",
     slug: "梦魇绝境",
@@ -51668,6 +54969,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ij_梦魇绝境1-462章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ij/",
   },
+
 {
     id: "m_ik",
     slug: "成神豪后，发现前女友藏了龙凤胎",
@@ -51720,6 +55022,7 @@ export const bookItems = [
     downloadUrl: "/books/m_in_重生白龙，实在太弱的我只能自律1-1000章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/in/",
   },
+
 {
     id: "m_ip",
     slug: "人在大二，男神养成系统是什么鬼",
@@ -51736,6 +55039,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ip_人在大二，男神养成系统是什么鬼1-264章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ip/",
   },
+
 {
     id: "m_iq",
     slug: "非洲创业实录",
@@ -51751,6 +55055,7 @@ export const bookItems = [
     downloadUrl: "/books/m_iq_非洲创业实录1-1977章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/iq/",
   },
+
 {
     id: "m_ir",
     slug: "就叫我战术之王吧",
@@ -51766,6 +55071,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ir_就叫我战术之王吧1-320章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ir/",
   },
+
 {
     id: "m_it",
     slug: "我在日本江户幕末的武士生涯",
@@ -51781,6 +55087,7 @@ export const bookItems = [
     downloadUrl: "/books/m_it_我在日本江户幕末的武士生涯1-326章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/it/",
   },
+
 {
     id: "m_iv",
     slug: "MC玩家的旅行日记",
@@ -51796,6 +55103,7 @@ export const bookItems = [
     downloadUrl: "/books/m_iv_MC玩家的旅行日记1-613章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/iv/",
   },
+
 {
     id: "m_iy",
     slug: "同时穿越：我真是一点苦都不吃",
@@ -51812,6 +55120,7 @@ export const bookItems = [
     downloadUrl: "/books/m_iy_同时穿越：我真是一点苦都不吃1-411章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/iy/",
   },
+
 {
     id: "m_j",
     slug: "华娱：女顶流不让我摆烂",
@@ -51828,6 +55137,22 @@ export const bookItems = [
     downloadUrl: "/books/m_j_华娱：女顶流不让我摆烂1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/j/",
   },
+{
+    id: "m_jakh",
+    slug: "同时穿越：从火影开始打穿综漫区",
+    title: "同时穿越：从火影开始打穿综漫区",
+    cover: bookCovermjakh,
+    author: "咸鱼配饭",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1053章",
+    excerpt: "同时穿越99世界系列，人送外号“诚哥”，外挂就是自己。火影阳诚：什么！红豆是我老师？那蛇姨岂不是……恶魔兽阳诚：我只想当一只善良的恶魔兽，但是被选召的孩子脑袋有坑啊！实教阳诚：智斗？我都战力天花板了，速通不就好了！海贼阳诚：娜美是我义妹？一拳阳诚：什么？我是触手怪，那没事了……死神、海贼、火影、数码宝贝、宝可梦，无职转生，灼眼夏娜，总之很多，想那写那吧……",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_jakh_同时穿越：从火影开始打穿综漫区1-1053章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/jakh/",
+  },
+
 {
     id: "m_jb",
     slug: "人在红楼，集邮金钗",
@@ -51913,6 +55238,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jf_巴塞丽莎的复国日记1-1695章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jf/",
   },
+
 {
     id: "m_jk",
     slug: "我真要控制你了，皇女殿下",
@@ -51929,6 +55255,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jk_我真要控制你了，皇女殿下1-684章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jk/",
   },
+
 {
     id: "m_jl",
     slug: "末日美利坚",
@@ -51944,6 +55271,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jl_末日美利坚1-468章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jl/",
   },
+
 {
     id: "m_jn",
     slug: "华娱：一遇魔童误终身",
@@ -51959,6 +55287,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jn_华娱：一遇魔童误终身1-419章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jn/",
   },
+
 {
     id: "m_jo",
     slug: "从杨超跃开始的恋爱日常",
@@ -51992,6 +55321,22 @@ export const bookItems = [
     downloadUrl: "/books/m_jq_六十大寿来系统，儿子被退婚了！1-983章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jq/",
   },
+{
+    id: "m_jrhs",
+    slug: "每天一门功法圆满",
+    title: "每天一门功法圆满",
+    cover: bookCovermjrhs,
+    author: "天天吃蔬菜",
+    date: "2026-10-15",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-482章",
+    excerpt: "睁眼已是乱世，陈越成了县内药铺学徒，人命如草芥，仙途多诡谲。幸得一块无名面板，以苦行为薪火，以执念铸道基。浪里潜行，藏一身锋芒；铁骨锻体，扛世间风霜；内丹筑基，积万丈底蕴；龙神火燃，焚九天邪魔。他在黑暗中一路死磕前行，待到回首，万界俯首，万法归心，他已是独步古今的无上真君。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_jrhs_每天一门功法圆满1-482章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/jrhs/",
+  },
+
 {
     id: "m_js",
     slug: "我都死成传说了，同时穿越才来",
@@ -52042,6 +55387,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jw_堂哥修仙，命格成圣1-321章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jw/",
   },
+
 {
     id: "m_l",
     slug: "华娱97：从歌手开始",
@@ -52057,6 +55403,7 @@ export const bookItems = [
     downloadUrl: "/books/m_l_华娱97：从歌手开始1-1040章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/l/",
   },
+
 {
     id: "m_lb",
     slug: "不浪不是好导演",
@@ -52072,6 +55419,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lb_不浪不是好导演1-957章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lb/",
   },
+
 {
     id: "m_lc",
     slug: "吞噬星空：我的赠予千倍返还",
@@ -52105,6 +55453,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ld_仙子且慢，我只想斩妖除魔1-477章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ld/",
   },
+
 {
     id: "m_le",
     slug: "斗罗世界的大反派",
@@ -52121,6 +55470,7 @@ export const bookItems = [
     downloadUrl: "/books/m_le_斗罗世界的大反派1-330章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/le/",
   },
+
 {
     id: "m_lf",
     slug: "我在美漫做惊奇蜘蛛侠",
@@ -52137,6 +55487,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lf_我在美漫做惊奇蜘蛛侠1-1303章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lf/",
   },
+
 {
     id: "m_lg",
     slug: "华娱：我的艺人全顶流",
@@ -52152,6 +55503,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lg_华娱：我的艺人全顶流1-597章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lg/",
   },
+
 {
     id: "m_lh",
     slug: "柯南：从捡到玛丽开始的酒厂大佬",
@@ -52168,6 +55520,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lh_柯南：从捡到玛丽开始的酒厂大佬1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lh/",
   },
+
 {
     id: "m_lm",
     slug: "斗罗：天使再现，九宝相随",
@@ -52184,6 +55537,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lm_斗罗：天使再现，九宝相随1-351章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lm/",
   },
+
 {
     id: "m_lo",
     slug: "诸天从边水往事搬砖开始",
@@ -52200,6 +55554,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lo_诸天从边水往事搬砖开始1-349章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lo/",
   },
+
 {
     id: "m_lq",
     slug: "从机械猎人开始",
@@ -52215,6 +55570,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lq_从机械猎人开始1-1935章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lq/",
   },
+
 {
     id: "m_lr",
     slug: "美娱之花瓶影帝",
@@ -52230,6 +55586,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lr_美娱之花瓶影帝1-2936章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lr/",
   },
+
 {
     id: "m_lu",
     slug: "魔禁：学园都市的替身使者",
@@ -52246,6 +55603,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lu_魔禁：学园都市的替身使者1-1913章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lu/",
   },
+
 {
     id: "m_lv",
     slug: "人在狼旅，军令执行就变强",
@@ -52262,6 +55620,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lv_人在狼旅，军令执行就变强1-485章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lv/",
   },
+
 {
     id: "m_lw",
     slug: "重生从1993开始",
@@ -52277,6 +55636,7 @@ export const bookItems = [
     downloadUrl: "/books/m_lw_重生从1993开始1-2027章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/lw/",
   },
+
 {
     id: "m_lx",
     slug: "无限恐怖入侵诸天",
@@ -52328,6 +55688,7 @@ export const bookItems = [
     downloadUrl: "/books/m_m_矢车菊魔女1-697章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/m/",
   },
+
 {
     id: "m_maa",
     slug: "人在战锤，求你别赞美哆啦万机神",
@@ -52343,6 +55704,7 @@ export const bookItems = [
     downloadUrl: "/books/m_maa_人在战锤，求你别赞美哆啦万机神1-797章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/maa/",
   },
+
 {
     id: "m_mab",
     slug: "坏了，我真和李相赫当队友了",
@@ -52359,6 +55721,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mab_坏了，我真和李相赫当队友了1-348章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mab/",
   },
+
 {
     id: "m_mac",
     slug: "起航1992",
@@ -52375,6 +55738,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mac_起航19921-1581章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mac/",
   },
+
 {
     id: "m_mag",
     slug: "东京房东",
@@ -52391,6 +55755,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mag_东京房东1-453章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mag/",
   },
+
 {
     id: "m_mai",
     slug: "艺术家哪有不发疯的！",
@@ -52407,6 +55772,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mai_艺术家哪有不发疯的！1-427章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mai/",
   },
+
 {
     id: "m_maj",
     slug: "扶持华语电影，亏损十倍返还",
@@ -52422,6 +55788,7 @@ export const bookItems = [
     downloadUrl: "/books/m_maj_扶持华语电影，亏损十倍返还1-233章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/maj/",
   },
+
 {
     id: "m_mak",
     slug: "霍格沃茨：我的祖母是女王",
@@ -52437,6 +55804,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mak_霍格沃茨：我的祖母是女王1-404章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mak/",
   },
+
 {
     id: "m_mal",
     slug: "逆流香江1979",
@@ -52453,6 +55821,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mal_逆流香江19791-487章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mal/",
   },
+
 {
     id: "m_mam",
     slug: "我加载了怪谈游戏",
@@ -52468,6 +55837,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mam_我加载了怪谈游戏1-917章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mam/",
   },
+
 {
     id: "m_man",
     slug: "诸天：我的电脑，能穿无数个世界",
@@ -52484,6 +55854,7 @@ export const bookItems = [
     downloadUrl: "/books/m_man_诸天：我的电脑，能穿无数个世界1-498章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/man/",
   },
+
 {
     id: "m_mao",
     slug: "1853：我的奋斗",
@@ -52500,6 +55871,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mao_1853：我的奋斗1-980章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mao/",
   },
+
 {
     id: "m_maq",
     slug: "肝到厨神才算开始",
@@ -52516,6 +55888,7 @@ export const bookItems = [
     downloadUrl: "/books/m_maq_肝到厨神才算开始1-222章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/maq/",
   },
+
 {
     id: "m_mar",
     slug: "重铸三国：逆风局才有意思",
@@ -52532,6 +55905,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mar_重铸三国：逆风局才有意思1-1212章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mar/",
   },
+
 {
     id: "m_mat",
     slug: "太平天国1854",
@@ -52548,6 +55922,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mat_太平天国18541-572章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mat/",
   },
+
 {
     id: "m_mav",
     slug: "重生了，回到小县城当豪门",
@@ -52564,6 +55939,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mav_重生了，回到小县城当豪门1-1084章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mav/",
   },
+
 {
     id: "m_max",
     slug: "这个导演没有格局",
@@ -52580,6 +55956,7 @@ export const bookItems = [
     downloadUrl: "/books/m_max_这个导演没有格局1-564章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/max/",
   },
+
 {
     id: "m_mb",
     slug: "诸天美食，从获得宝石肉开始",
@@ -52596,6 +55973,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mb_诸天美食，从获得宝石肉开始1-569章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mb/",
   },
+
 {
     id: "m_mc",
     slug: "篮球终点站",
@@ -52628,6 +56006,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mca_尘中镜1-276章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mca/",
   },
+
 {
     id: "m_mcb",
     slug: "真诚系影帝",
@@ -52643,6 +56022,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcb_真诚系影帝1-110章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcb/",
   },
+
 {
     id: "m_mcc",
     slug: "神祗：开局鱼猫兽人",
@@ -52659,6 +56039,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcc_神祗：开局鱼猫兽人1-579章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcc/",
   },
+
 {
     id: "m_mcd",
     slug: "无限恐怖：开局复制罗莉气晕郑咤",
@@ -52675,6 +56056,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcd_无限恐怖：开局复制罗莉气晕郑咤1-441章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcd/",
   },
+
 {
     id: "m_mce",
     slug: "诸天：从庆余年开始修行之旅",
@@ -52690,6 +56072,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mce_诸天：从庆余年开始修行之旅1-348章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mce/",
   },
+
 {
     id: "m_mcf",
     slug: "华娱2002，我被天仙缠了身",
@@ -52706,6 +56089,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcf_华娱2002，我被天仙缠了身1-491章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcf/",
   },
+
 {
     id: "m_mcg",
     slug: "半岛：开个店，女爱豆看上我了？",
@@ -52721,6 +56105,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcg_半岛：开个店，女爱豆看上我了？1-407章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcg/",
   },
+
 {
     id: "m_mci",
     slug: "华娱之家族崛起",
@@ -52736,6 +56121,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mci_华娱之家族崛起1-248章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mci/",
   },
+
 {
     id: "m_mcj",
     slug: "爸爸，请再努力一点",
@@ -52751,6 +56137,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcj_爸爸，请再努力一点1-178章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcj/",
   },
+
 {
     id: "m_mcl",
     slug: "我真的只想和她们交个朋友",
@@ -52767,6 +56154,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcl_我真的只想和她们交个朋友1-928章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcl/",
   },
+
 {
     id: "m_mcm",
     slug: "从知否开始当文圣",
@@ -52799,6 +56187,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mco_人在黄枫谷，机缘情报每日刷新！1-394章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mco/",
   },
+
 {
     id: "m_mcp",
     slug: "同时穿越，我成了KING！",
@@ -52815,6 +56204,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcp_同时穿越，我成了KING！1-227章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcp/",
   },
+
 {
     id: "m_mcr",
     slug: "我在噩梦世界建立安全区",
@@ -52831,6 +56221,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcr_我在噩梦世界建立安全区1-314章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcr/",
   },
+
 {
     id: "m_mcs",
     slug: "黑篮：我把天赋带到神奈川",
@@ -52846,6 +56237,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcs_黑篮：我把天赋带到神奈川1-248章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcs/",
   },
+
 {
     id: "m_mcu",
     slug: "从九百层归来",
@@ -52862,6 +56254,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcu_从九百层归来1-564章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcu/",
   },
+
 {
     id: "m_mcv",
     slug: "分手后娶了前女友上司",
@@ -52878,6 +56271,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcv_分手后娶了前女友上司1-101章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcv/",
   },
+
 {
     id: "m_mcw",
     slug: "我和她们穿越到北宋",
@@ -52899,13 +56293,13 @@ export const bookItems = [
     title: "亮剑，从晋西北打到长津湖",
     cover: bookCovermmcy,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-637章",
+    chapters: "1-648章",
     excerpt: "【地图金手指+更新稳定+不动脑子爽文】----------------------------新书《抗战：从生死看淡开始》已经签约，喜欢养书来宰的书友可以提前加加书架，有月票可以投给新书冲榜（本书会一直更新）。---------------------------- 周志远一觉醒来，发现自己身处晋西北，直面生与死的抉择！ 山河陆沉，敌寇猖獗，作为一名有血性的华夏男儿，应该怎么办？ 惟有生死看淡，不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_mcy_亮剑，从晋西北打到长津湖1-637章.txt",
+    downloadUrl: "/books/m_mcy_亮剑，从晋西北打到长津湖1-648章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcy/",
   },
 
@@ -52925,6 +56319,7 @@ export const bookItems = [
     downloadUrl: "/books/m_md_每日结算，我以神通铸长生1-320章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/md/",
   },
+
 {
     id: "m_me",
     slug: "死神：开局契约宇智波全族亡魂",
@@ -52941,6 +56336,7 @@ export const bookItems = [
     downloadUrl: "/books/m_me_死神：开局契约宇智波全族亡魂1-404章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/me/",
   },
+
 {
     id: "m_mfa",
     slug: "三国：事后诸葛亮，三兴大汉",
@@ -52957,6 +56353,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfa_三国：事后诸葛亮，三兴大汉1-399章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfa/",
   },
+
 {
     id: "m_mfb",
     slug: "四合院之车门已焊死",
@@ -52972,6 +56369,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfb_四合院之车门已焊死1-1795章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfb/",
   },
+
 {
     id: "m_mfd",
     slug: "战力学不存在的无限流世界",
@@ -52988,6 +56386,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfd_战力学不存在的无限流世界1-698章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfd/",
   },
+
 {
     id: "m_mfe",
     slug: "家父诸葛亮，我打造了千年大汉",
@@ -53003,6 +56402,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfe_家父诸葛亮，我打造了千年大汉1-319章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfe/",
   },
+
 {
     id: "m_mff",
     slug: "重生2010：开局做空棉花期货",
@@ -53036,6 +56436,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfg_洪荒：背锅成圣，整活证道！1-477章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfg/",
   },
+
 {
     id: "m_mfh",
     slug: "人在东京，开启奇幻系日常",
@@ -53052,6 +56453,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfh_人在东京，开启奇幻系日常1-410章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfh/",
   },
+
 {
     id: "m_mfj",
     slug: "风起北美1625",
@@ -53085,6 +56487,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfk_瞎子捉刀人：开局满级九阳神功1-346章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfk/",
   },
+
 {
     id: "m_mfm",
     slug: "全球神祇：从选择木精灵开始崛起",
@@ -53101,6 +56504,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfm_全球神祇：从选择木精灵开始崛起1-472章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfm/",
   },
+
 {
     id: "m_mfn",
     slug: "被穷养的我被迫开始二周目",
@@ -53117,6 +56521,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfn_被穷养的我被迫开始二周目1-525章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfn/",
   },
+
 {
     id: "m_mfo",
     slug: "大哥别卷了，你都卷成汉中祖了",
@@ -53133,6 +56538,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfo_大哥别卷了，你都卷成汉中祖了1-268章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfo/",
   },
+
 {
     id: "m_mfp",
     slug: "谈什么恋爱，组一辈子科研组吧！",
@@ -53149,6 +56555,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfp_谈什么恋爱，组一辈子科研组吧！1-398章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfp/",
   },
+
 {
     id: "m_mfq",
     slug: "1997：罪案追凶",
@@ -53165,6 +56572,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfq_1997：罪案追凶1-1017章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfq/",
   },
+
 {
     id: "m_mfr",
     slug: "华娱大文豪，从北电保安开始",
@@ -53199,6 +56607,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfs_黑西游：冒名星君1-696章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfs/",
   },
+
 {
     id: "m_mft",
     slug: "斗罗绝世：开局成为位面之主",
@@ -53215,6 +56624,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mft_斗罗绝世：开局成为位面之主1-250章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mft/",
   },
+
 {
     id: "m_mfu",
     slug: "三国：刘备谋主，谋尽天下",
@@ -53248,6 +56658,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfv_太昊金章1-581章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfv/",
   },
+
 {
     id: "m_mfx",
     slug: "一百年前我死了",
@@ -53264,6 +56675,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfx_一百年前我死了1-439章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfx/",
   },
+
 {
     id: "m_mfy",
     slug: "三国：我刘封不想作死",
@@ -53280,6 +56692,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfy_三国：我刘封不想作死1-243章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfy/",
   },
+
 {
     id: "m_mfz",
     slug: "武动之真正的武祖",
@@ -53295,6 +56708,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mfz_武动之真正的武祖1-910章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mfz/",
   },
+
 {
     id: "m_mh",
     slug: "柯南：从情报掮客到战争之王",
@@ -53311,6 +56725,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mh_柯南：从情报掮客到战争之王1-364章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mh/",
   },
+
 {
     id: "m_mi",
     slug: "让你学表演，你成歌坛天王了？",
@@ -53345,6 +56760,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mic_武侠：开局满级九阳神功1-281章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mic/",
   },
+
 {
     id: "m_mif",
     slug: "不许没收我的人籍",
@@ -53360,6 +56776,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mif_不许没收我的人籍1-909章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mif/",
   },
+
 {
     id: "m_mih",
     slug: "斗罗：谪仙临尘，酒剑弑神",
@@ -53376,6 +56793,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mih_斗罗：谪仙临尘，酒剑弑神1-546章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mih/",
   },
+
 {
     id: "m_mii",
     slug: "这是修仙游戏，但运营烂了",
@@ -53409,6 +56827,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mij_从零开始的修仙家族崛起记1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mij/",
   },
+
 {
     id: "m_mik",
     slug: "东京文豪：从八十年代末开始",
@@ -53425,6 +56844,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mik_东京文豪：从八十年代末开始1-219章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mik/",
   },
+
 {
     id: "m_mil",
     slug: "1978：从饮料巨头到实业之王",
@@ -53441,6 +56861,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mil_1978：从饮料巨头到实业之王1-419章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mil/",
   },
+
 {
     id: "m_mim",
     slug: "重燃青葱时代",
@@ -53473,6 +56894,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mip_西游：开局拜师菩提祖师1-461章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mip/",
   },
+
 {
     id: "m_miq",
     slug: "人在大学，但歌在格莱美",
@@ -53489,6 +56911,7 @@ export const bookItems = [
     downloadUrl: "/books/m_miq_人在大学，但歌在格莱美1-226章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/miq/",
   },
+
 {
     id: "m_mir",
     slug: "半岛小行星",
@@ -53505,6 +56928,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mir_半岛小行星1-1612章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mir/",
   },
+
 {
     id: "m_mis",
     slug: "人在漫威：我能召唤万界物品",
@@ -53520,6 +56944,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mis_人在漫威：我能召唤万界物品1-339章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mis/",
   },
+
 {
     id: "m_mit",
     slug: "我一个顶流捧小花很合理吧？",
@@ -53535,6 +56960,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mit_我一个顶流捧小花很合理吧？1-497章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mit/",
   },
+
 {
     id: "m_miv",
     slug: "影视：反派人生从庆余年开始",
@@ -53568,6 +56994,7 @@ export const bookItems = [
     downloadUrl: "/books/m_miw_百世修仙：我能重返青春1-452章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/miw/",
   },
+
 {
     id: "m_mix",
     slug: "从宁安如梦开始的诸天",
@@ -53583,6 +57010,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mix_从宁安如梦开始的诸天1-1061章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mix/",
   },
+
 {
     id: "m_miy",
     slug: "斗罗：抢唐三气运就变强！",
@@ -53599,6 +57027,7 @@ export const bookItems = [
     downloadUrl: "/books/m_miy_斗罗：抢唐三气运就变强！1-1298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/miy/",
   },
+
 {
     id: "m_miz",
     slug: "火影：我在木叶肝进度",
@@ -53615,6 +57044,7 @@ export const bookItems = [
     downloadUrl: "/books/m_miz_火影：我在木叶肝进度1-1290章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/miz/",
   },
+
 {
     id: "m_mj",
     slug: "人在游戏王，超融合观众也融",
@@ -53631,6 +57061,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mj_人在游戏王，超融合观众也融1-723章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mj/",
   },
+
 {
     id: "m_mka",
     slug: "诸天：从民国道士下山开始",
@@ -53646,6 +57077,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mka_诸天：从民国道士下山开始1-539章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mka/",
   },
+
 {
     id: "m_mkc",
     slug: "这些仙子全都不正常！",
@@ -53661,6 +57093,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkc_这些仙子全都不正常！1-308章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkc/",
   },
+
 {
     id: "m_mkf",
     slug: "同时穿越：从主神空间开始",
@@ -53677,6 +57110,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkf_同时穿越：从主神空间开始1-857章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkf/",
   },
+
 {
     id: "m_mkh",
     slug: "独立战争强力破解版",
@@ -53711,6 +57145,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mki_大衍仙族1-493章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mki/",
   },
+
 {
     id: "m_mkj",
     slug: "你一美警，老想着回东方干啥玩意",
@@ -53726,6 +57161,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkj_你一美警，老想着回东方干啥玩意1-401章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkj/",
   },
+
 {
     id: "m_mkk",
     slug: "让真气飞一会",
@@ -53742,6 +57178,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkk_让真气飞一会1-146章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkk/",
   },
+
 {
     id: "m_mkn",
     slug: "半岛：心理学概论",
@@ -53758,6 +57195,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkn_半岛：心理学概论1-371章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkn/",
   },
+
 {
     id: "m_mko",
     slug: "地球第一领主",
@@ -53773,6 +57211,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mko_地球第一领主1-1007章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mko/",
   },
+
 {
     id: "m_mkq",
     slug: "从1950开始",
@@ -53789,6 +57228,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkq_从1950开始1-287章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkq/",
   },
+
 {
     id: "m_mkx",
     slug: "法兰西崛起，从百年战争开始",
@@ -53804,6 +57244,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mkx_法兰西崛起，从百年战争开始1-970章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mkx/",
   },
+
 {
     id: "m_mm",
     slug: "数码宝贝：我用骑士道具登顶",
@@ -53837,6 +57278,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mma_修仙：从阴兵法坛开始1-1387章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mma/",
   },
+
 {
     id: "m_mmc",
     slug: "从有风的地方开始的后浪",
@@ -53904,6 +57346,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmf_修仙，从傀儡师开始1-943章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmf/",
   },
+
 {
     id: "m_mmg",
     slug: "神豪：从房产中介到世界首富",
@@ -53920,6 +57363,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmg_神豪：从房产中介到世界首富1-201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmg/",
   },
+
 {
     id: "m_mmi",
     slug: "半岛：从破产公司到韩娱之王",
@@ -53936,6 +57380,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmi_半岛：从破产公司到韩娱之王1-767章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmi/",
   },
+
 {
     id: "m_mmj",
     slug: "火影：天生邪恶的波风水门",
@@ -53970,6 +57415,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmk_斗破：重生古族，开局截胡萧薰儿1-409章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmk/",
   },
+
 {
     id: "m_mml",
     slug: "废土归来者没有疯",
@@ -53986,6 +57432,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mml_废土归来者没有疯1-433章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mml/",
   },
+
 {
     id: "m_mmm",
     slug: "重返80：从黄大仙开始致富",
@@ -54007,15 +57454,16 @@ export const bookItems = [
     title: "深渊漫游者",
     cover: bookCovermmmn,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-600章",
+    chapters: "1-607章",
     excerpt: "手滑炸掉全球互联网以后，江舟成为了人类历史上最恶劣的罪人，陷入了漫长的沉睡。 而一百年后当他再度苏醒时，呈现在他眼前的，是一个交织着蛮荒与文明，充斥着控制与反抗的失控时代。 深渊之中，无以计数的失控人工智能肆虐成灾；奥林匹斯之上，以神祇自居的超级企业睥睨凡众；基底现实之内，凡人们于苦难与疯狂间苦苦挣扎。 但长夜已逝，黎明将至。当他从漫长的沉睡中醒来，人智革命的种子已然发芽。 脑机接口、曼陀罗程序、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_mmn_深渊漫游者1-600章.txt",
+    downloadUrl: "/books/m_mmn_深渊漫游者1-607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmn/",
   },
+
 {
     id: "m_mmo",
     slug: "华娱光影年华，从摄影系开始",
@@ -54049,6 +57497,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmp_肝出个大器晚成！1-779章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmp/",
   },
+
 {
     id: "m_mmq",
     slug: "从霍格沃茨之遗归来的哈利",
@@ -54064,6 +57513,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmq_从霍格沃茨之遗归来的哈利1-731章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmq/",
   },
+
 {
     id: "m_mms",
     slug: "火影：同时继承无数未来！",
@@ -54098,6 +57548,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmt_天下无敌！1-727章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmt/",
   },
+
 {
     id: "m_mmu",
     slug: "我的青梅合租女友",
@@ -54113,6 +57564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmu_我的青梅合租女友1-281章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmu/",
   },
+
 {
     id: "m_mmv",
     slug: "身在港综，却从神雕开始流浪诸天",
@@ -54128,6 +57580,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmv_身在港综，却从神雕开始流浪诸天1-448章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmv/",
   },
+
 {
     id: "m_mmw",
     slug: "大明新命记",
@@ -54143,6 +57596,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmw_大明新命记1-1395章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmw/",
   },
+
 {
     id: "m_mmx",
     slug: "远东匹夫",
@@ -54195,6 +57649,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmz_苟在武道世界成圣1-933章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmz/",
   },
+
 {
     id: "m_mn",
     slug: "柯南：推理？不，我直接速通",
@@ -54211,6 +57666,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mn_柯南：推理？不，我直接速通1-1028章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mn/",
   },
+
 {
     id: "m_moc",
     slug: "1595开拓新世界",
@@ -54227,6 +57683,7 @@ export const bookItems = [
     downloadUrl: "/books/m_moc_1595开拓新世界1-1289章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/moc/",
   },
+
 {
     id: "m_mof",
     slug: "高门庶子",
@@ -54243,6 +57700,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mof_高门庶子1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mof/",
   },
+
 {
     id: "m_mog",
     slug: "极限超凡",
@@ -54259,6 +57717,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mog_极限超凡1-814章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mog/",
   },
+
 {
     id: "m_moh",
     slug: "回村后，从绑定峨眉开始赶山",
@@ -54275,6 +57734,7 @@ export const bookItems = [
     downloadUrl: "/books/m_moh_回村后，从绑定峨眉开始赶山1-1682章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/moh/",
   },
+
 {
     id: "m_moi",
     slug: "大明流匪",
@@ -54290,6 +57750,7 @@ export const bookItems = [
     downloadUrl: "/books/m_moi_大明流匪1-3683章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/moi/",
   },
+
 {
     id: "m_moj",
     slug: "诸天：从五行山下逗猴成道",
@@ -54306,6 +57767,7 @@ export const bookItems = [
     downloadUrl: "/books/m_moj_诸天：从五行山下逗猴成道1-347章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/moj/",
   },
+
 {
     id: "m_mok",
     slug: "半岛跨越山海只为你",
@@ -54322,6 +57784,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mok_半岛跨越山海只为你1-1055章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mok/",
   },
+
 {
     id: "m_mol",
     slug: "遮天：我以永生之门证大道",
@@ -54338,6 +57801,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mol_遮天：我以永生之门证大道1-403章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mol/",
   },
+
 {
     id: "m_mom",
     slug: "诸天：每个世界随机一个关键词",
@@ -54353,6 +57817,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mom_诸天：每个世界随机一个关键词1-1157章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mom/",
   },
+
 {
     id: "m_moo",
     slug: "仙子失格",
@@ -54404,6 +57869,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mor_重生成慕容复：这次我是主角1-569章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mor/",
   },
+
 {
     id: "m_mos",
     slug: "半岛：我不可能会翻船",
@@ -54419,6 +57885,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mos_半岛：我不可能会翻船1-535章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mos/",
   },
+
 {
     id: "m_mot",
     slug: "1984小海岛，从获得情报开始",
@@ -54452,6 +57919,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mou_人仙！1-209章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mou/",
   },
+
 {
     id: "m_mow",
     slug: "穿越吧，诸天",
@@ -54467,6 +57935,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mow_穿越吧，诸天1-330章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mow/",
   },
+
 {
     id: "m_mox",
     slug: "华娱95花：我怎么成为顶流了？",
@@ -54483,6 +57952,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mox_华娱95花：我怎么成为顶流了？1-1099章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mox/",
   },
+
 {
     id: "m_moz",
     slug: "重生之乘风而起",
@@ -54498,6 +57968,7 @@ export const bookItems = [
     downloadUrl: "/books/m_moz_重生之乘风而起1-2686章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/moz/",
   },
+
 {
     id: "m_mp",
     slug: "从海贼开始横推万界",
@@ -54531,6 +58002,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mq_高塔之上！1-734章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mq/",
   },
+
 {
     id: "m_mra",
     slug: "穿越龙族世界，我手握十二符咒",
@@ -54547,6 +58019,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mra_穿越龙族世界，我手握十二符咒1-465章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mra/",
   },
+
 {
     id: "m_mrb",
     slug: "人在战锤，开局捡到圣吉列斯！",
@@ -54563,6 +58036,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrb_人在战锤，开局捡到圣吉列斯！1-214章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrb/",
   },
+
 {
     id: "m_mrc",
     slug: "火力至上",
@@ -54579,6 +58053,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrc_火力至上1-943章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrc/",
   },
+
 {
     id: "m_mrd",
     slug: "人在斗破，抽奖成帝",
@@ -54595,6 +58070,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrd_人在斗破，抽奖成帝1-374章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrd/",
   },
+
 {
     id: "m_mre",
     slug: "斗罗：弟子唐三，正的发邪",
@@ -54611,6 +58087,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mre_斗罗：弟子唐三，正的发邪1-316章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mre/",
   },
+
 {
     id: "m_mrf",
     slug: "传送门通历史，我上报国家",
@@ -54627,6 +58104,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrf_传送门通历史，我上报国家1-453章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrf/",
   },
+
 {
     id: "m_mrg",
     slug: "诸天：从宝莲灯杨蛟开始",
@@ -54643,6 +58121,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrg_诸天：从宝莲灯杨蛟开始1-316章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrg/",
   },
+
 {
     id: "m_mrh",
     slug: "魔改地球：我亲手导演灵气复苏",
@@ -54676,6 +58155,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mri_从奖励上品灵桃开始证道长生1-351章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mri/",
   },
+
 {
     id: "m_mrj",
     slug: "恋在克苏鲁",
@@ -54692,6 +58172,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrj_恋在克苏鲁1-179章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrj/",
   },
+
 {
     id: "m_mrm",
     slug: "都重生了你要去种地？",
@@ -54708,6 +58189,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrm_都重生了你要去种地？1-354章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrm/",
   },
+
 {
     id: "m_mrn",
     slug: "从吞噬星空开始的诸天穿越",
@@ -54724,6 +58206,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrn_从吞噬星空开始的诸天穿越1-371章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrn/",
   },
+
 {
     id: "m_mrp",
     slug: "影视世界从人世间周秉坤开始",
@@ -54740,6 +58223,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrp_影视世界从人世间周秉坤开始1-247章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrp/",
   },
+
 {
     id: "m_mrq",
     slug: "诸天轮回之从仙路开始",
@@ -54755,6 +58239,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrq_诸天轮回之从仙路开始1-995章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrq/",
   },
+
 {
     id: "m_mrr",
     slug: "我在万历修起居注",
@@ -54771,6 +58256,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrr_我在万历修起居注1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrr/",
   },
+
 {
     id: "m_mrs",
     slug: "武侠世界无上大宗师",
@@ -54787,6 +58273,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrs_武侠世界无上大宗师1-307章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrs/",
   },
+
 {
     id: "m_mrt",
     slug: "朕真的不务正业",
@@ -54802,6 +58289,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrt_朕真的不务正业1-1385章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrt/",
   },
+
 {
     id: "m_mru",
     slug: "重生之资本传奇",
@@ -54817,6 +58305,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mru_重生之资本传奇1-731章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mru/",
   },
+
 {
     id: "m_mrv",
     slug: "斗罗：我帝天，不再当怨种",
@@ -54833,6 +58322,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrv_斗罗：我帝天，不再当怨种1-352章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrv/",
   },
+
 {
     id: "m_mrw",
     slug: "我在宝可梦世界开福利院",
@@ -54848,6 +58338,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrw_我在宝可梦世界开福利院1-784章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrw/",
   },
+
 {
     id: "m_mrx",
     slug: "人在现实，但有鼠符咒！",
@@ -54863,6 +58354,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mrx_人在现实，但有鼠符咒！1-444章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mrx/",
   },
+
 {
     id: "m_mry",
     slug: "火影：与蝎一起重塑忍界",
@@ -54879,6 +58371,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mry_火影：与蝎一起重塑忍界1-411章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mry/",
   },
+
 {
     id: "m_mrz",
     slug: "于是我去了斗罗",
@@ -54913,6 +58406,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ms_地仙只想种田1-797章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ms/",
   },
+
 {
     id: "m_msb",
     slug: "每周刷新的角色扮演系统不太对劲",
@@ -54929,6 +58423,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msb_每周刷新的角色扮演系统不太对劲1-439章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msb/",
   },
+
 {
     id: "m_msc",
     slug: "诸天演道",
@@ -54945,6 +58440,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msc_诸天演道1-611章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msc/",
   },
+
 {
     id: "m_msd",
     slug: "演武令",
@@ -54960,6 +58456,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msd_演武令1-765章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msd/",
   },
+
 {
     id: "m_msf",
     slug: "魔女大人，请按剧本黑化！",
@@ -54993,6 +58490,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msg_镇龙廷1-257章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msg/",
   },
+
 {
     id: "m_msi",
     slug: "一人之下：百诅成道",
@@ -55008,6 +58506,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msi_一人之下：百诅成道1-575章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msi/",
   },
+
 {
     id: "m_msj",
     slug: "我写的黑历史都成真了",
@@ -55024,6 +58523,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msj_我写的黑历史都成真了1-272章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msj/",
   },
+
 {
     id: "m_msk",
     slug: "神二战：我用大德通关世界",
@@ -55058,6 +58558,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msm_洪荒：我帝辛开局献祭人族气运1-301章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msm/",
   },
+
 {
     id: "m_msn",
     slug: "人在箱庭，是纯血龙种",
@@ -55074,6 +58575,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msn_人在箱庭，是纯血龙种1-395章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msn/",
   },
+
 {
     id: "m_mso",
     slug: "人在箱庭，从落地成神开始",
@@ -55107,6 +58609,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msp_问剑华山1-242章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msp/",
   },
+
 {
     id: "m_msr",
     slug: "在下欧阳锋",
@@ -55122,6 +58625,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msr_在下欧阳锋1-299章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msr/",
   },
+
 {
     id: "m_msu",
     slug: "武侠世界，红尘剑仙",
@@ -55137,6 +58641,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msu_武侠世界，红尘剑仙1-250章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msu/",
   },
+
 {
     id: "m_msy",
     slug: "诸天旅人",
@@ -55152,6 +58657,7 @@ export const bookItems = [
     downloadUrl: "/books/m_msy_诸天旅人1-726章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/msy/",
   },
+
 {
     id: "m_msz",
     slug: "同时穿越：从回归主神空间开始",
@@ -55185,6 +58691,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mt_人在封神，观想证道1-462章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mt/",
   },
+
 {
     id: "m_mta",
     slug: "人在哥谭当神父，开局捡到小男孩",
@@ -55219,6 +58726,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtc_我见过龙1-428章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtc/",
   },
+
 {
     id: "m_mtd",
     slug: "谍战代号：申公豹",
@@ -55234,6 +58742,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtd_谍战代号：申公豹1-300章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtd/",
   },
+
 {
     id: "m_mtf",
     slug: "柯南：我在东京当财阀",
@@ -55250,6 +58759,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtf_柯南：我在东京当财阀1-466章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtf/",
   },
+
 {
     id: "m_mtg",
     slug: "半岛：纯爱的我被她们盯上了",
@@ -55266,6 +58776,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtg_半岛：纯爱的我被她们盯上了1-306章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtg/",
   },
+
 {
     id: "m_mth",
     slug: "整座大山都是我的猎场",
@@ -55299,6 +58810,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mti_万世登仙：从先天气运开始1-494章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mti/",
   },
+
 {
     id: "m_mtk",
     slug: "四合院之我是大厨开始",
@@ -55315,6 +58827,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtk_四合院之我是大厨开始1-446章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtk/",
   },
+
 {
     id: "m_mtl",
     slug: "让我出道，我还能爆！",
@@ -55330,6 +58843,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtl_让我出道，我还能爆！1-421章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtl/",
   },
+
 {
     id: "m_mtm",
     slug: "完美世界：重瞳开天，羽化登仙",
@@ -55345,6 +58859,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtm_完美世界：重瞳开天，羽化登仙1-546章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtm/",
   },
+
 {
     id: "m_mtn",
     slug: "唐舞麟，你已有取死之道！",
@@ -55361,6 +58876,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtn_唐舞麟，你已有取死之道！1-374章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtn/",
   },
+
 {
     id: "m_mtp",
     slug: "同时穿越：全员杂鱼？",
@@ -55376,6 +58892,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtp_同时穿越：全员杂鱼？1-513章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtp/",
   },
+
 {
     id: "m_mtq",
     slug: "模拟器？不！是分身流",
@@ -55408,6 +58925,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mts_本官娘子就是妖1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mts/",
   },
+
 {
     id: "m_mtt",
     slug: "勇者可以不活，但不能没活",
@@ -55424,6 +58942,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtt_勇者可以不活，但不能没活1-630章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtt/",
   },
+
 {
     id: "m_mtv",
     slug: "税收只在机枪射程内！",
@@ -55440,6 +58959,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtv_税收只在机枪射程内！1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtv/",
   },
+
 {
     id: "m_mtw",
     slug: "高冷同桌成为我的电子女友之后",
@@ -55456,6 +58976,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtw_高冷同桌成为我的电子女友之后1-296章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtw/",
   },
+
 {
     id: "m_mtx",
     slug: "国潮1980",
@@ -55471,6 +58992,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtx_国潮19801-1908章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtx/",
   },
+
 {
     id: "m_mtz",
     slug: "诸天：谁把他放进恐怖片的？",
@@ -55486,6 +59008,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mtz_诸天：谁把他放进恐怖片的？1-428章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtz/",
   },
+
 {
     id: "m_mu",
     slug: "家族百年：从港岛开始崛起",
@@ -55520,6 +59043,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mw_序列：八道横行1-600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mw/",
   },
+
 {
     id: "m_mwa",
     slug: "怪异收容专家",
@@ -55536,6 +59060,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwa_怪异收容专家1-1620章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwa/",
   },
+
 {
     id: "m_mwb",
     slug: "半岛1984：我太忠诚了",
@@ -55552,6 +59077,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwb_半岛1984：我太忠诚了1-430章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwb/",
   },
+
 {
     id: "m_mwc",
     slug: "同时穿越：从龙族血统开始",
@@ -55568,6 +59094,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwc_同时穿越：从龙族血统开始1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwc/",
   },
+
 {
     id: "m_mwd",
     slug: "这就是牌佬的世界吗？亚达贼！",
@@ -55601,6 +59128,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwe_龙的仪式书1-508章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwe/",
   },
+
 {
     id: "m_mwf",
     slug: "末日边缘",
@@ -55634,6 +59162,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwg_长生仙路1-1436章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwg/",
   },
+
 {
     id: "m_mwh",
     slug: "为盘我水库，全球大佬狂砸百亿",
@@ -55667,6 +59196,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwj_我修仙后与长寿精灵讲寿命论1-258章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwj/",
   },
+
 {
     id: "m_mwk",
     slug: "遮天：我自仙古来",
@@ -55683,6 +59213,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwk_遮天：我自仙古来1-521章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwk/",
   },
+
 {
     id: "m_mwl",
     slug: "让你弘扬真善美，你做战犯游戏？",
@@ -55699,6 +59230,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwl_让你弘扬真善美，你做战犯游戏？1-268章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwl/",
   },
+
 {
     id: "m_mwn",
     slug: "我们小区又穿越了",
@@ -55715,6 +59247,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwn_我们小区又穿越了1-461章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwn/",
   },
+
 {
     id: "m_mwo",
     slug: "斗罗：版本之子齐聚，但时代错位",
@@ -55765,6 +59298,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwq_晦朔光年1-798章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwq/",
   },
+
 {
     id: "m_mwt",
     slug: "骨王：王的覆灭",
@@ -55780,6 +59314,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwt_骨王：王的覆灭1-629章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwt/",
   },
+
 {
     id: "m_mwu",
     slug: "龙族：我路明非没有开挂！",
@@ -55796,6 +59331,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwu_龙族：我路明非没有开挂！1-384章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwu/",
   },
+
 {
     id: "m_mwv",
     slug: "抗战：来自钢铁雄心的工程师",
@@ -55829,6 +59365,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwx_刚定亲，退婚逆袭系统来了1-573章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwx/",
   },
+
 {
     id: "m_mwy",
     slug: "斗罗：穿越千寻疾，天使降临！",
@@ -55845,6 +59382,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mwy_斗罗：穿越千寻疾，天使降临！1-410章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mwy/",
   },
+
 {
     id: "m_mya",
     slug: "继承人小姐对我不太友善",
@@ -55860,6 +59398,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mya_继承人小姐对我不太友善1-356章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mya/",
   },
+
 {
     id: "m_myc",
     slug: "半岛：白月光走后，我杀疯了！",
@@ -55876,6 +59415,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myc_半岛：白月光走后，我杀疯了！1-1248章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myc/",
   },
+
 {
     id: "m_myd",
     slug: "从璃月开始的价值之主！",
@@ -55892,6 +59432,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myd_从璃月开始的价值之主！1-809章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myd/",
   },
+
 {
     id: "m_myf",
     slug: "都重生了谁还做演员啊",
@@ -55908,6 +59449,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myf_都重生了谁还做演员啊1-567章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myf/",
   },
+
 {
     id: "m_myg",
     slug: "红龙的怪猎模板",
@@ -55923,6 +59465,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myg_红龙的怪猎模板1-568章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myg/",
   },
+
 {
     id: "m_myi",
     slug: "从芙莉莲开始，只有我知道剧情",
@@ -55939,6 +59482,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myi_从芙莉莲开始，只有我知道剧情1-335章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myi/",
   },
+
 {
     id: "m_myj",
     slug: "模拟人生通关，你管这叫福利回？",
@@ -55955,6 +59499,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myj_模拟人生通关，你管这叫福利回？1-469章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myj/",
   },
+
 {
     id: "m_myk",
     slug: "华娱：最强练习生",
@@ -55971,6 +59516,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myk_华娱：最强练习生1-894章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myk/",
   },
+
 {
     id: "m_myl",
     slug: "木叶：宇智波的绝对正义",
@@ -55986,6 +59532,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myl_木叶：宇智波的绝对正义1-466章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myl/",
   },
+
 {
     id: "m_mym",
     slug: "帝国精英",
@@ -56001,6 +59548,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mym_帝国精英1-235章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mym/",
   },
+
 {
     id: "m_myn",
     slug: "我都元婴了，你说我没穿越？",
@@ -56016,6 +59564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myn_我都元婴了，你说我没穿越？1-434章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myn/",
   },
+
 {
     id: "m_myo",
     slug: "路明非从斗罗开始",
@@ -56032,6 +59581,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myo_路明非从斗罗开始1-440章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myo/",
   },
+
 {
     id: "m_myp",
     slug: "吞噬星空，你给我来个低武系统？",
@@ -56047,6 +59597,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myp_吞噬星空，你给我来个低武系统？1-377章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myp/",
   },
+
 {
     id: "m_myq",
     slug: "重生鹏城：从猪脚饭到实业帝国",
@@ -56063,6 +59614,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myq_重生鹏城：从猪脚饭到实业帝国1-473章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myq/",
   },
+
 {
     id: "m_myr",
     slug: "季汉",
@@ -56096,6 +59648,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mys_太筮1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mys/",
   },
+
 {
     id: "m_myv",
     slug: "这个边锋实在太能进球啦",
@@ -56112,6 +59665,7 @@ export const bookItems = [
     downloadUrl: "/books/m_myv_这个边锋实在太能进球啦1-515章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/myv/",
   },
+
 {
     id: "m_myx",
     slug: "美利坚：烧尸人",
@@ -56144,6 +59698,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mz_魔修1-287章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mz/",
   },
+
 {
     id: "m_mza",
     slug: "科普氧气有毒，全网骂我有病",
@@ -56159,6 +59714,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mza_科普氧气有毒，全网骂我有病1-1720章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mza/",
   },
+
 {
     id: "m_mzb",
     slug: "重生后姐姐们都向我喊忠诚！",
@@ -56175,6 +59731,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzb_重生后姐姐们都向我喊忠诚！1-301章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzb/",
   },
+
 {
     id: "m_mzc",
     slug: "咒术回战：我的术式名为假面骑士",
@@ -56190,6 +59747,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzc_咒术回战：我的术式名为假面骑士1-197章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzc/",
   },
+
 {
     id: "m_mzd",
     slug: "柯南之百年柯学",
@@ -56205,6 +59763,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzd_柯南之百年柯学1-422章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzd/",
   },
+
 {
     id: "m_mzf",
     slug: "自曝身份，我在季汉当副皇帝",
@@ -56220,6 +59779,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzf_自曝身份，我在季汉当副皇帝1-304章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzf/",
   },
+
 {
     id: "m_mzg",
     slug: "说好组一辈子乐队，龙族什么鬼",
@@ -56235,6 +59795,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzg_说好组一辈子乐队，龙族什么鬼1-322章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzg/",
   },
+
 {
     id: "m_mzh",
     slug: "巨星之路从表演绝活开始",
@@ -56251,6 +59812,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzh_巨星之路从表演绝活开始1-1031章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzh/",
   },
+
 {
     id: "m_mzi",
     slug: "综武：夫人请我当魁首",
@@ -56267,6 +59829,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzi_综武：夫人请我当魁首1-483章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzi/",
   },
+
 {
     id: "m_mzj",
     slug: "火影：我的攻略对象全是忍术",
@@ -56283,6 +59846,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzj_火影：我的攻略对象全是忍术1-367章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzj/",
   },
+
 {
     id: "m_mzk",
     slug: "同时穿越：龙族分身流的龙之众",
@@ -56299,6 +59863,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzk_同时穿越：龙族分身流的龙之众1-756章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzk/",
   },
+
 {
     id: "m_mzl",
     slug: "龙族：请奴役众生吧！魔女大人！",
@@ -56314,6 +59879,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzl_龙族：请奴役众生吧！魔女大人！1-498章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzl/",
   },
+
 {
     id: "m_mzn",
     slug: "大唐太子的悠闲生活",
@@ -56329,6 +59895,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzn_大唐太子的悠闲生活1-572章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzn/",
   },
+
 {
     id: "m_mzo",
     slug: "重生1955，我在香江截胡",
@@ -56398,6 +59965,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzs_修仙从手搓计算机开始1-239章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzs/",
   },
+
 {
     id: "m_mzt",
     slug: "半岛：我被顶流偶像供养了",
@@ -56432,6 +60000,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzv_混在末日，独自成仙1-661章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzv/",
   },
+
 {
     id: "m_mzw",
     slug: "我在规则怪谈里无视规则",
@@ -56448,6 +60017,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzw_我在规则怪谈里无视规则1-244章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzw/",
   },
+
 {
     id: "m_mzx",
     slug: "第一玩家",
@@ -56481,6 +60051,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzy_地仙只想种田1-915章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzy/",
   },
+
 {
     id: "m_mzz",
     slug: "武布中华",
@@ -56497,6 +60068,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mzz_武布中华1-1584章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mzz/",
   },
+
 {
     id: "m_n",
     slug: "异常纪元",
@@ -56531,6 +60103,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nb_洪荒：卷出一个混元大罗1-313章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nb/",
   },
+
 {
     id: "m_nc",
     slug: "匹夫有责",
@@ -56547,6 +60120,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nc_匹夫有责1-720章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nc/",
   },
+
 {
     id: "m_nd",
     slug: "美漫：我是怪谈",
@@ -56563,6 +60137,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nd_美漫：我是怪谈1-359章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nd/",
   },
+
 {
     id: "m_ne",
     slug: "融合是最高贵的召唤方式！",
@@ -56579,6 +60154,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ne_融合是最高贵的召唤方式！1-931章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ne/",
   },
+
 {
     id: "m_nf",
     slug: "最佳导演之2000",
@@ -56595,6 +60171,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nf_最佳导演之20001-1497章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nf/",
   },
+
 {
     id: "m_ng",
     slug: "三塔游戏",
@@ -56610,6 +60187,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ng_三塔游戏1-678章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ng/",
   },
+
 {
     id: "m_nh",
     slug: "重生之煤老板旗下的艺人",
@@ -56625,6 +60203,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nh_重生之煤老板旗下的艺人1-575章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nh/",
   },
+
 {
     id: "m_nj",
     slug: "驱邪从食尸请神开始",
@@ -56641,6 +60220,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nj_驱邪从食尸请神开始1-1075章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nj/",
   },
+
 {
     id: "m_nl",
     slug: "四合院：我是棒梗的大伯",
@@ -56657,6 +60237,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nl_四合院：我是棒梗的大伯1-1182章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nl/",
   },
+
 {
     id: "m_nm",
     slug: "四合院之一代传奇",
@@ -56673,6 +60254,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nm_四合院之一代传奇1-267章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nm/",
   },
+
 {
     id: "m_no",
     slug: "斗罗龙王：吾深渊圣主，永夜君王",
@@ -56689,6 +60271,7 @@ export const bookItems = [
     downloadUrl: "/books/m_no_斗罗龙王：吾深渊圣主，永夜君王1-765章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/no/",
   },
+
 {
     id: "m_np",
     slug: "轮回乐园：虚空法师",
@@ -56705,6 +60288,7 @@ export const bookItems = [
     downloadUrl: "/books/m_np_轮回乐园：虚空法师1-1002章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/np/",
   },
+
 {
     id: "m_nq",
     slug: "海战：口径即真理",
@@ -56721,6 +60305,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nq_海战：口径即真理1-698章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nq/",
   },
+
 {
     id: "m_nr",
     slug: "战锤求生指南",
@@ -56755,6 +60340,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ns_洪荒：刚成太阳神，加入聊天群！1-636章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ns/",
   },
+
 {
     id: "m_nu",
     slug: "诸天轮回：我是无上大宗师",
@@ -56789,6 +60375,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nv_从武林门派到长生仙门1-761章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nv/",
   },
+
 {
     id: "m_nw",
     slug: "四合院：从铁路技工开始进步",
@@ -56805,6 +60392,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nw_四合院：从铁路技工开始进步1-928章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nw/",
   },
+
 {
     id: "m_nx",
     slug: "四合院之许大茂，开局要吃绝户",
@@ -56821,6 +60409,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nx_四合院之许大茂，开局要吃绝户1-268章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nx/",
   },
+
 {
     id: "m_ny",
     slug: "绝对之门",
@@ -56853,6 +60442,7 @@ export const bookItems = [
     downloadUrl: "/books/m_nz_从边军开始肝成武皇1-369章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nz/",
   },
+
 {
     id: "m_ob",
     slug: "忽悠华娱三十年",
@@ -56868,6 +60458,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ob_忽悠华娱三十年1-1124章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ob/",
   },
+
 {
     id: "m_od",
     slug: "说好摆烂拍电影，年度游戏什么鬼",
@@ -56884,6 +60475,7 @@ export const bookItems = [
     downloadUrl: "/books/m_od_说好摆烂拍电影，年度游戏什么鬼1-649章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/od/",
   },
+
 {
     id: "m_oe",
     slug: "一人之下：请称呼我金色闪光",
@@ -56900,6 +60492,7 @@ export const bookItems = [
     downloadUrl: "/books/m_oe_一人之下：请称呼我金色闪光1-685章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/oe/",
   },
+
 {
     id: "m_og",
     slug: "港娱",
@@ -56915,6 +60508,7 @@ export const bookItems = [
     downloadUrl: "/books/m_og_港娱1-627章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/og/",
   },
+
 {
     id: "m_oh",
     slug: "神三群聊：三国",
@@ -56948,6 +60542,7 @@ export const bookItems = [
     downloadUrl: "/books/m_oj_每日一门神通大成1-2200章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/oj/",
   },
+
 {
     id: "m_ok",
     slug: "重回83小渔村，从养殖大户开始",
@@ -56963,6 +60558,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ok_重回83小渔村，从养殖大户开始1-656章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ok/",
   },
+
 {
     id: "m_on",
     slug: "我在网购平台薅的全是真货",
@@ -56979,6 +60575,7 @@ export const bookItems = [
     downloadUrl: "/books/m_on_我在网购平台薅的全是真货1-1388章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/on/",
   },
+
 {
     id: "m_oo",
     slug: "仙界学习机？可我在地球呀",
@@ -57029,6 +60626,7 @@ export const bookItems = [
     downloadUrl: "/books/m_oq_我在西游做神仙1-788章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/oq/",
   },
+
 {
     id: "m_or",
     slug: "华娱1990，我是电影厂厂长",
@@ -57045,6 +60643,7 @@ export const bookItems = [
     downloadUrl: "/books/m_or_华娱1990，我是电影厂厂长1-745章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/or/",
   },
+
 {
     id: "m_os",
     slug: "投资失败后，天后老婆让我吃软饭",
@@ -57060,6 +60659,7 @@ export const bookItems = [
     downloadUrl: "/books/m_os_投资失败后，天后老婆让我吃软饭1-475章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/os/",
   },
+
 {
     id: "m_ot",
     slug: "三国：朕，袁术，大汉忠良",
@@ -57081,7 +60681,7 @@ export const bookItems = [
     title: "人在斗破，开局成为法则掌控者",
     cover: bookCovermou,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-408章",
@@ -57090,6 +60690,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ou_人在斗破，开局成为法则掌控者1-408章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ou/",
   },
+
 {
     id: "m_ov",
     slug: "同时穿越：从打造机械水浒开始",
@@ -57106,6 +60707,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ov_同时穿越：从打造机械水浒开始1-369章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ov/",
   },
+
 {
     id: "m_ow",
     slug: "美漫之手术果实",
@@ -57140,6 +60742,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ox_凡人修仙，从种葫芦开始1-670章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ox/",
   },
+
 {
     id: "m_oy",
     slug: "法兰西之父",
@@ -57155,6 +60758,7 @@ export const bookItems = [
     downloadUrl: "/books/m_oy_法兰西之父1-878章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/oy/",
   },
+
 {
     id: "m_oz",
     slug: "宝可梦旅拍：从蹭热度开始",
@@ -57170,6 +60774,7 @@ export const bookItems = [
     downloadUrl: "/books/m_oz_宝可梦旅拍：从蹭热度开始1-631章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/oz/",
   },
+
 {
     id: "m_pa",
     slug: "乡村种田：我的建筑能升级",
@@ -57186,6 +60791,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pa_乡村种田：我的建筑能升级1-423章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pa/",
   },
+
 {
     id: "m_pc",
     slug: "经营农家乐，开局吕布上门喝酒",
@@ -57201,6 +60807,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pc_经营农家乐，开局吕布上门喝酒1-731章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pc/",
   },
+
 {
     id: "m_pd",
     slug: "不帅踢什么球",
@@ -57217,6 +60824,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pd_不帅踢什么球1-284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pd/",
   },
+
 {
     id: "m_pe",
     slug: "天幕：带着长乐游皇陵，万朝破防",
@@ -57233,6 +60841,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pe_天幕：带着长乐游皇陵，万朝破防1-359章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pe/",
   },
+
 {
     id: "m_pf",
     slug: "凡人之做个俗人",
@@ -57249,6 +60858,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pf_凡人之做个俗人1-1037章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pf/",
   },
+
 {
     id: "m_pg",
     slug: "我来扮演众生！",
@@ -57281,6 +60891,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ph_野夫提刀录1-662章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ph/",
   },
+
 {
     id: "m_pi",
     slug: "斗罗：神级作弊器，出山即是无敌",
@@ -57296,6 +60907,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pi_斗罗：神级作弊器，出山即是无敌1-1307章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pi/",
   },
+
 {
     id: "m_pl",
     slug: "彼可取而代之",
@@ -57311,6 +60923,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pl_彼可取而代之1-466章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pl/",
   },
+
 {
     id: "m_pm",
     slug: "缔造美利坚：我竞选经理是罗斯福",
@@ -57344,6 +60957,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pn_我才是徒弟们的随身老爷爷？1-492章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pn/",
   },
+
 {
     id: "m_po",
     slug: "重生1987：从录像厅开始",
@@ -57360,6 +60974,7 @@ export const bookItems = [
     downloadUrl: "/books/m_po_重生1987：从录像厅开始1-448章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/po/",
   },
+
 {
     id: "m_pp",
     slug: "日本战国：真田家的野望",
@@ -57376,6 +60991,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pp_日本战国：真田家的野望1-578章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pp/",
   },
+
 {
     id: "m_pq",
     slug: "半岛教授：顶流爱豆禁止蹭课",
@@ -57410,6 +61026,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pr_同时穿越：在武侠诸天成为反派！1-303章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pr/",
   },
+
 {
     id: "m_ps",
     slug: "状元郎",
@@ -57443,6 +61060,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pt_帝皇在上1-860章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pt/",
   },
+
 {
     id: "m_pu",
     slug: "华娱：是小花主动的",
@@ -57459,6 +61077,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pu_华娱：是小花主动的1-334章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pu/",
   },
+
 {
     id: "m_pw",
     slug: "末世第一狠人",
@@ -57474,6 +61093,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pw_末世第一狠人1-1851章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pw/",
   },
+
 {
     id: "m_px",
     slug: "中药逆袭：从每日情报开始",
@@ -57507,6 +61127,7 @@ export const bookItems = [
     downloadUrl: "/books/m_py_蜀山玄阴教主1-762章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/py/",
   },
+
 {
     id: "m_pz",
     slug: "足球：19岁融合39岁大罗模板",
@@ -57522,6 +61143,7 @@ export const bookItems = [
     downloadUrl: "/books/m_pz_足球：19岁融合39岁大罗模板1-461章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/pz/",
   },
+
 {
     id: "m_q",
     slug: "让你搞垮公司，塞尔达是什么鬼？",
@@ -57538,6 +61160,7 @@ export const bookItems = [
     downloadUrl: "/books/m_q_让你搞垮公司，塞尔达是什么鬼？1-379章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/q/",
   },
+
 {
     id: "m_qb",
     slug: "高维化身，开局撬动星辰",
@@ -57554,6 +61177,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qb_高维化身，开局撬动星辰1-186章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qb/",
   },
+
 {
     id: "m_qc",
     slug: "古龙世界里的第一深情",
@@ -57570,6 +61194,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qc_古龙世界里的第一深情1-498章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qc/",
   },
+
 {
     id: "m_qf",
     slug: "网球：他实在太听劝了！",
@@ -57603,6 +61228,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qg_大赵斩夜使1-717章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qg/",
   },
+
 {
     id: "m_qi",
     slug: "三国：季汉书",
@@ -57618,6 +61244,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qi_三国：季汉书1-574章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qi/",
   },
+
 {
     id: "m_qj",
     slug: "仙王的日常生活",
@@ -57651,6 +61278,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ql_入侵神话：从教书先生开始1-1497章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ql/",
   },
+
 {
     id: "m_qp",
     slug: "火红年代：从钳工开始成科技巨头",
@@ -57667,6 +61295,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qp_火红年代：从钳工开始成科技巨头1-270章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qp/",
   },
+
 {
     id: "m_qq",
     slug: "直播鉴宝：你这精灵可不兴育啊！",
@@ -57683,6 +61312,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qq_直播鉴宝：你这精灵可不兴育啊！1-786章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qq/",
   },
+
 {
     id: "m_qr",
     slug: "影视：从四合院开始双穿欢乐颂",
@@ -57698,6 +61328,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qr_影视：从四合院开始双穿欢乐颂1-792章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qr/",
   },
+
 {
     id: "m_qt",
     slug: "新世纪瓦战士",
@@ -57714,6 +61345,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qt_新世纪瓦战士1-150章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qt/",
   },
+
 {
     id: "m_qu",
     slug: "在此刻，击碎次元壁",
@@ -57729,6 +61361,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qu_在此刻，击碎次元壁1-381章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qu/",
   },
+
 {
     id: "m_qv",
     slug: "英雄无敌：大执政官",
@@ -57745,6 +61378,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qv_英雄无敌：大执政官1-594章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qv/",
   },
+
 {
     id: "m_qw",
     slug: "影视从欢乐颂截胡关雎尔开始",
@@ -57760,6 +61394,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qw_影视从欢乐颂截胡关雎尔开始1-1872章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qw/",
   },
+
 {
     id: "m_qx",
     slug: "从一人之下开始肝穿世界",
@@ -57775,6 +61410,7 @@ export const bookItems = [
     downloadUrl: "/books/m_qx_从一人之下开始肝穿世界1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/qx/",
   },
+
 {
     id: "m_qz",
     slug: "在线鉴宠，大哥这狗认为在训你啊",
@@ -57826,6 +61462,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ra_原来我才是妖魔啊1-426章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ra/",
   },
+
 {
     id: "m_rb",
     slug: "无尽海洋：从独木舟开始逃生",
@@ -57842,6 +61479,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rb_无尽海洋：从独木舟开始逃生1-602章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rb/",
   },
+
 {
     id: "m_rc",
     slug: "我的哥哥是高欢",
@@ -57858,6 +61496,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rc_我的哥哥是高欢1-921章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rc/",
   },
+
 {
     id: "m_rd",
     slug: "纵横诸天从曼陀山庄开始",
@@ -57874,6 +61513,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rd_纵横诸天从曼陀山庄开始1-339章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rd/",
   },
+
 {
     id: "m_re",
     slug: "武侠世界，红尘成仙",
@@ -57890,6 +61530,7 @@ export const bookItems = [
     downloadUrl: "/books/m_re_武侠世界，红尘成仙1-332章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/re/",
   },
+
 {
     id: "m_rf",
     slug: "重生那年1985",
@@ -57906,6 +61547,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rf_重生那年19851-1137章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rf/",
   },
+
 {
     id: "m_rg",
     slug: "年代剧：老曹的潇洒人生",
@@ -57921,6 +61563,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rg_年代剧：老曹的潇洒人生1-533章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rg/",
   },
+
 {
     id: "m_rh",
     slug: "美漫哥斯拉：从二级变种人开始",
@@ -57936,6 +61579,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rh_美漫哥斯拉：从二级变种人开始1-565章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rh/",
   },
+
 {
     id: "m_rj",
     slug: "人在地错，从捡到精灵少女开始",
@@ -57968,6 +61612,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rl_狗头人的巫师日志1-1083章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rl/",
   },
+
 {
     id: "m_rm",
     slug: "四合院：开局水货工程师",
@@ -57984,6 +61629,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rm_四合院：开局水货工程师1-356章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rm/",
   },
+
 {
     id: "m_rn",
     slug: "这个反派过于有人气",
@@ -58000,6 +61646,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rn_这个反派过于有人气1-527章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rn/",
   },
+
 {
     id: "m_ro",
     slug: "人在斗破：天赋绝世竟带系统",
@@ -58015,6 +61662,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ro_人在斗破：天赋绝世竟带系统1-928章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ro/",
   },
+
 {
     id: "m_rp",
     slug: "诸天：从吞噬星空成神开始",
@@ -58031,6 +61679,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rp_诸天：从吞噬星空成神开始1-724章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rp/",
   },
+
 {
     id: "m_rr",
     slug: "红楼：开局吕布天赋",
@@ -58047,6 +61696,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rr_红楼：开局吕布天赋1-653章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rr/",
   },
+
 {
     id: "m_rt",
     slug: "从魔法少女开始独断万古",
@@ -58080,6 +61730,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ru_洪荒：重生一气仙，稳健修行1-493章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ru/",
   },
+
 {
     id: "m_rv",
     slug: "宝可梦：关于饲育屋那些事",
@@ -58096,6 +61747,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rv_宝可梦：关于饲育屋那些事1-606章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rv/",
   },
+
 {
     id: "m_rw",
     slug: "重生之浪王之王",
@@ -58111,6 +61763,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rw_重生之浪王之王1-357章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rw/",
   },
+
 {
     id: "m_rx",
     slug: "今天也没有被顾客吃掉",
@@ -58127,6 +61780,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rx_今天也没有被顾客吃掉1-507章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rx/",
   },
+
 {
     id: "m_ry",
     slug: "1979知青返城，从文豪开始",
@@ -58160,6 +61814,7 @@ export const bookItems = [
     downloadUrl: "/books/m_rz_我在修仙界大器晚成1-1415章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/rz/",
   },
+
 {
     id: "m_s",
     slug: "星河之上",
@@ -58175,6 +61830,7 @@ export const bookItems = [
     downloadUrl: "/books/m_s_星河之上1-704章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/s/",
   },
+
 {
     id: "m_sac",
     slug: "死神：天生数值怪，做幕后黑手？",
@@ -58191,6 +61847,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sac_死神：天生数值怪，做幕后黑手？1-331章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sac/",
   },
+
 {
     id: "m_sad",
     slug: "斗罗：龙王之霍雨浩活在万年后",
@@ -58207,6 +61864,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sad_斗罗：龙王之霍雨浩活在万年后1-418章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sad/",
   },
+
 {
     id: "m_sae",
     slug: "妖尾：我的魔法是武藤游戏卡组",
@@ -58223,6 +61881,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sae_妖尾：我的魔法是武藤游戏卡组1-626章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sae/",
   },
+
 {
     id: "m_saf",
     slug: "他比我懂宝可梦",
@@ -58239,6 +61898,7 @@ export const bookItems = [
     downloadUrl: "/books/m_saf_他比我懂宝可梦1-4496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/saf/",
   },
+
 {
     id: "m_sai",
     slug: "斗破：全图最强，我永远在你之上",
@@ -58255,6 +61915,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sai_斗破：全图最强，我永远在你之上1-570章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sai/",
   },
+
 {
     id: "m_sak",
     slug: "华娱情报王",
@@ -58270,6 +61931,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sak_华娱情报王1-681章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sak/",
   },
+
 {
     id: "m_sam",
     slug: "华娱：顶流从虐哭存子开始",
@@ -58286,6 +61948,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sam_华娱：顶流从虐哭存子开始1-288章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sam/",
   },
+
 {
     id: "m_sap",
     slug: "从护林员开始的宝可梦大师之旅",
@@ -58318,6 +61981,7 @@ export const bookItems = [
     downloadUrl: "/books/m_saq_我，全民公敌1-207章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/saq/",
   },
+
 {
     id: "m_sar",
     slug: "现代历史课，被皇帝们旁听了",
@@ -58334,6 +61998,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sar_现代历史课，被皇帝们旁听了1-602章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sar/",
   },
+
 {
     id: "m_sat",
     slug: "影视：天道酬勤助我随心所欲",
@@ -58349,6 +62014,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sat_影视：天道酬勤助我随心所欲1-738章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sat/",
   },
+
 {
     id: "m_sau",
     slug: "绿龙",
@@ -58365,6 +62031,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sau_绿龙1-426章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sau/",
   },
+
 {
     id: "m_saw",
     slug: "元末：朕才是真命天子",
@@ -58381,6 +62048,7 @@ export const bookItems = [
     downloadUrl: "/books/m_saw_元末：朕才是真命天子1-886章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/saw/",
   },
+
 {
     id: "m_say",
     slug: "文豪：这大叔才华横溢",
@@ -58397,6 +62065,7 @@ export const bookItems = [
     downloadUrl: "/books/m_say_文豪：这大叔才华横溢1-473章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/say/",
   },
+
 {
     id: "m_saz",
     slug: "导演的艺术就是搞钱",
@@ -58413,6 +62082,7 @@ export const bookItems = [
     downloadUrl: "/books/m_saz_导演的艺术就是搞钱1-298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/saz/",
   },
+
 {
     id: "m_sba",
     slug: "种菜骷髅的异域开荒",
@@ -58428,6 +62098,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sba_种菜骷髅的异域开荒1-1706章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sba/",
   },
+
 {
     id: "m_sbb",
     slug: "特摄：从迪迦奥特曼开始",
@@ -58443,6 +62114,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbb_特摄：从迪迦奥特曼开始1-741章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbb/",
   },
+
 {
     id: "m_sbc",
     slug: "华娱：这个导演太全能",
@@ -58477,6 +62149,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbd_道种修仙，从斩仙葫芦开始1-345章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbd/",
   },
+
 {
     id: "m_sbe",
     slug: "抗战：兵王的批量制造",
@@ -58493,6 +62166,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbe_抗战：兵王的批量制造1-673章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbe/",
   },
+
 {
     id: "m_sbg",
     slug: "从离婚开始的文娱",
@@ -58508,6 +62182,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbg_从离婚开始的文娱1-1728章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbg/",
   },
+
 {
     id: "m_sbh",
     slug: "奶爸学园",
@@ -58540,6 +62215,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbj_元始金章1-797章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbj/",
   },
+
 {
     id: "m_sbk",
     slug: "开局中世纪，正在十字军东征",
@@ -58555,6 +62231,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbk_开局中世纪，正在十字军东征1-808章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbk/",
   },
+
 {
     id: "m_sbl",
     slug: "吞噬星空之主宰",
@@ -58570,6 +62247,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbl_吞噬星空之主宰1-1418章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbl/",
   },
+
 {
     id: "m_sbn",
     slug: "全球进化：我移植了至高神心",
@@ -58586,6 +62264,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbn_全球进化：我移植了至高神心1-1330章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbn/",
   },
+
 {
     id: "m_sbo",
     slug: "民国江湖二十年",
@@ -58618,6 +62297,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbp_西游之我是沙和尚1-509章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbp/",
   },
+
 {
     id: "m_sbq",
     slug: "大明：让你死谏，你怎么真死啊？",
@@ -58634,6 +62314,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbq_大明：让你死谏，你怎么真死啊？1-581章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbq/",
   },
+
 {
     id: "m_sbr",
     slug: "天机骰子",
@@ -58667,6 +62348,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbs_剑道余烬1-1171章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbs/",
   },
+
 {
     id: "m_sbv",
     slug: "美漫世界的圣武士",
@@ -58683,6 +62365,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbv_美漫世界的圣武士1-365章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbv/",
   },
+
 {
     id: "m_sbx",
     slug: "皇冠亦有所属",
@@ -58716,6 +62399,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sbz_壶中仙1-545章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sbz/",
   },
+
 {
     id: "m_scb",
     slug: "帝国余晖：从敦刻尔克开始",
@@ -58732,6 +62416,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scb_帝国余晖：从敦刻尔克开始1-418章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scb/",
   },
+
 {
     id: "m_scc",
     slug: "大宋神探录：展昭传奇",
@@ -58765,6 +62450,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scd_凡人，开局复制掌天瓶1-598章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scd/",
   },
+
 {
     id: "m_sce",
     slug: "半岛：和金泰妍传绯闻后开始爆火",
@@ -58781,6 +62467,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sce_半岛：和金泰妍传绯闻后开始爆火1-694章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sce/",
   },
+
 {
     id: "m_scg",
     slug: "被巴萨租去切尔西后的那些事儿",
@@ -58797,6 +62484,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scg_被巴萨租去切尔西后的那些事儿1-138章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scg/",
   },
+
 {
     id: "m_sch",
     slug: "中世纪：天国拯救",
@@ -58812,6 +62500,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sch_中世纪：天国拯救1-922章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sch/",
   },
+
 {
     id: "m_sck",
     slug: "操控祖宗，从东汉开始创不朽世家",
@@ -58828,6 +62517,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sck_操控祖宗，从东汉开始创不朽世家1-402章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sck/",
   },
+
 {
     id: "m_scl",
     slug: "火红年代！从随身空间开始",
@@ -58844,6 +62534,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scl_火红年代！从随身空间开始1-279章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scl/",
   },
+
 {
     id: "m_scm",
     slug: "灵笼：十二符咒？我什么都不缺了",
@@ -58877,6 +62568,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scn_拳之道！龙蛇起陆1-569章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scn/",
   },
+
 {
     id: "m_scp",
     slug: "华娱：男月光正确炼成方式",
@@ -58893,6 +62585,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scp_华娱：男月光正确炼成方式1-267章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scp/",
   },
+
 {
     id: "m_scq",
     slug: "北美：谁让这只猫当驱魔人的！",
@@ -58909,6 +62602,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scq_北美：谁让这只猫当驱魔人的！1-527章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scq/",
   },
+
 {
     id: "m_scr",
     slug: "50年代：从一枚储物戒开始",
@@ -58942,6 +62636,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scs_你也不想秘密满朝皆知吧1-622章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scs/",
   },
+
 {
     id: "m_sct",
     slug: "不是造车厂吗？怎么改军工厂了",
@@ -58963,15 +62658,16 @@ export const bookItems = [
     title: "玩家重载",
     cover: bookCovermscu,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-730章",
+    chapters: "1-736章",
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_scu_玩家重载1-730章.txt",
+    downloadUrl: "/books/m_scu_玩家重载1-736章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scu/",
   },
+
 {
     id: "m_scv",
     slug: "一人之下：钢铁之躯",
@@ -59006,6 +62702,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scw_黑神话：钟鬼1-424章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scw/",
   },
+
 {
     id: "m_scz",
     slug: "杀穿港综：从见习督察到警队一哥",
@@ -59022,6 +62719,7 @@ export const bookItems = [
     downloadUrl: "/books/m_scz_杀穿港综：从见习督察到警队一哥1-568章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scz/",
   },
+
 {
     id: "m_sd",
     slug: "重生六零小山村：狩猎白山松水",
@@ -59037,6 +62735,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sd_重生六零小山村：狩猎白山松水1-721章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sd/",
   },
+
 {
     id: "m_sdb",
     slug: "我能从现代传送物资到大明",
@@ -59071,6 +62770,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdc_苟在修仙界吞噬成圣1-455章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdc/",
   },
+
 {
     id: "m_sdi",
     slug: "全球挖矿",
@@ -59087,6 +62787,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdi_全球挖矿1-1089章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdi/",
   },
+
 {
     id: "m_sdn",
     slug: "从随心所欲开始神豪",
@@ -59103,6 +62804,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdn_从随心所欲开始神豪1-602章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdn/",
   },
+
 {
     id: "m_sdp",
     slug: "唐奇谭",
@@ -59118,6 +62820,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdp_唐奇谭1-1600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdp/",
   },
+
 {
     id: "m_sdq",
     slug: "汉末昭烈行",
@@ -59133,6 +62836,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdq_汉末昭烈行1-508章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdq/",
   },
+
 {
     id: "m_sdr",
     slug: "我的惊世智慧",
@@ -59165,6 +62869,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sds_家族修仙：先打下一个位面当基业1-256章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sds/",
   },
+
 {
     id: "m_sdu",
     slug: "梦回二战从西西里开始的财阀帝国",
@@ -59181,6 +62886,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdu_梦回二战从西西里开始的财阀帝国1-783章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdu/",
   },
+
 {
     id: "m_sdv",
     slug: "耕战异世界的钢铁洪流",
@@ -59197,6 +62903,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdv_耕战异世界的钢铁洪流1-669章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdv/",
   },
+
 {
     id: "m_sdw",
     slug: "华娱：从1995开始",
@@ -59213,6 +62920,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sdw_华娱：从1995开始1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sdw/",
   },
+
 {
     id: "m_se",
     slug: "四合院之我是猎人",
@@ -59246,6 +62954,7 @@ export const bookItems = [
     downloadUrl: "/books/m_seb_无限神职1-463章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/seb/",
   },
+
 {
     id: "m_sec",
     slug: "草原牧医",
@@ -59262,6 +62971,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sec_草原牧医1-462章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sec/",
   },
+
 {
     id: "m_see",
     slug: "直播相亲：我的情报无限刷新",
@@ -59296,6 +63006,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sef_她们的修仙赢学1-391章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sef/",
   },
+
 {
     id: "m_seg",
     slug: "半岛：被做票的我不再躺平",
@@ -59311,6 +63022,7 @@ export const bookItems = [
     downloadUrl: "/books/m_seg_半岛：被做票的我不再躺平1-365章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/seg/",
   },
+
 {
     id: "m_sek",
     slug: "斗罗大陆，普通魂师的逆袭",
@@ -59343,6 +63055,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sen_醉仙葫1-2505章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sen/",
   },
+
 {
     id: "m_seo",
     slug: "亮剑：我的战场单向透明",
@@ -59359,6 +63072,7 @@ export const bookItems = [
     downloadUrl: "/books/m_seo_亮剑：我的战场单向透明1-281章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/seo/",
   },
+
 {
     id: "m_sep",
     slug: "遮天：我在神话时代自创吞天魔功",
@@ -59375,6 +63089,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sep_遮天：我在神话时代自创吞天魔功1-640章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sep/",
   },
+
 {
     id: "m_ses",
     slug: "年代：汉城往事1995",
@@ -59390,6 +63105,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ses_年代：汉城往事19951-496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ses/",
   },
+
 {
     id: "m_seu",
     slug: "科技制霸：我的员工真不是人！",
@@ -59406,6 +63122,7 @@ export const bookItems = [
     downloadUrl: "/books/m_seu_科技制霸：我的员工真不是人！1-1106章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/seu/",
   },
+
 {
     id: "m_sev",
     slug: "恶魔不会谈恋爱",
@@ -59421,6 +63138,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sev_恶魔不会谈恋爱1-413章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sev/",
   },
+
 {
     id: "m_sey",
     slug: "我在大明当文豪",
@@ -59437,6 +63155,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sey_我在大明当文豪1-506章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sey/",
   },
+
 {
     id: "m_sfa",
     slug: "快收了神通吧！",
@@ -59452,6 +63171,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfa_快收了神通吧！1-497章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfa/",
   },
+
 {
     id: "m_sfb",
     slug: "铮铮大宋",
@@ -59467,6 +63187,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfb_铮铮大宋1-592章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfb/",
   },
+
 {
     id: "m_sfd",
     slug: "面壁者，但元婴期",
@@ -59483,6 +63204,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfd_面壁者，但元婴期1-798章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfd/",
   },
+
 {
     id: "m_sfe",
     slug: "游戏王：我被精灵绑架到决斗都市",
@@ -59499,6 +63221,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfe_游戏王：我被精灵绑架到决斗都市1-609章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfe/",
   },
+
 {
     id: "m_sff",
     slug: "在海贼世界开始成家立业",
@@ -59515,6 +63238,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sff_在海贼世界开始成家立业1-435章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sff/",
   },
+
 {
     id: "m_sfg",
     slug: "大唐：从捣蛋皇子到诸天至尊",
@@ -59531,6 +63255,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfg_大唐：从捣蛋皇子到诸天至尊1-156章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfg/",
   },
+
 {
     id: "m_sfh",
     slug: "都重生了谁考公务员啊",
@@ -59547,6 +63272,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfh_都重生了谁考公务员啊1-872章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfh/",
   },
+
 {
     id: "m_sfi",
     slug: "我在现代留过学",
@@ -59562,6 +63288,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfi_我在现代留过学1-1201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfi/",
   },
+
 {
     id: "m_sfj",
     slug: "做我妈妈吧，魔法少女！",
@@ -59578,6 +63305,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfj_做我妈妈吧，魔法少女！1-418章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfj/",
   },
+
 {
     id: "m_sfk",
     slug: "火影：从罗杰船上归来的漩涡鸣人",
@@ -59611,6 +63339,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfl_工业克苏鲁不相信魔法1-681章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfl/",
   },
+
 {
     id: "m_sfm",
     slug: "抗战从淞沪开始",
@@ -59627,6 +63356,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfm_抗战从淞沪开始1-892章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfm/",
   },
+
 {
     id: "m_sfn",
     slug: "吞噬星空：震惊！巨斧要拜我为师",
@@ -59643,6 +63373,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfn_吞噬星空：震惊！巨斧要拜我为师1-803章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfn/",
   },
+
 {
     id: "m_sfq",
     slug: "系统出错后，我成了LPL救世主",
@@ -59659,6 +63390,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfq_系统出错后，我成了LPL救世主1-422章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfq/",
   },
+
 {
     id: "m_sfs",
     slug: "精灵：帕底亚退役冠军的再就业",
@@ -59709,6 +63441,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfv_家族修仙：从孔雀血脉开始1-933章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfv/",
   },
+
 {
     id: "m_sfw",
     slug: "高武：陪练十年，一招出手天下知",
@@ -59724,6 +63457,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfw_高武：陪练十年，一招出手天下知1-423章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfw/",
   },
+
 {
     id: "m_sfy",
     slug: "1978：从参军开始的文豪",
@@ -59740,6 +63474,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfy_1978：从参军开始的文豪1-493章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfy/",
   },
+
 {
     id: "m_sfz",
     slug: "都市极品医神",
@@ -59756,6 +63491,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sfz_都市极品医神1-12939章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sfz/",
   },
+
 {
     id: "m_sga",
     slug: "Z世代艺术家",
@@ -59790,6 +63526,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgb_道君，从蓬莱筑基开始1-1532章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgb/",
   },
+
 {
     id: "m_sgc",
     slug: "明尊",
@@ -59805,6 +63542,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgc_明尊1-1360章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgc/",
   },
+
 {
     id: "m_sgd",
     slug: "领主：我用骑砍系统肝经验",
@@ -59821,6 +63559,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgd_领主：我用骑砍系统肝经验1-988章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgd/",
   },
+
 {
     id: "m_sgf",
     slug: "大明：我鄢懋卿真的冒青烟",
@@ -59836,6 +63575,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgf_大明：我鄢懋卿真的冒青烟1-650章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgf/",
   },
+
 {
     id: "m_sgg",
     slug: "大唐：开局为李二献上避坑指南",
@@ -59852,6 +63592,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgg_大唐：开局为李二献上避坑指南1-868章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgg/",
   },
+
 {
     id: "m_sgh",
     slug: "说好3A大作，昆特牌什么鬼",
@@ -59885,6 +63626,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgi_山河稷1-789章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgi/",
   },
+
 {
     id: "m_sgn",
     slug: "华娱2008：从分手快乐开始",
@@ -59901,6 +63643,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgn_华娱2008：从分手快乐开始1-677章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgn/",
   },
+
 {
     id: "m_sgo",
     slug: "CS：加点！压donk干载物！",
@@ -59934,6 +63677,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgq_西游之斩业真君1-823章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgq/",
   },
+
 {
     id: "m_sgt",
     slug: "华娱，我的金手指有点怪",
@@ -59950,6 +63694,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgt_华娱，我的金手指有点怪1-452章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgt/",
   },
+
 {
     id: "m_sgu",
     slug: "诡异监管者",
@@ -59965,6 +63710,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgu_诡异监管者1-1770章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgu/",
   },
+
 {
     id: "m_sgx",
     slug: "华娱之从名扬威尼斯开始",
@@ -59980,6 +63726,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgx_华娱之从名扬威尼斯开始1-609章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgx/",
   },
+
 {
     id: "m_sgy",
     slug: "红楼芳华，权倾天下",
@@ -59996,6 +63743,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgy_红楼芳华，权倾天下1-616章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgy/",
   },
+
 {
     id: "m_sgz",
     slug: "韩综：人在半岛，节制天下兵马！",
@@ -60012,6 +63760,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sgz_韩综：人在半岛，节制天下兵马！1-600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sgz/",
   },
+
 {
     id: "m_sh",
     slug: "入职动物园，系统说我拜入御兽宗",
@@ -60027,6 +63776,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sh_入职动物园，系统说我拜入御兽宗1-421章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sh/",
   },
+
 {
     id: "m_sha",
     slug: "阴影帝国",
@@ -60043,6 +63793,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sha_阴影帝国1-1472章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sha/",
   },
+
 {
     id: "m_shc",
     slug: "混在墨西哥当警察",
@@ -60059,6 +63810,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shc_混在墨西哥当警察1-910章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shc/",
   },
+
 {
     id: "m_she",
     slug: "是，首辅！",
@@ -60075,6 +63827,7 @@ export const bookItems = [
     downloadUrl: "/books/m_she_是，首辅！1-124章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/she/",
   },
+
 {
     id: "m_shf",
     slug: "同时穿越，我成了黑暗迪迦",
@@ -60090,6 +63843,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shf_同时穿越，我成了黑暗迪迦1-270章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shf/",
   },
+
 {
     id: "m_shg",
     slug: "血腕雷影，打造最强云隐村",
@@ -60106,6 +63860,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shg_血腕雷影，打造最强云隐村1-327章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shg/",
   },
+
 {
     id: "m_shh",
     slug: "无限轮回：我才是怪物",
@@ -60122,6 +63877,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shh_无限轮回：我才是怪物1-917章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shh/",
   },
+
 {
     id: "m_shi",
     slug: "红色莫斯科",
@@ -60138,6 +63894,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shi_红色莫斯科1-3218章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shi/",
   },
+
 {
     id: "m_shj",
     slug: "从狐妖到斗破：开局反派大师兄",
@@ -60154,6 +63911,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shj_从狐妖到斗破：开局反派大师兄1-818章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shj/",
   },
+
 {
     id: "m_shk",
     slug: "领主求生：从残破小院开始攻略",
@@ -60169,6 +63927,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shk_领主求生：从残破小院开始攻略1-1934章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shk/",
   },
+
 {
     id: "m_shl",
     slug: "诸天恶兽，我以牛鬼蛇神为食",
@@ -60185,6 +63944,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shl_诸天恶兽，我以牛鬼蛇神为食1-507章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shl/",
   },
+
 {
     id: "m_shm",
     slug: "同时穿越：我在诸天证大道",
@@ -60200,6 +63960,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shm_同时穿越：我在诸天证大道1-974章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shm/",
   },
+
 {
     id: "m_sho",
     slug: "华娱：影帝从获取角色词条开始",
@@ -60216,6 +63977,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sho_华娱：影帝从获取角色词条开始1-550章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sho/",
   },
+
 {
     id: "m_shp",
     slug: "系统流主角的我加入聊天群",
@@ -60231,6 +63993,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shp_系统流主角的我加入聊天群1-1221章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shp/",
   },
+
 {
     id: "m_shq",
     slug: "登神：从双职业开始",
@@ -60264,6 +64027,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shr_道友托孤：从养成妖女开始长生1-312章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shr/",
   },
+
 {
     id: "m_shs",
     slug: "诸天聊天群：我的群友全是老登",
@@ -60279,6 +64043,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shs_诸天聊天群：我的群友全是老登1-373章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shs/",
   },
+
 {
     id: "m_sht",
     slug: "没钱怎么当明星",
@@ -60294,6 +64059,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sht_没钱怎么当明星1-440章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sht/",
   },
+
 {
     id: "m_shu",
     slug: "诸天火红年代，冰箱每日刷新",
@@ -60327,6 +64093,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shv_从仙宗真传到无上道主1-342章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shv/",
   },
+
 {
     id: "m_shx",
     slug: "索洛维约夫在沙俄1796",
@@ -60342,6 +64109,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shx_索洛维约夫在沙俄17961-1229章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shx/",
   },
+
 {
     id: "m_shy",
     slug: "自建帐以来：罗马汗国记",
@@ -60357,6 +64125,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shy_自建帐以来：罗马汗国记1-1004章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shy/",
   },
+
 {
     id: "m_shz",
     slug: "从恐怖片开始的假面骑士",
@@ -60373,6 +64142,7 @@ export const bookItems = [
     downloadUrl: "/books/m_shz_从恐怖片开始的假面骑士1-670章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/shz/",
   },
+
 {
     id: "m_si",
     slug: "斗罗：给唐三模拟器后，我无敌了",
@@ -60389,6 +64159,7 @@ export const bookItems = [
     downloadUrl: "/books/m_si_斗罗：给唐三模拟器后，我无敌了1-350章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/si/",
   },
+
 {
     id: "m_sia",
     slug: "华娱2001：叫我导演！",
@@ -60405,6 +64176,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sia_华娱2001：叫我导演！1-594章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sia/",
   },
+
 {
     id: "m_sib",
     slug: "开局掌控魏忠贤，先抄他一个亿！",
@@ -60421,6 +64193,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sib_开局掌控魏忠贤，先抄他一个亿！1-872章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sib/",
   },
+
 {
     id: "m_sid",
     slug: "重生末世：开局中奖3000万",
@@ -60455,6 +64228,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sii_苟出一个武道天家1-462章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sii/",
   },
+
 {
     id: "m_sij",
     slug: "路明非，成为艾尔登之王吧！",
@@ -60471,6 +64245,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sij_路明非，成为艾尔登之王吧！1-795章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sij/",
   },
+
 {
     id: "m_sik",
     slug: "我白金作家，打职业怎么了",
@@ -60504,6 +64279,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sil_长生武道：我有一只金蝉分身1-1302章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sil/",
   },
+
 {
     id: "m_sim",
     slug: "成龙快婿",
@@ -60519,6 +64295,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sim_成龙快婿1-815章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sim/",
   },
+
 {
     id: "m_sin",
     slug: "星辰大远航",
@@ -60571,6 +64348,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sip_摄政妖妃的赤胆忠臣1-637章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sip/",
   },
+
 {
     id: "m_sir",
     slug: "刚成关系户，医疗模拟系统来了",
@@ -60587,6 +64365,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sir_刚成关系户，医疗模拟系统来了1-477章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sir/",
   },
+
 {
     id: "m_sis",
     slug: "重生2015，高中开始做男神",
@@ -60602,6 +64381,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sis_重生2015，高中开始做男神1-530章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sis/",
   },
+
 {
     id: "m_sit",
     slug: "无敌从我看见BOSS血条开始",
@@ -60617,6 +64397,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sit_无敌从我看见BOSS血条开始1-1356章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sit/",
   },
+
 {
     id: "m_siu",
     slug: "家父刘宏，我躺平了",
@@ -60633,6 +64414,7 @@ export const bookItems = [
     downloadUrl: "/books/m_siu_家父刘宏，我躺平了1-660章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/siu/",
   },
+
 {
     id: "m_siv",
     slug: "美剧大世界里的骑士",
@@ -60648,6 +64430,7 @@ export const bookItems = [
     downloadUrl: "/books/m_siv_美剧大世界里的骑士1-2479章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/siv/",
   },
+
 {
     id: "m_siw",
     slug: "重生在四合院的悠然人生",
@@ -60663,6 +64446,7 @@ export const bookItems = [
     downloadUrl: "/books/m_siw_重生在四合院的悠然人生1-896章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/siw/",
   },
+
 {
     id: "m_six",
     slug: "我和无数个我",
@@ -60679,6 +64463,7 @@ export const bookItems = [
     downloadUrl: "/books/m_six_我和无数个我1-991章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/six/",
   },
+
 {
     id: "m_siy",
     slug: "我在恐怖世界横练肉身",
@@ -60712,6 +64497,7 @@ export const bookItems = [
     downloadUrl: "/books/m_siz_贫道略通拳脚1-2060章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/siz/",
   },
+
 {
     id: "m_sj",
     slug: "火影：宇智波只能去当水影",
@@ -60745,6 +64531,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sja_谁能书阁下，白首太玄经1-246章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sja/",
   },
+
 {
     id: "m_sjb",
     slug: "民国：王牌飞行员",
@@ -60760,6 +64547,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjb_民国：王牌飞行员1-952章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjb/",
   },
+
 {
     id: "m_sjc",
     slug: "大明最狠太子，开局渡江抢南京",
@@ -60776,6 +64564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjc_大明最狠太子，开局渡江抢南京1-180章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjc/",
   },
+
 {
     id: "m_sjd",
     slug: "火影圆梦大师！",
@@ -60828,6 +64617,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjf_老祖，时代变了1-917章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjf/",
   },
+
 {
     id: "m_sjg",
     slug: "诸天：从幕末斩鬼开始",
@@ -60844,6 +64634,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjg_诸天：从幕末斩鬼开始1-944章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjg/",
   },
+
 {
     id: "m_sji",
     slug: "诸天武侠：家父步惊云！",
@@ -60877,6 +64668,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjl_凡人：从红尘仙归来的韩立1-423章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjl/",
   },
+
 {
     id: "m_sjm",
     slug: "武装列车在末日",
@@ -60893,6 +64685,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjm_武装列车在末日1-546章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjm/",
   },
+
 {
     id: "m_sjo",
     slug: "黄泉逆行",
@@ -60908,6 +64701,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjo_黄泉逆行1-1080章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjo/",
   },
+
 {
     id: "m_sjp",
     slug: "亮剑：我在战场上捡属性",
@@ -60924,6 +64718,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjp_亮剑：我在战场上捡属性1-479章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjp/",
   },
+
 {
     id: "m_sjq",
     slug: "军工科技",
@@ -60939,6 +64734,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjq_军工科技1-4966章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjq/",
   },
+
 {
     id: "m_sjr",
     slug: "弹道尾迹",
@@ -60955,6 +64751,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjr_弹道尾迹1-594章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjr/",
   },
+
 {
     id: "m_sjs",
     slug: "海贼：从神之谷走出的不死之王",
@@ -60970,6 +64767,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjs_海贼：从神之谷走出的不死之王1-464章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjs/",
   },
+
 {
     id: "m_sjt",
     slug: "从满仓A股开始成为资本",
@@ -60985,6 +64783,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjt_从满仓A股开始成为资本1-567章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjt/",
   },
+
 {
     id: "m_sju",
     slug: "从主神空间归来的路明非",
@@ -61018,6 +64817,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjw_吟游诗人又幻想了1-524章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjw/",
   },
+
 {
     id: "m_sjx",
     slug: "学校穿越求生，每日三条情报",
@@ -61033,6 +64833,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjx_学校穿越求生，每日三条情报1-288章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjx/",
   },
+
 {
     id: "m_sjy",
     slug: "她们都有隐藏属性！",
@@ -61049,6 +64850,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sjy_她们都有隐藏属性！1-266章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sjy/",
   },
+
 {
     id: "m_sk",
     slug: "美利坚头号玩家",
@@ -61065,6 +64867,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sk_美利坚头号玩家1-799章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sk/",
   },
+
 {
     id: "m_ska",
     slug: "1991南元警事",
@@ -61080,6 +64883,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ska_1991南元警事1-666章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ska/",
   },
+
 {
     id: "m_skc",
     slug: "足球：从05世青赛开始",
@@ -61096,6 +64900,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skc_足球：从05世青赛开始1-713章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skc/",
   },
+
 {
     id: "m_skd",
     slug: "刚穿越成超人，被养父母上交国家",
@@ -61112,6 +64917,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skd_刚穿越成超人，被养父母上交国家1-368章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skd/",
   },
+
 {
     id: "m_ske",
     slug: "人在东京，掀起百鬼夜行",
@@ -61128,6 +64934,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ske_人在东京，掀起百鬼夜行1-657章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ske/",
   },
+
 {
     id: "m_skg",
     slug: "战锤：大贤者的维度穿越",
@@ -61180,6 +64987,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skj_公若不弃，愿拜为义父1-2412章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skj/",
   },
+
 {
     id: "m_skk",
     slug: "信我，我真是联盟职业选手",
@@ -61195,6 +65003,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skk_信我，我真是联盟职业选手1-361章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skk/",
   },
+
 {
     id: "m_skm",
     slug: "大国科技之超级复制",
@@ -61211,6 +65020,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skm_大国科技之超级复制1-776章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skm/",
   },
+
 {
     id: "m_sko",
     slug: "战争宫廷和膝枕，奥地利的天命",
@@ -61245,6 +65055,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skp_神话降临现实，我在仙界留过学1-261章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skp/",
   },
+
 {
     id: "m_skq",
     slug: "华娱：我真没想当魅魔啊",
@@ -61260,6 +65071,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skq_华娱：我真没想当魅魔啊1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skq/",
   },
+
 {
     id: "m_skt",
     slug: "大明第一国舅",
@@ -61276,6 +65088,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skt_大明第一国舅1-1282章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skt/",
   },
+
 {
     id: "m_skv",
     slug: "地球电影院",
@@ -61291,6 +65104,7 @@ export const bookItems = [
     downloadUrl: "/books/m_skv_地球电影院1-721章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/skv/",
   },
+
 {
     id: "m_skw",
     slug: "掌出笑傲，睥睨诸天",
@@ -61361,6 +65175,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sl_大燕武圣：从八极拳开始1-412章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sl/",
   },
+
 {
     id: "m_sla",
     slug: "求你了，快退役吧！",
@@ -61376,6 +65191,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sla_求你了，快退役吧！1-423章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sla/",
   },
+
 {
     id: "m_slc",
     slug: "国宝竟是我自己",
@@ -61408,6 +65224,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sld_凡人：天南第一法修1-518章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sld/",
   },
+
 {
     id: "m_sle",
     slug: "大炮巨舰不相信末日怪兽",
@@ -61441,6 +65258,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slf_魔师！1-147章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slf/",
   },
+
 {
     id: "m_slj",
     slug: "1848大清烧炭工",
@@ -61457,6 +65275,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slj_1848大清烧炭工1-729章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slj/",
   },
+
 {
     id: "m_slk",
     slug: "系统出错后，我成了LCK话事人",
@@ -61472,6 +65291,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slk_系统出错后，我成了LCK话事人1-414章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slk/",
   },
+
 {
     id: "m_sll",
     slug: "影视从夜老虎开始",
@@ -61505,6 +65325,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slm_在温瑞安书中，从执掌家门开始！1-292章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slm/",
   },
+
 {
     id: "m_sln",
     slug: "双穿大唐：遇上可爱小兕子",
@@ -61521,6 +65342,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sln_双穿大唐：遇上可爱小兕子1-485章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sln/",
   },
+
 {
     id: "m_slp",
     slug: "斗罗：武魂本体，我才是大师",
@@ -61537,6 +65359,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slp_斗罗：武魂本体，我才是大师1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slp/",
   },
+
 {
     id: "m_slr",
     slug: "唯我独仙：重生的我悠闲修仙",
@@ -61553,6 +65376,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slr_唯我独仙：重生的我悠闲修仙1-716章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slr/",
   },
+
 {
     id: "m_sls",
     slug: "我命令你成为密教教主",
@@ -61568,6 +65392,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sls_我命令你成为密教教主1-897章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sls/",
   },
+
 {
     id: "m_slu",
     slug: "他和她们的群星",
@@ -61583,6 +65408,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slu_他和她们的群星1-2259章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slu/",
   },
+
 {
     id: "m_slv",
     slug: "抠神",
@@ -61598,6 +65424,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slv_抠神1-1632章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slv/",
   },
+
 {
     id: "m_slw",
     slug: "神豪从逆袭人生开始",
@@ -61613,6 +65440,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slw_神豪从逆袭人生开始1-619章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slw/",
   },
+
 {
     id: "m_slx",
     slug: "重回八零年，赶山也是一种生活",
@@ -61629,6 +65457,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slx_重回八零年，赶山也是一种生活1-1924章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slx/",
   },
+
 {
     id: "m_sly",
     slug: "北美驱魔：在芝加哥当道士的日子",
@@ -61645,6 +65474,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sly_北美驱魔：在芝加哥当道士的日子1-443章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sly/",
   },
+
 {
     id: "m_slz",
     slug: "港综：我能刷忠诚度，最大方大佬",
@@ -61660,6 +65490,7 @@ export const bookItems = [
     downloadUrl: "/books/m_slz_港综：我能刷忠诚度，最大方大佬1-458章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/slz/",
   },
+
 {
     id: "m_sma",
     slug: "北宋：剧透未来，赵匡胤崩溃了",
@@ -61676,6 +65507,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sma_北宋：剧透未来，赵匡胤崩溃了1-484章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sma/",
   },
+
 {
     id: "m_smb",
     slug: "我的天，他做菜会发光",
@@ -61691,6 +65523,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smb_我的天，他做菜会发光1-1363章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smb/",
   },
+
 {
     id: "m_smc",
     slug: "歌土怎么了？就说好不好听吧！",
@@ -61707,6 +65540,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smc_歌土怎么了？就说好不好听吧！1-411章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smc/",
   },
+
 {
     id: "m_sme",
     slug: "人在龙族，我是钢铁侠",
@@ -61757,6 +65591,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smh_共生面板，我在修仙界种田长生1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smh/",
   },
+
 {
     id: "m_smi",
     slug: "娱乐圈，从人大毕业生开始",
@@ -61772,6 +65607,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smi_娱乐圈，从人大毕业生开始1-655章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smi/",
   },
+
 {
     id: "m_smk",
     slug: "贫穷少女的东京日常物语",
@@ -61788,6 +65624,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smk_贫穷少女的东京日常物语1-201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smk/",
   },
+
 {
     id: "m_smm",
     slug: "神秘复苏之开局驾驭贞子",
@@ -61804,6 +65641,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smm_神秘复苏之开局驾驭贞子1-668章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smm/",
   },
+
 {
     id: "m_smn",
     slug: "发薪就能变强，我有十亿员工！",
@@ -61844,15 +65682,16 @@ export const bookItems = [
     title: "天命之上",
     cover: bookCovermsms,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-1084章",
+    chapters: "1-1100章",
     excerpt: "世界自毁灭之后重建。 于危崖之上，再起万丈高楼。 被称为天选者的人们活跃在现实的幕后，行走在历史的阴影中，掌握超凡脱俗的力量，领受着崇拜与敬畏。 有人说他们身负天命，万中无一。 可季觉对天命不感兴趣。 他只想有朝一日，去看一看天命之上的风景。 “……” 记录者写到这里停下了笔，看向那个满手油污的汽修工：“所以，这就是你破坏国际秩序、贩卖禁忌武器、资助颠覆组织、引发两极大战、图谋暗中统治世界的理由？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_sms_天命之上1-1084章.txt",
+    downloadUrl: "/books/m_sms_天命之上1-1100章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sms/",
   },
+
 {
     id: "m_smt",
     slug: "玄幻版斗罗",
@@ -61905,6 +65744,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smw_玄鉴仙族1-1613章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smw/",
   },
+
 {
     id: "m_smy",
     slug: "我在唐朝当神仙",
@@ -61921,6 +65761,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smy_我在唐朝当神仙1-954章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smy/",
   },
+
 {
     id: "m_smz",
     slug: "重生1878：美利坚头号悍匪",
@@ -61937,6 +65778,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smz_重生1878：美利坚头号悍匪1-391章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smz/",
   },
+
 {
     id: "m_sn",
     slug: "穿越七零做外贸",
@@ -61952,6 +65794,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sn_穿越七零做外贸1-759章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sn/",
   },
+
 {
     id: "m_snb",
     slug: "华娱2006：我来自初圣魔门",
@@ -61968,6 +65811,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snb_华娱2006：我来自初圣魔门1-391章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snb/",
   },
+
 {
     id: "m_snc",
     slug: "这款末日游戏太真实了",
@@ -61983,6 +65827,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snc_这款末日游戏太真实了1-244章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snc/",
   },
+
 {
     id: "m_sne",
     slug: "华娱：天仙真的太想进步了",
@@ -62017,6 +65862,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snf_大宋为王十三年，方知是天龙1-608章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snf/",
   },
+
 {
     id: "m_sni",
     slug: "战锤：破妄之鸦",
@@ -62032,6 +65878,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sni_战锤：破妄之鸦1-875章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sni/",
   },
+
 {
     id: "m_snj",
     slug: "娱乐大亨：从培养天仙开始",
@@ -62048,6 +65895,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snj_娱乐大亨：从培养天仙开始1-491章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snj/",
   },
+
 {
     id: "m_snk",
     slug: "霍格沃茨的学习面板",
@@ -62063,6 +65911,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snk_霍格沃茨的学习面板1-633章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snk/",
   },
+
 {
     id: "m_snl",
     slug: "诡律禁区",
@@ -62078,6 +65927,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snl_诡律禁区1-598章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snl/",
   },
+
 {
     id: "m_snm",
     slug: "斗罗：编造未来，黑暗至尊霍雨浩",
@@ -62094,6 +65944,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snm_斗罗：编造未来，黑暗至尊霍雨浩1-361章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snm/",
   },
+
 {
     id: "m_snn",
     slug: "无尽乐园",
@@ -62110,6 +65961,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snn_无尽乐园1-632章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snn/",
   },
+
 {
     id: "m_sno",
     slug: "我在现世播撒贝黑莱特",
@@ -62125,6 +65977,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sno_我在现世播撒贝黑莱特1-410章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sno/",
   },
+
 {
     id: "m_snr",
     slug: "网王之第六天魔王",
@@ -62158,6 +66011,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sns_幽冥画皮卷1-553章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sns/",
   },
+
 {
     id: "m_snt",
     slug: "传奇：每天一条捡尸信息",
@@ -62173,6 +66027,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snt_传奇：每天一条捡尸信息1-427章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snt/",
   },
+
 {
     id: "m_snw",
     slug: "好莱坞，我凭特效封神",
@@ -62189,6 +66044,7 @@ export const bookItems = [
     downloadUrl: "/books/m_snw_好莱坞，我凭特效封神1-379章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/snw/",
   },
+
 {
     id: "m_sny",
     slug: "从龙族开始登顶诡秘旧日",
@@ -62204,6 +66060,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sny_从龙族开始登顶诡秘旧日1-313章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sny/",
   },
+
 {
     id: "m_soa",
     slug: "东京刑警：每日一个炸裂情报",
@@ -62226,13 +66083,13 @@ export const bookItems = [
     title: "创业在晚唐",
     cover: bookCovermsod,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-1131章",
+    chapters: "1-1158章",
     excerpt: "命符传李氏二百五十七年后。昔日万国朝宗的煌煌天唐跌跌撞撞地走到了乾符元年的冬至。这年冬，距离王、黄立旗只有三月，距离大唐覆灭也仅剩三十三年。也是这年冬，长安的公卿们依旧沉湎在盛世的余晖，而在帝国的西南方，蕞尔南诏却再次进犯西川。……初战，唐军兵败大渡河，溃众奔邛州，南诏兵锋直指成都。与此同时，大渡河外，修罗战场。一名年轻的唐军甲兵睁开了眼，他推开了身上的尸体，满目斜阳末日。这就是乾符元年，大唐天厦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_sod_创业在晚唐1-1131章.txt",
+    downloadUrl: "/books/m_sod_创业在晚唐1-1158章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sod/",
   },
 
@@ -62253,6 +66110,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sof_入劫封神，开局司掌风雷三灾1-339章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sof/",
   },
+
 {
     id: "m_soi",
     slug: "大明王朝1566之高翰文",
@@ -62285,6 +66143,7 @@ export const bookItems = [
     downloadUrl: "/books/m_soj_人在战锤，是中古圣吉列斯1-391章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/soj/",
   },
+
 {
     id: "m_sok",
     slug: "吞噬进化：我重生成了北极狼",
@@ -62301,6 +66160,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sok_吞噬进化：我重生成了北极狼1-1568章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sok/",
   },
+
 {
     id: "m_sol",
     slug: "从霍格沃茨开始的亡灵法师生涯",
@@ -62317,6 +66177,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sol_从霍格沃茨开始的亡灵法师生涯1-373章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sol/",
   },
+
 {
     id: "m_son",
     slug: "你这辈子就是让游戏给害了！",
@@ -62332,6 +66193,7 @@ export const bookItems = [
     downloadUrl: "/books/m_son_你这辈子就是让游戏给害了！1-1196章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/son/",
   },
+
 {
     id: "m_soo",
     slug: "龙族：从新三国归来的路明非",
@@ -62347,6 +66209,7 @@ export const bookItems = [
     downloadUrl: "/books/m_soo_龙族：从新三国归来的路明非1-653章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/soo/",
   },
+
 {
     id: "m_sop",
     slug: "妖尾：成为英灵需要几步？",
@@ -62363,6 +66226,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sop_妖尾：成为英灵需要几步？1-423章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sop/",
   },
+
 {
     id: "m_sor",
     slug: "美漫：蝙蝠侠能有什么坏心思？",
@@ -62379,6 +66243,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sor_美漫：蝙蝠侠能有什么坏心思？1-1165章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sor/",
   },
+
 {
     id: "m_sov",
     slug: "废土边境检查官",
@@ -62394,6 +66259,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sov_废土边境检查官1-640章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sov/",
   },
+
 {
     id: "m_sow",
     slug: "1984：从破产川菜馆开始",
@@ -62427,6 +66293,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sp_综武：从全真走出的逍遥仙1-617章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sp/",
   },
+
 {
     id: "m_spd",
     slug: "这个明星正得发邪",
@@ -62443,6 +66310,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spd_这个明星正得发邪1-1056章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spd/",
   },
+
 {
     id: "m_spf",
     slug: "1985：开局大雪封门",
@@ -62459,6 +66327,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spf_1985：开局大雪封门1-405章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spf/",
   },
+
 {
     id: "m_sph",
     slug: "NBA：我的天赋能升级",
@@ -62474,6 +66343,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sph_NBA：我的天赋能升级1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sph/",
   },
+
 {
     id: "m_spi",
     slug: "归国顶流，从签约环球音乐开始",
@@ -62490,6 +66360,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spi_归国顶流，从签约环球音乐开始1-312章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spi/",
   },
+
 {
     id: "m_spk",
     slug: "诸天万界之大拯救",
@@ -62506,6 +66377,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spk_诸天万界之大拯救1-4496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spk/",
   },
+
 {
     id: "m_spl",
     slug: "半岛之我的小说无限循环",
@@ -62521,6 +66393,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spl_半岛之我的小说无限循环1-230章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spl/",
   },
+
 {
     id: "m_spm",
     slug: "上古卷轴：魔神大人深不可测",
@@ -62536,6 +66409,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spm_上古卷轴：魔神大人深不可测1-256章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spm/",
   },
+
 {
     id: "m_spn",
     slug: "华娱：满级导演但歌手出道",
@@ -62552,6 +66426,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spn_华娱：满级导演但歌手出道1-787章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spn/",
   },
+
 {
     id: "m_spr",
     slug: "火影：从尸魂界归来的宇智波佐助",
@@ -62568,6 +66443,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spr_火影：从尸魂界归来的宇智波佐助1-282章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spr/",
   },
+
 {
     id: "m_sps",
     slug: "斗罗龙王：千古第一人",
@@ -62583,6 +66459,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sps_斗罗龙王：千古第一人1-486章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sps/",
   },
+
 {
     id: "m_spv",
     slug: "欺世游戏",
@@ -62599,6 +66476,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spv_欺世游戏1-412章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spv/",
   },
+
 {
     id: "m_spx",
     slug: "斗罗，蓝银草？幸好我有合成器",
@@ -62615,6 +66493,7 @@ export const bookItems = [
     downloadUrl: "/books/m_spx_斗罗，蓝银草？幸好我有合成器1-517章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/spx/",
   },
+
 {
     id: "m_sq",
     slug: "我的技能版本不对",
@@ -62631,6 +66510,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sq_我的技能版本不对1-599章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sq/",
   },
+
 {
     id: "m_sqa",
     slug: "循规蹈矩能叫重生吗？",
@@ -62698,6 +66578,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqh_浊世武尊1-504章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqh/",
   },
+
 {
     id: "m_sqm",
     slug: "CS：拿下Major才来系统？",
@@ -62714,6 +66595,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqm_CS：拿下Major才来系统？1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqm/",
   },
+
 {
     id: "m_sqo",
     slug: "重生后，自己养成小青梅",
@@ -62729,6 +66611,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqo_重生后，自己养成小青梅1-472章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqo/",
   },
+
 {
     id: "m_sqp",
     slug: "我名黄天，苍天已死什么鬼？",
@@ -62744,6 +66627,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqp_我名黄天，苍天已死什么鬼？1-460章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqp/",
   },
+
 {
     id: "m_sqr",
     slug: "大宋文豪",
@@ -62760,6 +66644,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqr_大宋文豪1-712章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqr/",
   },
+
 {
     id: "m_sqs",
     slug: "从楚汉争霸开始，打造不朽世家",
@@ -62775,6 +66660,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqs_从楚汉争霸开始，打造不朽世家1-434章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqs/",
   },
+
 {
     id: "m_squ",
     slug: "从谎言之神到诸世之主",
@@ -62791,6 +66677,7 @@ export const bookItems = [
     downloadUrl: "/books/m_squ_从谎言之神到诸世之主1-810章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/squ/",
   },
+
 {
     id: "m_sqy",
     slug: "半岛之我真是顶流",
@@ -62806,6 +66693,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqy_半岛之我真是顶流1-860章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqy/",
   },
+
 {
     id: "m_sqz",
     slug: "华娱之为你而来",
@@ -62828,15 +66716,16 @@ export const bookItems = [
     title: "这位少帅，不对劲！",
     cover: bookCovermsr,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-675章",
+    chapters: "1-693章",
     excerpt: "2007年的足坛风云变幻。皇家马德里银河战舰分崩离析。巴塞罗那“梦二”灵魂放任自流。AC米兰“上帝之子”所向披靡君临王座。阿森纳再无枪王之王。红魔曼联真核蜕变收复英伦山河。铁血蓝军切尔西内部矛盾激化。利物浦迎来“圣婴”。还有...在英冠沉沦三年的利兹联重返英超！一位来自华夏的菜鸟主帅突兀地闯入了欧洲足坛顶级舞台。“我叫郑辉，争一世之辉！”索普拱门训练基地外由少帅亲自镌刻的队训在阳光下熠熠生辉。“为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_sr_这位少帅，不对劲！1-675章.txt",
+    downloadUrl: "/books/m_sr_这位少帅，不对劲！1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sr/",
   },
+
 {
     id: "m_sra",
     slug: "巫师世界的禁书管理员",
@@ -62859,7 +66748,7 @@ export const bookItems = [
     title: "从高校学霸到科研大能",
     cover: bookCovermsrb,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-396章",
@@ -62868,6 +66757,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srb_从高校学霸到科研大能1-396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srb/",
   },
+
 {
     id: "m_src",
     slug: "我靠演讲缔造超凡帝国",
@@ -62901,6 +66791,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srd_我只想死，怎么还成圣了1-317章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srd/",
   },
+
 {
     id: "m_sre",
     slug: "现实扭曲者的战锤之旅",
@@ -62917,6 +66808,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sre_现实扭曲者的战锤之旅1-381章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sre/",
   },
+
 {
     id: "m_srf",
     slug: "华娱大满贯影帝的诞生",
@@ -62950,6 +66842,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srg_接管地府后，我成了诡异头子1-1201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srg/",
   },
+
 {
     id: "m_srh",
     slug: "我的仇敌成了我的道侣",
@@ -62965,6 +66858,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srh_我的仇敌成了我的道侣1-1071章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srh/",
   },
+
 {
     id: "m_sri",
     slug: "在天行九歌观影秦时明月，我麻了",
@@ -62980,6 +66874,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sri_在天行九歌观影秦时明月，我麻了1-601章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sri/",
   },
+
 {
     id: "m_srk",
     slug: "半岛：idol们都能听见我心声",
@@ -62996,6 +66891,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srk_半岛：idol们都能听见我心声1-362章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srk/",
   },
+
 {
     id: "m_srl",
     slug: "影视世界从小舍得开始",
@@ -63011,6 +66907,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srl_影视世界从小舍得开始1-2441章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srl/",
   },
+
 {
     id: "m_srm",
     slug: "玩家请上车",
@@ -63027,6 +66924,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srm_玩家请上车1-3286章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srm/",
   },
+
 {
     id: "m_srn",
     slug: "同时穿越：怎么是少儿频道",
@@ -63043,6 +66941,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srn_同时穿越：怎么是少儿频道1-557章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srn/",
   },
+
 {
     id: "m_sro",
     slug: "太平记",
@@ -63058,6 +66957,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sro_太平记1-645章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sro/",
   },
+
 {
     id: "m_srq",
     slug: "流窜诸天的恶势力",
@@ -63074,6 +66974,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srq_流窜诸天的恶势力1-2918章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srq/",
   },
+
 {
     id: "m_srr",
     slug: "大明王朝1556",
@@ -63107,6 +67008,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srs_民国：戏子？请叫我武道宗师！1-385章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srs/",
   },
+
 {
     id: "m_srt",
     slug: "贞观悍师：从教太子逆袭开始",
@@ -63123,6 +67025,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srt_贞观悍师：从教太子逆袭开始1-524章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srt/",
   },
+
 {
     id: "m_sru",
     slug: "恐怖诸天：我直接拜酆都黑律！",
@@ -63139,6 +67042,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sru_恐怖诸天：我直接拜酆都黑律！1-614章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sru/",
   },
+
 {
     id: "m_srv",
     slug: "我打造了无敌舰队",
@@ -63155,6 +67059,7 @@ export const bookItems = [
     downloadUrl: "/books/m_srv_我打造了无敌舰队1-1257章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srv/",
   },
+
 {
     id: "m_srw",
     slug: "重生从艺考状元开始",
@@ -63213,7 +67118,7 @@ export const bookItems = [
     title: "永噩长夜",
     cover: bookCovermsrz,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-1393章",
@@ -63240,6 +67145,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ss_人在大隋刚登基，你说这是西游记1-767章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ss/",
   },
+
 {
     id: "m_ssa",
     slug: "我在北海道教吹奏",
@@ -63273,6 +67179,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssb_速通武侠世界：我专治意难平！1-596章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssb/",
   },
+
 {
     id: "m_ssc",
     slug: "综网：从速刷打灰开始的战斗天选",
@@ -63289,6 +67196,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssc_综网：从速刷打灰开始的战斗天选1-685章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssc/",
   },
+
 {
     id: "m_ssd",
     slug: "遮天：我为东皇太一",
@@ -63304,6 +67212,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssd_遮天：我为东皇太一1-861章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssd/",
   },
+
 {
     id: "m_sse",
     slug: "同时穿越，但是反派科学家",
@@ -63320,6 +67229,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sse_同时穿越，但是反派科学家1-1482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sse/",
   },
+
 {
     id: "m_ssf",
     slug: "谍云迷踪",
@@ -63388,6 +67298,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssj_凡人：刚结丹，系统让我小心墨老1-906章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssj/",
   },
+
 {
     id: "m_ssk",
     slug: "华娱2014：从煤二代开始",
@@ -63404,6 +67315,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssk_华娱2014：从煤二代开始1-324章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssk/",
   },
+
 {
     id: "m_ssl",
     slug: "球神从被动技能开始",
@@ -63437,6 +67349,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssm_国术通神，我在民国修长生1-305章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssm/",
   },
+
 {
     id: "m_ssn",
     slug: "火影：扮演反派的我成了人气角色",
@@ -63452,6 +67365,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssn_火影：扮演反派的我成了人气角色1-435章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssn/",
   },
+
 {
     id: "m_sso",
     slug: "重生后，小花们追着和我谈恋爱",
@@ -63468,6 +67382,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sso_重生后，小花们追着和我谈恋爱1-322章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sso/",
   },
+
 {
     id: "m_ssp",
     slug: "奥特曼：好机师是不挑奥的",
@@ -63483,6 +67398,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssp_奥特曼：好机师是不挑奥的1-852章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssp/",
   },
+
 {
     id: "m_ssq",
     slug: "请摧毁主时间线",
@@ -63499,6 +67415,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssq_请摧毁主时间线1-673章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssq/",
   },
+
 {
     id: "m_sst",
     slug: "蒸汽之国的爱丽丝",
@@ -63514,6 +67431,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sst_蒸汽之国的爱丽丝1-1630章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sst/",
   },
+
 {
     id: "m_ssv",
     slug: "强制平仓：从炒黄金外汇开始暴富",
@@ -63530,6 +67448,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ssv_强制平仓：从炒黄金外汇开始暴富1-1517章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ssv/",
   },
+
 {
     id: "m_ssw",
     slug: "民国大师：从文豪开始崛起",
@@ -63582,6 +67501,7 @@ export const bookItems = [
     downloadUrl: "/books/m_st_从五禽拳开始肉身成圣1-888章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/st/",
   },
+
 {
     id: "m_sta",
     slug: "全球觉醒：开局加入聊天群",
@@ -63615,6 +67535,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stb_我在凡人百炼成仙1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stb/",
   },
+
 {
     id: "m_stc",
     slug: "我15岁拿金棕榈很合理啊",
@@ -63631,6 +67552,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stc_我15岁拿金棕榈很合理啊1-756章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stc/",
   },
+
 {
     id: "m_stf",
     slug: "高达seed：家在尤尼乌斯七号",
@@ -63646,6 +67568,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stf_高达seed：家在尤尼乌斯七号1-714章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stf/",
   },
+
 {
     id: "m_stg",
     slug: "游戏王：从云玩家到魂玩家",
@@ -63668,7 +67591,7 @@ export const bookItems = [
     title: "我的替身是史蒂夫",
     cover: bookCovermsth,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-1604章",
@@ -63730,6 +67653,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stl_从肝熟练度开始长生不死1-953章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stl/",
   },
+
 {
     id: "m_stn",
     slug: "我在星际战场捡天赋",
@@ -63751,7 +67675,7 @@ export const bookItems = [
     title: "超凡大谱系",
     cover: bookCovermsto,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-1355章",
@@ -63760,6 +67684,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sto_超凡大谱系1-1355章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sto/",
   },
+
 {
     id: "m_stp",
     slug: "柯南：怪谈侦探的恋爱日常",
@@ -63776,6 +67701,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stp_柯南：怪谈侦探的恋爱日常1-372章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stp/",
   },
+
 {
     id: "m_stq",
     slug: "同穿，但全是低武？",
@@ -63791,6 +67717,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stq_同穿，但全是低武？1-298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stq/",
   },
+
 {
     id: "m_str",
     slug: "以神通之名",
@@ -63807,6 +67734,7 @@ export const bookItems = [
     downloadUrl: "/books/m_str_以神通之名1-679章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/str/",
   },
+
 {
     id: "m_stt",
     slug: "斗罗龙王：我圣剑使，斩尽诸邪",
@@ -63822,6 +67750,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stt_斗罗龙王：我圣剑使，斩尽诸邪1-354章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stt/",
   },
+
 {
     id: "m_stw",
     slug: "东京泡沫人生",
@@ -63837,6 +67766,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stw_东京泡沫人生1-1662章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stw/",
   },
+
 {
     id: "m_sty",
     slug: "从文盲开始的顶流时代",
@@ -63853,6 +67783,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sty_从文盲开始的顶流时代1-238章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sty/",
   },
+
 {
     id: "m_su",
     slug: "霍格沃茨魔力即正义",
@@ -63887,6 +67818,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sud_修仙：我的本命灵舰纵横乱星海1-522章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sud/",
   },
+
 {
     id: "m_sue",
     slug: "盗墓之我是胡八一的表弟",
@@ -63902,6 +67834,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sue_盗墓之我是胡八一的表弟1-968章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sue/",
   },
+
 {
     id: "m_sug",
     slug: "重生从换亲上门开始",
@@ -63918,6 +67851,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sug_重生从换亲上门开始1-538章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sug/",
   },
+
 {
     id: "m_suh",
     slug: "文娱2000：捧女明星百倍返利",
@@ -63934,6 +67868,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suh_文娱2000：捧女明星百倍返利1-772章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suh/",
   },
+
 {
     id: "m_sui",
     slug: "斗破双穿门，我的兄弟是林动",
@@ -63949,6 +67884,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sui_斗破双穿门，我的兄弟是林动1-790章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sui/",
   },
+
 {
     id: "m_suj",
     slug: "红楼：我是贾琏",
@@ -63964,6 +67900,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suj_红楼：我是贾琏1-957章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suj/",
   },
+
 {
     id: "m_suk",
     slug: "路明非：我老婆好像全是恶龙",
@@ -63979,6 +67916,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suk_路明非：我老婆好像全是恶龙1-573章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suk/",
   },
+
 {
     id: "m_sul",
     slug: "四合院：开局就掀桌子",
@@ -63994,6 +67932,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sul_四合院：开局就掀桌子1-346章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sul/",
   },
+
 {
     id: "m_sum",
     slug: "就你叫大导演啊？",
@@ -64010,6 +67949,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sum_就你叫大导演啊？1-257章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sum/",
   },
+
 {
     id: "m_sun",
     slug: "穿越慕容复，多子多福",
@@ -64026,6 +67966,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sun_穿越慕容复，多子多福1-818章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sun/",
   },
+
 {
     id: "m_suo",
     slug: "海贼：霸气转动一百万匹！",
@@ -64042,6 +67983,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suo_海贼：霸气转动一百万匹！1-270章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suo/",
   },
+
 {
     id: "m_sup",
     slug: "吞噬星空：从优化五心向天开始",
@@ -64057,6 +67999,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sup_吞噬星空：从优化五心向天开始1-799章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sup/",
   },
+
 {
     id: "m_sur",
     slug: "从流浪地球开始打造人类帝国",
@@ -64072,6 +68015,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sur_从流浪地球开始打造人类帝国1-481章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sur/",
   },
+
 {
     id: "m_sus",
     slug: "重回年代，接盘成为人生赢家",
@@ -64088,6 +68032,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sus_重回年代，接盘成为人生赢家1-381章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sus/",
   },
+
 {
     id: "m_sut",
     slug: "斗罗大舞台，我叫千寻疾",
@@ -64103,6 +68048,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sut_斗罗大舞台，我叫千寻疾1-372章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sut/",
   },
+
 {
     id: "m_suu",
     slug: "红楼帝业",
@@ -64119,6 +68065,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suu_红楼帝业1-419章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suu/",
   },
+
 {
     id: "m_suv",
     slug: "香江1984：从当歌手开始",
@@ -64134,6 +68081,7 @@ export const bookItems = [
     downloadUrl: "/books/m_suv_香江1984：从当歌手开始1-659章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/suv/",
   },
+
 {
     id: "m_sux",
     slug: "杀手小姐重度依赖",
@@ -64149,6 +68097,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sux_杀手小姐重度依赖1-338章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sux/",
   },
+
 {
     id: "m_suz",
     slug: "东京病恋女友",
@@ -64216,6 +68165,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svd_长生从继承练气宗门开始1-960章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svd/",
   },
+
 {
     id: "m_sve",
     slug: "1960：我叔叔是FBI局长",
@@ -64249,6 +68199,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svg_修仙飞升指南1-554章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svg/",
   },
+
 {
     id: "m_svh",
     slug: "穿越三代：让木叶再次伟大！",
@@ -64264,6 +68215,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svh_穿越三代：让木叶再次伟大！1-279章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svh/",
   },
+
 {
     id: "m_svi",
     slug: "我的低保，每天到账1000万",
@@ -64297,6 +68249,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svj_红颜助我证长生1-1273章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svj/",
   },
+
 {
     id: "m_svo",
     slug: "万法归一：开局我就成仙了",
@@ -64313,6 +68266,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svo_万法归一：开局我就成仙了1-583章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svo/",
   },
+
 {
     id: "m_svq",
     slug: "人在战锤，游骑兵出动！",
@@ -64347,6 +68301,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svr_十国侠影1-520章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svr/",
   },
+
 {
     id: "m_svs",
     slug: "斗罗：人在遮天，被斗罗直播了",
@@ -64363,6 +68318,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svs_斗罗：人在遮天，被斗罗直播了1-344章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svs/",
   },
+
 {
     id: "m_svt",
     slug: "全职法师：重生莫凡，很合理吧！",
@@ -64378,6 +68334,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svt_全职法师：重生莫凡，很合理吧！1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svt/",
   },
+
 {
     id: "m_svw",
     slug: "从神话三国开始征服万界",
@@ -64394,6 +68351,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svw_从神话三国开始征服万界1-1285章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svw/",
   },
+
 {
     id: "m_svx",
     slug: "小米重工，第一次创业！",
@@ -64410,6 +68368,7 @@ export const bookItems = [
     downloadUrl: "/books/m_svx_小米重工，第一次创业！1-1005章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/svx/",
   },
+
 {
     id: "m_sw",
     slug: "华娱之学院派大导演",
@@ -64426,6 +68385,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sw_华娱之学院派大导演1-647章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sw/",
   },
+
 {
     id: "m_swa",
     slug: "重生港综1982：我有天眼通",
@@ -64476,6 +68436,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swd_从祸乱后宫开始长生不死1-574章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swd/",
   },
+
 {
     id: "m_swe",
     slug: "LPL史记",
@@ -64492,6 +68453,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swe_LPL史记1-465章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swe/",
   },
+
 {
     id: "m_swi",
     slug: "大明国医：从九族危机到洪武独相",
@@ -64526,6 +68488,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swk_大赤仙门1-1160章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swk/",
   },
+
 {
     id: "m_swl",
     slug: "精灵：同时穿越，这个小智太全能",
@@ -64542,6 +68505,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swl_精灵：同时穿越，这个小智太全能1-576章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swl/",
   },
+
 {
     id: "m_swm",
     slug: "华娱1988，从小虎队开始",
@@ -64557,6 +68521,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swm_华娱1988，从小虎队开始1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swm/",
   },
+
 {
     id: "m_swn",
     slug: "以一龙之力打倒整个世界！",
@@ -64573,6 +68538,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swn_以一龙之力打倒整个世界！1-735章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swn/",
   },
+
 {
     id: "m_swo",
     slug: "中世纪崛起",
@@ -64605,6 +68571,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swp_青葫剑仙1-2883章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swp/",
   },
+
 {
     id: "m_swq",
     slug: "同时穿越：融合世界观",
@@ -64621,6 +68588,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swq_同时穿越：融合世界观1-312章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swq/",
   },
+
 {
     id: "m_swr",
     slug: "文字游戏：吾乃人间太岁神",
@@ -64636,6 +68604,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swr_文字游戏：吾乃人间太岁神1-1552章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swr/",
   },
+
 {
     id: "m_swu",
     slug: "开局见稽古，我复制万法",
@@ -64652,6 +68621,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swu_开局见稽古，我复制万法1-385章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swu/",
   },
+
 {
     id: "m_swv",
     slug: "三国：季汉兵仙从奇袭襄阳开始",
@@ -64668,6 +68638,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swv_三国：季汉兵仙从奇袭襄阳开始1-766章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swv/",
   },
+
 {
     id: "m_sww",
     slug: "熟睡之后",
@@ -64683,6 +68654,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sww_熟睡之后1-950章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sww/",
   },
+
 {
     id: "m_swx",
     slug: "你不准玩宝可梦！",
@@ -64699,6 +68671,7 @@ export const bookItems = [
     downloadUrl: "/books/m_swx_你不准玩宝可梦！1-606章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/swx/",
   },
+
 {
     id: "m_swz",
     slug: "F1：绝对车感",
@@ -64733,6 +68706,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sx_西游之浪浪山的金蟾子1-601章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sx/",
   },
+
 {
     id: "m_sxc",
     slug: "末日游戏：我觉醒指挥官天赋",
@@ -64748,6 +68722,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxc_末日游戏：我觉醒指挥官天赋1-785章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxc/",
   },
+
 {
     id: "m_sxd",
     slug: "从钢铁侠远坂时臣开始整活",
@@ -64764,6 +68739,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxd_从钢铁侠远坂时臣开始整活1-284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxd/",
   },
+
 {
     id: "m_sxe",
     slug: "LOL：重生S3，调教全联盟",
@@ -64797,6 +68773,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxf_万法诡道，我为灵尊1-494章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxf/",
   },
+
 {
     id: "m_sxg",
     slug: "斗罗聊天群：她们都吃瓜吃上瘾了",
@@ -64813,6 +68790,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxg_斗罗聊天群：她们都吃瓜吃上瘾了1-154章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxg/",
   },
+
 {
     id: "m_sxh",
     slug: "败犬队友太多了",
@@ -64845,6 +68823,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxj_家族崛起：从每日情报开始1-957章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxj/",
   },
+
 {
     id: "m_sxk",
     slug: "天理协议",
@@ -64861,6 +68840,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxk_天理协议1-541章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxk/",
   },
+
 {
     id: "m_sxl",
     slug: "唯我独法：东京奇幻日常",
@@ -64894,6 +68874,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxm_高武修仙：从摆烂开始变强1-712章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxm/",
   },
+
 {
     id: "m_sxn",
     slug: "诸天世界同时穿越",
@@ -64909,6 +68890,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxn_诸天世界同时穿越1-695章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxn/",
   },
+
 {
     id: "m_sxo",
     slug: "人在异界，开局出卖100点良心",
@@ -64942,6 +68924,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxt_从龙象般若功开始创武成圣1-381章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxt/",
   },
+
 {
     id: "m_sxu",
     slug: "庆余年：开局抱长公主大腿！",
@@ -64958,6 +68941,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxu_庆余年：开局抱长公主大腿！1-450章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxu/",
   },
+
 {
     id: "m_sxv",
     slug: "说好拿奖片，怎么拍黑暗侵袭",
@@ -64974,6 +68958,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxv_说好拿奖片，怎么拍黑暗侵袭1-841章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxv/",
   },
+
 {
     id: "m_sxy",
     slug: "混在模特圈，我的情报每日刷新",
@@ -64990,6 +68975,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sxy_混在模特圈，我的情报每日刷新1-748章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sxy/",
   },
+
 {
     id: "m_sy",
     slug: "新汉皇朝1834",
@@ -65024,6 +69010,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syb_西游：我能分解世间万物1-232章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syb/",
   },
+
 {
     id: "m_syd",
     slug: "重生西南，独居赶山生活",
@@ -65040,6 +69027,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syd_重生西南，独居赶山生活1-193章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syd/",
   },
+
 {
     id: "m_sye",
     slug: "乒乓：挥拍亿万次，超神全满贯",
@@ -65056,6 +69044,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sye_乒乓：挥拍亿万次，超神全满贯1-646章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sye/",
   },
+
 {
     id: "m_syf",
     slug: "喧嚣未及之处",
@@ -65088,6 +69077,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syg_蜀山镇世地仙1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syg/",
   },
+
 {
     id: "m_syi",
     slug: "从八门遁甲开始横推元祖无限",
@@ -65104,6 +69094,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syi_从八门遁甲开始横推元祖无限1-323章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syi/",
   },
+
 {
     id: "m_syj",
     slug: "北齐：家父文宣帝",
@@ -65120,6 +69111,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syj_北齐：家父文宣帝1-1339章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syj/",
   },
+
 {
     id: "m_syl",
     slug: "无限之憧憬成为主神空间高手",
@@ -65136,6 +69128,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syl_无限之憧憬成为主神空间高手1-416章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syl/",
   },
+
 {
     id: "m_sym",
     slug: "漫威咸鱼氪星人",
@@ -65152,6 +69145,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sym_漫威咸鱼氪星人1-1299章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sym/",
   },
+
 {
     id: "m_syo",
     slug: "荒野求生：这个塌房顶流太能活了",
@@ -65168,6 +69162,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syo_荒野求生：这个塌房顶流太能活了1-825章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syo/",
   },
+
 {
     id: "m_syp",
     slug: "全球帝国从明末开始",
@@ -65183,6 +69178,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syp_全球帝国从明末开始1-2401章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syp/",
   },
+
 {
     id: "m_syt",
     slug: "华娱：导演归来",
@@ -65217,6 +69213,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syu_修仙：从装备栏开始1-429章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syu/",
   },
+
 {
     id: "m_syv",
     slug: "美警：我有每日情报系统",
@@ -65232,6 +69229,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syv_美警：我有每日情报系统1-1232章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syv/",
   },
+
 {
     id: "m_syw",
     slug: "科技帝国从穿越三体开始",
@@ -65247,6 +69245,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syw_科技帝国从穿越三体开始1-971章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syw/",
   },
+
 {
     id: "m_syy",
     slug: "我不是哥布林杀手",
@@ -65263,6 +69262,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syy_我不是哥布林杀手1-538章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syy/",
   },
+
 {
     id: "m_syz",
     slug: "从血法师到冥河老祖",
@@ -65279,6 +69279,7 @@ export const bookItems = [
     downloadUrl: "/books/m_syz_从血法师到冥河老祖1-411章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/syz/",
   },
+
 {
     id: "m_sz",
     slug: "轮回乐园之旅",
@@ -65294,6 +69295,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sz_轮回乐园之旅1-2035章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sz/",
   },
+
 {
     id: "m_sza",
     slug: "综漫：从鬼灭开始一天一个宇智波",
@@ -65310,6 +69312,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sza_综漫：从鬼灭开始一天一个宇智波1-248章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sza/",
   },
+
 {
     id: "m_szc",
     slug: "残血玩家",
@@ -65325,6 +69328,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szc_残血玩家1-996章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szc/",
   },
+
 {
     id: "m_szd",
     slug: "我将以女友形态出击",
@@ -65359,6 +69363,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sze_苟道修仙，从种田开始1-1104章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sze/",
   },
+
 {
     id: "m_szf",
     slug: "华娱从模拟恋爱开始",
@@ -65375,6 +69380,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szf_华娱从模拟恋爱开始1-559章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szf/",
   },
+
 {
     id: "m_szi",
     slug: "全职猎人：从日之呼吸开始",
@@ -65390,6 +69396,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szi_全职猎人：从日之呼吸开始1-337章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szi/",
   },
+
 {
     id: "m_szj",
     slug: "回到八零机械厂",
@@ -65406,6 +69413,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szj_回到八零机械厂1-894章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szj/",
   },
+
 {
     id: "m_szk",
     slug: "华娱大厨",
@@ -65440,6 +69448,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szl_我成了女魔头的心魔1-572章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szl/",
   },
+
 {
     id: "m_szm",
     slug: "虽然无敌但画风不对",
@@ -65456,6 +69465,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szm_虽然无敌但画风不对1-560章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szm/",
   },
+
 {
     id: "m_szn",
     slug: "大宋财经周刊",
@@ -65472,6 +69482,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szn_大宋财经周刊1-581章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szn/",
   },
+
 {
     id: "m_szo",
     slug: "一人之下：我成新时代魅魔了？",
@@ -65506,6 +69517,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szp_旁门真仙：从阴鬼通幽法开始1-319章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szp/",
   },
+
 {
     id: "m_szt",
     slug: "港综：让你吃瓜，吃瓜到大嫂身上",
@@ -65521,6 +69533,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szt_港综：让你吃瓜，吃瓜到大嫂身上1-608章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szt/",
   },
+
 {
     id: "m_szu",
     slug: "无限世界：随机角色，开局红A",
@@ -65536,6 +69549,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szu_无限世界：随机角色，开局红A1-292章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szu/",
   },
+
 {
     id: "m_szv",
     slug: "我以扭曲恋爱拯救病态少女",
@@ -65552,6 +69566,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szv_我以扭曲恋爱拯救病态少女1-498章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szv/",
   },
+
 {
     id: "m_szw",
     slug: "神明小姐的饲养日记",
@@ -65568,6 +69583,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szw_神明小姐的饲养日记1-289章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szw/",
   },
+
 {
     id: "m_szx",
     slug: "1994：菜农逆袭",
@@ -65584,6 +69600,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szx_1994：菜农逆袭1-918章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szx/",
   },
+
 {
     id: "m_szz",
     slug: "从四合院开始的巫师之路",
@@ -65600,6 +69617,7 @@ export const bookItems = [
     downloadUrl: "/books/m_szz_从四合院开始的巫师之路1-1492章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/szz/",
   },
+
 {
     id: "m_t",
     slug: "从双职业开始执掌权柄",
@@ -65616,6 +69634,7 @@ export const bookItems = [
     downloadUrl: "/books/m_t_从双职业开始执掌权柄1-477章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/t/",
   },
+
 {
     id: "m_tb",
     slug: "重生破案，从抓捕白月光开始",
@@ -65649,6 +69668,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tc_洪荒：石矶首徒，我以阵道撼大势1-302章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tc/",
   },
+
 {
     id: "m_td",
     slug: "漫步诸天的道士",
@@ -65665,6 +69685,7 @@ export const bookItems = [
     downloadUrl: "/books/m_td_漫步诸天的道士1-678章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/td/",
   },
+
 {
     id: "m_te",
     slug: "斗破：双穿斗罗，以神铸帝！",
@@ -65680,6 +69701,7 @@ export const bookItems = [
     downloadUrl: "/books/m_te_斗破：双穿斗罗，以神铸帝！1-339章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/te/",
   },
+
 {
     id: "m_tf",
     slug: "绝世唐门之我的武魂是黑洞？",
@@ -65713,6 +69735,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tg_人在峨眉，开局获取金色词条1-773章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tg/",
   },
+
 {
     id: "m_th",
     slug: "我伯父是康熙",
@@ -65729,6 +69752,7 @@ export const bookItems = [
     downloadUrl: "/books/m_th_我伯父是康熙1-242章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/th/",
   },
+
 {
     id: "m_ti",
     slug: "奥特曼：进化传说",
@@ -65745,6 +69769,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ti_奥特曼：进化传说1-1607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ti/",
   },
+
 {
     id: "m_tj",
     slug: "亮剑：从晋西北到长津湖百战百胜",
@@ -65761,6 +69786,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tj_亮剑：从晋西北到长津湖百战百胜1-595章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tj/",
   },
+
 {
     id: "m_tk",
     slug: "刚成邪神，被圣女召唤",
@@ -65777,6 +69803,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tk_刚成邪神，被圣女召唤1-1041章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tk/",
   },
+
 {
     id: "m_tl",
     slug: "骑行之逆风飞驰",
@@ -65798,7 +69825,7 @@ export const bookItems = [
     title: "这个导演开了挂",
     cover: bookCovermtm,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-775章",
@@ -65807,6 +69834,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tm_这个导演开了挂1-775章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tm/",
   },
+
 {
     id: "m_tn",
     slug: "诸天，从小李飞刀开始",
@@ -65829,7 +69857,7 @@ export const bookItems = [
     title: "霍格沃滋：开局满级不可饶恕咒",
     cover: bookCovermto,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-484章",
@@ -65838,6 +69866,7 @@ export const bookItems = [
     downloadUrl: "/books/m_to_霍格沃滋：开局满级不可饶恕咒1-484章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/to/",
   },
+
 {
     id: "m_tp",
     slug: "网游三国领主之全球战争",
@@ -65854,6 +69883,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tp_网游三国领主之全球战争1-1066章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tp/",
   },
+
 {
     id: "m_tq",
     slug: "人在诸天，摆烂成帝",
@@ -65869,6 +69899,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tq_人在诸天，摆烂成帝1-856章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tq/",
   },
+
 {
     id: "m_ts",
     slug: "都重生了谁还正经创业啊",
@@ -65884,6 +69915,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ts_都重生了谁还正经创业啊1-1060章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ts/",
   },
+
 {
     id: "m_tu",
     slug: "这只九节狼太凶猛啦！",
@@ -65899,6 +69931,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tu_这只九节狼太凶猛啦！1-946章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tu/",
   },
+
 {
     id: "m_tv",
     slug: "人到中年，我每月联系一次十年后",
@@ -65932,6 +69965,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tw_瘤剑仙1-1027章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tw/",
   },
+
 {
     id: "m_tx",
     slug: "我可能是一只假的奥特曼",
@@ -65948,6 +69982,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tx_我可能是一只假的奥特曼1-5421章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tx/",
   },
+
 {
     id: "m_ty",
     slug: "曝光帝王扮演者，老戏骨们杀疯了",
@@ -65981,6 +70016,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uaio_我向大帝借了个脑子1-1114章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uaio/",
   },
+
 {
     id: "m_ub",
     slug: "斗罗：刚成极限，天幕将我曝光了",
@@ -65997,6 +70033,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ub_斗罗：刚成极限，天幕将我曝光了1-522章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ub/",
   },
+
 {
     id: "m_uc",
     slug: "魔法使苍崎青子事件簿",
@@ -66013,6 +70050,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uc_魔法使苍崎青子事件簿1-2256章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uc/",
   },
+
 {
     id: "m_ud",
     slug: "大国院士",
@@ -66028,6 +70066,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ud_大国院士1-1358章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ud/",
   },
+
 {
     id: "m_uj",
     slug: "从三让徐州开始辅佐刘备",
@@ -66061,6 +70100,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uk_元始法则1-1291章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uk/",
   },
+
 {
     id: "m_ul",
     slug: "白手起家，蝙蝠侠干碎我的致富梦",
@@ -66077,6 +70117,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ul_白手起家，蝙蝠侠干碎我的致富梦1-1138章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ul/",
   },
+
 {
     id: "m_uo",
     slug: "直播卖桃木剑，我咋成道祖了？",
@@ -66110,6 +70151,7 @@ export const bookItems = [
     downloadUrl: "/books/m_up_御兽仙族：我御万灵证长生1-2323章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/up/",
   },
+
 {
     id: "m_uq",
     slug: "名侦探世界的武者",
@@ -66144,6 +70186,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ur_洪荒：十绝阵破，申公豹请我出山1-284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ur/",
   },
+
 {
     id: "m_uu",
     slug: "梦境穿越时",
@@ -66159,6 +70202,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uu_梦境穿越时1-1048章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uu/",
   },
+
 {
     id: "m_uv",
     slug: "华娱大导演，我能复制明星天赋",
@@ -66175,6 +70219,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uv_华娱大导演，我能复制明星天赋1-457章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uv/",
   },
+
 {
     id: "m_uw",
     slug: "噬恶演武，诸天除魔",
@@ -66191,6 +70236,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uw_噬恶演武，诸天除魔1-1030章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uw/",
   },
+
 {
     id: "m_ux",
     slug: "LOL：我真没想当喜剧人啊",
@@ -66224,6 +70270,7 @@ export const bookItems = [
     downloadUrl: "/books/m_uy_我，落难王子，打钱1-753章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/uy/",
   },
+
 {
     id: "m_v",
     slug: "从黑水浒开始",
@@ -66240,6 +70287,7 @@ export const bookItems = [
     downloadUrl: "/books/m_v_从黑水浒开始1-388章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/v/",
   },
+
 {
     id: "m_va",
     slug: "1983我的文豪时代",
@@ -66256,6 +70304,7 @@ export const bookItems = [
     downloadUrl: "/books/m_va_1983我的文豪时代1-648章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/va/",
   },
+
 {
     id: "m_vf",
     slug: "四合院：回到六十年代",
@@ -66272,6 +70321,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vf_四合院：回到六十年代1-685章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vf/",
   },
+
 {
     id: "m_vh",
     slug: "斗罗：从武魂喷火龙开始！",
@@ -66288,6 +70338,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vh_斗罗：从武魂喷火龙开始！1-555章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vh/",
   },
+
 {
     id: "m_vj",
     slug: "火红年代：成为工业巨擘",
@@ -66304,6 +70355,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vj_火红年代：成为工业巨擘1-688章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vj/",
   },
+
 {
     id: "m_vn",
     slug: "从海湾风暴开始",
@@ -66320,6 +70372,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vn_从海湾风暴开始1-366章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vn/",
   },
+
 {
     id: "m_vo",
     slug: "我全家都是从贴吧认识的",
@@ -66353,6 +70406,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vr_大夏补天人1-625章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vr/",
   },
+
 {
     id: "m_vu",
     slug: "港片：我黄金大亨，陈浩南嫉妒",
@@ -66386,6 +70440,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vx_今天也在努力做魔头1-924章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vx/",
   },
+
 {
     id: "m_vy",
     slug: "斗罗：从领域开始的女主之路",
@@ -66402,6 +70457,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vy_斗罗：从领域开始的女主之路1-741章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vy/",
   },
+
 {
     id: "m_vz",
     slug: "季汉帝师，从教刘备反夺兖州开始",
@@ -66418,6 +70474,7 @@ export const bookItems = [
     downloadUrl: "/books/m_vz_季汉帝师，从教刘备反夺兖州开始1-675章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/vz/",
   },
+
 {
     id: "m_waa",
     slug: "霸总都在刷飞剑，我却成了蝙蝠侠",
@@ -66433,6 +70490,7 @@ export const bookItems = [
     downloadUrl: "/books/m_waa_霸总都在刷飞剑，我却成了蝙蝠侠1-743章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/waa/",
   },
+
 {
     id: "m_wab",
     slug: "唐殁",
@@ -66449,6 +70507,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wab_唐殁1-561章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wab/",
   },
+
 {
     id: "m_wac",
     slug: "人在精灵，开局被炎帝收养",
@@ -66465,6 +70524,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wac_人在精灵，开局被炎帝收养1-115章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wac/",
   },
+
 {
     id: "m_wad",
     slug: "重生2003小渔村",
@@ -66498,6 +70558,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wae_从易书开始摘夺果位1-308章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wae/",
   },
+
 {
     id: "m_waf",
     slug: "同时穿越：舌尖上的诸天",
@@ -66514,6 +70575,7 @@ export const bookItems = [
     downloadUrl: "/books/m_waf_同时穿越：舌尖上的诸天1-238章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/waf/",
   },
+
 {
     id: "m_wag",
     slug: "赛博双穿：我有一座末日世界",
@@ -66530,6 +70592,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wag_赛博双穿：我有一座末日世界1-467章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wag/",
   },
+
 {
     id: "m_wah",
     slug: "星界旅徒",
@@ -66563,6 +70626,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wai_盖世双谐1-707章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wai/",
   },
+
 {
     id: "m_wak",
     slug: "天才游乐场",
@@ -66596,6 +70660,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wam_武侠：只想摆烂的我交的全是损友1-689章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wam/",
   },
+
 {
     id: "m_wan",
     slug: "堑壕大栓与魔法",
@@ -66647,6 +70712,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wap_祭龙1-333章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wap/",
   },
+
 {
     id: "m_war",
     slug: "小兵活下去",
@@ -66663,6 +70729,7 @@ export const bookItems = [
     downloadUrl: "/books/m_war_小兵活下去1-788章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/war/",
   },
+
 {
     id: "m_was",
     slug: "华娱：重生了，还逼我做渣男啊",
@@ -66684,7 +70751,7 @@ export const bookItems = [
     title: "幻想入侵现实",
     cover: bookCovermwat,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-328章",
@@ -66693,6 +70760,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wat_幻想入侵现实1-328章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wat/",
   },
+
 {
     id: "m_wav",
     slug: "综网：从召唤师开始挂机刷图",
@@ -66762,6 +70830,7 @@ export const bookItems = [
     downloadUrl: "/books/m_way_长生修仙：从脚踏实地修练开始1-648章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/way/",
   },
+
 {
     id: "m_waz",
     slug: "人在斗罗编日记，女角色们崩坏了",
@@ -66778,6 +70847,7 @@ export const bookItems = [
     downloadUrl: "/books/m_waz_人在斗罗编日记，女角色们崩坏了1-270章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/waz/",
   },
+
 {
     id: "m_wbb",
     slug: "港片情报王",
@@ -66793,6 +70863,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbb_港片情报王1-425章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbb/",
   },
+
 {
     id: "m_wbe",
     slug: "我，心愿旅行家！",
@@ -66809,6 +70880,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbe_我，心愿旅行家！1-473章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbe/",
   },
+
 {
     id: "m_wbf",
     slug: "从传奇空头到美利坚资本之神",
@@ -66825,6 +70897,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbf_从传奇空头到美利坚资本之神1-621章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbf/",
   },
+
 {
     id: "m_wbh",
     slug: "人在吞噬，成了罗峰的金手指",
@@ -66841,6 +70914,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbh_人在吞噬，成了罗峰的金手指1-382章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbh/",
   },
+
 {
     id: "m_wbl",
     slug: "诸天：开局零魂力，百艺炼长生",
@@ -66892,6 +70966,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbo_洪荒：师兄啊师兄，我比你更稳健1-334章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbo/",
   },
+
 {
     id: "m_wbp",
     slug: "路明非在龙族趋吉避凶",
@@ -66925,6 +71000,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbq_这江湖不混也罢1-826章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbq/",
   },
+
 {
     id: "m_wbt",
     slug: "奥特曼：身为客串奈一定很强吧",
@@ -66940,6 +71016,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbt_奥特曼：身为客串奈一定很强吧1-701章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbt/",
   },
+
 {
     id: "m_wbu",
     slug: "铁血残明",
@@ -66973,6 +71050,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbw_我真的是反派啊1-2858章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbw/",
   },
+
 {
     id: "m_wby",
     slug: "什么叫帝国铁幕从天而降？",
@@ -67007,6 +71085,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wbz_诡异修仙，我有一座五脏庙1-900章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wbz/",
   },
+
 {
     id: "m_wc",
     slug: "吞噬星空：种田万倍返还",
@@ -67023,6 +71102,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wc_吞噬星空：种田万倍返还1-538章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wc/",
   },
+
 {
     id: "m_wca",
     slug: "不死的我速通灵异游戏",
@@ -67039,6 +71119,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wca_不死的我速通灵异游戏1-803章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wca/",
   },
+
 {
     id: "m_wcb",
     slug: "短跑之路：从高中开始的王者",
@@ -67054,6 +71135,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcb_短跑之路：从高中开始的王者1-485章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcb/",
   },
+
 {
     id: "m_wcd",
     slug: "三国：从樵夫到季汉上将",
@@ -67070,6 +71152,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcd_三国：从樵夫到季汉上将1-404章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcd/",
   },
+
 {
     id: "m_wch",
     slug: "人在漫威抽奖成神",
@@ -67085,6 +71168,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wch_人在漫威抽奖成神1-352章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wch/",
   },
+
 {
     id: "m_wci",
     slug: "红楼：重生贾瑞，铁血风流",
@@ -67101,6 +71185,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wci_红楼：重生贾瑞，铁血风流1-429章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wci/",
   },
+
 {
     id: "m_wck",
     slug: "盛唐：刘建军今天要干嘛",
@@ -67135,6 +71220,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcl_宗门修仙：从气运天书开始崛起1-1201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcl/",
   },
+
 {
     id: "m_wcm",
     slug: "财富自由从毕业开始",
@@ -67151,6 +71237,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcm_财富自由从毕业开始1-921章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcm/",
   },
+
 {
     id: "m_wco",
     slug: "重生八三：浪子回头",
@@ -67167,6 +71254,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wco_重生八三：浪子回头1-2430章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wco/",
   },
+
 {
     id: "m_wcr",
     slug: "绝对命运游戏",
@@ -67182,6 +71270,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcr_绝对命运游戏1-701章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcr/",
   },
+
 {
     id: "m_wcs",
     slug: "美漫救世主？我是亚空间邪神！",
@@ -67215,6 +71304,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wct_光明之路1-1137章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wct/",
   },
+
 {
     id: "m_wcu",
     slug: "四合院：我是驯兽师！",
@@ -67231,6 +71321,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcu_四合院：我是驯兽师！1-1439章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcu/",
   },
+
 {
     id: "m_wcw",
     slug: "我是魔修，不是良心资本家",
@@ -67247,6 +71338,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcw_我是魔修，不是良心资本家1-1323章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcw/",
   },
+
 {
     id: "m_wcx",
     slug: "从民国种田开始科技兴国",
@@ -67263,6 +71355,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wcx_从民国种田开始科技兴国1-736章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wcx/",
   },
+
 {
     id: "m_wcy",
     slug: "从一人之下当李慕玄叔公开始",
@@ -67295,6 +71388,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wd_江湖都是前女友？1-821章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wd/",
   },
+
 {
     id: "m_wdb",
     slug: "我真的不想当舔狗了",
@@ -67334,15 +71428,16 @@ export const bookItems = [
     title: "执掌深渊，从见习神官开始",
     cover: bookCovermwdd,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-1019章",
+    chapters: "1-1028章",
     excerpt: "刚在游戏世界屠完龙，罗修下一秒就穿越到了《神之命途》的游戏世界里。魂穿lv.1的同名白板npc，一切回到开服前。唯有罗修一个人知道的是：彼时，审判战争一触即发、猩红狂潮即将席卷、深渊倒悬已然临近；再想想沉睡的凶暴古族、星天之外游弋的堕落世界与侵蚀一切的腐朽神明……罗修表示自己慌得一批。累了，毁灭吧.jpg所幸，前世游戏里屠龙的奖励——创世级道具《深渊圣典》跟着邮箱和自己一同穿越。罗修觉得自己还能再",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_wdd_执掌深渊，从见习神官开始1-1019章.txt",
+    downloadUrl: "/books/m_wdd_执掌深渊，从见习神官开始1-1028章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdd/",
   },
+
 {
     id: "m_wde",
     slug: "从巴黎开始的时尚人生",
@@ -67359,6 +71454,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wde_从巴黎开始的时尚人生1-563章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wde/",
   },
+
 {
     id: "m_wdf",
     slug: "重生2013：超级科技帝国",
@@ -67374,6 +71470,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdf_重生2013：超级科技帝国1-620章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdf/",
   },
+
 {
     id: "m_wdj",
     slug: "斗罗：我最强魂兽，被天幕曝光？",
@@ -67389,6 +71486,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdj_斗罗：我最强魂兽，被天幕曝光？1-249章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdj/",
   },
+
 {
     id: "m_wdm",
     slug: "人在影综：一切从梦华录开始",
@@ -67404,6 +71502,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdm_人在影综：一切从梦华录开始1-332章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdm/",
   },
+
 {
     id: "m_wdn",
     slug: "人在斗破，预支成帝",
@@ -67419,6 +71518,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdn_人在斗破，预支成帝1-449章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdn/",
   },
+
 {
     id: "m_wdo",
     slug: "同时穿越：我在诸天证道尊",
@@ -67434,6 +71534,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdo_同时穿越：我在诸天证道尊1-900章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdo/",
   },
+
 {
     id: "m_wdq",
     slug: "妖尾：你屠过龙吗？就灭龙魔导士",
@@ -67468,6 +71569,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdt_我以天赋证长生1-508章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdt/",
   },
+
 {
     id: "m_wdw",
     slug: "柯南之我真不是幕后黑手",
@@ -67484,6 +71586,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdw_柯南之我真不是幕后黑手1-527章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdw/",
   },
+
 {
     id: "m_wdy",
     slug: "1987我的年代",
@@ -67500,6 +71603,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdy_1987我的年代1-952章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdy/",
   },
+
 {
     id: "m_wdz",
     slug: "日常系综影：我的超能力每季刷新",
@@ -67516,6 +71620,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdz_日常系综影：我的超能力每季刷新1-1880章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdz/",
   },
+
 {
     id: "m_wea",
     slug: "LOL：什么叫折磨流选手啊！",
@@ -67532,6 +71637,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wea_LOL：什么叫折磨流选手啊！1-895章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wea/",
   },
+
 {
     id: "m_web",
     slug: "来财",
@@ -67548,6 +71654,7 @@ export const bookItems = [
     downloadUrl: "/books/m_web_来财1-491章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/web/",
   },
+
 {
     id: "m_wec",
     slug: "人在战锤是魔法少女之神",
@@ -67580,6 +71687,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wed_每日一卦，从坊市散修到长生仙尊1-736章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wed/",
   },
+
 {
     id: "m_wee",
     slug: "说好的民企，空天母舰什么鬼",
@@ -67596,6 +71704,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wee_说好的民企，空天母舰什么鬼1-1158章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wee/",
   },
+
 {
     id: "m_wef",
     slug: "说好攻略恐怖片，神秘复苏什么鬼",
@@ -67612,6 +71721,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wef_说好攻略恐怖片，神秘复苏什么鬼1-317章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wef/",
   },
+
 {
     id: "m_weg",
     slug: "我的青春修道日常",
@@ -67627,6 +71737,7 @@ export const bookItems = [
     downloadUrl: "/books/m_weg_我的青春修道日常1-792章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/weg/",
   },
+
 {
     id: "m_weh",
     slug: "美漫：完蛋，我被父愁者包围了！",
@@ -67642,6 +71753,7 @@ export const bookItems = [
     downloadUrl: "/books/m_weh_美漫：完蛋，我被父愁者包围了！1-1415章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/weh/",
   },
+
 {
     id: "m_wei",
     slug: "航空军工1950",
@@ -67674,6 +71786,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wej_县令起步，我在仙朝当天官1-1214章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wej/",
   },
+
 {
     id: "m_wek",
     slug: "皇明",
@@ -67707,6 +71820,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wel_战锤40k：锻钢兄弟1-701章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wel/",
   },
+
 {
     id: "m_wem",
     slug: "红楼：新朝太子",
@@ -67740,6 +71854,7 @@ export const bookItems = [
     downloadUrl: "/books/m_weo_高武：有挂，天才亿点很合理吧？1-731章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/weo/",
   },
+
 {
     id: "m_wep",
     slug: "我的人生模拟器建议我重开",
@@ -67772,6 +71887,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wer_重建修仙家族1-1798章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wer/",
   },
+
 {
     id: "m_wes",
     slug: "你们是来争第二的吗？",
@@ -67788,6 +71904,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wes_你们是来争第二的吗？1-373章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wes/",
   },
+
 {
     id: "m_weu",
     slug: "全民领主，万能经验值强化",
@@ -67804,6 +71921,7 @@ export const bookItems = [
     downloadUrl: "/books/m_weu_全民领主，万能经验值强化1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/weu/",
   },
+
 {
     id: "m_wev",
     slug: "无限：模拟从DC正义联盟开始",
@@ -67820,6 +71938,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wev_无限：模拟从DC正义联盟开始1-521章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wev/",
   },
+
 {
     id: "m_wew",
     slug: "火影：我以女儿身纵横忍界",
@@ -67836,6 +71955,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wew_火影：我以女儿身纵横忍界1-342章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wew/",
   },
+
 {
     id: "m_wey",
     slug: "CS：坏了，真让他成Goat了",
@@ -67852,6 +71972,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wey_CS：坏了，真让他成Goat了1-360章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wey/",
   },
+
 {
     id: "m_wez",
     slug: "木叶：宇智波华丽的叛逆",
@@ -67868,6 +71989,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wez_木叶：宇智波华丽的叛逆1-483章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wez/",
   },
+
 {
     id: "m_wf",
     slug: "美利坚大网红从无耻之徒开始",
@@ -67884,6 +72006,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wf_美利坚大网红从无耻之徒开始1-539章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wf/",
   },
+
 {
     id: "m_wfa",
     slug: "华娱：不当资本，混什么娱乐圈",
@@ -67900,6 +72023,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfa_华娱：不当资本，混什么娱乐圈1-621章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfa/",
   },
+
 {
     id: "m_wfb",
     slug: "诸天：一切从拜师九叔开始！",
@@ -67949,6 +72073,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfd_人在凡人，觉醒荒古圣体1-430章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfd/",
   },
+
 {
     id: "m_wfe",
     slug: "我娘子天下第一",
@@ -67982,6 +72107,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfh_修仙：从复制灵龟长寿天赋开始！1-689章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfh/",
   },
+
 {
     id: "m_wfk",
     slug: "斗破：紫霄雷帝",
@@ -67998,6 +72124,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfk_斗破：紫霄雷帝1-600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfk/",
   },
+
 {
     id: "m_wfl",
     slug: "我是如何当神豪的",
@@ -68013,6 +72140,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfl_我是如何当神豪的1-1755章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfl/",
   },
+
 {
     id: "m_wfm",
     slug: "工业克苏鲁不相信末日",
@@ -68029,6 +72157,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfm_工业克苏鲁不相信末日1-509章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfm/",
   },
+
 {
     id: "m_wfn",
     slug: "财富自由，从APP破解版开始",
@@ -68045,6 +72174,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfn_财富自由，从APP破解版开始1-428章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfn/",
   },
+
 {
     id: "m_wfo",
     slug: "吞噬星空：我的天赋无限叠加",
@@ -68061,6 +72191,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfo_吞噬星空：我的天赋无限叠加1-383章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfo/",
   },
+
 {
     id: "m_wfp",
     slug: "曼联王储，但不会踢球",
@@ -68077,6 +72208,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfp_曼联王储，但不会踢球1-458章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfp/",
   },
+
 {
     id: "m_wfr",
     slug: "弱小友善的我",
@@ -68110,6 +72242,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfs_蜀山剑仙列传1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfs/",
   },
+
 {
     id: "m_wft",
     slug: "战锤40k，我欧格林人诸天行走",
@@ -68126,6 +72259,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wft_战锤40k，我欧格林人诸天行走1-1006章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wft/",
   },
+
 {
     id: "m_wfw",
     slug: "昭和美人录：肆虐在泡沫时代",
@@ -68141,6 +72275,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wfw_昭和美人录：肆虐在泡沫时代1-1749章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfw/",
   },
+
 {
     id: "m_wfx",
     slug: "霍格沃茨：从水浒归来的哈利",
@@ -68191,6 +72326,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wg_大离长生仙1-591章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wg/",
   },
+
 {
     id: "m_wga",
     slug: "全职猎人：我的替身能时停",
@@ -68206,6 +72342,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wga_全职猎人：我的替身能时停1-434章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wga/",
   },
+
 {
     id: "m_wgb",
     slug: "大明：从进京告御状开始！",
@@ -68222,6 +72359,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgb_大明：从进京告御状开始！1-392章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgb/",
   },
+
 {
     id: "m_wgd",
     slug: "主神的无限维度",
@@ -68237,6 +72375,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgd_主神的无限维度1-515章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgd/",
   },
+
 {
     id: "m_wgi",
     slug: "大唐：御膳房摸鱼，被兕子曝光了",
@@ -68253,6 +72392,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgi_大唐：御膳房摸鱼，被兕子曝光了1-626章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgi/",
   },
+
 {
     id: "m_wgj",
     slug: "财富自由的我整顿职场",
@@ -68286,6 +72426,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgk_方仙外道1-473章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgk/",
   },
+
 {
     id: "m_wgm",
     slug: "华娱：我又得奖了？",
@@ -68337,6 +72478,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgp_西游妖帝：从多宝金蟾开始1-687章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgp/",
   },
+
 {
     id: "m_wgu",
     slug: "人生激荡四十年",
@@ -68388,6 +72530,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgx_修真高手的田园生活1-3400章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgx/",
   },
+
 {
     id: "m_wgy",
     slug: "NBA：从嘴炮到现象级暴君",
@@ -68403,6 +72546,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgy_NBA：从嘴炮到现象级暴君1-560章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgy/",
   },
+
 {
     id: "m_wgz",
     slug: "独守要塞三年，我成了长夜领主",
@@ -68418,6 +72562,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wgz_独守要塞三年，我成了长夜领主1-472章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wgz/",
   },
+
 {
     id: "m_wh",
     slug: "次元入侵：我能垂钓诸天",
@@ -68434,6 +72579,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wh_次元入侵：我能垂钓诸天1-1174章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wh/",
   },
+
 {
     id: "m_wha",
     slug: "民国：烽火1937",
@@ -68450,6 +72596,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wha_民国：烽火19371-880章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wha/",
   },
+
 {
     id: "m_whc",
     slug: "吞噬星空之人生选择系统",
@@ -68466,6 +72613,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whc_吞噬星空之人生选择系统1-287章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whc/",
   },
+
 {
     id: "m_whd",
     slug: "死刑变无罪？谁叫他做侦探的！",
@@ -68482,6 +72630,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whd_死刑变无罪？谁叫他做侦探的！1-459章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whd/",
   },
+
 {
     id: "m_whe",
     slug: "从柯南开始肝成救世主",
@@ -68498,6 +72647,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whe_从柯南开始肝成救世主1-611章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whe/",
   },
+
 {
     id: "m_whf",
     slug: "从僵综开始极道推衍",
@@ -68513,6 +72663,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whf_从僵综开始极道推衍1-357章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whf/",
   },
+
 {
     id: "m_whg",
     slug: "苟在美利坚，我能拾取万物词条",
@@ -68529,6 +72680,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whg_苟在美利坚，我能拾取万物词条1-505章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whg/",
   },
+
 {
     id: "m_whh",
     slug: "斗罗：从武魂时之虫开始",
@@ -68545,6 +72697,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whh_斗罗：从武魂时之虫开始1-1570章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whh/",
   },
+
 {
     id: "m_whi",
     slug: "我每天觉醒一个天灾级异能",
@@ -68579,6 +72732,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whj_观山！1-406章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whj/",
   },
+
 {
     id: "m_whn",
     slug: "梁医生在半岛",
@@ -68613,6 +72767,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whs_从白犬开始修仙1-466章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whs/",
   },
+
 {
     id: "m_wht",
     slug: "战锤之黑皇帝",
@@ -68629,6 +72784,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wht_战锤之黑皇帝1-1232章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wht/",
   },
+
 {
     id: "m_whw",
     slug: "梦幻西游之重返2005",
@@ -68645,6 +72801,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whw_梦幻西游之重返20051-2175章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whw/",
   },
+
 {
     id: "m_whx",
     slug: "大唐双龙：简化神功苟成无敌神话",
@@ -68661,6 +72818,7 @@ export const bookItems = [
     downloadUrl: "/books/m_whx_大唐双龙：简化神功苟成无敌神话1-403章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/whx/",
   },
+
 {
     id: "m_wia",
     slug: "在下，金山游侠",
@@ -68712,6 +72870,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wic_开局被超人捡到的维星人1-496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wic/",
   },
+
 {
     id: "m_wid",
     slug: "真实历史模拟游戏",
@@ -68728,6 +72887,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wid_真实历史模拟游戏1-638章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wid/",
   },
+
 {
     id: "m_wif",
     slug: "汉末太平道",
@@ -68743,6 +72903,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wif_汉末太平道1-93章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wif/",
   },
+
 {
     id: "m_wih",
     slug: "全民领主：从女英雄融合开始",
@@ -68759,6 +72920,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wih_全民领主：从女英雄融合开始1-1184章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wih/",
   },
+
 {
     id: "m_wij",
     slug: "死神：从镇守无间地狱开始",
@@ -68775,6 +72937,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wij_死神：从镇守无间地狱开始1-419章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wij/",
   },
+
 {
     id: "m_wik",
     slug: "半岛之秘密信息",
@@ -68790,6 +72953,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wik_半岛之秘密信息1-515章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wik/",
   },
+
 {
     id: "m_wim",
     slug: "我的1995小农庄",
@@ -68840,6 +73004,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wip_从仙门牛马苟到青帝仙君1-594章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wip/",
   },
+
 {
     id: "m_wiq",
     slug: "DNF：从帝国叛徒开始",
@@ -68856,6 +73021,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wiq_DNF：从帝国叛徒开始1-627章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wiq/",
   },
+
 {
     id: "m_wir",
     slug: "重回1982小渔村",
@@ -68872,6 +73038,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wir_重回1982小渔村1-2028章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wir/",
   },
+
 {
     id: "m_wis",
     slug: "火影：我写日记曝光大筒木降临",
@@ -68888,6 +73055,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wis_火影：我写日记曝光大筒木降临1-767章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wis/",
   },
+
 {
     id: "m_wit",
     slug: "影视穿越：我怎么去的都是恋爱剧",
@@ -68903,6 +73071,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wit_影视穿越：我怎么去的都是恋爱剧1-72章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wit/",
   },
+
 {
     id: "m_wiu",
     slug: "末世天灾：提前修建避难所",
@@ -68919,6 +73088,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wiu_末世天灾：提前修建避难所1-356章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wiu/",
   },
+
 {
     id: "m_wix",
     slug: "从虫开始的求生日常",
@@ -68935,6 +73105,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wix_从虫开始的求生日常1-690章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wix/",
   },
+
 {
     id: "m_wiy",
     slug: "奥特：光之幼崽的诸天之旅",
@@ -68951,6 +73122,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wiy_奥特：光之幼崽的诸天之旅1-451章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wiy/",
   },
+
 {
     id: "m_wiz",
     slug: "汉末，从幽州开始争霸天下！",
@@ -68966,6 +73138,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wiz_汉末，从幽州开始争霸天下！1-436章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wiz/",
   },
+
 {
     id: "m_wj",
     slug: "柯南：开局截胡明美，卧底酒厂",
@@ -68982,6 +73155,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wj_柯南：开局截胡明美，卧底酒厂1-740章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wj/",
   },
+
 {
     id: "m_wja",
     slug: "我为了少主威严欺负下老婆没错吧",
@@ -68997,6 +73171,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wja_我为了少主威严欺负下老婆没错吧1-733章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wja/",
   },
+
 {
     id: "m_wjb",
     slug: "美漫：我能种出超能力",
@@ -69030,6 +73205,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjc_末法天地长生仙1-404章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjc/",
   },
+
 {
     id: "m_wjf",
     slug: "心之怪盗！但柯南",
@@ -69045,6 +73221,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjf_心之怪盗！但柯南1-1582章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjf/",
   },
+
 {
     id: "m_wjg",
     slug: "体坛之重开的苏神",
@@ -69077,6 +73254,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjh_暮年修仙，我成长寿道尊1-496章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjh/",
   },
+
 {
     id: "m_wjj",
     slug: "1979：孩子她妈是天仙妈",
@@ -69111,6 +73289,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjm_西游：真君，你化身蛟魔事发了！1-462章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjm/",
   },
+
 {
     id: "m_wjo",
     slug: "北海道赛马物语",
@@ -69126,6 +73305,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjo_北海道赛马物语1-762章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjo/",
   },
+
 {
     id: "m_wjq",
     slug: "万物希声",
@@ -69141,6 +73321,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjq_万物希声1-1327章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjq/",
   },
+
 {
     id: "m_wjt",
     slug: "我在影综连接一世之尊",
@@ -69174,6 +73355,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wju_金刚不坏大寨主1-1284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wju/",
   },
+
 {
     id: "m_wjv",
     slug: "同时穿越，我才不是反派！",
@@ -69190,6 +73372,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wjv_同时穿越，我才不是反派！1-607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wjv/",
   },
+
 {
     id: "m_wk",
     slug: "全民游戏：从丧尸末日开始挂机",
@@ -69205,6 +73388,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wk_全民游戏：从丧尸末日开始挂机1-4026章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wk/",
   },
+
 {
     id: "m_wkc",
     slug: "活人深处",
@@ -69221,6 +73405,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkc_活人深处1-991章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkc/",
   },
+
 {
     id: "m_wkd",
     slug: "电竞圈恶霸，调教全联盟！",
@@ -69237,6 +73422,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkd_电竞圈恶霸，调教全联盟！1-600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkd/",
   },
+
 {
     id: "m_wkg",
     slug: "意大利荣耀",
@@ -69276,7 +73462,7 @@ export const bookItems = [
     title: "为武道狂，拳压诸天",
     cover: bookCovermwkj,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-467章",
@@ -69285,6 +73471,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkj_为武道狂，拳压诸天1-467章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkj/",
   },
+
 {
     id: "m_wkk",
     slug: "什么叫堕落型球王啊？",
@@ -69301,6 +73488,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkk_什么叫堕落型球王啊？1-534章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkk/",
   },
+
 {
     id: "m_wkl",
     slug: "人在香江：我惊艳了一个时代",
@@ -69317,6 +73505,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkl_人在香江：我惊艳了一个时代1-252章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkl/",
   },
+
 {
     id: "m_wkm",
     slug: "保卫南山公园",
@@ -69332,6 +73521,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkm_保卫南山公园1-126章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkm/",
   },
+
 {
     id: "m_wkn",
     slug: "重启全盛时代",
@@ -69347,6 +73537,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkn_重启全盛时代1-3700章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkn/",
   },
+
 {
     id: "m_wko",
     slug: "我不是天才刑警",
@@ -69363,6 +73554,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wko_我不是天才刑警1-439章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wko/",
   },
+
 {
     id: "m_wkq",
     slug: "美漫：蝙蝠侠的骗术师",
@@ -69378,6 +73570,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkq_美漫：蝙蝠侠的骗术师1-612章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkq/",
   },
+
 {
     id: "m_wkt",
     slug: "舌尖上的英雄联盟",
@@ -69411,6 +73604,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wku_从废灵根开始问魔修行1-1026章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wku/",
   },
+
 {
     id: "m_wkw",
     slug: "速通诸天，红尘戮仙",
@@ -69432,15 +73626,16 @@ export const bookItems = [
     title: "第四天灾就没有正常的",
     cover: bookCovermwkx,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
-    chapters: "1-567章",
+    chapters: "1-580章",
     excerpt: "岳不群喟然长叹：“你就算是走剑宗的路子也好啊，可是你这……” 俞莲舟痛心疾首：“早知道你会如此，我就将虎爪绝户手传给你了。” 丘处机无可奈何：“孽障！你……你……唉！为师还是帮你去师叔那里讨要《九阴真经》吧。” 九叔扶额摇头：“这本是《炼尸法》，这本是《太阴炼形术》，你别搞你那些破玩意儿了，我怕哪天祖师爷下凡清理门户，连我也一并清理了。” （PS：本书不提供大脑寄存处，看这本书用不上那玩意儿，直接",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    downloadUrl: "/books/m_wkx_第四天灾就没有正常的1-567章.txt",
+    downloadUrl: "/books/m_wkx_第四天灾就没有正常的1-580章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkx/",
   },
+
 {
     id: "m_wky",
     slug: "重生的我超有追求",
@@ -69456,6 +73651,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wky_重生的我超有追求1-407章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wky/",
   },
+
 {
     id: "m_wkz",
     slug: "无限恐怖之无限逆转",
@@ -69471,6 +73667,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkz_无限恐怖之无限逆转1-698章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkz/",
   },
+
 {
     id: "m_wla",
     slug: "本来想投魏的，怎么就复汉了呢？",
@@ -69486,6 +73683,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wla_本来想投魏的，怎么就复汉了呢？1-369章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wla/",
   },
+
 {
     id: "m_wlb",
     slug: "吞噬星空，呼延博预支成神",
@@ -69502,6 +73700,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlb_吞噬星空，呼延博预支成神1-298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlb/",
   },
+
 {
     id: "m_wlc",
     slug: "四合院之奋斗的日子",
@@ -69536,6 +73735,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wld_西游：从拜师太乙救苦天尊开始1-610章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wld/",
   },
+
 {
     id: "m_wlf",
     slug: "影视：从玫瑰的故事开始",
@@ -69552,6 +73752,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlf_影视：从玫瑰的故事开始1-370章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlf/",
   },
+
 {
     id: "m_wlg",
     slug: "半岛：从躲在idol衣柜里开始",
@@ -69586,6 +73787,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlh_长生从炼丹宗师开始1-1298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlh/",
   },
+
 {
     id: "m_wlj",
     slug: "相国在上",
@@ -69642,7 +73844,7 @@ export const bookItems = [
     title: "六代机落后？鹰酱直呼人言否？",
     cover: bookCovermwlm,
     author: "未知",
-    date: "2026-10-02",
+    date: "2026-10-15",
     category: "玄幻",
     status: "连载中",
     chapters: "1-514章",
@@ -69687,6 +73889,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlo_哪有啥祖宗，都是我编的1-814章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlo/",
   },
+
 {
     id: "m_wlp",
     slug: "综网的剑修：我的剑都是满级词条",
@@ -69703,6 +73906,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlp_综网的剑修：我的剑都是满级词条1-204章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlp/",
   },
+
 {
     id: "m_wlq",
     slug: "退队，然后捡到问题美少女",
@@ -69718,6 +73922,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlq_退队，然后捡到问题美少女1-1002章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlq/",
   },
+
 {
     id: "m_wlr",
     slug: "没钱上大学的我只能去屠龙了",
@@ -69733,6 +73938,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlr_没钱上大学的我只能去屠龙了1-2185章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlr/",
   },
+
 {
     id: "m_wls",
     slug: "我从末世开始无敌",
@@ -69749,6 +73955,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wls_我从末世开始无敌1-1546章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wls/",
   },
+
 {
     id: "m_wlt",
     slug: "全职：叶修懵了，怎么踢刘皓了？",
@@ -69782,6 +73989,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlx_我能强化世间万物！1-473章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlx/",
   },
+
 {
     id: "m_wlz",
     slug: "民国：我，谍战之王",
@@ -69798,6 +74006,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wlz_民国：我，谍战之王1-894章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlz/",
   },
+
 {
     id: "m_wm",
     slug: "谁说我做的魔法卡牌有问题？",
@@ -69813,6 +74022,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wm_谁说我做的魔法卡牌有问题？1-854章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wm/",
   },
+
 {
     id: "m_wmc",
     slug: "大明王朝1627",
@@ -69847,6 +74057,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmd_荒野大暴徒1-438章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmd/",
   },
+
 {
     id: "m_wme",
     slug: "机械暴君：从维修工开始",
@@ -69863,6 +74074,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wme_机械暴君：从维修工开始1-310章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wme/",
   },
+
 {
     id: "m_wmf",
     slug: "诸天武侠：从民国江湖开始",
@@ -69878,6 +74090,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmf_诸天武侠：从民国江湖开始1-501章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmf/",
   },
+
 {
     id: "m_wmg",
     slug: "综武：憧憬成为幕后黑手",
@@ -69912,6 +74125,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmh_人间太岁神！1-455章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmh/",
   },
+
 {
     id: "m_wmj",
     slug: "我缔造了超凡时代",
@@ -69928,6 +74142,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmj_我缔造了超凡时代1-1130章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmj/",
   },
+
 {
     id: "m_wmo",
     slug: "帝国从第四天灾开始",
@@ -69960,6 +74175,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmp_我从秦末开始修仙1-521章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmp/",
   },
+
 {
     id: "m_wmq",
     slug: "噩梦使徒",
@@ -69976,6 +74192,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmq_噩梦使徒1-1249章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmq/",
   },
+
 {
     id: "m_wmr",
     slug: "还有什么路明非我应该认识",
@@ -69992,6 +74209,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmr_还有什么路明非我应该认识1-319章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmr/",
   },
+
 {
     id: "m_wmt",
     slug: "火影：我的忍术每周刷新",
@@ -70008,6 +74226,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmt_火影：我的忍术每周刷新1-553章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmt/",
   },
+
 {
     id: "m_wmu",
     slug: "影视世界从曾少年开始",
@@ -70024,6 +74243,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmu_影视世界从曾少年开始1-943章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmu/",
   },
+
 {
     id: "m_wmv",
     slug: "从三十而已开始的影视攻略",
@@ -70039,6 +74259,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmv_从三十而已开始的影视攻略1-2041章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmv/",
   },
+
 {
     id: "m_wmw",
     slug: "进击的主帅：从莫耶斯下课开始",
@@ -70054,6 +74275,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wmw_进击的主帅：从莫耶斯下课开始1-364章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wmw/",
   },
+
 {
     id: "m_wmx",
     slug: "同时穿越：纵横诸天",
@@ -70105,6 +74327,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wna_临渊问道1-497章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wna/",
   },
+
 {
     id: "m_wnb",
     slug: "身高198你给我马拉多纳模板？",
@@ -70120,6 +74343,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wnb_身高198你给我马拉多纳模板？1-334章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wnb/",
   },
+
 {
     id: "m_wne",
     slug: "自完美世界开始",
@@ -70136,6 +74360,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wne_自完美世界开始1-2430章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wne/",
   },
+
 {
     id: "m_wnf",
     slug: "从吕伯奢邻居，到执掌天下",
@@ -70188,6 +74413,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wnh_凡人修仙：忘羽穿书，轮回道祖1-532章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wnh/",
   },
+
 {
     id: "m_wni",
     slug: "尊敬的扫帚骑士大人",
@@ -70204,6 +74430,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wni_尊敬的扫帚骑士大人1-1748章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wni/",
   },
+
 {
     id: "m_wnj",
     slug: "无限流的元宇宙",
@@ -70236,6 +74463,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wno_逐道长青1-2176章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wno/",
   },
+
 {
     id: "m_wnt",
     slug: "亡灵之息",
@@ -70252,6 +74480,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wnt_亡灵之息1-3856章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wnt/",
   },
+
 {
     id: "m_wnu",
     slug: "吞噬星空之雷霆之主",
@@ -70267,6 +74496,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wnu_吞噬星空之雷霆之主1-400章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wnu/",
   },
+
 {
     id: "m_wnw",
     slug: "半岛白金时代",
@@ -70318,6 +74548,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wo_集群重炮轰杀修仙者1-2811章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wo/",
   },
+
 {
     id: "m_wob",
     slug: "坦坦荡荡真君子",
@@ -70333,6 +74564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wob_坦坦荡荡真君子1-997章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wob/",
   },
+
 {
     id: "m_woc",
     slug: "外科教父",
@@ -70348,6 +74580,7 @@ export const bookItems = [
     downloadUrl: "/books/m_woc_外科教父1-1485章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/woc/",
   },
+
 {
     id: "m_woe",
     slug: "人在龙族，绑定火影逆袭系统",
@@ -70382,6 +74615,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wof_渊天辟道1-1100章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wof/",
   },
+
 {
     id: "m_woi",
     slug: "三国：王业不偏安",
@@ -70398,6 +74632,7 @@ export const bookItems = [
     downloadUrl: "/books/m_woi_三国：王业不偏安1-500章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/woi/",
   },
+
 {
     id: "m_wok",
     slug: "死神开局，我有万界角色模板",
@@ -70414,6 +74649,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wok_死神开局，我有万界角色模板1-506章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wok/",
   },
+
 {
     id: "m_won",
     slug: "三国：坏了，我成汉末魅魔了",
@@ -70448,6 +74684,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wop_青阳仙途1-1134章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wop/",
   },
+
 {
     id: "m_woq",
     slug: "斗罗绝世：谁说重瞳必须走控制？",
@@ -70464,6 +74701,7 @@ export const bookItems = [
     downloadUrl: "/books/m_woq_斗罗绝世：谁说重瞳必须走控制？1-298章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/woq/",
   },
+
 {
     id: "m_wor",
     slug: "斗罗：虹猫蓝猫七剑配龙骑",
@@ -70480,6 +74718,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wor_斗罗：虹猫蓝猫七剑配龙骑1-1546章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wor/",
   },
+
 {
     id: "m_wot",
     slug: "影视世界从药神开始",
@@ -70513,6 +74752,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wou_魔门玩家，不讲道义1-781章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wou/",
   },
+
 {
     id: "m_wow",
     slug: "御兽：我的灵宠拥有游戏面板",
@@ -70529,6 +74769,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wow_御兽：我的灵宠拥有游戏面板1-792章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wow/",
   },
+
 {
     id: "m_wox",
     slug: "改朝换代，从当爷爷开始",
@@ -70545,6 +74786,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wox_改朝换代，从当爷爷开始1-701章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wox/",
   },
+
 {
     id: "m_woz",
     slug: "华娱：从攻略金棕榈开始",
@@ -70561,6 +74803,7 @@ export const bookItems = [
     downloadUrl: "/books/m_woz_华娱：从攻略金棕榈开始1-444章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/woz/",
   },
+
 {
     id: "m_wpa",
     slug: "究极生命，从升华心脏开始",
@@ -70577,6 +74820,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpa_究极生命，从升华心脏开始1-488章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpa/",
   },
+
 {
     id: "m_wpb",
     slug: "亮剑：从手搓大炮到工业巨擘",
@@ -70592,6 +74836,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpb_亮剑：从手搓大炮到工业巨擘1-655章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpb/",
   },
+
 {
     id: "m_wpd",
     slug: "无限天神君临",
@@ -70625,6 +74870,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpe_每日一抽，从杂役到道祖1-445章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpe/",
   },
+
 {
     id: "m_wpf",
     slug: "大唐不归义",
@@ -70641,6 +74887,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpf_大唐不归义1-293章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpf/",
   },
+
 {
     id: "m_wpg",
     slug: "东京文豪，从被大小姐追求开始",
@@ -70657,6 +74904,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpg_东京文豪，从被大小姐追求开始1-368章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpg/",
   },
+
 {
     id: "m_wpm",
     slug: "制作铁道游戏，角色们都玩疯了",
@@ -70709,6 +74957,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpp_种田修仙：一斤灵谷兑换一年法力1-219章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpp/",
   },
+
 {
     id: "m_wpq",
     slug: "1977：开局相亲女儿国王",
@@ -70724,6 +74973,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpq_1977：开局相亲女儿国王1-864章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpq/",
   },
+
 {
     id: "m_wpr",
     slug: "半岛：刚出道，人生逆袭系统来了",
@@ -70739,6 +74989,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpr_半岛：刚出道，人生逆袭系统来了1-333章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpr/",
   },
+
 {
     id: "m_wps",
     slug: "我改写了童话世界的剧情",
@@ -70772,6 +75023,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpu_双穿，从当个倒爷开始1-1073章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpu/",
   },
+
 {
     id: "m_wpv",
     slug: "难道我真有女声优瘾？",
@@ -70787,6 +75039,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpv_难道我真有女声优瘾？1-601章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpv/",
   },
+
 {
     id: "m_wpw",
     slug: "吞噬星空之灵魂主宰",
@@ -70803,6 +75056,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpw_吞噬星空之灵魂主宰1-743章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpw/",
   },
+
 {
     id: "m_wpy",
     slug: "我的饭馆通北宋",
@@ -70818,6 +75072,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wpy_我的饭馆通北宋1-433章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wpy/",
   },
+
 {
     id: "m_wq",
     slug: "亮剑：从雪山开始崛起",
@@ -70833,6 +75088,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wq_亮剑：从雪山开始崛起1-975章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wq/",
   },
+
 {
     id: "m_wqa",
     slug: "华娱，这个导演很有才情",
@@ -70849,6 +75105,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wqa_华娱，这个导演很有才情1-465章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wqa/",
   },
+
 {
     id: "m_wqd",
     slug: "娱乐：我实在太想进步了",
@@ -70919,6 +75176,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wqi_开局无常司，满级活死人功1-441章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wqi/",
   },
+
 {
     id: "m_wql",
     slug: "四合院的孩子王",
@@ -70951,6 +75209,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wqm_苟在凛冬废土修仙1-1142章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wqm/",
   },
+
 {
     id: "m_wqz",
     slug: "明末：第四天灾千里行",
@@ -70966,6 +75225,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wqz_明末：第四天灾千里行1-646章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wqz/",
   },
+
 {
     id: "m_wr",
     slug: "曼联DNA打死不离队，忠诚！",
@@ -70982,6 +75242,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wr_曼联DNA打死不离队，忠诚！1-622章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wr/",
   },
+
 {
     id: "m_wrc",
     slug: "伪像报告",
@@ -70998,6 +75259,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrc_伪像报告1-677章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrc/",
   },
+
 {
     id: "m_wrg",
     slug: "我的手提式大明朝廷",
@@ -71014,6 +75276,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrg_我的手提式大明朝廷1-1130章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrg/",
   },
+
 {
     id: "m_wrh",
     slug: "谁敢抢我唐僧肉！",
@@ -71029,6 +75292,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrh_谁敢抢我唐僧肉！1-467章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrh/",
   },
+
 {
     id: "m_wrj",
     slug: "美漫地狱之主",
@@ -71044,6 +75308,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrj_美漫地狱之主1-3653章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrj/",
   },
+
 {
     id: "m_wrl",
     slug: "美利坚斩杀线？我超凡不吃牛肉！",
@@ -71077,6 +75342,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrm_长生：筑基成功后，外挂才开启1-597章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrm/",
   },
+
 {
     id: "m_wrn",
     slug: "什么叫进攻型后腰啊",
@@ -71093,6 +75359,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrn_什么叫进攻型后腰啊1-448章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrn/",
   },
+
 {
     id: "m_wrp",
     slug: "同时穿越：继承万界遗产",
@@ -71109,6 +75376,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrp_同时穿越：继承万界遗产1-850章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrp/",
   },
+
 {
     id: "m_wrr",
     slug: "呢喃诗章",
@@ -71124,6 +75392,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrr_呢喃诗章1-4559章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrr/",
   },
+
 {
     id: "m_wrt",
     slug: "虎枭",
@@ -71157,6 +75426,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrv_方士！1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrv/",
   },
+
 {
     id: "m_wrw",
     slug: "踢球的时候要称GOAT",
@@ -71173,6 +75443,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wrw_踢球的时候要称GOAT1-437章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wrw/",
   },
+
 {
     id: "m_wry",
     slug: "三国：从相信科学开始鲸吞天下",
@@ -71189,6 +75460,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wry_三国：从相信科学开始鲸吞天下1-380章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wry/",
   },
+
 {
     id: "m_wrz",
     slug: "诸天影视从四合院开始",
@@ -71222,6 +75494,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ws_巫师：从不义超人至太阳神1-575章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ws/",
   },
+
 {
     id: "m_wsa",
     slug: "农家乐通古代，开局接待刘关张",
@@ -71237,6 +75510,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsa_农家乐通古代，开局接待刘关张1-810章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsa/",
   },
+
 {
     id: "m_wsd",
     slug: "美利坚驱魔往事",
@@ -71271,6 +75545,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsf_本座王重一1-544章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsf/",
   },
+
 {
     id: "m_wsi",
     slug: "NBA：杨姓中锋，却来后卫模板",
@@ -71287,6 +75562,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsi_NBA：杨姓中锋，却来后卫模板1-371章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsi/",
   },
+
 {
     id: "m_wsj",
     slug: "赛博朋克里的锻体独狼",
@@ -71302,6 +75578,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsj_赛博朋克里的锻体独狼1-464章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsj/",
   },
+
 {
     id: "m_wsk",
     slug: "人在诸天，无限逍遥",
@@ -71318,6 +75595,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsk_人在诸天，无限逍遥1-704章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsk/",
   },
+
 {
     id: "m_wsl",
     slug: "大哥说我天下无敌",
@@ -71385,6 +75663,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wso_太上金阙1-511章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wso/",
   },
+
 {
     id: "m_wsp",
     slug: "三国守户",
@@ -71401,6 +75680,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsp_三国守户1-727章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsp/",
   },
+
 {
     id: "m_wsr",
     slug: "港综：开局三亿债券，出狱做大佬",
@@ -71417,6 +75697,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsr_港综：开局三亿债券，出狱做大佬1-233章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsr/",
   },
+
 {
     id: "m_wss",
     slug: "我一个三金导演十项全能很合理吧",
@@ -71432,6 +75713,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wss_我一个三金导演十项全能很合理吧1-809章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wss/",
   },
+
 {
     id: "m_wst",
     slug: "我在异世召唤全史名将",
@@ -71448,6 +75730,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wst_我在异世召唤全史名将1-2013章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wst/",
   },
+
 {
     id: "m_wsu",
     slug: "贞观第一刑案官",
@@ -71481,6 +75764,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsv_东庭执灯人1-989章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsv/",
   },
+
 {
     id: "m_wsx",
     slug: "大明世家五百年",
@@ -71497,6 +75781,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wsx_大明世家五百年1-483章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wsx/",
   },
+
 {
     id: "m_wsy",
     slug: "地狱游戏：从大都会开始",
@@ -71530,6 +75815,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wt_苟在西游得道长生1-268章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wt/",
   },
+
 {
     id: "m_wtd",
     slug: "斗罗绝世：烈焰武神，搭档达力古",
@@ -71546,6 +75832,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtd_斗罗绝世：烈焰武神，搭档达力古1-289章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtd/",
   },
+
 {
     id: "m_wtf",
     slug: "迷踪谍影",
@@ -71561,6 +75848,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtf_迷踪谍影1-3732章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtf/",
   },
+
 {
     id: "m_wtg",
     slug: "红楼：金钗请自重，我是搜查官",
@@ -71595,6 +75883,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtj_冒险者的旅程1-756章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtj/",
   },
+
 {
     id: "m_wtk",
     slug: "华娱的盛宴",
@@ -71611,6 +75900,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtk_华娱的盛宴1-354章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtk/",
   },
+
 {
     id: "m_wtn",
     slug: "这阴间地下城谁设计的！",
@@ -71626,6 +75916,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtn_这阴间地下城谁设计的！1-1097章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtn/",
   },
+
 {
     id: "m_wto",
     slug: "三一逆徒：从一人之下逆生诸天",
@@ -71642,6 +75933,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wto_三一逆徒：从一人之下逆生诸天1-1317章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wto/",
   },
+
 {
     id: "m_wts",
     slug: "南明，这个皇帝有点稳",
@@ -71658,6 +75950,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wts_南明，这个皇帝有点稳1-591章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wts/",
   },
+
 {
     id: "m_wtv",
     slug: "从拳愿暴打海贼王开始",
@@ -71673,6 +75966,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtv_从拳愿暴打海贼王开始1-554章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtv/",
   },
+
 {
     id: "m_wtw",
     slug: "轮回乐园：归墟劫",
@@ -71689,6 +75983,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtw_轮回乐园：归墟劫1-322章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtw/",
   },
+
 {
     id: "m_wtx",
     slug: "哪有什么康乾盛世",
@@ -71704,6 +75999,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtx_哪有什么康乾盛世1-715章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtx/",
   },
+
 {
     id: "m_wtz",
     slug: "凡人之我来自玄黄大世界",
@@ -71720,6 +76016,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wtz_凡人之我来自玄黄大世界1-946章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wtz/",
   },
+
 {
     id: "m_wu",
     slug: "三国：季汉继任丞相！",
@@ -71736,6 +76033,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wu_三国：季汉继任丞相！1-540章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wu/",
   },
+
 {
     id: "m_wua",
     slug: "神人调查局",
@@ -71752,6 +76050,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wua_神人调查局1-405章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wua/",
   },
+
 {
     id: "m_wub",
     slug: "大明：书店卖明史，崇祯懵了！",
@@ -71768,6 +76067,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wub_大明：书店卖明史，崇祯懵了！1-106章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wub/",
   },
+
 {
     id: "m_wuc",
     slug: "同时穿越：我们共享角色扮演系统",
@@ -71784,6 +76084,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuc_同时穿越：我们共享角色扮演系统1-269章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuc/",
   },
+
 {
     id: "m_wue",
     slug: "野原广志的午餐流派",
@@ -71800,6 +76101,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wue_野原广志的午餐流派1-405章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wue/",
   },
+
 {
     id: "m_wui",
     slug: "你们真是害苦了朕啊",
@@ -71816,6 +76118,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wui_你们真是害苦了朕啊1-665章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wui/",
   },
+
 {
     id: "m_wuk",
     slug: "昭宋：家父宋太祖",
@@ -71849,6 +76152,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wul_穿越大荒，祭祀焚香1-915章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wul/",
   },
+
 {
     id: "m_wun",
     slug: "半岛：韩娱第一制作人",
@@ -71865,6 +76169,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wun_半岛：韩娱第一制作人1-1175章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wun/",
   },
+
 {
     id: "m_wuo",
     slug: "诡怨回廊",
@@ -71880,6 +76185,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuo_诡怨回廊1-970章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuo/",
   },
+
 {
     id: "m_wup",
     slug: "重回港岛百年",
@@ -71896,6 +76202,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wup_重回港岛百年1-792章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wup/",
   },
+
 {
     id: "m_wuq",
     slug: "神祇纪元",
@@ -71911,6 +76218,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuq_神祇纪元1-374章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuq/",
   },
+
 {
     id: "m_wur",
     slug: "星际：从清洁工开始",
@@ -71927,6 +76235,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wur_星际：从清洁工开始1-1807章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wur/",
   },
+
 {
     id: "m_wus",
     slug: "我的职业面板怎么是二次元画风？",
@@ -71943,6 +76252,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wus_我的职业面板怎么是二次元画风？1-591章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wus/",
   },
+
 {
     id: "m_wuu",
     slug: "红楼：从仙武开始",
@@ -71959,6 +76269,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuu_红楼：从仙武开始1-321章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuu/",
   },
+
 {
     id: "m_wuv",
     slug: "人在美利坚：系统说是中世纪！",
@@ -71975,6 +76286,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuv_人在美利坚：系统说是中世纪！1-256章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuv/",
   },
+
 {
     id: "m_wuw",
     slug: "重生灾年，我偷听动物心声养全家",
@@ -71991,6 +76303,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuw_重生灾年，我偷听动物心声养全家1-359章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuw/",
   },
+
 {
     id: "m_wuz",
     slug: "我的梦境驾临诸天",
@@ -72007,6 +76320,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wuz_我的梦境驾临诸天1-440章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wuz/",
   },
+
 {
     id: "m_wv",
     slug: "木叶：我的忍术能升级",
@@ -72022,6 +76336,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wv_木叶：我的忍术能升级1-518章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wv/",
   },
+
 {
     id: "m_wva",
     slug: "从奥地利到日不落帝国",
@@ -72037,6 +76352,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wva_从奥地利到日不落帝国1-703章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wva/",
   },
+
 {
     id: "m_wvd",
     slug: "我的抗联岁月",
@@ -72052,6 +76368,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvd_我的抗联岁月1-1254章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvd/",
   },
+
 {
     id: "m_wvg",
     slug: "华娱：我来修个仙",
@@ -72101,6 +76418,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvj_家师郭靖1-431章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvj/",
   },
+
 {
     id: "m_wvl",
     slug: "红楼：我和黛玉互穿了",
@@ -72117,6 +76435,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvl_红楼：我和黛玉互穿了1-541章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvl/",
   },
+
 {
     id: "m_wvp",
     slug: "诸天，从用概念技治疗道伤开始",
@@ -72185,6 +76504,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvt_猪突猛进！1-228章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvt/",
   },
+
 {
     id: "m_wvu",
     slug: "同时穿越：在诸天成为传说",
@@ -72200,6 +76520,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvu_同时穿越：在诸天成为传说1-626章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvu/",
   },
+
 {
     id: "m_wvx",
     slug: "镖师：我看上了总镖头家的三姐妹",
@@ -72216,6 +76537,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wvx_镖师：我看上了总镖头家的三姐妹1-354章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wvx/",
   },
+
 {
     id: "m_wvz",
     slug: "惊天大太监，转生文学少女",
@@ -72249,6 +76571,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ww_青鱼修行笔录1-360章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ww/",
   },
+
 {
     id: "m_wwa",
     slug: "傩面之下",
@@ -72265,6 +76588,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwa_傩面之下1-396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwa/",
   },
+
 {
     id: "m_wwb",
     slug: "横推遮天：从泰山签到开始",
@@ -72281,6 +76605,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwb_横推遮天：从泰山签到开始1-646章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwb/",
   },
+
 {
     id: "m_wwe",
     slug: "戾天子",
@@ -72296,6 +76621,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwe_戾天子1-937章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwe/",
   },
+
 {
     id: "m_wwf",
     slug: "白眼中的火影世界",
@@ -72312,6 +76638,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwf_白眼中的火影世界1-269章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwf/",
   },
+
 {
     id: "m_wwg",
     slug: "灭清",
@@ -72327,6 +76654,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwg_灭清1-331章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwg/",
   },
+
 {
     id: "m_wwh",
     slug: "轮回乐园：我就做个菜也算违规？",
@@ -72343,6 +76671,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwh_轮回乐园：我就做个菜也算违规？1-821章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwh/",
   },
+
 {
     id: "m_wwk",
     slug: "诸天：请叫我罪恶克星！",
@@ -72359,6 +76688,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwk_诸天：请叫我罪恶克星！1-156章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwk/",
   },
+
 {
     id: "m_wwl",
     slug: "影视诸天：我来领悟大道",
@@ -72374,6 +76704,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwl_影视诸天：我来领悟大道1-786章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwl/",
   },
+
 {
     id: "m_wwn",
     slug: "娱乐大亨：从互联网开始布局",
@@ -72390,6 +76721,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwn_娱乐大亨：从互联网开始布局1-937章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwn/",
   },
+
 {
     id: "m_wwr",
     slug: "这个忍者会开基因锁",
@@ -72406,6 +76738,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwr_这个忍者会开基因锁1-284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwr/",
   },
+
 {
     id: "m_wwu",
     slug: "阎浮武事",
@@ -72421,6 +76754,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwu_阎浮武事1-865章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwu/",
   },
+
 {
     id: "m_wwz",
     slug: "明末：我崇祯摆烂怎么了？！",
@@ -72437,6 +76771,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wwz_明末：我崇祯摆烂怎么了？！1-381章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wwz/",
   },
+
 {
     id: "m_wxc",
     slug: "亮剑：从晋西北打到上甘岭",
@@ -72453,6 +76788,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxc_亮剑：从晋西北打到上甘岭1-685章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxc/",
   },
+
 {
     id: "m_wxe",
     slug: "咒术回战：我的术式无上限",
@@ -72468,6 +76804,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxe_咒术回战：我的术式无上限1-184章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxe/",
   },
+
 {
     id: "m_wxg",
     slug: "四合院里的火车司机",
@@ -72484,6 +76821,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxg_四合院里的火车司机1-1431章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxg/",
   },
+
 {
     id: "m_wxi",
     slug: "人在华娱，职业系统太绅士了",
@@ -72500,6 +76838,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxi_人在华娱，职业系统太绅士了1-256章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxi/",
   },
+
 {
     id: "m_wxj",
     slug: "联盟野王，玩转电竞圈",
@@ -72516,6 +76855,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxj_联盟野王，玩转电竞圈1-257章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxj/",
   },
+
 {
     id: "m_wxk",
     slug: "家父刘备，望父成龙",
@@ -72532,6 +76872,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxk_家父刘备，望父成龙1-364章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxk/",
   },
+
 {
     id: "m_wxl",
     slug: "红楼：权倾天下，我和黛玉挽天倾",
@@ -72583,6 +76924,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxn_西游：长生仙族从五行山喂猴开始1-782章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxn/",
   },
+
 {
     id: "m_wxq",
     slug: "柴刀流漫画大师",
@@ -72599,6 +76941,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxq_柴刀流漫画大师1-292章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxq/",
   },
+
 {
     id: "m_wxu",
     slug: "港综：我做事最讲义气",
@@ -72615,6 +76958,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wxu_港综：我做事最讲义气1-390章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wxu/",
   },
+
 {
     id: "m_wxw",
     slug: "我能提取万物属性点",
@@ -72666,6 +77010,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wy_从铁衣功开始肉身成圣1-682章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wy/",
   },
+
 {
     id: "m_wya",
     slug: "人已中年，这个医生才出道",
@@ -72682,6 +77027,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wya_人已中年，这个医生才出道1-379章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wya/",
   },
+
 {
     id: "m_wyb",
     slug: "一人之下：我能转动磁场！",
@@ -72697,6 +77043,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyb_一人之下：我能转动磁场！1-695章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyb/",
   },
+
 {
     id: "m_wyc",
     slug: "财富自由从越南开始",
@@ -72713,6 +77060,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyc_财富自由从越南开始1-549章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyc/",
   },
+
 {
     id: "m_wyf",
     slug: "人在篮坛，速成BOSS",
@@ -72728,6 +77076,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyf_人在篮坛，速成BOSS1-279章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyf/",
   },
+
 {
     id: "m_wyg",
     slug: "红楼：风雪青云路",
@@ -72744,6 +77093,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyg_红楼：风雪青云路1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyg/",
   },
+
 {
     id: "m_wyh",
     slug: "大明：老四，带咱一起修仙！",
@@ -72760,6 +77110,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyh_大明：老四，带咱一起修仙！1-450章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyh/",
   },
+
 {
     id: "m_wyk",
     slug: "霍格沃茨的混子教授",
@@ -72775,6 +77126,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyk_霍格沃茨的混子教授1-385章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyk/",
   },
+
 {
     id: "m_wyl",
     slug: "从粉碎敦刻尔克开始",
@@ -72791,6 +77143,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyl_从粉碎敦刻尔克开始1-635章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyl/",
   },
+
 {
     id: "m_wym",
     slug: "清妖",
@@ -72807,6 +77160,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wym_清妖1-1022章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wym/",
   },
+
 {
     id: "m_wyn",
     slug: "人在美利坚，克苏鲁系统什么鬼？",
@@ -72823,6 +77177,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyn_人在美利坚，克苏鲁系统什么鬼？1-293章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyn/",
   },
+
 {
     id: "m_wyo",
     slug: "你一个法医，比刑警还厉害！",
@@ -72839,6 +77194,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyo_你一个法医，比刑警还厉害！1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyo/",
   },
+
 {
     id: "m_wyp",
     slug: "玩家入侵赛博朋克",
@@ -72872,6 +77228,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyq_仙命在我1-1700章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyq/",
   },
+
 {
     id: "m_wyv",
     slug: "超维度玩家",
@@ -72906,6 +77263,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wyw_长生修仙，从画符开始1-762章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wyw/",
   },
+
 {
     id: "m_wyx",
     slug: "红楼琏二爷",
@@ -72940,6 +77298,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wz_诸天道祖，从遮天开始1-266章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wz/",
   },
+
 {
     id: "m_wza",
     slug: "穿越被活埋，我反手拨打报警电话",
@@ -72956,6 +77315,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wza_穿越被活埋，我反手拨打报警电话1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wza/",
   },
+
 {
     id: "m_wzb",
     slug: "我用游戏改变了时间线",
@@ -72971,6 +77331,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzb_我用游戏改变了时间线1-1202章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzb/",
   },
+
 {
     id: "m_wze",
     slug: "从海贼开始打造最强词条",
@@ -72987,6 +77348,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wze_从海贼开始打造最强词条1-600章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wze/",
   },
+
 {
     id: "m_wzg",
     slug: "大唐：如何成为玄武门总策划",
@@ -73003,6 +77365,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzg_大唐：如何成为玄武门总策划1-351章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzg/",
   },
+
 {
     id: "m_wzh",
     slug: "综网：我的道兵，皆为神明",
@@ -73018,6 +77381,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzh_综网：我的道兵，皆为神明1-800章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzh/",
   },
+
 {
     id: "m_wzj",
     slug: "我在俄国当文豪",
@@ -73033,6 +77397,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzj_我在俄国当文豪1-605章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzj/",
   },
+
 {
     id: "m_wzk",
     slug: "人在北宋，开局娶盛明兰",
@@ -73049,6 +77414,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzk_人在北宋，开局娶盛明兰1-523章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzk/",
   },
+
 {
     id: "m_wzm",
     slug: "谁说要向魔女效忠？",
@@ -73065,6 +77431,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzm_谁说要向魔女效忠？1-726章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzm/",
   },
+
 {
     id: "m_wzn",
     slug: "火影：我建立的忍村没有斩杀线！",
@@ -73081,6 +77448,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzn_火影：我建立的忍村没有斩杀线！1-431章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzn/",
   },
+
 {
     id: "m_wzo",
     slug: "旧日回响",
@@ -73097,6 +77465,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzo_旧日回响1-318章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzo/",
   },
+
 {
     id: "m_wzp",
     slug: "四合院：从交道口街道办开始！",
@@ -73130,6 +77499,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzq_国术：一天涨一年功力！1-514章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzq/",
   },
+
 {
     id: "m_wzr",
     slug: "三国：汉末小民",
@@ -73146,6 +77516,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzr_三国：汉末小民1-613章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzr/",
   },
+
 {
     id: "m_wzu",
     slug: "我以奥术登临神座",
@@ -73162,6 +77533,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzu_我以奥术登临神座1-1085章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzu/",
   },
+
 {
     id: "m_wzz",
     slug: "人在大西北，手握一座城",
@@ -73177,6 +77549,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wzz_人在大西北，手握一座城1-1522章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wzz/",
   },
+
 {
     id: "m_x",
     slug: "重生的我只想当学霸",
@@ -73210,6 +77583,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xa_欢迎光临能力商店！1-566章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xa/",
   },
+
 {
     id: "m_xb",
     slug: "蒸汽世界的奥秘侦探",
@@ -73226,6 +77600,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xb_蒸汽世界的奥秘侦探1-737章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xb/",
   },
+
 {
     id: "m_xc",
     slug: "战锤：帝皇，请相信我是忠诚的！",
@@ -73260,6 +77635,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xd_我以科举证长生1-422章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xd/",
   },
+
 {
     id: "m_xg",
     slug: "诡秘：路明非不想当上帝",
@@ -73294,6 +77670,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xh_戏神！1-517章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xh/",
   },
+
 {
     id: "m_xi",
     slug: "异境：我能召唤书中人物",
@@ -73310,6 +77687,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xi_异境：我能召唤书中人物1-1049章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xi/",
   },
+
 {
     id: "m_xj",
     slug: "不想升仙了怎么办",
@@ -73325,6 +77703,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xj_不想升仙了怎么办1-382章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xj/",
   },
+
 {
     id: "m_xk",
     slug: "人在斗罗，开局获得重瞳至尊骨",
@@ -73358,6 +77737,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xl_阵问长生1-1562章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xl/",
   },
+
 {
     id: "m_xm",
     slug: "女友们不努力我怎么当宝可梦大师",
@@ -73373,6 +77753,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xm_女友们不努力我怎么当宝可梦大师1-245章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xm/",
   },
+
 {
     id: "m_xn",
     slug: "柯南：从警视厅到国会",
@@ -73389,6 +77770,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xn_柯南：从警视厅到国会1-333章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xn/",
   },
+
 {
     id: "m_xo",
     slug: "火影：忍者从入门到入土",
@@ -73404,6 +77786,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xo_火影：忍者从入门到入土1-324章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xo/",
   },
+
 {
     id: "m_xp",
     slug: "从忽悠豪门范开始成为全能导演",
@@ -73420,6 +77803,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xp_从忽悠豪门范开始成为全能导演1-597章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xp/",
   },
+
 {
     id: "m_xs",
     slug: "2006：操盘美利坚",
@@ -73436,6 +77820,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xs_2006：操盘美利坚1-433章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xs/",
   },
+
 {
     id: "m_xv",
     slug: "北宋：我真的只想被贬官啊！",
@@ -73452,6 +77837,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xv_北宋：我真的只想被贬官啊！1-322章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xv/",
   },
+
 {
     id: "m_xw",
     slug: "医路坦途",
@@ -73467,6 +77853,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xw_医路坦途1-3003章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xw/",
   },
+
 {
     id: "m_xx",
     slug: "啊？这不是探险种田游戏吗？",
@@ -73483,6 +77870,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xx_啊？这不是探险种田游戏吗？1-1191章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xx/",
   },
+
 {
     id: "m_xy",
     slug: "大师补习班",
@@ -73499,6 +77887,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xy_大师补习班1-817章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xy/",
   },
+
 {
     id: "m_xz",
     slug: "霍格沃兹的时空旅者",
@@ -73514,6 +77903,7 @@ export const bookItems = [
     downloadUrl: "/books/m_xz_霍格沃兹的时空旅者1-613章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/xz/",
   },
+
 {
     id: "m_y",
     slug: "这聊天群就我一个活人？",
@@ -73530,6 +77920,7 @@ export const bookItems = [
     downloadUrl: "/books/m_y_这聊天群就我一个活人？1-239章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/y/",
   },
+
 {
     id: "m_ya",
     slug: "穿越柯南三十年前，截胡妃英理",
@@ -73545,6 +77936,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ya_穿越柯南三十年前，截胡妃英理1-838章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ya/",
   },
+
 {
     id: "m_yc",
     slug: "谁教你这么当兵的！",
@@ -73560,6 +77952,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yc_谁教你这么当兵的！1-733章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yc/",
   },
+
 {
     id: "m_yd",
     slug: "战锤：帝皇冠军的自我修养",
@@ -73575,6 +77968,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yd_战锤：帝皇冠军的自我修养1-588章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yd/",
   },
+
 {
     id: "m_yf",
     slug: "让哈布斯堡再次伟大！",
@@ -73591,6 +77985,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yf_让哈布斯堡再次伟大！1-726章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yf/",
   },
+
 {
     id: "m_yg",
     slug: "梦回1997，我成了网文鼻祖",
@@ -73607,6 +78002,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yg_梦回1997，我成了网文鼻祖1-852章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yg/",
   },
+
 {
     id: "m_yh",
     slug: "冬日重现",
@@ -73623,6 +78019,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yh_冬日重现1-503章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yh/",
   },
+
 {
     id: "m_yj",
     slug: "你的游戏为何有历史感",
@@ -73638,6 +78035,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yj_你的游戏为何有历史感1-512章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yj/",
   },
+
 {
     id: "m_yk",
     slug: "圆梦影视，从小欢喜乔卫东开始",
@@ -73654,6 +78052,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yk_圆梦影视，从小欢喜乔卫东开始1-714章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yk/",
   },
+
 {
     id: "m_yl",
     slug: "诸天影视流浪",
@@ -73670,6 +78069,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yl_诸天影视流浪1-2201章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yl/",
   },
+
 {
     id: "m_ym",
     slug: "东京非自然法医",
@@ -73685,6 +78085,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ym_东京非自然法医1-1023章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ym/",
   },
+
 {
     id: "m_yn",
     slug: "开盲盒成就最强领主",
@@ -73701,6 +78102,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yn_开盲盒成就最强领主1-421章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yn/",
   },
+
 {
     id: "m_yo",
     slug: "火影：人在木叶，我叫漩涡面麻",
@@ -73735,6 +78137,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yp_御兽：预支未来1-417章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yp/",
   },
+
 {
     id: "m_ys",
     slug: "人在吞噬，浪穿宇宙",
@@ -73750,6 +78153,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ys_人在吞噬，浪穿宇宙1-364章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ys/",
   },
+
 {
     id: "m_yt",
     slug: "南洋：吴宋崛起",
@@ -73784,6 +78188,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yu_山雨蛟1-268章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yu/",
   },
+
 {
     id: "m_yv",
     slug: "罗汉伏魔从倚天屠龙开始",
@@ -73818,6 +78223,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yw_东土大隋1-355章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yw/",
   },
+
 {
     id: "m_yx",
     slug: "我可不仅仅是人类！",
@@ -73851,6 +78257,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yy_长生从坊市散修开始1-746章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yy/",
   },
+
 {
     id: "m_yz",
     slug: "我满级天师，你让我进规则怪谈？",
@@ -73867,6 +78274,7 @@ export const bookItems = [
     downloadUrl: "/books/m_yz_我满级天师，你让我进规则怪谈？1-2360章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/yz/",
   },
+
 {
     id: "m_z",
     slug: "在恐怖电影里力大无穷",
@@ -73882,6 +78290,7 @@ export const bookItems = [
     downloadUrl: "/books/m_z_在恐怖电影里力大无穷1-1616章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/z/",
   },
+
 {
     id: "m_za",
     slug: "影视：肆虐在诸天的收集员",
@@ -73914,6 +78323,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zb_从两界开始御兽修仙1-698章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zb/",
   },
+
 {
     id: "m_zc",
     slug: "文豪1879：独行法兰西",
@@ -73930,6 +78340,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zc_文豪1879：独行法兰西1-945章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zc/",
   },
+
 {
     id: "m_zd",
     slug: "靠着辅助修炼金手指横推遮天",
@@ -73946,6 +78357,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zd_靠着辅助修炼金手指横推遮天1-537章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zd/",
   },
+
 {
     id: "m_ze",
     slug: "从霍格沃茨开始的符文法师",
@@ -73962,6 +78374,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ze_从霍格沃茨开始的符文法师1-404章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ze/",
   },
+
 {
     id: "m_zh",
     slug: "天麻从白糸台开始征战全国大赛",
@@ -73977,6 +78390,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zh_天麻从白糸台开始征战全国大赛1-226章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zh/",
   },
+
 {
     id: "m_zj",
     slug: "国术！大宗师",
@@ -74010,6 +78424,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zk_仙工开物1-1040章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zk/",
   },
+
 {
     id: "m_zl",
     slug: "直播穿越，我的观众在未来",
@@ -74026,6 +78441,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zl_直播穿越，我的观众在未来1-664章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zl/",
   },
+
 {
     id: "m_zn",
     slug: "同时穿越：诸界星渊",
@@ -74042,6 +78458,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zn_同时穿越：诸界星渊1-858章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zn/",
   },
+
 {
     id: "m_zo",
     slug: "人在现实，我能进入镜中世界",
@@ -74058,6 +78475,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zo_人在现实，我能进入镜中世界1-663章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zo/",
   },
+
 {
     id: "m_zp",
     slug: "亡灵法师召唤一群骷髅很合理吧",
@@ -74074,6 +78492,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zp_亡灵法师召唤一群骷髅很合理吧1-1200章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zp/",
   },
+
 {
     id: "m_zq",
     slug: "鬼灭：我的呼吸法能加点",
@@ -74090,6 +78509,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zq_鬼灭：我的呼吸法能加点1-560章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zq/",
   },
+
 {
     id: "m_zt",
     slug: "华娱：从2015开始暴富",
@@ -74105,6 +78525,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zt_华娱：从2015开始暴富1-673章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zt/",
   },
+
 {
     id: "m_zu",
     slug: "三国，我？算无遗策？",
@@ -74121,6 +78542,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zu_三国，我？算无遗策？1-731章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zu/",
   },
+
 {
     id: "m_zv",
     slug: "魔祸诸天：从小李飞刀开始横行",
@@ -74137,6 +78559,7 @@ export const bookItems = [
     downloadUrl: "/books/m_zv_魔祸诸天：从小李飞刀开始横行1-529章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/zv/",
   },
+
 {
     id: "m_zw",
     slug: "重生在电影的世界",
@@ -74721,6 +79144,7 @@ export const bookItems = [
     downloadUrl: "/books/u_f7030dd5_财富自由从越南开始1-524章.txt",
     sourceUrl: "",
   },
+
 {
     id: "w_139814",
     slug: "潘多拉的复仇",
