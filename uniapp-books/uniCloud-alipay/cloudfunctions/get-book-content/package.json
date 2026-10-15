@@ -1,0 +1,11 @@
+{
+  "name": "get-book-content",
+  "version": "2.0.0",
+  "description": "解析网盘分享链接并返回直链（支持夸克、百度网盘）",
+  "main": "index.js",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
+

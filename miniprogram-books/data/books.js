@@ -1,14 +1,14 @@
 module.exports = [
   {
     "id": 1,
-    "title": "没钱修什么仙？",
+    "title": "没钱修什么仙xxxxxxx？",
     "author": "熊狼狗",
     "category": "玄幻",
     "status": "连载中",
     "chapters": "1-987章",
     "latestChapter": "第987章 终极倒翻昆仑，掌书人(感谢“吴师叔”成为盟主)",
     "excerpt": "老者：“你想报仇？”少年：“我被强者反复侮辱，被师尊视为垃圾，我怎么可能不想报仇？”老者伸出手：“把你手机给我。”少年震惊：“前辈！这哪里来的百年功力？”老者微微一笑：“好孩子，这是你在天庭的备用功力，以后急用的时候随用随取。”张羽冷哼一声，关掉了上面的广告。",
-    "readUrl": "https://pan.quark.cn/s/a48c20f99f5e?pwd=S6yn",
+    "readUrl": "https://pan.quark.cn/s/bf5bff7779c4",
     "downloadUrl": "/books/1_没钱修什么仙？1-987章.txt",
     "tags": [
       {
@@ -31,7 +31,7 @@ module.exports = [
     "chapters": "1-810章",
     "latestChapter": "第810章 一人伐一国【上】",
     "excerpt": "那一天太阳落下再也没有升起。 永夜，天地漆黑，似不可测的深渊要吞噬一切。 白昼早已沦为过往，成为传说。 广袤的冻土，寒风凛冽，暴雪砸落，积在地面足有半人高了。 双树村，被大雪半淹没。 这里只有四五十户人家，像是被岁月遗忘的村庄，成片的房屋在黑夜中只能看到模糊的轮廓。",
-    "readUrl": "https://pan.quark.cn/s/6e763169763d?pwd=4RkQ",
+    "readUrl": "https://pan.quark.cn/s/10f7c8112ee1",
     "downloadUrl": "/books/2_夜无疆1-810章.txt",
     "tags": [
       {
@@ -54,7 +54,7 @@ module.exports = [
     "chapters": "1-883章",
     "latestChapter": "第883章 幽冥（求月票！）",
     "excerpt": "命格在手，苟道求生！ 陈庆穿越了，却穿进一个武道为尊、人命贱如草的乱世。开局便是哑子湾的贫苦渔家子，父亲被抓徭役杳无音信，孤儿寡母被官府税赋与帮派\\",
-    "readUrl": "https://pan.quark.cn/s/5adbef00e7e0?pwd=HFC9",
+    "readUrl": "https://pan.quark.cn/s/ed7a09f318e8",
     "downloadUrl": "/books/3_苟在武道世界成圣1-883章.txt",
     "tags": [
       {
@@ -305,7 +305,7 @@ module.exports = [
     "category": "玄幻",
     "status": "连载中",
     "chapters": "1-797章",
-    "latestChapter": "",
+    "latestChapter": "第797章",
     "excerpt": "飞光飞光，劝尔一杯酒。 吾不识青山高，黄地厚。 唯见月寒日暖，来煎人寿。",
     "readUrl": "https://pan.quark.cn/s/18585ae421f9?pwd=BNNk",
     "downloadUrl": "/books/14_青山1-797章.txt",
@@ -374,9 +374,9 @@ module.exports = [
     "category": "玄幻",
     "status": "连载中",
     "chapters": "1-1271章",
-    "latestChapter": "",
+    "latestChapter": "第1271章",
     "excerpt": "星空中的\\",
-    "readUrl": "https://pan.quark.cn/s/6334b093dd1d?pwd=9nvY",
+    "readUrl": "https://pan.quark.cn/s/6d2a737864a0",
     "downloadUrl": "/books/17_元始法则1-1271章.txt",
     "tags": [
       {

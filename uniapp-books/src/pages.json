@@ -16,6 +16,18 @@
 
     {
 
+      "path": "pages/bookshelf/bookshelf",
+
+      "style": {
+
+        "navigationBarTitleText": "书架"
+
+      }
+
+    },
+
+    {
+
       "path": "pages/mine/mine",
 
       "style": {
@@ -57,6 +69,18 @@
       "style": {
 
         "navigationBarTitleText": "激励视频测试"
+
+      }
+
+    },
+
+    {
+
+      "path": "pages/reader/reader",
+
+      "style": {
+
+        "navigationBarTitleText": "在线阅读"
 
       }
 

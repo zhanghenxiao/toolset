@@ -95,9 +95,14 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, onBeforeUnmount } from 'vue';
 import { onReady, onShow, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
-import { meta, filterBooks } from '@/utils/books';
+import {
+  meta,
+  filterBooks,
+  ensureBooksLoaded,
+  onBooksChanged,
+} from '@/utils/books';
 import { APP_VERSION_NAME } from '@/utils/app-version';
 import { checkAppUpdate } from '@/utils/app-update';
 import UpdateModal from '@/components/UpdateModal.vue';
@@ -105,7 +110,6 @@ import InterstitialAdHost from '@/components/InterstitialAdHost.vue';
 import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
 import FeedAd from '@/components/FeedAd.vue';
 import AppTabBar from '@/components/AppTabBar.vue';
-import { showInterstitialAd } from '@/utils/interstitial-ad';
 import { shouldShowRewardForSearch, showRewardForSearch } from '@/utils/ad-policy';
 
 const PAGE_SIZE = 40;
@@ -199,12 +203,8 @@ function goDetail(id) {
 }
 
 function onBookTap(id) {
-  showInterstitialAd({
-    delay: 0,
-    afterClose: () => goDetail(id),
-  }).then((shown) => {
-    if (!shown) goDetail(id);
-  });
+  // 已关闭点击时的插屏广告，直接跳转
+  goDetail(id);
 }
 
 let versionChecking = false;
@@ -224,7 +224,15 @@ async function onVersionTap() {
 }
 
 onMounted(() => {
+  ensureBooksLoaded().then(applyFilters);
+});
+
+let unsubscribeBooks = null;
+unsubscribeBooks = onBooksChanged(() => {
   applyFilters();
+});
+onBeforeUnmount(() => {
+  if (typeof unsubscribeBooks === 'function') unsubscribeBooks();
 });
 
 onReady(() => {
@@ -232,7 +240,7 @@ onReady(() => {
 });
 
 onShow(() => {
-  showInterstitialAd();
+  // showInterstitialAd(); // 已关闭首页进入自动展示广告
 });
 
 onShareAppMessage(() => {

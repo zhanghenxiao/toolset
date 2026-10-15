@@ -5,6 +5,7 @@
 <script>
 import { checkForUpdateOnLaunch } from '@/utils/app-update';
 import { bindRewardAdAppLifecycle, initRewardAdCallback } from '@/utils/rewarded-video-ad';
+import { loadBooksFromCloud } from '@/utils/books';
 import UpdateModal from '@/components/UpdateModal.vue';
 
 export default {
@@ -13,6 +14,10 @@ export default {
     checkForUpdateOnLaunch();
     initRewardAdCallback();
     bindRewardAdAppLifecycle();
+    // 启动期从云存储拉取最新书单；失败时仍可使用本地兜底
+    loadBooksFromCloud({ silent: true }).catch((err) => {
+      console.warn('[books] 启动期拉取云端数据失败', err);
+    });
   },
 };
 </script>

@@ -1,0 +1,6 @@
+{
+  "name": "get-books-file",
+  "version": "1.0.0",
+  "description": "读取云存储 books.js 文本内容",
+  "main": "index.js"
+}

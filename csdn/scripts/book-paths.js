@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|u_[a-z0-9]+|w_\d+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
+const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|f_\d+|u_[a-z0-9]+|w_\d+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
 const CUSTOM_ID_RE = /^u_[a-z0-9]+$/i;
 const OOW_ID_RE = /^w_\d+$/i;
 const JCXS_ID_RE = /^s\d+$/;
