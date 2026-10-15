@@ -14,6 +14,7 @@ const {
   isX33xsId,
   isMinyuanId,
   isLibahaoId,
+  isFalooId,
   isCustomBookId,
   is00wId,
   libahaoBookUrl,
@@ -201,7 +202,9 @@ function discoverDiskBooks() {
             ? `https://www.min-yuan.com/txt/${String(book.id).slice(2)}/`
             : isLibahaoId(book.id)
               ? libahaoSourceUrl(book.id)
-              : isCustomBookId(book.id)
+              : isFalooId(book.id)
+                ? `https://b.faloo.com/d_${String(book.id).slice(2)}.html`
+                : isCustomBookId(book.id)
                 ? ''
                 : is00wId(book.id)
                   ? `https://www.00w.org/bxwx_${String(book.id).slice(2)}/`
@@ -346,7 +349,7 @@ for (const disk of diskBooks) {
 if (process.argv.includes('--online')) {
   for (const item of merged) {
     const { id, entry } = item;
-    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id)) continue;
+    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isFalooId(id) || isCustomBookId(id) || is00wId(id)) continue;
     if (entry.author && entry.author !== '未知' && entry.category && entry.latestChapter) continue;
     try {
       const meta = parseMetadata(curlText(`https://www.deqixs.org/${id}/txt.html`), id);

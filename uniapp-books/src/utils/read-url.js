@@ -1,3 +1,6 @@
+import { showReadCopySuccess, showReadRewardConfirm } from './read-prompt';
+import { showRewardForReadUnlock } from './ad-policy';
+
 const DOUBLE_TAP_MS = 450;
 const tapState = new Map();
 
@@ -6,7 +9,6 @@ async function copyReadUrlToClipboard(readUrl) {
     uni.setClipboardData({
       data: readUrl,
       success: async () => {
-        const { showReadCopySuccess } = await import('./read-prompt');
         await showReadCopySuccess();
         resolve(true);
       },
@@ -25,11 +27,9 @@ export async function promptWatchAdThenCopyReadUrl(readUrl, bookId) {
     return false;
   }
 
-  const { showReadRewardConfirm } = await import('./read-prompt');
   const confirmed = await showReadRewardConfirm();
   if (!confirmed) return false;
 
-  const { showRewardForReadUnlock } = await import('./ad-policy');
   const { shown, isEnded } = await showRewardForReadUnlock(bookId);
 
   if (!shown) {

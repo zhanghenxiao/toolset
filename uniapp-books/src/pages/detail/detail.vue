@@ -1,8 +1,9 @@
 <template>
-  <update-modal />
-  <read-prompt-modal />
-  <rewarded-video-ad-host v-if="needLocalRewardHost" />
-  <view v-if="book" class="detail-page">
+  <view class="detail-container">
+    <update-modal />
+    <read-prompt-modal />
+    <rewarded-video-ad-host v-if="needLocalRewardHost" />
+    <view v-if="book" class="detail-page">
     <view class="hero">
       <image class="hero-cover" :src="book.cover" mode="aspectFill" />
       <view class="hero-info">
@@ -34,40 +35,104 @@
     </view>
 
     <view class="actions">
-      <!-- <button class="action-btn primary" @tap="onStartRead">开始阅读</button> -->
-      <button class="action-btn  primary" :loading="readLoading" @tap="onOpenReadUrl">在浏览器打开阅读</button>
+      <button
+        v-if="showOnlineRead"
+        class="action-btn"
+        :class="{ primary: readMode !== 'link' }"
+        @tap="onStartOnlineRead"
+      >
+        在线阅读
+      </button>
+      <button
+        v-if="showBrowserRead"
+        class="action-btn"
+        :class="{ primary: readMode === 'link' }"
+        :loading="readLoading"
+        @tap="onOpenReadUrl"
+      >
+        在浏览器打开阅读
+      </button>
     </view>
+  </view>
   </view>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue';
+import { ref, computed, onMounted, onBeforeUnmount } from 'vue';
 import { onLoad, onShareAppMessage, onShareTimeline } from '@dcloudio/uni-app';
 import UpdateModal from '@/components/UpdateModal.vue';
 import ReadPromptModal from '@/components/ReadPromptModal.vue';
 import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
-import { getBookById } from '@/utils/books';
+import { getBookById, ensureBooksLoaded, onBooksChanged } from '@/utils/books';
 import { promptWatchAdThenCopyReadUrl, onLatestChapterTap as handleLatestChapterTap } from '@/utils/read-url';
+import { getReadMode, getRemoteConfig } from '@/utils/remote-config';
 
 const book = ref(null);
 const readLoading = ref(false);
 const needLocalRewardHost = ref(false);
+const readMode = ref(getReadMode());
+
+const pendingId = ref(null);
+
+// readMode: 'all' → 同时显示在线阅读 + 浏览器打开
+//          'online' → 只显示在线阅读
+//          'link' → 只显示在浏览器打开
+const showOnlineRead = computed(() => {
+  return book.value?.onlineReadable && readMode.value !== 'link';
+});
+const showBrowserRead = computed(() => {
+  return readMode.value !== 'online';
+});
+
+function refreshBook() {
+  if (pendingId.value === null) return;
+  const found = getBookById(pendingId.value);
+  if (!found) {
+    book.value = null;
+    return;
+  }
+  book.value = found;
+  if (found.title) uni.setNavigationBarTitle({ title: found.title });
+}
+
+let unsubscribeBooks = null;
 
 onMounted(() => {
   // 从分享直达详情时没有首页栈，需本地挂载激励组件
   needLocalRewardHost.value = getCurrentPages().length <= 1;
+  unsubscribeBooks = onBooksChanged(refreshBook);
+  // 异步刷新远程 readMode 配置
+  getRemoteConfig().then(config => {
+    if (config.readMode) readMode.value = config.readMode;
+  });
 });
 
-onLoad((options) => {
-  const found = getBookById(options.id);
-  if (!found) {
+onBeforeUnmount(() => {
+  if (typeof unsubscribeBooks === 'function') unsubscribeBooks();
+});
+
+onLoad(async (options) => {
+  pendingId.value = options && options.id !== undefined ? options.id : null;
+  await ensureBooksLoaded();
+  if (pendingId.value === null || pendingId.value === undefined) {
     uni.showToast({ title: '书籍不存在', icon: 'none' });
     setTimeout(() => uni.navigateBack(), 1500);
     return;
   }
-  uni.setNavigationBarTitle({ title: found.title });
-  book.value = found;
+  refreshBook();
+  if (!book.value) {
+    uni.showToast({ title: '书籍不存在', icon: 'none' });
+    setTimeout(() => uni.navigateBack(), 1500);
+  }
 });
+
+// 在线阅读
+function onStartOnlineRead() {
+  if (!book.value) return;
+  uni.navigateTo({
+    url: `/pages/reader/reader?bookId=${book.value.id}`
+  });
+}
 
 async function onOpenReadUrl() {
   if (!book.value || readLoading.value) return;

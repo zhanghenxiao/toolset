@@ -21,6 +21,8 @@ const {
   parseCatalog,
   extractBooktxt,
   parseNextHref,
+  readCachedIndexHtml,
+  saveCachedIndexHtml,
 } = require('./minyuan-book-core');
 
 const root = path.resolve(__dirname, '../..');
@@ -117,7 +119,13 @@ function main() {
   const indexUrl = `${BASE}/txt/${slug}/`;
   console.log(`抓取 min-yuan 书籍 ${slug}…`);
 
-  const indexHtml = curl(indexUrl, 8);
+  let indexHtml = readCachedIndexHtml(root, slug);
+  if (indexHtml) {
+    console.log(`使用本地目录缓存 books/_work/${slug}-index.html`);
+  } else {
+    indexHtml = curl(indexUrl, 8);
+    saveCachedIndexHtml(root, slug, indexHtml);
+  }
   const meta = parseBookMeta(indexHtml);
   if (!meta.title || !meta.author) throw new Error('无法解析书名/作者');
 

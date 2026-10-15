@@ -25,11 +25,12 @@ function normalizeKey(name) {
   return name.replace(/\.txt$/i, '').replace(/[：:]/g, '').toLowerCase();
 }
 
+const BOOK_BLOCK_RE = /\r?\n\{[\s\S]*?\r?\n  \},/g;
+
 function parseBooksData(content) {
   const books = [];
-  const blockRe = /\n\{[\s\S]*?\n  \},/g;
-  for (const block of content.match(blockRe) || []) {
-    const idRaw = block.match(/^\n\{\n    id: ([^,]+),/m)?.[1]?.trim();
+  for (const block of content.match(BOOK_BLOCK_RE) || []) {
+    const idRaw = block.match(/^\r?\n\{\r?\n    id: ([^,]+),/m)?.[1]?.trim();
     const downloadUrl = block.match(/downloadUrl: "([^"]+)"/)?.[1];
     if (!idRaw || !downloadUrl) continue;
     const id = /^\d+$/.test(idRaw) ? Number(idRaw) : idRaw.replace(/^"|"$/g, '');
@@ -69,10 +70,9 @@ function findBook(books, shareName) {
 }
 
 function updateReadUrl(content, id, url) {
-  const idLine = `\n    id: ${typeof id === 'number' ? id : JSON.stringify(id)},`;
-  const blockRe = /\n\{[\s\S]*?\n  \},/g;
-  const blocks = content.match(blockRe) || [];
-  const block = blocks.find((b) => b.includes(idLine));
+  const idNeedle = typeof id === 'number' ? `id: ${id},` : `id: ${JSON.stringify(id)},`;
+  const blocks = content.match(BOOK_BLOCK_RE) || [];
+  const block = blocks.find((b) => b.includes(idNeedle));
   if (!block) return { content, ok: false };
 
   let next = block;
@@ -80,8 +80,8 @@ function updateReadUrl(content, id, url) {
     next = next.replace(/readUrl: "[^"]*"/, `readUrl: ${JSON.stringify(url)}`);
   } else {
     next = next.replace(
-      /(\n    downloadUrl:)/,
-      `\n    readUrl: ${JSON.stringify(url)},$1`,
+      /(\r?\n    downloadUrl:)/,
+      (m) => `${m.includes('\r') ? '\r\n' : '\n'}    readUrl: ${JSON.stringify(url)},${m}`,
     );
   }
 

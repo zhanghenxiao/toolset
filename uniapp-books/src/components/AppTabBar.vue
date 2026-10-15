@@ -12,6 +12,16 @@
     </view>
     <view
       class="tab-item"
+      :class="{ active: current === 'bookshelf' }"
+      @tap="goTab('/pages/bookshelf/bookshelf', 'bookshelf')"
+    >
+      <view class="icon-wrap">
+        <text class="tab-icon bookshelf-icon">▣</text>
+      </view>
+      <text class="tab-text">书架</text>
+    </view>
+    <view
+      class="tab-item"
       :class="{ active: current === 'about' }"
       @tap="goTab('/pages/mine/mine', 'about')"
     >
@@ -32,7 +42,13 @@ const current = ref('index');
 function syncCurrent() {
   const pages = getCurrentPages();
   const route = pages[pages.length - 1]?.route || '';
-  current.value = route.includes('mine') || route.includes('about') ? 'about' : 'index';
+  if (route.includes('bookshelf')) {
+    current.value = 'bookshelf';
+  } else if (route.includes('mine') || route.includes('about')) {
+    current.value = 'about';
+  } else {
+    current.value = 'index';
+  }
 }
 
 function goTab(url, tab) {
@@ -107,6 +123,10 @@ syncCurrent();
 .about-icon {
   font-size: 46rpx;
   font-weight: 500;
+}
+
+.bookshelf-icon {
+  font-size: 44rpx;
 }
 
 .tab-item.active .tab-icon {

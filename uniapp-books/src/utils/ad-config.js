@@ -96,7 +96,7 @@ export const AD_SECONDARY_DELAY_MS = 8 * 1000;
 
 /** 是否展示次要广告（插屏、信息流） */
 
-export const AD_ENABLE_SECONDARY = true;
+export const AD_ENABLE_SECONDARY = false;
 
 
 
