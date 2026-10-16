@@ -40,6 +40,16 @@ npm run build:h5
 
 App 启动时会请求该文件，对比本地 `versionCode` 决定是否提示更新。
 
+同一份文件还承载**远程开关**（无需发版即可调整）：
+
+| 字段 | 说明 |
+| --- | --- |
+| `readMode` | `all`（在线阅读 + 浏览器打开）/ `online` / `link` |
+| `useCloud` | 是否使用**云端数据源**；`false` 时书单直接用 App 内置本地数据，不再调云函数 |
+| `panCookies` | 网盘解析用的 Cookie（`quark` / `baidu`） |
+
+> 取不到远程配置时，回退到 `src/config/books-config.js` 的 `dataSource` 等本地值。
+
 ### 发布新版本流程（蒲公英 + 自动安装）
 
 1. HBuilderX 云打包生成 `.apk`，上传到 [蒲公英](https://www.pgyer.com)（应用短链如 `shuweitansuo`）

@@ -3,11 +3,6 @@
     <update-modal />
     <interstitial-ad-host />
     <rewarded-video-ad-host />
-    <view class="page-top-bar">
-      <view class="version-badge" @tap="onVersionTap">
-        <text>v{{ appVersion }}</text>
-      </view>
-    </view>
     <view class="masthead">
       <text class="masthead-title">数维探索</text>
       <text class="masthead-sub">精选小说书单</text>
@@ -53,35 +48,54 @@
       </view>
     </view>
 
-    <feed-ad :active="pageReady" />
+
 
     <view v-if="list.length > 0" class="book-grid">
-      <view
-        v-for="item in list"
-        :key="item.id"
-        class="book-card"
-        :data-id="item.id"
-        @tap="onBookTap(item.id)"
-      >
-        <view class="card-cover">
-          <image class="cover-img" :src="item.cover" mode="aspectFill" lazy-load />
-          <text class="category-badge">{{ item.category }}</text>
-          <text v-if="item.latestChapter" class="chapter-badge">最新章节</text>
-        </view>
-        <view class="card-body">
-          <text class="card-title">{{ item.title }}</text>
-          <text class="card-author">{{ item.author }}</text>
-          <text class="card-excerpt">{{ item.excerpt }}</text>
-          <view class="card-tags">
-            <text
-              v-for="tag in item.tags"
-              :key="tag.name"
-              :class="['tag', `tag-${tag.type}`]"
-            >{{ tag.name }}</text>
+      <template v-for="(item, idx) in list" :key="item.id">
+        <view
+          class="book-card"
+          :data-id="item.id"
+          @tap="onBookTap(item.id)"
+        >
+          <view class="card-cover">
+            <image class="cover-img" :src="item.cover" mode="aspectFill" lazy-load />
+            <text class="category-badge">{{ item.category }}</text>
+            <text v-if="item.latestChapter" class="chapter-badge">最新章节</text>
           </view>
-          <text class="read-btn">查看详情</text>
+          <view class="card-body">
+            <text class="card-title">{{ item.title }}</text>
+            <text class="card-author">{{ item.author }}</text>
+            <text class="card-excerpt">{{ item.excerpt }}</text>
+            <view class="card-tags">
+              <text
+                v-for="tag in item.tags"
+                :key="tag.name"
+                :class="['tag', `tag-${tag.type}`]"
+              >{{ tag.name }}</text>
+            </view>
+            <text class="read-btn">查看详情</text>
+          </view>
         </view>
-      </view>
+
+        <view v-if="adAfterIndices.includes(idx)" class="feed-ad-wrap">
+          <!-- #ifdef APP-PLUS -->
+          <ad
+            v-if="pageReady"
+            class="index-feed-ad"
+            :adpid="AD_FEED_PID"
+            @load="onFeedAdLoad"
+            @close="onFeedAdClose"
+            @error="onFeedAdError"
+          ></ad>
+          <!-- #endif -->
+          <!-- #ifndef APP-PLUS -->
+          <view class="feed-ad-placeholder">
+            <text class="feed-ad-ph-title">信息流广告位</text>
+            <text class="feed-ad-ph-sub">APP 云打包后展示真实/测试广告</text>
+          </view>
+          <!-- #endif -->
+        </view>
+      </template>
     </view>
 
     <view v-else class="no-results">
@@ -108,9 +122,19 @@ import { checkAppUpdate } from '@/utils/app-update';
 import UpdateModal from '@/components/UpdateModal.vue';
 import InterstitialAdHost from '@/components/InterstitialAdHost.vue';
 import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
-import FeedAd from '@/components/FeedAd.vue';
+import { AD_FEED_PID } from '@/utils/ad-config';
 import AppTabBar from '@/components/AppTabBar.vue';
-import { shouldShowRewardForSearch, showRewardForSearch } from '@/utils/ad-policy';
+
+// ============ 首页信息流广告事件 ============
+function onFeedAdLoad(e) {
+  console.log('[index-feed-ad] load', e);
+}
+function onFeedAdClose(e) {
+  console.log('[index-feed-ad] close', e);
+}
+function onFeedAdError(e) {
+  console.warn('[index-feed-ad] error', e);
+}
 
 const PAGE_SIZE = 40;
 const appVersion = APP_VERSION_NAME;
@@ -120,12 +144,12 @@ const categoryOptions = ['全部分类', ...categories];
 const tagOptions = ['全部标签', ...tags];
 
 const list = ref([]);
+// 广告穿插位置：存放书籍在 list 中的索引（0-based），该索引之后插入一条信息流广告
+const adAfterIndices = ref([]);
 const selectedCategory = ref('');
 const selectedTag = ref('');
 const keyword = ref('');
 const pageReady = ref(false);
-const searchClickCount = ref(0);
-let searchPending = false;
 
 function isAppPlus() {
   if (typeof plus !== 'undefined') return true;
@@ -145,45 +169,37 @@ function applyFilters() {
     keyword: keyword.value,
   });
   list.value = filtered.slice(0, PAGE_SIZE);
+  adAfterIndices.value = computeAdSlots(list.value.length);
+}
+
+function randomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+// 计算广告穿插位置：
+// 第 1 个广告固定在第 4 本书之后（索引 3），
+// 之后每隔 6~10 本随机穿插，且不会紧贴最后一本书。
+function computeAdSlots(total) {
+  const slots = [];
+  if (total < 4) return slots;
+  slots.push(3);
+  let pos = 1;
+  while (true) {
+    const gap = randomInt(6, 10);
+    const next = pos + gap;
+    if (next >= total - 1) break;
+    slots.push(next);
+    pos = next;
+  }
+  return slots;
 }
 
 function onKeywordInput(e) {
   keyword.value = e.detail.value;
 }
 
-async function onSearch() {
-  if (searchPending) return;
-
-  if (!isAppPlus()) {
-    applyFilters();
-    return;
-  }
-
-  searchClickCount.value += 1;
-
-  if (!shouldShowRewardForSearch(searchClickCount.value)) {
-    applyFilters();
-    return;
-  }
-
-  searchPending = true;
-  try {
-    const { shown, isEnded } = await showRewardForSearch();
-
-    if (!shown) {
-      uni.showToast({ title: '广告未能展示，请稍后重试', icon: 'none' });
-      return;
-    }
-
-    if (!isEnded) {
-      uni.showToast({ title: '请完整观看激励视频后再搜索', icon: 'none' });
-      return;
-    }
-
-    applyFilters();
-  } finally {
-    searchPending = false;
-  }
+function onSearch() {
+  applyFilters();
 }
 
 function onCategoryChange(e) {
@@ -540,6 +556,60 @@ onShareTimeline(() => {
   font-weight: 700;
   color: #6d2229;
   line-height: 1.8;
+}
+
+.index-feed-ad {
+  width: 100%;
+  display: block;
+  margin: 8rpx 0;
+}
+
+/* 穿插广告容器：占满整行，使广告在双列网格中换行独立成行 */
+.feed-ad-wrap {
+  width: 100%;
+}
+
+.feed-ad-wrap .feed-ad-placeholder {
+  width: 100%;
+  margin: 16rpx 0;
+}
+
+/* App 端广告页调试标记，确认广告位位置（上线可删） */
+.feed-ad-debug-tip {
+  width: 100%;
+  padding: 16rpx 32rpx;
+  text-align: center;
+  font-size: 22rpx;
+  color: #a08a68;
+  background: #fffaf0;
+  border: 2rpx dashed #d9c9a3;
+  border-radius: 12rpx;
+  box-sizing: border-box;
+}
+
+/* 非 App 环境开发预览占位（App 云打包后由原生广告替换） */
+.feed-ad-placeholder {
+  width: auto;
+  margin: 16rpx 32rpx;
+  min-height: 200rpx;
+  border: 2rpx dashed #d9c9a3;
+  border-radius: 12rpx;
+  background: #fffaf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #a08a68;
+}
+
+.feed-ad-ph-title {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 12rpx;
+}
+
+.feed-ad-ph-sub {
+  font-size: 22rpx;
 }
 
 </style>

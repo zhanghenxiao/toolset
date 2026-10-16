@@ -5,9 +5,9 @@
     v-if="ready"
     ref="adRef"
     class="interstitial-ad-host"
-    :adpid="AD_INTERSTITIAL_PID"
-    :preload="true"
-    :loadnext="true"
+    :adpid="adpid"
+    :preload="false"
+    :loadnext="false"
     @load="onLoad"
     @close="onClose"
     @error="onError"
@@ -16,8 +16,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, onUnmounted, nextTick } from 'vue';
-import { AD_INTERSTITIAL_PID } from '@/utils/ad-config';
+import { ref, computed, onMounted, onUnmounted, nextTick } from 'vue';
 import {
   registerInterstitialComponent,
   unregisterInterstitialComponent,
@@ -25,10 +24,13 @@ import {
   onInterstitialLoad,
   onInterstitialClose,
   onInterstitialError,
+  interstitialState,
 } from '@/utils/interstitial-ad';
 
 const ready = ref(false);
 const adRef = ref(null);
+// 跟随控制器写入的随机插屏位
+const adpid = computed(() => interstitialState.adpid || '');
 
 function isAppPlus() {
   if (typeof plus !== 'undefined') return true;

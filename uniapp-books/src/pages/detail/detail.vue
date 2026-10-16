@@ -78,7 +78,7 @@ const pendingId = ref(null);
 //          'online' → 只显示在线阅读
 //          'link' → 只显示在浏览器打开
 const showOnlineRead = computed(() => {
-  return book.value?.onlineReadable && readMode.value !== 'link';
+  return readMode.value !== 'link';
 });
 const showBrowserRead = computed(() => {
   return readMode.value !== 'online';

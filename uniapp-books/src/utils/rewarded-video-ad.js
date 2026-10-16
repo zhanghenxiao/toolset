@@ -9,7 +9,26 @@ import { AD_TYPE, releaseAd, tryAcquireAd } from './ad-guard';
 
 const LOG_TAG = '[rewarded-video-ad]';
 const STORAGE_UID_KEY = 'reward_ad_uid';
+const STORAGE_REWARD_LAST_SHOW_KEY = 'reward_ad_last_show';
 const SHOW_TIMEOUT_MS = 120000;
+
+// 启动时从本地缓存恢复上次展示时间（跨会话防瞬时重弹），并对改时钟做基本防护
+function loadRewardLastShow() {
+  try {
+    const v = uni.getStorageSync(STORAGE_REWARD_LAST_SHOW_KEY);
+    if (typeof v !== 'number' || !isFinite(v) || v <= 0) return 0;
+    if (v > Date.now()) return 0;
+    return v;
+  } catch (e) {
+    return 0;
+  }
+}
+
+function saveRewardLastShow(ts) {
+  try {
+    uni.setStorageSync(STORAGE_REWARD_LAST_SHOW_KEY, ts);
+  } catch (e) {}
+}
 
 export const rewardAdState = reactive({
   mounted: false,
@@ -35,7 +54,7 @@ let scheduledDelayTimer = null;
 let remountHostCallback = null;
 let backButtonHandler = null;
 let appHideDuringAd = false;
-let lastRewardShowAt = 0;
+let lastRewardShowAt = loadRewardLastShow();
 
 export function canShowRewardAd(force = false) {
   if (force) return true;
@@ -45,6 +64,7 @@ export function canShowRewardAd(force = false) {
 
 function markRewardAdShown() {
   lastRewardShowAt = Date.now();
+  saveRewardLastShow(lastRewardShowAt);
 }
 
 function formatError(err) {

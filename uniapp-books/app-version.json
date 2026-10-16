@@ -11,5 +11,7 @@
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
-  }
+  },
+  "readMode": "all",
+  "useCloud": true
 }

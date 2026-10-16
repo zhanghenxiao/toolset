@@ -10,13 +10,12 @@
 
 import meta from '../data/meta.js';
 import fallbackBooks from '../data/books.js';
-import booksConfig from '../config/books-config.js';
+import { getRemoteConfig, getCachedUseCloud, getCachedCloudFileId } from './remote-config.js';
 
 export { meta };
 
-// 根据配置决定是否使用云端
-const USE_CLOUD = booksConfig.dataSource === 'cloud';
-const FILE_ID = USE_CLOUD ? 'cloud://env-00jy6try6x00/books.js' : '';
+// 是否使用云端由远程 app-version.json 的 useCloud 决定（取不到时用本地 books-config.js 兜底）
+const DEFAULT_FILE_ID = 'cloud://env-00jy6try6x00/books.js';
 const STORAGE_KEY = 'cloud_books_cache_v1';
 const STORAGE_META_KEY = 'cloud_books_cache_meta_v1';
 
@@ -25,6 +24,7 @@ export const books = reactiveLoad([]);
 
 const listeners = new Set();
 let loadPromise = null;
+let loadedFromCloud = false;
 
 /** 同步导出（兼容老代码：直接 import books） */
 export { books as default };
@@ -122,21 +122,48 @@ export function offBooksChanged(fn) {
 }
 
 /**
+ * 读取云端开关配置：远程 app-version.json 的 useCloud 优先，
+ * 请求失败/超时时用上一次缓存，仍没有则用本地 books-config.js 的配置兜底。
+ * @returns {Promise<{useCloud: boolean, fileId: string}>}
+ */
+async function resolveCloudConfig() {
+  let config = null;
+  try {
+    config = await getRemoteConfig();
+  } catch (e) {
+    console.warn('[books] 读取远程配置失败，使用缓存值', e);
+  }
+
+  const useCloud = config ? !!config.useCloud : getCachedUseCloud();
+  const fileId = (config && config.cloudFileId) || getCachedCloudFileId() || DEFAULT_FILE_ID;
+  return { useCloud, fileId };
+}
+
+/** 关闭云端时，确保内存里是本地兜底数据 */
+function useLocalBooks() {
+  if ((loadedFromCloud || !isBooksArray(books)) && isBooksArray(fallbackBooks)) {
+    replaceBooks(fallbackBooks);
+    notifyChanged();
+  }
+  loadedFromCloud = false;
+  return books;
+}
+
+/**
  * 等待首次加载完成。已加载或正在加载时直接复用同一 Promise。
  */
-export function ensureBooksLoaded() {
-  if (books.length > 0) return Promise.resolve(books);
+export async function ensureBooksLoaded() {
+  if (books.length > 0) return books;
   if (loadPromise) return loadPromise;
-  
-  // 如果配置为本地数据源，直接返回本地数据
-  if (!USE_CLOUD) {
-    if (books.length === 0 && isBooksArray(fallbackBooks)) {
-      replaceBooks(fallbackBooks);
-      notifyChanged();
-    }
-    return Promise.resolve(books);
+
+  const { useCloud } = await resolveCloudConfig();
+
+  // 远程配置关闭云端时，直接使用本地数据
+  if (!useCloud) {
+    console.log('[books] 远程配置关闭云端数据源，使用本地数据');
+    return useLocalBooks();
   }
-  
+
   return loadBooksFromCloud({ silent: true });
 }
 
@@ -158,6 +185,15 @@ export function loadBooksFromCloud(options = {}) {
   }
 
   loadPromise = (async () => {
+    const { useCloud, fileId } = await resolveCloudConfig();
+
+    // 远程配置关闭云端：跳过云函数调用，直接用本地数据
+    if (!useCloud) {
+      console.log('[books] 远程配置关闭云端数据源，跳过云端拉取');
+      loadPromise = null;
+      return useLocalBooks();
+    }
+
     if (!silent) uni.showLoading?.({ title: '更新书单…', mask: true });
     try {
       // #ifdef APP-PLUS || MP-WEIXIN || H5
@@ -167,7 +203,7 @@ export function loadBooksFromCloud(options = {}) {
         if (typeof uniCloud !== 'undefined' && uniCloud.callFunction) {
           const res = await uniCloud.callFunction({
             name: 'get-books-file',
-            data: { fileID: FILE_ID },
+            data: { fileID: fileId },
           });
           const payload = res && res.result ? res.result : {};
           if (payload.code === 0 && typeof payload.content === 'string') {
@@ -204,6 +240,7 @@ export function loadBooksFromCloud(options = {}) {
 
       replaceBooks(parsed);
       persistCache(parsed);
+      loadedFromCloud = true;
       notifyChanged();
       return books;
     } finally {

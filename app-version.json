@@ -14,6 +14,7 @@
   },
   "备注": "//online // link",
   "readMode": "all", 
+  "useCloud": true,
   "panCookies": {
     "quark": "",
     "baidu": ""

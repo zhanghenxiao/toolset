@@ -32,7 +32,25 @@
     >
       <view class="content-wrapper" :class="{ 'scroll-wrapper': pageFlipMode === 'swipe' }" :style="contentStyle">
         <text class="chapter-title-text">{{ currentChapter.title }}</text>
-        <text class="content-text">{{ pageFlipMode === 'swipe' ? displayContent : currentPageText }}</text>
+        <block v-if="pageFlipMode === 'swipe'">
+          <text class="content-text">{{ displayContent }}</text>
+        </block>
+        <block v-else-if="currentPageItem && currentPageItem.type === 'ad'">
+          <!-- #ifdef APP-PLUS -->
+          <view class="reader-feed-ad-page">
+            <ad
+              class="reader-feed-ad"
+              :adpid="currentFeedAdPid"
+              :key="currentFeedAdPid"
+              @load="onFeedAdLoad"
+              @error="onFeedAdError"
+            ></ad>
+          </view>
+          <!-- #endif -->
+        </block>
+        <block v-else>
+          <text class="content-text">{{ currentPageText }}</text>
+        </block>
       </view>
     </scroll-view>
 
@@ -43,6 +61,24 @@
         <text class="loading-text">正在加载书籍内容...</text>
       </view>
     </view>
+
+    <!-- 阅读页底部常驻 Banner（文档：阅读页底部常驻，轮播）；拉取内容期间 & 前 2 章不展示 -->
+    <!-- #ifdef APP-PLUS -->
+    <view class="reader-banner" v-if="!loading && currentChapterNum > 2">
+      <ad
+        class="reader-banner-el"
+        :adpid="AD_BANNER_PID"
+        @load="onBannerAdLoad"
+        @error="onBannerAdError"
+      ></ad>
+    </view>
+    <!-- #endif -->
+
+    <!-- 插屏 / 激励视频宿主：注册到全局广告控制器，由本页事件触发 -->
+    <!-- #ifdef APP-PLUS -->
+    <interstitial-ad-host />
+    <rewarded-video-ad-host />
+    <!-- #endif -->
 
     <!-- 底部菜单栏（极简风格） -->
     <view
@@ -96,6 +132,11 @@
         <view class="menu-item" @tap.stop="showSettings">
           <text class="menu-icon">⚙</text>
           <text class="menu-label">设置</text>
+        </view>
+
+        <view class="menu-item" @tap.stop="onRewardUnlock">
+          <text class="menu-icon">🎁</text>
+          <text class="menu-label">{{ isAdFree ? '已免广告' : '免广告' }}</text>
         </view>
       </view>
     </view>
@@ -228,10 +269,79 @@
 <script>
 import { parseChapters, cleanChapterContent } from '@/utils/chapter-parser';
 import booksData from '@/data/books';
-import { addToBookshelf } from '@/utils/bookshelf';
+import { addToBookshelf, isInBookshelf } from '@/utils/bookshelf';
 import { parseNetdiskUrl } from '@/utils/pan-parser.js';
 
 import { bookTxtUrl } from '@/utils/config';
+import {
+  AD_FEED_PID,
+  AD_FEED_PID_LIST,
+  AD_BANNER_PID,
+  AD_FEED_START_CHAPTER,
+  AD_FEED_EVERY_CHAPTER,
+  AD_INTERSTITIAL_EVERY_CHAPTER,
+  AD_REWARD_AD_FREE_MS,
+  AD_REWARD_READER_TIME_MS,
+} from '@/utils/ad-config';
+import { showRewardedVideoAd } from '@/utils/rewarded-video-ad';
+import InterstitialAdHost from '@/components/InterstitialAdHost.vue';
+import RewardedVideoAdHost from '@/components/RewardedVideoAdHost.vue';
+
+/* ============================================================================
+ * 阅读页广告规则（统一说明；具体阈值见 @/utils/ad-config.js）
+ * ----------------------------------------------------------------------------
+ * 1) 信息流广告（feed，内嵌正文分页，非弹窗）
+ *    - 开关：readerFeedAdEnabled（默认开）
+ *    - 免广告期内（isAdFree）不插入
+ *    - 首章分页不插（adReady 首次置位前），之后章节才允许插入
+ *    - 章节门槛：chapterNum > AD_FEED_START_CHAPTER(2) 且
+ *                (chapterNum - 2) % AD_FEED_EVERY_CHAPTER(3) === 0
+ *                → 第 5、8、11、14… 章插入
+ *    - 位置：本章正文中间（floor(页数/2)），避免与章末/翻章断点冲突
+ *    - 前提：本章分页页数 >= 2
+ *
+ * 2) 插屏广告（interstitial）：已关闭
+ *    - AD_INTERSTITIAL_ENABLED = false，所有触发点已拦截，不再弹窗
+ *    - 原“章末 / 返回书架”弹插屏，改为“跳转到本章已有的信息流广告页”
+ *      （maybeShowChapterEndFeedAd / goBack → jumpToFeedAdPage）
+ *    - 章末触发频率：chapterNum % AD_INTERSTITIAL_EVERY_CHAPTER(5) === 0
+ *      （第 5、10、15… 章翻完后，下一章分页完成尝试跳到其信息流广告页；
+ *       若下一章无广告页则不放）
+ *
+ * 3) 激励视频（rewarded video）
+ *    - 主动触发：阅读页累计阅读时长首次达到 AD_REWARD_READER_TIME_MS(15 分钟)
+ *      （checkReaderTimeReward，每 10s 检测；每个阅读实例仅一次；免广告期不弹）
+ *    - 用户点击“看广告解锁”：看完(isEnded)送 AD_REWARD_AD_FREE_MS(30 分钟)免广告
+ *      （onRewardUnlock，adFreeUntil 持久化到本地）
+ *    - 频控：AD_REWARD_INTERVAL(5 分钟)；onRewardUnlock 用 force 忽略，
+ *      15 分钟主动触发走默认频控
+ *    - 首页/详情主动触发（AD_REWARD_ON_DETAIL / AD_ENABLE_SECONDARY）当前均关闭
+ *
+ * 4) 免广告时段（isAdFree）
+ *    - 看完激励后 adFreeUntil = now + 30 分钟，持久化；期间：
+ *      不插入信息流广告、不跳信息流广告页、不弹任何激励
+ * ========================================================================== */
+
+// 激励视频解锁的免广告窗口持久化（必做：跨会话/跨阅读页保持可信）
+const AD_FREE_UNTIL_KEY = 'ad_free_until';
+
+// 启动时恢复免广告截止时间；封顶到授予时长，防改时钟拉长窗口
+function loadAdFreeUntil() {
+  try {
+    const v = uni.getStorageSync(AD_FREE_UNTIL_KEY);
+    if (typeof v !== 'number' || !isFinite(v) || v <= 0) return 0;
+    // 免广告窗口最多为授予时长（AD_REWARD_AD_FREE_MS），超出的视为篡改并收紧
+    return Math.min(v, Date.now() + AD_REWARD_AD_FREE_MS);
+  } catch (e) {
+    return 0;
+  }
+}
+
+function saveAdFreeUntil(ts) {
+  try {
+    uni.setStorageSync(AD_FREE_UNTIL_KEY, ts);
+  } catch (e) {}
+}
 
 function getBookContentUrl(book) {
   if (!book) return '';
@@ -250,6 +360,10 @@ function callCloudFunction(name, data) {
 
 
 export default {
+  components: {
+    InterstitialAdHost,
+    RewardedVideoAdHost,
+  },
   data() {
     return {
       bookInfo: {},
@@ -266,15 +380,31 @@ export default {
       // 阅读时长追踪
       readingStartTime: 0,
       totalReadingTime: 0,
+      rewardReaderTimeTriggered: false, // 阅读满 15 分钟主动弹激励，每个阅读实例仅触发一次
+      rewardCheckTimer: null,
       hasAutoAddedToBookshelf: false,
       
       // 分页相关
       currentPage: 1,
       totalPages: 1,
       pages: [],
+      pendingFeedAdJump: false,
       viewportWidth: 0,
       viewportHeight: 0,
-      
+
+      // 阅读页广告总开关（信息流 / 插屏 / 激励共用）
+      readerFeedAdEnabled: true,
+
+      // 内容是否已首屏渲染完成：未完成的首次分页不插入信息流广告，避免"拉取期间/刚出来就弹广告"
+      adReady: false,
+
+      // 信息流广告：当前展示用的 adpid 与已尝试过的下标（每次曝光随机 + 无填充兜底）
+      currentFeedAdPid: '',
+      feedAdTried: [],
+
+      // 激励视频解锁后的免广告截止时间戳（毫秒），文档「换 30 分钟免广告时段」
+      adFreeUntil: 0,
+
       // 触摸相关
       touchStartX: 0,
       touchStartY: 0,
@@ -308,8 +438,7 @@ export default {
       pageFlipMode: 'horizontal',
       pageFlipModes: [
         { name: '左右翻页', value: 'horizontal' },
-        { name: '上下翻页', value: 'vertical' },
-        { name: '滚屏', value: 'swipe' }
+        { name: '上下翻页', value: 'vertical' }
       ],
       
       // 自动翻页
@@ -326,6 +455,16 @@ export default {
   },
   
   computed: {
+    // Banner 常驻底部，同样经 computed 暴露给模板
+    AD_BANNER_PID() {
+      return AD_BANNER_PID;
+    },
+
+    // 是否处于激励视频解锁的免广告时段
+    isAdFree() {
+      return Date.now() < this.adFreeUntil;
+    },
+
     contentStyle() {
       const bgConfig = this.bgColors[this.bgColorIndex];
       const fontFamily = this.fontFamilies[this.fontFamilyIndex];
@@ -346,17 +485,25 @@ export default {
       return cleanChapterContent(this.currentChapter.content);
     },
 
+    currentPageItem() {
+      return this.pages[this.currentPage - 1] || null;
+    },
+
     currentPageText() {
-      return this.pages[this.currentPage - 1] || '';
+      const item = this.pages[this.currentPage - 1];
+      return item && item.type === 'content' ? item.text : '';
     }
   },
-  
+
   onLoad(options) {
     const id = parseInt(options.bookId);
     this.loadBookInfo(id);
     this.loadReadingSettings();
     this.loadReadingProgress(id);
-    
+
+    // 恢复跨会话的免广告窗口（看完激励视频解锁的 30 分钟）
+    this.adFreeUntil = loadAdFreeUntil();
+
     // 记录阅读开始时间
     this.readingStartTime = Date.now();
   },
@@ -365,6 +512,7 @@ export default {
     this.checkAndAutoAddToBookshelf();
     this.saveReadingProgress();
     this.clearAutoFlip();
+    this.stopRewardCheckTimer();
   },
   
   onHide() {
@@ -373,14 +521,120 @@ export default {
       this.totalReadingTime += Date.now() - this.readingStartTime;
       this.readingStartTime = 0;
     }
+    this.stopRewardCheckTimer();
   },
   
   onShow() {
     // 从后台返回时重新开始计时
     this.readingStartTime = Date.now();
+    this.startRewardCheckTimer();
   },
-  
+
+  watch: {
+    // 翻到广告页时，重新随机选位（每次曝光独立随机）
+    currentPage(newVal) {
+      const item = this.pages[newVal - 1];
+      console.log('[reader-feed-ad] page entered, currentPage=', newVal, 'type=', item && item.type);
+      if (item && item.type === 'ad') {
+        this.startFeedAd();
+      }
+    },
+  },
+
   methods: {
+    // ============ 阅读页广告（按设计文档） ============
+    // 信息流：进入广告页时重置并随机选位（每次曝光重新随机，更细填充分发）
+    startFeedAd() {
+      this.feedAdTried = [];
+      this.pickNextFeedAdPid();
+    },
+    // 从信息流池中随机选一个尚未尝试过的位
+    pickNextFeedAdPid() {
+      const list = AD_FEED_PID_LIST;
+      if (!list || !list.length) {
+        this.currentFeedAdPid = AD_FEED_PID;
+        console.log('[reader-feed-ad] pick pid=', this.currentFeedAdPid, '(fallback default)');
+        return;
+      }
+      const remaining = [];
+      for (let i = 0; i < list.length; i++) {
+        if (!this.feedAdTried.includes(i)) remaining.push(i);
+      }
+      if (!remaining.length) {
+        this.currentFeedAdPid = '';
+        console.log('[reader-feed-ad] pick exhausted, pid empty');
+        return;
+      }
+      const idx = remaining[Math.floor(Math.random() * remaining.length)];
+      this.feedAdTried.push(idx);
+      this.currentFeedAdPid = list[idx];
+      console.log('[reader-feed-ad] pick pid=', this.currentFeedAdPid, 'tried=', this.feedAdTried.length);
+    },
+    onFeedAdLoad(e) {
+      console.log('[reader-feed-ad] load pid=', this.currentFeedAdPid, e);
+    },
+    onFeedAdError(e) {
+      console.warn('[reader-feed-ad] error pid=', this.currentFeedAdPid, e);
+      // 无填充/错误兜底：最多切换 2 个不同位，且加 1s 退避延迟，
+      // 避免同一页面瞬间刷空整个池（属反刷量行为，且多数无填充是环境/账号级而非单位级）
+      const maxFeedFallback = Math.min(AD_FEED_PID_LIST?.length || 0, 2);
+      if (this.feedAdTried.length < maxFeedFallback) {
+        setTimeout(() => this.pickNextFeedAdPid(), 1000);
+      }
+    },
+    onBannerAdLoad(e) {
+      console.log('[reader-banner-ad] load', e);
+    },
+    onBannerAdError(e) {
+      console.warn('[reader-banner-ad] error', e);
+    },
+
+    // 本章完 / 返回书架：原弹插屏，现改为跳转到阅读流中已有的信息流广告页（复用分页广告；无则不放）
+    maybeShowChapterEndFeedAd(chapterNum) {
+      if (this.loading) return;
+      if (!this.readerFeedAdEnabled || this.isAdFree) return;
+      if (chapterNum % AD_INTERSTITIAL_EVERY_CHAPTER !== 0) return;
+      // 进入下一章后，由 calculatePages 在分页完成后跳到该章信息流广告页
+      this.pendingFeedAdJump = true;
+    },
+
+    // 跳转到当前章已有的信息流广告页；仅当广告页在当前页之后才跳，避免往回跳 / 重复展示
+    jumpToFeedAdPage() {
+      const idx = this.pages.findIndex((p) => p.type === 'ad');
+      if (idx === -1) return;
+      if (idx + 1 <= this.currentPage) return;
+      this.currentPage = idx + 1;
+    },
+
+    // 返回书架：原弹插屏，现改为优先跳到本章在前方的信息流广告页；无则直接退出
+    async goBack() {
+      if (this.readerFeedAdEnabled && !this.isAdFree) {
+        const before = this.currentPage;
+        this.jumpToFeedAdPage();
+        if (this.currentPage !== before) return; // 已跳到信息流广告页，留在阅读页
+      }
+      uni.navigateBack();
+    },
+
+    // 看广告解锁：用户主动点击按钮，看完后给 30 分钟免广告时段
+    async onRewardUnlock() {
+      if (this.isAdFree) {
+        uni.showToast({ title: '已处于免广告时段', icon: 'none' });
+        return;
+      }
+      const res = await showRewardedVideoAd({
+        force: true,
+        extra: { scene: 'reader_unlock' },
+      });
+      if (res && res.shown && res.isEnded) {
+        this.adFreeUntil = Date.now() + AD_REWARD_AD_FREE_MS;
+        saveAdFreeUntil(this.adFreeUntil);
+        uni.showToast({ title: '已解锁30分钟免广告', icon: 'success' });
+      } else if (res && res.shown && !res.isEnded) {
+        uni.showToast({ title: '未看完，未解锁', icon: 'none' });
+      }
+    },
+
     // ============ 触摸手势处理 ============
     onTouchStart(e) {
       this.touchStartX = e.touches[0].pageX;
@@ -476,6 +730,8 @@ export default {
         this.currentChapterNum = chapterNum;
         this.currentChapter = chapter;
         this.saveReadingProgress();
+        // 阅读超过 5 章且未主动加入书架时自动加入
+        this.checkAndAutoAddToBookshelf();
         this.showMenu = false;
         this.showCatalogModal = false;
         
@@ -534,6 +790,8 @@ export default {
       if (this.currentPage < this.totalPages) {
         this.currentPage += 1;
       } else if (this.currentChapterNum < this.totalChapters) {
+        // 本章完 -> 自然断点；原弹插屏，现改为进入下一章后跳到信息流广告页
+        this.maybeShowChapterEndFeedAd(this.currentChapterNum);
         this.loadChapter(this.currentChapterNum + 1, 'first');
       } else {
         uni.showToast({ title: '已是最后一章最后一页', icon: 'none', duration: 1200 });
@@ -590,9 +848,33 @@ export default {
         result.push(lines.slice(cursor, cursor + size).join('\n'));
         cursor += size;
       }
-      this.pages = result.length ? result : [''];
+      const contentPages = result.length ? result : [''];
+      const pages = contentPages.map((text) => ({ type: 'content', text }));
+
+      // 信息流/原生：正文内插入（文档：前 N 章不展示，之后每 M 章插 1 条，且免广告时段内不插）
+      const chapterNum = this.currentChapterNum;
+      const feedEligible = this.readerFeedAdEnabled
+        && !this.isAdFree
+        && this.adReady
+        && chapterNum > AD_FEED_START_CHAPTER
+        && (chapterNum - AD_FEED_START_CHAPTER) % AD_FEED_EVERY_CHAPTER === 0;
+      if (feedEligible && pages.length >= 2) {
+        // 插在本章正文中间，避免在章节首尾与插屏/翻章断点冲突
+        const insertAt = Math.floor(pages.length / 2);
+        pages.splice(insertAt, 0, { type: 'ad' });
+      }
+
+      this.pages = pages;
       this.totalPages = this.pages.length;
       this.currentPage = position === 'last' ? this.totalPages : 1;
+      // 首次分页完成即视为内容已落地，后续章节（翻章/调设置重算）才允许插入信息流广告
+      this.adReady = true;
+      console.log('[reader] page types:', this.pages.map((p) => p.type).join(','));
+      // 本章完进入下一章后，跳到该章信息流广告页（替换原插屏；无广告页则不放）
+      if (this.pendingFeedAdJump) {
+        this.pendingFeedAdJump = false;
+        this.jumpToFeedAdPage();
+      }
       });
     },
     
@@ -648,22 +930,21 @@ export default {
       });
     },
     
-    // 检查并自动加入书架（阅读超过5分钟）
+    // 检查并自动加入书架（阅读超过 5 章且未主动加入时）
     checkAndAutoAddToBookshelf() {
-      // 计算总阅读时长（毫秒）
-      if (this.readingStartTime > 0) {
-        this.totalReadingTime += Date.now() - this.readingStartTime;
-      }
-      
-      // 如果已经自动加入过，或阅读时长不足5分钟，则不处理
-      if (this.hasAutoAddedToBookshelf || this.totalReadingTime < 300000) {
-        return;
-      }
-      
+      if (this.hasAutoAddedToBookshelf) return;
       const bookId = this.bookInfo.id;
       if (!bookId) return;
-      
-      // 自动加入书架
+
+      // 未读满 5 章不自动加入
+      if (this.currentChapterNum <= 5) return;
+
+      // 用户已主动加入书架则标记并跳过
+      if (isInBookshelf(bookId)) {
+        this.hasAutoAddedToBookshelf = true;
+        return;
+      }
+
       const added = addToBookshelf(bookId);
       if (added) {
         uni.showToast({
@@ -672,6 +953,32 @@ export default {
           duration: 2000
         });
         this.hasAutoAddedToBookshelf = true;
+      }
+    },
+
+    // 阅读页累计阅读时长首次满 15 分钟，主动弹激励视频（仅一次）
+    checkReaderTimeReward() {
+      if (this.rewardReaderTimeTriggered) return;
+      if (this.isAdFree) return; // 免广告期内不弹
+      const elapsed =
+        this.totalReadingTime +
+        (this.readingStartTime > 0 ? Date.now() - this.readingStartTime : 0);
+      if (elapsed >= AD_REWARD_READER_TIME_MS) {
+        this.rewardReaderTimeTriggered = true;
+        console.log(`[reader] reading time reached ${AD_REWARD_READER_TIME_MS}ms, trigger rewarded ad`);
+        showRewardedVideoAd({ scene: 'reader_time_15min' });
+      }
+    },
+
+    startRewardCheckTimer() {
+      this.stopRewardCheckTimer();
+      this.rewardCheckTimer = setInterval(() => this.checkReaderTimeReward(), 10000);
+    },
+
+    stopRewardCheckTimer() {
+      if (this.rewardCheckTimer) {
+        clearInterval(this.rewardCheckTimer);
+        this.rewardCheckTimer = null;
       }
     },
 
@@ -713,25 +1020,50 @@ export default {
       }
     },
     
+    // ============ 加载看门狗 & 反馈提示 ============
+    startLoadWatchdog() {
+      this.clearLoadWatchdog();
+      // 加载超过 90 秒仍未完成（含网盘解析/下载卡住），提示到官方反馈群留言
+      this.loadWatchdogTimer = setTimeout(() => {
+        if (this.loading) this.showLoadFeedbackHint();
+      }, 90000);
+    },
+
+    clearLoadWatchdog() {
+      if (this.loadWatchdogTimer) {
+        clearTimeout(this.loadWatchdogTimer);
+        this.loadWatchdogTimer = null;
+      }
+    },
+
+    showLoadFeedbackHint() {
+      uni.showModal({
+        title: '加载失败',
+        content: '书籍资源加载失败或超时，请加入官方反馈群 1041698859 留言反馈',
+        confirmText: '复制群号',
+        cancelText: '知道了',
+        success: (res) => {
+          if (res.confirm) {
+            uni.setClipboardData({
+              data: '1041698859',
+              success: () => uni.showToast({ title: '群号已复制', icon: 'none' })
+            });
+          }
+        }
+      });
+    },
+
     // ============ 书籍加载 ============
     loadBookInfo(id) {
       this.bookInfo = booksData.find(book => book.id === id) || {};
-      
-      if (!this.bookInfo.onlineReadable) {
-        uni.showToast({
-          title: '该书籍暂不支持在线阅读',
-          icon: 'none'
-        });
-        setTimeout(() => uni.navigateBack(), 2000);
-        return;
-      }
-      
       this.loadBookContent(id);
     },
     
     async loadBookContent(bookId) {
       this.loading = true;
-      
+      this.adReady = false;
+      this.startLoadWatchdog();
+
       try {
         // 先尝试从缓存读取
         const cached = uni.getStorageSync(`book_content_${bookId}`);
@@ -842,11 +1174,9 @@ export default {
         this.parseBookContent();
       } catch (error) {
         console.error('加载失败：', error);
-        uni.showToast({
-          title: '网络错误',
-          icon: 'none'
-        });
+        this.showLoadFeedbackHint();
       } finally {
+        this.clearLoadWatchdog();
         this.loading = false;
       }
     },
@@ -862,10 +1192,6 @@ export default {
         // 再加载章节
         this.loadChapter(this.currentChapterNum);
       }
-    },
-    
-    goBack() {
-      uni.navigateBack();
     },
     
     // ============ 持久化 ============
@@ -909,7 +1235,12 @@ export default {
         this.lineHeight = settings.lineHeight || 1.8;
         this.bgColorIndex = Number.isInteger(settings.bgColorIndex) ? settings.bgColorIndex : 0;
         this.isNightMode = this.bgColorIndex === 3;
-        this.pageFlipMode = settings.pageFlipMode || 'horizontal';
+        // 已移除"滚屏(swipe)"，旧设置回退为左右翻页
+        const savedFlipMode = settings.pageFlipMode;
+        this.pageFlipMode =
+          savedFlipMode === 'horizontal' || savedFlipMode === 'vertical'
+            ? savedFlipMode
+            : 'horizontal';
         this.saveReadingSettings();
         this.autoFlipInterval = settings.autoFlipInterval || 0;
       }
@@ -1393,6 +1724,55 @@ export default {
 .color-name {
   font-size: 24rpx;
   font-weight: bold;
+}
+
+/* ============ 阅读页信息流广告页（单类型，每页一种） ============ */
+.reader-feed-ad-page {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 32rpx;
+}
+
+/* 原生信息流广告组件占满宽度，并预留渲染高度（无填充时不塌成 0 高） */
+.reader-feed-ad {
+  width: 100%;
+  min-height: 240rpx;
+}
+
+/* 阅读页底部常驻 Banner（文档：阅读页底部常驻，轮播） */
+.reader-banner {
+  width: 100%;
+  min-height: 100rpx;
+  background: #fff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+.reader-banner-el {
+  width: 100%;
+}
+
+/* 非 App 环境提示 */
+.reader-feed-ad-nonapp {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 48rpx;
+  box-sizing: border-box;
+}
+
+.reader-feed-ad-nonapp-tip {
+  font-size: 24rpx;
+  color: #a08a68;
+  text-align: center;
+  line-height: 1.6;
 }
 </style>
 

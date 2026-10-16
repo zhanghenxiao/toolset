@@ -14,7 +14,7 @@
           <text class="book-progress">{{ item.progressText }}</text>
           <view class="book-actions">
             <button class="read-button" @tap="continueReading(item.book)">
-              {{ item.book.onlineReadable ? '继续阅读' : '查看详情' }}
+              {{ readMode !== 'link' ? '继续阅读' : '查看详情' }}
             </button>
             <button class="remove-button" @tap="removeBook(item.book.id)">移出书架</button>
           </view>
@@ -62,7 +62,7 @@ const bookToRemove = ref(null);
 const readMode = ref(getReadMode());
 
 function formatProgress(book, progress) {
-  if (!progress || !progress.chapterNum) return book.onlineReadable ? '尚未开始阅读' : '在线阅读暂不可用';
+  if (!progress || !progress.chapterNum) return readMode.value !== 'link' ? '尚未开始阅读' : '在线阅读暂不可用';
   return `读到第 ${progress.chapterNum} 章`;
 }
 
@@ -82,8 +82,8 @@ async function loadShelf() {
 }
 
 function continueReading(book) {
-  // readMode='link' 时不支持在线阅读，直接去详情页
-  const canOnlineRead = book.onlineReadable && readMode.value !== 'link';
+  // readMode='link' 时只去详情页，其余情况走在线阅读
+  const canOnlineRead = readMode.value !== 'link';
   if (canOnlineRead) {
     uni.navigateTo({ url: `/pages/reader/reader?bookId=${book.id}` });
   } else {

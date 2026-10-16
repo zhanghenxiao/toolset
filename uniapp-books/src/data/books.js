@@ -21,10 +21,6 @@ export default [
       }
     ],
     "cover": "https://toolset.site/assets/book-1-9cec7e12.jpg",
-    "onlineReadable": true,
-    "cloudStorageFileId": "cloud://env-00jy6try6x00/books/1_没钱修什么仙？1-995章.txt",
-    "totalChapters": 995,
-    "wordCount": 2580000  
   },
   {
     "id": 2,
@@ -1152,11 +1148,6 @@ export default [
       }
     ],
     "cover": "https://toolset.site/assets/book-50-ac3319df.jpg",
-	"onlineReadable": true,
-	"cloudStorageFileId": "cloud://env-00jy6try6x00/books/books/1_没钱修什么仙？1-995章.txt",
-	"totalChapters": 995,
-	"wordCount": 2580000
-	
   },
   {
     "id": 51,
@@ -29953,7 +29944,6 @@ export default [
       }
     ],
     "cover": "https://toolset.site/assets/book-1304-7c1cd544.jpg",
-    "onlineReadable": true,
   },
   {
     "id": 1305,
