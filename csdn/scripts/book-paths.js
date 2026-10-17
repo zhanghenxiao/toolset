@@ -4,7 +4,6 @@
  * x33xs6.com 来源 id 以 x 前缀区分，如 x450111
  * min-yuan.com 来源 id 以 m_ 前缀区分，如 m_syr
  * libahao2.com 来源 id 以 l_ 前缀区分，如 l_12492955__660499（siteBookId + imageId）
- * faloo.com 来源 id 以 f_ 前缀区分，如 f_1045427
  */
 const fs = require('fs');
 const path = require('path');
@@ -16,7 +15,6 @@ const JCXS_ID_RE = /^s\d+$/;
 const X33XS_ID_RE = /^x\d+$/;
 const MINYUAN_ID_RE = /^m_[a-z0-9]+$/i;
 const LIBAHAO_ID_RE = /^l_\d+(?:__\d+)?$/i;
-const FALOO_ID_RE = /^f_\d+$/i;
 
 function isJcxsId(id) {
   return JCXS_ID_RE.test(String(id));
@@ -34,10 +32,6 @@ function isLibahaoId(id) {
   return LIBAHAO_ID_RE.test(String(id));
 }
 
-function isFalooId(id) {
-  return FALOO_ID_RE.test(String(id));
-}
-
 function isCustomBookId(id) {
   return CUSTOM_ID_RE.test(String(id));
 }
@@ -51,11 +45,7 @@ function oowLocalId(siteBookId) {
 }
 
 function isPrefixedSiteBookId(id) {
-  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isFalooId(id) || isCustomBookId(id) || is00wId(id);
-}
-
-function falooLocalId(siteBookId) {
-  return `f_${String(siteBookId)}`;
+  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id);
 }
 
 function libahaoLocalId(siteBookId, imageId) {
@@ -326,8 +316,6 @@ module.exports = {
   isX33xsId,
   isMinyuanId,
   isLibahaoId,
-  isFalooId,
-  falooLocalId,
   isCustomBookId,
   is00wId,
   oowLocalId,

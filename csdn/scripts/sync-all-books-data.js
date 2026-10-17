@@ -202,9 +202,7 @@ function discoverDiskBooks() {
             ? `https://www.min-yuan.com/txt/${String(book.id).slice(2)}/`
             : isLibahaoId(book.id)
               ? libahaoSourceUrl(book.id)
-              : isFalooId(book.id)
-                ? `https://b.faloo.com/d_${String(book.id).slice(2)}.html`
-                : isCustomBookId(book.id)
+              : isCustomBookId(book.id)
                 ? ''
                 : is00wId(book.id)
                   ? `https://www.00w.org/bxwx_${String(book.id).slice(2)}/`

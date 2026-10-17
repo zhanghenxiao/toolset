@@ -1,28 +1,7 @@
 /**
  * 小原文学网 min-yuan.com 解析与路径工具（v1/v2 共用）
  */
-const fs = require('fs');
-const path = require('path');
 const BASE = 'https://www.min-yuan.com';
-
-function indexCachePath(root, slug) {
-  return path.join(root, 'books/_work', `${slug}-index.html`);
-}
-
-/** 大部头目录页较慢，可复用 books/_work/{slug}-index.html */
-function readCachedIndexHtml(root, slug) {
-  const cachePath = indexCachePath(root, slug);
-  if (!fs.existsSync(cachePath)) return null;
-  const st = fs.statSync(cachePath);
-  if (st.size < 10000) return null;
-  return fs.readFileSync(cachePath, 'utf8');
-}
-
-function saveCachedIndexHtml(root, slug, html) {
-  const cachePath = indexCachePath(root, slug);
-  fs.mkdirSync(path.dirname(cachePath), { recursive: true });
-  fs.writeFileSync(cachePath, html, 'utf8');
-}
 
 function decodeHtml(text) {
   return text
@@ -111,6 +90,4 @@ module.exports = {
   parseCatalog,
   extractBooktxt,
   parseNextHref,
-  readCachedIndexHtml,
-  saveCachedIndexHtml,
 };

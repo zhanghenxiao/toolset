@@ -26,8 +26,6 @@ const {
   parseCatalog,
   extractBooktxt,
   parseNextHref,
-  readCachedIndexHtml,
-  saveCachedIndexHtml,
 } = require('./minyuan-book-core');
 
 const root = path.resolve(__dirname, '../..');
@@ -43,7 +41,6 @@ function parseCli(argv) {
     delayMs: 100,
     jitterMs: 40,
     retries: 3,
-    timeoutMs: 30000,
   };
   const positional = [];
   for (let i = 2; i < argv.length; i += 1) {
@@ -56,8 +53,6 @@ function parseCli(argv) {
       opts.jitterMs = Math.max(0, Number(argv[++i] || 40));
     } else if (key === '--retries') {
       opts.retries = Math.max(1, Number(argv[++i] || 3));
-    } else if (key === '--timeout') {
-      opts.timeoutMs = Math.max(5000, Number(argv[++i] || 30000));
     } else {
       positional.push(key);
     }
@@ -145,7 +140,7 @@ function fetchHtml(url, referer = `${BASE}/`) {
       });
     });
     req.on('error', reject);
-    req.setTimeout(cli.timeoutMs, () => req.destroy(new Error(`请求超时: ${url}`)));
+    req.setTimeout(30000, () => req.destroy(new Error(`请求超时: ${url}`)));
     req.end();
   });
 }
@@ -274,13 +269,7 @@ async function main() {
   const indexUrl = `${BASE}/txt/${slug}/`;
   console.log(`抓取 min-yuan 书籍 ${slug}（v2 并发=${cli.concurrency} 间隔=${cli.delayMs}ms）…`);
 
-  let indexHtml = readCachedIndexHtml(root, slug);
-  if (indexHtml) {
-    console.log(`使用本地目录缓存 books/_work/${slug}-index.html`);
-  } else {
-    indexHtml = await fetchHtmlWithRetry(indexUrl);
-    saveCachedIndexHtml(root, slug, indexHtml);
-  }
+  const indexHtml = await fetchHtmlWithRetry(indexUrl);
   const meta = parseBookMeta(indexHtml);
   if (!meta.title || !meta.author) throw new Error('无法解析书名/作者');
 

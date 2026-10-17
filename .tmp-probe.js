@@ -1,0 +1,12 @@
+const { execSync } = require('child_process');
+const fs = require('fs');
+const c = require('./csdn/scripts/minyuan-book-core');
+const slug = process.argv[2];
+const url = `https://www.min-yuan.com/txt/${slug}/`;
+const html = execSync(`curl.exe -sL -A "Mozilla/5.0" "${url}"`, { encoding: 'utf8', maxBuffer: 1e8 });
+fs.writeFileSync(`${process.env.TEMP}/${slug}_index.html`, html, 'utf8');
+console.log('indexLen', html.length);
+console.log(c.parseBookMeta(html));
+const ch = c.parseCatalog(html, slug);
+console.log('章节数:', ch.length);
+console.log(ch[0], ch[ch.length - 1]);
