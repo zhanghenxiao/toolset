@@ -63,7 +63,7 @@ export const AD_BANNER_PID = AD_USE_TEST ? '1111111111' : pickRandomAdpid(AD_BAN
 export const AD_FEED_START_CHAPTER = 2;
 
 /** 信息流/原生：每 N 章在正文插入 1 条（文档起步默认：每 5 章 1 条） */
-export const AD_FEED_EVERY_CHAPTER = 3;
+export const AD_FEED_EVERY_CHAPTER = 2;
 
 /** 插屏：每 N 章（本章完/返回书架自然断点）展示 1 次（文档：每 5 章 或自然断点） */
 export const AD_INTERSTITIAL_EVERY_CHAPTER = 5;
@@ -74,8 +74,16 @@ export const AD_INTERSTITIAL_ENABLED = false;
 /** 激励视频解锁后免广告时长（毫秒）；文档「换 30 分钟免广告时段」 */
 export const AD_REWARD_AD_FREE_MS = 30 * 60 * 1000;
 
-/** 阅读页累计阅读时长首次达到该值（毫秒）时，主动弹出激励视频（每个阅读实例仅触发一次） */
-export const AD_REWARD_READER_TIME_MS = 15 * 60 * 1000;
+/** 阅读页累计阅读时长首次达到该值（毫秒）时，主动弹出激励视频（累计时长跨会话持久化） */
+// export const AD_REWARD_READER_TIME_MS = 15 * 60 * 1000;
+export const AD_REWARD_READER_TIME_MS = 30 * 1000;
+
+/** 首次触发之后，累计阅读时长每再增加该值（毫秒）主动弹一次激励视频（30 分钟） */
+// export const AD_REWARD_READER_INTERVAL_MS = 30 * 60 * 1000;
+ export const AD_REWARD_READER_INTERVAL_MS =  90 * 1000;
+
+/** 激励视频弹出后未完整观看时，是否锁定后续章节（必须完整看完才能继续读后续章节） */
+export const AD_REWARD_LOCK_CHAPTERS = true;
 
 
 

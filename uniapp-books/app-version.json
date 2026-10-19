@@ -13,5 +13,11 @@
     "storeUrl": ""
   },
   "readMode": "all",
-  "useCloud": true
+  "useCloud": false,
+  "ad": {
+    "feedEveryChapter": 2,
+    "rewardAdFreeMinutes": 30,
+    "rewardReaderFirstMinutes": 15,
+    "rewardReaderIntervalMinutes": 30
+  }
 }

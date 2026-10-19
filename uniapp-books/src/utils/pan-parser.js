@@ -125,9 +125,18 @@ export function isQuarkUrl(url) {
 
 /**
  * 判断是否为百度网盘链接
+ * 分享页 pan.baidu.com；下载/预览节点 pcs.baidu.com、pcsdata.baidu.com
  */
 export function isBaiduUrl(url) {
-  return /pan\.baidu\.com/i.test(url);
+  return /pan\.baidu\.com|pcs\.baidu\.com|pcsdata\.baidu\.com/i.test(url);
+}
+
+/**
+ * 判断是否已经是百度下载节点直链（pcs.baidu.com / pcsdata.baidu.com）
+ * 这类链接可直接下载，无需再走分享页解析
+ */
+export function isBaiduDirectUrl(url) {
+  return /pcs\.baidu\.com|pcsdata\.baidu\.com/i.test(url);
 }
 
 /**
@@ -582,6 +591,14 @@ export async function parseBaiduDirectUrl(shareUrl, password) {
 export async function parseNetdiskUrl(shareUrl, password) {
   if (isQuarkUrl(shareUrl)) {
     return await parseQuarkDirectUrl(shareUrl, password);
+  } else if (isBaiduDirectUrl(shareUrl)) {
+    // 已是百度下载节点直链，直接使用，不再走分享页解析
+    return {
+      success: true,
+      url: shareUrl,
+      filename: '',
+      expires: 0
+    };
   } else if (isBaiduUrl(shareUrl)) {
     return await parseBaiduDirectUrl(shareUrl, password);
   } else {

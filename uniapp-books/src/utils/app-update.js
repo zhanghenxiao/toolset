@@ -46,7 +46,22 @@ function fetchRemoteVersion() {
           reject(new Error(`HTTP ${res.statusCode}`));
           return;
         }
-        resolve(res.data);
+        // 部分静态托管以 text/plain / octet-stream 返回 .json，uni.request 不会自动解析，
+        // 这里做防御性 JSON.parse，避免 remote.versionCode 等字段取不到导致版本检查静默失效
+        let data = res.data;
+        if (typeof data === 'string') {
+          try {
+            data = JSON.parse(data);
+          } catch (e) {
+            reject(new Error('app-version.json 解析失败'));
+            return;
+          }
+        }
+        if (!data || typeof data !== 'object') {
+          reject(new Error('app-version.json 格式异常'));
+          return;
+        }
+        resolve(data);
       },
       fail: reject,
     });

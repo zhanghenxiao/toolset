@@ -23,6 +23,9 @@ function parseExtra(extra) {
  * @param {number|null} [ctx.cpm]
  * @param {object} db uniCloud.database()
  */
+// 客户端发出的「阅读解锁」类场景（与 reader.vue 中 extra.scene 对齐）
+const READ_UNLOCK_SCENES = new Set(['read_unlock', 'reader_unlock', 'chapter_unlock']);
+
 async function grantReward(ctx, db) {
   const parsed = parseExtra(ctx.extra);
   const scene = parsed.scene || 'unknown';
@@ -36,7 +39,7 @@ async function grantReward(ctx, db) {
     adpid: ctx.adpid,
   });
 
-  if (scene === 'read_unlock') {
+  if (READ_UNLOCK_SCENES.has(scene)) {
     console.log('[ad-reward-callback] read_unlock granted', {
       trans_id: ctx.trans_id,
       user_id: ctx.user_id,
@@ -48,7 +51,7 @@ async function grantReward(ctx, db) {
         user_id: ctx.user_id,
         book_id: String(parsed.bookId || ''),
         trans_id: ctx.trans_id,
-        scene: 'read_unlock',
+        scene,
         adpid: ctx.adpid || '',
         created_at: Date.now(),
       });
@@ -57,7 +60,7 @@ async function grantReward(ctx, db) {
       console.warn('[ad-reward-callback] user_read_unlock save skipped', err.message || err);
     }
 
-    return { ok: true, scene: 'read_unlock' };
+    return { ok: true, scene };
   }
 
   return { ok: true, scene };

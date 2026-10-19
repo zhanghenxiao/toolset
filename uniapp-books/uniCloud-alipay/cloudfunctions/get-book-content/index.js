@@ -20,7 +20,12 @@ function isQuarkUrl(url) {
 }
 
 function isBaiduUrl(url) {
-  return /pan\.baidu\.com/i.test(url);
+  return /pan\.baidu\.com|pcs\.baidu\.com|pcsdata\.baidu\.com/i.test(url);
+}
+
+// 已是百度下载节点直链（pcs.baidu.com / pcsdata.baidu.com），可直接下载
+function isBaiduDirectUrl(url) {
+  return /pcs\.baidu\.com|pcsdata\.baidu\.com/i.test(url);
 }
 
 function extractPassword(url) {
@@ -462,6 +467,18 @@ exports.main = async (event = {}) => {
       // 回退到内置解析（需要配置）
       return await parseQuarkDirectUrl(readUrl, password);
       
+    } else if (isBaiduDirectUrl(readUrl)) {
+      // 已是百度下载节点直链，直接使用，不再走分享页解析
+      console.log('百度直链，直接使用:', readUrl);
+      return {
+        success: true,
+        data: {
+          url: readUrl,
+          filename: '',
+          expires: 3600
+        }
+      };
+
     } else if (isBaiduUrl(readUrl)) {
       console.log('解析百度网盘链接:', readUrl);
       

@@ -6,6 +6,12 @@
 
 import { SITE } from './config.js';
 import booksConfig from '../config/books-config.js';
+import {
+  AD_FEED_EVERY_CHAPTER,
+  AD_REWARD_AD_FREE_MS,
+  AD_REWARD_READER_INTERVAL_MS,
+  AD_REWARD_READER_TIME_MS,
+} from './ad-config.js';
 
 const CACHE_TTL = 5 * 60 * 1000; // 5 分钟缓存
 const STORAGE_KEY = 'remote_config_cache';
@@ -20,6 +26,13 @@ const FALLBACK = {
   useCloud: booksConfig.dataSource === 'cloud',
   // 云端书籍文件 ID（留空则使用 books.js 内的默认值）
   cloudFileId: '',
+  // 广告节奏/奖励参数：远程 app-version.json 的 ad 段可覆盖；以下为本地兜底默认值
+  ad: {
+    feedEveryChapter: AD_FEED_EVERY_CHAPTER,
+    rewardAdFreeMs: AD_REWARD_AD_FREE_MS,
+    rewardReaderIntervalMs: AD_REWARD_READER_INTERVAL_MS,
+    rewardReaderFirstMs: AD_REWARD_READER_TIME_MS,
+  },
 };
 
 /** 兼容布尔/字符串/数字形式的配置值 */
@@ -34,13 +47,38 @@ function parseBool(value, fallback) {
   return fallback;
 }
 
+/** 钳制整数到 [min, max]，非法值回退 fallback */
+function clampInt(value, min, max, fallback) {
+  const n = parseInt(value, 10);
+  if (!isFinite(n)) return fallback;
+  return Math.min(max, Math.max(min, n));
+}
+
+/** 钳制「分钟」到 [min, max] 并换算成毫秒，非法值回退 fallbackMs */
+function clampMinutes(value, min, max, fallbackMs) {
+  const n = parseFloat(value);
+  if (!isFinite(n)) return fallbackMs;
+  return Math.min(max, Math.max(min, n)) * 60 * 1000;
+}
+
 /** 把远程/缓存中的原始数据补全成完整配置 */
 function normalize(raw) {
   const src = raw && typeof raw === 'object' ? raw : {};
+  const adRaw = src.ad && typeof src.ad === 'object' ? src.ad : {};
   return {
     readMode: src.readMode || FALLBACK.readMode,
     useCloud: parseBool(src.useCloud, FALLBACK.useCloud),
     cloudFileId: src.cloudFileId || FALLBACK.cloudFileId,
+    ad: {
+      // 信息流广告密度：每 N 章插 1 条（钳制 [1,50] 防 0 导致取模崩溃 / 过大导致几乎不展示）
+      feedEveryChapter: clampInt(adRaw.feedEveryChapter, 1, 50, AD_FEED_EVERY_CHAPTER),
+      // 看完激励视频送的免广告时长（分钟 → 毫秒，钳制 [0,1440]）
+      rewardAdFreeMs: clampMinutes(adRaw.rewardAdFreeMinutes, 0, 1440, AD_REWARD_AD_FREE_MS),
+      // 首次触发激励视频的阅读阈值（分钟 → 毫秒，钳制 [1,1440] 防过小狂弹）
+      rewardReaderFirstMs: clampMinutes(adRaw.rewardReaderFirstMinutes, 1, 1440, AD_REWARD_READER_TIME_MS),
+      // 首次之后每次触发激励视频的阅读间隔（分钟 → 毫秒，钳制 [1,1440]）
+      rewardReaderIntervalMs: clampMinutes(adRaw.rewardReaderIntervalMinutes, 1, 1440, AD_REWARD_READER_INTERVAL_MS),
+    },
   };
 }
 
@@ -77,15 +115,41 @@ export function getRemoteConfig() {
       timeout: 10000,
       success: (res) => {
         if (res.statusCode === 200 && res.data) {
-          const data = normalize(res.data);
-          cache = { data, timestamp: Date.now() };
-          try {
-            uni.setStorageSync(STORAGE_KEY, cache);
-          } catch (e) {
-            // ignore
+          // 部分静态托管以 text/plain / octet-stream 返回 .json，uni.request 不会自动解析，
+          // 此时 res.data 是字符串，normalize 收不到对象会回退 FALLBACK → readMode 变 'all'。
+          // 这里统一做防御性解析，并对可能携带的 BOM / 前后杂质 / 非纯 JSON 做容错。
+          let raw = res.data;
+          if (typeof raw === 'string') {
+            raw = raw.replace(/^﻿/, '').trim();
+            // 非纯 JSON（被 CDN/HTML 包裹等）时，尝试截取首个 { 到末个 } 之间的内容
+            if (!raw.startsWith('{') && raw.indexOf('{') >= 0) {
+              const start = raw.indexOf('{');
+              const end = raw.lastIndexOf('}');
+              if (end > start) raw = raw.slice(start, end + 1);
+            }
+            try {
+              raw = JSON.parse(raw);
+            } catch (e) {
+              console.error('[remote-config] app-version.json 解析失败，前 300 字符：', String(res.data).slice(0, 300), e);
+              raw = null;
+            }
           }
-          resolve(data);
+          if (raw && typeof raw === 'object') {
+            const data = normalize(raw);
+            cache = { data, timestamp: Date.now() };
+            try {
+              uni.setStorageSync(STORAGE_KEY, cache);
+              console.log('[remote-config] 已写入缓存 readMode =', data.readMode, 'useCloud =', data.useCloud);
+            } catch (e) {
+              console.error('[remote-config] setStorageSync 失败', e);
+            }
+            resolve(data);
+          } else {
+            console.warn('[remote-config] res.data 非对象，回退 FALLBACK', typeof res.data);
+            resolve(cache ? cache.data : FALLBACK);
+          }
         } else {
+          console.warn('[remote-config] 拉取失败 statusCode =', res.statusCode);
           resolve(cache ? cache.data : FALLBACK);
         }
       },
@@ -149,4 +213,34 @@ export function getCachedCloudFileId() {
 export async function isCloudEnabled() {
   const config = await getRemoteConfig();
   return !!config.useCloud;
+}
+
+/**
+ * 同步获取缓存的广告配置（无缓存时返回本地兜底）；远程值经 clamp 后存入 cache.data.ad
+ * @returns {{feedEveryChapter:number, rewardAdFreeMs:number, rewardReaderFirstMs:number, rewardReaderIntervalMs:number}}
+ */
+export function getCachedAdConfig() {
+  restoreFromStorage();
+  const cfg = cache && Date.now() - cache.timestamp < CACHE_TTL ? cache.data : FALLBACK;
+  return cfg.ad;
+}
+
+/** 信息流广告密度：每 N 章插 1 条 */
+export function getCachedFeedEveryChapter() {
+  return getCachedAdConfig().feedEveryChapter;
+}
+
+/** 看完激励视频送的免广告时长（毫秒） */
+export function getCachedRewardAdFreeMs() {
+  return getCachedAdConfig().rewardAdFreeMs;
+}
+
+/** 首次触发激励视频的阅读阈值（毫秒） */
+export function getCachedRewardReaderFirstMs() {
+  return getCachedAdConfig().rewardReaderFirstMs;
+}
+
+/** 首次之后每次触发激励视频的阅读间隔（毫秒） */
+export function getCachedRewardReaderIntervalMs() {
+  return getCachedAdConfig().rewardReaderIntervalMs;
 }

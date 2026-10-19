@@ -2680,6 +2680,7 @@ import bookCovermjc from '../assets/images/books/book-m_jc.jpg';
 import bookCovermjd from '../assets/images/books/book-m_jd.jpg';
 import bookCovermje from '../assets/images/books/book-m_je.jpg';
 import bookCovermjf from '../assets/images/books/book-m_jf.jpg';
+import bookCovermjfgg from '../assets/images/books/book-m_jfgg.jpg';
 import bookCovermjk from '../assets/images/books/book-m_jk.jpg';
 import bookCovermjl from '../assets/images/books/book-m_jl.jpg';
 import bookCovermjn from '../assets/images/books/book-m_jn.jpg';
@@ -2891,6 +2892,7 @@ import bookCovermmtf from '../assets/images/books/book-m_mtf.jpg';
 import bookCovermmtg from '../assets/images/books/book-m_mtg.jpg';
 import bookCovermmth from '../assets/images/books/book-m_mth.jpg';
 import bookCovermmti from '../assets/images/books/book-m_mti.jpg';
+import bookCovermmtj from '../assets/images/books/book-m_mtj.jpg';
 import bookCovermmtk from '../assets/images/books/book-m_mtk.jpg';
 import bookCovermmtl from '../assets/images/books/book-m_mtl.jpg';
 import bookCovermmtm from '../assets/images/books/book-m_mtm.jpg';
@@ -2982,6 +2984,7 @@ import bookCovermnq from '../assets/images/books/book-m_nq.jpg';
 import bookCovermnr from '../assets/images/books/book-m_nr.jpg';
 import bookCovermns from '../assets/images/books/book-m_ns.jpg';
 import bookCovermnu from '../assets/images/books/book-m_nu.jpg';
+import bookCovermnuyq from '../assets/images/books/book-m_nuyq.jpg';
 import bookCovermnv from '../assets/images/books/book-m_nv.jpg';
 import bookCovermnw from '../assets/images/books/book-m_nw.jpg';
 import bookCovermnx from '../assets/images/books/book-m_nx.jpg';
@@ -4063,22 +4066,21 @@ import bookCover450111 from '../assets/images/books/book-x450111.jpg';
 import nocoverCover from '../assets/images/books/nocover.jpg';
 
 export const bookItems = [
-
 {
     id: 1,
-    slug: "没钱修什么仙？",
+    slug: "没钱修什么仙",
     title: "没钱修什么仙？",
     cover: bookCover1,
     author: "熊狼狗",
-    date: "2026-09-10",
-    category: "玄幻",
+    date: "2026-09-17",
+    category: "仙侠",
     status: "连载中",
-    chapters: "1-987章",
-    latestChapter: "第987章 终极倒翻昆仑，掌书人(感谢“吴师叔”成为盟主)",
-    excerpt: "老者：“你想报仇？”少年：“我被强者反复侮辱，被师尊视为垃圾，我怎么可能不想报仇？”老者伸出手：“把你手机给我。”少年震惊：“前辈！这哪里来的百年功力？”老者微微一笑：“好孩子，这是你在天庭的备用功力，以后急用的时候随用随取。”张羽冷哼一声，关掉了上面的广告。",
-    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.quark.cn/s/bf5bff7779c4",
-    downloadUrl: "/books/1_没钱修什么仙？1-987章.txt",
+    chapters: "1-995章",
+    latestChapter: "第995章 自研链法图，获得新书（感谢“子檠灿”打赏的盟主）",
+    excerpt: "老者：“你想报仇？” 少年：“我被强者反复侮辱，被师尊视为垃圾，我怎么可能不想报仇？” 老者摸了摸少年的脑袋，叹道：“好孩子，我来传功给你吧。” 少年惊道：“前辈！这怎么行？” 老者伸出手：“把你手机给我。” 少年看着手机上的变化，震惊道：“前辈！这哪里来的百年功力？” 老者微微一笑：“好孩子，这是你在天庭的备用功力，以后急用的时候随用随取，别再被人侮辱了。” 少年皱眉：“这不是法力贷吗？我怕……",
+    tags: [{ name: "仙侠", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.quark.cn/s/4ca43135917a?pwd=A2da",
+    downloadUrl: "/books/1_没钱修什么仙？1-995章.txt",
     sourceUrl: "https://www.deqixs.org/1/txt.html#dir",
   },
 
@@ -49031,6 +49033,23 @@ export const bookItems = [
     sourceUrl: "https://www.deqixs.org/2525/txt.html#dir",
   },
 {
+    id: NaN,
+    slug: "给人工智能讲道后，它想机械飞升",
+    title: "给人工智能讲道后，它想机械飞升",
+    cover: nocoverCover,
+    author: "烟云白",
+    date: "2026-10-17",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2920章",
+    latestChapter: "第2911章 放我们一条生路",
+    excerpt: "",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/NaN_给人工智能讲道后，它想机械飞升1-2920章.txt",
+    sourceUrl: "https://www.deqixs.org/NaN/txt.html#dir",
+  },
+
+{
     id: "l_10068770__603016",
     slug: "人在玄幻，能去低武世界",
     title: "人在玄幻，能去低武世界",
@@ -49043,9 +49062,11 @@ export const bookItems = [
     latestChapter: "第483章 斗破世界›",
     excerpt: "在遮天这种战斗起来动不动就磨灭大道的玄幻世界，给了我一个能够通往武侠世界的外挂？这是不是有哪里搞错了？不过很快，张恒就发现低武世界也不是没有优势，他随便一出手，便已经是世界的极限，每一次都能搅动风云，主宰世界的变化，获得最大程度的奖励。龙蛇",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10toDPYxpv-Ol4XbixzMHxw?pwd=29dr",
     downloadUrl: "/books/l_10068770__603016_人在玄幻，能去低武世界1-483章.txt",
     sourceUrl: "https://m.libahao2.com/book/10068770_603016/",
   },
+
 {
     id: "l_10068920__602913",
     slug: "亡灵天灾从坟场魔开始",
@@ -49059,9 +49080,11 @@ export const bookItems = [
     latestChapter: "第939章 想要飞行？简单（求订阅）›",
     excerpt: "一切都从顾苏买到了一个拼夕夕猴版的坟场魔开始！如果不想死在游戏里，就要想办法拼命！拾荒、战斗、发展城市，最后一个亡灵天灾级别的存在，就出现在这个游戏与现实相融合的世界里！——————英雄无敌风，种田、建城、战斗、移动城市、无限流，作者在英雄",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TEl3Tj0fErvQXt0hegeI8Q?pwd=29dr",
     downloadUrl: "/books/l_10068920__602913_亡灵天灾从坟场魔开始1-967章.txt",
     sourceUrl: "https://m.libahao2.com/book/10068920_602913/",
   },
+
 {
     id: "l_10526736__658091",
     slug: "从大清到民国的百年世家",
@@ -49075,9 +49098,11 @@ export const bookItems = [
     latestChapter: "第114章 多棱厅的退让›",
     excerpt: "反清，咱就要有愚公移山的精神，一代人不行，那就两代人两代人不行，那就三代人三代人不行，那就四五六七八代人……子子孙孙，无穷尽也！毕竟没有千年的王朝，只有千年的世家！...本书又名：《八爷：怎么有人比我还“贤”》《如烟大帝咸丰：大不了封他个汉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TFvaT0pXt0LMVVCh5RDUHg?pwd=29dr",
     downloadUrl: "/books/l_10526736__658091_从大清到民国的百年世家1-114章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526736_658091/",
   },
+
 {
     id: "l_10526741__658171",
     slug: "带着别墅，流放岭南",
@@ -49090,9 +49115,11 @@ export const bookItems = [
     chapters: "1-174章",
     excerpt: "李春晓一不小心穿越到了一个古代老太太的身上。好消息：这个老太太才35岁，和她一样大，身子骨比她还好。其次，老太太有一个儿子，甚至都有一个孙女了。更大的好消息，她公婆都过世了，甚至丈夫也早就死了。上无公婆，中间死了男人，下有儿有孙女。这意味着",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BeYG4PQ_yRfPagVnEOAO2Q?pwd=29dr",
     downloadUrl: "/books/l_10526741__658171_带着别墅，流放岭南1-174章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526741_658171/",
   },
+
 {
     id: "l_10526745__657979",
     slug: "求生游戏：她千万年寿命开挂了吧",
@@ -49105,9 +49132,11 @@ export const bookItems = [
     chapters: "1-209章",
     excerpt: "【规则求生，无cp、黑暗系、疯批女主、英式怪谈、微克苏鲁】冷凝被全世界抛弃，生命仅剩3小时。全球公告响起，全人类将被拉入“天堂乐园”，寿命即是金钱。濒死之际，触发天赋七宗罪之怠惰：当前寿命100年....她用一天的时间记住了六个人的脸。直到",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1oyuMtcx_1CuT3qsLfolhrA?pwd=29dr",
     downloadUrl: "/books/l_10526745__657979_求生游戏：她千万年寿命开挂了吧1-209章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526745_657979/",
   },
+
 {
     id: "l_10526784__658094",
     slug: "LOL：刚准备退役，系统来了",
@@ -49120,9 +49149,11 @@ export const bookItems = [
     chapters: "1-124章",
     excerpt: "2019年，八月二十八日。做好输掉这场决赛就退役享受生活的李正义，面前却突然浮现出了一行小字。【现在是2012年，联盟赛事刚刚起步，一切都还没有走向正规化！】【电子竞技的莽荒时代，艰苦的环境让这个时候的职业选手，很容易误入歧途，又或者坚持不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1sB5ZDtm-IYy7uAyrq1H4OQ?pwd=29dr",
     downloadUrl: "/books/l_10526784__658094_LOL：刚准备退役，系统来了1-124章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526784_658094/",
   },
+
 {
     id: "l_10526789__658174",
     slug: "被逼退婚？我靠读心术手撕白莲花",
@@ -49136,9 +49167,11 @@ export const bookItems = [
     latestChapter: "第152章 地窖赏血，殿下当真好兴致？›",
     excerpt: "【古言重生+读心术+宅斗权谋+吐血反杀+外柔内疯+1v1】我叫沈听澜，定远侯府病弱嫡女。重生回到十八岁，继母正端着毒药逼我喝下，渣男表哥和白莲花庶妹在一旁逼我退婚让嫁妆。可他们不知道，我觉醒了闻毒与读心的天赋。只要碰到他们的脉门，那些恶毒的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/18stQ_ErhNzFmAcn8Wd0SUg?pwd=29dr",
     downloadUrl: "/books/l_10526789__658174_被逼退婚？我靠读心术手撕白莲花1-152章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526789_658174/",
   },
+
 {
     id: "l_10526792__657966",
     slug: "她非死不可吗",
@@ -49152,9 +49185,11 @@ export const bookItems = [
     latestChapter: "第286章 看笑话›",
     excerpt: "一条诡异的隧道，一张来历不明的CD，让周铭见到了十八岁的自己。18岁周铭：给我明天的彩票号码！周铭：我身价十几亿，买彩票？18岁周铭：把周杰伦明年的专辑给我，我要做音乐上的皇帝！周铭：我身价十几亿，去做艺人？18岁周铭：你什么都不缺，还穿什",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/17ZUl0bCQjq0yp76eCPhatg?pwd=29dr",
     downloadUrl: "/books/l_10526792__657966_她非死不可吗1-286章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526792_657966/",
   },
+
 {
     id: "l_10526860__658018",
     slug: "美漫世界当大亨",
@@ -49167,9 +49202,11 @@ export const bookItems = [
     chapters: "1-60章",
     excerpt: "黎平穿越错综复杂的美漫世界，唯一的依靠是一间能沟通诸天世界的八方解忧铺。金钱，名利，世间凡心有执念者皆可来此。黎平为他人解忧，也靠着这间铺子在美漫世界站稳脚跟。不是，也没人告诉他，路是双向的，帝皇请我过去是几个意思。谢谢帝皇好意，我就不过去",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13NWAgckl3VU_8pxSuam0uQ?pwd=29dr",
     downloadUrl: "/books/l_10526860__658018_美漫世界当大亨1-60章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526860_658018/",
   },
+
 {
     id: "l_10526864__658083",
     slug: "随貌美爹倒插门，我成继母家团宠",
@@ -49183,9 +49220,11 @@ export const bookItems = [
     latestChapter: "第88章 ：买四合院›",
     excerpt: "医学圣手陆锦绣穿书成了九十年代同名同姓的炮灰女配，为了不重蹈覆撤，她拒绝了跟离婚母亲去城里享福，反而凭借老爸的美貌，迅速给自己找一个能干的后妈。入赘的日子原本以为会谨小慎微，没想到却被后妈一家宠上了天。一开始：继兄继弟们：又来俩拖油瓶，这是",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1x06CEQQPqkVwabwHxsRGcA?pwd=29dr",
     downloadUrl: "/books/l_10526864__658083_随貌美爹倒插门，我成继母家团宠1-88章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526864_658083/",
   },
+
 {
     id: "l_10526924__658022",
     slug: "从凡人歌开始的诸天影视之旅",
@@ -49198,9 +49237,11 @@ export const bookItems = [
     chapters: "1-94章",
     excerpt: "穿越诸天影视世界，体味百态人生。从《凡人歌》开始……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pThr_rgTzt8hpsDuI_GXkA?pwd=29dr",
     downloadUrl: "/books/l_10526924__658022_从凡人歌开始的诸天影视之旅1-94章.txt",
     sourceUrl: "https://m.libahao2.com/book/10526924_658022/",
   },
+
 {
     id: "l_10592313__658233",
     slug: "修仙：从两界穿梭开始",
@@ -49213,9 +49254,11 @@ export const bookItems = [
     chapters: "1-183章",
     excerpt: "张牧苦修十年，依旧是个底层外门弟子。幸好【界珠】觉醒，让他勾连了另一个世界。拒绝修仙内卷，从跨界倒爷做起。从此，修仙界最恐怖的资源巨鳄诞生了。从外门弟子开始，靠着两界资源，张牧要用灵石硬生生砸出一条长生大道！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RaQbw8t5ca1S7HipxS8HAg?pwd=29dr",
     downloadUrl: "/books/l_10592313__658233_修仙：从两界穿梭开始1-183章.txt",
     sourceUrl: "https://m.libahao2.com/book/10592313_658233/",
   },
+
 {
     id: "l_10592325__658430",
     slug: "从乔丹退役赛季开始争冠",
@@ -49228,9 +49271,11 @@ export const bookItems = [
     chapters: "1-312章",
     excerpt: "乔丹：“事实证明，我离开皮蓬一样可拿到总冠军。记者：“但是有江晨啊。”乔丹：“但是我是总决赛fmvp。”记者：“难道不是靠情怀拿的吗？”乔丹：“……”。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1X34zjvyIloYKIb48ksfG1Q?pwd=29dr",
     downloadUrl: "/books/l_10592325__658430_从乔丹退役赛季开始争冠1-312章.txt",
     sourceUrl: "https://m.libahao2.com/book/10592325_658430/",
   },
+
 {
     id: "l_10592431__658256",
     slug: "艾泽拉斯：抓个德鲁伊当宝宝",
@@ -49244,9 +49289,11 @@ export const bookItems = [
     latestChapter: "第189章 洛瑟玛的妥协›",
     excerpt: "“索恩先生，作为传说猎人，您的夜刃豹为什么耳朵尖尖的？”索恩抱着怀里那只紫罗兰色的黏人猫猫，漫不经心地撸了一把：“这是荒野的赐福。”“那您身后的鹰身人、树妖和巨龙也是宠物？”“当然，”索恩露出慈爱的微笑，“他们都是艾泽拉斯荒野的生灵。”“…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1unav6KtCjCfCwD34D9jDNw?pwd=29dr",
     downloadUrl: "/books/l_10592431__658256_艾泽拉斯：抓个德鲁伊当宝宝1-188章.txt",
     sourceUrl: "https://m.libahao2.com/book/10592431_658256/",
   },
+
 {
     id: "l_10592459__658198",
     slug: "吕布歪传：汉末乱语录",
@@ -49260,9 +49307,11 @@ export const bookItems = [
     latestChapter: "第99章 韩当斩将、形势›",
     excerpt: "人中吕布，马中赤兔。当吕布在雷雪天杀了一个穿越者后，他发现自己越来越控制不住自己那张嘴了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JegpOevay57Bdd3GYZ_J3Q?pwd=29dr",
     downloadUrl: "/books/l_10592459__658198_吕布歪传：汉末乱语录1-100章.txt",
     sourceUrl: "https://m.libahao2.com/book/10592459_658198/",
   },
+
 {
     id: "l_10592467__658327",
     slug: "无畏契约：这个世一狙太豪了",
@@ -49276,9 +49325,11 @@ export const bookItems = [
     latestChapter: "第107章 对阵BLG，EDG的双一突›",
     excerpt: "被霓头车大运创死的江辞得到了重来一次的机会。重回十六岁，并随身携带了“豪气冲天”系统，只要完成系统颁布的嘉豪任务，他就能获得职业选手的词条和熟练度奖励，还能根据任务完成程度获取豪意值进行抽奖。越豪越强，越强越豪。于是……“都是同龄人我原本没",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/177DP_pLHBuW8xnZ1PvZsoA?pwd=29dr",
     downloadUrl: "/books/l_10592467__658327_无畏契约：这个世一狙太豪了1-107章.txt",
     sourceUrl: "https://m.libahao2.com/book/10592467_658327/",
   },
+
 {
     id: "l_10594881__3006",
     slug: "一秒一个技能点，我把火球变禁咒",
@@ -49292,9 +49343,11 @@ export const bookItems = [
     latestChapter: "第1564章 只有我能带你们出去›",
     excerpt: "深渊降临，蓝星异变！这是一个职业者的时代，所有人在成年那一天，都能够得到人生中的第一个技能，成为职业者！林逸得到火球术，成为普普通通的一名法爷。与此同时，还觉醒一个SSS级天赋：诸神之赐！效果：你每秒都能够获得1个技能点！别人一趟副本只能得",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dtxr8LVbI_G4oKnIx-nirw?pwd=29dr",
     downloadUrl: "/books/l_10594881__3006_一秒一个技能点，我把火球变禁咒1-1564章.txt",
     sourceUrl: "https://m.libahao2.com/book/10594881_3006/",
   },
+
 {
     id: "l_10657848__657449",
     slug: "家族百年：从民国开始崛起",
@@ -49307,9 +49360,11 @@ export const bookItems = [
     chapters: "1-66章",
     excerpt: "十三太保，一夫当道。浪子富翁、教头快刀、学生少爷、熊虎鹰豹、眼镜烟嘴、长枪难逃。天下人都以为少爷是一个人。实际上。少爷有两人，小少爷梁羽，大少爷梁少雄。而为了削弱沈刚夫的实力，张万霖编出了另外一个版本。南小杜北老九、乞丐、教头、纳三少、车夫",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1AvZ8NagRPoLDAa1qsMurpA?pwd=29dr",
     downloadUrl: "/books/l_10657848__657449_家族百年：从民国开始崛起1-66章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657848_657449/",
   },
+
 {
     id: "l_10657915__657437",
     slug: "LOL：开局重生LPL末法时代",
@@ -49322,9 +49377,11 @@ export const bookItems = [
     chapters: "1-225章",
     excerpt: "黄晓穿越到平行时空的蓝星，还觉醒了系统。【宿主每成功击败当打选手、获得有名教练赏识、吊打大热主播，就能获得相应奖励】“穿越了是很好，可是现在是2026年啊……”2026年，英雄联盟进入S16版本，LPL已经连续四年没能夺得S赛的冠军，就连其",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1OcYkLnopHetIcLmTF-DtQw?pwd=29dr",
     downloadUrl: "/books/l_10657915__657437_LOL：开局重生LPL末法时代1-225章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657915_657437/",
   },
+
 {
     id: "l_10657961__657456",
     slug: "从大唐开始科学修仙",
@@ -49337,9 +49394,11 @@ export const bookItems = [
     chapters: "1-132章",
     excerpt: "周溯穿越了。穿越到了隋朝末年，天下大乱，民不聊生，普通人生存概率极低。“问题不大。”周溯看着手中的《长生诀》。“超频模式！让我看看你的极限！”······从《长生诀》开始，周溯走上了一条非传统科学修仙之路。PS：无系统，纯人工手搓！PPS：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1KJfxkT01sL5P-ZYXyJ4lCg?pwd=29dr",
     downloadUrl: "/books/l_10657961__657456_从大唐开始科学修仙1-132章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657961_657456/",
   },
+
 {
     id: "l_10657972__657633",
     slug: "三国：我的一百零七将兄弟",
@@ -49353,9 +49412,11 @@ export const bookItems = [
     latestChapter: "第122章 荀彧之死›",
     excerpt: "穿越汉末会稽郡，开局觉醒“结拜就变强系统”，还能够看到人的五维数据！见到够义气的壮汉，来来来，喝杯酒，从此是兄弟。见到少年贺齐，来来来，喝杯酒，从此是兄弟。见到被赶出长安的吕布，来来来，喝杯酒，从此是兄弟。见到狼狈不知去处的刘关张，来来来，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pMqJDnU-8u0WD8gMJyhl2w?pwd=29dr",
     downloadUrl: "/books/l_10657972__657633_三国：我的一百零七将兄弟1-122章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657972_657633/",
   },
+
 {
     id: "l_10657988__657638",
     slug: "尸解仙上仙",
@@ -49368,9 +49429,11 @@ export const bookItems = [
     chapters: "1-132章",
     excerpt: "仙人以众生为基粮，圈养众生获取法力。仙上仙以仙人为基粮，圈养仙人获取法力。下士先死后蜕，谓之尸解仙。人有人上人，仙也有仙上仙，仙道之中，以尸解为下品，为其它上仙所鄙夷，不被承认为仙人。王衡穿越而来，修行父母留下的［七解上仙法］，历经水解、火",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1J8QLWethtm3k4ozqKI_krg?pwd=29dr",
     downloadUrl: "/books/l_10657988__657638_尸解仙上仙1-132章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657988_657638/",
   },
+
 {
     id: "l_10657990__657606",
     slug: "迷雾求生：我能看到游戏公告",
@@ -49383,9 +49446,11 @@ export const bookItems = [
     chapters: "1-195章",
     excerpt: "【迷雾求生，种田发育，领主召唤，信息流】全球迷雾化，每个人绑定领地核心，在迷雾中挣扎求生。穿越过来的陈宇一头雾水，却震惊地发现自己能看到迷雾世界的更新公告！【制作组通讯：下周开放秘境，内有稀有兵种核心，坐标已标注，领主们快去争抢吧】【已知问",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1V44R6kNDECllb3775QwWKw?pwd=29dr",
     downloadUrl: "/books/l_10657990__657606_迷雾求生：我能看到游戏公告1-195章.txt",
     sourceUrl: "https://m.libahao2.com/book/10657990_657606/",
   },
+
 {
     id: "l_10658041__657461",
     slug: "他嘉豪啊，咋成了恐游团宠？",
@@ -49399,9 +49464,11 @@ export const bookItems = [
     latestChapter: "第132章 C级玩家的星级区分›",
     excerpt: "“你是说这游戏的规则，玩家越自信，就会越幸运？”“这tm是恐怖游戏！不仅真实死亡，更离谱的是游戏无法退出，你自信个试试？主播都能被吓哭！”在这游戏里，玩家从一开始的兴奋，到恐慌，到绝望，他们被死亡笼罩！苏昊从小就相信，自己是修仙的料，但身边",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rs5XUhLIMcUgOhjfzBkFYg?pwd=29dr",
     downloadUrl: "/books/l_10658041__657461_他嘉豪啊，咋成了恐游团宠？1-134章.txt",
     sourceUrl: "https://m.libahao2.com/book/10658041_657461/",
   },
+
 {
     id: "l_10723464__657698",
     slug: "驯弛",
@@ -49414,9 +49481,11 @@ export const bookItems = [
     chapters: "1-89章",
     excerpt: "淡女x明骚男/微强制/火葬场/驯化母亲那场看似偶然的二婚，是程真一手促成的。段家有钱有权，是她为自己挑中的最优跳板。-段弛刚回国接手公司，老爷子就把程真塞到他身边当特助。所有人都等着她被段弛折磨，段弛也确实没给她好脸色。他鸡蛋里挑骨头，亲手",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1EgNT_3jjwgFpuBkfW5z_CQ?pwd=29dr",
     downloadUrl: "/books/l_10723464__657698_驯弛1-89章.txt",
     sourceUrl: "https://m.libahao2.com/book/10723464_657698/",
   },
+
 {
     id: "l_10723575__657877",
     slug: "领主大人，奇观误国呀！",
@@ -49430,9 +49499,11 @@ export const bookItems = [
     latestChapter: "第155章 领主宫殿升级！›",
     excerpt: "穿越到异世界，康纳成为了被发配到边境要塞的落魄领主。而他在抵达领地的同时，解锁了棱彩级领主天赋“奇观赐福”。【奇观赐福：建造或发现奇观时将获得额外奖励与加成，领地内奇观越多，效果越强！】“凛冬圣坛能带来400%的生产值加成？给我修！”“英雄",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/10HkgoVMQMHFb6zdPr26LLg?pwd=29dr",
     downloadUrl: "/books/l_10723575__657877_领主大人，奇观误国呀！1-155章.txt",
     sourceUrl: "https://m.libahao2.com/book/10723575_657877/",
   },
+
 {
     id: "l_10788898__659080",
     slug: "请叫我殖民者的慈父",
@@ -49445,9 +49516,11 @@ export const bookItems = [
     chapters: "1-156章",
     excerpt: "蒸汽殖民时代➕殖民者严父➕摘棉花机器创始人➕每【日】签到系统主角林燃意外穿越蒸汽殖民时代，大周帝国正带领炎黄子孙与白人争夺殖民地，主角每日签到系统失效，下海之后意外发现是这样的……每日签到。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1wyakMv_vB3VKEwNCMGYu_g?pwd=29dr",
     downloadUrl: "/books/l_10788898__659080_请叫我殖民者的慈父1-156章.txt",
     sourceUrl: "https://m.libahao2.com/book/10788898_659080/",
   },
+
 {
     id: "l_10788918__659145",
     slug: "华娱：意外的来客",
@@ -49460,9 +49533,11 @@ export const bookItems = [
     chapters: "1-271章",
     excerpt: "李之白遇到一个女孩，看着像刘艺菲。三年以上，十年以下的念头在他脑海浮现。好吧，李之白的青春回来了。两人改写梦想的轨迹。也是双向的奔赴。（节奏偏慢，逐渐加快，绝对的单女主）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dX3ezvjjT2VmYLERgwpNfQ?pwd=29dr",
     downloadUrl: "/books/l_10788918__659145_华娱：意外的来客1-271章.txt",
     sourceUrl: "https://m.libahao2.com/book/10788918_659145/",
   },
+
 {
     id: "l_10789040__659105",
     slug: "谁说我是阴间御兽师？",
@@ -49476,9 +49551,11 @@ export const bookItems = [
     latestChapter: "第88章 叶魔女，离谱的特性›",
     excerpt: "“你这都什么阴间精灵啊，以后真没人愿意跟你对战了！”“好处说完了，坏处呢？”“？？？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UNNIAGuEC7a0ZDOH1tS1Ug?pwd=29dr",
     downloadUrl: "/books/l_10789040__659105_谁说我是阴间御兽师？1-88章.txt",
     sourceUrl: "https://m.libahao2.com/book/10789040_659105/",
   },
+
 {
     id: "l_10789072__659111",
     slug: "大明：我和公主互换了",
@@ -49491,9 +49568,11 @@ export const bookItems = [
     chapters: "1-254章",
     excerpt: "【大明穿越+双主角+宫廷逆袭】历史系研究生李烁穿到了万历九年。他先是成了张居正的儿子张允修，后来又和永宁公主朱尧媖互穿。一半时间，他是宫墙内洞察朝局的病弱公主。一半时间，他是宫墙外搅动风云的首辅之子。正当他利用双重身份，准备给即将倒台的张家",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15w-bghvUBn73yiQt4HRRqg?pwd=29dr",
     downloadUrl: "/books/l_10789072__659111_大明：我和公主互换了1-254章.txt",
     sourceUrl: "https://m.libahao2.com/book/10789072_659111/",
   },
+
 {
     id: "l_10789092__659172",
     slug: "花果山的边角料？龙族的小骄傲",
@@ -49506,9 +49585,11 @@ export const bookItems = [
     chapters: "1-70章",
     excerpt: "重生西游，觉醒因果加点面板。只要插手别人因果，就可以获得因果点进行加点功法神通甚至修为。【待在花果山奇石旁修炼百年，因果点+100】【被金头揭谛索要人事，因果点+1】【路遇干旱，私自降雨，因果点+4】【冒充方寸山弟子，因果点+100】以为这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/179DZB97vqrrh9EjM1khR8w?pwd=29dr",
     downloadUrl: "/books/l_10789092__659172_花果山的边角料？龙族的小骄傲1-70章.txt",
     sourceUrl: "https://m.libahao2.com/book/10789092_659172/",
   },
+
 {
     id: "l_10854460__659305",
     slug: "北望崖山",
@@ -49522,9 +49603,11 @@ export const bookItems = [
     latestChapter: "第87章 草原›",
     excerpt: "蒙古帝国第二次西征时期，穿越到西征大军中。面对前工业时代最成功的征服机器，李唐没有摆烂。正面打不过，我可以捡漏。异域崛起，在亚欧大陆交汇处刻下独属于汉人的荣光。几十年后的崖山，君临。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Nd2KV-5sb5mcZg1kL7OO9g?pwd=29dr",
     downloadUrl: "/books/l_10854460__659305_北望崖山1-87章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854460_659305/",
   },
+
 {
     id: "l_10854478__659278",
     slug: "越败家越富？拜金罪雌竟是万人迷",
@@ -49538,9 +49621,11 @@ export const bookItems = [
     latestChapter: "第64章 没办法，他给的实在是太多了›",
     excerpt: "【女扮男装+消费系统+星际兽世学校1v6雄竞修罗场+前全家火葬场】姜漾穿成流放到贫困星球的假千金，被真千金设局住进男生宿舍，开局面对4大校霸，生命沙漏还倒计时。消费系统：“想要活下去吗？100金币1分钟，亲亲想买多长时间的活人体验卡呀？”为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1K9gCGs6wcOL5ZiLXs04Srw?pwd=29dr",
     downloadUrl: "/books/l_10854478__659278_越败家越富？拜金罪雌竟是万人迷1-64章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854478_659278/",
   },
+
 {
     id: "l_10854492__659311",
     slug: "赤府巫尊：反内卷成王之路",
@@ -49554,9 +49639,11 @@ export const bookItems = [
     latestChapter: "第85章 跟我比资源？›",
     excerpt: "兵圣大陆，万军为法。酆都掌幽冥，镇衍布大阵;凌霄为仙朝，万塔承巫祖。圣言曰:十王毕，四海一;泰岳兀，帝尊出。少年继承巫法，踏上寻巫之旅。天下英雄如过江之鲫，谁能笑傲群雄？(英雄无敌类型新书)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1coL4Y_5BlOsVCDivAMKu_g?pwd=29dr",
     downloadUrl: "/books/l_10854492__659311_赤府巫尊：反内卷成王之路1-85章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854492_659311/",
   },
+
 {
     id: "l_10854507__659228",
     slug: "1983：从红楼剧组开始",
@@ -49570,9 +49657,11 @@ export const bookItems = [
     latestChapter: "第118章 两居室›",
     excerpt: "美妆博主兼特效化妆师林阳，意外穿到了1983年的四九城里，成了人人讨厌的“待业青年”。没钱也没工作，亲妈每天都逼着他去肉联厂切猪肉。正当他为怎么解决目前困境发愁的时候，亲妹妹顶着两坨“猴屁股”腮红，还有毛毛虫粗眉，就去参加央视【红楼梦】的海",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zoBhWaT9ttMaGiPIDNX3qg?pwd=29dr",
     downloadUrl: "/books/l_10854507__659228_1983：从红楼剧组开始1-118章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854507_659228/",
   },
+
 {
     id: "l_10854516__659437",
     slug: "我在乱世百炼成钢",
@@ -49586,9 +49675,11 @@ export const bookItems = [
     latestChapter: "第74章 引蛇›",
     excerpt: "乱世之中，人命如草芥！陆承穿越武道乱世，成为一名樵夫，却不想山贼肆虐，他连樵夫也做不成，几乎走投无路。好在他拥有一个百炼成钢面板，只要修炼，必有所成！而且武学突破之后，还能用矿物强化武学，“钢”一下，威力暴涨！有了这个底气，他选择假造武馆学",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_8Tp3iPHOJJR2LJn9yWhYQ?pwd=29dr",
     downloadUrl: "/books/l_10854516__659437_我在乱世百炼成钢1-74章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854516_659437/",
   },
+
 {
     id: "l_10854524__659309",
     slug: "大明：我怎么成了闯王啊！",
@@ -49602,9 +49693,11 @@ export const bookItems = [
     latestChapter: "第74章 始于通州卫›",
     excerpt: "李伟一睁开眼，看到了一棵歪脖子树。树上还挂着一个穿着龙袍的人。那是崇祯皇帝。而他李伟，居然成了闯王李自成！看着随风飘荡的崇祯，他心中想的却是一片石大败和死得莫名其妙的李自成。还有满清入关，山河破碎，神州陆沉。明明这片土地已经遭受了那么多的苦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1xrG4lqs3p5IS-0vMyux6-A?pwd=29dr",
     downloadUrl: "/books/l_10854524__659309_大明：我怎么成了闯王啊！1-74章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854524_659309/",
   },
+
 {
     id: "l_10854637__659316",
     slug: "篮坛GOAT算什么，我体坛之王",
@@ -49618,9 +49711,11 @@ export const bookItems = [
     latestChapter: "第103章 最佳（求月票）›",
     excerpt: "穿回20年前的陆远得到一个系统，说是篮球版，抽取运动员模板自行开发即可变强，结果第一个抽出来的模板，居然是博尔特？！系统还不让转战短跑，没办法，陆远只能利用这个抽象的系统，先打篮球，中间打打自由搏击和拳击，跑两段短跑，中途退役踢两年足球，最",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/162uwumGvGrhKR4N2StaIIQ?pwd=29dr",
     downloadUrl: "/books/l_10854637__659316_篮坛GOAT算什么，我体坛之王1-103章.txt",
     sourceUrl: "https://m.libahao2.com/book/10854637_659316/",
   },
+
 {
     id: "l_10919981__658552",
     slug: "香江影帝，从片场升级装备开始！",
@@ -49634,9 +49729,11 @@ export const bookItems = [
     latestChapter: "第125章 阿祖，投降吧！（警察故事拍摄结束）›",
     excerpt: "七十年代，香江电影黄金时代刚刚拉开序幕。陈寻片场穿越，觉醒影帝装备面板。【检测到道具：竹竿】【等级：白色（0/100）】【效果：你对于棍状或长条状的物品掌控感+50%】陈寻：？？？这玩意儿还能升级？从此他开始游走各个片场：群演、武行、特邀、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1izU-VwgRz13MSL7IndygZA?pwd=29dr",
     downloadUrl: "/books/l_10919981__658552_香江影帝，从片场升级装备开始！1-125章.txt",
     sourceUrl: "https://m.libahao2.com/book/10919981_658552/",
   },
+
 {
     id: "l_10920030__658511",
     slug: "华娱：我国家队，你让我辞职",
@@ -49649,9 +49746,11 @@ export const bookItems = [
     chapters: "1-181章",
     excerpt: "穿越平行世界，顾砚洲成为羊视节目《开讲啦》的键盘手，负责调动现场氛围。两世灵魂融合，御用伴奏师实力上线。周董惊为天人，打断节目录制，邀请顾砚洲参加个人演唱会担任嘉宾。周董经纪人更是发来邀约，描绘成为顶流明星的愿景。顾砚洲：？？？我十几年寒窗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZfZBmhtruwwyy1THbXeTBg?pwd=29dr",
     downloadUrl: "/books/l_10920030__658511_华娱：我国家队，你让我辞职1-181章.txt",
     sourceUrl: "https://m.libahao2.com/book/10920030_658511/",
   },
+
 {
     id: "l_10920160__658596",
     slug: "四合院：嫁人？不，我选铁饭碗",
@@ -49665,9 +49764,11 @@ export const bookItems = [
     latestChapter: "第93章 你别怂恿她！（求月票，求书架）›",
     excerpt: "（多人穿越+微群像+家长里短+温馨日常+女主无金手指）秦熙胎穿十五年后因为一场惊吓觉醒了上一世的记忆。十五岁就说亲？不，她选择进城找工作去。堂姐秦淮茹嫁到城里的高门大户？不，她自己就是高门。……张川发现自己穿越到情满四合院被魔改的同人文里，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ni_5NV9bPkyvOU0OcVZs9Q?pwd=29dr",
     downloadUrl: "/books/l_10920160__658596_四合院：嫁人？不，我选铁饭碗1-93章.txt",
     sourceUrl: "https://m.libahao2.com/book/10920160_658596/",
   },
+
 {
     id: "l_10985480__658730",
     slug: "妄揽京色",
@@ -49681,9 +49782,11 @@ export const bookItems = [
     latestChapter: "第123章 ：山雨欲来›",
     excerpt: "季诗情对周宥资见色起意了。他手戴菩提，身披檀香，眉眼疏离如隔云端。是权贵堆里最不按常理出牌的那位。季诗情一追就是三年，满身酒气追到满袖清寂。没撩动这位冷心冷清的太子爷，却感动了周家长辈。订婚消息砸下来时，轰动了整个京圈。*偏偏这时，昔日死对",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BNnQtwnKU_FOvJKirXUILQ?pwd=29dr",
     downloadUrl: "/books/l_10985480__658730_妄揽京色1-123章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985480_658730/",
   },
+
 {
     id: "l_10985547__658718",
     slug: "LOL：救火DWG开始的世一上",
@@ -49696,9 +49799,11 @@ export const bookItems = [
     chapters: "1-70章",
     excerpt: "2020年，经历了IG，FPX两年双冠之后，LPL走到了自己的鼎盛时期。在各种机缘巧合之下，一个首尔大学的中国留学生李暄临危受命，成为了一名LCK赛区的中援，在春季赛第二轮面对T1的比赛中，作为救火队员顶替Nuguri上场。功能性蓝领？进攻",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nBDdTxfKLFAlvmMlrU9yRA?pwd=29dr",
     downloadUrl: "/books/l_10985547__658718_LOL：救火DWG开始的世一上1-70章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985547_658718/",
   },
+
 {
     id: "l_10985565__658815",
     slug: "一只鹤的修真门派掌门路",
@@ -49712,9 +49817,11 @@ export const bookItems = [
     latestChapter: "第238章 小赚一笔›",
     excerpt: "唐玉青穿入《修真门派掌门路》，化作一只青羽灵鹤。成为新晋二代掌门专属伴兽，享宗门供养。本以为能安稳修行，悠闲悟道。谁知天有不测风云，掌门一脉倚靠的靠山骤然崩塌，无后台庇护的小门瞬间沦为白山众宗门算计蚕食的肥肉。眼看门派要被瓜分，自己也受人觊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dDAGV83ijyuSKUBEO4AUGQ?pwd=29dr",
     downloadUrl: "/books/l_10985565__658815_一只鹤的修真门派掌门路1-238章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985565_658815/",
   },
+
 {
     id: "l_10985625__658739",
     slug: "降维打击，交友商怎么玩手机",
@@ -49728,9 +49835,11 @@ export const bookItems = [
     latestChapter: "第120章 国民女神牵手科技新贵，现实里的顾漫小说男女主›",
     excerpt: "下面有请，华夏手机的领航者，全球最大的手机厂商星耀集团的掌门人——梁锋！他是全屏手机的开拓者，是国产芯片的领航员，是所有友商的梦中情人（恨不得打死的那种），是全国单身女生的国民老公……梁锋一个网文作者重生到2010年，从接手一家战略失败的山",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Vk3eE87Lc-BnLIC2nuQG5A?pwd=29dr",
     downloadUrl: "/books/l_10985625__658739_降维打击，交友商怎么玩手机1-120章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985625_658739/",
   },
+
 {
     id: "l_10985634__658816",
     slug: "西游：这个圣僧有点赖！",
@@ -49744,9 +49853,11 @@ export const bookItems = [
     latestChapter: "第234章 没人比你更蠢›",
     excerpt: "武松于六和寺八十岁善终，魂穿西游世界，成为唐三藏。此时，他已经拜别了大唐皇帝，离开了长安，踏上了西行之路，退无可退！他虽然满身武艺，但终究是个凡人，西游路上的任何一个小妖，都能要了他的命。正在武松头疼的时候，他意外地发现他魂穿的这幅躯体中，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15xNtzn-wFpLaqIfHpDvY_Q?pwd=29dr",
     downloadUrl: "/books/l_10985634__658816_西游：这个圣僧有点赖！1-234章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985634_658816/",
   },
+
 {
     id: "l_10985668__658918",
     slug: "苟道成圣：开局获取金色词条",
@@ -49760,9 +49871,11 @@ export const bookItems = [
     latestChapter: "第106章 血色眼中只有你›",
     excerpt: "【穿越】【词条系统】【苟道流】【凡人修仙】【慢发育】】【扮猪吃虎】【单女主】别人穿越修仙，觉醒绝世灵根，争秘境，夺机缘，与天骄争锋，步步厮杀攀向顶峰。主角穿越过来，有灵根无天赋，考核之际觉醒金色词条。他靠着词条在百宝峰开始修行。平时低调修炼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gLfkTWovKOatG1WqhZV84Q?pwd=29dr",
     downloadUrl: "/books/l_10985668__658918_苟道成圣：开局获取金色词条1-106章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985668_658918/",
   },
+
 {
     id: "l_10985681__658871",
     slug: "离婚后，我得到了地球！",
@@ -49776,9 +49889,11 @@ export const bookItems = [
     latestChapter: "第112章 白骨爪›",
     excerpt: "韩硕四十六岁生日这天，被妻子赵静柔在景云天大酒店包厢里当面摊牌。二十年婚姻是假的，一双儿女是她和初恋傅修远的种。百亿集团掌门人归来，韩硕忍痛签下离婚协议，却被保镖一耳光扇飞两颗牙。养了二十年的儿女毫不犹豫认贼作父，连一声&quot;爸&quot;都吝啬。心灰意",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ipY77n_qoC3yK0-YMOviEw?pwd=29dr",
     downloadUrl: "/books/l_10985681__658871_离婚后，我得到了地球！1-112章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985681_658871/",
   },
+
 {
     id: "l_10985714__658821",
     slug: "凡人：我刷成就得奖励成仙",
@@ -49792,9 +49907,11 @@ export const bookItems = [
     latestChapter: "第317章 修仙界的傻丫头›",
     excerpt: "姜沐阳在《凡人修仙传》的世界重生，绑定了一个成就奖励系统！“恭喜你，达成穿越修仙界的成就（红色）！”“奖励三属性融合灵根（土生金、金生水）！”“恭喜你，达成‘遇见金丹仙子’的成就（红色）！”“奖励水属性顶级功法《沧浪御水功》！”“恭喜你，达",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kUxgOnWx337-3uP6DsdfPg?pwd=29dr",
     downloadUrl: "/books/l_10985714__658821_凡人：我刷成就得奖励成仙1-317章.txt",
     sourceUrl: "https://m.libahao2.com/book/10985714_658821/",
   },
+
 {
     id: "l_11051054__655944",
     slug: "绣春刀开始的登顶路",
@@ -49808,9 +49925,11 @@ export const bookItems = [
     latestChapter: "第106章 绣春刀完",
     excerpt: "秦鹤手握残破逆天珠，以逆乱诸天人物命运为养料，在逆天珠完善的同时，秦鹤也不知不觉傲立诸天之巅。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UiMlJRKjUuzL1VCeTl6qXA?pwd=29dr",
     downloadUrl: "/books/l_11051054__655944_绣春刀开始的登顶路1-182章.txt",
     sourceUrl: "https://m.libahao2.com/book/11051054_655944/",
   },
+
 {
     id: "l_11051098__655887",
     slug: "斗罗：毁灭重生，追着喂我成神王",
@@ -49824,9 +49943,11 @@ export const bookItems = [
     latestChapter: "第122章 认亲叶骨衣›",
     excerpt: "【绝世唐门】【日月线】穿越斗罗大陆，叶凡于时空乱流中意外撞到神界破碎后众叛亲离的毁灭神王，两人纷纷穿越绝世唐门时期。坏消息是，叶凡穿越成为斗罗大陆人人喊打的天使传人叶骨衣的亲弟弟，开局觉醒双生武魂，死亡天使和生命天使。好消息是，毁灭神王重生",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DjDWy9dmOSnlDANLmOGxLg?pwd=29dr",
     downloadUrl: "/books/l_11051098__655887_斗罗：毁灭重生，追着喂我成神王1-122章.txt",
     sourceUrl: "https://m.libahao2.com/book/11051098_655887/",
   },
+
 {
     id: "l_11053772__614",
     slug: "六年后，她带三个奶团炸翻全球",
@@ -49840,9 +49961,11 @@ export const bookItems = [
     latestChapter: "第3357章 那个孩子›",
     excerpt: "六年前，安颜遭设计，要嫁给老男人，不料误打误撞，，，，六年后，携子归来，男人将她堵在墙角：战家三代单传，谢谢老婆！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1KI8GW_pk1KFw1HYZcBdZmw?pwd=29dr",
     downloadUrl: "/books/l_11053772__614_六年后，她带三个奶团炸翻全球1-3323章.txt",
     sourceUrl: "https://m.libahao2.com/book/11053772_614/",
   },
+
 {
     id: "l_11116559__656218",
     slug: "你管这叫第一前锋？",
@@ -49856,9 +49979,11 @@ export const bookItems = [
     latestChapter: "第319章 易主前夜›",
     excerpt: "科恩，是拉丁语中的“祭司”他，就被称为超级“祭司”可……球场“祭司”是怎么炼成的？是出众的球技？还是疯狂的进球？不！那是欧洲人发不出“焜”的音！重生AC米兰青训营的谢焜，在吐槽中获得了系统，但还是被伟大的AC米兰淘汰。从此开启了他脚踏C罗，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1db2UhCnvoHkGLb9i2-OI6Q?pwd=29dr",
     downloadUrl: "/books/l_11116559__656218_你管这叫第一前锋？1-318章.txt",
     sourceUrl: "https://m.libahao2.com/book/11116559_656218/",
   },
+
 {
     id: "l_11116593__656313",
     slug: "庶房兴家",
@@ -49872,9 +49997,11 @@ export const bookItems = [
     latestChapter: "第147章 卖船同行，信任交付›",
     excerpt: "沈清竹一家意外穿越到大靖王朝侍御史沈家，成了沈家庶出三房，原主临出嫁前，莫名其妙被嫡出堂姐抢了婚事，全家羞愤难当，一起赴死报复大房。沈清竹理清头绪，无语至极。大房嫁女，一家身着白衣到场，差点把沈老夫人气死。陈世美未婚夫当众羞辱，她硬气反击，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1WCRB-QZyx1wD22fpJyYzLg?pwd=29dr",
     downloadUrl: "/books/l_11116593__656313_庶房兴家1-147章.txt",
     sourceUrl: "https://m.libahao2.com/book/11116593_656313/",
   },
+
 {
     id: "l_11116621__656254",
     slug: "战锤：群星玩家的终末之旅",
@@ -49888,9 +50015,11 @@ export const bookItems = [
     latestChapter: "第203章 意气风发啊，可汗›",
     excerpt: "第42个千年。银河系被大裂隙劈成两半，星炬光芒照耀不到的暗面陷入了无尽战争，另一半沐浴在帝皇荣光的疆域却还在内耗。人类与叛徒、混沌、异形在各个星系混战，文明逐渐向深渊滑落。安德洛，一个对战锤世界一无所知的群星玩家，带着自己的群星世界被意外丢",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1t-BsnfCXx9KtBjFxqyX9Gg?pwd=29dr",
     downloadUrl: "/books/l_11116621__656254_战锤：群星玩家的终末之旅1-203章.txt",
     sourceUrl: "https://m.libahao2.com/book/11116621_656254/",
   },
+
 {
     id: "l_11116640__656300",
     slug: "穿越斗罗，我奥斯卡不当辅助了",
@@ -49903,9 +50032,11 @@ export const bookItems = [
     chapters: "1-200章",
     excerpt: "魂穿斗一，成为主角团成员之一的奥斯卡，奥斯卡感觉这很妙。大陆第一位食物系先天满魂力，四十岁前修炼到封号斗罗就可以百分百继承食神神位，可以复制任何武魂的超标能力……奥斯卡表示我不吃牛肉。唐三？这里是斗一，你还是小瘪三，不是唐神王，哪来的回哪去",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1tR6eCwP-o0SdtOKdFwBxEA?pwd=29dr",
     downloadUrl: "/books/l_11116640__656300_穿越斗罗，我奥斯卡不当辅助了1-200章.txt",
     sourceUrl: "https://m.libahao2.com/book/11116640_656300/",
   },
+
 {
     id: "l_11116799__656213",
     slug: "神祇：自然主宰",
@@ -49919,9 +50050,11 @@ export const bookItems = [
     latestChapter: "第155章 白晶能源块›",
     excerpt: "诸神黄昏落幕，新旧纪元更迭，虚界重开。纪玄意外被选中进入神祇游戏。在这里，祂将融合神格、开辟神域、培育眷族，收集信仰，点燃神火。在这里，祂将带领眷族发展，探索虚界，与异族诸神争锋。神性生命-半神-微弱神力-弱等神力-中等神力-强大神力-伟大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1esGpo_NAXByVXrlQkLEsUg?pwd=29dr",
     downloadUrl: "/books/l_11116799__656213_神祇：自然主宰1-247章.txt",
     sourceUrl: "https://m.libahao2.com/book/11116799_656213/",
   },
+
 {
     id: "l_11182098__655499",
     slug: "穿七零，假千金科研搞钱两手抓",
@@ -49935,9 +50068,11 @@ export const bookItems = [
     latestChapter: "第242章 各显本事›",
     excerpt: "沈渡云在末世被异种撞死，穿越到华国七零年代，一个买啥都要票的年代，原身恋爱脑还大方，沈渡云直接送渣男和渣男表妹去见原主，一不小心修了个车，被军方注意到，又一不小心看到电脑，被研究院求着进。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JoTK2db31ZuSdxt68WZttg?pwd=29dr",
     downloadUrl: "/books/l_11182098__655499_穿七零，假千金科研搞钱两手抓1-238章.txt",
     sourceUrl: "https://m.libahao2.com/book/11182098_655499/",
   },
+
 {
     id: "l_11182169__655423",
     slug: "NBA：东北大呲花，扣遍全联盟",
@@ -49951,9 +50086,11 @@ export const bookItems = [
     latestChapter: "第348章 凌晨四点›",
     excerpt: "架空历史架空历史架空历史，不要拿这个世界当成原本世界。2002年NBA总决赛中场，一个被拉来救场的中国留学生，抄起唢呐吹了一曲《男儿当自强》。吹完不过瘾，他冲上场，隔着奥尼尔把球砸进了篮筐。落地一句东北话：“别搁那杵着，有能耐防一个。”全美",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qkut_g8KycPxGvq_FqKS7A?pwd=29dr",
     downloadUrl: "/books/l_11182169__655423_NBA：东北大呲花，扣遍全联盟1-347章.txt",
     sourceUrl: "https://m.libahao2.com/book/11182169_655423/",
   },
+
 {
     id: "l_11182181__655612",
     slug: "没兽耳的坐骑我不骑！",
@@ -49966,9 +50103,11 @@ export const bookItems = [
     chapters: "1-379章",
     excerpt: "想成为一名骑士，你必须拥有一匹坐骑。红龙女王怎么样？强壮，美丽，足以在星界翱翔冲锋。还是你喜欢我这头深渊独角兽？漆黑顺滑的皮毛，以及锐利的独角，冲锋起来势不可挡。还是说，我这一只星界大鲸，庞大的身躯，可以撞开神国的封锁。每一头坐骑，都会给他",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pyPic-vxQO_1Jv3RsKA6oQ?pwd=29dr",
     downloadUrl: "/books/l_11182181__655612_没兽耳的坐骑我不骑！1-379章.txt",
     sourceUrl: "https://m.libahao2.com/book/11182181_655612/",
   },
+
 {
     id: "l_11182298__655367",
     slug: "离宫三年后，废太子携崽求入赘",
@@ -49981,9 +50120,11 @@ export const bookItems = [
     chapters: "1-189章",
     excerpt: "姜棠曾在东宫中当差时，奉皇后之命，阴差阳错怀上当今太子的子嗣。然而内定太子妃崔娇却想要与太子殿下一生一世一双人，因宫女有孕气恼不已，逼着太子让姜棠打胎，否则她便另嫁。皇后却是力保姜棠腹中胎儿。太子两难之下，提议去母留子。姜棠诞下小郡主，一眼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FcqNTg0PpbDLkjGMkH-NZg?pwd=29dr",
     downloadUrl: "/books/l_11182298__655367_离宫三年后，废太子携崽求入赘1-189章.txt",
     sourceUrl: "https://m.libahao2.com/book/11182298_655367/",
   },
+
 {
     id: "l_11247635__655771",
     slug: "西游：从拜师九天荡魔祖师开始",
@@ -49996,9 +50137,11 @@ export const bookItems = [
     chapters: "1-231章",
     excerpt: "陆山君穿越西游，成了八百里黄风岭的虎先锋。深知西游水深，满地都是大能的棋子。他不愿浑浑噩噩做个被一棍子打死的野妖，于是吞灵果破胎迷，洗去一身血食业力。觉醒熟练度面板，【野兽本能】演化为【神通术法】，【微弱妖气】肝成【无漏金丹】。虽是妖族，却",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Nbz9eOhG8XnmzB8j4IQPHg?pwd=29dr",
     downloadUrl: "/books/l_11247635__655771_西游：从拜师九天荡魔祖师开始1-231章.txt",
     sourceUrl: "https://m.libahao2.com/book/11247635_655771/",
   },
+
 {
     id: "l_11247710__655695",
     slug: "七零大院来了个绝色大美人",
@@ -50012,9 +50155,11 @@ export const bookItems = [
     latestChapter: "第215章 李秀兰开始催生了›",
     excerpt: "【古穿今+七零+上位者低头+1v1】【精致利己作精娇气的矜贵小公主×一见钟情自卑敏感的恋爱脑军官】夏清晏是大夏王朝开国皇帝最受宠的嫡公主，被皇帝捧在手心里长大，从小锦衣玉食，由帝王亲自教学。自出生时便被寄予厚望，从小与开国将军小儿子订下婚约",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1fMQyrPbwJtWLQipU42-C_Q?pwd=29dr",
     downloadUrl: "/books/l_11247710__655695_七零大院来了个绝色大美人1-215章.txt",
     sourceUrl: "https://m.libahao2.com/book/11247710_655695/",
   },
+
 {
     id: "l_11247792__655777",
     slug: "这游戏也太奇怪啦",
@@ -50028,9 +50173,11 @@ export const bookItems = [
     latestChapter: "第352章 这还是个游戏吗？›",
     excerpt: "意外穿越到异星海洋，成为一座孤零零开拓基地的指挥官。面对深海的巨兽、璀璨的星空与无边的孤寂，李昂意外发现，自己能将这个真实的“外星求生”包装成游戏，拉来一群天真活泼的地球玩家当打工人！看着电脑屏幕后的他们肝得飞起，一边抓鱼一边喊着“这是全宇",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1739bwF-3Vv9RaJt9efdZLg?pwd=29dr",
     downloadUrl: "/books/l_11247792__655777_这游戏也太奇怪啦1-354章.txt",
     sourceUrl: "https://m.libahao2.com/book/11247792_655777/",
   },
+
 {
     id: "l_11313245__657023",
     slug: "霍格沃茨：马丁的变身每日刷新",
@@ -50044,9 +50191,11 @@ export const bookItems = [
     latestChapter: "第158章 十人包厢？学期结束",
     excerpt: "时间：1991年地点：霍格沃茨人物：马丁(千变万化版)……他贪财缺爱他爱吃盖浇饭他考试总考零分他喜欢在酒吧演讲他能让你黑魔王大人破防他坑哭了七届黑魔法防御术教授，七届他是巫师界最能整活的哑炮，魔法部最年轻的傲罗，斯莱特林学生最严厉的父亲……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ju5B5GnIV_m1QSpEZHhQlQ?pwd=29dr",
     downloadUrl: "/books/l_11313245__657023_霍格沃茨：马丁的变身每日刷新1-458章.txt",
     sourceUrl: "https://m.libahao2.com/book/11313245_657023/",
   },
+
 {
     id: "l_11313363__657047",
     slug: "人在港综，逆天改命",
@@ -50059,9 +50208,11 @@ export const bookItems = [
     chapters: "1-262章",
     excerpt: "据说，只要有人能够连续看完一千部完整的灵异电影，就能获得穿越到看过的灵异电影中的能力。苏沐相信了，然后花了将近三个月时间，收集并看完了一千部灵异电影，没想到竟然真的穿越了！但是苏沐发现他穿越的并不是单一的灵异电影世界，而是一个由他看过的一千",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1AlwQJ-HyPEaj6lzTlBMDEA?pwd=29dr",
     downloadUrl: "/books/l_11313363__657047_人在港综，逆天改命1-262章.txt",
     sourceUrl: "https://m.libahao2.com/book/11313363_657047/",
   },
+
 {
     id: "l_11313381__657140",
     slug: "明末东江一哨官",
@@ -50075,9 +50226,11 @@ export const bookItems = [
     latestChapter: "第145章 辞赴烽津›",
     excerpt: "崇祯四年十月末。现代基层军官周元一朝魂穿，成为东江镇一名不入流的十八岁哨官！彼时的大明王朝刚历大凌河惨败，又将迎由那只鸡引发的惨案—吴桥兵变。刚穿越的周元于生死间暴起，一息双擒，救下即将受割鼻断腿之辱的东江总兵黄龙。少年孤勇，一战成名，独守",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JapLG9S8Y7LB0mF47QAHVg?pwd=29dr",
     downloadUrl: "/books/l_11313381__657140_明末东江一哨官1-275章.txt",
     sourceUrl: "https://m.libahao2.com/book/11313381_657140/",
   },
+
 {
     id: "l_11378721__657336",
     slug: "人在白令海，有御兽宗什么事",
@@ -50091,9 +50244,11 @@ export const bookItems = [
     latestChapter: "第167章 喂鲸›",
     excerpt: "【手搓+系统+宠物+白令海+狩猎+捕蟹+岛屿+种田+经营】40岁离婚。人在阿拉斯加白令海当渔民，房子没了，钱也没了，女儿也判给前妻，自己只得到一份每月2000美元的抚养费判决书。系统却给了一个御兽宗。.......【日常：潜伏任务】【外门弟",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1v5QO-vJw0RLtWvt-Eo-nvg?pwd=29dr",
     downloadUrl: "/books/l_11378721__657336_人在白令海，有御兽宗什么事1-166章.txt",
     sourceUrl: "https://m.libahao2.com/book/11378721_657336/",
   },
+
 {
     id: "l_11378763__657182",
     slug: "日本战国：土佐一条大神的野望",
@@ -50107,9 +50262,11 @@ export const bookItems = [
     latestChapter: "第254章 守将威名 岛津之困›",
     excerpt: "穿越到日本战国，自当与信长公争天下。“此世即吾世，如月当无缺。”一条先祖藤原道长的豪言，正是乱世的奋斗目标。一条大神无能，可我穿越者却要试上一试。科技受阻？难从强敌环伺，却最为贫瘠的四国起家？难公家出身与武家先天冲突？难......可再难，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1w4yH0HR-_uS_OOaCx9hh0g?pwd=29dr",
     downloadUrl: "/books/l_11378763__657182_日本战国：土佐一条大神的野望1-256章.txt",
     sourceUrl: "https://m.libahao2.com/book/11378763_657182/",
   },
+
 {
     id: "l_11378792__657196",
     slug: "斗罗：我以模拟系统纵横诸天",
@@ -50123,9 +50280,11 @@ export const bookItems = [
     latestChapter: "第138章 葬龙（上）›",
     excerpt: "【反三】【多女主】【虐大师】【干柳二龙】【合作比比东】【灭七宝宗】【调教宁荣荣】【腹黑】【无敌流】穿越斗罗大陆，没有显赫....咦？不对！那是拥有还算显赫家庭背景的林岩，觉醒的武魂以及先天魂力都能达到中等。对此，林岩都本打算去跪舔主角唐三来",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Odwz74ZdEGmiwAKt61d12w?pwd=29dr",
     downloadUrl: "/books/l_11378792__657196_斗罗：我以模拟系统纵横诸天1-138章.txt",
     sourceUrl: "https://m.libahao2.com/book/11378792_657196/",
   },
+
 {
     id: "l_11378875__657169",
     slug: "国运：让你找怪人弱点，你选帝骑",
@@ -50139,9 +50298,11 @@ export const bookItems = [
     latestChapter: "第218章 ：生存龙骑！爆杀瞪羚怪物群！一个人，盘活整个龙国！›",
     excerpt: "陆离穿越到了骑士国运游戏降临的世界，每隔一段时间所有国家都会挑选三人进入到游戏世世界中。龙国此时已经经历了三次惨败，若再次失败，大半的领土将会被怪人组织吞没！国运游戏规则，怪人必须要有相应体系的骑士才能彻底击杀，想要知道什么骑士可以击杀对应",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1khpD3RipPZ1bssJeK4G48w?pwd=29dr",
     downloadUrl: "/books/l_11378875__657169_国运：让你找怪人弱点，你选帝骑1-218章.txt",
     sourceUrl: "https://m.libahao2.com/book/11378875_657169/",
   },
+
 {
     id: "l_11381485__1908",
     slug: "我靠休假给异世带来亿点震撼",
@@ -50155,9 +50316,11 @@ export const bookItems = [
     latestChapter: "第311章 你们有仇？›",
     excerpt: "嗨～休假不？去异世界体验废柴逆袭的那种？又名《我靠开挂，在星际成为修仙大佬》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rIarEiWDOoKyuflAyy1T6A?pwd=29dr",
     downloadUrl: "/books/l_11381485__1908_我靠休假给异世带来亿点震撼1-311章.txt",
     sourceUrl: "https://m.libahao2.com/book/11381485_1908/",
   },
+
 {
     id: "l_11444275__656537",
     slug: "人在吞噬星空，融合林雷模板",
@@ -50170,9 +50333,11 @@ export const bookItems = [
     chapters: "1-176章",
     excerpt: "穿越吞噬星空，获得盘龙鸿蒙掌控者林雷模板只要解锁特定的条件，就能不断解锁角色模板痛饮活龙血，激活青龙血脉，成为龙血战士，基因层次跃升解锁魔法师天赋，成为精神念师横扫四方解锁成神条件，获得神分身解锁青龙血脉，成就完美基因，化身青龙，掌控时空…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-5Ey-Mioh-iPSq37uXmjZw?pwd=29dr",
     downloadUrl: "/books/l_11444275__656537_人在吞噬星空，融合林雷模板1-176章.txt",
     sourceUrl: "https://m.libahao2.com/book/11444275_656537/",
   },
+
 {
     id: "l_11444399__656464",
     slug: "西游：我和猴哥儿嘎嘎乱杀",
@@ -50186,9 +50351,11 @@ export const bookItems = [
     latestChapter: "第90章 ：书写历史",
     excerpt: "你向猴哥儿传授了呼吸法，猴哥儿稍加修行，领悟了天罡神通九息服气；你向猴哥儿传授了十二路象形拳，猴哥儿看了一眼，猴拳圆满，激发了灵明石猴的潜力，通变化、识天时、移星换斗；你向猴哥儿传授了观想法，猴哥儿明悟了元神大道，修成不灭元神。本以为是祖龙",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XjwahA-ZIOnxi0N9Ttz_QQ?pwd=29dr",
     downloadUrl: "/books/l_11444399__656464_西游：我和猴哥儿嘎嘎乱杀1-165章.txt",
     sourceUrl: "https://m.libahao2.com/book/11444399_656464/",
   },
+
 {
     id: "l_11444416__656550",
     slug: "人在红楼：开局护送黛玉进京",
@@ -50202,9 +50369,11 @@ export const bookItems = [
     latestChapter: "第164章 这剧本不对›",
     excerpt: "北离王朝，混乱的世道，一个手持“赤金刀”的狠人横空出世。他担的事从不出错，送人，押货，杀人，只要你出的起“千金”的价，不违背道义，他都敢接。不管是匪徒杀手，江湖门派，还是达官显贵，皇亲国戚，只要敢坏他的生意，他都照砍不误！只因他叫李千金，一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1SYaNSiWpUIk5spV2lkilCw?pwd=29dr",
     downloadUrl: "/books/l_11444416__656550_人在红楼：开局护送黛玉进京1-164章.txt",
     sourceUrl: "https://m.libahao2.com/book/11444416_656550/",
   },
+
 {
     id: "l_11447566__459850",
     slug: "全法：莫凡的非正经人生选择系统",
@@ -50218,9 +50387,11 @@ export const bookItems = [
     latestChapter: "第359章 西班牙队›",
     excerpt: "莫凡绑定了一个【不正经人生选择器】，他原本就骚动的人生，彻底失控了。【魔法师之路始于足下，请开始你的表演：】选项一：集中精神，正常完成觉醒。奖励：随机单系魔法觉醒。选项二：觉醒前，对全班同学露出一个自信笑容，并说：“颤抖吧，凡人们，本王的力",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VSWYcmoloo23mXvVfthhJw?pwd=29dr",
     downloadUrl: "/books/l_11447566__459850_全法：莫凡的非正经人生选择系统1-365章.txt",
     sourceUrl: "https://m.libahao2.com/book/11447566_459850/",
   },
+
 {
     id: "l_11509777__656827",
     slug: "人在华山，卷死同行",
@@ -50234,9 +50405,11 @@ export const bookItems = [
     latestChapter: "第130章 野拳门齐丽挺漂亮›",
     excerpt: "出身不好？没事，只要足够卷，死的就是同行。身负【卷王之王】棱彩词条，百倍学习效率。好消息，是华山弟子！坏消息，气宗当家，自己是剑宗余孽！天资驽钝？那怎么学会降龙十八掌的？筋骨欠佳？那怎么紫霞神功的？容貌一般？怎么小师妹，东方阿姨都围着他转？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1frYJWcTdeCJ2ARyigztgCw?pwd=29dr",
     downloadUrl: "/books/l_11509777__656827_人在华山，卷死同行1-130章.txt",
     sourceUrl: "https://m.libahao2.com/book/11509777_656827/",
   },
+
 {
     id: "l_11509791__656731",
     slug: "大唐安西军",
@@ -50249,9 +50422,11 @@ export const bookItems = [
     chapters: "1-153章",
     excerpt: "安史之乱后，西域孤悬。安西都护府与中原断绝音讯，已近半个世纪。元和三年冬，吐蕃攻陷龟兹。安西大都护郭昕殉国，临终前，将官印、军籍与一张东归路线图，交到一个年轻人手中。裴霜戈，时年二十，穿越者。他在都护府长大，知道安西陷落的结局，却从未想过，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1s6-lyU7FKXHWJWn0SNPLJw?pwd=29dr",
     downloadUrl: "/books/l_11509791__656731_大唐安西军1-153章.txt",
     sourceUrl: "https://m.libahao2.com/book/11509791_656731/",
   },
+
 {
     id: "l_11509948__656737",
     slug: "网游之幸运龙骑士",
@@ -50265,9 +50440,11 @@ export const bookItems = [
     latestChapter: "第142章 偶遇（下）",
     excerpt: "长路漫漫，与龙作伴；从菜鸟到传奇，一名生活职业全精通的龙骑士的冒险之旅。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1e1KkbVjsQifxoWdeM2EOeA?pwd=29dr",
     downloadUrl: "/books/l_11509948__656737_网游之幸运龙骑士1-161章.txt",
     sourceUrl: "https://m.libahao2.com/book/11509948_656737/",
   },
+
 {
     id: "l_11706424__661545",
     slug: "半岛修正带，我能听见爱豆心声",
@@ -50281,9 +50458,11 @@ export const bookItems = [
     latestChapter: "第14章 名井南似乎不太开心›",
     excerpt: "我不懂女人心，但我能听到女人心。最开始，我身为JYP艺人培育部实习生，身怀系统，却因为过于直男，总把事情搞糟。直到我第一次B抽出金。【心声聆听】S级主动能力，可听见他人心声从此，我的人生迎来巨变。【韩娱】【多女】【治愈】【听见心声】【人格修",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19YyP_mtSY5ehRXKcwkLjow?pwd=29dr",
     downloadUrl: "/books/l_11706424__661545_半岛修正带，我能听见爱豆心声1-14章.txt",
     sourceUrl: "https://m.libahao2.com/book/11706424_661545/",
   },
+
 {
     id: "l_11706488__661549",
     slug: "1984赶海致富，每日一条渔讯",
@@ -50296,9 +50475,11 @@ export const bookItems = [
     chapters: "1-165章",
     excerpt: "陈向东带着遗憾回到了1984年。回到了那个熟悉的小渔村，遗憾了大半辈子。这一次一定做个好丈夫，好父亲。【每日渔讯：今日晚八点海风三级东礁石滩有石斑鱼群经过】【每日渔讯：今日晚九点海风五级航向正东方有大片大黄鱼出没】【每日渔讯：今日晚上五点海",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hKZMWD20rO0Mymfz7JjM8g?pwd=29dr",
     downloadUrl: "/books/l_11706488__661549_1984赶海致富，每日一条渔讯1-165章.txt",
     sourceUrl: "https://m.libahao2.com/book/11706488_661549/",
   },
+
 {
     id: "l_11706538__661504",
     slug: "三流摄影师：我接的都是要命活",
@@ -50312,9 +50493,11 @@ export const bookItems = [
     latestChapter: "第170章 心里长草›",
     excerpt: "【御鬼】【收集】【职业经历改编】张尽，亲鬼体，三流摄影师，经营的影楼生意惨淡。为求生计，他不得不接下各类订单。委托愈发诡异，报酬却愈发惊人。他惊觉自己早已落入他人算计。不甘做一枚任人摆布的棋子，他在接连不断的诡秘事件中，步步为营。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14FWOrG-lyXLHoMXln7SmAw?pwd=29dr",
     downloadUrl: "/books/l_11706538__661504_三流摄影师：我接的都是要命活1-171章.txt",
     sourceUrl: "https://m.libahao2.com/book/11706538_661504/",
   },
+
 {
     id: "l_11774600__6434",
     slug: "波斯帝国1845",
@@ -50327,9 +50510,11 @@ export const bookItems = [
     chapters: "1-1306章",
     excerpt: "陈诚穿越回19世纪的恺加王朝，还成为了阿塞拜疆的总督纳赛尔丁。而此时的波斯内外交困，已经沦为了和奥斯曼一样的命运。既来之则安之，如何保护波斯摆脱那些列强，就成为了他的主要目标。但目前，还是把自己的总督做好吧。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zNHcJlmYpueK17Fm3fgLdQ?pwd=29dr",
     downloadUrl: "/books/l_11774600__6434_波斯帝国18451-1306章.txt",
     sourceUrl: "https://m.libahao2.com/book/11774600_6434/",
   },
+
 {
     id: "l_12099587__660122",
     slug: "以骑士之名！",
@@ -50342,9 +50527,11 @@ export const bookItems = [
     chapters: "1-51章",
     excerpt: "西历5339年，旱荒席卷塞恩王国。为了活命，一个平民主动申请前往北境战场，从一篇秘法残页开始修炼，追寻骑士的真谛，掌握更强的力量，并走向星空之巅。“现在站在你面前的是：卫道骑士团团长、骑士大陆守护者、星空之下第一骑士、诸神黄昏的缔造者、寰宇",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gI8HbUh_n9y7u8HrOH-MUA?pwd=29dr",
     downloadUrl: "/books/l_12099587__660122_以骑士之名！1-51章.txt",
     sourceUrl: "https://m.libahao2.com/book/12099587_660122/",
   },
+
 {
     id: "l_12099659__659998",
     slug: "从见习机械师开始！",
@@ -50358,9 +50545,11 @@ export const bookItems = [
     latestChapter: "第61章 不死幽魂·渡鸦›",
     excerpt: "【超神机械师面板】【琥珀流】【爽文】【杀伐果断】王尘携NPC面板穿越回到游戏《星渊》1.0版本，从被誉为新手地狱难度的湛蓝星开始。星球地表各国争锋大战、侵蚀潮汐自地底蔓延、宛若囚笼般的天穹能量薄膜阻拦逃向星空的希望。但这也是被誉为机遇最多的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15Rr95EbwPzOXf4-tPCqMoQ?pwd=29dr",
     downloadUrl: "/books/l_12099659__659998_从见习机械师开始！1-61章.txt",
     sourceUrl: "https://m.libahao2.com/book/12099659_659998/",
   },
+
 {
     id: "l_12099701__660221",
     slug: "网王：开局打崩职业选手",
@@ -50374,9 +50563,11 @@ export const bookItems = [
     latestChapter: "第191章 ：这究竟是怎样强大的怪物？›",
     excerpt: "这是最美妙的网球时代。手冢国光、迹部景吾、立海大三巨头、越前龙雅、平等院凤凰、梅达诺雷...无数网球天才争相涌现，犹如漫天繁星一般闪耀。这也是最令天才们绝望的网球时代。因为在他们头上有个太阳统治着这个时代，盖过了所有天才的光芒。北宫夏和，一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JhoVQSlGiiB8z-xUav1wbg?pwd=29dr",
     downloadUrl: "/books/l_12099701__660221_网王：开局打崩职业选手1-191章.txt",
     sourceUrl: "https://m.libahao2.com/book/12099701_660221/",
   },
+
 {
     id: "l_12099730__660099",
     slug: "全民塔防：亡灵弱？见过天灾吗？",
@@ -50390,9 +50581,11 @@ export const bookItems = [
     latestChapter: "第135章 花魁的夹子音与人马大乱斗›",
     excerpt: "沈飞穿越全民塔防世界，觉醒兵种亡灵。世人皆说亡灵弱，后期不足死的快。但他第一次免费十连抽卡，便抽出了特殊卡牌亡灵农民。本以为是张废卡，结果在塔防秘境中，一个亡灵农民种出的土地却可以给人回血，妥妥一个泉水制造机！亡灵弱？见过天灾吗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19qomDRofRSeLvBwgPsT_Tw?pwd=29dr",
     downloadUrl: "/books/l_12099730__660099_全民塔防：亡灵弱？见过天灾吗？1-135章.txt",
     sourceUrl: "https://m.libahao2.com/book/12099730_660099/",
   },
+
 {
     id: "l_12165168__660393",
     slug: "一颗头也可以成为冒险者吗",
@@ -50406,9 +50599,11 @@ export const bookItems = [
     latestChapter: "第131章 ：决赛第一场›",
     excerpt: "坏消息：罗里穿越第一天，头就被砍。好消息：只要头还在，他就能无限拼装。开局在乱葬岗醒来，脖子下面空空如也。罗里本以为这是地狱难度，直到他发现自己觉醒拼装能力：【精灵左臂】+【破旧狼牙棒】=附带爆裂一击的狼牙拳套；【提夫林心脏】+【木制蒸汽机",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kHrzpzbTRYiF3WonXq2Iiw?pwd=29dr",
     downloadUrl: "/books/l_12165168__660393_一颗头也可以成为冒险者吗1-231章.txt",
     sourceUrl: "https://m.libahao2.com/book/12165168_660393/",
   },
+
 {
     id: "l_12165173__660473",
     slug: "聊斋大明，我有一块左道术士面板",
@@ -50422,9 +50617,11 @@ export const bookItems = [
     latestChapter: "第43章 投靠魏忠贤！›",
     excerpt: "林奇意外穿越到了大明，不过不是历史上的大明，而是一个庙里藏鬼，野外有妖的聊斋大明。更重要的是，他穿越过来的还是天启元年，即将天下大乱的天启元年。幸好林奇发现自己随身携带着左道术士的职业面板！林奇本想要靠着职业面板过自己的安稳日子，谁知道职业",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1x4LXo__LY7zs3yHG5SNNRw?pwd=29dr",
     downloadUrl: "/books/l_12165173__660473_聊斋大明，我有一块左道术士面板1-43章.txt",
     sourceUrl: "https://m.libahao2.com/book/12165173_660473/",
   },
+
 {
     id: "l_12165275__660243",
     slug: "无限从获得轮椅术式开始",
@@ -50438,9 +50635,11 @@ export const bookItems = [
     latestChapter: "第61章 神族不死身›",
     excerpt: "皇级实力参加顶上之战，自选术式肘击宿傩，何选？林白毫不犹豫地回答：“我打宿傩！”本以为只是网上选着玩，结果林白真的穿越到咒术回战世界，获得了号称轮椅术式的【混沌与调和】。奈何，本人只有咒之力三段水准，本想激流勇退，却又收到了主神空间的邀请函",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Q3KgaVRcmbXGSq8K_uOQLQ?pwd=29dr",
     downloadUrl: "/books/l_12165275__660243_无限从获得轮椅术式开始1-200章.txt",
     sourceUrl: "https://m.libahao2.com/book/12165275_660243/",
   },
+
 {
     id: "l_12165320__660262",
     slug: "修仙：从逆行村开始成为颠倒圣君",
@@ -50454,9 +50653,11 @@ export const bookItems = [
     latestChapter: "第74章 和对方交易›",
     excerpt: "苏衍穿越到了仙侠游戏《寰宇》的世界中，开局苏醒于逆行村。此方天地，万法皆可成道，世间万般际遇，皆可演化出属于自己的修行坦途。【清玄道】吐纳元炁，证道仙宗：【启炁修士】→【府灵羽生】→【罡罡君使】.......【铸兵道】以熔炉锻骨，以兵锋养神",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HF65QJXYAlFYC4hElPthpA?pwd=29dr",
     downloadUrl: "/books/l_12165320__660262_修仙：从逆行村开始成为颠倒圣君1-74章.txt",
     sourceUrl: "https://m.libahao2.com/book/12165320_660262/",
   },
+
 {
     id: "l_12165350__660420",
     slug: "修仙：从打破武道上限开始",
@@ -50469,9 +50670,11 @@ export const bookItems = [
     chapters: "1-209章",
     excerpt: "诸天文，两界文，次修仙【天水神功：圆满(99%，待破限)】【破限特性：武道通神，超凡入圣，真形化实。】【十三太保横练（破限）：铜皮铁骨，金血玉髓，天生神力。】【晨露沤肥术（破限）：沤肥养地，增速增产，植株变异。】【天魔解体大法（破限）：血肉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1a1GCC61xWfm-ggBcYGhdLg?pwd=29dr",
     downloadUrl: "/books/l_12165350__660420_修仙：从打破武道上限开始1-209章.txt",
     sourceUrl: "https://m.libahao2.com/book/12165350_660420/",
   },
+
 {
     id: "l_12230794__659458",
     slug: "从截胡李莫愁开始扬名诸天",
@@ -50484,9 +50687,11 @@ export const bookItems = [
     chapters: "1-87章",
     excerpt: "分家分得一条破船，竟能穿梭今古两界！一边是现代社会，另一边古武江湖，陆飞游走其间——拜师学武，让现代人瞧瞧内力的神奇，跨界带货，给高手们来点科技的震撼！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1j6vwhKBuMyQqfKObCMUi3Q?pwd=29dr",
     downloadUrl: "/books/l_12230794__659458_从截胡李莫愁开始扬名诸天1-87章.txt",
     sourceUrl: "https://m.libahao2.com/book/12230794_659458/",
   },
+
 {
     id: "l_12230803__659603",
     slug: "东方巨蛇！北美走蛟被直播啦！",
@@ -50500,9 +50705,11 @@ export const bookItems = [
     latestChapter: "第108章 抽取气运！重塑结点›",
     excerpt: "留学生秦风在密西西比河畔遭遇紫色闪电，再醒来时，已变成一条十几米的巨蛇——不，是蛟龙。逆鳞暗生，双角破颅，血脉深处的传承记忆苏醒：走蛟化龙，期限三个月。否则，他将彻底沦为一条没有理智的洪荒巨兽。可问题是——他藏在密西西比河底，偏偏被一群作死",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1FfrpZVjSyJ136UcIcccp1A?pwd=29dr",
     downloadUrl: "/books/l_12230803__659603_东方巨蛇！北美走蛟被直播啦！1-100章.txt",
     sourceUrl: "https://m.libahao2.com/book/12230803_659603/",
   },
+
 {
     id: "l_12230842__659457",
     slug: "苦境：每年一词条",
@@ -50515,9 +50722,11 @@ export const bookItems = [
     chapters: "1-92章",
     excerpt: "【走数值碾压、无敌流，前期慢热、后期横扫}你有天生剑/刀觉；我有万法通明；你有过目不忘，我有天道酬勤；你有五大神器，我有云销风雷；你有气双流·纳真神诀，我有生生不息；你有正邪不破之躯，我有仙邪不破之躯；···“现在这是我的世界。”剑凡看着苦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1YQK9NL0dX1q9IaE0hVox6Q?pwd=29dr",
     downloadUrl: "/books/l_12230842__659457_苦境：每年一词条1-92章.txt",
     sourceUrl: "https://m.libahao2.com/book/12230842_659457/",
   },
+
 {
     id: "l_12230857__659510",
     slug: "柯南：开局成为东京最强律师",
@@ -50530,9 +50739,11 @@ export const bookItems = [
     chapters: "1-177章",
     excerpt: "（又名：在柯南里觉醒伏诛赐死，ps：魔改版）琴酒：我本来开武装直升机扫射东京塔，找了新井律师，最后定成民用直升机观光误碰烟花开关，赔玻璃清洁费，驾照扣6分罚3万日元。伏特加：我本来非法持有枪械、参与地下交易，找了新井律师，最后定成漫展COS",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eHVDbTVztD8QkrJYFPckPQ?pwd=29dr",
     downloadUrl: "/books/l_12230857__659510_柯南：开局成为东京最强律师1-177章.txt",
     sourceUrl: "https://m.libahao2.com/book/12230857_659510/",
   },
+
 {
     id: "l_12296236__659816",
     slug: "成为最强冒险者，从手抽词条开始",
@@ -50545,9 +50756,11 @@ export const bookItems = [
     chapters: "1-75章",
     excerpt: "在地下城中探索，为了得到宝物而冒险，和危险的魔物战斗，最后满载而归，享受雷霆般喝彩。这就是冒险者的日常。穿越到异世界的乌恩，原本想借着能从接触的物品中抽取出技能或能力的天赋在冒险者这一行中站稳脚跟，却走上了和预想不同的，回收危险魔具的道路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_dTqxJQVRUKxHEy5qEatdQ?pwd=29dr",
     downloadUrl: "/books/l_12296236__659816_成为最强冒险者，从手抽词条开始1-75章.txt",
     sourceUrl: "https://m.libahao2.com/book/12296236_659816/",
   },
+
 {
     id: "l_12296239__659800",
     slug: "武帝爪牙，圣朝鹰犬",
@@ -50561,9 +50774,11 @@ export const bookItems = [
     latestChapter: "第60章 ：金阳玉佩！御命金牌！›",
     excerpt: "自大胤武帝诛灭六国，一统天阙灵洲，建立大胤圣朝，功盖千秋。圣朝十五年，武帝参悟长生之道，任命太子监国理政。然朝中奸佞四起，外有妖魔横行，更有前朝余孽作祟，意图搅弄风云祸乱天下。太子奉武帝之命成立绣衣司，把控朝堂监察天下。江平意外穿越到一个新",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/137vC8SyOyOk0hqK_IvRKSg?pwd=29dr",
     downloadUrl: "/books/l_12296239__659800_武帝爪牙，圣朝鹰犬1-60章.txt",
     sourceUrl: "https://m.libahao2.com/book/12296239_659800/",
   },
+
 {
     id: "l_12296398__659782",
     slug: "九君齐天",
@@ -50576,9 +50791,11 @@ export const bookItems = [
     chapters: "1-63章",
     excerpt: "人间浮沉，修身求真；一路坎坷，步步风云。登临巅峰时，方知诸天星河，在等我一人。大道倾颓日，天地翻覆间，看云端，有九君齐天。…………877103143普群3群（回答书名九君齐天即可自动加群）1087737804奶粉盟群(粉丝值100000以上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lDCEwf2ogIEIeH10sKp-lg?pwd=29dr",
     downloadUrl: "/books/l_12296398__659782_九君齐天1-63章.txt",
     sourceUrl: "https://m.libahao2.com/book/12296398_659782/",
   },
+
 {
     id: "l_12298957__4470",
     slug: "重生八零：我在长白山猎野味发家",
@@ -50592,9 +50809,11 @@ export const bookItems = [
     latestChapter: "第1084章 验收›",
     excerpt: "重生+年代+乡土+硬核训鹰狩猎文一觉醒来，精通训鹰的老猎户岳峰重生回了1980年长白山脚下的小山村。那一年，土地还没有承包到户，野生动物保护法还没有颁布，国家还没有禁猎禁枪。村里突然蹿起了个年轻的鹰猎人。岳峰从一架雀鹰开始起步，训鹞子，养大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/11-FEwG_nVeaZHEScLk-U8w?pwd=29dr",
     downloadUrl: "/books/l_12298957__4470_重生八零：我在长白山猎野味发家1-1087章.txt",
     sourceUrl: "https://m.libahao2.com/book/12298957_4470/",
   },
+
 {
     id: "l_12361747__661147",
     slug: "开局断亲，我带夫君赚亿万金",
@@ -50607,9 +50826,11 @@ export const bookItems = [
     chapters: "1-53章",
     excerpt: "【种田经商+大女主+科举+先婚后爱+双强】财阀千金苏秋水一睁眼发现自己穿成了一户农家妻子，面对娘家人的势利冷血，她决意断亲。新家又穷又苦？无妨，且看她这个现代商业天才，如何利用自身的知识发家致富。苏秋水鼓励夫君考科举，带着全家做买卖，开铺子",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1I9b5mBSnUKz7Sfk_w1xSuw?pwd=29dr",
     downloadUrl: "/books/l_12361747__661147_开局断亲，我带夫君赚亿万金1-53章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361747_661147/",
   },
+
 {
     id: "l_12361821__661119",
     slug: "主神但综漫，从村民玩坏火影开始",
@@ -50622,9 +50843,11 @@ export const bookItems = [
     chapters: "1-143章",
     excerpt: "别人在主神空间拼命求生，能自己穿越时空的周防司却想着怎么利用这个多元交汇平台，给自己的诸天之旅打个最好的基础。落地火影忍者，队友郑吒等人逃往避难所，周防司却醒悟自己村民身份后却毅然独走，带着木叶村民冲到四紫炎阵旁，以凡人之躯爆刷支线剧情，展",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qukmwIrgaZ0wwMOYxG2kng?pwd=29dr",
     downloadUrl: "/books/l_12361821__661119_主神但综漫，从村民玩坏火影开始1-143章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361821_661119/",
   },
+
 {
     id: "l_12361827__661148",
     slug: "和新同桌成为死对头开始",
@@ -50638,9 +50861,11 @@ export const bookItems = [
     latestChapter: "第66章 不好也加›",
     excerpt: "年级第一的许若好是校园里的传奇人物，她打扮另类，长期请假，上学的日子屈指可数，是学校里不少人学习的偶像。本以为日子会这样风轻云淡地过下去，直到她有了新同桌。这人长得好看，说话却很难听……“许若好，你给我找的位置呢?”“谢随安，你是少爷我也不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1j0iiya4Kb7qZ1SJuivO9yA?pwd=29dr",
     downloadUrl: "/books/l_12361827__661148_和新同桌成为死对头开始1-66章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361827_661148/",
   },
+
 {
     id: "l_12361853__661117",
     slug: "卡我合同我装唐，解约之后我称王",
@@ -50654,9 +50879,11 @@ export const bookItems = [
     latestChapter: "第15章 醉翁之意不在酒›",
     excerpt: "S12对战T1的八强赛上，RNG动用秘密武器，让终极天才新人许锋打首发中单。此前对战T1的训练赛中，许锋乱杀faker未尝一败，给了RNG管理层莫大的希望。本以为可以三比零轻松送走T1，然而......朱开：许锋，你这波团为什么不开大啊？“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14QtJg3QLOCkKMtkFAZhO4Q?pwd=29dr",
     downloadUrl: "/books/l_12361853__661117_卡我合同我装唐，解约之后我称王1-15章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361853_661117/",
   },
+
 {
     id: "l_12361887__661075",
     slug: "闻妄观道",
@@ -50669,9 +50896,11 @@ export const bookItems = [
     chapters: "1-40章",
     excerpt: "世人言语，有真有妄，心口万念，未必形于口舌。假话尚且可知，真话防不胜防。少年江叙白。识官营，吃玄果；解横刀，缴甲胄。降世以来便有非人之能。闻人言语，无事便真，预警则假。三年戍边战功。卸甲归田时，荣登仙路日。闻妄观道，趋吉避凶。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nt8ho8L8TaXACLnUC8EcOQ?pwd=29dr",
     downloadUrl: "/books/l_12361887__661075_闻妄观道1-40章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361887_661075/",
   },
+
 {
     id: "l_12361892__661216",
     slug: "东京：妹妹的养成方法",
@@ -50684,9 +50913,11 @@ export const bookItems = [
     chapters: "1-37章",
     excerpt: "重生在东京，十文字悟有一个系统，只要帮妹妹达成心愿，就可以获得奖励，不管是技能还是天赋，甚至还有异能。心灵感应、百发百中、语言精通、料理、格斗术、兽语......但他并没有那么多妹妹。不过这不是问题，干妹妹也是妹妹，只要不断认妹妹就行了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1a32MRGRSVyLRlAIEVrRC5g?pwd=29dr",
     downloadUrl: "/books/l_12361892__661216_东京：妹妹的养成方法1-37章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361892_661216/",
   },
+
 {
     id: "l_12361893__661232",
     slug: "登月",
@@ -50700,9 +50931,11 @@ export const bookItems = [
     latestChapter: "第22章 无限的轨迹›",
     excerpt: "浓雾终年笼罩王国，蒸汽机的轰鸣响彻大地。人们崇拜神秘学，信仰着自古流传下来的双月传说。黎默曾是公认的天才，却在觉醒记忆后失去了神秘学感知，沦为雾都弃儿。在这个连内燃机都未曾普及的年代，一个失去了魔法的普通人，平静地抬头看向星空。目标：三十八",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jeCmrtCiZBnKLhz5MbFyRQ?pwd=29dr",
     downloadUrl: "/books/l_12361893__661232_登月1-22章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361893_661232/",
   },
+
 {
     id: "l_12361901__661104",
     slug: "她们都是穿越者！",
@@ -50716,9 +50949,11 @@ export const bookItems = [
     latestChapter: "第112章 摄影的关键就是模特长得美›",
     excerpt: "某天，方鸣突然发现同桌林晓晓有点不对劲。大体表现为精神混乱、记忆与现实出现了严重偏差、并且还口口声声喊他“老公”。这给方鸣带来了许多困扰。好在经过不懈努力，问题终于得到了解决。但很快他就意识到事情远没有这么简单。因为……“方鸣！她是谁？！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12cAz-IE-0WRxJHQSsWssPg?pwd=29dr",
     downloadUrl: "/books/l_12361901__661104_她们都是穿越者！1-113章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361901_661104/",
   },
+
 {
     id: "l_12361917__661105",
     slug: "冒险者放置成神",
@@ -50732,9 +50967,11 @@ export const bookItems = [
     latestChapter: "第36章 共浴›",
     excerpt: "穿越到遍地亚人、冒险者和魔物的奇幻世界。霍恩本来只想过平静的生活，广交各个种族的小姐姐，却被逼着当冒险者还债。还好他获得了一款放置游戏，放置就能获取收益！……【放置日志】【地点：史莱姆洞窟（F级）】【时长：8小时】【铜币+60！】【史莱姆黏",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/16wqD7pjrppDc6L4tv1A0Jw?pwd=29dr",
     downloadUrl: "/books/l_12361917__661105_冒险者放置成神1-36章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361917_661105/",
   },
+
 {
     id: "l_12361923__661142",
     slug: "六扇门小厨娘：我只会做饭，不会破案啊",
@@ -50748,9 +50985,11 @@ export const bookItems = [
     latestChapter: "第59章 字灵微笑案（十九）",
     excerpt: "古风+美食+探案+轻悬疑+群像+单元剧+众生百态宁云君，一代厨神，没想到自己被毒死了！在失去意识的前一秒，她一口亲上死对头的唇，要死那就一起死！等再次睁眼，发现自己身处茅草屋之中，床边的娃娃正在喊饿。后来她去六扇门应聘厨役。啃了口死者留下的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1WdKqWKceVOENbDZ5tlEf6g?pwd=29dr",
     downloadUrl: "/books/l_12361923__661142_六扇门小厨娘：我只会做饭，不会破案啊1-81章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361923_661142/",
   },
+
 {
     id: "l_12361937__661175",
     slug: "让你当驸马，你劝公主登基？",
@@ -50764,9 +51003,11 @@ export const bookItems = [
     latestChapter: "第18章 烈火焚身！大妖化形！›",
     excerpt: "大争之世，妖蛮横行，巫魔作乱，人如草芥，名将辈出！有佛坐镇西陆莲花天下，普度众生；有圣人执掌浩然中原，立人族道统。京都永安城，一代天骄永安公主试炼时不慎走火入魔，修为散尽，惨遭毁容……神武侯府，少年文宫碎裂，无法修行……直至，陛下一旨婚书，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Xe4wkFj3BxRcGcpAoed5DA?pwd=29dr",
     downloadUrl: "/books/l_12361937__661175_让你当驸马，你劝公主登基？1-18章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361937_661175/",
   },
+
 {
     id: "l_12361941__661239",
     slug: "从空岛猎人开始冒险",
@@ -50780,9 +51021,11 @@ export const bookItems = [
     latestChapter: "第28章 临行前›",
     excerpt: "大地沉没，世界只剩下一座座空岛。幸存的人类生活在天空上，面临强大的怪物威胁，组建了空岛猎人协会。驾驶飞艇探索未知空域，寻找远古遗迹的宝藏。一个属于冒险的大时代来临！林维希望能通过猎人考核，成为一名正式猎人，改变贫困的生活。还好，他觉醒了异能",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rCKG4Qom-C_yOAA-VXTDqg?pwd=29dr",
     downloadUrl: "/books/l_12361941__661239_从空岛猎人开始冒险1-28章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361941_661239/",
   },
+
 {
     id: "l_12361959__661204",
     slug: "民国武神，来自仙界",
@@ -50795,9 +51038,11 @@ export const bookItems = [
     chapters: "1-22章",
     excerpt: "【穿越到了修仙界，可惜一穷二白，天赋平庸。】黄庭：“转机在哪里？”【二次穿越到东洲新华民国，军阀混战，妖魔作乱，列强横行。】黄庭：“画风差别有些大。”【自由往来两界，资源错位，互补有无。】黄庭：“这里面有机会……”【修仙界道法和民国武道一起",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1BbrnRRTcMGRKuROCwBUexg?pwd=29dr",
     downloadUrl: "/books/l_12361959__661204_民国武神，来自仙界1-22章.txt",
     sourceUrl: "https://m.libahao2.com/book/12361959_661204/",
   },
+
 {
     id: "l_12427266__661386",
     slug: "1899不当太监就去美利坚",
@@ -50811,9 +51056,11 @@ export const bookItems = [
     latestChapter: "第167章 规模›",
     excerpt: "后来，李卓凡回想自己这辈子，最光辉的事迹：不是成为唐人街的电力大王；也不是纽约商会的洋人排队给他敬酒；更不是那些剪了辫子的新青年喊他“李先生大义”。而是光绪二十五年秋天那个晚上，他没当太监，去了美利坚，这是一个改变了他和这片土地命运的选择。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15BEowjX_lS45XlbTLoU0Aw?pwd=29dr",
     downloadUrl: "/books/l_12427266__661386_1899不当太监就去美利坚1-167章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427266_661386/",
   },
+
 {
     id: "l_12427271__661466",
     slug: "绝世唐门：霍雨浩的重启人生",
@@ -50826,9 +51073,11 @@ export const bookItems = [
     chapters: "1-108章",
     excerpt: "春秋蝉秋冬蝉傻傻分不清楚，这是一个原生雨浩重生归来弥补遗憾的故事飞升神界后的某个夜晚，霍雨浩脑海中莫名出现了一本《绝世唐门》。以局外人视角，看完自己被操控、被利用、挚爱被迫撕裂灵魂的一生，他突然有了一个疯狂的想法。什么神王布局？什么万年大计",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1knrVf7Kh0nBSIvwRSlMKOQ?pwd=29dr",
     downloadUrl: "/books/l_12427271__661466_绝世唐门：霍雨浩的重启人生1-108章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427271_661466/",
   },
+
 {
     id: "l_12427284__661483",
     slug: "铠甲：从火铠传人到天道帝皇",
@@ -50841,9 +51090,11 @@ export const bookItems = [
     chapters: "1-44章",
     excerpt: "穿越异能兽入侵的世界，李昭珩的身份是当世火凯传人，手握火影石，为官方铠甲小队首席。本以为这就已经是爽文剧本，却没想到他还额外觉醒了两个天赋！【天赋一：左拳伤害高：你的左拳伤害会比右拳稍微高一些。】【天赋二：右拳高伤害：你右拳造成的伤害会比左",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Gsx5ggs1yTBPslzhHUlOKQ?pwd=29dr",
     downloadUrl: "/books/l_12427284__661483_铠甲：从火铠传人到天道帝皇1-44章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427284_661483/",
   },
+
 {
     id: "l_12427310__661320",
     slug: "巫师：什么叫学者系猎魔人？",
@@ -50856,9 +51107,11 @@ export const bookItems = [
     chapters: "1-27章",
     excerpt: "（没玩过游戏，也不会影响阅读体验，作者会尽量写得详细一些）巫师世界，纪元1272年，一个来自于蓝星的灵魂进入了永恒之火的牢房，占据了囚犯塞维恩的身躯。他被父亲强行灌下青草药剂，被女巫猎人抓入牢房，面临着被烧死的命运。幸好改良版系统面板激活，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ppliku4GHgTsCo-0UYp8OQ?pwd=29dr",
     downloadUrl: "/books/l_12427310__661320_巫师：什么叫学者系猎魔人？1-27章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427310_661320/",
   },
+
 {
     id: "l_12427330__661390",
     slug: "从百病缠身到长生仙尊",
@@ -50871,9 +51124,11 @@ export const bookItems = [
     chapters: "1-162章",
     excerpt: "觉醒前世记忆的顾辰，发现自己所处的修仙界，似乎与想象中的不太一样。此界修士在吸纳灵气，炼化为自身修为时，体内会产生名为天秽的浊气，不断侵蚀着修士的肉身。无论是修炼功法术法，还是服用各类丹药，甚至是突破自身境界，都会遭到天道反噬，在体内产生大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Qzlj84hslg_lrttjMUJiCw?pwd=29dr",
     downloadUrl: "/books/l_12427330__661390_从百病缠身到长生仙尊1-162章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427330_661390/",
   },
+
 {
     id: "l_12427382__661453",
     slug: "中世纪：这家族来自东方",
@@ -50886,9 +51141,11 @@ export const bookItems = [
     chapters: "1-31章",
     excerpt: "身穿中世纪意大利，娶妻生子，建立家族。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1SJTgBs97WpbZFYUh0PPIrw?pwd=29dr",
     downloadUrl: "/books/l_12427382__661453_中世纪：这家族来自东方1-31章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427382_661453/",
   },
+
 {
     id: "l_12427495__661460",
     slug: "每日情报：我老婆居然是侯府千金",
@@ -50902,9 +51159,11 @@ export const bookItems = [
     latestChapter: "第17章 差点就被野猪拱了›",
     excerpt: "现代青年秦川，穿越到一个类似五代十国的历史时空，成为一个吃不饱饭的底层人，觉醒每日情报系统。靠着系统情报，秦川带领家人在乱世中求生。某一天，他意外发现，每天给自己暖被窝的老婆，居然是侯府千金！当狸猫皇太子的戏码发生在身边，当老婆的生命受到威",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Z7Ce2_-axFUb-PaqbOgosQ?pwd=29dr",
     downloadUrl: "/books/l_12427495__661460_每日情报：我老婆居然是侯府千金1-17章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427495_661460/",
   },
+
 {
     id: "l_12427505__661429",
     slug: "长江口渡劫成神龙，轰动全球",
@@ -50918,9 +51177,11 @@ export const bookItems = [
     latestChapter: "第43章 九九归一›",
     excerpt: "穿越到五千年前，龙寻变成一条小黑蛇。好在激活系统，每沉睡一次就能进化一次。从蛇到蟒、再到蚺、最后到蛟龙，龙寻最后一次沉睡在长江入海口。这一睡就是千年，当再度醒来时已到渡劫化真龙之日。魔都上空乌云密布，长江无数奇珍异怪顺流而下，东海数不清远古",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1hDjnWqb9Zv495O_lg5g8Ww?pwd=29dr",
     downloadUrl: "/books/l_12427505__661429_长江口渡劫成神龙，轰动全球1-43章.txt",
     sourceUrl: "https://m.libahao2.com/book/12427505_661429/",
   },
+
 {
     id: "l_12492825__660539",
     slug: "从一座小镇开始的领主时代",
@@ -50934,10 +51195,11 @@ export const bookItems = [
     latestChapter: "第187章 黄金高阶？›",
     excerpt: "【西幻＋种田＋剑与魔法】从地球ol通关的罗兰，再次睁眼来到了一个充满奇幻的世界，这里有着会斗气的骑士，会魔法的法师，还有着精灵矮人兽人等各种奇异的种族。依靠着系统赠送的新手大礼包买下一块北方荒野的领地，罗兰就此开启了自己的领主之路。开荒、种",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.xunlei.com/s/VP21z1UuaMInReHYCDQiGjVAA1?pwd=j2sy",
+    readUrl: "https://pan.baidu.com/s/1bJYhTkB4wCIHK6KBXFPD7w?pwd=29dr",
     downloadUrl: "/books/l_12492825__660539_从一座小镇开始的领主时代1-187章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492825_660539/",
   },
+
 {
     id: "l_12492828__660587",
     slug: "四合院：刘海中的进步之路",
@@ -50951,9 +51213,11 @@ export const bookItems = [
     latestChapter: "第120章 杨翠兰领证结婚，崩溃的易中海›",
     excerpt: "刘大海很蒙圈，自己还没好好享受退休生活怎么就穿越了，而且是穿越到了1961年的时候。不仅如此，老伴还给了自己一个噩耗，最疼爱的大儿子竟然刚结完婚就跑路了。幸好还有两个儿子，还激活了声望值系统。院里的禽兽还敢蹦跶，看刘海中怎么收拾众禽。且看刘",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/17WcjR-lUcvnBGO8r4I5ocg?pwd=29dr",
     downloadUrl: "/books/l_12492828__660587_四合院：刘海中的进步之路1-120章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492828_660587/",
   },
+
 {
     id: "l_12492836__660712",
     slug: "我的美德没有上限！",
@@ -50967,9 +51231,11 @@ export const bookItems = [
     latestChapter: "第38章 银发少女不敢相信›",
     excerpt: "“叔叔寄给了我一封信，让我回去继承我祖上的土地和财产，好耶，可以去星露谷种田钓鱼了……”“诶？！亡灵，猪人，蘑菇人，深潜者……这是哪门子的家产？！”……【坚定】、【无畏】、【专注】、【勇猛】、【振奋】“我永不妥协！““我们永不妥协！”……“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XeYgbqRWznndlgEWvUkBdg?pwd=29dr",
     downloadUrl: "/books/l_12492836__660712_我的美德没有上限！1-38章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492836_660712/",
   },
+
 {
     id: "l_12492844__660584",
     slug: "[诡秘之主]邪神养成模拟器",
@@ -50983,9 +51249,11 @@ export const bookItems = [
     latestChapter: "第56章 邪恶神明›",
     excerpt: "某天，普通社畜周明瑞的手机上出现了一款游戏——《邪神模拟器》。想当然认为是自己不小心下载后，周明瑞在好奇心的驱使下点开了图标。经过简单的捏脸和新手教程后，他领取到了第一个主线任务：【伟大的、崇高的、仁慈的“愚者”，请您为自己寻找第一个信徒。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Fe28i0LZ0QlOlKcyDX8jpw?pwd=29dr",
     downloadUrl: "/books/l_12492844__660584_[诡秘之主]邪神养成模拟器1-56章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492844_660584/",
   },
+
 {
     id: "l_12492855__660697",
     slug: "从努力修炼开始横推一切",
@@ -50999,9 +51267,11 @@ export const bookItems = [
     latestChapter: "第43章 第三式腾展（求追读！）›",
     excerpt: "大宋末年，王朝崩塌，山河破碎。诸侯割据，门派林立，帮派征伐不休，魔门暗处作乱，更兼天灾人祸，黎民流离失所，饿殍遍野。比人祸天灾更绝望的，是妖魔。世人习武求存，拳脚难伤妖躯，倾尽一门一派也不过是妖魔口中一餐。武道之路已走到尽头，天下苍生仰望苍",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15tUGxtm-qkvhhJwHTitBtw?pwd=29dr",
     downloadUrl: "/books/l_12492855__660697_从努力修炼开始横推一切1-43章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492855_660697/",
   },
+
 {
     id: "l_12492867__660638",
     slug: "这个地下城的骷髅很凶",
@@ -51015,9 +51285,11 @@ export const bookItems = [
     latestChapter: "第39章 骷髅怪不再坐以待毙›",
     excerpt: "徐阳莫名其妙转生成了骷髅怪，在地下城帮无恶不作的魔王镇守大门。各种勇者小队常年不间断的讨伐魔王，徐阳的骨头作为勇者们的勇者之证撒遍了地下城每个角落。后来魔王决定给他加点担子，将骷髅怪外派到地下城里去，可一个老弱病残占了四个的骷髅怪怎么和魔物",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QLbrRbpxT_ChJ7SP9xF3YQ?pwd=29dr",
     downloadUrl: "/books/l_12492867__660638_这个地下城的骷髅很凶1-39章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492867_660638/",
   },
+
 {
     id: "l_12492868__660718",
     slug: "半岛：成了经纪人也要好好努力哦",
@@ -51031,9 +51303,11 @@ export const bookItems = [
     latestChapter: "第64章 商场偶遇大肥兔›",
     excerpt: "起初，重回2021年的林白成为一名经纪人，拥有系统的他誓要将Aespa推上顶流，但她们一个胸无大志、一个心机、一个小透明、一个乐天派。决定摆正她们性格的林白发现，怎么越摆越歪了，而且往着不可控的方向而去。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1TUDy1e12Nlxy7t3q_fnjTg?pwd=29dr",
     downloadUrl: "/books/l_12492868__660718_半岛：成了经纪人也要好好努力哦1-64章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492868_660718/",
   },
+
 {
     id: "l_12492894__660559",
     slug: "综网：从心之钢开始的武僧",
@@ -51047,9 +51321,11 @@ export const bookItems = [
     latestChapter: "第177章 新形态解锁，俺寻思这能行›",
     excerpt: "【无尽多元宇宙综合维度游戏网络平台连接中……（以下简称综网）】【当前版号为：命痕行者的无限旅途】【在该版本下开放特殊命痕体系，玩家可通过完成特定命运任务或突破自我来获得命痕】江诗受到了来自综网的青睐，光荣的转职成为了一名武僧，更是获得了无限",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1dRM6rv8W8CaUIDvlpZrJuw?pwd=29dr",
     downloadUrl: "/books/l_12492894__660559_综网：从心之钢开始的武僧1-177章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492894_660559/",
   },
+
 {
     id: "l_12492901__660732",
     slug: "干了这瓶魔女药剂！",
@@ -51063,9 +51339,11 @@ export const bookItems = [
     latestChapter: "第173章 预言截止›",
     excerpt: "作为异世界来客，艾莉丝可以适应人人避之不及的魔女药剂，每喝下一瓶，就获得一种凡人难以获得的魔女特性。“帝国正在围剿魔女？很可惜，当今女帝和我亲着呢！”赶来围剿的魔法师们感觉帝国的天黑了。就在众人绝望之际，天空中盘旋的金龙化作金瞳少女落到地面",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1pWnVaLdebQakfK9RcYbp8Q?pwd=29dr",
     downloadUrl: "/books/l_12492901__660732_干了这瓶魔女药剂！1-174章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492901_660732/",
   },
+
 {
     id: "l_12492918__660685",
     slug: "战锤：大叛乱前夕，我提前跑路",
@@ -51078,9 +51356,11 @@ export const bookItems = [
     chapters: "1-33章",
     excerpt: "土木牛马下班路上，为了救一个即将被大运创飞的小女孩，然后穿越来到了战锤。可是，穿越就穿越吧，毕竟他穿成了佩图拉博，一个原体，这开局怎么着也不算差了。就在佩图拉博正想着扭转原本那拧巴一生的时候，伊斯塔万三号已结束是什么意思?佩图拉博看着地表那",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1gZ4i_nYzVINDQGWOIc8jYw?pwd=29dr",
     downloadUrl: "/books/l_12492918__660685_战锤：大叛乱前夕，我提前跑路1-33章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492918_660685/",
   },
+
 {
     id: "l_12492936__660514",
     slug: "七零，不要系统我独自涅槃重生",
@@ -51094,9 +51374,11 @@ export const bookItems = [
     latestChapter: "第68章 老王太太要活不起了",
     excerpt: "经历了九世轮回，王小芳次次被系统操控，最终落得家破人亡、错嫁渣男的下场。第十世她系统觉醒在黑省小河村，她决定撕烂系统绑定，绝不再做傀儡。极品亲戚要吸血？她手撕偏心老太太，踹开吸血鬼，守住自家家底；风灾要毁家？她提前备战，苫房储粮建挡风墙；渣",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1mXcC28zDpK2uqJkOHeoXEw?pwd=29dr",
     downloadUrl: "/books/l_12492936__660514_七零，不要系统我独自涅槃重生1-146章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492936_660514/",
   },
+
 {
     id: "l_12492943__660562",
     slug: "我的进度条可是能突破天际的呀！",
@@ -51110,9 +51392,11 @@ export const bookItems = [
     latestChapter: "第184章 魔潮？还是好好挣扎吧›",
     excerpt: "李泽很自豪，他是星联的骄傲，是最优秀的驾驶员之一，经过重重筛选，站在了宇宙的边界，替人类探索位置。可他发现，自己的副手突然叫自己是生化人，是工具。而他的对面，宇宙的边际则有一个神秘的雾洞，以及一位只身站立虚空的老人。而雾洞后面，似乎连通着全",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jCKlY0BJ_337Q_waomPATQ?pwd=29dr",
     downloadUrl: "/books/l_12492943__660562_我的进度条可是能突破天际的呀！1-184章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492943_660562/",
   },
+
 {
     id: "l_12492967__660688",
     slug: "和我的光速拳说去吧",
@@ -51125,9 +51409,11 @@ export const bookItems = [
     chapters: "1-59章",
     excerpt: "妖怪？神明？恶魔？仙人？灭世之灾？什么魑魅魍魉，和我的光速拳说去吧！二手穿越者徐泉在穿越成圣斗士又在神战中变成炮灰死去，才发现自己再次穿越到了另一个陌生又熟悉的世界。自此，光速拳开始闪烁在诸天万界之中。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LSBi1uZVUmrDlpxIpaLDLA?pwd=29dr",
     downloadUrl: "/books/l_12492967__660688_和我的光速拳说去吧1-59章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492967_660688/",
   },
+
 {
     id: "l_12492984__660513",
     slug: "流放荒星？恶雌被五个凶兽娇宠",
@@ -51140,9 +51426,11 @@ export const bookItems = [
     chapters: "1-86章",
     excerpt: "苏梨穿成了星际最惨的炮灰。没有精神力，被养妹算计丢进原始星，给五个凶兽当补偿雌性？原主动辄打骂羞辱兽夫们，不仅把人鱼兽夫丢进鳄鱼群当诱饵，甚至要活烤了蛇兽当晚饭，成功把自己作死苏梨睁眼，就是几大巨兽围着她拱的画面更要命的是，蛇兽夫真被烤了，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Oq7_CqoVASTSMYmHgxAdLw?pwd=29dr",
     downloadUrl: "/books/l_12492984__660513_流放荒星？恶雌被五个凶兽娇宠1-86章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492984_660513/",
   },
+
 {
     id: "l_12492999__660694",
     slug: "镇妖模拟器",
@@ -51156,9 +51444,11 @@ export const bookItems = [
     latestChapter: "第7章 账要算完›",
     excerpt: "穿越成镇妖校尉，顾城开局就被挂在房梁上。原身胆小如鼠，勾结黑风山妖怪，每月送银送粮送死囚，只为保自己一条命。如今朝廷巡查使将至，事败在即，原身直接上吊了事。顾城刚睁眼，就成了勾结妖魔的铁案主犯——剥皮抽筋、挫骨扬灰的那种。好消息是，他觉醒了",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1IOBOA-KJpUR9oh3aV29a2w?pwd=29dr",
     downloadUrl: "/books/l_12492999__660694_镇妖模拟器1-17章.txt",
     sourceUrl: "https://m.libahao2.com/book/12492999_660694/",
   },
+
 {
     id: "l_12493000__660518",
     slug: "重生嫁瘸王？系统逼我疯狂攒经验值",
@@ -51172,9 +51462,11 @@ export const bookItems = [
     latestChapter: "第118章 前往镜湖›",
     excerpt: "沈知宁前世错信渣男，落得白绫魂归虚无。再睁眼，竟重回过去，一切悲剧未发生时。叮！金钥匙系统绑定。她疯狂做任务、攒经验只为回现代。庶妹伪善？撕！渣男荣王？拒！为避免重蹈覆辙，她放弃荣华婚约，反手求嫁瘸腿落魄王爷。揭开盖头，男人扣住她手腕低笑：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eZyFsD0Ku1IGMQPHV3NYaQ?pwd=29dr",
     downloadUrl: "/books/l_12493000__660518_重生嫁瘸王？系统逼我疯狂攒经验值1-118章.txt",
     sourceUrl: "https://m.libahao2.com/book/12493000_660518/",
   },
+
 {
     id: "l_12493005__660598",
     slug: "凡人：我的物品有升级面板",
@@ -51187,9 +51479,11 @@ export const bookItems = [
     chapters: "1-147章",
     excerpt: "李安澜穿越凡人修仙传世界，觉醒了升级万物的金手指。【物品：黄龙丹（可升级）】【升级效果：药效提升四倍】【升级条件：下品灵石一枚，草木灰五十斤】李安澜：“系统，让我看看你的极限！”下品法器→极品法器→法宝→通天灵宝......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/15bzK8vCuHUt5zUF8CaiFTw?pwd=29dr",
     downloadUrl: "/books/l_12493005__660598_凡人：我的物品有升级面板1-147章.txt",
     sourceUrl: "https://m.libahao2.com/book/12493005_660598/",
   },
+
 {
     id: "l_12493021__660599",
     slug: "穿越曹彰：从截胡甄宓开始夺嫡",
@@ -51202,9 +51496,11 @@ export const bookItems = [
     chapters: "1-65章",
     excerpt: "穿越成曹彰，进入邺城，从截胡甄宓开始夺嫡。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Pjo11CuzJ4FYbTlm8VDI5Q?pwd=29dr",
     downloadUrl: "/books/l_12493021__660599_穿越曹彰：从截胡甄宓开始夺嫡1-65章.txt",
     sourceUrl: "https://m.libahao2.com/book/12493021_660599/",
   },
+
 {
     id: "l_12493052__660581",
     slug: "1900：学霸的物理大一统之路",
@@ -51217,9 +51513,11 @@ export const bookItems = [
     chapters: "1-181章",
     excerpt: "1900年，上海租界河南路苏家降生一子苏衡。八岁便展露出惊世的数理天赋，苦读中国古数典籍与泰西算学。清廷飘摇，洋学垄断，欧美物理界群星璀璨，爱因斯坦、玻尔名动天下。少年自十里洋场启程，远赴欧洲深造，拜师洛伦兹，以数学为基石深耕物理。最终独创",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JSldwvSKTwxpy0RUtd_lnw?pwd=29dr",
     downloadUrl: "/books/l_12493052__660581_1900：学霸的物理大一统之路1-181章.txt",
     sourceUrl: "https://m.libahao2.com/book/12493052_660581/",
   },
+
 {
     id: "l_12495376__5291",
     slug: "网游之王者再战",
@@ -51232,9 +51530,11 @@ export const bookItems = [
     chapters: "1-2785章",
     excerpt: "昔日王者，如今野人，三年空白，落伍他人甚多，却无法掩埋自身本有的光与热，游戏内外，等待他重返荣耀，找回曾属自己的游戏坦途。昔日少爷，如今村夫，三年遁走，埋没多少尘事，却无法摆脱自身应有的缘与命，漫漫人生，等待他重新站起，突破束缚自己的万千桎",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_3KtVBhym1ORVw_VkmeHNA?pwd=29dr",
     downloadUrl: "/books/l_12495376__5291_网游之王者再战1-2785章.txt",
     sourceUrl: "https://m.libahao2.com/book/12495376_5291/",
   },
+
 {
     id: "l_12558351__660826",
     slug: "大周世祖",
@@ -51247,9 +51547,11 @@ export const bookItems = [
     chapters: "1-26章",
     excerpt: "残唐坠绪，奸谋炽、萧墙祸结。枭雄伺、九重虚位，篡谋频迭。扫尽赵宋孱弱弊，荡清寰宇滔天孽。驭雷霆、策马入京华，补天阙。临宸极，通天彻。修王道，除灾劫。振中原浩气，千秋雄烈。光复燕云销虏患，廓清四海烽烟绝。自今朝、五代罢干戈，风威冽。故事要从乾",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ghoqS9JsHLwSZ2psmVWnWQ?pwd=29dr",
     downloadUrl: "/books/l_12558351__660826_大周世祖1-26章.txt",
     sourceUrl: "https://m.libahao2.com/book/12558351_660826/",
   },
+
 {
     id: "l_12558448__660909",
     slug: "凡人：我真不是韩老魔",
@@ -51262,9 +51564,11 @@ export const bookItems = [
     chapters: "1-61章",
     excerpt: "韩立结婴，举世皆惊！看着韩立结婴成为韩天尊，躲在落云宗修炼的了二百多年的王渊笑开了花。王渊：终于可以解锁新副本了。韩老魔，你知道我这些年是怎么过的么？你知道么？就在王渊幻想美好未来的时候，一大群女修冲到了落云宗。其中还有元婴女修士。看到如此",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XazBxAZvAKWVvA6hOm1MWQ?pwd=29dr",
     downloadUrl: "/books/l_12558448__660909_凡人：我真不是韩老魔1-61章.txt",
     sourceUrl: "https://m.libahao2.com/book/12558448_660909/",
   },
+
 {
     id: "l_12558475__660754",
     slug: "同时穿越，打造人设弄假成真！",
@@ -51278,9 +51582,11 @@ export const bookItems = [
     latestChapter: "第183章 无天无地之所（4k）›",
     excerpt: "贾修和无数个自己同时穿越。共享特性、共享记忆，甚至是……共享人气。他同时穿越到的无数世界，竟然都是尚未播出，或是正在播出的番剧世界，而观众们对他的关注，都能转化为人气！只要拥有足够的人气，就能兑换永久的、观众认为他拥有的能力！时间暂停、空间",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JBgB6Yl5lUGV-r2Kw4E57Q?pwd=29dr",
     downloadUrl: "/books/l_12558475__660754_同时穿越，打造人设弄假成真！1-183章.txt",
     sourceUrl: "https://m.libahao2.com/book/12558475_660754/",
   },
+
 {
     id: "l_12558486__660931",
     slug: "东京：我的问题来自身边的少女",
@@ -51294,9 +51600,11 @@ export const bookItems = [
     latestChapter: "第125章 新学期的换座位，是上天制造心动的距离›",
     excerpt: "【校园恋爱】【微重力】【轻胃疼】清水莲原本以为糟糕的日子会一直持续下去。却没想到坚持了十年学期第一后，生活迎来了转机。只要正确回答系统的问题，就能获得奖励！果然，我的青春恋爱物语一定有问题。等等，怎么是这个问题？【提问：小池千穗今天的**是",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RGZLDAEOmkoossc-TuZbWQ?pwd=29dr",
     downloadUrl: "/books/l_12558486__660931_东京：我的问题来自身边的少女1-126章.txt",
     sourceUrl: "https://m.libahao2.com/book/12558486_660931/",
   },
+
 {
     id: "l_12558556__660839",
     slug: "从修仙游戏开始高武成神",
@@ -51310,9 +51618,11 @@ export const bookItems = [
     latestChapter: "第198章 太初宇宙›",
     excerpt: "本书又名：《从杀蟑螂开始证道无敌》《高武后宫日常》《高武的我实在太稳健了》《一天一门功法圆满》《我有一座白玉京》「高位截瘫写作不易，老板们点进来看看吧～」……高武世界的许浪得到一个修仙游戏系统。【蟑螂怪已入侵村庄，肆意糟蹋食物，伤害百姓，请",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1aGgv-x7vQ_oL7AK0DBrXBA?pwd=29dr",
     downloadUrl: "/books/l_12558556__660839_从修仙游戏开始高武成神1-198章.txt",
     sourceUrl: "https://m.libahao2.com/book/12558556_660839/",
   },
+
 {
     id: "l_13085266__28047",
     slug: "抗战：重整山河",
@@ -51325,9 +51635,11 @@ export const bookItems = [
     chapters: "1-799章",
     excerpt: "退役特战兵王罗四海，意外回到淞沪会战的战场上，结识一群志同道合的伙伴儿，组建山河特战小队，杀日寇，救黎民，转战大半个中国，成为日寇闻风丧胆的罗阎王。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cprvLxosD9LTCySC-OoPcg?pwd=29dr",
     downloadUrl: "/books/l_13085266__28047_抗战：重整山河1-799章.txt",
     sourceUrl: "https://m.libahao2.com/book/13085266_28047/",
   },
+
 {
     id: "l_13412895__26203",
     slug: "三国争霸之乱世召唤",
@@ -51340,9 +51652,11 @@ export const bookItems = [
     chapters: "1-1746章",
     excerpt: "刘章穿越到三国时期成为刘璋，却发现这个三国有些不一样！猛将辈出，秘籍功法，神仙乱斗。吕布的单手十八挑，一戟挑天下！项羽的霸王十三式，一戟霸万古！赵云的百鸟朝凤枪，一枪定乾坤！……手握神战召唤系统的刘璋，在风云乱世，看群雄逐鹿！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rc2JKf1OSGoRUQFdVOxbKw?pwd=29dr",
     downloadUrl: "/books/l_13412895__26203_三国争霸之乱世召唤1-1746章.txt",
     sourceUrl: "https://m.libahao2.com/book/13412895_26203/",
   },
+
 {
     id: "l_13740727__31697",
     slug: "陆逢时",
@@ -51356,9 +51670,11 @@ export const bookItems = [
     latestChapter: "第1014章 废物›",
     excerpt: "一睁眼，顶级风水师陆逢时，成了北宋山沟里声名狼藉的“陆逢时”——一个刚被私奔姘头砸死的肥妇！额角染血，渣男狞笑犹在耳：“肥猪！图你钱罢了！”银簪封喉，夺财索命！雷霆手段，先送豺狼见阎罗！然生机之下，杀机四伏：冷面举人夫君目光如刃，刺探她骤变",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1rLdsKBK4wPcDqG4_DlXalw?pwd=29dr",
     downloadUrl: "/books/l_13740727__31697_陆逢时1-1014章.txt",
     sourceUrl: "https://m.libahao2.com/book/13740727_31697/",
   },
+
 {
     id: "l_14658613__423417",
     slug: "综漫：从精灵世界开始无敌",
@@ -51371,9 +51687,11 @@ export const bookItems = [
     chapters: "1-894章",
     excerpt: "“你是说，你看到小智一拳打碎了收藏家的飞船？”“是的。”“你是说，小智举着肯泰罗说着：创死它！肯泰罗！就把比夏斯的机甲给破坏了？”“没错。”“你是说，你看到小智把巨大大岩蛇当武器用把对面的宝可梦猎人飞行器全打下来了？”“肯定啊。”第二天，在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1jYXoQaJSN1vqtODVq0Qd9w?pwd=29dr",
     downloadUrl: "/books/l_14658613__423417_综漫：从精灵世界开始无敌1-894章.txt",
     sourceUrl: "https://m.libahao2.com/book/14658613_423417/",
   },
+
 {
     id: "l_15836120__613159",
     slug: "维度魔神成长日记，从龙族开始",
@@ -51386,9 +51704,11 @@ export const bookItems = [
     chapters: "1-440章",
     excerpt: "人在无边混沌，刚成维度魔神。单体起步，上限无限多元的顶级强者，本以为可以过上不吃牛肉的生活，但是一回神发现自身居然维度空间只有一乘一乘一里立方米。可怜，弱小，又无助。看着自身狭小的维度空间，为了不被某位路过的强者一把抓住，顷刻炼化，叶云毅然",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DfIdKTEd0dE3ZmxGMnfviA?pwd=29dr",
     downloadUrl: "/books/l_15836120__613159_维度魔神成长日记，从龙族开始1-440章.txt",
     sourceUrl: "https://m.libahao2.com/book/15836120_613159/",
   },
+
 {
     id: "l_15968834__22926",
     slug: "重生2005，从做软件开始",
@@ -51402,9 +51722,11 @@ export const bookItems = [
     latestChapter: "第590章 春节，领证！不，风险管理（6.2K）›",
     excerpt: "乘坐飞机度假，坏消息飞机摔了；好消息，李行远重生了，还是2005年。重生回2005，李行远决定先拉人入伙，把自己团队组建起来，李行远顺势把搞得小游戏网站卖了，买家是渣浪，李行远数着钱看着新闻吃瓜，这年盛达VS渣浪大战正酣，这年珊瑚虫QQ刚刚",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1WiH-BGLLBMq67RoOpkLJ5A?pwd=29dr",
     downloadUrl: "/books/l_15968834__22926_重生2005，从做软件开始1-711章.txt",
     sourceUrl: "https://m.libahao2.com/book/15968834_22926/",
   },
+
 {
     id: "l_3254967__39889",
     slug: "武侠：开局获得神照经",
@@ -51418,9 +51740,11 @@ export const bookItems = [
     latestChapter: "第253章 华山之巅›",
     excerpt: "我叫陈休，刚刚穿越到连城诀世界，获得了神照经，还遇见一个如水一般的女孩……这一年，江湖上腥风血雨，让人难以忘怀。“连城诀”名动江湖，武林之中人人争夺；血刀门欺男霸女，恶行罄竹难书；万震山深夜砌墙，为夺剑谱同门相残。神照功、血刀经、太极剑、连",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1CM4MOREy112xQX8BcvZYuQ?pwd=29dr",
     downloadUrl: "/books/l_3254967__39889_武侠：开局获得神照经1-256章.txt",
     sourceUrl: "https://m.libahao2.com/book/3254967_39889/",
   },
+
 {
     id: "l_3777267__562069",
     slug: "1979：文豪的悠闲人生",
@@ -51434,9 +51758,11 @@ export const bookItems = [
     latestChapter: "第539章 聊›",
     excerpt: "重活一次，陈卫东看着刚出生的儿子，三岁的女儿。还有那个熟悉而又陌生的小村庄，只是他已经不是年轻时候的他了。混账了半辈子，这回他想好好来过。上辈子没出息，这辈子他只想挽回遗憾，给闺女做一个好榜样，让儿子娶一个贤惠媳妇，让一家子平安喜乐就好。为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1lqG1ulBd9pBE9kHrfiZbhg?pwd=29dr",
     downloadUrl: "/books/l_3777267__562069_1979：文豪的悠闲人生1-539章.txt",
     sourceUrl: "https://m.libahao2.com/book/3777267_562069/",
   },
+
 {
     id: "l_3779267__37782",
     slug: "斗罗：无我法相！无法无天！",
@@ -51449,9 +51775,11 @@ export const bookItems = [
     chapters: "1-849章",
     excerpt: "（龙王传说）分身＋整活主角的本命神通就是无我法相，分身我倾向于塑造，并不是夺舍。魂兽与人类之间最后的反扑，深渊与斗罗位面的决战，成神之路就在眼前，那么潜伏吧，游离于世界之中，化作命运，化作因果之主，主宰这片世间吧！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QJoMVb1qkp896xw-9byODA?pwd=29dr",
     downloadUrl: "/books/l_3779267__37782_斗罗：无我法相！无法无天！1-849章.txt",
     sourceUrl: "https://m.libahao2.com/book/3779267_37782/",
   },
+
 {
     id: "l_4170428__562529",
     slug: "收徒就变强，我靠弟子证道无敌",
@@ -51464,9 +51792,11 @@ export const bookItems = [
     chapters: "1-460章",
     excerpt: "别人穿越，不是仙帝重生就是系统傍身。我陈平穿越，成了青云宗最废峰主，修为不如杂役，寿元将尽。好不容易激活【师徒系统】，却被告知：收不到徒弟就解绑等死！收徒大典上，我散尽家财，只等来一个人人避之不及的“天厌之体”少女。全宗笑我：破罐子破摔，师",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ETDthEWy56Cz6i9eLyJmgw?pwd=29dr",
     downloadUrl: "/books/l_4170428__562529_收徒就变强，我靠弟子证道无敌1-460章.txt",
     sourceUrl: "https://m.libahao2.com/book/4170428_562529/",
   },
+
 {
     id: "l_4172495__38230",
     slug: "满门忠烈，诬陷我造反？",
@@ -51479,9 +51809,11 @@ export const bookItems = [
     chapters: "1-67章",
     excerpt: "“天日昭昭！天日昭昭！”九州大陆，烽火不休。瀛洲一朝，累世将门，当代战神岳昊，遭奸臣构陷，被当朝皇帝以莫须有罪名下狱，含冤而死。其独自岳曌，得后世人穿越附身，觉醒将星轮盘，可召唤华夏上下五千年之文臣猛将，为报父仇，掀起造反大旗。收大军，灭王",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/149lCb_65f6QQwk4e1ZPTEg?pwd=29dr",
     downloadUrl: "/books/l_4172495__38230_满门忠烈，诬陷我造反？1-67章.txt",
     sourceUrl: "https://m.libahao2.com/book/4172495_38230/",
   },
+
 {
     id: "l_4172520__38180",
     slug: "魔女1999",
@@ -51495,9 +51827,11 @@ export const bookItems = [
     latestChapter: "第625章 震！撼！小！梅！›",
     excerpt: "1999年，我的家乡被伟大魔女议会与世界魔女协会联合评为年度最佳殖民地、年度最有入侵价值异世界。我对此做了一些微小贡献——例如将家乡坐标卖给了魔女。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ilxL-WW24TBaVO_3XGUCOQ?pwd=29dr",
     downloadUrl: "/books/l_4172520__38180_魔女19991-624章.txt",
     sourceUrl: "https://m.libahao2.com/book/4172520_38180/",
   },
+
 {
     id: "l_4301677__650108",
     slug: "港综：从僵约开始成仙",
@@ -51511,9 +51845,11 @@ export const bookItems = [
     latestChapter: "第411章 婚帖已达›",
     excerpt: "梦醒港岛，何文杰发现自己是僵约世界何应求的远房侄子。在这个混乱，灵异事件层出不穷的时代，为求自保，何文杰主动修道，历红尘、扫不平。陨石之夜，启德机场，何文杰踏空而行，对长得像阿乐的僵尸王将臣，道：你什么时候产生了我打不过你的错觉？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_YCy5JodAx4gcSi4yEyLpQ?pwd=29dr",
     downloadUrl: "/books/l_4301677__650108_港综：从僵约开始成仙1-410章.txt",
     sourceUrl: "https://m.libahao2.com/book/4301677_650108/",
   },
+
 {
     id: "l_4563777__651198",
     slug: "从盗版商开始统治华娱",
@@ -51527,9 +51863,11 @@ export const bookItems = [
     latestChapter: "第410章 华谊上市即破百亿 券商蜂拥香饽饽天道›",
     excerpt: "【华娱、重生、恋爱、中美影视与互联网商战、多女主。】姬云是业内有口皆碑的执行副导演，却苦于没有资本支持，始终拿不到独立执导的机会出头。一场车祸，让他重回风起云涌的2008年。这一年，他本还是个大一新生，却因接手家里即将倒闭的盗版碟公司，忙得",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ays3zBp7sqEWgBsECm0XRQ?pwd=29dr",
     downloadUrl: "/books/l_4563777__651198_从盗版商开始统治华娱1-410章.txt",
     sourceUrl: "https://m.libahao2.com/book/4563777_651198/",
   },
+
 {
     id: "l_4563874__651136",
     slug: "修仙学院恶毒女配？众天骄跪求宠",
@@ -51543,9 +51881,11 @@ export const bookItems = [
     latestChapter: "第312章 回春阵›",
     excerpt: "【雄竞修罗场+修仙学院+男主全洁】猝死后，苏云窈穿进了一本修仙学院文里，系统说要她出演一下恶毒女配，怎么恶毒怎么来，只要不死，杀青时就可以领三个亿和重生奖励。苏云窈喜上眉梢答应了。可惜男主们又帅又强，女主却还是三推四拒。苏云窈忍不住吐槽，死",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DwwUk4jPDHIa1ZGnjLZwNA?pwd=29dr",
     downloadUrl: "/books/l_4563874__651136_修仙学院恶毒女配？众天骄跪求宠1-312章.txt",
     sourceUrl: "https://m.libahao2.com/book/4563874_651136/",
   },
+
 {
     id: "l_4563906__651142",
     slug: "人在华娱，快乐修仙",
@@ -51559,9 +51899,11 @@ export const bookItems = [
     latestChapter: "第263章 三角绯闻，浪子人设升级›",
     excerpt: "获得了上古末法时期合欢宗修仙功法的林子轩重新回到了2006年，在娱乐圈搅动风云。合欢宗至高功法合欢问仙诀，在无灵时代，可以吸收芸芸众生的情绪力量代替灵气进行修炼，成为明星，获得人气可以用来修炼，也可以吸收女明星的人气进行修炼。为了修仙大业，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12tX71l8UMl2Gp7_KB2U7cg?pwd=29dr",
     downloadUrl: "/books/l_4563906__651142_人在华娱，快乐修仙1-263章.txt",
     sourceUrl: "https://m.libahao2.com/book/4563906_651142/",
   },
+
 {
     id: "l_4629271__650459",
     slug: "影视：我的外挂是AI",
@@ -51575,9 +51917,11 @@ export const bookItems = [
     latestChapter: "第62章",
     excerpt: "意外激活了豆包，没想到人却在异世界，还是重案六组的世界里。（进行中:重案六组）（未来：心术、白夜追凶，白夜破晓，欢乐颂，三十而已，流金岁月，精英律师，小欢喜，家有儿女，一代宗师，小巷人家，凡人歌，南来北往…………排名不分先后。）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eoGz8tFHqOUBdJlDjDk5jg?pwd=29dr",
     downloadUrl: "/books/l_4629271__650459_影视：我的外挂是AI1-236章.txt",
     sourceUrl: "https://m.libahao2.com/book/4629271_650459/",
   },
+
 {
     id: "l_4694823__650712",
     slug: "火影：我鸣人开局获得轮回眼",
@@ -51590,9 +51934,11 @@ export const bookItems = [
     chapters: "1-330章",
     excerpt: "穿越到木叶，成为漩涡鸣人，开启轮回眼。鸣人不愿重走老路。火影?谁爱当谁当，反正我不当。忍界?谁爱拯救谁拯救，反正我不拯救。你们走你们的阳关道，我过我的独木桥。别来打扰我!",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1JOUu_LbaoNT2MXk4aklVUA?pwd=29dr",
     downloadUrl: "/books/l_4694823__650712_火影：我鸣人开局获得轮回眼1-330章.txt",
     sourceUrl: "https://m.libahao2.com/book/4694823_650712/",
   },
+
 {
     id: "l_5088073__649022",
     slug: "大明第一刀",
@@ -51606,9 +51952,11 @@ export const bookItems = [
     latestChapter: "第532章 爹，不孝子来看你来了›",
     excerpt: "开局推着老爹的尸体跳进凤阳万人坑，万长发硬生生从死人堆里爬了出来，成了应天府最疯的野郎中！太子妃难产，一尸两命？他当场怒怼废物太医：“别给老子讲什么狗屁的男女大妨！谁不是女人生的？！”他一把手术刀当众剖腹取子！诊费黄金一万两老朱牙疼——给你",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ZTUUrrKOCfc2s8wE-DuIGg?pwd=29dr",
     downloadUrl: "/books/l_5088073__649022_大明第一刀1-533章.txt",
     sourceUrl: "https://m.libahao2.com/book/5088073_649022/",
   },
+
 {
     id: "l_5088155__648979",
     slug: "E级向导，却要驯服七位顶级哨兵",
@@ -51621,9 +51969,11 @@ export const bookItems = [
     chapters: "1-427章",
     excerpt: "【星际向哨+多男主1VN+修罗场+剧情向+逆袭成长+极致偏爱】云茉刚穿越星际向哨世界，就被迫以E级向导身份去安抚一个ss级狂暴哨兵，没想到她竟然成功安抚了他的精神暴乱，还获得了他的冰系异能什么？一个向导居然能绑定标记哨兵获得他们的攻击异能！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/17prqBiA18nsj2JOvB3Rj6g?pwd=29dr",
     downloadUrl: "/books/l_5088155__648979_E级向导，却要驯服七位顶级哨兵1-427章.txt",
     sourceUrl: "https://m.libahao2.com/book/5088155_648979/",
   },
+
 {
     id: "l_5284614__654026",
     slug: "让你支教，你带出大夏神级冠军？",
@@ -51636,9 +51986,11 @@ export const bookItems = [
     chapters: "1-446章",
     excerpt: "【幕后推手】【草根逆袭】【暴爽打脸】【爱国热血】大夏国羽全线崩溃，全网跪求神秘大魔王教练出山救主！此时，神秘教练苏寒正蹲在西南深山里，为系统的硬性规定发愁。系统提示：必须“真心教学”才能触发高倍暴击！这导致他被迫当上了男妈妈！【日常特训】苏",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1zr2vvQr-eLtbGur9rI44yg?pwd=29dr",
     downloadUrl: "/books/l_5284614__654026_让你支教，你带出大夏神级冠军？1-446章.txt",
     sourceUrl: "https://m.libahao2.com/book/5284614_654026/",
   },
+
 {
     id: "l_5284762__653827",
     slug: "坠入白垩纪",
@@ -51652,9 +52004,11 @@ export const bookItems = [
     latestChapter: "第236章 是生物枪›",
     excerpt: "飞机失事在白垩纪。我是一个求生博主，必须一定带着83人活下去。好消息：我是古生物学出身。坏消息：我那些荒野求生视频全是演的。篝火是打火机点的。溪里的鱼是放的。庇护所是团队弄的……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1M-5eVtQFkl4jvnmIwtsKOg?pwd=29dr",
     downloadUrl: "/books/l_5284762__653827_坠入白垩纪1-236章.txt",
     sourceUrl: "https://m.libahao2.com/book/5284762_653827/",
   },
+
 {
     id: "l_5350381__654196",
     slug: "重生八零：从破草棚到蔬菜女王",
@@ -51667,9 +52021,11 @@ export const bookItems = [
     chapters: "1-459章",
     excerpt: "前世周静为争一口气，客死他乡，睁眼重生回到八十年代，爹娘年轻，两个妹妹还没有被自己拖累，她决定好好守护这个家。奶奶偏心，小叔贪婪，周静淘到第一桶金后，直接和他们断亲，带着全家人离开。从零售到批发，她的蔬菜运输公司逐渐成为市里纳税大户。断亲的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Ab5MpnO8JePeFcxociGZ4A?pwd=29dr",
     downloadUrl: "/books/l_5350381__654196_重生八零：从破草棚到蔬菜女王1-459章.txt",
     sourceUrl: "https://m.libahao2.com/book/5350381_654196/",
   },
+
 {
     id: "l_5415805__653437",
     slug: "斗罗：魂技抽象，唐三见面就跪",
@@ -51683,9 +52039,11 @@ export const bookItems = [
     latestChapter: "第240章 ：瞅你咋滴！›",
     excerpt: "【虐三，虐刚子，虐耗子，多女主】苏辰穿越斗罗觉醒抽象系统，获得武魂规则之心，解锁因果规则类魂技。第一魂技：百分百被空手接白刃，一剑出，唐三跪。第二魂技：有难同当：受到伤害转到小瘪三身上。第三魂技：无敌的BGM中我是无敌的存在：（小瘪三，没吃",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13azThhcSqFxCvxAX6jPDnQ?pwd=29dr",
     downloadUrl: "/books/l_5415805__653437_斗罗：魂技抽象，唐三见面就跪1-240章.txt",
     sourceUrl: "https://m.libahao2.com/book/5415805_653437/",
   },
+
 {
     id: "l_5481434__653575",
     slug: "从衔尾蛇石碑开始超凡",
@@ -51699,9 +52057,11 @@ export const bookItems = [
     latestChapter: "第479章 肉身磁场三十六万匹›",
     excerpt: "“生而为人，便当知人是有极限的。”“想要获得无上的力量，就要学会舍弃。”“舍弃你生而为人的枷锁。”林野获得一面衔尾蛇石碑，其名‘丰碑’。自此连通神秘的阴域，解锁丰碑成就，以无尽潜能点进化超凡。“丰碑！给我加点！”——【触发成就：黑山羊的诞生",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LxPCWZsACOEG3DT6sUV0ow?pwd=29dr",
     downloadUrl: "/books/l_5481434__653575_从衔尾蛇石碑开始超凡1-479章.txt",
     sourceUrl: "https://m.libahao2.com/book/5481434_653575/",
   },
+
 {
     id: "l_5546816__655022",
     slug: "从梦华录开始的诸天",
@@ -51715,9 +52075,11 @@ export const bookItems = [
     latestChapter: "第239章 攻占银矿›",
     excerpt: "一朝梦醒，发现自己成了皇子，而且还是皇帝唯一的儿子，本以为是天胡开局，结果后来他发现这里竟然是北宋，他的名字叫赵受益，也就是日后大名鼎鼎的傀儡皇帝赵祯。就在他一门心思想着，怎么摆脱傀儡命运的时候，他听到了几个似是而非的名字，赵盼儿，张好好，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1wkbwNUa0tLQokjGHDY1eJA?pwd=29dr",
     downloadUrl: "/books/l_5546816__655022_从梦华录开始的诸天1-239章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546816_655022/",
   },
+
 {
     id: "l_5546836__655087",
     slug: "神话武装：从天兵开始",
@@ -51731,9 +52093,11 @@ export const bookItems = [
     latestChapter: "第346章 天狼战法›",
     excerpt: "神裔大陆，一个以神话力量强化自身，召唤神话武装的世界。陆松穿越而来，觉醒力量系神心，并与力之魔神盘古缔结初心契约。只是，力量系神明在这个世界的“风评”似乎不太行，各种规则系、机制系神明才是王道。什么？力、体、敏三系被称为吉祥三宝？到后期只配",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1eIZgr22gHcLjtD8Fg3YMxA?pwd=29dr",
     downloadUrl: "/books/l_5546836__655087_神话武装：从天兵开始1-346章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546836_655087/",
   },
+
 {
     id: "l_5546859__654876",
     slug: "大明：重生朱标，朱元璋哭了",
@@ -51746,9 +52110,11 @@ export const bookItems = [
     chapters: "1-147章",
     excerpt: "洪武二十五年太子朱标去世，下葬三日封陵之后，雷击太子陵，朱元璋悲痛欲绝。同一时间，距离太子陵约两百里处，一人在雷雨夜睁开了眼，正是去世的朱标！只不过穿越而来的朱达，并没有继承朱标的记忆，只以为自己穿越的是一个南下的灾民。随灾民安置在应天城北",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1SdU6rzDUTRsB9GJ7G6sDFA?pwd=29dr",
     downloadUrl: "/books/l_5546859__654876_大明：重生朱标，朱元璋哭了1-147章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546859_654876/",
   },
+
 {
     id: "l_5546862__654924",
     slug: "今天打兄弟篮球了吗？",
@@ -51762,9 +52128,11 @@ export const bookItems = [
     latestChapter: "第220章 乔是我兄弟！›",
     excerpt: "又名：《真正的兄弟篮球》、《舍友篮球》、《从克里斯-韦伯模板开始》……从维拉诺瓦的板凳末端，到纽约麦迪逊广场花园的中心。乔川、布伦森、布里奇斯、哈特、迪文琴佐。五个人从各奔前程到重逢、从经历失败到统治联盟！有人问他们成功的秘诀是什么，乔川想",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1VcFXgsIYJFTI3ktz5ytMaA?pwd=29dr",
     downloadUrl: "/books/l_5546862__654924_今天打兄弟篮球了吗？1-220章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546862_654924/",
   },
+
 {
     id: "l_5546907__654867",
     slug: "原始文明：从死而复生到建国称王",
@@ -51778,9 +52146,11 @@ export const bookItems = [
     latestChapter: "第106章 河西发展之路›",
     excerpt: "何自刚从未想过，救人牺牲后的“奖励”，是被扔进茹毛饮血的原始部落。一睁眼，他成了部落里被猎手们抬回的“死者”，一个没有任何血缘庇佑的活死人。蛮荒大地，猛兽环伺，邻族相食。面对的不是英雄的欢呼，而是比野兽更凶残的生存绝境。但他带来了五千年的文",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1iOLjBPoGGbPPLz9hMaPY2g?pwd=29dr",
     downloadUrl: "/books/l_5546907__654867_原始文明：从死而复生到建国称王1-258章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546907_654867/",
   },
+
 {
     id: "l_5546909__654963",
     slug: "没说写小说也会死人啊",
@@ -51794,9 +52164,11 @@ export const bookItems = [
     latestChapter: "第123章 引发讨论。",
     excerpt: "穿越到一个历史文明被掠夺遗失的未来世界后，休文准备继续老本行，以写小说为生，但没人告诉她，写小说也会有生命危险啊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/134ainu-CAwmw3Xd-naRQrg?pwd=29dr",
     downloadUrl: "/books/l_5546909__654963_没说写小说也会死人啊1-143章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546909_654963/",
   },
+
 {
     id: "l_5546912__655008",
     slug: "诸天影视：从玫瑰的故事开始",
@@ -51810,9 +52182,11 @@ export const bookItems = [
     latestChapter: "第79章 凡人歌完结›",
     excerpt: "陈阳意外穿越，每个世界都可以觉醒专属词条。第一个世界：玫瑰的故事...........................不是...系统！这【渣男】词条是什么鬼啊？...........................陈阳开局抽取渣男词条，周旋",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LNri5D7UE5kikZPEMlcyHA?pwd=29dr",
     downloadUrl: "/books/l_5546912__655008_诸天影视：从玫瑰的故事开始1-185章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546912_655008/",
   },
+
 {
     id: "l_5546942__654913",
     slug: "CS：什么叫成为嘉豪就乱杀？",
@@ -51826,9 +52200,11 @@ export const bookItems = [
     latestChapter: "第208章 正常人真有那么打比赛的吗？›",
     excerpt: "曾誉为CNCS史上最豪之人在率队杀入传奇组的第二年因为手伤缘故无力支撑那以极致个人能力著称的打法而被迫转洲。突然有一天万凯钊一觉睡醒，忽然发现自己来到了2024年，变成了一支名为LVG的中国CS战队替补。除了CS的游戏内容之外。那些过去万凯",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/12z3uu8awUydqZO6bT7MsQQ?pwd=29dr",
     downloadUrl: "/books/l_5546942__654913_CS：什么叫成为嘉豪就乱杀？1-208章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546942_654913/",
   },
+
 {
     id: "l_5546958__654918",
     slug: "外神入侵，统统塞进装备栏",
@@ -51841,9 +52217,11 @@ export const bookItems = [
     chapters: "1-246章",
     excerpt: "[万物皆可装备]+[装备栏]+[数值怪]+[外神]+[全民勇者]装备栏+物品=极品装备装备栏+书籍（笔记）=记忆碎片（技能或者勇者异能）装备栏+魔物遗骸=魔物属性能力加持装备栏+外神器官=???装备栏+一颗星球=……肖恩死死盯住了面前那入侵",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1HQecgOQWlJfAYUVTQXnbtw?pwd=29dr",
     downloadUrl: "/books/l_5546958__654918_外神入侵，统统塞进装备栏1-246章.txt",
     sourceUrl: "https://m.libahao2.com/book/5546958_654918/",
   },
+
 {
     id: "l_5612297__655162",
     slug: "火影：我的强大源于你的想象",
@@ -51857,9 +52235,11 @@ export const bookItems = [
     latestChapter: "第211章 选择复活的千手扉间›",
     excerpt: "左眼：聚灵，聚灵瞳术，能够将他人对自身的想象，印象吸收，凝聚，形成一个个词条。右眼：灵格固化，灵格固化瞳术，能够将左眼聚灵瞳术凝聚的词条固化，成为真正的可以使用的词条。宇智波诚来到火影世界，在发现在过几个月，就要死在宇智波鼬手中后，在巨大的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1DVj5gyzRPsL6LaOtWSCb6w?pwd=29dr",
     downloadUrl: "/books/l_5612297__655162_火影：我的强大源于你的想象1-211章.txt",
     sourceUrl: "https://m.libahao2.com/book/5612297_655162/",
   },
+
 {
     id: "l_5612441__655155",
     slug: "妖尾：开局俘获魔人米拉杰",
@@ -51873,9 +52253,11 @@ export const bookItems = [
     latestChapter: "第220章 约瑟：如果连我都倒下了，还有谁能阻止邪恶的妖精的尾巴？！›",
     excerpt: "伊格穿越了，但是伊格一点不慌……因为和他一起穿越的，还有一个用来召唤恶魔的魔法阵，以及可以无限契约《电锯人》世界观恶魔的系统。伊格自认为自己可以靠着无限契约恶魔的优势，在电锯人的世界之中称王称霸，直至他被一位白发少女捡回家，那位白发少女名为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/104L1sgwJmdTrHfw85ACamA?pwd=29dr",
     downloadUrl: "/books/l_5612441__655155_妖尾：开局俘获魔人米拉杰1-220章.txt",
     sourceUrl: "https://m.libahao2.com/book/5612441_655155/",
   },
+
 {
     id: "l_5678001__654513",
     slug: "苟在魔门修炼，从种药养兽开始",
@@ -51889,9 +52271,11 @@ export const bookItems = [
     latestChapter: "第434章 残骸›",
     excerpt: "李寒夜穿越修真界，本想问鼎天下寻长生，却被酒鬼父亲卖入魔门换取酒钱。一夜，一位神秘老者往他脑袋里塞了一座白玉楼…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ClH9y7LGQ-019YtaRYxKCQ?pwd=29dr",
     downloadUrl: "/books/l_5678001__654513_苟在魔门修炼，从种药养兽开始1-434章.txt",
     sourceUrl: "https://m.libahao2.com/book/5678001_654513/",
   },
+
 {
     id: "l_5678010__654337",
     slug: "什么叫人类邪神加入了聊天群？",
@@ -51905,9 +52289,11 @@ export const bookItems = [
     latestChapter: "第259章 ：混沌之火，造化与毁灭的力量……›",
     excerpt: "穿越灵笼世界，陈圣好不容易凭借金手指干出一番事业。可奈何末日世界人员稀少，生命成长上限锁死。就在他为此头疼，不知要如何抉择与加快自身文明进程之时。一个穿越者聊天群忽然出现在了眼前。神话世界穿越者：“大佬们救命啊，我刚穿越就被众神发现了！”战",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1LKfLYF2d8h4QVjaYowMxpA?pwd=29dr",
     downloadUrl: "/books/l_5678010__654337_什么叫人类邪神加入了聊天群？1-259章.txt",
     sourceUrl: "https://m.libahao2.com/book/5678010_654337/",
   },
+
 {
     id: "l_5678014__654401",
     slug: "从拐走绘梨衣开始成为拦路人",
@@ -51921,9 +52307,11 @@ export const bookItems = [
     latestChapter: "第247章 笼罩全城的【黑域】›",
     excerpt: "濒死之际，被天启乐园丢到龙族，偶遇绘梨衣。觉醒天赋【拦路人】。绘梨衣：“你也要过马路吗？”关洛：“不，我拦路。”看着天赋面板上“阻止绘梨衣回家”，然后瞅瞅眼前这个能用“审判”把自己切成碎片的女孩。关洛决定，为了天赋觉醒任务，先赌上一把。拦住",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1toCy04SZmiEBTMCT3h5c3w?pwd=29dr",
     downloadUrl: "/books/l_5678014__654401_从拐走绘梨衣开始成为拦路人1-247章.txt",
     sourceUrl: "https://m.libahao2.com/book/5678014_654401/",
   },
+
 {
     id: "l_5678035__654487",
     slug: "巫师：从狼学派猎魔人开始肝经验",
@@ -51937,9 +52325,11 @@ export const bookItems = [
     latestChapter: "第223章 混沌魔力›",
     excerpt: "1228年，一名资深《巫师》玩家穿越到一位叫阿尔温·蒂森的猎魔人学徒上。这一年，北方诸国忙着开拓领土，边境线充满了战火与矛盾。大山荒野中处处都藏有怪物，明明该是猎魔人最活跃的时期，却被《怪胎》一书给摧毁。好在阿尔温觉醒了职业熟练度系统，杀死",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Lj71QJP9qkZkIzz2nljUww?pwd=29dr",
     downloadUrl: "/books/l_5678035__654487_巫师：从狼学派猎魔人开始肝经验1-223章.txt",
     sourceUrl: "https://m.libahao2.com/book/5678035_654487/",
   },
+
 {
     id: "l_5743263__589139",
     slug: "木筏求生：我能无限进化女神天赋",
@@ -51953,9 +52343,11 @@ export const bookItems = [
     latestChapter: "第284章 看戏？›",
     excerpt: "全民穿越无尽汪洋，开局一块木板。天道公正系统激活，越是绝色美女，觉醒的天赋越是垃圾E级，惨遭全员嫌弃！唯有林寂觉醒【洞察之眼】，看穿世界底牌：E级天赋=无限进化的神之雏形！“没人要？我全收了！”林寂果断收留五位废柴女神，利用【神级进化系统】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1nFHU78SpEYG2_87zLNghbQ?pwd=29dr",
     downloadUrl: "/books/l_5743263__589139_木筏求生：我能无限进化女神天赋1-284章.txt",
     sourceUrl: "https://m.libahao2.com/book/5743263_589139/",
   },
+
 {
     id: "l_5743430__654798",
     slug: "半岛：重生开局就得玩梭哈",
@@ -51968,9 +52360,11 @@ export const bookItems = [
     chapters: "1-179章",
     excerpt: "（韩娱+重生+日常+轻松+搞笑+恋爱+爽文）哎！没错我重生了，但没有金手指跟系统。不过没关系，我有重生前记忆，小米，阿里巴巴，特斯拉，英伟达，比特币….等等全部跑不了，因为我要开始梭哈了裴珠泫：怒那…难道对你不好吗？金雪炫：哼哼，说好让我当",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ViWBhjmLbYWkKFcrzugpYA?pwd=29dr",
     downloadUrl: "/books/l_5743430__654798_半岛：重生开局就得玩梭哈1-179章.txt",
     sourceUrl: "https://m.libahao2.com/book/5743430_654798/",
   },
+
 {
     id: "l_5743431__654814",
     slug: "重生82：从影院门口卖卤味开始",
@@ -51984,9 +52378,11 @@ export const bookItems = [
     latestChapter: "第167章 往后谁还敢混日子，那真的是良心坏透了！›",
     excerpt: "秦万山眼一睁一闭，就重生回到了1982年。上辈子，他努力过、拼搏过、挣扎过，最终依旧活成了普通人模样。重来一世，秦万山也没有什么大理想，只想自家日子能过得好一点，身边人的日子也能过得好一点。顺带给这缺油少盐的年代，带来一些后世才有的美味。卤",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1G8OnCOKhUeK0rxXIAA6dmw?pwd=29dr",
     downloadUrl: "/books/l_5743431__654814_重生82：从影院门口卖卤味开始1-167章.txt",
     sourceUrl: "https://m.libahao2.com/book/5743431_654814/",
   },
+
 {
     id: "l_5874523__652063",
     slug: "骂谁世界级剧情呢？",
@@ -52000,9 +52396,11 @@ export const bookItems = [
     latestChapter: "第253章 莱恩的邪道开箱术›",
     excerpt: "对于西幻领主来说，玩家到底是什么？数量庞大不服管教，奇装异服乱偷东西，为非作歹法外狂徒，见谁都要喊老婆的变态。这些初生将成群结队地降临到我的领土？全都滚蛋。总而言之，为了劝退他们，莱恩决定成为一名狗策划。谜语文案，碎片叙事，摄像视角，反派洗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/13zNTCXsl-qzgIE06xYQkMw?pwd=29dr",
     downloadUrl: "/books/l_5874523__652063_骂谁世界级剧情呢？1-253章.txt",
     sourceUrl: "https://m.libahao2.com/book/5874523_652063/",
   },
+
 {
     id: "l_5940178__651399",
     slug: "斗罗：武魂双臂，我修降龙十八掌",
@@ -52016,9 +52414,11 @@ export const bookItems = [
     latestChapter: "第348章 英雄救美：救世主、英雄和真命天子！›",
     excerpt: "（斗一同人，多女主，杀伐果断）当唐三还在唐门鬼见愁悬崖发表跳崖感言时。徐虎啸穿越了，比唐三大了整整六岁，而且还是天胡开局。他父亲是武魂殿魔熊斗罗，母亲宁风语，并获得了系统君遗留的新手大礼包。里面有顶级武功、全知之眼，还有顶级武魂怪物史莱克和",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1mC0Evw0KaUpKvCOrwpRxBA?pwd=29dr",
     downloadUrl: "/books/l_5940178__651399_斗罗：武魂双臂，我修降龙十八掌1-348章.txt",
     sourceUrl: "https://m.libahao2.com/book/5940178_651399/",
   },
+
 {
     id: "l_6005536__651688",
     slug: "无职转生，血族小姐要拿出真本事",
@@ -52031,9 +52431,11 @@ export const bookItems = [
     chapters: "1-305章",
     excerpt: "日常慢热，轻松搞笑向，不爱者慎入(=^▽^=)————————洛琪希：希尔瓦尼亚老师是我最尊敬的老师，我会永远忠诚她的！七星静香：希德琳不仅仅是我的朋友，而且说句实话……我现在对回家没有那么……”鲁迪乌斯：洛琪希是神，那神的老师是什么呢？希",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1RBT8itI4fXX_ooxZV0tdgQ?pwd=29dr",
     downloadUrl: "/books/l_6005536__651688_无职转生，血族小姐要拿出真本事1-305章.txt",
     sourceUrl: "https://m.libahao2.com/book/6005536_651688/",
   },
+
 {
     id: "l_6005716__651751",
     slug: "诸天降临：从武当开始",
@@ -52047,9 +52449,11 @@ export const bookItems = [
     latestChapter: "第252章 诸天强者，全都来了›",
     excerpt: "巨兽出笼，灵异蔓延，动植物异变，僵尸怨气滔天，恶魔爬出深渊，神话传说显化人间。世界末日降临，天空上却出现了一个个世界倒影，邀请蓝星人前往游戏获取机缘。林凡看着只有他熟悉的世界，不禁笑了。武当山与张真人论道，吞噬中并肩罗峰作战，西游给猴子开小",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1ELMc1Sp31h4MkfIWgiIOtw?pwd=29dr",
     downloadUrl: "/books/l_6005716__651751_诸天降临：从武当开始1-252章.txt",
     sourceUrl: "https://m.libahao2.com/book/6005716_651751/",
   },
+
 {
     id: "l_6007829__455163",
     slug: "傩祭失败，蛇君前夫来索命",
@@ -52063,9 +52467,11 @@ export const bookItems = [
     latestChapter: "第466章 万里寻骨›",
     excerpt: "【大女主+相爱相杀+民俗悬疑+中式克苏鲁+现代都市诡事】关初月硕士刚毕业就被爷爷叫回去，说是给她治病。在沉龙潭边的一只傩舞，她不小心唤醒了沉睡了数千年的蛇祟，还有那个说欠了他一条命的男人。男人在她腰上烙上百日倒计时，让她去寻找散落在巴山楚水",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1mCBPWlNz6M2gs_c-ralLBg?pwd=29dr",
     downloadUrl: "/books/l_6007829__455163_傩祭失败，蛇君前夫来索命1-466章.txt",
     sourceUrl: "https://m.libahao2.com/book/6007829_455163/",
   },
+
 {
     id: "l_6008038__455108",
     slug: "婚后第三年，沈总还在求原谅",
@@ -52079,9 +52485,11 @@ export const bookItems = [
     latestChapter: "第611章 吃瓜没吃完整不舒服›",
     excerpt: "豪门摆烂弃女vs板板正正的老干部18岁，安也在多伦多酒吧捡到了一个男人。跟对方过了三个月甜甜蜜蜜，不问出身，不问来处，只谈性欲的生活。三个月期限一到，她潇洒拍屁股走人。四年后，一纸病危通知书将她骗进桢景台。安也终于见到那位传说中掌控南洋经济",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1GUUA3qdUrIWfvKXY1Y99PQ?pwd=29dr",
     downloadUrl: "/books/l_6008038__455108_婚后第三年，沈总还在求原谅1-611章.txt",
     sourceUrl: "https://m.libahao2.com/book/6008038_455108/",
   },
+
 {
     id: "l_6071194__652803",
     slug: "修仙：我能叠加制符成功率",
@@ -52094,9 +52502,11 @@ export const bookItems = [
     chapters: "1-286章",
     excerpt: "【凡人流】樊冬生魂穿修仙世界金雾宗一个资质三灵根的制符学徒身上，觉醒命格【符道不朽】，以正确手法和材料绘制每一种符篆之时都有初始成功率，每一次尝试，无论成功或是失败，都会令这个概率永久叠加，超过100%后，还有概率创造新的符篆！仙道缥缈，樊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1-OWM16WnJyqvOw9eWsg0HQ?pwd=29dr",
     downloadUrl: "/books/l_6071194__652803_修仙：我能叠加制符成功率1-286章.txt",
     sourceUrl: "https://m.libahao2.com/book/6071194_652803/",
   },
+
 {
     id: "l_6071250__652935",
     slug: "姐姐抢嫁太子，我转身掌凤印",
@@ -52110,9 +52520,11 @@ export const bookItems = [
     latestChapter: "第733章 皇庄黑幕水太深›",
     excerpt: "【双重生+虐渣+爽文+团宠+甜宠】上一世，顾夕瑶呕心沥血，替父兄谋前程，帮夫君登皇位，换来的，却是死在宫中无人问询的凄惨结局。这一世，她与姐姐双双重生在爹娘和离当日。姐姐迫不及待踏上她上一世所走的路，而她则跟随娘亲改嫁离开，成为镇北侯府金尊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QzqpaiZ5QHJelycf3VSxSA?pwd=29dr",
     downloadUrl: "/books/l_6071250__652935_姐姐抢嫁太子，我转身掌凤印1-732章.txt",
     sourceUrl: "https://m.libahao2.com/book/6071250_652935/",
   },
+
 {
     id: "l_6073565__456311",
     slug: "巫师：从零开始打造魔像军团",
@@ -52126,9 +52538,11 @@ export const bookItems = [
     latestChapter: "第650章 战火初歇›",
     excerpt: "元素位面，战场化为焦土。炎魔领主的咆哮与传奇巫术对撞，将山脉破碎，令河流沸腾。巫师们的防线在纯粹暴力的碾压下濒临破碎。“支援在哪里？……我们的魔力耗尽了！”一名巫师嘶吼着，声音淹没在爆炸的轰鸣中。轰—轰—轰——！！！一连串突破音障的爆鸣撕",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1yYlsn3Z24sbzENeQbAn-3w?pwd=29dr",
     downloadUrl: "/books/l_6073565__456311_巫师：从零开始打造魔像军团1-651章.txt",
     sourceUrl: "https://m.libahao2.com/book/6073565_456311/",
   },
+
 {
     id: "l_6267658__652554",
     slug: "凡人：家祖魏无涯",
@@ -52141,9 +52555,11 @@ export const bookItems = [
     chapters: "1-368章",
     excerpt: "本书又名《在下魏离辰，有何指教？》《本座乃九国盟，化意门少主！》《我在天南当第一仙二代》《原韩老魔情敌（伪），现韩老魔良师益友（所有机缘截取者）》《附人界第一收集酷跑爱好者》《论谁才是天南第一话事人，人界第一修士，灵界第一大乘！》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1d-S57Q1dN80mvHfMUEQxSQ?pwd=29dr",
     downloadUrl: "/books/l_6267658__652554_凡人：家祖魏无涯1-368章.txt",
     sourceUrl: "https://m.libahao2.com/book/6267658_652554/",
   },
+
 {
     id: "l_6267799__652755",
     slug: "我的电脑连接着一个真实文明",
@@ -52157,9 +52573,11 @@ export const bookItems = [
     latestChapter: "第250章 零过载齐射，星团级火控联动›",
     excerpt: "五十块淘来的旧电脑，竟连接着一个真实的文明。起初，路远以为这是上帝模拟器。移动一条矿脉，他们便举城欢庆“神迹”降临。投放一套工具，从天而降的光柱便让他们敬畏臣服。划定一个坐标，便有无形之力为他们指明通往禁地的唯一路径。直到，一个尘封古迹被发",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/142bEXMDBGkImy3RiHB2dcQ?pwd=29dr",
     downloadUrl: "/books/l_6267799__652755_我的电脑连接着一个真实文明1-250章.txt",
     sourceUrl: "https://m.libahao2.com/book/6267799_652755/",
   },
+
 {
     id: "l_7056782__508226",
     slug: "轮回后，宿敌成黏人道侣怎么办？",
@@ -52172,6 +52590,7 @@ export const bookItems = [
     chapters: "1-172章",
     excerpt: "【清冷自持灵尊x笑面佛疯批魔君】HE、1v1双洁、女强槿山是东仙界最年轻的灵尊。魔君从天而降，就在她要将他切片加餐时忽然发现，这不是她还未强大时，那离不开她便切她手指还违约的老仇人吗！两人打作一团咬在一起，结果却不得不一起下界轮回。第一世她",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/19pNgP8xtHDcPANWyXqhVsg?pwd=29dr",
     downloadUrl: "/books/l_7056782__508226_轮回后，宿敌成黏人道侣怎么办？1-172章.txt",
     sourceUrl: "https://m.libahao2.com/book/7056782_508226/",
   },
@@ -53115,6 +53534,7 @@ export const bookItems = [
     downloadUrl: "/books/m_cp_新概念诡道升仙1-589章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cp/",
   },
+
 {
     id: "m_cq",
     slug: "重回五八：从肝职业面板开始",
@@ -53127,6 +53547,7 @@ export const bookItems = [
     chapters: "1-480章",
     excerpt: "【赶山】、【打渔】、【采珠】、【淘金】、【美食】、【训狼】、【熬鹰】……一九五八，火红年代。 身怀职业系统的陈拙，来到长白山脚下。 身为老饕，想要在这个年代吃好喝好，显然不是一件容易事。 还好只要肝职业面板，就能无限转职，获得特殊职业。 【家常菜（入门50/50）】 【转职→大锅饭能手】 【每当供给十人以上的大锅饭时，做菜速度+20%，美味程度+10%，食材利用程度+15%】 【赶山（入门50/5",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Qmfgm6zDknKswdszbTepfw?pwd=29dr",
     downloadUrl: "/books/m_cq_重回五八：从肝职业面板开始1-480章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cq/",
   },
@@ -53734,6 +54155,7 @@ export const bookItems = [
     downloadUrl: "/books/m_eo_红楼之胜天半子1-532章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eo/",
   },
+
 {
     id: "m_eocj",
     slug: "凤傲天小说里的黄毛反派也想幸福",
@@ -53746,6 +54168,7 @@ export const bookItems = [
     chapters: "1-715章",
     excerpt: "《凤傲天小说里的黄毛反派也想幸福》穿越成某凤傲天小说的前期黄毛反派，沐恩表示自己只想好好活下去。但，故事发展似乎有点不对劲？给公主下药裤子都脱了可为何主角迟迟没有赶到？主角的青梅竹马高洁圣女为何频频向我暗送秋波？就连乖巧听话的贴身女仆最近看我的眼神也逐渐危险起来！主角呢？主角救一下啊！！呵呵，抢了我的女人，你可就要负责到底哦凤傲天主角手握柴刀，和善的微笑道。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1wnoSeKMN2saf5WLSK88dXQ?pwd=29dr",
     downloadUrl: "/books/m_eocj_凤傲天小说里的黄毛反派也想幸福1-715章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/eocj/",
   },
@@ -54670,6 +55093,7 @@ export const bookItems = [
     downloadUrl: "/books/m_hn_重生洪荒：吾为五行老祖1-808章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/hn/",
   },
+
 {
     id: "m_ho",
     slug: "刚准备高考，过气顶流逆袭什么鬼",
@@ -54682,6 +55106,7 @@ export const bookItems = [
     chapters: "1-650章",
     excerpt: "许琛的高中成绩并不理想。 磕磕绊绊的到了高三，过气偶像逆袭系统突然加载。 【２０岁，你在大学期间参加练习生选拔，凭借逆天颜值与...颜值，断层出道。】 ..... 【３２岁，事业巅峰期，被对家与身边人联合陷害，爆出“选妃”丑闻，一夜之间声名狼藉，全网怒骂。虽然后续澄清为恶意诬陷，但天价的顶奢违约金已将你榨干，一贫如洗。】 【年至３５岁，你独自一人在不足十平米的出租屋内，就着廉价的白酒吞咽着不甘与悔",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1PyCf9lQgoGkHUi7iAP3GlA?pwd=29dr",
     downloadUrl: "/books/m_ho_刚准备高考，过气顶流逆袭什么鬼1-650章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ho/",
   },
@@ -55139,6 +55564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_j_华娱：女顶流不让我摆烂1-456章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/j/",
   },
+
 {
     id: "m_jakh",
     slug: "同时穿越：从火影开始打穿综漫区",
@@ -55151,6 +55577,7 @@ export const bookItems = [
     chapters: "1-1053章",
     excerpt: "同时穿越99世界系列，人送外号“诚哥”，外挂就是自己。火影阳诚：什么！红豆是我老师？那蛇姨岂不是……恶魔兽阳诚：我只想当一只善良的恶魔兽，但是被选召的孩子脑袋有坑啊！实教阳诚：智斗？我都战力天花板了，速通不就好了！海贼阳诚：娜美是我义妹？一拳阳诚：什么？我是触手怪，那没事了……死神、海贼、火影、数码宝贝、宝可梦，无职转生，灼眼夏娜，总之很多，想那写那吧……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/152q4o-zIbdpi4CyUUUtg4g?pwd=29dr",
     downloadUrl: "/books/m_jakh_同时穿越：从火影开始打穿综漫区1-1053章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jakh/",
   },
@@ -55240,6 +55667,21 @@ export const bookItems = [
     downloadUrl: "/books/m_jf_巴塞丽莎的复国日记1-1695章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jf/",
   },
+{
+    id: "m_jfgg",
+    slug: "斗破之炎帝是我孙子",
+    title: "斗破之炎帝是我孙子",
+    cover: bookCovermjfgg,
+    author: "老年人散步",
+    date: "2026-10-17",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-1564章",
+    excerpt: "我叫萧林，人在加玛帝国，有个儿子名叫萧战。咦？有点不对劲！当萧林意识到自己是未来炎帝的爷爷，也就是原著之中那个脸都没露就死了的萧林时，人是懵逼的。为了不重蹈原著作为背景板的命运，萧林决定苟起来，苟到自己的孙子成为炎帝，然后他再抱大腿飞升！嗯，在此之前，还是先想办法活到剧情开始吧。只是，不知不觉间，萧林发现自己还没抱上自己炎帝孙子的大腿呢，自己反而先成为了大腿！等到了未来的某一天，萧炎面对魂天帝时，",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_jfgg_斗破之炎帝是我孙子1-1564章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/jfgg/",
+  },
 
 {
     id: "m_jk",
@@ -55323,6 +55765,7 @@ export const bookItems = [
     downloadUrl: "/books/m_jq_六十大寿来系统，儿子被退婚了！1-983章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jq/",
   },
+
 {
     id: "m_jrhs",
     slug: "每天一门功法圆满",
@@ -55335,6 +55778,7 @@ export const bookItems = [
     chapters: "1-482章",
     excerpt: "睁眼已是乱世，陈越成了县内药铺学徒，人命如草芥，仙途多诡谲。幸得一块无名面板，以苦行为薪火，以执念铸道基。浪里潜行，藏一身锋芒；铁骨锻体，扛世间风霜；内丹筑基，积万丈底蕴；龙神火燃，焚九天邪魔。他在黑暗中一路死磕前行，待到回首，万界俯首，万法归心，他已是独步古今的无上真君。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/157YgYk4eKfU8xZYlZJtTUA?pwd=29dr",
     downloadUrl: "/books/m_jrhs_每天一门功法圆满1-482章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/jrhs/",
   },
@@ -56289,6 +56733,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mcw_我和她们穿越到北宋1-519章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcw/",
   },
+
 {
     id: "m_mcy",
     slug: "亮剑，从晋西北打到长津湖",
@@ -56301,6 +56746,7 @@ export const bookItems = [
     chapters: "1-648章",
     excerpt: "【地图金手指+更新稳定+不动脑子爽文】----------------------------新书《抗战：从生死看淡开始》已经签约，喜欢养书来宰的书友可以提前加加书架，有月票可以投给新书冲榜（本书会一直更新）。---------------------------- 周志远一觉醒来，发现自己身处晋西北，直面生与死的抉择！ 山河陆沉，敌寇猖獗，作为一名有血性的华夏男儿，应该怎么办？ 惟有生死看淡，不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1d-ZBxSsUrAVn5t40yOXF0A?pwd=29dr",
     downloadUrl: "/books/m_mcy_亮剑，从晋西北打到长津湖1-648章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcy/",
   },
@@ -57450,6 +57896,7 @@ export const bookItems = [
     downloadUrl: "/books/m_mmm_重返80：从黄大仙开始致富1-1358章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmm/",
   },
+
 {
     id: "m_mmn",
     slug: "深渊漫游者",
@@ -57462,6 +57909,7 @@ export const bookItems = [
     chapters: "1-607章",
     excerpt: "手滑炸掉全球互联网以后，江舟成为了人类历史上最恶劣的罪人，陷入了漫长的沉睡。 而一百年后当他再度苏醒时，呈现在他眼前的，是一个交织着蛮荒与文明，充斥着控制与反抗的失控时代。 深渊之中，无以计数的失控人工智能肆虐成灾；奥林匹斯之上，以神祇自居的超级企业睥睨凡众；基底现实之内，凡人们于苦难与疯狂间苦苦挣扎。 但长夜已逝，黎明将至。当他从漫长的沉睡中醒来，人智革命的种子已然发芽。 脑机接口、曼陀罗程序、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1unfE1xTGlcceDSt0s1_WBw?pwd=29dr",
     downloadUrl: "/books/m_mmn_深渊漫游者1-607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmn/",
   },
@@ -58811,6 +59259,21 @@ export const bookItems = [
     readUrl: "https://pan.baidu.com/s/1uJOd4K_qYCMI4vtX5jeWfw?pwd=5j96",
     downloadUrl: "/books/m_mti_万世登仙：从先天气运开始1-494章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mti/",
+  },
+{
+    id: "m_mtj",
+    slug: "空想具现的大贵族",
+    title: "空想具现的大贵族",
+    cover: bookCovermmtj,
+    author: "泼墨红尘里",
+    date: "2026-10-17",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2675章",
+    excerpt: "所谓贵族。闲来无事开宴会，吃饭睡觉造城堡。至于斗气魔法？那不过是点缀而已！",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_mtj_空想具现的大贵族1-2675章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/mtj/",
   },
 
 {
@@ -60359,6 +60822,22 @@ export const bookItems = [
     downloadUrl: "/books/m_nu_诸天轮回：我是无上大宗师1-380章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nu/",
   },
+{
+    id: "m_nuyq",
+    slug: "向日取火",
+    title: "向日取火",
+    cover: bookCovermnuyq,
+    author: "金柜角",
+    date: "2026-10-17",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-376章",
+    latestChapter: "第353章 黑暗",
+    excerpt: "罗岳不是神。罗岳很忙。上学，跑异响，玩游戏，养手办；寒暑假兼职补习班，抓恶灵，挖地洞。十分充实。罗岳喜欢这个世界。罗岳不是神。但，这是事实。",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/m_nuyq_向日取火1-376章.txt",
+    sourceUrl: "https://www.min-yuan.com/txt/nuyq/",
+  },
 
 {
     id: "m_nv",
@@ -60677,6 +61156,7 @@ export const bookItems = [
     downloadUrl: "/books/m_ot_三国：朕，袁术，大汉忠良1-500章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ot/",
   },
+
 {
     id: "m_ou",
     slug: "人在斗破，开局成为法则掌控者",
@@ -60689,6 +61169,7 @@ export const bookItems = [
     chapters: "1-408章",
     excerpt: "【多女主】【不圣母】【天才流】【斗破→武动（进行中）→大主宰】一方图册记载世间，演化万物天赋————获取生灵精血，从中提取血脉天赋、特殊体质、天赋神通，化为己用……————穿越斗气大陆，本以为拿的是废柴逆袭、纳兰退婚的剧本，正摩拳擦掌准备迎接主角的宿命，却没想到…… 萧青：我也没想到斗帝血脉它自己就觉醒了啊！古薰儿：萧青哥哥快来吃软饭~紫妍：为什么你一个人族，玩起空间之力来，比我耍得还厉害？虚无吞",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1XHXqD9uxKceJcGX9QkNjeQ?pwd=29dr",
     downloadUrl: "/books/m_ou_人在斗破，开局成为法则掌控者1-408章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ou/",
   },
@@ -62654,6 +63135,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sct_不是造车厂吗？怎么改军工厂了1-284章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sct/",
   },
+
 {
     id: "m_scu",
     slug: "玩家重载",
@@ -62666,6 +63148,7 @@ export const bookItems = [
     chapters: "1-736章",
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/110iEDkdIJxr1humhy2iq0w?pwd=29dr",
     downloadUrl: "/books/m_scu_玩家重载1-736章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scu/",
   },
@@ -65678,6 +66161,7 @@ export const bookItems = [
     downloadUrl: "/books/m_smr_长生修仙：从薅妖兽天赋开始1-507章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/smr/",
   },
+
 {
     id: "m_sms",
     slug: "天命之上",
@@ -65690,6 +66174,7 @@ export const bookItems = [
     chapters: "1-1100章",
     excerpt: "世界自毁灭之后重建。 于危崖之上，再起万丈高楼。 被称为天选者的人们活跃在现实的幕后，行走在历史的阴影中，掌握超凡脱俗的力量，领受着崇拜与敬畏。 有人说他们身负天命，万中无一。 可季觉对天命不感兴趣。 他只想有朝一日，去看一看天命之上的风景。 “……” 记录者写到这里停下了笔，看向那个满手油污的汽修工：“所以，这就是你破坏国际秩序、贩卖禁忌武器、资助颠覆组织、引发两极大战、图谋暗中统治世界的理由？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1kzyw6W0nglK717tATyDQXw?pwd=29dr",
     downloadUrl: "/books/m_sms_天命之上1-1100章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sms/",
   },
@@ -66079,6 +66564,7 @@ export const bookItems = [
     downloadUrl: "/books/m_soa_东京刑警：每日一个炸裂情报1-1294章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/soa/",
   },
+
 {
     id: "m_sod",
     slug: "创业在晚唐",
@@ -66091,6 +66577,7 @@ export const bookItems = [
     chapters: "1-1158章",
     excerpt: "命符传李氏二百五十七年后。昔日万国朝宗的煌煌天唐跌跌撞撞地走到了乾符元年的冬至。这年冬，距离王、黄立旗只有三月，距离大唐覆灭也仅剩三十三年。也是这年冬，长安的公卿们依旧沉湎在盛世的余晖，而在帝国的西南方，蕞尔南诏却再次进犯西川。……初战，唐军兵败大渡河，溃众奔邛州，南诏兵锋直指成都。与此同时，大渡河外，修罗战场。一名年轻的唐军甲兵睁开了眼，他推开了身上的尸体，满目斜阳末日。这就是乾符元年，大唐天厦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1o03OM1bIInziIPBAHv4HUw?pwd=29dr",
     downloadUrl: "/books/m_sod_创业在晚唐1-1158章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sod/",
   },
@@ -66712,6 +67199,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sqz_华娱之为你而来1-504章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sqz/",
   },
+
 {
     id: "m_sr",
     slug: "这位少帅，不对劲！",
@@ -66724,6 +67212,7 @@ export const bookItems = [
     chapters: "1-693章",
     excerpt: "2007年的足坛风云变幻。皇家马德里银河战舰分崩离析。巴塞罗那“梦二”灵魂放任自流。AC米兰“上帝之子”所向披靡君临王座。阿森纳再无枪王之王。红魔曼联真核蜕变收复英伦山河。铁血蓝军切尔西内部矛盾激化。利物浦迎来“圣婴”。还有...在英冠沉沦三年的利兹联重返英超！一位来自华夏的菜鸟主帅突兀地闯入了欧洲足坛顶级舞台。“我叫郑辉，争一世之辉！”索普拱门训练基地外由少帅亲自镌刻的队训在阳光下熠熠生辉。“为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/14wTx4VAYTS-EI8oH48p0Vw?pwd=29dr",
     downloadUrl: "/books/m_sr_这位少帅，不对劲！1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sr/",
   },
@@ -66744,6 +67233,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sra_巫师世界的禁书管理员1-678章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sra/",
   },
+
 {
     id: "m_srb",
     slug: "从高校学霸到科研大能",
@@ -66756,6 +67246,7 @@ export const bookItems = [
     chapters: "1-396章",
     excerpt: "重活一世，穿成物理系博士生。张明浩获得了名为‘正确感知’的特异功能，能够对问题结论的正确性进行判定。同时，还能通过学习知识，不断地提升智慧和记忆力。他成为学霸和科研天才，任何科研难题到了他的手中，都变得异常简单、轻松破解。从隐形涂层、拒阻材料，到常温超导、量子通信、反引力技术……科技改变世界，而他，改变了科技！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1Y0TYV2IWL5Bu_eREHxbEvw?pwd=29dr",
     downloadUrl: "/books/m_srb_从高校学霸到科研大能1-396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srb/",
   },
@@ -67114,6 +67605,7 @@ export const bookItems = [
     downloadUrl: "/books/m_sry_凡人：大晋雷修1-883章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sry/",
   },
+
 {
     id: "m_srz",
     slug: "永噩长夜",
@@ -67126,6 +67618,7 @@ export const bookItems = [
     chapters: "1-1393章",
     excerpt: "未知污染侵袭世界，仙神妖佛尽数沉沦。生化狂潮，蔚蓝再临，奇点登台，人革逆袭…… 来自未来的进化与源自过去的国术相逢，气血磅礴的人仙武道与诡异扭曲的污染相战。 我自长夜之前沉睡，我于永噩之地苏醒，带着未来的无限可能与位面救赎的希望，撼树的蚍蜉也是血溅五步的匹夫，他的故事才刚刚开始。 以下为不正经简介： 我是小西王啊啊啊啊 杀杀杀杀杀杀杀……………………",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1UYLhxBq5hu8kL68h_JQ39g?pwd=29dr",
     downloadUrl: "/books/m_srz_永噩长夜1-1393章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srz/",
   },
@@ -67587,6 +68080,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stg_游戏王：从云玩家到魂玩家1-970章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stg/",
   },
+
 {
     id: "m_sth",
     slug: "我的替身是史蒂夫",
@@ -67599,6 +68093,7 @@ export const bookItems = [
     chapters: "1-1604章",
     excerpt: "“孩子，你知道这是什么吗？” 灭霸举起金色的手套，六颗无限宝石闪烁着褶褶辉光：“我一个响指下去，你将化作风中的尘埃。” “爹不信。” 身穿无尽套的方墨缓缓摇头，手中寰宇长剑直指灭霸那瓦光锃亮的紫色脑壳：“今天别说无限宝石了，就是宇宙之心也救不了你的狗命！” “你知道这是什么吗？这是求道玉！” 宇智波斑站在半空中放肆的狂笑：“它是最强之矛，也是最强之盾，没什么是它无法摧毁的！” “你TM是真没见过硬",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1glXlP2Ksd7HA9N6GLf3c1Q?pwd=29dr",
     downloadUrl: "/books/m_sth_我的替身是史蒂夫1-1604章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sth/",
   },
@@ -67671,6 +68166,7 @@ export const bookItems = [
     downloadUrl: "/books/m_stn_我在星际战场捡天赋1-758章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/stn/",
   },
+
 {
     id: "m_sto",
     slug: "超凡大谱系",
@@ -67683,6 +68179,7 @@ export const bookItems = [
     chapters: "1-1355章",
     excerpt: "我们创造神祇，设立信仰，以此描绘我们的救赎。 我们手持谱系，解析以太，以此来成为全知的一。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1QIlFtYprRMf7h4co8m8Q8w?pwd=29dr",
     downloadUrl: "/books/m_sto_超凡大谱系1-1355章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sto/",
   },
@@ -69821,6 +70318,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tl_骑行之逆风飞驰1-392章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tl/",
   },
+
 {
     id: "m_tm",
     slug: "这个导演开了挂",
@@ -69833,6 +70331,7 @@ export const bookItems = [
     chapters: "1-775章",
     excerpt: "有时候一个完美的镜头就能让人兴奋的睡不着。有时候一次愉悦的指导又能让人睡的很安心。这就是当导演拍电影的乐趣啊。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1_KGFVu__C0Cdb-zxi8hv7w?pwd=29dr",
     downloadUrl: "/books/m_tm_这个导演开了挂1-775章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tm/",
   },
@@ -69853,6 +70352,7 @@ export const bookItems = [
     downloadUrl: "/books/m_tn_诸天，从小李飞刀开始1-577章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tn/",
   },
+
 {
     id: "m_to",
     slug: "霍格沃滋：开局满级不可饶恕咒",
@@ -69865,6 +70365,7 @@ export const bookItems = [
     chapters: "1-484章",
     excerpt: "迪伦：“伏地魔在上，我只是掌握了满级不可饶恕咒而已，请相信我，我真的是个好孩子，你看看我在学校做的事情就知道了！” 麦格教授：“你指的是，你用一秒一百发的摄魂夺魄，击败了一整个集会的食死徒，以及与一群摄魂怪为伍，能够随意操控它们的事情？” 迪伦：“不，我的意思是，图书馆的书籍就没一本是我没看过的！我的所有课程都是满级，魔法也是！就连伏地魔也是我用不可饶恕咒打败的。” 麦格教授：“对，就是这样，那群",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1uJduPAPzTPCRftIyOnYoNA?pwd=29dr",
     downloadUrl: "/books/m_to_霍格沃滋：开局满级不可饶恕咒1-484章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/to/",
   },
@@ -70747,6 +71248,7 @@ export const bookItems = [
     downloadUrl: "/books/m_was_华娱：重生了，还逼我做渣男啊1-916章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/was/",
   },
+
 {
     id: "m_wat",
     slug: "幻想入侵现实",
@@ -70759,6 +71261,7 @@ export const bookItems = [
     chapters: "1-328章",
     excerpt: "幻想入侵现实，世界崩坏。寄生兽，食尸鬼，巨人，僵尸接踊而来。拥有着黑暗本质，能够吞噬黑暗物品的封守。在他的眼中，究竟看到了什么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1GXujW58TKsEwPUQMnrUMgg?pwd=29dr",
     downloadUrl: "/books/m_wat_幻想入侵现实1-328章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wat/",
   },
@@ -71424,6 +71927,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wdc_法舟1-1006章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdc/",
   },
+
 {
     id: "m_wdd",
     slug: "执掌深渊，从见习神官开始",
@@ -71436,6 +71940,7 @@ export const bookItems = [
     chapters: "1-1028章",
     excerpt: "刚在游戏世界屠完龙，罗修下一秒就穿越到了《神之命途》的游戏世界里。魂穿lv.1的同名白板npc，一切回到开服前。唯有罗修一个人知道的是：彼时，审判战争一触即发、猩红狂潮即将席卷、深渊倒悬已然临近；再想想沉睡的凶暴古族、星天之外游弋的堕落世界与侵蚀一切的腐朽神明……罗修表示自己慌得一批。累了，毁灭吧.jpg所幸，前世游戏里屠龙的奖励——创世级道具《深渊圣典》跟着邮箱和自己一同穿越。罗修觉得自己还能再",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1cGptoirrYx8ooewkbd9sJg?pwd=29dr",
     downloadUrl: "/books/m_wdd_执掌深渊，从见习神官开始1-1028章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdd/",
   },
@@ -72210,14 +72715,13 @@ export const bookItems = [
     downloadUrl: "/books/m_wfp_曼联王储，但不会踢球1-458章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfp/",
   },
-
 {
     id: "m_wfr",
     slug: "弱小友善的我",
     title: "弱小友善的我",
     cover: bookCovermwfr,
     author: "君不见",
-    date: "2026-10-02",
+    date: "2026-10-17",
     category: "玄幻",
     status: "连载中",
     chapters: "1-733章",
@@ -73458,6 +73962,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkh_长生从抚养徒弟开始1-577章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkh/",
   },
+
 {
     id: "m_wkj",
     slug: "为武道狂，拳压诸天",
@@ -73470,6 +73975,7 @@ export const bookItems = [
     chapters: "1-467章",
     excerpt: "先天之气乃道枢所寄，立命之根，禀父母以成胎元，藏肾精而壮百脉，为长生之基、武魄之宗。然天门难叩，先天一炁杳渺难寻。志坚者，自可运后天之气鼓荡周天，以武淬体，以意引神。形动则气聚，气聚则精生，精生而神完，终以血肉之躯铸通天桥。界海降临，李泉游走于不同的世界，习武若狂，以武入道。 奢靡东京，笼中死斗，食化养精，养化丹田之虎。​国术民国，人祸山乱，屠虎取骨，蕴养玄坛正气。​赛博大明，巨门森列，气血如缕，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1qoYofDVuRv7DCy8ABlu53g?pwd=29dr",
     downloadUrl: "/books/m_wkj_为武道狂，拳压诸天1-467章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkj/",
   },
@@ -73622,6 +74128,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wkw_速通诸天，红尘戮仙1-278章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkw/",
   },
+
 {
     id: "m_wkx",
     slug: "第四天灾就没有正常的",
@@ -73634,6 +74141,7 @@ export const bookItems = [
     chapters: "1-580章",
     excerpt: "岳不群喟然长叹：“你就算是走剑宗的路子也好啊，可是你这……” 俞莲舟痛心疾首：“早知道你会如此，我就将虎爪绝户手传给你了。” 丘处机无可奈何：“孽障！你……你……唉！为师还是帮你去师叔那里讨要《九阴真经》吧。” 九叔扶额摇头：“这本是《炼尸法》，这本是《太阴炼形术》，你别搞你那些破玩意儿了，我怕哪天祖师爷下凡清理门户，连我也一并清理了。” （PS：本书不提供大脑寄存处，看这本书用不上那玩意儿，直接",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1m3ZnQKfdy1mb3qg7FgGcjQ?pwd=29dr",
     downloadUrl: "/books/m_wkx_第四天灾就没有正常的1-580章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkx/",
   },
@@ -73840,6 +74348,7 @@ export const bookItems = [
     downloadUrl: "/books/m_wll_日夜游神1-607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wll/",
   },
+
 {
     id: "m_wlm",
     slug: "六代机落后？鹰酱直呼人言否？",
@@ -73852,6 +74361,7 @@ export const bookItems = [
     chapters: "1-514章",
     excerpt: "“六代机的八种方案，其中四种已经得到了验证。”“但我认为还是太落后了！”“我们现在应该立马进行七代机的制造。”“另外...”“八代机也要提上日程。”啊？会议室内一片死寂。...鹰酱：什么叫歼20给一个《三角形》伴飞？鹰酱：这天空中有个《矩形鲨鱼夹》又是怎么回事？鹰酱：什？么？叫？天上有个《噬菌体》在降落？！还有！该死的！告诉我！这《布达拉宫站起来了》，又是什么意思？【以上，根据事实改编】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/18DxnwVDbu7am0QgzSmmunw?pwd=29dr",
     downloadUrl: "/books/m_wlm_六代机落后？鹰酱直呼人言否？1-514章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlm/",
   },

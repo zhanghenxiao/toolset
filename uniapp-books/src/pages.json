@@ -80,6 +80,10 @@
 
       "style": {
 
+        "navigationStyle": "custom",
+
+        "navigationBarTextStyle": "black",
+
         "navigationBarTitleText": "在线阅读"
 
       }
