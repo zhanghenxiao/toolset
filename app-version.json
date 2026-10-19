@@ -1,7 +1,7 @@
 {
   "versionName": "1.0.63",
-  "versionCode": 1063,
-  "forceUpdate": false,
+  "versionCode": "1063",
+  "forceUpdate": "false",
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "",
@@ -14,7 +14,7 @@
   },
   "备注": "//online // link",
   "readMode": "online", 
-  "useCloud": false,
+  "useCloud": "false",
    "ad": {
     "feedEveryChapter": 2,
     "rewardAdFreeMinutes": 30,
