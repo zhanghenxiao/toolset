@@ -1,6 +1,6 @@
 {
   "versionName": "1.0.63",
-  "versionCode": 1063,
+  "versionCode": "1063",
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
@@ -14,7 +14,13 @@
   },
   "备注": "//online // link",
   "readMode": "online", 
-  "useCloud": true,
+  "useCloud": false,
+   "ad": {
+    "feedEveryChapter": 2,
+    "rewardAdFreeMinutes": 30,
+    "rewardReaderFirstMinutes": 15,
+    "rewardReaderIntervalMinutes": 30
+  },
   "panCookies": {
     "quark": "",
     "baidu": ""
