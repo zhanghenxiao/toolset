@@ -5,7 +5,6 @@
  */
 
 import { SITE } from './config.js';
-import booksConfig from '../config/books-config.js';
 import {
   AD_FEED_EVERY_CHAPTER,
   AD_REWARD_AD_FREE_MS,
@@ -22,8 +21,8 @@ let fetchPromise = null;
 /** 本地兜底配置 */
 const FALLBACK = {
   readMode: 'all', // all | online | link
-  // 是否使用云端数据源：未取到远程配置时，沿用本地 books-config.js 的设置
-  useCloud: booksConfig.dataSource === 'cloud',
+  // 是否使用云端数据源：远程失败/未取到时回退本地（false），避免无网络时反去调云函数
+  useCloud: false,
   // 云端书籍文件 ID（留空则使用 books.js 内的默认值）
   cloudFileId: '',
   // 广告节奏/奖励参数：远程 app-version.json 的 ad 段可覆盖；以下为本地兜底默认值

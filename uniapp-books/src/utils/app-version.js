@@ -2,7 +2,7 @@ import manifest from '../manifest.json';
 
 /** 未配置线上 apkUrl 时的兜底（蒲公英安装接口，302 到最新 APK） */
 export const DEFAULT_ANDROID_APK_URL =
-  'https://www.pgyer.com/app/install/3dfe420f0f01df57d9426ca8eaa749b4';
+  'https://www.pgyer.com/app/install/f8fe433ee721fb1f40cc2dbfb8ad2b7a';
 
 export const APP_VERSION_NAME = manifest.versionName || '1.0.0';
 export const APP_VERSION_CODE = Number(manifest.versionCode || 0);

@@ -5,7 +5,7 @@
 
 export default {
   // 数据源类型：'local' | 'cloud'
-  dataSource: 'cloud',
+  dataSource: 'local',
 
   
   // 本地数据源配置

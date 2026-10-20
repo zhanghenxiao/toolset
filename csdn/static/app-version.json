@@ -1,18 +1,24 @@
 {
-  "versionName": "1.0.62",
-  "versionCode": 1062,
+  "versionName": "1.0.64",
+  "versionCode": 1064,
   "forceUpdate": false,
   "changelog": "首发版本",
   "android": {
     "wgtUrl": "",
     "inAppInstall": true,
-    "apkUrl": "https://www.pgyer.com/app/install/c3d2574b8e82fd154be8e4a61b3c83d0"
+    "apkUrl": "https://www.pgyer.com/app/install/f8fe433ee721fb1f40cc2dbfb8ad2b7a"
   },
   "ios": {
     "wgtUrl": "",
     "storeUrl": ""
   },
   "readMode": "all",
-  "useCloud": true,
-  "updatedAt": "2026-09-24T03:28:09.296Z"
+  "useCloud": false,
+  "ad": {
+    "feedEveryChapter": 2,
+    "rewardAdFreeMinutes": 30,
+    "rewardReaderFirstMinutes": 15,
+    "rewardReaderIntervalMinutes": 30
+  },
+  "updatedAt": "2026-10-20T08:14:15.438Z"
 }
