@@ -1,7 +1,7 @@
 module.exports = [
   {
     "id": 1,
-    "title": "没钱修什么仙？",
+    "title": "没钱修什么仙？l",
     "author": "熊狼狗",
     "category": "仙侠",
     "status": "连载中",
