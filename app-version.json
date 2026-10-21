@@ -16,7 +16,7 @@
   "readMode": "online", 
   "useCloud": false,
    "ad": {
-    "feedEveryChapter": 2,
+    "feedEveryChapter": 1,
     "rewardAdFreeMinutes": 30,
     "rewardReaderFirstMinutes": 15,
     "rewardReaderIntervalMinutes": 30
