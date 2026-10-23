@@ -1,4 +1,5 @@
 .reader-page {
+  position: relative;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -27,10 +28,41 @@
   color: #fff;
 }
 
+/* 顶部工具栏浮在正文之上：显示/隐藏都不改变正文区高度 */
 .reader-toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20rpx;
   padding: 20rpx 28rpx;
   background: #4a3728;
   color: #fff;
+}
+
+.toolbar-info {
+  flex: 1;
+  min-width: 0;
+}
+
+/* 右上角「加入书架 / 已在书架」入口 */
+.toolbar-shelf {
+  flex-shrink: 0;
+  padding: 8rpx 20rpx;
+  font-size: 24rpx;
+  letter-spacing: 2rpx;
+  color: #e8c976;
+  border: 1rpx solid #e8c976;
+  border-radius: 999rpx;
+}
+
+.toolbar-shelf.in-shelf {
+  color: #b5aea4;
+  border-color: #b5aea4;
 }
 
 .toolbar-title {
@@ -38,13 +70,6 @@
   font-size: 28rpx;
   font-weight: 600;
   line-height: 1.4;
-}
-
-.toolbar-meta {
-  display: block;
-  margin-top: 8rpx;
-  font-size: 22rpx;
-  opacity: 0.85;
 }
 
 .reader-body {
@@ -62,19 +87,436 @@
   word-break: break-word;
 }
 
+/* ---------------- 信息流（原生模板）广告：内嵌正文下方 ---------------- */
+.reader-inline-ad {
+  margin-top: 24rpx;
+  padding-top: 16rpx;
+  border-top: 1rpx solid #e2d7c1;
+}
+
+/* ---------------- 底部常驻 banner ---------------- */
+.reader-banner {
+  flex-shrink: 0;
+  background: #f3ead8;
+}
+
+.ad-badge {
+  align-self: flex-start;
+  margin-bottom: 12rpx;
+  padding: 2rpx 12rpx;
+  font-size: 18rpx;
+  color: #b8a888;
+  border: 1rpx solid #d8c9ad;
+  border-radius: 4rpx;
+}
+
+/* 锁章提示条 */
+.lock-tip {
+  padding: 12rpx 0 16rpx;
+  text-align: center;
+  font-size: 22rpx;
+  color: #8c2f39;
+}
+
+/* 底部菜单浮在正文之上：不占位，正文区高度恒定且底部不留白 */
 .reader-footer {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12rpx;
-  justify-content: center;
-  padding: 16rpx 20rpx 32rpx;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  padding: 12rpx 28rpx calc(16rpx + env(safe-area-inset-bottom));
   background: #ebe2d0;
   border-top: 1rpx solid #d8c9ad;
 }
 
-.foot-btn {
-  min-width: 120rpx;
+/* 隐藏测量区：与正文区同宽，仅用于批量量高度 */
+.measure-box {
+  position: absolute;
+  top: 0;
+  left: -9999px;
+  width: 100%;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+.measure-text {
+  display: block;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* 第一行：上一章 / 字号滑块 / 下一章 */
+.foot-nav {
+  display: flex;
+  align-items: center;
+  gap: 12rpx;
+  padding-bottom: 16rpx;
+}
+
+.nav-btn {
+  flex-shrink: 0;
+  padding: 8rpx 8rpx;
+  font-size: 26rpx;
+  color: #4a3728;
+}
+
+.nav-btn.disabled {
+  color: #b8a887;
+}
+
+.chapter-slider {
+  flex: 1;
+  margin: 0 12rpx;
+}
+
+/* 第二行：图标菜单 */
+.foot-icons {
+  display: flex;
+}
+
+.icon-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6rpx;
+  padding: 8rpx 0;
+}
+
+.icon-glyph {
+  font-size: 40rpx;
+  line-height: 1;
+  color: #4a3728;
+}
+
+.icon-label {
+  font-size: 22rpx;
+  color: #5c4a38;
+}
+
+/* ---------------- 章节目录弹窗 ---------------- */
+.toc-modal {
+  width: 100%;
+  height: 68vh;
+  display: flex;
+  flex-direction: column;
+  background: #f3ead8;
+  border-radius: 20rpx 20rpx 0 0;
+  padding: 28rpx 32rpx calc(28rpx + env(safe-area-inset-bottom));
+  box-sizing: border-box;
+}
+
+.toc-list {
+  flex: 1;
+  height: 0;
+  margin-top: 8rpx;
+}
+
+.toc-item {
+  padding: 20rpx 8rpx;
+  font-size: 28rpx;
+  color: #3a2f24;
+  border-bottom: 1rpx solid #e2d7c0;
+}
+
+.toc-item.active {
+  color: #8c2f39;
+  font-weight: 600;
+  background: #fffaf0;
+}
+
+.toc-more {
+  padding: 24rpx 0;
+  text-align: center;
+  font-size: 26rpx;
+  color: #8a7355;
+}
+
+/* ---------------- 阅读背景主题 ----------------
+   default = 默认米黄（.reader-page 基线）
+   day     = 白天（纯白）
+   eye     = 护眼（淡青绿）
+   night   = 夜间（深色）
+------------------------------------------- */
+.theme-day.reader-page {
+  background: #ffffff;
+}
+.theme-day .reader-toolbar {
+  background: #ffffff;
+  color: #1a1a1a;
+  border-bottom: 1rpx solid #e8e8e8;
+}
+.theme-day .toolbar-shelf {
+  color: #8c2f39;
+  border-color: #8c2f39;
+}
+.theme-day .toolbar-shelf.in-shelf {
+  color: #b0a99e;
+  border-color: #b0a99e;
+}
+.theme-day .reader-content {
+  color: #1a1a1a;
+}
+.theme-day .reader-footer {
+  background: #f6f6f6;
+  border-top-color: #e5e5e5;
+}
+.theme-day .nav-btn,
+.theme-day .icon-glyph {
+  color: #333333;
+}
+.theme-day .nav-btn.disabled {
+  color: #bfbfbf;
+}
+.theme-day .icon-label {
+  color: #666666;
+}
+.theme-day .state-box .state-text {
+  color: #333333;
+}
+
+.theme-eye.reader-page {
+  background: #e8f4f0;
+}
+.theme-eye .reader-toolbar {
+  background: #dceee9;
+  color: #2f3a2e;
+}
+.theme-eye .toolbar-shelf {
+  color: #2f6b3a;
+  border-color: #2f6b3a;
+}
+.theme-eye .toolbar-shelf.in-shelf {
+  color: #7f9382;
+  border-color: #7f9382;
+}
+.theme-eye .reader-content {
+  color: #2f3a2e;
+}
+.theme-eye .reader-footer {
+  background: #dceee9;
+  border-top-color: #c3ddd7;
+}
+.theme-eye .nav-btn,
+.theme-eye .icon-glyph {
+  color: #2f3a2e;
+}
+.theme-eye .nav-btn.disabled {
+  color: #93b198;
+}
+.theme-eye .icon-label {
+  color: #4a5b48;
+}
+.theme-eye .state-box .state-text {
+  color: #2f3a2e;
+}
+
+.theme-night.reader-page {
+  background: #141414;
+}
+.theme-night .reader-toolbar {
+  background: #1f1f1f;
+  color: #9a938a;
+}
+.theme-night .toolbar-shelf {
+  color: #d8b877;
+  border-color: #d8b877;
+}
+.theme-night .toolbar-shelf.in-shelf {
+  color: #8f8880;
+  border-color: #8f8880;
+}
+.theme-night .reader-content {
+  color: #a8a29a;
+}
+.theme-night .reader-footer {
+  background: #1f1f1f;
+  border-top-color: #333;
+}
+.theme-night .nav-btn,
+.theme-night .icon-glyph {
+  color: #b5aea4;
+}
+.theme-night .nav-btn.disabled {
+  color: #555555;
+}
+.theme-night .icon-label {
+  color: #8f8880;
+}
+.theme-night .state-box .state-text {
+  color: #9a938a;
+}
+.theme-night .lock-tip {
+  color: #d8b877;
+}
+.theme-night .ad-badge {
+  color: #6a655e;
+  border-color: #3d3d3d;
+}
+
+/* 弹窗（阅读设置 / 章节目录）跟随主题 */
+.theme-night .settings-modal,
+.theme-night .toc-modal {
+  background: #1f1f1f;
+}
+.theme-night .modal-header {
+  border-bottom-color: #333;
+}
+.theme-night .modal-title {
+  color: #e0dcd6;
+}
+.theme-night .modal-close {
+  color: #8a857e;
+}
+.theme-night .setting-label {
+  color: #b5aea4;
+}
+.theme-night .control-btn,
+.theme-night .option-item {
+  background: #2a2a2a;
+  color: #b5aea4;
+  border-color: #3d3d3d;
+}
+.theme-night .option-item.active {
+  background: #b5aea4;
+  color: #1f1f1f;
+  border-color: #b5aea4;
+}
+.theme-night .toc-item {
+  color: #b5aea4;
+  border-bottom-color: #2a2a2a;
+}
+.theme-night .toc-item.active {
+  color: #d8b877;
+  background: #2a2a2a;
+}
+.theme-night .toc-more {
+  color: #8a857e;
+}
+
+.theme-day .settings-modal,
+.theme-day .toc-modal {
+  background: #ffffff;
+}
+.theme-day .modal-header {
+  border-bottom-color: #e8e8e8;
+}
+.theme-day .toc-item {
+  border-bottom-color: #eeeeee;
+}
+
+.theme-eye .settings-modal,
+.theme-eye .toc-modal {
+  background: #dceee9;
+}
+.theme-eye .modal-header {
+  border-bottom-color: #c3ddd7;
+}
+.theme-eye .toc-item {
+  border-bottom-color: #cbe3de;
+}
+.theme-eye .toc-item.active {
+  color: #2f6b3a;
+}
+
+/* ---------------- 阅读设置弹窗（对齐 uniapp reader.vue） ---------------- */
+.modal-mask {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: flex-end;
+  z-index: 100;
+}
+
+.settings-modal {
+  width: 100%;
+  background: #f3ead8;
+  border-radius: 20rpx 20rpx 0 0;
+  padding: 28rpx 32rpx calc(28rpx + env(safe-area-inset-bottom));
+  box-sizing: border-box;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20rpx;
+  border-bottom: 1rpx solid #d8c9ad;
+}
+
+.modal-title {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #3a2f24;
+}
+
+.modal-close {
+  font-size: 40rpx;
+  color: #8a7355;
+  line-height: 1;
+  padding: 0 12rpx;
+}
+
+.settings-content {
+  padding-top: 20rpx;
+}
+
+.setting-section {
+  margin-bottom: 28rpx;
+}
+
+.setting-label {
+  display: block;
+  font-size: 26rpx;
+  color: #5c4a38;
+  margin-bottom: 16rpx;
+}
+
+.setting-control {
+  display: flex;
+  align-items: center;
+  gap: 16rpx;
+}
+
+.control-btn {
+  min-width: 72rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  padding: 0 16rpx;
   background: #fffaf0;
   color: #4a3728;
   border: 1rpx solid #c9b896;
+  border-radius: 8rpx;
+  font-size: 26rpx;
+}
+
+.size-slider {
+  flex: 1;
+}
+
+.option-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+
+.option-item {
+  padding: 12rpx 28rpx;
+  background: #fffaf0;
+  color: #4a3728;
+  border: 1rpx solid #c9b896;
+  border-radius: 8rpx;
+  font-size: 26rpx;
+}
+
+.option-item.active {
+  background: #4a3728;
+  color: #f3ead8;
+  border-color: #4a3728;
 }

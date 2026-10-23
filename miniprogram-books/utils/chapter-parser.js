@@ -42,7 +42,52 @@ function chapterIndexFromLatest(latestChapter, chapters) {
   return idx >= 0 ? idx : Math.min(chapters.length - 1, Math.max(0, num - 1));
 }
 
+/**
+ * 把一章正文按「每页可容纳字数」切成多页（用于左右翻页模式）
+ * 优先按整行（\n）切分，避免把一行截断；超长行再按字数硬切。
+ * @param {string} text 章节正文
+ * @param {number} charsPerPage 每页可容纳字数
+ * @returns {string[]} 分页后的正文数组
+ */
+function paginateContent(text, charsPerPage) {
+  const src = String(text || '');
+  if (!src) return [''];
+  const limit = Math.max(50, Math.floor(charsPerPage) || 50);
+  const pages = [];
+  let buf = '';
+
+  const lines = src.split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i];
+
+    // 单行就超过一页：先落盘已有内容，再按字数硬切
+    if (line.length > limit) {
+      if (buf) {
+        pages.push(buf);
+        buf = '';
+      }
+      while (line.length > limit) {
+        pages.push(line.slice(0, limit));
+        line = line.slice(limit);
+      }
+      buf = line;
+      continue;
+    }
+
+    const cost = line.length + (buf ? 1 : 0); // +1 计换行
+    if (buf && buf.length + cost > limit) {
+      pages.push(buf);
+      buf = line;
+    } else {
+      buf = buf ? buf + '\n' + line : line;
+    }
+  }
+  if (buf) pages.push(buf);
+  return pages.length ? pages : [''];
+}
+
 module.exports = {
   parseChapters,
   chapterIndexFromLatest,
+  paginateContent,
 };

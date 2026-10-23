@@ -1,17 +1,26 @@
 const { ensureLoaded, reload, isFailed, getLastError, onDataChange, getBookById } = require('../../utils/books');
 const { copyQuarkReadUrl } = require('../../utils/read-url');
 const { showRewardedAd } = require('../../utils/ad');
+const { openReader } = require('../../utils/navigate-reader');
+const { startReadEnabled } = require('../../utils/config');
+const { getStartReadEnabled } = require('../../utils/remote-config');
 
 Page({
   data: {
     book: null,
     // loading | failed | missing | ok
     status: 'loading',
+    // 是否显示「开始阅读」按钮（按 envVersion 配置）
+    startReadEnabled: startReadEnabled(),
   },
 
   onLoad(options) {
     this._bookId = options.id;
     this._missingNotified = false;
+    // 先用本地环境配置渲染，云端开关返回后再校正
+    getStartReadEnabled().then((v) => {
+      if (v !== this.data.startReadEnabled) this.setData({ startReadEnabled: !!v });
+    });
     this.renderBook();
     // 本地缓存先渲染，后台发现云端有新数据时自动刷新
     this._offDataChange = onDataChange(() => this.renderBook());
@@ -49,7 +58,11 @@ Page({
   onStartRead() {
     const { book } = this.data;
     if (!book) return;
-    copyQuarkReadUrl(book.readUrl);
+    if (!book.readUrl) {
+      wx.showToast({ title: '该书暂不支持在线阅读', icon: 'none' });
+      return;
+    }
+    openReader(book.id);
   },
 
   copyReadUrlWithModal(title) {
@@ -79,7 +92,7 @@ Page({
 
   onLatestChapterTap() {
     const book = this.data.book;
-    if (!book) return;
+    if (!book || !this.data.startReadEnabled) return;
     if (!book.readUrl) {
       wx.showToast({ title: '暂无资源', icon: 'none' });
       return;

@@ -1,5 +1,8 @@
-// 书籍数据全部来自云端（云函数 getBooks + 云存储），data/books.js 已随包移除
+// 书籍数据一律来自云端（云函数 getBooks + 云存储 books.js）
+// 置为 true 时，开发版 / 体验版改为优先读取本地 data/books.js，免去云函数 + 云存储下载，
+// 便于离线调试；该文件已在 project.config.json 的 packOptions.ignore 中排除，不会打进正式包
 // data/meta.js 仅保留 site / totalDisplay 等静态配置，体积极小
+const USE_LOCAL_BOOKS = false;
 const localMeta = require('../data/meta');
 
 const CACHE_INDEX_KEY = 'swts_books_index';
@@ -18,6 +21,38 @@ let failed = false;
 let lastError = '';
 
 const listeners = [];
+
+/** 当前运行环境：develop（开发版）| trial（体验版）| release（正式版） */
+function getEnvVersion() {
+  try {
+    const info = wx.getAccountInfoSync();
+    return (info && info.miniProgram && info.miniProgram.envVersion) || '';
+  } catch (e) {
+    // 取不到时按正式版处理，避免误用本地数据
+    return 'release';
+  }
+}
+
+/**
+ * 开发/体验版直接读取随包外的本地 data/books.js
+ * 该文件体积约 3MB，已被 packOptions.ignore 排除，正式包内不存在，故 require 需兜底
+ * @returns {Array|null} 本地书数据，不可用返回 null
+ */
+function loadLocalBooks() {
+  if (!USE_LOCAL_BOOKS) return null;
+  const env = getEnvVersion();
+  if (env === 'release' || env === '') return null;
+  try {
+    const list = require('../data/books');
+    if (Array.isArray(list) && list.length) {
+      console.log(`[books] 环境 ${env}，使用本地 data/books.js，共 ${list.length} 条`);
+      return list;
+    }
+  } catch (e) {
+    console.warn('[books] 本地 data/books.js 不可用，回退云端：', e && (e.message || e));
+  }
+  return null;
+}
 
 /** 数据在后台刷新后回调，页面可借此重新渲染；返回取消订阅函数 */
 function onDataChange(fn) {
@@ -80,6 +115,8 @@ function loadCache() {
   try {
     const index = wx.getStorageSync(CACHE_INDEX_KEY);
     if (!index || !index.chunks) return null;
+    // 本地数据写过的缓存不带云端版本号，不能当作云端缓存使用
+    if (index.version === 'local') return null;
     const list = [];
     for (let i = 0; i < index.chunks; i++) {
       const chunk = wx.getStorageSync(CACHE_CHUNK_PREFIX + i);
@@ -250,13 +287,24 @@ function refreshInBackground() {
 /**
  * 确保书籍数据就绪：
  * 1. 已加载 -> 直接返回
- * 2. 本地缓存 -> 立即使用，并后台校验云端版本（变了则替换并通知）
- * 3. 云函数取版本 + 云存储下载 -> 解析并写缓存
- * 4. 全部失败 -> 返回空列表，由页面提示重试（可通过 reload() 重试）
+ * 2. 开发/体验版 -> 用本地 data/books.js（version = 'local'）
+ * 3. 本地缓存 -> 立即使用，并后台校验云端版本（变了则替换并通知）
+ * 4. 云函数取版本 + 云存储下载 -> 解析并写缓存
+ * 5. 全部失败 -> 返回空列表，由页面提示重试（可通过 reload() 重试）
  */
 function ensureLoaded() {
   if (ready) return Promise.resolve(books);
   if (pending) return pending;
+
+  // 开发/体验版：直接用本地数据，跳过云函数调用与云存储下载
+  const local = loadLocalBooks();
+  if (local) {
+    applyData(local, 'local');
+    ready = true;
+    failed = false;
+    lastError = '';
+    return Promise.resolve(books);
+  }
 
   const cached = loadCache();
   if (cached) {

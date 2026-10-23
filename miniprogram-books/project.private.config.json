@@ -2,6 +2,31 @@
   "libVersion": "3.17.2",
   "projectname": "miniprogram-books",
   "condition": {},
+  "packOptions": {
+    "ignore": [
+      {
+        "type": "file",
+        "value": "data/books.js"
+      },
+      {
+        "type": "file",
+        "value": "data/remot-books.js"
+      },
+      {
+        "type": "file",
+        "value": ".tmp-check.js"
+      },
+      {
+        "type": "file",
+        "value": "README.md"
+      },
+      {
+        "type": "file",
+        "value": "阅读页广告规则.md"
+      }
+    ],
+    "include": []
+  },
   "setting": {
     "urlCheck": true,
     "coverView": false,

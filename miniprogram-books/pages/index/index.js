@@ -96,12 +96,10 @@ Page({
     });
   },
 
-  onKeywordInput(e) {
-    this.setData({ keyword: e.detail.value });
-  },
-
-  onSearch() {
-    this.applyFilters();
+  // 首页不直接输入：点搜索框跳转到搜索页
+  onOpenSearch() {
+    const keyword = this.data.keyword ? encodeURIComponent(this.data.keyword) : '';
+    wx.navigateTo({ url: `/pages/search/search${keyword ? `?keyword=${keyword}` : ''}` });
   },
 
   onCategoryChange(e) {

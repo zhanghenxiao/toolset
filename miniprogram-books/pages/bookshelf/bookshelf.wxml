@@ -1,0 +1,43 @@
+<view class="shelf-page">
+  <view class="masthead">
+    <text class="masthead-title">我的收藏</text>
+  </view>
+
+  <view wx:if="{{loading}}" class="no-books">
+    <text class="no-books-icon">📖</text>
+    <text>收藏整理中…</text>
+  </view>
+
+  <view wx:elif="{{list.length === 0}}" class="no-books">
+    <text class="no-books-icon">📚</text>
+    <text class="no-books-title">收藏还空着</text>
+    <button class="go-btn" size="mini" bindtap="onGoBookstore">去热门挑书</button>
+  </view>
+
+  <view wx:else class="book-list">
+    <view
+      wx:for="{{list}}"
+      wx:key="id"
+      class="shelf-item"
+      data-id="{{item.id}}"
+      data-chapter="{{item.chapterIndex}}"
+      bindtap="onBookTap"
+    >
+      <image class="item-cover" src="{{item.cover}}" mode="aspectFill" lazy-load />
+
+      <view class="item-body">
+        <text class="item-title">{{item.title}}</text>
+        <text class="item-author">{{item.author}}</text>
+        <text class="item-progress">读到第 {{item.chapterIndex + 1}} 章 · {{item.chapterTitle}}</text>
+        <text class="item-time">{{item.timeText}}</text>
+      </view>
+
+      <view class="item-actions">
+        <text class="item-source">{{item.source === 'auto' ? '自动收藏' : '手动加入'}}</text>
+        <view class="remove-btn" data-id="{{item.id}}" catchtap="onRemoveTap">移除</view>
+      </view>
+    </view>
+
+    <view class="shelf-tip">共 {{list.length }} 本</view>
+  </view>
+</view>

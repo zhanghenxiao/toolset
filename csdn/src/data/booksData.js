@@ -49032,13 +49032,30 @@ export const bookItems = [
     downloadUrl: "/books/2525_斗罗：AI龙皇1-543章.txt",
     sourceUrl: "https://www.deqixs.org/2525/txt.html#dir",
   },
+
 {
     id: NaN,
     slug: "给人工智能讲道后，它想机械飞升",
     title: "给人工智能讲道后，它想机械飞升",
     cover: nocoverCover,
     author: "烟云白",
-    date: "2026-10-17",
+    date: "2026-10-23",
+    category: "玄幻",
+    status: "连载中",
+    chapters: "1-2920章",
+    latestChapter: "第2911章 放我们一条生路",
+    excerpt: "",
+    tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    downloadUrl: "/books/NaN_给人工智能讲道后，它想机械飞升1-2920章.txt",
+    sourceUrl: "https://www.deqixs.org/NaN/txt.html#dir",
+  },
+{
+    id: NaN,
+    slug: "给人工智能讲道后，它想机械飞升",
+    title: "给人工智能讲道后，它想机械飞升",
+    cover: nocoverCover,
+    author: "烟云白",
+    date: "2026-10-23",
     category: "玄幻",
     status: "连载中",
     chapters: "1-2920章",
@@ -52609,6 +52626,7 @@ export const bookItems = [
     excerpt: "所谓游戏MOD，简单来说，就是玩家给游戏打的自定义补丁、拓展包。周迟平日里顶多给丧尸游戏里的丧尸们打上美少女MOD，给自己壮壮胆、提提神。他怎么也不会想到，自己居然有一天能给整个世界打上一个游戏MOD！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_aa_我给世界打个MOD1-145章.txt",
+    readUrl: "https://pan.baidu.com/s/11yv6rqz0sl2uB8_7SO3c_Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/aa/",
   },
 
@@ -52626,6 +52644,7 @@ export const bookItems = [
     excerpt: "方宇和他的无数个分身穿越了！天赋共享，技能共享，能力共享。可是......怎么开局都这么惨？火影方宇：人在宇智波，距离灭族之夜只剩下十月海贼方宇：推进城红莲地狱已关七年，兄弟们加油漫威方宇：我也不到我能干嘛，我只能先保证自己不被移民局逮捕主神空间方宇：等我熬死养殖队这帮人，请求主神把我状态恢复，我就可以大干一场了！等我！DC方宇：天知道我凭什么能跟小丑住对门，阿卡姆人才市场的越狱难度太高了！西游方",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ab_同时穿越：全是深渊难度1-1301章.txt",
+    readUrl: "https://pan.baidu.com/s/11oHor1WaUk25xZTJ-B1YEA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ab/",
   },
 
@@ -52642,6 +52661,7 @@ export const bookItems = [
     excerpt: "人知鬼恐怖，鬼晓人心毒。这是一本传统灵异小说。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ac_捞尸人1-732章.txt",
+    readUrl: "https://pan.baidu.com/s/1OP3OQ9M3qqo5Bekj6yCkOw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ac/",
   },
 
@@ -52659,6 +52679,7 @@ export const bookItems = [
     excerpt: "如果你不在餐桌旁坐着，那么就一定在菜单里躺着。如果你一无所有，那么你的命就是你唯一的资本。我叫宋和平。我来了，我征服，我为王。别说我是“战争之王”，我爱好和平，我是来送“和平”的。书友群:652636388",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ad_佣兵我为王1-1893章.txt",
+    readUrl: "https://pan.baidu.com/s/1HUnnpKOBihaCDsZsvs2dwQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ad/",
   },
 
@@ -52675,6 +52696,7 @@ export const bookItems = [
     excerpt: "［半无敌，休闲文，日更万+］许笙一觉醒来，发现自己穿越到了斗罗大陆！本想平平淡淡过完一生的他，直到武魂觉醒时才意识到不对劲！ 第一武魂:九心血棠！由九心海棠变异而成，以血为祭，以魂润棠，彻底打破辅助系的神话！ 第二武魂：冰蔷薇之剑！攻击力碾压昊天锤，成就大陆最强器武魂！ 在素云涛震惊的目光下，许笙无奈的望着自己身上九个猩红的魂环，“那啥，其实我只是想平平淡淡过一生，不过你瞧我身上这九个红圈圈好看么",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_af_摊牌了我真是封号斗罗1-4506章.txt",
+    readUrl: "https://pan.baidu.com/s/1alHYTbd8dpcLdS3D_YTEbg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/af/",
   },
 
@@ -52692,6 +52714,7 @@ export const bookItems = [
     excerpt: "【非百合、非变嫁、后宫文，主打感情线】一觉醒来，姜澈变成了林允儿，顶着这张脸，他被金泰妍拽上了台，而台下，竟然还有一个林允儿。为了活命，姜澈只好各种胡说八道，本以为能这么咸鱼的混下去。可谁知变身能力二次觉醒，他变回男生后允儿不想让他走......泰妍想要他负责......sunny想要让他当工具人......Jessica......雪莉......本以为能平平安安过一生，谁知变身能力还能第三次觉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ag_半岛：我的金手指不科学1-383章.txt",
+    readUrl: "https://pan.baidu.com/s/1EJtjJiibRD_BNwAbEA3HUw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ag/",
   },
 
@@ -52727,6 +52750,7 @@ export const bookItems = [
     excerpt: "四年冷板凳，一朝离霸图连一刻都没有为他的离去感到惋惜立刻走进第十区的是【电锯少女】【折磨王】【防御天尊】【这样的电锯他有两把】花~火~四期生怎么了？我说自己是中年你真把我当中年了？向韩队低头那是我尊敬韩队至于你，我的朋友，想在赛场上和我的狗牙聊聊天么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ai_全职高手之离开霸图成了电锯磨王1-910章.txt",
+    readUrl: "https://pan.baidu.com/s/1zNC9jlgBzaDrILqcA5T8ZQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ai/",
   },
 
@@ -52779,6 +52803,7 @@ export const bookItems = [
     excerpt: "专业游戏制作者凌风穿越宝可梦世界，却发现这里的游戏产业相当萎靡，大家都在游玩低质量的套皮游戏。正当他决定大干一笔时，意外觉醒了宝可梦游戏制作系统，只要通过影响玩家的情绪，就能够获得奖励，解锁更加高级的黑科技游戏制作功能！而在系统刚刚解锁，只能制作低级像素游戏的情况下，凌风毅然做出了决定。第二天一早，希罗娜在直播途中，发现了一款特别的游戏。“咦，有新游戏？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_al_让你做游戏，口袋妖怪什么鬼？1-380章.txt",
+    readUrl: "https://pan.baidu.com/s/1Pc695ljteOJl7dd01Z4iAg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/al/",
   },
 
@@ -52795,6 +52820,7 @@ export const bookItems = [
     excerpt: "“连入《多元宇宙综合游戏网络》（以下简称《综网》）成功，正在读取版本信息……” “应推荐者要求，当前《综网》版本设定为：来吧！卡牌对决！” 张凌被综网选中，成为了一名卡师。 职业赋予了他独特的能力，让他可以制作和使用各种卡牌。 同时，他还获得了卡册：神魔图录，只要完成试炼就可以获得九州谱系专属卡牌。 随从卡：【永烈千秋·赵云】、【不灭战狂·刑天】、【淮涡水君·无支祁】…… 装备卡：【如意金箍棒】、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ao_综网卡师：我有一部神魔图录1-511章.txt",
+    readUrl: "https://pan.baidu.com/s/1pf0-rq8ssk6WWf5_3Y9JcQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ao/",
   },
 
@@ -52812,6 +52838,7 @@ export const bookItems = [
     excerpt: "一次意外使得余轲穿越至2078年。在这个科技飞速发展的赛博未来，超自然事件却成了比网络犯罪更为严重的人类生存头号大敌。为应对新京都地区日益频繁的超自然事件，汇聚了官方顶尖超凡者的【异常事务调查局】正式成立，其内部堪称卧虎藏龙：有来自千年世家的咒术师，领域展开镇压邪祟咒灵。有出身驭鬼一脉的驭鬼者，身化修罗直面不可名状。有顶尖科技改造的义体人，举手投足间如人间兵器。余轲并非以上三者中的任意一个，之所以",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ap_新京都调查官1-449章.txt",
+    readUrl: "https://pan.baidu.com/s/1_eOt0qFeM-GcZmzzjsHhUQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ap/",
   },
 
@@ -52846,6 +52873,7 @@ export const bookItems = [
     excerpt: "迟到了多年的金手指总算是上线了。这是一个有着修行者的世界。一座神秘的小岛，一棵神奇的小树，让重生于平行世界的林立迎娶白富美，走上人生巅峰的梦想，不再只是个虚幻的泡影。“什么？你说修行者觉醒异能是上天对修行者的恩赐？”“稍等一下，等我吃下手中的异能果，觉醒个异能再跟你说话……”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_as_开局一座神秘岛1-1714章.txt",
+    readUrl: "https://pan.baidu.com/s/1yaEREYAMEFvi39hlTHtOcQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/as/",
   },
 
@@ -52862,6 +52890,7 @@ export const bookItems = [
     excerpt: "神话世界，隐藏着无数宝藏与秘密！故事从一龙本源龙运和一枚神级建村令开始，铸造不一样的擎天运朝！波澜壮阔的三国神话世界，有天地神将常山赵子龙，有历史美女貂蝉，有冠绝神州的神谋。======================本书是慢热型，前面介绍比较多，但是后面会好的，作者一直在努力进步！每天两更，会爆发，求收藏！求订阅！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_at_三国神话世界1-3195章.txt",
+    readUrl: "https://pan.baidu.com/s/1HrrvzNrdk1fIYelYNTJOog?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/at/",
   },
 
@@ -52878,6 +52907,7 @@ export const bookItems = [
     excerpt: "（大国记·秦时明月征文金奖作品） 这里有天下寥寥、苍生涂涂的纵横家！ 这里有修身、齐家、治国、平天下的儒家！ 这里有天下皆白、唯我独黑的墨家！ 这里有地泽万物、神农不死的农家！ 这里有其疾如风、其徐如林的兵家！ …… 当然，这里也有我们亘古不衰的小说家！ 本书群号：122156987，喜欢的来唠唠嗑！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_au_秦时小说家1-3829章.txt",
+    readUrl: "https://pan.baidu.com/s/1xAz4l6sb2jKTTk1F0VYtrg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/au/",
   },
 
@@ -52895,6 +52925,7 @@ export const bookItems = [
     excerpt: "重生后，恶贯满盈的我决定从良。三天内，还掉父亲积累的赌债，拜入天下第一大宗门，找到前世的宿敌。我要报复她。为了达成目标，我成为她的同门，帮她杀死仇人，救下父母。她对我的好感与日俱增，我却始终抗拒她的接近，不接受任何好意。信任的前辈、童年玩伴、失散多年的姐姐，清冷孤独的庙祝、深居宫廷的公主……所有亲近她的人都会被我夺走。等到她失去一切，只能依靠我一人。我便会给她发出请柬：“欢迎参加我和你姐姐的婚礼。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_av_玩家重生以后1-394章.txt",
+    readUrl: "https://pan.baidu.com/s/1qmPSW4CTWaIq01rOGPPPYQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/av/",
   },
 
@@ -52911,6 +52942,7 @@ export const bookItems = [
     excerpt: "神话时代，人类还没有一个正式的国家，唯有神明与魔族才是这个时代的主人。 洛德穿越到这个时代，觉醒了【创造】的天赋，并且遇见了只有区区几百岁的年轻赛丽艾。 “弱小而又短暂的人类。”初次见面赛丽艾对他发出了这样的评价。 “但是既然你有创造魔法的才能，我就答应你的冒险请求吧。” 洛德和赛丽艾共同在神话时代的大陆上冒险，他们创造了人族最初的国家，也曾直面过那传说中的女神，让其赐下圣典。 百年沧海，赛丽艾站",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_aw_芙莉莲：不懂爱的小小师祖1-495章.txt",
+    readUrl: "https://pan.baidu.com/s/1BsO9aPhZehHEs87eVuh8tQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/aw/",
   },
 
@@ -52928,6 +52960,7 @@ export const bookItems = [
     excerpt: "坏消息，我被迫结了婚！好消息，新娘身材巨好！坏消息，我老婆不允许我去夜店酒吧KTV！好消息，我老婆允许我纳妾！坏消息，我老婆不允许我晚上出门！好消息，过了晚上八点大街上全是脏东西！坏消息，我老婆厨艺不行！好消息，我老婆砍脏东西一刀一个！对了，那种‘脏东西’被她称之为神明！什么？你问我老婆漂不漂亮？不知道，她没有头！……我一个学生，不过是想兼职游戏代练赚点儿零花钱，这款《神明养成游戏》是什么鬼？自从",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ax_我的神明养成游戏1-319章.txt",
+    readUrl: "https://pan.baidu.com/s/1r79RlbkB8AnSMiyxJIGOew?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ax/",
   },
 
@@ -52945,6 +52978,7 @@ export const bookItems = [
     excerpt: "半岛+文娱，不按时间线走。这是一个渣男的救赎之旅这是一个导演的成名之路为他带上金箍的不是诸天神佛是她们的真情实意让他神通齐天的不是神灵眷顾是他自己对理想的执着追求早期男主很渣，纯爱党谨慎观看",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ay_半岛之喜爱十多年的爱豆成了我姐1-756章.txt",
+    readUrl: "https://pan.baidu.com/s/11VZyZ2kDsjfSkTiImtaMXw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ay/",
   },
 
@@ -52962,6 +52996,7 @@ export const bookItems = [
     excerpt: "（已有三本共计500W字老书，可放心观看~）......本书又名：《宝可梦：你们的意思是只有我不是重生的吗？》我叫小智，我有一个梦想，那就是成为神奇宝贝大师！我还有一位搭档，皮卡丘！只不过我的搭档有些奇怪。有些时候很强，有些时候又很弱，我总怀疑这家伙在演我！另外我还有两位一起旅行的搭档，他们是小霞和小刚。只不过他们也和皮卡丘一样奇怪。尤其是小霞，第一次和她见面的时候我是被她钓上来的。虽然我很感谢她",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_az_宝可梦：从零开始的小智培养计划1-363章.txt",
+    readUrl: "https://pan.baidu.com/s/1gv_hlK1JFibeo_fd3KfhAg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/az/",
   },
 
@@ -52978,6 +53013,7 @@ export const bookItems = [
     excerpt: "《遮天》、《诡秘之主》同人。遮天世界，偷走禁地不死药，偷走帝经与九秘。诡秘世界，开局序列7，肉身无敌，硬抗星爆，一拳打爆单片眼睛。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_b_诸天：从诡秘序列到遮天秘境法1-299章.txt",
+    readUrl: "https://pan.baidu.com/s/1kNZP66R7mT0z7AAuLYXtIA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/b/",
   },
 
@@ -52994,6 +53030,7 @@ export const bookItems = [
     excerpt: "“好吧，如你所见，我成为了一只乌鸦，一只专门汲取他人不幸的乌鸦。”——奥兹",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bc_美漫世界的多嘴乌鸦1-330章.txt",
+    readUrl: "https://pan.baidu.com/s/1Y2ZrkXmEghh8pTZO5SLzYw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bc/",
   },
 
@@ -53027,6 +53064,7 @@ export const bookItems = [
     excerpt: "读者交流群：677628167（看原神的小书屋）我叫白启云，来自璃月，是一名厨师。本来我以为，我会继承爷爷的白氏餐馆，然后在璃月当一辈子厨师。直到有一天，隔壁万民堂的人跑出去游览提瓦特，而我则被老爷子给一脚踢了出去。“成为一名合格的厨师之前别给老子回来！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bf_原神，长枪依旧1-2454章.txt",
+    readUrl: "https://pan.baidu.com/s/10H-Z9CzfF04PH-j3ltejfg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bf/",
   },
 
@@ -53044,6 +53082,7 @@ export const bookItems = [
     excerpt: "【三角洲+护航流+无系统+无敌+直播】 夏安重生了。 就因为无视ELO机制黑屋局乱踹清图，被直接一键封号重生到了平行世界的自己身上。 从此新世界的三角洲少了一条航天的蛆，多了一只威风的龙。 西西电竞护航考核，他三分钟清图送自雷考官爽吃1500万。 陈泽杯复活赛，他1v1正面击败mad98，断送复活晋级梦。新光杯决赛，他跟选手互刷对清，送选手无缘冠军宝座。 正常打护航单，护完自家老板还要霸王硬护对面",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bg_三角洲：让你考核，你三分钟清图1-531章.txt",
+    readUrl: "https://pan.baidu.com/s/1powNT50S9OvWEoU8cD0WUg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bg/",
   },
 
@@ -53061,6 +53100,7 @@ export const bookItems = [
     excerpt: "打工过度晕倒在地，醒来苏醒了前世记忆，还有了系统。本该拥有光辉灿烂的未来，但……怎么生活更艰难了？上课不认真，系统会随机给女孩发告白短信！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bh_东京少女们大有问题1-480章.txt",
+    readUrl: "https://pan.baidu.com/s/1fTHDTyNwRe_DXt-9gM8Oqg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bh/",
   },
 
@@ -53077,6 +53117,7 @@ export const bookItems = [
     excerpt: "“日记？正经人谁写日记啊！”“咦，我什么时候说自己是正经人了？”“你不是圣骑士吗！！？”……这是一段“圣骑士”与魔物娘们一起经历的美好故事。一本不那么“正经”的日记。总之……魔物娘是对的！..本书又名《异种族娘评鉴指南》、《圣骑士大战魔物娘》、《魔物娘攻略指南》！【欢乐向】【魔物娘】【多女主】【不炒股】（均订6800+，高订28000+，大精品成绩，还在持续上升！）（已有合计750万字完结作品，扑",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bk_不正经魔物娘改造日记1-875章.txt",
+    readUrl: "https://pan.baidu.com/s/1VOtq0uaddJuRAWNjg9HfVQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bk/",
   },
 
@@ -53094,6 +53135,7 @@ export const bookItems = [
     excerpt: "林长青一场宿醉之后突然穿越，而且是不断的穿越影视世界之中，进行一场场的剧情破坏。在这个过程之中，他获得了大量的技能，以此为资本，在现实世界之中不断的取得成绩。第一世界：四合院第二世界：新世界第三世界：繁花第四世界：追风者第五世界：流金岁月第六世界：精英律师第七世界：枪王之王（港综）第八世界：凡人歌第九世界：悬崖第十世界：人间正道是沧桑第十一世界：我的后半生第十二世界：朱雀堂第十三世界：潜伏第十四世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bl_诸天影视，从四合院开始1-666章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZqhRrRMY_LvCehNa_yllvA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bl/",
   },
 
@@ -53110,6 +53152,7 @@ export const bookItems = [
     excerpt: "一场意外让华十二获得系统，让他能够穿越诸天，畅游无限位面，体验一段段多彩人生。他要完成系统任务，成功完成之后会获得一次抽奖机会，抽奖范围，为剧情世界任务相关角色所属的技能、物品、金钱、乃至寿命，等等....华十二：就这？还有啥？系统：嗯......，那你要老婆不要？“......”目前已经历世界：在平行世界化身奥胖暴揍巴爵士（我打架带个球怎么了！），抽奖获得鲨鱼巅峰之力。’少年的你‘中，用法律武器",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bn_诸天之百味人生1-1672章.txt",
+    readUrl: "https://pan.baidu.com/s/176yXhQ-sri9n2E9xnN2TBQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bn/",
   },
 
@@ -53127,6 +53170,7 @@ export const bookItems = [
     excerpt: "【日更两万，各位看官包爽的】 《重生日记》 “我叫陆尘，我重生了成为了一名职业中单。” “本来我只想从事我前世本职工作，当一名扑街作者的。” ”结果负面评论接踵而至—— ”打过职业吗，你就写联盟文？“ ”有这水平不去打职业扬名立万，躲在这里当一个小联盟作者？“ “扬名立万就扬名立万，靠着码字变强系统，别人最后一舞，而我还在码字，码字便能提升我的能力，获得天赋词条，所以我看什么大魔王、六冠王皆是插标",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bo_坏了，这联盟作家真超越李相赫了1-372章.txt",
+    readUrl: "https://pan.baidu.com/s/19xyFv_V6sWBuZKzgoqnGxw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bo/",
   },
 
@@ -53143,6 +53187,7 @@ export const bookItems = [
     excerpt: "楚楠重生，不但男生女相自带魅魔体质，还觉醒了娱乐直播系统，开播第一天就连到了有着八百万勇士的大马猴，于是。。。第一天大马猴：“哎呦喂，这小姐姐可以，这真可以，这也太美了！小姐姐你是什么主播啊？”“哥，我是男的。”第二天大马猴：“我去！！！兄弟们，这个漂亮，这个太漂亮了。小姐姐你好啊，我跟你说啊，昨天我遇到一个老吊，他特么长的比你还漂亮，结果是个男的。”“哥，我就是那个老吊。”。。。第七天大马猴：“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bq_主播：男生女相七擒大马猴1-663章.txt",
+    readUrl: "https://pan.baidu.com/s/1XBMlNScAxPSeRQpSoxhKlA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bq/",
   },
 
@@ -53159,6 +53204,7 @@ export const bookItems = [
     excerpt: "穿越是一件美事。 而穿越美漫这样的世界却很难说自己成年了还没逝，或许成为了超人克拉克的养子也算有了一个大靠山。 “可我为什么总感觉这样反而更危险？”伊恩看向了自己金手指的个人面板，上面身份一栏醒目的【NPC】字眼让他危机感十足。 这不就是妥妥的用来祭天，激发家人潜力和天赋的模板？伊恩感觉自己岌岌可危，好在他能够不断觉醒不同的职业提升自己的实力。 只不过。 这些职业的转职和进阶条件都是颇为奇葩。 “",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_br_超人的儿子想当超人有什么错？1-503章.txt",
+    readUrl: "https://pan.baidu.com/s/1KMGYH1UPg6J-iqI-b5qyxw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/br/",
   },
 
@@ -53192,6 +53238,7 @@ export const bookItems = [
     excerpt: "“你一句我能打上海大师赛，我在你直播间看了一个月的CSGO。”“亚一狙？被aspas一脚踢死的亚海悬城打狙一哥们罢了……”2022年，伊斯坦布尔冠军赛，作为亚一狙的江锐被对位的天才少年打的道心破碎，以冠军赛8强的成绩遗憾隐退，开始了当大主播圈米的道路。好消息：江锐是天生直播圣体，直播间节目效果全网独一档，很快就成为了大主播，八方来财。坏消息：都退役成主播了，系统让我打职业扬名立万。……江锐：“家人",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bs_都退役当主播了，系统让我打职业1-496章.txt",
+    readUrl: "https://pan.baidu.com/s/1SpebqFVtPY2obTUc2ff3DA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bs/",
   },
 
@@ -53208,6 +53255,7 @@ export const bookItems = [
     excerpt: "穿越到赛博朋克2077的世界就应该大展拳脚....不对，这不是2075年吗，虽然已经十一月了，离76年也近，但是我就知道77年的事情啊！在这个世界，你可以不活，但是不能没活，总之，先成为一名雇佣兵接活吧，虽说是如此，但是正式接到中间人任务，一上来就面对ACPA（作战辅助装甲）是不是过分了，而且荒板美智子的女儿又是谁啊，我只看过演示，不认识人啊，这是什么乱七八糟的任务！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bt_赛博朋克：20751-1192章.txt",
+    readUrl: "https://pan.baidu.com/s/1mUVGxdke0EKAPHnYyoVg2g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bt/",
   },
 
@@ -53225,6 +53273,7 @@ export const bookItems = [
     excerpt: "穿越南宋，林舟只想安静做个倒爷。用泡面换铜钱，用卫生纸换人情，用现代药救古代命。可他没想到，自己随手卖出的“小玩意儿”，竟引来皇城司的窥探。更没想到那些被他庇护的战争孤儿里，竟藏着岳飞的后人……当穿越者的身份暴露，当这个时代的暴力机关盯上他时林舟选择掀桌：“摊牌了，我背后有人！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bu_巨舰横宋：我的物资来自祖国1-530章.txt",
+    readUrl: "https://pan.baidu.com/s/1QxVIY3WsxZALu-AniE_REQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bu/",
   },
 
@@ -53259,6 +53308,7 @@ export const bookItems = [
     excerpt: "过去弥陀经、现在如来经、未来无生经...应身、法身、报身...穿越阳神世界，从得到过去弥陀经开始，洛风逐步走上了一条显化诸天，三身成道的特殊道路。...阳神，诛仙，九鼎记，洪荒（师兄版），神墓，遮天，长生界，一世之尊，莽荒纪，永生...穿越世界并不完全确定，会根据剧情增加或减少，欢迎大家支持。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_bw_从阳神弥陀经开始显化诸天1-351章.txt",
+    readUrl: "https://pan.baidu.com/s/1iNY5jt7UDKv2zm7OfXo9Gg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/bw/",
   },
 
@@ -53328,6 +53378,7 @@ export const bookItems = [
     excerpt: "人都上大学了，小学生成长系统才来。 【任务要求：熟练背诵九九乘法表】 【奖励称号：小小数学家】 【小小数学家：在面对任何数学题目时，你总能得到最正确的答案！】 【……】 【任务要求：在30秒内跑完一百米】 【奖励称号：小小健将】 【小小健将：你的力量、弹跳、速度等身体素质提高100%！】 …… 因祸得福，虽然迟到了了十几年，但简单到白给的任务要求令陈林很快就成为了全校的男神。 而就当他准备为全人类",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ca_都大学了，小学系统才来？1-522章.txt",
+    readUrl: "https://pan.baidu.com/s/1OqEqI9whAaGiaJKoMgz-tA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ca/",
   },
 
@@ -53344,6 +53395,7 @@ export const bookItems = [
     excerpt: "陆军少校陈默重生回到1998年。 这一年，部队裁军，征兵收紧。 上一世的他，挤破头才险之又险拿到当兵名额。 这一世的他，当兵？还需要自己亲自去报名？ 他只是坐在家中，提笔挥毫，邮寄了一封信给县人武部。 在其他参军适龄家庭为了将孩子送去当兵，求爷爷告奶奶，忙的焦头烂额时。 一辆从县人武部风风火火赶来的吉普车深夜停在了陈默家门口。 衣着军服的人武部军官谨慎地敲响大门。 “请问，陈默同志在吗？” ……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cb_军途：从一封征兵信邮寄开始1-481章.txt",
+    readUrl: "https://pan.baidu.com/s/1st4m3DgkqaQSBs9d-tfRmQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cb/",
   },
 
@@ -53361,6 +53413,7 @@ export const bookItems = [
     excerpt: "十年龙套无人知，一朝短剧天下闻。 重生08年，流量时代到来的前夕。 系统深怕李明洋混不好，给了他一双‘桃花眼’。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cc_都重生了，谁还当演员1-1111章.txt",
+    readUrl: "https://pan.baidu.com/s/1CLSVN8Mmr4y1ErSjAgk8yA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cc/",
   },
 
@@ -53377,6 +53430,7 @@ export const bookItems = [
     excerpt: "凭什么无限流就非得去其他世界杀杀杀？凭什么调查员非得缩在阴暗角落不能见人？凭什么拥有强大力量却还要被当成消耗品？乔木越想越不对劲。谁拥有力量，谁就该拥有财富、掌握权力、统治世界！检验真理的工作，就交给我们吧！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cd_主神：从月入五千到资产千亿1-2057章.txt",
+    readUrl: "https://pan.baidu.com/s/1aUI8IDJjxK9dGEM0VRTljA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cd/",
   },
 
@@ -53394,6 +53448,7 @@ export const bookItems = [
     excerpt: "穿越到战锤宇宙，安迪发现自己成为了一个拥有完整STC数据库的铁人。在这个群魔乱舞的第四十一个千年，为了不跟着虫豸们一起完蛋，安迪决定从捡垃圾开始……种田！……贝利撒留·考尔：“欧姆弥赛亚的私生子啊！那是完整的标准建造模板？快交给我，帝国复兴就在今日！”安迪：“事已至此，先种田吧。”……瓦什托尔：“凡人，速来灵魂熔炉，我们谈个几十亿的大生意。”安迪：“晦气！接着种田。”……塔拉辛：“完美的黄金时代标",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cf_战锤：从种田开始重塑黄金时代1-540章.txt",
+    readUrl: "https://pan.baidu.com/s/17QHE8iK_391cgPFjSpzIAA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cf/",
   },
 
@@ -53428,6 +53483,7 @@ export const bookItems = [
     excerpt: "一场来自高维文明的游戏。 是给人类带来希望，还是阴谋？ 面对即将熄灭的文明。 是帮助点燃火种，还是冷眼旁观？ 当这一切的选择权，落在你的手中，你又该如何抉择？ ps:1057321107（新群） ps:962490725（老群）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ch_文明乐园1-728章.txt",
+    readUrl: "https://pan.baidu.com/s/1xmdCkklMbEqDGSu1h7pQZw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ch/",
   },
 
@@ -53480,6 +53536,7 @@ export const bookItems = [
     excerpt: "1960：林燃睁眼竟是60年代的纽约街头，手握未来60年的科技数据，却成了没有身份的“黑户”。在20世纪60年代成为NASA局长，每年烧掉阿美莉卡GDP百分之十的预算，在国会舌战群儒，在全球高校集结群雄，在全球科研合作挥斥方遒。2020：回到华国打造托拉斯怪兽，在火星上建造基地，集结宇航员出发木卫二，开启土卫五的大改造计划。这场跨越时空的豪赌中，他既是历史的幽灵，也是未来的火种。林燃蓦然回首时发现",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cl_科技入侵现代1-823章.txt",
+    readUrl: "https://pan.baidu.com/s/1d6Euq4-X6jVYDXKFDD18_Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cl/",
   },
 
@@ -53497,6 +53554,7 @@ export const bookItems = [
     excerpt: "当顶流女神在香格里拉“一脚踢中”高冷摄影师，她果断加微信：“赔医药费！” 从此深夜聊哲学、硬塞工作邀约、逼他拍自己，甚至联手亲友团挖坑——高冷男逐渐沦陷：“这女人怎么拆我防火墙还自带星光？” （单女主刘+日常向）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cm_光影绘心1-725章.txt",
+    readUrl: "https://pan.baidu.com/s/1HxX5NjXL2v_Io2c0lOmq1A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cm/",
   },
 
@@ -53532,6 +53590,7 @@ export const bookItems = [
     excerpt: "好消息：穿越了，有挂！坏消息：快死了，是祭品。好消息：我已成功奴役了邪神！…打开为入侵仙界而设计的【大荒仙经】，手动切换异界绝境求生模式，无视严正警告以邪魔污染源替代灵气，开启未授权的非法异种升仙路。身负仙经，狩猎邪神。一把抓住，顷刻炼化。想要在这个邪魔泛滥的陌生世界混出头，就必须换个活法。比如开办血汗工厂，科学剥削邪魔、高效压榨异种、可持续圈养外神，赚钱！赚钱！都给我狠狠地赚钱！！！……又名《剥",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cp_新概念诡道升仙1-589章.txt",
+    readUrl: "https://pan.baidu.com/s/1UbJAgGSX6QTpf-BrDj57-w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cp/",
   },
 
@@ -53547,7 +53606,7 @@ export const bookItems = [
     chapters: "1-480章",
     excerpt: "【赶山】、【打渔】、【采珠】、【淘金】、【美食】、【训狼】、【熬鹰】……一九五八，火红年代。 身怀职业系统的陈拙，来到长白山脚下。 身为老饕，想要在这个年代吃好喝好，显然不是一件容易事。 还好只要肝职业面板，就能无限转职，获得特殊职业。 【家常菜（入门50/50）】 【转职→大锅饭能手】 【每当供给十人以上的大锅饭时，做菜速度+20%，美味程度+10%，食材利用程度+15%】 【赶山（入门50/5",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1Qmfgm6zDknKswdszbTepfw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/15R4eHo_uztM4SyHtpNQw4w?pwd=q7na",
     downloadUrl: "/books/m_cq_重回五八：从肝职业面板开始1-480章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/cq/",
   },
@@ -53584,6 +53643,7 @@ export const bookItems = [
     excerpt: "【不压主角+大兵团+全球博弈+热血爽文】【高定过万、均定六千三百的大精品之作，请读者放心品鉴】【本书引用资料均为中方战史视角】【开局：有敌无我，有我无敌！】【发展：烈焰升腾，焚天煮海！】【结局：公理得胜，九死无悔！】“现代军迷穿越去抗战，杀鬼子有没有问题？”“可以，谨慎一些”“那如果开局就是加强团团长呢？”“马革裹尸，死得其所！”“那如果是亮剑影视世界，你又是晋绥军358团团长，再给你一个三维立体",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cs_抗战：从成为楚云飞开始崛起1-827章.txt",
+    readUrl: "https://pan.baidu.com/s/1M-dOp2m525M25_9Rp-mv7Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cs/",
   },
 
@@ -53601,6 +53661,7 @@ export const bookItems = [
     excerpt: "急诊科医生马天穿越到大明岭南一个山村，还带着一个急救箱。原主的爹在他七岁就过世了，娘亲在过世之前说他还有个姐姐。拿着一把父亲留下的刀，他来到了应天城。在钟山下，救下一个穿着寿衣的孩子，孩子醒来后，什么都不记得了。马天给孩子取名朱英，带着他在城中开个医馆。一个月后，朱元璋微服上门，看到朱英，惊了：是咱大孙朱雄英。他领着想念孙儿的马皇后上门。马皇后看到马天，惊了：这郎中长的跟我爹几乎一模一样。两月后，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ct_大明：马皇后亲弟，开局救朱雄英1-458章.txt",
+    readUrl: "https://pan.baidu.com/s/1nwS-pjCZwCprw9rLz1Tr4g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ct/",
   },
 
@@ -53617,6 +53678,7 @@ export const bookItems = [
     excerpt: "秦朝，一段神秘且充满争议的历史。嬴阴嫚穿越而来，成了秦始皇嬴政最宠爱的女儿，不想称王称霸，只想静静的享受安静的生活。可是短命的王朝以及未来的命运也不断驱使着她，在不知不觉间，却已改变了历史。在这里，她看到了诸多历史人物：秦始皇嬴政、公子扶苏、李斯、蒙毅、蒙恬、王离、赵高……而他们，也都有着自己的思想与性情……ps：单、慢节奏、温馨家族男频变身文，不喜勿入。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cu_大秦公主的悠闲生活1-660章.txt",
+    readUrl: "https://pan.baidu.com/s/1irh-XnOWNaaiDYydu-2Cog?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cu/",
   },
 
@@ -53634,6 +53696,7 @@ export const bookItems = [
     excerpt: "人到三十，得了绝症的陈锋，在离婚之后时来运转。中奖了、好运了，最后连绝症也好了……这是怎么回事？欧皇上身的陈锋表示，触底反弹，放飞自我的感觉真的爽！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cw_离婚后的我开始转运了1-2116章.txt",
+    readUrl: "https://pan.baidu.com/s/1BjFT-4keQKThTwZWpXl50A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cw/",
   },
 
@@ -53651,6 +53714,7 @@ export const bookItems = [
     excerpt: "催更群：960145582神秘天幕降临斗罗大陆，可随机挑选人员进入完美世界，并开启全大陆直播！只要成功存活满一年，便能带回获得之物，并有望成神证道！起初，斗罗众人还在自信满满，准备横推完美世界，夺取造化与机缘。直到呼延震被黑皇后裔一巴掌拍成肉泥。理论大师玉小刚试图研究猪，结果被猪拱飞三千里，沦为笑柄后，众人才意识到完美世界的恐怖。……无数纪元前，姜辰穿越完美世界，历经无尽岁月，在系统的帮助下证道仙",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cx_天幕：我仙王巨头，被斗罗直播了1-397章.txt",
+    readUrl: "https://pan.baidu.com/s/11WURBy8FQ3gjYCS7EGUwGw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cx/",
   },
 
@@ -53668,6 +53732,7 @@ export const bookItems = [
     excerpt: "［民俗诡异］［无限流］［国术］ 体为四梁八柱，身请旧世俗神。 陆安生点开凭空出现在手机中的民俗游戏《埋葬志》，穿越到了邪祟横行的俗神埋葬之地，要寻找古神的遗存，修建装脏体庙，完成一次次任务，才能短暂回到现实。 最初踏上这趟旅途的他，手中只有记录民俗事物，便能获得奖励的神秘古书《俗事古录》。 怪奇诡谈皆在书中。 野狗刨坟，死驴拉磨，黄仙讨封，牲畜叩门，放排船帮， 替命水鬼，捞尸倒斗，赶尸降头，跑山拜",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cy_从装脏法开始民俗游戏1-1316章.txt",
+    readUrl: "https://pan.baidu.com/s/1KkYENCmVN9B8-ZmgwfO7EQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cy/",
   },
 
@@ -53685,6 +53750,7 @@ export const bookItems = [
     excerpt: "【前期斗二，中期斗三龙王传说】 时空乱流中，霍雨浩与唐三同归于尽，本以为一切尘埃落定。 然而，命运却给了他重新来过的机会。 当他再次睁开双眼，竟然重回自己十岁时。 金龙王神核蛰伏于身，命运之眼依旧闪耀。 但这一次，似乎有什么变得不一样了…… 回过神来时，霍雨浩发觉同伴们看向他的眼神似乎也变得不对劲起来。 “雨浩，你好香啊……” “雨浩，请放心。昊天锤它说，可以上了。” “只要和雨浩你在一起，就没有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_cz_斗罗：重生雨浩，她们眼神不对劲1-602章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ah5g08HdNRFIJVr0hEPVbA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/cz/",
   },
 
@@ -53701,6 +53767,7 @@ export const bookItems = [
     excerpt: "校田径队不能没有林飞，就像西方不能没有耶路撒冷！ 重生喜提新手大礼包的林飞，开局就拥有国家一级运动员的身体素质！ “你说什么？有人跑赢了亚洲飞人苏丙添？” “对啊！就是初三二班的林飞，听说校长和校田径队教练都在劝说林飞加入校田径队！” 加入校田径队、校运动会、县运动会、……………………世界田径锦标赛、奥林匹克运动会，一路火花带闪电，拿奖拿到手软，我就是林飞，华夏红色闪电、世界飞人！ 噢对了，刘艺菲",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_d_短跑：初中的我，跑赢亚洲飞人1-482章.txt",
+    readUrl: "https://pan.baidu.com/s/1hylquIK7mcQmCGjv7arb-g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/d/",
   },
 
@@ -53717,6 +53784,7 @@ export const bookItems = [
     excerpt: "蓝星灵气复苏，世界发生剧变。陈江意外绑定了神秘道具【无相假面】，获得进入各类“副本世界”的能力，只要完成任务，就可以获得奖励。他先是成为乡下放牛郎，机缘巧合与仙宗的仙子结婚。结果仙子竟是修无情道的，要杀夫证道；可他只是笑着说，“祝娘子仙途坦荡”。没想到仙子却不愿意了，说些什么迟早会找到他之类的话……又化身得道高僧，轮回九世，关押祸世魔女八百年，只为将其度化。没想到放她出来后，这魔女竟死性不改，不仅",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_da_什么？她们都是真实存在的？1-313章.txt",
+    readUrl: "https://pan.baidu.com/s/1Io3D4jW4gMP2ZTmAL-fSkQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/da/",
   },
 
@@ -53734,6 +53802,7 @@ export const bookItems = [
     excerpt: "【诛仙+超神+遮天+洪荒……】 躺平享受生活的大学生左道，意外得到一面古铜镜，开启后，却穿越到诛仙世界。能修仙了！长生就在眼前！他只想安稳修行。下山改善生活，被文敏、陆雪琪擒住，用裤子当做绳索，拿他上戒律堂受审…… 左道以太极玄清道为根基，修出了自己的金丹法，逐步踏足大道尽头。在诛仙世界，以先天炁吞噬兽神、修罗，荡平魔渊……在超神世界，解决身体基因上的限制，湮灭中心黑洞……在遮天世界，与黑暗动乱源",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_de_从诛仙开始修金丹法，横推万界1-1278章.txt",
+    readUrl: "https://pan.baidu.com/s/19ylQWdyoD__9EdB5NGXfcQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/de/",
   },
 
@@ -53751,6 +53820,7 @@ export const bookItems = [
     excerpt: "重生平行世界的70年代，锅炉工姜晨经济军工两手抓！上一世，他是龙国军工专家；这一世，他手握焊枪，窝在锅炉房中翻开随身绑定的《星际军工系统日志》。 从改进63式步枪开始一步步打造龙国最强军工系统。 猴子：龙哥出口给我们的63式步枪难道是猴版？他们的步枪打得比我们远多了。 鹰酱：我们才搞出的五代机，怎么就被兔子探测到了？还有，那无人控制的战机，难道是传说中的六代机？ 脚盆鸡：龙国人不骗龙国人。 “用货",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_df_那年搞军工，我的无人机卖爆了1-520章.txt",
+    readUrl: "https://pan.baidu.com/s/1tFhHwByTK2KYgR9H9HvmBw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/df/",
   },
 
@@ -53768,6 +53838,7 @@ export const bookItems = [
     excerpt: "大佬重回1978年，脚下就是中国第一电影制片厂，万物竞发、勃勃生机的年代，又有什么不可能？ 李子成：重振长影荣光，我辈义不容辞！ 书友群：776304812 进群回答书名！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_di_1978从长影厂开始1-1326章.txt",
+    readUrl: "https://pan.baidu.com/s/1d6DttM42XJ0-PYKFEH_tBQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/di/",
   },
 
@@ -53784,6 +53855,7 @@ export const bookItems = [
     excerpt: "这是阿宅错误转生的半土著布罗利，在不同动漫世界寻找老婆（饭票）让老婆幸福起来的故事。 FZ——斩赤前传——为美好的世界献上祝福/爆炎——游戏人生zero——数码宝贝——回巡篇（空之境界）——黑弹——无职转生——成龙历险记——食灵——龙珠莱卡星篇——地错",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dk_龙珠：赛亚人的诸天美食之旅1-988章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ar4x77lD0a5B7Vxsvu7y5g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dk/",
   },
 
@@ -53801,6 +53873,7 @@ export const bookItems = [
     excerpt: "1638年，他是巡检1639年，他是知县1641年，他是知府剿寇归剿寇，不能耽误种地杀酋归杀酋，不能耽误挣钱让皇帝、大臣、明将、流寇和建虏全都倒抽一口凉气，小冰河变暖……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dm_穿越大明：我能接收现代物资1-721章.txt",
+    readUrl: "https://pan.baidu.com/s/1VkW5sB_iKtw56OUl6Z6Uvg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dm/",
   },
 
@@ -53817,6 +53890,7 @@ export const bookItems = [
     excerpt: "一入星战深似海，这里只有战争……战争永不改变，即便是遥远的银河也是如此。共和国的光辉早已黯淡，绝地的智慧淹没于阴谋与战火。旧的秩序正在崩塌，而新的秩序……建立在克隆人大军与机器人的尸骸之上。索洛并非天选之子，只是一个历史系学生，只是一位在吉奥诺西斯原本战死的普通绝地武士。没时间迷茫，没机会退缩，克隆人战争已经打响，银河系的命运正坠入深渊。“一切的恐惧，都源于自身的火力不足。”“如果所谓‘英雄’只是",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dn_星战：忠诚高于一切1-428章.txt",
+    readUrl: "https://pan.baidu.com/s/1QLCab0HkvzGiDt2-Jmnc-A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dn/",
   },
 
@@ -53834,6 +53908,7 @@ export const bookItems = [
     excerpt: "〖神豪+美女+重生+幽默+反套路〗 “只要宿主跟90分以上的美女接触就可以获得现金奖励。” “另外目标人物对宿主的好感度每增加30点，宿主就可以获得一次抽奖机会，而且中奖率是百分之百！” “那奖品大概会是什么呢？” “比较一般的奖品有颜值进化剂，它可以让宿主的颜值从78分逐渐进化成95分……” “那个……其实钱不钱的无所谓，能不能抽奖的也没什么关系，主要我这人吧，特别喜欢玩儿游戏！” 从此张敬东靠",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_do_逼我当神豪是吧1-914章.txt",
+    readUrl: "https://pan.baidu.com/s/1pyNSCCPM6QQomT_LW6J_dA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/do/",
   },
 
@@ -53851,6 +53926,7 @@ export const bookItems = [
     excerpt: "许易穿越遮天世界，成了未来叶天帝的大舅哥，本想抱大腿。没有想到自己也觉醒了无缺混沌体，上古重瞳，直接成为了黄金大世最强天骄。而这时候，又有诸天大道聊天群邀请他进入群聊。群里个个都是人才，说话又好听，会的东西还多。七玄门韩立:“诸位群员，韩某要后退一步了，小心。”嬴政:“朕就想成个仙而已，要求不高吧。”熊孩子:“快来快来，给大家直播一个烧烤始祖，反复油炸…”凯莎:“吞噬了这么多恒星，领悟这么多法则。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dp_我，混沌体，开局加入聊天群1-453章.txt",
+    readUrl: "https://pan.baidu.com/s/10nzQ2di1EDQ6pGISrpwhzw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dp/",
   },
 
@@ -53868,6 +53944,7 @@ export const bookItems = [
     excerpt: "身为穿越者，黄庸的新手村不太友好，他怎么就能以一个降将之子的身份被软禁在洛阳，这还怎么玩？ 可他很快发现，曾经是掮客的他在这种地方游龙了，到处都是虫豸的地方温暖的就像回家一样，于是他准备做些事情——做什么不要紧，赢就行，起码宣称要赢，而且要赢麻。许多年后，黄庸捂着心口痛苦地说：我虚空造牌，我缓和外交，我削减支出提高效率，我提高关税减少战争，你们怎么就不相信我有一颗善良的心，你们要是不相信，我可以挑",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ds_蜀国降将，但魏国地下皇帝1-929章.txt",
+    readUrl: "https://pan.baidu.com/s/1nwXtRUJCm5zdmFLfiv-bFA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ds/",
   },
 
@@ -53885,6 +53962,7 @@ export const bookItems = [
     excerpt: "1999年，港片余晖尚未散尽，内地娱乐业蓄势待发，李凤先，一个在横店摸爬滚打的龙套演员，靠着系统加持，誓要逆袭人生!PS:除了没有赤兔马和方天戟，男主就是一个再世吕奉先!",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dt_这个影帝不当人！1-619章.txt",
+    readUrl: "https://pan.baidu.com/s/148zeIBxGIPP3_mIILmHW4Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dt/",
   },
 
@@ -53919,6 +53997,7 @@ export const bookItems = [
     excerpt: "肖途意外获得了穿越时间线的能力，在不同的时代有着不同的身份，相貌一样，身高、身体素质不同。他从一个普通人变为了篮球明星，不断提升实力，在各个时期统治NBA。一群：239381647。二群：493115381。有兴趣可加群讨论剧情。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dw_篮坛神迹1-626章.txt",
+    readUrl: "https://pan.baidu.com/s/13pwJwas91PBcCRMlkKN4Ug?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dw/",
   },
 
@@ -53936,6 +54015,7 @@ export const bookItems = [
     excerpt: "神豪+生活+幽默简介：24岁的阳晖，刚刚被确认升任为区域总经理，巅峰人生似乎已经为他开通了快车道。“失业救助系统”降临，失业便可领取海量失业救助金！而绑定开启系统的条件是：7天内成为失业人士！从此，一个流氓财阀诞生了......本书又名：《这个刺头，怎么那么有钱？》《我不爱钱，我对钱没有概念》《造孽啊，你放过她们吧》 已有240万字精品老书《996的福报从每天100万开始》，书荒的大大们可以打发一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_dz_财富自由后，发现女友是超级富婆1-740章.txt",
+    readUrl: "https://pan.baidu.com/s/12D8bT2bYK0Y_jpljfDXDVw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/dz/",
   },
 
@@ -53953,6 +54033,7 @@ export const bookItems = [
     excerpt: "泻药，人在诸天，刚受打击，我要回家告状！ 获得能通往诸天的双穿门，顾明本打算在异世界打下一片大大的疆土，却被现实打击的体无完肤。 心灰意冷的游子返回家乡，找到了家长。 于是钢铁洪流兵出星河，跨界而来！ “桀桀桀，工业邪神了解一下？” …… ——穿越魔法世界，当钢铁浇筑的航母撞破异世界的大门，装甲长龙碾过魔法阵： “万年的魔法传承？和我的导弹说去吧！” “点子扎手，呼叫小爱精灵，三千枚魔导东风，覆盖",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_e_谁让你带工业邪神穿越的？1-420章.txt",
+    readUrl: "https://pan.baidu.com/s/1x1DQ1HsOGO5mjUmz83O0Zw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/e/",
   },
 
@@ -53969,6 +54050,7 @@ export const bookItems = [
     excerpt: "景元山福地，内庭府洞天。跳出三界外，不在五行中。吾乃玄清洞微天尊，内景洞天福地之主！—————内者，心也；景者，象也。外象谕，即日月、星辰、云霞之象；内象谕，即血肉、筋骨、藏府之象也。心居身内，存观一体之象色，故曰内景也。假使一人自身内景可以连通诸天，居于万界之中，得诸天万界机缘，自当于内景中成仙，成神，成圣，成道！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ea_一人之下：我的内景通万界！1-537章.txt",
+    readUrl: "https://pan.baidu.com/s/1OM-20JvltA5b0wuyQHGU0w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ea/",
   },
 
@@ -53986,6 +54068,7 @@ export const bookItems = [
     excerpt: "《关于系统坏掉后我的技能变得越来越奇怪这件事》【宿主请加点】【身躯：5.0】【神智：5.0】【灵性：5.0】【其余人对你许诺或发誓时无论真心实意还是虚情假意发言结束后你都能强制要求对方完成诺言或誓言的超绝防止被骗能力：0.0】黎志：“这谁能忍得住啊，三短一长选最长！”很快，有人对黎志说：“你的一切努力王国皆会给予回报。”那人的头顶出现了两行小字。【此人许诺“你的一切努力王国皆会给予回报”。】【是否",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eb_我的超绝能力高于一切1-469章.txt",
+    readUrl: "https://pan.baidu.com/s/1tutdvSHaLASlr5gayBO82Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eb/",
   },
 
@@ -54002,6 +54085,7 @@ export const bookItems = [
     excerpt: "我都穿越了，用大炎的义体还得百分之两千的关税？用哥联义体我还没医保？无线上网还tm的得交专利费？那我不成跪着要饭了？合法？金手指搓的！管得着吗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ec_你这义体合法吗1-603章.txt",
+    readUrl: "https://pan.baidu.com/s/1MGnI1MCdVVujamZlOWNS6w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ec/",
   },
 
@@ -54019,6 +54103,7 @@ export const bookItems = [
     excerpt: "一觉醒来，发现自己穿越成了古龙世界中的著名舔狗阿飞，开局复制小李飞刀。横扫道德，做回自己！用最好的剑，骑最快的马，喝最烈的酒，睡最美的妞，杀最狠的人！这才是穿越者该过的生活！……小李飞刀、笑傲、倚天、天龙、射雕、神雕、大唐双龙传、陆小凤传奇、三少爷的剑……（非穿越顺序）本书又名《绝世武功和绝世佳人，我全都要！》《人在江湖，为所欲为》《这个江湖有点热》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ee_武侠诸天：开局复制小李飞刀1-475章.txt",
+    readUrl: "https://pan.baidu.com/s/1lv1IR_PID3IU_RkXWUn9dw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ee/",
   },
 
@@ -54036,6 +54121,7 @@ export const bookItems = [
     excerpt: "重生回到灵潮降临前夕，钱才获得了能给自己加点的神秘钥匙。他能从天命之子身上薅取天命值，转化成属性点与技能点。当被誉为‘黄金一代’的时代主角们引领潮流时，钱才凭借自身先知优势，低调游走于众势力之间。与财团千金合作获取顶级资源；从黑色组织手中截胡超古代秘宝；组建公司发掘全球遗迹；幕后投资未来潜力新星……纪元交替之夜，当屹立于登神长阶之上的钱才面具碎裂，外界方才惊觉，这位曾经的小角色已然登临绝巅！……灵",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eg_灵潮将至1-862章.txt",
+    readUrl: "https://pan.baidu.com/s/1hOjyNneeM4n9x2_8pslA5Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eg/",
   },
 
@@ -54053,6 +54139,7 @@ export const bookItems = [
     excerpt: "造反？失败了才叫造反！成功了那叫重开大统！ 崇祯二年，天灾席卷大明上下，后金挥师入关。 内有银川驿卒跃跃欲试，外有辽东鞑子虎视眈眈。 曾经追亡逐北的强盛帝国摇摇欲坠。 在己巳之变的兵灾里，江瀚穿越成为延绥镇勤王大军中的一名小卒。 面对上官的狠辣，朝廷的苛责，鞑子的屠刀，江瀚悍然发动兵变，成为陕北的一股乱军。 什么？你告诉我军饷发不出来？ 看看这遍地的地主老财、藩王官绅？哪个不是吸血的财阀？ 什么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eh_大明：从边军开始覆明灭清1-553章.txt",
+    readUrl: "https://pan.baidu.com/s/1DCn6WIpnQ4PiS92y0iDCQA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eh/",
   },
 
@@ -54086,6 +54173,7 @@ export const bookItems = [
     excerpt: "(QQ群：796809181，欢迎宝们来交流)2014年，内娱正式开启大流量时代， 四大三小如日中天，各类小花争奇斗艳， 从南韩解约的顾清，将从国民级综艺跑男杀出一条血路，将流量的格局彻底改写…… …… (ps：这是一个在内娱‘走正道’的故事)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ek_内娱顶流：从跑男出道1-613章.txt",
+    readUrl: "https://pan.baidu.com/s/19brWFBuhYUIVYKhlRM4DAA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ek/",
   },
 
@@ -54102,6 +54190,7 @@ export const bookItems = [
     excerpt: "男人三十一枝花？没钱就是稀泥巴！而主角年满三十，获得财富自由系统，这是人生的推到从来！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_el_财富自由：从三十开始1-1192章.txt",
+    readUrl: "https://pan.baidu.com/s/1PIyB166DzO4PGZlzL-ugIg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/el/",
   },
 
@@ -54119,6 +54208,7 @@ export const bookItems = [
     excerpt: "我是一个年届不惑的水果贩子，有一天我接到了学校老师的电话，说我那成绩一直平平无奇的儿子刘振华在期中考试控分了。 刘振华是这样狡辩的：爸，我是来自未来的超级AI，代号电子哪吒，我的任务是拯救地球。 嗯，这孩子脑洞还挺大的，我像你们一样不信！ 后来……后来的事情…… 哎，一句两句说不清，你自己点进来看吧。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_em_电子哪吒1-345章.txt",
+    readUrl: "https://pan.baidu.com/s/1fJHLXAZn64FY-lVTKzI_JQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/em/",
   },
 
@@ -54136,6 +54226,7 @@ export const bookItems = [
     excerpt: "【高定两万，精品保证】 一觉醒来，陆阳重生回1988年的婚房捉奸现场。 砸门声刺耳，本该躺在身边的学霸未婚妻，变成了双胞胎结巴小姨子，师娘算计、未婚妻退婚、全村等着看倒插门的笑话…… ——前世他懦弱逃离，害得新婚妻子自尽，恩师郁郁而终…… 重活一世，陆阳誓要左手搂紧结巴小娇妻，右手扼住时代风口，只是那本该黑化的凤凰女未婚妻，为何红了眼求他回头？ PS:本书又名《未婚妻悔婚，我反手娶了双胞胎小姨妹》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_en_年代：从错娶小姨子开始1-1097章.txt",
+    readUrl: "https://pan.baidu.com/s/17wFjbV809DL0gFQ0Uv9u4g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/en/",
   },
 
@@ -54153,6 +54244,7 @@ export const bookItems = [
     excerpt: "【精品红楼，红楼王朝1620】迎春多了个身怀楚霸王体魄的胞弟，最强碳基生物降临红楼今宵朱楼梦，他朝水国吟，白骨如山忘姓氏…他是玄武门的终结者、铁网山屠龙的见证者。他是贾母口中铁石心肠的孽障，是宝玉的噩梦，是红楼诸芳心中的如玉公子，是族人心中作风霸道的大家长。他是太上皇口中的忠勇无双的柱国神将，是九龙夺嫡者梦魇。千红一窟，万艳同碑。类明红楼、漠北烽烟已起，女真来势汹汹。大争之世、懦弱换不来同情，妥协",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eo_红楼之胜天半子1-532章.txt",
+    readUrl: "https://pan.baidu.com/s/12HrrIqNkEqKY97h89Ay4-w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eo/",
   },
 
@@ -54187,6 +54279,7 @@ export const bookItems = [
     excerpt: "原本是个韩娱文扑街tj写手，每天只顾着水读者群的林以桉，突然有一天被一个陌生人拉进了一个群聊。 群里都是“同道中人”，他们总是莫名奇妙地发出一年后发生的新闻和歌曲，而经过验证，林以桉发现他们所说的一切所言非虚。 于是，刚好被星探找上的他，带着这样一个bug，成功前往了半岛。 从此就踏上了每天水群，拯救她...们，和从练习生开始做起开并逐渐登顶的道路。 ...... 但是，自己为什么会被拉进这个群聊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ep_半岛：说好一起当梦楠，你玩叛变1-418章.txt",
+    readUrl: "https://pan.baidu.com/s/1QuUujFirbtCK8swq63L8GQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ep/",
   },
 
@@ -54204,6 +54297,7 @@ export const bookItems = [
     excerpt: "穿越大明，江怀拥有定制人设，只要根据人设行事，就能获取”福、禄、寿、“奖励！历经数年，他好不容易通过“乞丐人设”，积攒下福运。没想到下一个人设就是“贪官”！江怀顶风作案，更有劣迹恶名流传于外。【我可以不收，但你不能不送！】【让外面的歪风邪气吹进来！】【我要接受大明最严厉的考验！】然而很快，洪武九年，空印案降临。洪武帝要清洗天下贪官，各地主印官无不战战兢兢，心惊胆颤。然而就在这时，一只寓意深刻的“要",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eq_大明：私人订制，从挑战软肋开始1-113章.txt",
+    readUrl: "https://pan.baidu.com/s/1QRrQ1jZS2rF1i6eSWgqWCw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eq/",
   },
 
@@ -54221,6 +54315,7 @@ export const bookItems = [
     excerpt: "李维，中国人。 1971年入学霍格沃茨，毕业于斯莱特林学院。 从霍格沃茨毕业14年后，因为涉嫌“黑魔法传播与扩散”罪名，在接连击败英国魔法部派来抓捕的九名傲罗之后。 被邓布利多亲自找上门，被迫成为了新的黑魔法防御术教授。 “一年级们，负责飞行课的霍琦教授告诉我，她今天感觉身体不太舒服，所以，今天下午的两节飞行课全部换成黑魔法防御术。 同样的还有三年级，负责占卜学的特里劳妮教授感知到她这个月的运势不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_es_霍格沃茨：中国式教授1-457章.txt",
+    readUrl: "https://pan.baidu.com/s/1PNIEYrSLvzK_ucsWU7JRVA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/es/",
   },
 
@@ -54256,6 +54351,7 @@ export const bookItems = [
     excerpt: "一朝穿越，睁眼就是1940年的纽约。时值第二次世界大战，血肉横飞的战争所代表的不仅是战场上的厮杀，也更是意识形态上的对抗。而作为世界中心的纽约，毫无疑问汇聚着这个年代最璀璨的思想。海明威、阿西莫夫、辛克莱·刘易斯、约翰·斯坦贝克、赛珍珠、毛姆、纪德、林语堂、菲茨杰拉德……更有那远在欧洲大陆，与轴心国对抗的加缪、阿加莎、乔治·奥威尔、亚瑟·克拉克……对此，恩尼表示：“这里个个都是人才，超喜欢这里！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_eu_我在二战当文豪1-263章.txt",
+    readUrl: "https://pan.baidu.com/s/1VRQKKXt5tDxMsiwEpuAWZg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/eu/",
   },
 
@@ -54273,6 +54369,7 @@ export const bookItems = [
     excerpt: "当远古的传说被禁忌掩埋之时，先驱者终将跨越无尽机战世界再度归来！！ （目前已攻略世界:超时空要塞-可曾记得爱，苍蓝钢铁的琶音，uc0079，创形者-再起，天使与龙，高达00，超时空要塞7，高达seed，机动战舰抚子号（仅战舰参战），宇宙战舰压码头。目前进度——高达oo2）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ev_机战：先驱者的归来1-2188章.txt",
+    readUrl: "https://pan.baidu.com/s/18xyWPbz_gZublcTUUsqHwg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ev/",
   },
 
@@ -54289,6 +54386,7 @@ export const bookItems = [
     excerpt: "（轮回乐园同人）意外进入圣域乐园的辛莱莱，以契约者的身份展开了名为无才能者的人生。他曾于王座上俯瞰世界崩灭，也曾目睹深渊在极刃下化作白夜。挣扎，绝望，醒悟，传说……唯有在万念俱灰下超越死亡，方可于死境中踏碎绝望。契约者，欢迎来到『圣域乐园』。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ew_圣域乐园1-1099章.txt",
+    readUrl: "https://pan.baidu.com/s/18UOqfAxIKVm08bdHiRBUTw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ew/",
   },
 
@@ -54306,6 +54404,7 @@ export const bookItems = [
     excerpt: "木叶三十四年，宇智波一族出了一个任务狂人。你要问当事者为什么，他只能告诉你——我要攒经验，抽卡升级！抽取人物卡【宇智波斑（少年）】【波风水门（青年）】【宇智波佐助（鹰小队）】……斑：我在他身上看到了自己年少时的影子。水门：我感觉自己一直活在源前辈的阴影里面。富岳：不好！这小子冲着美琴来的！（已有一百五十万字精品火影同人，老作者，可放心食用）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ez_火影：从抽卡开始打造最强宇智波1-396章.txt",
+    readUrl: "https://pan.baidu.com/s/1juPx5NByVcsuDUITHtJ-_w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ez/",
   },
 
@@ -54323,6 +54422,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fa_四合院：解旷解忧1-1707章.txt",
+    readUrl: "https://pan.baidu.com/s/1K458TsyTWrfVTE42-fP89w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fa/",
   },
 
@@ -54339,6 +54439,7 @@ export const bookItems = [
     excerpt: "校园向简介：“她们想勾引我打游戏实在太天真了。”刻苦自律的优秀高中生程飞，立志成为现实主义强者。【清冷孤僻的高岭之花，邀请你加入探索小队】【温柔治愈的岛国声优，私下找你甜蜜双排】【傲慢的恶役大小姐，分手后对你恋恋不舍】“行不通的，你们这帮网瘾少女。”—悬疑向简介：久远的文明消陨在群星深处，只留下幽灵般的大陆漂浮在大洋上空。诡谲的变序体将坐标维度尽数碾碎，尾随粒子运行的轨迹悄然蔓延。「不要接触…不要",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fb_我真不想和网瘾少女谈恋爱了！1-1108章.txt",
+    readUrl: "https://pan.baidu.com/s/1BUY4QuOETL3CIFlSDaXY5g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fb/",
   },
 
@@ -54374,6 +54475,7 @@ export const bookItems = [
     excerpt: "你说你这是人皇幡，可我看它库库往外冒黑烟。-----------------异界魔头，颠覆王朝，收割灵魂，练就一杆万魂幡。九天雷劫之下，身死道消，万魂幡护住真灵不灭，夺舍不成反被艸。社会躺平小青年，手持万魂幡，行走在人间。手持万魂幡，可我功德练金丹。日常文，不争霸，帮助亡者完成心愿，获得功德修复万魂幡，享咸鱼人生。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fg_别胡说，我这是人皇幡1-1248章.txt",
+    readUrl: "https://pan.baidu.com/s/1QPofP9QP6FCNB03B2KQS0Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fg/",
   },
 
@@ -54391,6 +54493,7 @@ export const bookItems = [
     excerpt: "文娱助手系统，助力非凡人生。他说：“电影是艺术，我们要尊重艺术。”他说：“我的电影要改变世界。”站在戛纳电影节的领奖台上，举起奖杯露出灿烂的微笑。“拿奖一定是双赢的局面，我赢两次。”【恭喜宿主达成金棕榈奖成就！】【奖励：特效技术经验包。】......【奖励：3D拍摄技术经验包。】看着集齐的奖励，他知道东风已来。做好迎接华夏神话宇宙降临的准备了吗？诸君且听龙吟！ 那一年，燕京来了一个年轻人。那一年，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fh_华娱：系统逼我当导演？1-659章.txt",
+    readUrl: "https://pan.baidu.com/s/1PmjdRkwGOjpV0vz2ukgOwQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fh/",
   },
 
@@ -54407,6 +54510,7 @@ export const bookItems = [
     excerpt: "付前优雅地摘下头盖骨，如同绅士脱帽致意。始于一封跨越维度的邀请函，这是一个人类高质量暴徒，在每日准时到达的死局里，化不可能为可能的故事。而信函后的伟大存在那一天还不知道，这些为旧日量身定做的剧目，邀请来了什么样的恐怖演员。（原创副本，时间线，悬疑脑洞，腹黑磔王人）【更名通知】本书原名《直视古神一整年》，现正式更名为《旧日恐剧》，带来不便，恳请每一位书友谅解。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fi_旧日恐剧1-3009章.txt",
+    readUrl: "https://pan.baidu.com/s/1KG0EhUfOk0partUup9J2SQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fi/",
   },
 
@@ -54440,6 +54544,7 @@ export const bookItems = [
     excerpt: "高中学习剑术等各种战斗技巧。身体素质量化指标作为大学的重要依据。战斗能力是重要的一门主科。明明这些都是都市高武的标准画风。但是谁能告诉我。路边大大的混血种药剂广告是什么鬼。剑术老师来自鬼灭世界，海贼世界？隔壁新开了一家爆火的料理店，据说厨师是远月刚毕业的十杰。打开电视，上面播放的是市长和木叶村村长会晤的新闻。庆祝本市和木叶建交十周年。这高武世界的画风有点不对劲吧。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fk_我的高武世界怎么是二次元画风1-237章.txt",
+    readUrl: "https://pan.baidu.com/s/1HizqmwXqZgXfuhC7Uxv_kg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fk/",
   },
 
@@ -54456,6 +54561,7 @@ export const bookItems = [
     excerpt: "【本文不建议外放听书】穿越了！坏消息是穿越成权游里的提利昂·兰尼斯特，好消息是这个世界的提利昂不是侏儒。作为泰温·兰尼斯特的次子，兰尼斯特家族和凯岩城的继承人，提利昂从小便受尽宠爱，放荡不羁。他身材挺拔，相貌英俊，淡金色的长发柔顺，且在夜晚会发出淡淡的金银色光芒。一只眼睛是翠绿色，而另一只眼睛是淡紫色。这奇异的样貌，以及被泰温所宠爱养成的狂妄性格，被人称为“魅魔。”现在提利昂要依靠穿越来的记忆，和",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fl_权游：狮子家的魅魔首相1-664章.txt",
+    readUrl: "https://pan.baidu.com/s/1oZfVM5r42TZcgfIqsgQY4A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fl/",
   },
 
@@ -54472,6 +54578,7 @@ export const bookItems = [
     excerpt: "觉醒游戏系统后，江溯发现自己的任务居然是成为世界第一的公司掌门人。难度有点大，不过没关系，好在可以招揽人才，甚至还可以凑羁绊：【红颜祸水：3/3：效果：桃花劫概率大幅提高，丘比特之星环绕在你的周围，公司员工脱单率显著提升，忠诚度显著提升】【开卷有益：:5/5：效果：根本就没有工贼，或者说人人都是工贼！公司效益提升100%，福利支出提升200%，员工出门被同行围堵概率增加】【问薪无愧：群体工作时触发",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fm_谁让你专吃窝边草的？1-357章.txt",
+    readUrl: "https://pan.baidu.com/s/1bZDYJnmz5vMb2v_EumT9jw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fm/",
   },
 
@@ -54489,6 +54596,7 @@ export const bookItems = [
     excerpt: "舒景明玩游戏输了，惩罚给前女友打电话。愿赌服输的他拿起手机拨通了那个倒背如流的号码。“你最近过的怎么样？”“就那样，白天上班晚上回家带女儿。”“你都有孩子了？不好意思这么晚还给你打电话，打扰你了。”“咱们约个时间地点见一面吧，孩子还没有见过她的爸爸。”舒景明脑袋嗡嗡的，分手后前女友给他生了一个女儿？恰好这时，完美奶爸系统激活。只要完成相对应的任务就能获得奖励，并且还能获得各种各样的技能包。什么？幼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fo_分手后，前女友给我生了一个女儿1-183章.txt",
+    readUrl: "https://pan.baidu.com/s/1ONdB9yQKsuK7j9mCjiKQcQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fo/",
   },
 
@@ -54506,6 +54614,7 @@ export const bookItems = [
     excerpt: "【灵气复苏】+【朝堂】+【强国】+【战争】+【两界】+【种田】+【模拟经营】+【游戏影响现实】+【仙侠版序列魔药】+【高武版战锤星际战士改造】+【气运龙脉祠堂仙朝】现代蓝星与一颗类似沙盒游戏的古代历史星球在高纬度产生了重合，人们能以灵魂穿越古代星球扮演角色。佃户、地主、员外、王侯、将相……农奴、骑士、贵族、教父、主教……过去的历史机遇再现。万国来朝、南下擒龙、北复燕云、骑兵入关、大航海时代、蒸汽动",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fp_全民扮演游戏，从封建到蒸汽时代1-359章.txt",
+    readUrl: "https://pan.baidu.com/s/1Dk8AyiLLuMPfMIQwVnKlOA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fp/",
   },
 
@@ -54523,6 +54632,7 @@ export const bookItems = [
     excerpt: "“我都有红警基地了，你居然让我拍电影？！”穿越到平行世界的张牧，看着系统给出的金手指和任务陷入了沉思......不过只是拍电影那肯定是不可能的！就算是拍电影，我也要拍和你们不一样的电影！于是在世界电影史上，最丧心病狂的电影公司，洛圣都电影公司就此成立了！------为了拍摄一部谍战类电影，他们将CIA折腾的人仰马翻。为了拍摄一部环保类电影，他们将西北的一片沙漠变绿洲。为了拍摄一部现实类电影，他们选",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fq_开局红警基地，你却让我拍电影？1-314章.txt",
+    readUrl: "https://pan.baidu.com/s/1kRZW7HhHpVfGKHLdOKfpkQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fq/",
   },
 
@@ -54540,6 +54650,7 @@ export const bookItems = [
     excerpt: "自律是会上瘾的。重生回到高三的徐铭，发现眼前出现一个职业面板，身为学生他获得了【绝对自律】天赋。从此班上多出位热爱学习的卷王，学界升起一颗新星。随着学科等级提升，抽取到各种词条，徐铭发现学习原来是这么享受的事。——【公式推导：你对公式的理解更加深刻，推导能力得到提升。】【深度睡眠：你的深度睡眠时间大幅度增加。】多年后，徐铭站在开讲啦舞台上，他由衷表示道：“我能有今天的成就，全因为平时自律了些。”…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fr_这个学霸过于自律1-495章.txt",
+    readUrl: "https://pan.baidu.com/s/1TTOyEV4ArKsAjE_JQly9uQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fr/",
   },
 
@@ -54557,6 +54668,7 @@ export const bookItems = [
     excerpt: "完结小说《娘子请住手》，欢迎您来品鉴！【高定16000+】【架空历史爽文，尽量贴合原时空】人在法兰西，刚进凡尔赛，身份王太子。唯一的问题是，家父是路易十六，过不了几年就会被咔嚓……既然老爹和大臣们都靠不住，只好自己动手整顿法兰西了！先随便赚点小钱，解决困扰国家上百年的财政危机。再狠狠敲打心怀不轨、谋图夺权的贵族们。然后抄了占据大量土地不劳而获的教会。工业、科技、农业、商业齐头并进，我，就是法兰西最",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fs_我在法兰西当王太子1-1625章.txt",
+    readUrl: "https://pan.baidu.com/s/1lrB0voCsKcJNeuneRkwa1A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fs/",
   },
 
@@ -54574,6 +54686,7 @@ export const bookItems = [
     excerpt: "穿越诛仙世界，万逍遥被曾经的青云双骄万剑一收养。 万逍遥天赋异禀，六岁开始修炼，十五岁便是上清境界，有望二十岁之前突破到太清境界。其被宗门寄予厚望，让青云门未来更加辉煌鼎盛。 就在这时候，一个诸天万界聊天群邀请万逍遥进入其中，而群员都是来自各个世界次元的人物。 叶黑:“我为天帝，镇压一切敌！” 柳神:“我有道法三千，可证混元否！” 千仞雪:“我只是想像正常孩子一样得到关爱罢了。” 天使彦:“我是雷",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fu_诛仙：我，逍遥剑仙，加入聊天群1-388章.txt",
+    readUrl: "https://pan.baidu.com/s/16jSxMDGYFalpnGNvZ7CQ6w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fu/",
   },
 
@@ -54590,6 +54703,7 @@ export const bookItems = [
     excerpt: "1983年，身为世嘉粉丝的林彻重生东京。为了拯救未来的世嘉，林彻决定，出道成为游戏制作人！《俄罗斯方块》《坦克大战》《街头霸王》……面对一款又一款经典游戏的诞生，众多游戏公司唯有望洋兴叹。卡普空：他简直就是动作天尊！暴雪：他们根本不是游戏公司，而是伪装成游戏公司的制片厂！任天堂：我公司总感觉自己活在某人的阴影之下。2025年，已成为世嘉社长的林彻在镜头前侃侃而谈。“我从来没觉得做游戏开心过，我最开",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fv_1983：我在东京做游戏1-1039章.txt",
+    readUrl: "https://pan.baidu.com/s/1CZpTBlLp24AyEwKqJMRFRw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fv/",
   },
 
@@ -54607,6 +54721,7 @@ export const bookItems = [
     excerpt: "曹言意外激活诸天影视穿越系统，开启了一场场奇妙的影视世界之旅。从《前任3》到《玫瑰的故事》，在不同的世界里，体验生活，改变人物命运，获取丰厚奖励……以及爱情。 …… 穿越以都市世界为主。 正处于《知青》《大桥下面》融合世界 已完结影视《前任3》、《玫瑰的故事》、《三十而已》、《无心法师》、《精英律师》。 【爽文+多女主+系统流+影视穿越】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fw_影视世界：从前任开始1-633章.txt",
+    readUrl: "https://pan.baidu.com/s/11gM7ecVh_nv2DDu24aDcxQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fw/",
   },
 
@@ -54623,6 +54738,7 @@ export const bookItems = [
     excerpt: "灵异小说作家梁锌穿越到了一个灵异知识十分匮乏的世界，成为了这个世界的一个深夜广播电台主持人。为了发展国内的恐怖故事市场，他决定发挥自己的优势，开始在深夜广播讲恐怖故事。几天的努力，他的节目收听率从原本垫底一直到打破电台记录，达到了新高。正当他想着如何继续发展恐怖故事市场，却被告知自己的位置要交给其他人，而自己却被调到了助理岗位！面对如此刁难，梁锌果断选择离开。偶然间他发现直播平台并没有恐怖故事版块",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fx_收听率刚破纪录，你就开除我？1-989章.txt",
+    readUrl: "https://pan.baidu.com/s/1vWFeKfVQpbEgynFH3TxoxQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fx/",
   },
 
@@ -54640,6 +54756,7 @@ export const bookItems = [
     excerpt: "虚弱青年陈洛在健身时获得格斗面板，只要训练就能变强！【打击系】【摔柔系】【缠斗系】，技术细分，全面进化，还可解锁隐藏功能！从健身房锻炼开始，陈洛一边强身健体，一边猛肝经验值。自一场小型比赛起陈洛一路高歌猛进，斩获UFC合同，进入MMA最高殿堂。杀入UFC后，陈洛横扫羽量级与轻量级，脚踩托普里亚，拳打马哈切夫，嘲讽小鹰嘴炮！达成UFC双冠王后陈洛步履不停，在生涯巅峰期跨界进军职业拳击，竟横跨量级一统",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_fy_格斗之王从健身开始1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1RTzdt5qtvgRWVdlVLKrRcQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/fy/",
   },
 
@@ -54657,6 +54774,7 @@ export const bookItems = [
     excerpt: "我叫楚轩，当你看见这句话的时候，世界已经进入灵异科技时代，而我也已经回家看星星了……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_g_楚轩穿越神秘复苏1-208章.txt",
+    readUrl: "https://pan.baidu.com/s/1uV2ajzgkWUVNW7mlSaTi0w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/g/",
   },
 
@@ -54690,6 +54808,7 @@ export const bookItems = [
     excerpt: "【精品三国，放心阅读】穿越汉末，正赶上曹操二伐徐州，却意外被刘备所救。 作为一名黑户李翊只能抱紧刘备的大腿。 老刘的徐州内忧外患，内部各派争斗不休，外有强权觊觎垂涎。 李翊帮助刘备谋划，对内收服徐州各派，对外重拳出击。 北上可以争锋袁曹，南下可以夺取荆扬二州，西进可以问鼎中原…… 袁绍：“李翊用兵如神，虽韩白复生，亦未必至此也。” 曹操：“见着李翊，方知天下庸才甚多，不如翊者多，胜似翊者少！” 刘",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gb_三国：昭烈谋主，三兴炎汉1-578章.txt",
+    readUrl: "https://pan.baidu.com/s/1p-eSVdKQDoMvnEyiqN0vMg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gb/",
   },
 
@@ -54724,6 +54843,7 @@ export const bookItems = [
     excerpt: "白炬没想过做爱豆，但他寻思了一下自身情况： 能唱能跳身体好，睡得少不怕冷精力足，长的帅能抄歌又在半岛，这不是天选爱豆？ 来都来了，干脆试试。 [多女主，无系统，事业和恋爱五五开，主要写日常。]",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ge_半岛：恋爱系爱豆1-401章.txt",
+    readUrl: "https://pan.baidu.com/s/12HAFOtZhX1mC7vAM2LEI8Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ge/",
   },
 
@@ -54741,6 +54861,7 @@ export const bookItems = [
     excerpt: "王亮，一个前世靠影视切片混到百万粉丝的油腻博主，重生回到2001年，成了北电表演系的“苏州木村拓哉”。他本想靠着先知先觉，拳打华艺，脚踢博纳，提前二十年过上趟赢的富豪生活。谁知绑定了一个{艺德矫正系统}。演技不‘登峰造极’，不准接戏!导演技能不'技术精湛‘，不准开工!在北电老师们痛心疾首的目光中，王亮成了史上最怪的学生。演技惊为天人，却接连拒绝陈开哥，张一某以及，射雕的邀约。天天像苦行僧一样穿梭在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gf_北电第一怪人，出山了！1-345章.txt",
+    readUrl: "https://pan.baidu.com/s/1pH5gfM480jGVT_PRHd-0cg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gf/",
   },
 
@@ -54758,6 +54879,7 @@ export const bookItems = [
     excerpt: "身为一名罗黑却觉醒了C罗模板是一种什么体验？当然是——“C罗模板？狗都不要！”“我就是把板凳坐穿，一辈子不碰足球，也绝不要这模版！”“哎哟真香，嘿嘿…”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gg_开局C罗模版，梅西求我入巴萨1-214章.txt",
+    readUrl: "https://pan.baidu.com/s/1yC8ZhuG39KKiumbTL85Qmg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gg/",
   },
 
@@ -54775,6 +54897,7 @@ export const bookItems = [
     excerpt: "“朱哥，我什么时候能红？”“美女，小红靠捧，大红靠命！”“可我听说你能算得出来？”“美女，在娱乐圈里混靠的是硬实力，你怎么能听说呢？”“硬实力…，我懂了。”身材高挑的美女，撩了撩秀发，就在摆摊的朱柏面前展示起了身体的柔韧性。 【本书又名《华娱：渣男，我再也不相信爱情了》、《没钱混什么娱乐圈》、《华娱：最风骚的男艺人》】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gj_华娱：明日爆红1-876章.txt",
+    readUrl: "https://pan.baidu.com/s/1Cmt7F4rEPqGQ4tWmYZ8cCw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gj/",
   },
 
@@ -54809,6 +54932,7 @@ export const bookItems = [
     excerpt: "如果我告诉你，你上岸了。你是不是很开心？但我要是告诉你，如果是在墨西哥上的岸呢？……主角穿越回墨西哥当警察，他发现他的眼睛能够看到对方的犯罪履历！因为击毙了臭名昭著的贩毒集团“哈里斯科新一代”头目艾尔门乔的表弟，被全面通缉！他调往华雷斯边境担任口岸区警局成立以来第10任副局长！隔着一条几百米长的河流对面就是美国，每天从这里过去的毒品能够绕墨西哥一圈，比墨西哥政府印钞都快。毒贩们拿着钱收买政客，拿着",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gl_我在墨西哥当警察1-352章.txt",
+    readUrl: "https://pan.baidu.com/s/1lybFIMifiSpvHbs2n9tovQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gl/",
   },
 
@@ -54825,6 +54949,7 @@ export const bookItems = [
     excerpt: "叶安穿越到1980年，成为红星造船厂一名刚归国的技术员。 在全员茫然的技术研讨会上，他激活了【绝对分析系统】 面对海洋工程船的难题，系统直接给出三大方案。 【方案一：自升式钻井平台】 【优点：稳定性极高，作业不受风浪影响。】 【方案二：半潜式平台】 【优点：适航性极强，能抵御恶劣海况，可搭载重型设备。】 【方案三：DP-3级动力定位船】 【优点：机动性最强，无需抛锚或打桩，可将船体位置精确保持在米",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gm_造船的？那这个像航母的是什么鬼1-302章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZOdf4_cvbZB-0kTQQsaXFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gm/",
   },
 
@@ -54842,6 +54967,7 @@ export const bookItems = [
     excerpt: "世界末日骤然降临，全球所有人都在未知原因的痛苦之中死去。 江阳醒来，发现自己竟然重生到了末日之前十天。 十天时间，以我一人之力拯救世界？ 江阳毫不犹豫放弃这种想法，转身就将末日情报上报。 这一刻起，我的后盾是整个国家！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gn_重生末日前：我的后盾是国家1-575章.txt",
+    readUrl: "https://pan.baidu.com/s/1JKIyO5KnNTljk9wIa_tyYg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gn/",
   },
 
@@ -54858,6 +54984,7 @@ export const bookItems = [
     excerpt: "这是最好的时代，这是最坏的时代。草野龙蛇，野蛮生长，野心和欲望交织在一起，总能铸就翻天覆地的传奇。改革开放的缩影，小人物崛起的斑斓神迹。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gs_沸腾时代1-1023章.txt",
+    readUrl: "https://pan.baidu.com/s/1c634jLLGlvKKInUbtnJ7qw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gs/",
   },
 
@@ -54875,6 +55002,7 @@ export const bookItems = [
     excerpt: "断层顶流，从跑男开始！书荒的书友可以看下本人已完本的《华娱之鞭》《华娱之初代顶流》《华娱之昊》！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gt_华娱从跑男开始1-902章.txt",
+    readUrl: "https://pan.baidu.com/s/138Xwca69sjfqUr5sQDvn-w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gt/",
   },
 
@@ -54892,6 +55020,7 @@ export const bookItems = [
     excerpt: "重生2007，从第一届超级星光大道开始混迹娱乐圈。这一年，周王陶林如日中天；这一年，众多85花刚展露头角；林墨绑定未来的明星，即可从他们身上获得天赋。绑定哭包甜妹，白捡【乐理知识】。绑定腼腆驻唱小哥，反哺【核弹级唱功】；绑定......在众星璀璨的华语乐坛，林墨能能杀出重围，全靠自己的努力！以及......一丢丢运气！数年后，流量时代到来。各大媒体盛赞：“这个年代，顶流或许有很多。”“但巨星，只有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gw_华娱：从和宝岛妹子同居开始1-390章.txt",
+    readUrl: "https://pan.baidu.com/s/16N26KaDkiZxlLKRS2NIPAg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gw/",
   },
 
@@ -54908,6 +55037,7 @@ export const bookItems = [
     excerpt: "躺平？低欲望？无欲无求？不过是能力不足的借口跟对现实无奈的逃避罢了。当人生开了挂，躺平？先填平我内心贪婪的深渊再说。以墓园英雄模板为根基，开启另类修行之路，挣脱上辈子的道德枷锁，唯一能限制他的只有良知跟实力。所以当他成为世界第一的时候，全世界最好祈祷他善良。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_gy_带着英雄无敌穿越武侠世界1-479章.txt",
+    readUrl: "https://pan.baidu.com/s/1dnvTjacy32Jnhrvdh7WoEQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/gy/",
   },
 
@@ -54925,6 +55055,7 @@ export const bookItems = [
     excerpt: "董卓之后，三辅大乱天子蒙尘，勤王志士汇聚雒都残垣断壁之中，肉食者鄙拔剑四顾，国贼凶狠十倍于胡忠孝礼义信的时代里，最可靠的还是手中的剑与盾",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ha_虎贲郎1-1396章.txt",
+    readUrl: "https://pan.baidu.com/s/177-lhmqzzsOmn416yY2E-Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ha/",
   },
 
@@ -54942,6 +55073,7 @@ export const bookItems = [
     excerpt: "咱们老张家的人，能力强！猛！这句话张鸿以前不懂，所以他穿越了。可是这一次，张鸿终于觉醒了。自此而后三万天，他只记得一句话：好女孩别错过，坏女人别浪费！！！【叮~百美录系统已启动】亲，每获得一位美人青睐就能获得一个奖励哦！(ˉ▽￣～)切~~他是那种经不起考验的人吗？那什么，奖励不重要。他就是想要多关心一些女孩子罢了。嗯，就是这样！——————————【已有精品一本，万订一本，书荒可看】【《娱乐圈的吃",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hc_娱乐圈的老实人1-426章.txt",
+    readUrl: "https://pan.baidu.com/s/1aAYR6_4BcT5T7CK3MRwL3g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hc/",
   },
 
@@ -54958,6 +55090,7 @@ export const bookItems = [
     excerpt: "一个既幸运又倒霉的家伙穿越了，幸运的是，他这么一穿越，直接成为了无数人渴求而不得的神明，还获得了永生，他给自己命名为【Bit】，信息与数据之神比特。倒霉的是，他穿越的地方是战锤40K的亚空间，随时都有可能来个强大存在把他当成路边一脚踢死。为了生存下去，他只好从自己的老家召唤玩家，煽动战争以产出信息。无数个岁月以后，他看着这个从一颗星球开始，逐渐壮大的【玩家咒缚军团】，突发奇想，也许这个人类守护神的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hd_我在战锤召唤第四天灾1-658章.txt",
+    readUrl: "https://pan.baidu.com/s/1tTbw0ETwva7rOZYhkCEkUQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hd/",
   },
 
@@ -54992,6 +55125,7 @@ export const bookItems = [
     excerpt: "［玩家姓名：秦淮 已解锁图鉴：0/12 技能：发面（中级）：您的发面技术已击败全国99%的早餐店师傅。（0/10000） 调馅（高级）：您的调馅水平已击败全国100%的早餐店师傅（0/100000） …… 评价：一个初出茅庐的新手］ 踏进食堂的那一刻，美食文主角迎来了他加载成功的系统。 秦淮：美食文，早说呀，这个他熟！ 后来—— 秦淮发现这好像不是个单纯的美食文系统。 好像还加了些奇奇怪怪的东西。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hf_非正常美食文1-666章.txt",
+    readUrl: "https://pan.baidu.com/s/1AqG0hx7Yupr75fuBuR1ojQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hf/",
   },
 
@@ -55009,6 +55143,7 @@ export const bookItems = [
     excerpt: "才刚见证NIKO夺得major冠军，一道闪电突然将张愈这个三十一岁中登给劈回十年前，并且还附赠了一个顶级外挂——死神之眼热爱cs的他立即决定加入职业这个更权威的圈子，世界线悄然发生变动，一场腥风血雨即将在职业联赛的舞台上爆发。……多年以后，人们提起他时总会用到历届顶尖选手去形容。步枪型s1mple，欲望型ZywOo，不虾型Niko，冠军型donk……当然，最为人熟知的还得是CN最终的战争巨兽，CS",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hg_CS：从觉醒死神之眼开始1-636章.txt",
+    readUrl: "https://pan.baidu.com/s/1owi7H1IcPRaGYqsDV8z6dA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hg/",
   },
 
@@ -55025,6 +55160,7 @@ export const bookItems = [
     excerpt: "三十岁的张骆重回十五岁。 他只希望能少一点遗憾。 父母的遗憾，暗恋的遗憾，成长的遗憾。 他其实所求挺小的。 可是，天不遂他愿啊。 这老天，非要追着赶着，把他喂成一个传奇。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hh_咸鱼重生1-397章.txt",
+    readUrl: "https://pan.baidu.com/s/1rT9NTPjFarZG_HIKrtlfng?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hh/",
   },
 
@@ -55041,6 +55177,7 @@ export const bookItems = [
     excerpt: "永和元年，石虎恣意屠戮，膻腥遍地。崇祯十五年，关外松山大战结束，关内民不聊生，大明帝国进入倒计时。靖康二年，千古第一昏君，即将被抓走行牵羊礼，千年奇耻，神州沦陷。广明元年，黄巢踏尽天街公卿骨，内库烧为锦绣灰，恢弘的大唐帝国，一步步走向灭亡。至正十一年，朱元璋还在做一天和尚撞一天钟，红巾军高唱着莫道铜人一只眼，挑动黄河天下反！秦二世元年，大泽乡篝火狐鸣，渔腹丹书，不堪重负的百姓们，高呼着王侯将相宁有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hi_诸天：从时空商人开始1-999章.txt",
+    readUrl: "https://pan.baidu.com/s/1MX90ddz4ONfyzy9SC7i-jA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hi/",
   },
 
@@ -55074,6 +55211,7 @@ export const bookItems = [
     excerpt: "都重生了，闭着眼就能赚大钱，为什么要拍电影？又累又不讨好，还容易被网暴！傻子才去拍电影！电影。狗都不拍！…………汪汪！……这是一个天才辈出的世代，有无数让时代瞩目的天才。风口上的猪能飞起来。风口上的人就能触摸天空。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hl_华娱：天才时代1-647章.txt",
+    readUrl: "https://pan.baidu.com/s/1XxzDlmIaqbsswxyQzAljiQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hl/",
   },
 
@@ -55106,7 +55244,7 @@ export const bookItems = [
     chapters: "1-650章",
     excerpt: "许琛的高中成绩并不理想。 磕磕绊绊的到了高三，过气偶像逆袭系统突然加载。 【２０岁，你在大学期间参加练习生选拔，凭借逆天颜值与...颜值，断层出道。】 ..... 【３２岁，事业巅峰期，被对家与身边人联合陷害，爆出“选妃”丑闻，一夜之间声名狼藉，全网怒骂。虽然后续澄清为恶意诬陷，但天价的顶奢违约金已将你榨干，一贫如洗。】 【年至３５岁，你独自一人在不足十平米的出租屋内，就着廉价的白酒吞咽着不甘与悔",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1PyCf9lQgoGkHUi7iAP3GlA?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1G0krLQP_IhYtb08M2SfMrg?pwd=q7na",
     downloadUrl: "/books/m_ho_刚准备高考，过气顶流逆袭什么鬼1-650章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ho/",
   },
@@ -55125,6 +55263,7 @@ export const bookItems = [
     excerpt: "穿成崇祯？开局一屁股债！​ 朱思文一睁眼，成了大明最后一位皇帝崇祯。 面对空空如也的国库、嗷嗷待哺的边军、党争内斗的朝堂，以及山海关外虎视眈眈的黄台吉——他笑了。 “没钱？简单！反贪、抄家、搞融资、吃软饭、抄地皮......钱不救来了？” 反贪KPI，贪官是朕的现金流，罪越大，交钱越多；交钱越多，罪过越小…… 魏忠贤？先出百万两把罪都赎了！东林党？别光喷人，要么出力要么出钱！晋商范永斗通敌？抄家九",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hr_没钱还怎么当崇祯1-889章.txt",
+    readUrl: "https://pan.baidu.com/s/1av4zx1Dsk_1C02L_-TBLzg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hr/",
   },
 
@@ -55142,6 +55281,7 @@ export const bookItems = [
     excerpt: "李昱来到贞观六年的长安，漫长的夜晚让习惯了现代夜生活的他难以适应。好在他有系统，只要熬夜就能获得各种奖励：历史记载，文化常识，科学技术，熬夜小零食……为了更好的生活，为了建设这大唐的风华绝代，李昱势必要成为熬夜冠军。而当他发现，其他人陪他熬夜也可以让他获得奖励时。李昱下定决心，敲开了新邻居世民的门扉。世民亦未寝，两个孤寂的灵魂在漫漫长夜凑到一起，拉起月不落天唐上国的大幕。咚咚！世民：“弄啥哩？”（",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hs_贞观六年，世民亦未寝1-393章.txt",
+    readUrl: "https://pan.baidu.com/s/1J3BMaScMAy6GpWjjcGC1Eg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hs/",
   },
 
@@ -55159,6 +55299,7 @@ export const bookItems = [
     excerpt: "【明太祖实录：丙午年二月，大都督朱文正功高震主，上召文正至戟门，责以“尔欲从张士诚耶？”亲执铁骨朵碎其胫骨，曳出端门杖毙。】【明太祖实录：丙午年十二月，吴王（朱元璋）遣廖永忠迎林儿归应天，舟次瓜步，廖永忠受吴王命，途径瓜州，凿船溺毙林儿于长江。】朱元璋气的浑身发抖，咬着牙质问道：“咱再问你一遍，史书改！还是不改！”徐明坦然：“史官据事直书，一字不改。”朱元璋震怒：“你不改！有的是人能改！拉下去，五",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hu_大明：史官直书，你真一字不改？1-239章.txt",
+    readUrl: "https://pan.baidu.com/s/1wfvJDEfsnKit5GYd_ZNIug?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hu/",
   },
 
@@ -55176,6 +55317,7 @@ export const bookItems = [
     excerpt: "元符二年，历史系讲师睁眼成了李清照的未来夫君赵明诚。从此，赵明诚截胡高俅人生，化身赵佶最信赖的“玩伴兼智库”。他左手用现代知识帮艺术家皇帝搞艺术、创收入，稳朝局，让宋徽宗做个快乐吉祥物，将大权握在自己手上；右手推新政、练新军、开海贸……辽人称臣纳贡，金人彻底灭绝。更护得李清照一生静好安乐，再无寻寻觅觅，冷冷清清。赵明诚，从太学生到大宋权相，他要给这最好的时代，打出一个最硬的未来。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hv_截胡高俅人生，我带大宋强盛1-370章.txt",
+    readUrl: "https://pan.baidu.com/s/1Njb8lK8GWaSpWXA_MRdpJA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hv/",
   },
 
@@ -55193,6 +55335,7 @@ export const bookItems = [
     excerpt: "林若光穿越S5，成为SKT俱乐部旁Human网咖的老板，并绑定【夺冠无敌系统】。 只要能够成为S赛冠军，就能无敌！ 我前世就一钻石，你让我夺冠？ 林若光：狗系统，不想给奖励可以直说，没必要耍我！ 就当他打算躺平当网管时，瞅见了面试SKT被拒，宛如喽啰般走出俱乐部大门的长脸少年。 林若光猛然想起前世LPL那位100%胜率AD。 谁说替补冠军不算冠军！？ “姜承録，有兴趣加入Human战队吗？” ……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hw_重生S5，打造LCK最强战队1-629章.txt",
+    readUrl: "https://pan.baidu.com/s/1GdRbIubBgyrkrEQtryWQtg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hw/",
   },
 
@@ -55210,6 +55353,7 @@ export const bookItems = [
     excerpt: "“柯南君，你也不想你变小的这件事，被其他人知道吧？” “所以要不要联合名侦探与目暮警官，咱们联手敛财啊？” 林直人穿越到了名侦探柯南世界，发现自己异变成为一个需要吞噬灵魂的吞魂者。 不过幸好有柯南，灵魂多到吃不完！ 只是林直人没想到，他随口开的玩笑、恶趣味的整活儿，竟让整个日本开始流传起一个新的恐怖名号。 沉睡的“黑手名侦探”！ 他走到哪里，哪里就死人。 被他盯上的大公司、财团社长，无一能生还！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hx_柯南世界的黑手名侦探1-757章.txt",
+    readUrl: "https://pan.baidu.com/s/172NYSInBnVwAtn-5O9SjHA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hx/",
   },
 
@@ -55227,6 +55371,7 @@ export const bookItems = [
     excerpt: "穿越斗罗大陆绝世唐门，成为年幼的玄子，但玄子不认命，不想当日后的“圣灵教太上长老”，所以，他凭借自己的努力，自创神位，将自身修为修炼到了神王境界，还在前往神界之前，将史莱克学院进行了一次大改革，摒弃了史莱克学院的所有黑暗。就在这时，天幕降临。【双斗罗对比：白世界史莱克学院和黑世界史莱克学院。】黑世界史莱克学院：名不副实，只培养天才，没能力教导普通魂师。校规离谱，不惹事就是庸才。老师资质极差，还有史",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hy_双斗罗对比：这个玄子，正的发邪1-290章.txt",
+    readUrl: "https://pan.baidu.com/s/1ymgOueVypzF06Y7UfkBTYA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hy/",
   },
 
@@ -55244,6 +55389,7 @@ export const bookItems = [
     excerpt: "世界足坛有无数天才如流星般耀眼而短暂，黯然离场后只留给世人无尽关于“如果”的想象空间。没有哪一个内拉祖里不曾为自己的“国王”阿德里亚诺悲伤，又有哪一个罗森内里会低估“鸭子”帕托的上限？若是博格巴未曾沉沦，高卢雄鸡或许已是第三支成功卫冕世界杯的王者之师；若是代斯勒兑现了才华，德意志战车是否早已在本土将大力神杯高高举起？全世界都想知道，如果给巴洛特利一个正常的脑子会发生什么？如果巴乔不曾着受那能让常人",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_hz_足球：我的天赋来自伤仲永1-466章.txt",
+    readUrl: "https://pan.baidu.com/s/1jMP5VWdvwJkRtbqFfcKL8g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/hz/",
   },
 
@@ -55260,6 +55406,7 @@ export const bookItems = [
     excerpt: "进入的世界：《猛鬼追魂》、《富江》、《馗降》、《咒》、《来了》、《小丑回魂》、《猛鬼街》、《寂静岭》、《第一诫》、《昆池岩》、《林中小屋》、《咒怨》…… 开局不做人，富江当做“营养液”，无人机轰炸大黑佛母山洞，反向献祭鬾魔魔，变身百米锤小丑、将寂静岭扩张到整个美利坚……，第一诫里打造诡差，暮然回首，大诡竟是我自己！ 吴恒穿被灯塔选中，进入无限世界。好消息：都是他前世所熟知的电影。坏消息：全是恐怖电",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_i_无限：杀穿电影世界1-1706章.txt",
+    readUrl: "https://pan.baidu.com/s/18lt3eFY5ZHFbzkveSzpizQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/i/",
   },
 
@@ -55276,6 +55423,7 @@ export const bookItems = [
     excerpt: "如果穿越到了十三世纪的蒙古草原，成了一名拥有汉族与蒙古族血统的少年，你会如何选择？是南下回归大宋，还是融入蒙古部？赵朔面对这个问题，只想说一句话：“铁木真可汗，请将华筝许配给我！”穿越到蒙古草原的赵朔，从铁木真的女婿开始，一步一步登上草原的至高王座。灭金、屠戮西夏、席卷亚欧！铁木真驾崩后，面对分崩离析的黄金家族，赵朔以一人之力，镇压一切不服。许多年后，赵朔发现自己头上已经多了很多称号。蒙古第一巴特",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ia_黄金家族，我带蒙古铁骑横扫亚欧1-578章.txt",
+    readUrl: "https://pan.baidu.com/s/1h_-wRseKWdbQl7vtuN-lPw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ia/",
   },
 
@@ -55293,6 +55441,7 @@ export const bookItems = [
     excerpt: "穿越四合院，李红兵来到1952年的四九城，不仅成了丰泽园的一名学徒，还获得了一个天道酬勤系统。只要不断解锁技能和提升等级，就能够不断获得奖励。厨艺技能升至lv1，奖励一百元，大米一百斤！木工技能升至lv1，奖励一百元，苹果一百斤！驾驶技能升至lv2，奖励三百元，蓝色小药丸一盒！八段锦技能升至lv3，奖励五百元，百年人参一支！……面对众禽，李红兵直接迎来了当天的mvp结算:暴打贾张氏，送贾张氏去进修",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ib_四合院：从天道酬勤开始1-475章.txt",
+    readUrl: "https://pan.baidu.com/s/1guQQbOyZQBUYbzaSDusQjQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ib/",
   },
 
@@ -55310,6 +55459,7 @@ export const bookItems = [
     excerpt: "『刻板印象：震旦人做得更好』 实验室里彼得·帕克盯着检测仪器看反应物纯度，84%，满意。 “测测你的。” 反应物纯度93%…… “利群，你怎么做到的？” 『刻板印象：震旦人都会功夫』 彼得：“利群，你是不是会功夫？” “谁告诉你的？” “我看到了你在便利店打跑一个抢劫犯。” “他拿枪指着我了，我只是正当防卫。” 『刻板印象：不老的东方精灵族』 彼得：“我突然意识到一个问题，你应该是精灵族。” “你",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ic_美利坚：刻板印象能力者1-674章.txt",
+    readUrl: "https://pan.baidu.com/s/1Nu5oPR7Q9KNnnpzPJY2JFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ic/",
   },
 
@@ -55326,6 +55476,7 @@ export const bookItems = [
     excerpt: "内娱顶流塌房，大粉白鹏飞跑路首尔，开启了自己的新事业。本书又名《拜托，顶流，请不要再塌房了！》《顶流女爱豆禁止恋爱》《我是在追你，但不表示我喜欢你》《什么，爱豆要给我粉丝奖励？》《这个奖励我很喜欢》《为了奖励，多追几个爱豆也正常吧》《追星只是工作，你们别想干涉我的生活》《坏了，真让他把偶像追到手了》《什么监守自盗，这叫情感陪伴》《这次塌房是因为我？》《爱豆塌房拯救系统！》ps：上面的书名都是乱写的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ie_半岛：不准和偶像恋爱1-812章.txt",
+    readUrl: "https://pan.baidu.com/s/1GDPzkZrIBuNRi59gISbhFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ie/",
   },
 
@@ -55343,6 +55494,7 @@ export const bookItems = [
     excerpt: "【寻宝系列第二部】科学院院士，首席考古专家，世界级鉴宝大师许墨在一次意外中灵魂穿越时空回到1999年。古拙大方的青铜，精美绝伦的瓷器，笔墨横姿的字画，惊心动魄的赌石相继而来。神秘宝藏，无尽财富，一一现世。生于平凡，崛起于微末，寻天下之宝，铸不朽传奇。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_if_我有一双透视神瞳1-778章.txt",
+    readUrl: "https://pan.baidu.com/s/1dRz7q5oVHnvA98qSL5LirQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/if/",
   },
 
@@ -55377,6 +55529,7 @@ export const bookItems = [
     excerpt: "紫府陨落，魂穿大明！朱幽涧眼睛一睁，竟成了大明亡国之君——崇祯皇帝朱由检。于是，满朝文武惊恐地发现，陛下画风彻底变了。奏折？不批！朝会？不上！权斗？没空！“区区凡俗兵灾，也配扰朕清修？”----------为在绝灵之地重建修真界，崇祯定下五个小目标：【阴司定壤】将酆都沉入地心，创阴司轮回。【衍民育真】百年内，百姓数量增至千亿。【朔漠回春】化西伯利亚冻土与撒哈拉沙漠为沃野良田。【聚陆同疆】终结板块漂",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ih_修真版大明1-317章.txt",
+    readUrl: "https://pan.baidu.com/s/1O_5qsJYdeh7GOefT8fFf7g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ih/",
   },
 
@@ -55394,6 +55547,7 @@ export const bookItems = [
     excerpt: "虚假的武者：磨皮锻骨，肉身成圣。真实的武者：盗形于魇，异化成兽。白天，周恺作为【武者】，拳镇山河。入梦，周恺作为【行者】，独断长夜。偶尔，他还要客串【骑士】【猎人】【园丁】【厨师】【建筑师】……甚至可能是【地铁司机】。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ij_梦魇绝境1-462章.txt",
+    readUrl: "https://pan.baidu.com/s/10rQ8U6qB85Fv8gYxeNzrKw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ij/",
   },
 
@@ -55411,6 +55565,7 @@ export const bookItems = [
     excerpt: "放荡不羁的陆帆享受了十八年的神豪人生后，重回故里，却意外看到酷似前女友长相的女孩。这才得知当年那个被自己伤害的白月光前女友，离开自己后，独自生下一对龙凤胎。而这些年来，她一个人含辛茹苦生活，两个孩子也缺少父亲的陪伴。深深内疚下，陆帆决定要补偿他们娘仨。“依夏，你知道的，我真的爱你，我要是骗你的话，我就是狗！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ik_成神豪后，发现前女友藏了龙凤胎1-310章.txt",
+    readUrl: "https://pan.baidu.com/s/1xKHejlvk8C2BtEcyZ2padQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ik/",
   },
 
@@ -55464,6 +55619,7 @@ export const bookItems = [
     excerpt: "问：要怎样才能成为一个男神？答：当你在相貌、健康、财富、能力、心性、情商这六个领域都能超越99%的人时，你就是当之无愧的男神。……从小到大，陈言很清楚自己就只是个普通人。在他的计划中，他会从一所普通的大学毕业，找一份普通的工作，然后过完自己普通的一生。直到十九岁的那个下午，一条崭新的道路出现在了他的面前，带他走向了截然不同的人生。……“其实我只是做到了自律和坚持，以及来自外界的一点点帮助。”陈言摊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ip_人在大二，男神养成系统是什么鬼1-264章.txt",
+    readUrl: "https://pan.baidu.com/s/1QUZm8LCMMdHf69nDQ0wHrA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ip/",
   },
 
@@ -55480,6 +55636,7 @@ export const bookItems = [
     excerpt: "重生霍亨索伦家族施瓦本支黑兴根王子，眼看欧陆风云，大战将起，这欧陆不待也罢。东非圈地，移民开发，农业立根基，一步一个脚印，借助危机实现工业化。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_iq_非洲创业实录1-1977章.txt",
+    readUrl: "https://pan.baidu.com/s/10LNo5Ztwchbw21M6-oF6zg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/iq/",
   },
 
@@ -55496,6 +55653,7 @@ export const bookItems = [
     excerpt: "穿越到2010~2011赛季，尼克斯即将被横扫，周耀锋临时顶上主教练的位置力挽狂澜！ 激活传奇教练系统，当月战绩胜率达标或每赢下一轮系列赛，就能抽取一个道具包。 赢下凯尔特人，道具包奖励【鸡汤大师】。 赢下热火三巨头，道具包奖励【快攻王者】。 赢下诺维斯基小牛，道具包获得奖励【老当益壮】。 在拿下总冠军，一个金色大礼包！ 里面居然开出了……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ir_就叫我战术之王吧1-320章.txt",
+    readUrl: "https://pan.baidu.com/s/1T9-2lQD7PnbkpC0_w4QHaQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ir/",
   },
 
@@ -55512,6 +55670,7 @@ export const bookItems = [
     excerpt: "自黑船来袭，江户幕府进入社会动荡但精彩的幕末时代。谋求政治的野心家与救亡图存的爱国志士在这个时代掀起惊涛骇浪。只是一位从后世而来的异国灵魂对此格格不入，他不想插手什么国家大事，但他也有自己坚守的事情…“我叫柳生十兵卫，你听说过我的名字？”“什…什么…别开玩笑了…”柳生十兵卫，他是旧时代的豪杰，也是新时代的奸贼。他在旧时代功勋显赫，在新时代便是罄竹难书！“真是让人头疼的新时代呢，我不喜欢，有什么不对",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_it_我在日本江户幕末的武士生涯1-326章.txt",
+    readUrl: "https://pan.baidu.com/s/18vxqbyI7g73Ogk6jd1ZQ0g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/it/",
   },
 
@@ -55528,6 +55687,7 @@ export const bookItems = [
     excerpt: "在JOJO的世界中殴打百岁老人，在圣杯战争中假扮英灵，在机动奥特曼的世界中客串假面骑士，在巨人的世界里当奥特曼。陪芙莉莲一起旅行，给鸣人当爸爸，和蓝胖子交朋友......无穷无尽的世界，永远不会停止的旅行。这是一个获得了MC系统和主世界的方块人，四处游荡，祸害（划掉）世界的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_iv_MC玩家的旅行日记1-613章.txt",
+    readUrl: "https://pan.baidu.com/s/1fufHETJKHzOuVGJHQFDpyA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/iv/",
   },
 
@@ -55545,6 +55705,7 @@ export const bookItems = [
     excerpt: "穿越后的楚胜，本来想躺平抱紧其他人当大腿，却怎么也没想到自己反而变成大腿了。目前世界，无限恐怖，遮天，吞噬星空，永生",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_iy_同时穿越：我真是一点苦都不吃1-411章.txt",
+    readUrl: "https://pan.baidu.com/s/1fSIhy0MRzhF3Dku2kKe4cg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/iy/",
   },
 
@@ -55562,6 +55723,7 @@ export const bookItems = [
     excerpt: "陈朝元重生回到2004年《神雕侠侣》剧组。上辈子是大器晚成的全能影帝。好不容易功成名就，老天一脚踹回起点。心累！这辈子直接开摆，跟着小明表哥在剧组演演戏，混混日子，享受生活。....杨顶流重生回到2004年《神雕侠侣》剧组。上辈子长红十多年，全网黑，谩骂，背刺，渣男。到头来还要遭到群嘲。不甘心！这辈子势必要走上顶点，更上一层楼！俩个十八岁，身体里住着中年人灵魂的少男少女。上辈子没有交集，这辈子撞到",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_j_华娱：女顶流不让我摆烂1-456章.txt",
+    readUrl: "https://pan.baidu.com/s/1oKaQkJroFvpV1pZDK2F-fg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/j/",
   },
 
@@ -55595,6 +55757,7 @@ export const bookItems = [
     excerpt: "魂穿贾琏……别和我说死道友不死贫道。我只明白死大老爷不死二爷。为了儿女，贾赦你就牺牲一下。你没了，欠孙绍祖的银子不用还了，迎春也不至于早夭。如果孙绍祖那厮敢来要账，那我就送他下去找你，你们俩有账当面算清楚。自从林黛玉从扬州回来，贾宝玉就开启了郁郁寡欢的一生。因为......林妹妹变成了圣旨赐婚的琏二嫂，没过多久，宝姐姐也成了贾琏的宝姨娘......直到有一日，贾宝玉的天彻底塌了，原来......他",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_jb_人在红楼，集邮金钗1-217章.txt",
+    readUrl: "https://pan.baidu.com/s/1a5Uh0ICZgXxsYHr49KO46A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/jb/",
   },
 
@@ -55673,7 +55836,7 @@ export const bookItems = [
     title: "斗破之炎帝是我孙子",
     cover: bookCovermjfgg,
     author: "老年人散步",
-    date: "2026-10-17",
+    date: "2026-10-23",
     category: "玄幻",
     status: "连载中",
     chapters: "1-1564章",
@@ -55697,6 +55860,7 @@ export const bookItems = [
     excerpt: "“我们一起来研究一下这个禁忌神器吧！”李维知道希尔薇娅会玩，但没有想过她这么会玩。当据说能控制人心的禁忌神器被硬塞到他手上的时候，李维知道该怎么做了。……希尔薇娅很清楚，李维需要一点小手段。她决定给李维来点猛料。只要这家伙敢下点什么奇怪的命令，就直接当场拿下！一想到这里，希尔薇娅心中就忍不住轻哼~在装作被控制成功后，第一个命令终于来了！“成为皇帝吧，希尔薇娅。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_jk_我真要控制你了，皇女殿下1-684章.txt",
+    readUrl: "https://pan.baidu.com/s/1uAlz6HaYvmrrre8vADv5Sw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/jk/",
   },
 
@@ -55713,6 +55877,7 @@ export const bookItems = [
     excerpt: "「无系统，无异能，不圣母。」 深沉版： 从野兽进化到人，至少需要数万年时间。 而从人类退化成野兽，用的上一年时间么？ 试试看吧，于是丧尸危机爆发，秩序彻底烂了。 就此，文明离我们远去。 亡者与我们同行。 娱乐版： 美利坚爆发丧尸危机？ 普天同庆，喜大普奔！ 什么？我穿到美利坚了？丧尸危机刚刚爆发？ 毁灭吧，完犊子了。 等等，是谁把花旗披我身上了？ 你们……你们…… 你们可真是害苦了我啊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_jl_末日美利坚1-468章.txt",
+    readUrl: "https://pan.baidu.com/s/1pHn7FAZqtpRDzz2RzsPDnQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/jl/",
   },
 
@@ -55729,6 +55894,7 @@ export const bookItems = [
     excerpt: "2010年年底，虞姬的‘万人’海选进行的‘如火如荼’，上戏刚刚入学的新生迪丽热芭也是这万分之一。同班同学得知了这一消息，羡慕嫉妒恨汹涌来袭。“能见到彦祖啊，还能演她最爱的女人，热芭你一定行的！加油加油！”“大导演大制作，好羡慕你啊，热芭。”“听说这种大制作海选，新人都是陪跑的。”“巴姐，带我去见见世面呗？我给你当助理，不要钱，管饭就行。”大片赞誉声中，热芭那副异域面孔下隐藏的那颗敏感的心，也变得自",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_jn_华娱：一遇魔童误终身1-419章.txt",
+    readUrl: "https://pan.baidu.com/s/1NCGKCErgBkqvZ6FP9Gkdwg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/jn/",
   },
 
@@ -55746,6 +55912,7 @@ export const bookItems = [
     excerpt: "江阳绑定小花养成系统，目标是通过培养未来顶流女星薅属性，却渐渐发现不对劲。杨超跃总把只搞事业不恋爱挂嘴边，深夜却举着恋爱合约挤进门：“明明是我先来的。”田曦微人前是黏人甜妹，人后是暴脾气辣妹：“江阳，教我接吻，老子蜀道山！”刘浩纯表面是乖巧学霸，签约时却偷偷改条款：“违约金？改成嫁给你行不行…”当养成游戏变成心动修罗场。“禁止办公室恋情？”超跃撕了合同。“我是你老乡，就是要特殊照顾！”田曦微踮脚堵",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_jo_从杨超跃开始的恋爱日常1-721章.txt",
+    readUrl: "https://pan.baidu.com/s/1JVYVjOLBv2wqiqU8clfLig?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/jo/",
   },
 
@@ -55796,6 +55963,7 @@ export const bookItems = [
     excerpt: "穿越到了同人剧情开始前不知道多少年的苏羽没有金手指，只能凭借自身努力成为当世传奇。但等到苏羽死后才发现，自己的金手指竟然是能共享记忆、能力以及天赋的同时穿越。只不过想要触发同时穿越的条件，竟然是自己必须要先死一次？拜托，我都死成传说了，同时穿越才来这会不会太晚了？等等！既然同时穿越都来了，那我能死而复生也是很合理的对吧！理直气壮的苏羽撸起了袖子，借助“自己的力量”死而复生，完成曾经各个世界的自己未",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_js_我都死成传说了，同时穿越才来1-422章.txt",
+    readUrl: "https://pan.baidu.com/s/1nc43-Gyqn66FiapNtJ7psg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/js/",
   },
 
@@ -55847,6 +56015,7 @@ export const bookItems = [
     excerpt: "祁愿穿越回1996年初入北电的那个夏天，觉醒了一个带人进步的金手指。只要带领明星们进步成功，就可以随机获取对方的属性或特性。“恭喜宿主，带领周董进步成功，获得特性——绝对音感。”“恭喜宿主，带领张信喆进步成功，抽取到张信喆的一半唱功。”……有了这些底气，祁愿给自己也定了一个进步的小目标——先把统治华语歌坛多年的四大天王时代终结！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_l_华娱97：从歌手开始1-1040章.txt",
+    readUrl: "https://pan.baidu.com/s/14i55VwBCplwMtsCuX9yKeg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/l/",
   },
 
@@ -55863,6 +56032,7 @@ export const bookItems = [
     excerpt: "2025年在娱乐圈摸爬滚打二十几年的老炮李古城眼看就要执导大片上位了，可在声色犬马中眼睛一闭，妞没玩了，命却没了。 重生07年的老登发现：好消息：有系统！坏消息：系统不想让咱活！！好消息：咱桃花运贼好！坏消息：啊？我成共享男友了？！ 李古城：我再说一次，抓海王上岸，逼老登纯情，这是不道德的行为，自私，非常自私！批判，必须要狠狠的批判！现在的某些年轻演员啊，要打开格局，要成长，要进步！ 前期恐怖片起",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lb_不浪不是好导演1-957章.txt",
+    readUrl: "https://pan.baidu.com/s/1cvbSpyCbERezNNDRF_WA_w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lb/",
   },
 
@@ -55879,6 +56049,7 @@ export const bookItems = [
     excerpt: "（不拜师，不进巨无霸势力，自主发展道路）穿越吞噬星空世界，却成了一个正被送入杀戮星球的奴隶。得到“古族宝鉴。”创建势力，招收成员，就能获得古族宝鉴扶持。赠予-返还。普通成员赠予-返还比例1：1，终生可使用赠予-返还功能3次。古族宝鉴评定的“精英、天才、妖孽”级成员，赠予-返还比例2-1000倍，返还次数增加，限制大幅放宽……某真神：“高进，我很好奇，为什么你的麾下如此忠诚，团结？”高进：“员工对公",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lc_吞噬星空：我的赠予千倍返还1-442章.txt",
+    readUrl: "https://pan.baidu.com/s/1PDiTAbAReHLRFWKk1PpJDQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lc/",
   },
 
@@ -55914,6 +56085,7 @@ export const bookItems = [
     excerpt: "穿越斗罗，父亲武魂战虎，母亲武魂绣花针，天赋平庸。 原本想着平凡度过一生。 谁知在武魂觉醒的那一刻，觉醒情绪值系统，只需要获取反派情绪值，就可以获得兑换奖励。 玉小肛：柳二龙，你不应该是喜欢本大师吗？啊，比比东，不要把我关进筒子楼！ 唐三：小舞不应该献祭给我吗？你怎么献祭给叶清河这混蛋了？还有，为什么我长不大了？小舞：呸，你这永远长不大的蓝银童子！ 唐昊：又当爹，又当妈！ 比比东：我生君未生，君生",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_le_斗罗世界的大反派1-330章.txt",
+    readUrl: "https://pan.baidu.com/s/17sswfL4qPxq_MK5DrV6b1g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/le/",
   },
 
@@ -55931,6 +56103,7 @@ export const bookItems = [
     excerpt: "【仅漫威】【人设贴近真正的蜘蛛侠】【神秘号码：782955830】“好吧，让我们再来过一遍。我叫彼得帕克，一个重生到漫威世界的穿越者，我被一只基因改造的蜘蛛咬了，以至于本叔叔都没有机会告诉我“能力越大，责任越大”，所以我不做蜘蛛侠了。开个玩笑。”沐浴在纽约的阳光之下，飞荡在曼哈顿的高楼大厦之间。彼得·帕克做出了自己的决定。帮捍卫者联盟解决纽约的犯罪，击败奥斯本公司的生物基因怪物，加入复仇者联盟处理",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lf_我在美漫做惊奇蜘蛛侠1-1303章.txt",
+    readUrl: "https://pan.baidu.com/s/1FvYEw1dVZDvf0lIIuA-OMQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lf/",
   },
 
@@ -55947,6 +56120,7 @@ export const bookItems = [
     excerpt: "（商业加日常，多女主，不无脑，目前精品4000多均，高定破万，大伙可以放心实用。） 娱乐圈大佬江野，被誉为最会调教女演员的老板。 他旗下的艺人，专注星光助农、文化出海、明星种地…… 作风无比接地气。 在指导一场关键戏时，他严肃告诫自己新晋影后：“记住，吻戏的灵魂在于投入和想象。” “……” 江总越说越投入，甚至闭上眼，撅起嘴，“对，就是这样，忘我地、虔诚地……” 影后看着眼前不断靠近的老板的脸，大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lg_华娱：我的艺人全顶流1-597章.txt",
+    readUrl: "https://pan.baidu.com/s/1R4ob7PFnwwJWMk6QJnY9zg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lg/",
   },
 
@@ -55964,6 +56138,7 @@ export const bookItems = [
     excerpt: "穿越酒厂，乌丸莲司本想过上抓抓卧底的悠闲生活。 谁知道自己竟然是乌丸莲耶那个老家伙为了长生造出的试验体小白鼠？ 这能忍？！ 正所谓大丈夫生于天地间，岂能郁郁久居人下！ 这酒厂你乌丸莲耶可有，我为何不可得呢？ 于是乌丸莲司暗中广纳贤才，准备自己做boss建立新酒厂。 这一天，从伦敦动身准备参与主线的乌丸莲司却在泰晤士河捡到了一个初中生模样的英伦少女？ Emm……立志当上黑衣组织大佬的我，捡到变小的M",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lh_柯南：从捡到玛丽开始的酒厂大佬1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1aj7QwGCU9G82ixXp6TIzag?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lh/",
   },
 
@@ -55981,6 +56156,7 @@ export const bookItems = [
     excerpt: "【斗罗大陆】【绝世唐门同人】【单女主叶骨衣】【无系统，无金手指】重生在斗罗大陆绝世唐门时期，宁缺成为了九宝琉璃宗的少主，没有系统，没有金手指，身为辅助系魂师，最好办法就是找个漂亮能干的妻子，提前找到叶骨衣，培养感情抱大腿！这一次，九宝琉璃的光辉绽放在圣洁光辉的天使身上！这一次，他们不会再输了！宁缺他越要造神，重塑天使之神！（主角前期就是一个老六，一个充满算计的阴暗面，叶骨衣霸道护夫！）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lm_斗罗：天使再现，九宝相随1-351章.txt",
+    readUrl: "https://pan.baidu.com/s/1AFzwhU4mwi0nnbGPC67vdA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lm/",
   },
 
@@ -55998,6 +56174,7 @@ export const bookItems = [
     excerpt: "张凡一觉醒来，发现自己穿越了。等等，都2008年了，就算身怀系统。你让他从工地搬砖开始在勃磨当军阀，他也不专业啊！读书时没教过这个。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lo_诸天从边水往事搬砖开始1-349章.txt",
+    readUrl: "https://pan.baidu.com/s/1Agxa_v8VnMI6X3WyY_69xg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lo/",
   },
 
@@ -56014,6 +56191,7 @@ export const bookItems = [
     excerpt: "机械的王座给了我毁灭的力量物种的进化是我的创世之剑我将二者合一，实现终极飞升（赛博、废土、机械、改造、血脉、物种、武力提升、势力建设、宇宙战争、文明飞升，还有我们最可爱的第四天灾，大约便是这么一个故事）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lq_从机械猎人开始1-1935章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ua3smncMTc4KUIcTpT-K5g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lq/",
   },
 
@@ -56030,6 +56208,7 @@ export const bookItems = [
     excerpt: "是，我就是花瓶！有颜值，为什么要靠实力；有捷径，为什么要绕弯路。演演戏，花花钱，享受一下人生。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lr_美娱之花瓶影帝1-2936章.txt",
+    readUrl: "https://pan.baidu.com/s/1dWRl9rJiE5uIbE9u01glAw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lr/",
   },
 
@@ -56047,6 +56226,7 @@ export const bookItems = [
     excerpt: "（本书为魔禁同人文融合了一些JoJo的设定，女主文，不玩女频那套。）穿越者，人在学都，刚穿越，圈内人太多匿了。这是一个穿越者来到学园都市的故事，你就当真的来听吧。我的名字叫做法尼.瓦伦雅，今年13岁，目前居住地为在常盘台校外宿舍209房，一年级生。未婚，每天睡前要喝一杯冰镇可乐才能安心入睡，能够一觉睡到大天亮，学校的医务老师说我的身体十分的健康。对了，你说穿越学园都市脑子里有镰池和马的魔法禁书目录",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lu_魔禁：学园都市的替身使者1-1913章.txt",
+    readUrl: "https://pan.baidu.com/s/1prV0xAwxd8ktsrKcUbnsxQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lu/",
   },
 
@@ -56064,6 +56244,7 @@ export const bookItems = [
     excerpt: "【近年唯一一部冲进过起点畅销前十的现代军旅文，不容错过】激活了军令系统的许戈很苦恼。系统看似很强大，只要军令被执行就能不断变强。不仅可以通过完成军令状的挑战来获取奖励，当技能达到LV5级别后还能发动战时模式。但，他只是个新兵。这里可是全员狠人的西北狼旅，想要军令被执行谈何容易？直到有一天，许戈救下的小狗成为了军犬。许戈对着小军犬下达指令：“扑！”【军令被执行，抽取到新技能-撕咬，上限为特级】“好狗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lv_人在狼旅，军令执行就变强1-485章.txt",
+    readUrl: "https://pan.baidu.com/s/1lHax-Tm5_rEqAKszAVhtRA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lv/",
   },
 
@@ -56080,6 +56261,7 @@ export const bookItems = [
     excerpt: "重新回到1993年的李东陵，准备开启新的生活，这一世的李东陵，决定过好自己的生活，也要做自己想做的事。我是李东陵，这是我的1993！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lw_重生从1993开始1-2027章.txt",
+    readUrl: "https://pan.baidu.com/s/1Zjna7JhlJZkXLc-jA-bRBg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lw/",
   },
 
@@ -56097,6 +56279,7 @@ export const bookItems = [
     excerpt: "这是席卷诸天的战争，是超越维度的角斗场！主神空间、轮回乐园、六道轮回空间、蓝白社、无尽深渊、第四天灾联盟、诸神议会……多方至高势力在此碰撞，只为争夺那唯一的超脱。为赢得胜利，主神强行征召自身万千时间线中最强潜力的个体——郑吒、楚轩、朱鹏、王宗超，皆成为它的利刃器。神鬼团战之后开启诸天势力之间的碰撞。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_lx_无限恐怖入侵诸天1-375章.txt",
+    readUrl: "https://pan.baidu.com/s/1THuZh4gphth5T8P-UFrs2g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/lx/",
   },
 
@@ -56148,6 +56331,7 @@ export const bookItems = [
     excerpt: "多年以后，面对火星上立起的哆啦A梦巨像，全宇宙最尊重安格隆的人、帝皇的虔诚信徒（大概）、哆啦考尔异父异母的亲兄弟、巢都下层区最富盛名的垃圾佬、阿巴顿一生挥之不去的阴影、亚空间通往现实宇宙的出口之一、恶魔垃圾桶、“我要见真正的巴尔之主！”、瓦半仙神选（也许）、大天使酱修复员、周.这是俺拾嘞.云，准会想起在冥府星系，圣吉列斯给自己托梦的那个遥远的下午。“所以，帝皇爷，这踏马真不能怪我啊！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_maa_人在战锤，求你别赞美哆啦万机神1-797章.txt",
+    readUrl: "https://pan.baidu.com/s/1t0HR239t6lPiiIrZAA8CCA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/maa/",
   },
 
@@ -56165,6 +56349,7 @@ export const bookItems = [
     excerpt: "顾白重生了，成为了李相赫的队友。 好消息：系统来了，完成任务有巨额奖励，成为最强选手不是梦！ 坏消息：这个系统不太对劲！ 【任务一：李相赫过于节俭，常年不买新内裤，把李相赫的旧内裤偷走吧！】 【任务二：李相赫刚买了一瓶可乐，请宿主当着他的面把可乐一口气全部喝光。】 【任务三：李相赫的段位只有大师，请狠狠地羞辱一下李相赫！】 【任务四：有个女玩家叫做莎赫儿，请宿主带着莎赫儿在李相赫面前贴贴。】 【任",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mab_坏了，我真和李相赫当队友了1-348章.txt",
+    readUrl: "https://pan.baidu.com/s/1cgMeicSa_gVjS4IZ4PARgw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mab/",
   },
 
@@ -56182,6 +56367,7 @@ export const bookItems = [
     excerpt: "从来没想过重生这回事会落到自己身上的张起航，万万没想到自己重生回来的第一件事，竟然是被逼着帮单位背黑锅……背锅就背锅吧，虽然别人对这口锅避之唯恐不及，但在张起航看来也算是借着这个机会弥补当年曾经的遗憾了，可让张起航疑惑的是，为什么做着做着，公司居然成了国内最大的发动机供应商？对此，张起航很挠头、很不解：情况为什么变成了这个样子？这不是我想要的啊。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mac_起航19921-1581章.txt",
+    readUrl: "https://pan.baidu.com/s/1TTT2IhL2TeSlt7Myf7-rzQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mac/",
   },
 
@@ -56199,6 +56385,7 @@ export const bookItems = [
     excerpt: "【恋爱日常类小说】【房屋单间长期招收租客地点：冬木市小涴熊町1883号。详情：20平个人房间，有独立洗浴间、水电、网络。租金：998円（免押金、免礼金）要求：女，20岁以内，可以帮房东做一件事情。】某房东：“欢迎入住。”PS：本身又名《关于我想靠系统躺平收租，但又遇到奇怪租客这件事》、《一开始想咸鱼，可它给的实在是太多了》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mag_东京房东1-453章.txt",
+    readUrl: "https://pan.baidu.com/s/1qxV2VJJ_xijVkWdwqD9K2A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mag/",
   },
 
@@ -56216,6 +56403,7 @@ export const bookItems = [
     excerpt: "秦风穿越平行世界，成为一名十八线歌手。好在获得【疯狂艺术家】系统，行为越疯癫，奖励越丰厚。于是一位精神状态不太正常的“发疯艺术家”上线，演绎“疯癫美学”。大红旗袍唢呐《仙儿》：病友，集合！黑神话《悟空》：懂不懂赛博诵经的含金量。小丑版《浮夸》：究竟是怎样的绝望，能让一个小丑癫狂疯舞被黑粉diss，一首小鳄鱼之歌《小鳄鱼之歌》骂回去。被同行诋毁，一首腾格尔版《丑八怪》直接把对方唱裂开。他骂人从不嘴下",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mai_艺术家哪有不发疯的！1-427章.txt",
+    readUrl: "https://pan.baidu.com/s/1W8_Q53p0Bjyb0AXzBhlgqQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mai/",
   },
 
@@ -56232,6 +56420,7 @@ export const bookItems = [
     excerpt: "重生回来，觉醒了一个系统。 扶持华语电影，亏损后能获得返还。 那我可甩开膀子干了。 银河映像？我不需要你有票房，使劲拍好电影就行了。 《美少年之恋》？让那个谁，陈关西和谢霆风来演。 徐老怪要拍《蜀山传》？我全额投资！ 我想投《特务迷城》嘉禾还不乐意了？那你们慢慢玩。 内地也需要我的关爱。 北影厂要拍《横空出世》？ 都来拿钱！多拿点！ 我就喜欢大制作、大阵容、特效DuangDuang的！ 最好实景拍",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_maj_扶持华语电影，亏损十倍返还1-233章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ksa4LRTCu1Key4lP1RiqTA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/maj/",
   },
 
@@ -56248,6 +56437,7 @@ export const bookItems = [
     excerpt: "穿越到英国的亨利，成为了帝国主义第二顺位继承人。本以为什么都不用做，就能静待圣爱德华皇冠加冕头上，却不曾想先一步迎来了霍格沃茨的录取通知书。魔法？王冠？不，只是在未来的王冠上加一颗名为魔法的明珠罢了。————————本书又名《你说你是黑魔王？和我统治带英六十四年，治下百姓平均寿命高达28岁、KD九位数的维多利亚老祖母的圣遗物说去吧！》、《霍格沃茨离岸平衡手》《家父七十年太子》、《什么白魔王黑魔王，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mak_霍格沃茨：我的祖母是女王1-404章.txt",
+    readUrl: "https://pan.baidu.com/s/1whxDgj6w55dilWBaReES3w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mak/",
   },
 
@@ -56265,6 +56455,7 @@ export const bookItems = [
     excerpt: "（后宫向，略种马，非喜勿入。）张帅安一觉醒来，发现自己来到了1979年的香港。好在，他还有个金手指，只要跟女明星有接触，就可以获取到【星光值】，然后兑换未来的小说、剧本、讯息等等等等。他因此将原本就星光璀璨的女艺人，送上更加闪耀的世界舞台；同时也让更多的美女，踏入一片光明和辉煌星途。“与钟楚虹亲密接触，获得星光值100点，点亮【演技天赋】。”“与赵雅姿亲密接触，获得星光值222点，点亮电视剧剧本《",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mal_逆流香江19791-487章.txt",
+    readUrl: "https://pan.baidu.com/s/1N8v39cmLvgrM2OnHNS66NA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mal/",
   },
 
@@ -56281,6 +56472,7 @@ export const bookItems = [
     excerpt: "穿越到日本，成为名叫神谷川的高中生。放眼身边——花子同学蹲在厕所里等待有人来敲门；裂口女手持剪刀在街头游荡；玛丽小姐的催命来电响彻不断；犬鸣村里哀嚎和犬吠永不停歇；姑获鸟在寻找早已死去的孩子；青行灯微笑着教唆路人游玩百鬼灯……神谷川在这样一个怪谈和妖鬼横行的崩坏世界里，给自己定下了一个小目标：“打倒一切妖魔鬼怪，成为至高的鬼神共主。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mam_我加载了怪谈游戏1-917章.txt",
+    readUrl: "https://pan.baidu.com/s/1fKNPr37GyjI5z2TymsqpQQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mam/",
   },
 
@@ -56298,6 +56490,7 @@ export const bookItems = [
     excerpt: "一次偶然机会，姜恒的电脑可以穿越诸天万界。电影，动漫，小说，游戏，都可以，还获得抽奖系统。神雕：【叮，恭喜宿主抽到普斯曲蛇胆，力量加1.】钢铁侠世界：【叮，恭喜宿主抽到超级战士血清，力量+10.体力+10.】乱马世界：【叮，恭喜宿主获得化龙能力，获得火属性灵根。】无限恐怖：【叮，恭喜宿主解锁基因锁，基因倍数增加。。。。】天龙，射雕，神雕，哪吒，超能失控，鬼吹灯，全职猎人，海贼，漫威，龙珠，无限恐怖",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_man_诸天：我的电脑，能穿无数个世界1-498章.txt",
+    readUrl: "https://pan.baidu.com/s/1A5b29eoQWGptUqMpM1Qa-Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/man/",
   },
 
@@ -56315,6 +56508,7 @@ export const bookItems = [
     excerpt: "你们知道一石米多少钱吗？我告诉你，要五千文！你们或许会说：林大人我需要一份工作，一口吃的，是的你没错，活下去实在是太重要了，但今天我要告诉你，这个世界上还有一种比生命更重要的东西，那就是尊严！而现在我的面前是一个积贫积弱在屈辱之中惨痛哀嚎的民族，他们在我们的国土上横行霸道，骑在我们头上作威作福，他们随意践踏我们的尊严。哪怕是最弱小的民族也来嘲笑我们，无论是谁谈起华夏这个字眼都会发轻蔑一声，无论谁看",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mao_1853：我的奋斗1-980章.txt",
+    readUrl: "https://pan.baidu.com/s/1fanLV3blEwXG4CsCLj5PAg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mao/",
   },
 
@@ -56332,6 +56526,7 @@ export const bookItems = [
     excerpt: "当最后一位厨神早已成为故事与传说。诸多绝技流入市井坊间，发光料理已然成为绝唱。重活一世的夏安决定要肝到厨神面板的尽头。从普通的快切术，到取鱼卵于无形的【七星破军迅切开】。从普通的斩骨剔肉，到轻松肢解整头活牛的【猛牛青龙斩】。从家常的麻婆豆腐，还原出经典传世食谱【六味一体魔幻麻婆豆腐】。夏安不断肝出失落的绝技，食谱。等他蓦然回首，他才惊觉自己不知不觉间竟已然重铸华夏美食界荣光：“现代美食界只有一位活",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_maq_肝到厨神才算开始1-222章.txt",
+    readUrl: "https://pan.baidu.com/s/1iKdTPYERdyDa1GNATmuOCw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/maq/",
   },
 
@@ -56349,6 +56544,7 @@ export const bookItems = [
     excerpt: "哎呦？这是建安二十三年？虽然这一年刘备即将成为汉中王，走上人生巅峰，但是下一幕就是盛极而衰：威震华夏的关羽败走麦城、孙刘联盟反目成仇。刘备的三兴大汉的梦想，马上就要因为内外交困而化为泡影了。遥想当年三顾茅庐，水镜先生曾仰天道：“卧龙虽得其主，不得其时，惜哉！”“三兴大汉？时间不多了。”“真是有意思的逆风局啊！”企鹅家族号：373017846书荒的请移步我的其余三本小说，谢谢。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mar_重铸三国：逆风局才有意思1-1212章.txt",
+    readUrl: "https://pan.baidu.com/s/1eFduy3A0yynOmk_YAd5uoA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mar/",
   },
 
@@ -56366,6 +56562,7 @@ export const bookItems = [
     excerpt: "这是最好的一年，北伐的旗帜插到了天津卫城下，西征的刀锋在靖港逼得曾国藩投水。这也是最坏的一年，北伐的铁流在北方寒冬中凝结，西征的大胜因内斗倾覆于湘潭。 1854年，天国运势的巅峰在此，跌落的伏笔亦在此。赵木成便在这一年，踏入了天京城。从最卑微的“两司马”起步，于这末世激流中，执棋落子，横扫乾坤。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mat_太平天国18541-572章.txt",
+    readUrl: "https://pan.baidu.com/s/1nP8AsuY-2oRSmG9yUk2Paw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mat/",
   },
 
@@ -56383,6 +56580,7 @@ export const bookItems = [
     excerpt: "大学毕业后，罗阳留在了魔都工作。可是在一次回老家参加高中同学聚会后，罗阳心态失衡了。那些留在老家发展的同学大多混入了轻松行业，虽然拿着一万不到的月薪，却享受着朝九晚五，每周双休的生活。一个个开着大几十万的车子，有空就钓钓鱼、聚聚会、时不时还来个亲子自驾游......罗阳忍不住感慨，如果再给他一次选择的机会，大学毕业后，他也要回到老家去发展，做一个窝在小县城里的豪门。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mav_重生了，回到小县城当豪门1-1084章.txt",
+    readUrl: "https://pan.baidu.com/s/1UoLIWdMo-gJImCFxfkMmhA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mav/",
   },
 
@@ -56400,6 +56598,7 @@ export const bookItems = [
     excerpt: "（华娱老作者，写出过多本精品，本书成绩大精品，正在向万订发起冲击！）重生到2009年的江一锋，在娱乐圈搅动风云。却总被人说没有格局。“江导，有人说你拍老男孩，故意蹭迈克尔杰克逊去世的热度，你承认吗？”“确有其事。”“还有人说你批判《狼图腾》，又踩导演同行，破坏文娱圈的团结，你有什么话说？”“文娱圈哪有团结？”“那你亲手开启了流量时代，大搞饭圈文化，这事怎么说？”“大势所趋，与我无关。”“有人说你率",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_max_这个导演没有格局1-564章.txt",
+    readUrl: "https://pan.baidu.com/s/1RyEcZhBhWT4FJoXCDO7zjg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/max/",
   },
 
@@ -56417,6 +56616,7 @@ export const bookItems = [
     excerpt: "得诸天万界屋，掌控世界之门。自此踏遍诸天，寻觅珍馐美味！江炎偶得诸天万界屋，以世界之门为钥，开启跨次元的诸天美食之旅。初入美食的俘虏，得宝石肉觉醒美食细胞。归返食戟之灵，入远月学院磨练厨艺。再入全职猎人，探索秘境险地……从迷宫饭的地底迷宫，烹饪龙肉魔植的奇幻盛宴；到海贼王的伟大航路，捕获海王类解锁深海美味。从中华小当家的厨神之乡，复刻经典发光料理；到神奇宝贝的真新镇，调制哞哞牛奶冰淇淋；闯灵笼末世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mb_诸天美食，从获得宝石肉开始1-569章.txt",
+    readUrl: "https://pan.baidu.com/s/1-U49skJaBf-tlDcksyBZ7Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mb/",
   },
 
@@ -56433,6 +56633,7 @@ export const bookItems = [
     excerpt: "作为最后一代“国王终结者”，绰号终点的李维，被问到防守詹姆斯的难点在哪里时，他愣了一会儿，缓缓说道:“难点在于…他很强壮。”“还有呢？”“还有…他的脚步很难预测。”“还有吗？”“太多了。”“难点太多了是吗？”“脚步太多了。”这是篮球小人物的后现代“史诗”，这里没有英雄，没有爱情，没有忠诚，只余一丝勇气，包裹着脆弱的梦想，在金钱和权色的世界里奋力前行。NBA的古典英雄主义叙事已经终结，所有的伟大即将",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mc_篮球终点站1-422章.txt",
+    readUrl: "https://pan.baidu.com/s/1PlcdfWI4Xutkyz8wqVbwaw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mc/",
   },
 
@@ -56466,6 +56667,7 @@ export const bookItems = [
     excerpt: "方显：“都影视学院毕业的，没正经上几天文化课，就不要立学霸人设了，望周知！”某家粉丝：“听你这么说，你学历一定很高吧？方学霸？”方显：“不高啊，我就影视学院毕业的，德尔塔公式是啥都不知道，堪称绝望的文盲！”【真诚值+1，+1，+1……】方显：“希望接下来两年，各位顶流鲜肉、一线爱豆都不要再接古偶剧了，谢谢。”众鲜肉粉丝：“凭什么不接？你说不接就不接啊，你算老几？”方显：“他们不接的话，这些古偶男主",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcb_真诚系影帝1-110章.txt",
+    readUrl: "https://pan.baidu.com/s/1_VqXtF5OGICxqoWOgOmZDg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcb/",
   },
 
@@ -56483,6 +56685,7 @@ export const bookItems = [
     excerpt: "主角是一个正直、善良、友爱，独立，勇敢的学霸型五好青年。他立志成为一名维护世界和平，主世界繁荣新时代战神。结果他的眷族却一个个残忍，血腥，好杀，无视世间一切真善美。主角决定，一定要拯救他们，一定要让他们感受到尘世间的温暖，人世间的美好。但他的信徒却一个比一个的阴险，奸诈，无耻，下作。当有一天他成为整个主世界最邪恶，最恐怖的神灵。他留给世间的只有一句话。”我是一个好人！为什么你们不信呢！“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcc_神祗：开局鱼猫兽人1-579章.txt",
+    readUrl: "https://pan.baidu.com/s/1CY8FUqswIXvynq7wR4XpRA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcc/",
   },
 
@@ -56500,6 +56703,7 @@ export const bookItems = [
     excerpt: "穿越无限恐怖世界，和郑吒同期进入生化一。主角夏仁身怀抽象操作系统。 无需拼命，只需要抽象操作搞队友心态就能变强！ 于是乎，从生化一回归的他，用造人权限制造了一个“罗莉”......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcd_无限恐怖：开局复制罗莉气晕郑咤1-441章.txt",
+    readUrl: "https://pan.baidu.com/s/1d31zG5uNUSw-1Eq2CdFJ0g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcd/",
   },
 
@@ -56516,6 +56720,7 @@ export const bookItems = [
     excerpt: "简介：遭遇泥头车冲撞的冷飞白重生到庆余年世界，被在澹州养老的范老太太收为义孙。面对周围一群阴谋家的监视，冷飞白只想要安安静静苟在澹州，却意外绑定了一本竹简天书，正式踏上修行之旅。多年后，大东山上，冷飞白一指将庆帝毙于指下，彻底开始了自己的诸天之旅。天龙八部，他先后斩杀耶律洪基和完颜阿骨打，降低了异族入侵中原的可能。秦时明月，他一锏击沉蜃楼，断绝徐福想要海外称王的野心。一人之下，他助左若童寻得通天之",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mce_诸天：从庆余年开始修行之旅1-348章.txt",
+    readUrl: "https://pan.baidu.com/s/1Zse-Qv9ml5_eV0ofgK9MDg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mce/",
   },
 
@@ -56533,6 +56738,7 @@ export const bookItems = [
     excerpt: "文娱大佬顾均重回到了2002年。只因在冰天雪地里看到快要被冻死的神仙姐姐出手救了一下，就被赖上了。小天仙一脸呆萌的叫着哥哥求带，大眼睛眨巴眨巴，小嘴扁扁。顾均瞬间破防，心软之下带着小家伙拜影帝，认大佬，拍大片……兢兢业业的当着奶爸，天仙终于拿了影后，他松了口气，以为终于可以躺平享受生活。但事情却渐渐的变得不对劲起来。他和小姐姐说话，天仙要吃醋。女明星勾引他，天仙泼人家开水。女的来送礼，天仙把东西往",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcf_华娱2002，我被天仙缠了身1-491章.txt",
+    readUrl: "https://pan.baidu.com/s/14ftuajEyZu-BrflV9cthKA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcf/",
   },
 
@@ -56549,6 +56755,7 @@ export const bookItems = [
     excerpt: "新书《半岛:做梦而已，你来真的啊？》重活一世，功成身退的秦以燊本想闲暇时简单看个演唱会，开家咖啡店享受人生。万万没想到，那些女明星全都冲着自己来了！……等等，这其中怎么还有德鲁纳酒店社长，还跟IU长得一模一样？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcg_半岛：开个店，女爱豆看上我了？1-407章.txt",
+    readUrl: "https://pan.baidu.com/s/1LrBi1A78aGMyr7DlKV7hFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcg/",
   },
 
@@ -56565,6 +56772,7 @@ export const bookItems = [
     excerpt: "王诚穿越到1999年，成为一名十九岁的男大学生。 就在他打算好好学习，成为一名药剂师时，家族崛起系统来了。 家族影响力越高，奖励越多，家族人丁越多，奖励越多。 他还发现系统鼓励他找那些影响力大的女明星。 思来想去，他打算从刘焘开始。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mci_华娱之家族崛起1-248章.txt",
+    readUrl: "https://pan.baidu.com/s/1XOYwJLKO0aLlbysxj1xhOg?pwd=qjnm",
     sourceUrl: "https://www.min-yuan.com/txt/mci/",
   },
 
@@ -56581,6 +56789,7 @@ export const bookItems = [
     excerpt: "高考结束后，钱权准备向女神告白，却眼睁睁看着女神被富二代同学撬走。这时，他觉醒了“虎父无犬子”系统。【叮，系统检测到你父亲获得3000元奖金，奖励你30000元！】【叮，系统检测到你父亲在练咏春，奖励你宗师级咏春！】【叮，系统检测到你父亲在学校篮球赛中投入绝杀球，奖励你职业级篮球技能！】……啊这？爸爸，请再努力一点，卷娃不如卷自己呀！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcj_爸爸，请再努力一点1-178章.txt",
+    readUrl: "https://pan.baidu.com/s/10eTHpqgvAxdJsMb2CoaXOw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcj/",
   },
 
@@ -56598,6 +56807,7 @@ export const bookItems = [
     excerpt: "苏杭重生后意外获得一个【交朋友系统】，只要按照系统的要求和系统选定的人交朋友，每进入一个要好的阶段，就会得到系统爆出的奖励。除了诸如【邂逅卡】、【整蛊卡】、【情蛊一日体验卡】、【全城餐饮一日畅享卡】等黑科技道具不说，还可以提升本人的各项属性！更有各种金币、不动产、股权爆出。苏杭逐渐在交朋友的快乐中无法自拔...可是，苏杭却渐渐发现，自己的兄弟们开始对自己藏着掖着了，一个个生怕自己认识他们女朋友..",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcl_我真的只想和她们交个朋友1-928章.txt",
+    readUrl: "https://pan.baidu.com/s/1yyO8O7hBNrRukETSoRg9gQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcl/",
   },
 
@@ -56614,6 +56824,7 @@ export const bookItems = [
     excerpt: "这里是大宋？ 不！ 是大洪朝！ …… 顾老二：“吾倾慕汝己久，愿聘汝为妇，托付中馈，衍嗣绵延，终老一生！” 盛明兰：“妾……” “慢！” 就在此时，有翩翩公子，手持大戟，却是横插了一脚！ “吾姊乃大家闺秀，需配青年才俊；吾姊贤良淑德，亦合正人君子；吾姊更知书达理，岂可缺温文尔雅？” “敢问阁下，配得上否……” ……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcm_从知否开始当文圣1-725章.txt",
+    readUrl: "https://pan.baidu.com/s/1eFnhjg73NXp3_Z1SaZ6c9Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcm/",
   },
 
@@ -56648,6 +56859,7 @@ export const bookItems = [
     excerpt: "本书又名，人在一拳，沉淀三年，我无敌了！ …… 泽枫穿越一拳世界，成为了king，与琦玉一同卧薪尝胆三年，在无数次战斗中突破极限，隐约打开了人类的限制器。 可在三年后的今天，泽枫脑子里响起了机械化的提示音，他本人被拉入了次元自我互助群。 对此，泽枫只想说，我都已经超越龙级了，你个破外挂来这么晚有毛用啊？ 然而当泽枫进入次元自我互助群后才发现，这里面的人，全是穿越了不同世界的他。 【动漫，游戏，特摄",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcp_同时穿越，我成了KING！1-227章.txt",
+    readUrl: "https://pan.baidu.com/s/1tOa8-lq8plDbmaXY2nWS_Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcp/",
   },
 
@@ -56665,6 +56877,7 @@ export const bookItems = [
     excerpt: "噩梦笼罩世界，诡异、灾祸丛生，不论普通人、强者，亦或是高高在上的大人物，皆只能在噩梦中挣扎。时安踏入噩梦的深海，张开双臂，四周的灰暗退去，缤纷的色彩滋生。“噩梦？哪有什么噩梦。”“欢迎来到安全区。”……若干年后，当外族人依然在噩梦中挣扎时，蓝星人却频频深入噩梦。“噩梦？”“进噩梦就像回家一样，这里好吃好喝，又有训练场，疗养室，炼狱食堂，大家说话也好听，我超喜欢这里的。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcr_我在噩梦世界建立安全区1-314章.txt",
+    readUrl: "https://pan.baidu.com/s/1KLo0Q2_K1ivs7xGedCya-g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcr/",
   },
 
@@ -56681,6 +56894,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcs_黑篮：我把天赋带到神奈川1-248章.txt",
+    readUrl: "https://pan.baidu.com/s/10KhpgZE3KA_V87hsY36SAA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcs/",
   },
 
@@ -56698,6 +56912,7 @@ export const bookItems = [
     excerpt: "世界塔有难以想象的财富和宝物，只要冲得够高，就能凌驾于普通人之上，享受灿烂荣耀的美好人生。封顶一千层，有人说到达一千层能得到全世界的财富；有人说千层之上是美丽的新世界甚至是天堂；有人说能获得神一样的能力；有人说能满足任何愿望。当世最强的团队冲到了前无古人的第929层，仍惨遭团灭，队友将获得的唯一型至宝放在了队长王玟身上。王玟活了下来。时间却回到了二十年前。带着所有的情感与经验重活一世，世界塔前的青",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcu_从九百层归来1-564章.txt",
+    readUrl: "https://pan.baidu.com/s/1OU4DCIwK-N6FHZTVVFFcZg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcu/",
   },
 
@@ -56715,6 +56930,7 @@ export const bookItems = [
     excerpt: "有人说我年纪轻轻就跟富婆结婚是可耻的吃软饭行为。 那我问你，人一个18岁零120个月的女孩子不要彩礼，不要房，不要车，还送你房，送你车，给你零花钱。 面对这份纯粹的感情，你能不感动？你能拒绝？ 回答我！ 你知道我以前死心塌地搞纯爱，是什么结果吗？ 收入全部上交还要被女友骂不上进，还跟闺蜜吐槽我乡巴佬！ 这你受不受得了，你回答我，受不受得了？！ 她生日，我送金手镯，我生日，她给我转5块2毛钱，然后，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcv_分手后娶了前女友上司1-101章.txt",
+    readUrl: "https://pan.baidu.com/s/13AUpTFI9Ver7hi_GdQyFxw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcv/",
   },
 
@@ -56731,6 +56947,7 @@ export const bookItems = [
     excerpt: "本书原名《我和五个大美妞穿越到北宋》，又名：《高端的猎人往往以猎物的方式出现》、《我在五个跟我一块穿越的大美妞面前装土著》。 顶级历史领域创作者张纯、顶级军事点评家李琳、顶级财经主播叶诗韵、科技圈废材女王麻晓娇、嫁接育苗农业女神袁倾城穿越到了宋哲宗末期，为阻止靖康之耻发生，她们决定从源头解决问题，也就是换掉快要登基的宋徽宗，而我就是她们选中的新皇帝。 可她们不知道，我也是穿越者。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mcw_我和她们穿越到北宋1-519章.txt",
+    readUrl: "https://pan.baidu.com/s/1b40FANtsdyTOXzcuNyJyAA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mcw/",
   },
 
@@ -56746,7 +56963,7 @@ export const bookItems = [
     chapters: "1-648章",
     excerpt: "【地图金手指+更新稳定+不动脑子爽文】----------------------------新书《抗战：从生死看淡开始》已经签约，喜欢养书来宰的书友可以提前加加书架，有月票可以投给新书冲榜（本书会一直更新）。---------------------------- 周志远一觉醒来，发现自己身处晋西北，直面生与死的抉择！ 山河陆沉，敌寇猖獗，作为一名有血性的华夏男儿，应该怎么办？ 惟有生死看淡，不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1d-ZBxSsUrAVn5t40yOXF0A?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1hfswjILsAa4SsyW6X-Xpgg?pwd=q7na",
     downloadUrl: "/books/m_mcy_亮剑，从晋西北打到长津湖1-648章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mcy/",
   },
@@ -56782,6 +56999,7 @@ export const bookItems = [
     excerpt: "穿越到尸魂界，毕业后被大贵族看中，成为四枫院家的赘婿。四枫院砚磨的斩魄刀觉醒了可以穿越世界的能力，并和死去的亡灵签订契约，并且可以获得契约者的一部分能力。第一站，就是火影的世界。宇智波灭族之夜，惨死的宇智波全体亡魂，看着出现在面前的死神，死神给出了选择。“要么臣服于我，我让你们重活第二世，要么就此消亡，自己选吧。”宇智波全族毫不犹豫的做出了决定。“我等宇智波全族，誓死效忠大人”而这只是个开始，海贼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_me_死神：开局契约宇智波全族亡魂1-404章.txt",
+    readUrl: "https://pan.baidu.com/s/1feP9jd7H_LzG2aBd5GQbiQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/me/",
   },
 
@@ -56799,6 +57017,7 @@ export const bookItems = [
     excerpt: "五丈原的诸葛亮重生到了官渡之战前……开启最强谋士形态【事后诸葛亮】……这一世，不再是蜀汉丞相，而是大汉丞相。原创IF线：刘备起势于河北，天下英雄你和我，夷陵赤壁没有火。本书看点：无女主，全是一群男人搞事业。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfa_三国：事后诸葛亮，三兴大汉1-399章.txt",
+    readUrl: "https://pan.baidu.com/s/1S6goiEoJaDJ0vmcnkx-Ovw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfa/",
   },
 
@@ -56815,6 +57034,7 @@ export const bookItems = [
     excerpt: "翻开一本扉页泛旧的菜谱，仿佛在诉说着往昔的故事。四合院这碗汤汁可不好熬。得加满满一勺年代感，这个可以多来点，食客不会腻。添几粒空间盐粒调调味，这个不能多，多了食客会咸。配的主食是什么呢?轧钢厂驾驶员—运输安全股股长—运输科副科长—运输科长，一路到轧钢厂厂长，这一碗碗主食端上来，把熬好的汤汁往上面一浇。那叫一个，地，地，地道~！这是一个关于成长的故事，一个中二青年，草根逆袭，创建研究所，带着轧钢厂华",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfb_四合院之车门已焊死1-1795章.txt",
+    readUrl: "https://pan.baidu.com/s/1lvqbvwaTM9jWB9ad5h1WNw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfb/",
   },
 
@@ -56832,6 +57052,7 @@ export const bookItems = [
     excerpt: "《“平成年代的福尔摩斯”去哪了？》《“日本警察的救世主”已经消失整整两月！》《神奇的破案技巧！新名侦探“沉睡的小五郎”！》看着摊在自己手上的剪报，这下哪怕是龙潭虎穴也得闯一闯了。那个绝望之地，犯罪之城，罪恶之城，侦探之都——米花市。本书又名：如何从零开始，用柯学在3天内建立一个大型跨国组织。世界各地著名科学家离奇失踪，现场只留下一句：——物理学不存在了。【柯南世界】——【型月宇宙（进行中）】建了一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfd_战力学不存在的无限流世界1-698章.txt",
+    readUrl: "https://pan.baidu.com/s/1vLJgFnZqanP3DzQ6IHBOSQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfd/",
   },
 
@@ -56848,6 +57069,7 @@ export const bookItems = [
     excerpt: "【0本万订+杀伐果断+军争文+少年热血】潜龙腾渊，鳞爪飞扬。乳虎啸谷，百兽震惶。鹰隼试翼，风尘翕张。襄樊、夷陵、街亭，季汉的意不平。既然我来了，这一切终将改变。汉贼不两立，王业不偏安。辅汉将军诸葛乔，承先辈之志，伐叛汉之贼，不坠汉家儿郎骁武之风！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfe_家父诸葛亮，我打造了千年大汉1-319章.txt",
+    readUrl: "https://pan.baidu.com/s/1dHOijkzx2X_YiL2Vp-HGbw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfe/",
   },
 
@@ -56865,6 +57087,7 @@ export const bookItems = [
     excerpt: "（惊心动魄的金融厮杀，简单易懂、全是热血！欢迎入坑品鉴） 传奇操盘手陈平意外回到2010年。 这一年比特币0.2美元一个，15年后暴涨至11万美元，翻了50万倍；英伟达0.04美元一股，15年后飙升到153美元，算上股息翻了近1万倍！ 随便抓住一个都能财富自由，只需等待15年即可。 有没有快速发财的办法？ 陈平：有的兄弟，有的！ 卡里只剩6千块？ 6千就6千！6千有6千的打法！ 开局碰上棉花期货一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mff_重生2010：开局做空棉花期货1-482章.txt",
+    readUrl: "https://pan.baidu.com/s/1C3qvt4tx01uLRB2qP_MchQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mff/",
   },
 
@@ -56899,6 +57122,7 @@ export const bookItems = [
     excerpt: "我叫洛维，高中成绩并不理想，考上了一所日本私立大学，所以前往东京留学。等等，这个浮浪人系统是什么鬼？为什么它认为我所处的是百鬼与术法并存的平安时代，还把我的远房堂姐当成了一个风水师兼贵族家主？还有家中的女仆为什么会被认为是女忍者？来到东京第一天，我遵纪守法。来到东京第二天，我决定要守护世界和亲朋好友。来到东京第三天，我在违法边缘小心试探。来到东京第四天，我开始感到无聊，这个世界太无趣了。来到东京第",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfh_人在东京，开启奇幻系日常1-410章.txt",
+    readUrl: "https://pan.baidu.com/s/1JPYUDLOlRwkP90l3v2ymZQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfh/",
   },
 
@@ -56916,6 +57140,7 @@ export const bookItems = [
     excerpt: "一群来自未来世界的华夏人意外地闯入到17世纪的北美西海岸，随即便改变了整个世界的历史进程，并将华夏文明的印记牢牢地深嵌入一块又一块土地上。 “整个新洲（美洲）大陆，是我们华夏人的天选之地！” “浩瀚的太平洋，是我们华夏人的内湖！” “加勒比海，是我们华夏人的洗脸盆！” “漠洲大陆，是我们华夏人的矿场！” “……”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfj_风起北美16251-1095章.txt",
+    readUrl: "https://pan.baidu.com/s/1LMTedW66i5SBDAe2uvfA7g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfj/",
   },
 
@@ -56950,6 +57175,7 @@ export const bookItems = [
     excerpt: "【已参加银河计划科幻品类征文活动】【目前高订六千，均订两千三，可食用！】转生来到全民成神，打造神域的世界，获得在关键时刻，自主选择的机会！【事件】：宿主的初始神域正在亚空间形成中，请选择初始神域地形！【选择一】：加大陆地面积。极大概率初始眷族诞生为陆地种族，中等概率诞生铁矿资源，小概率诞生魔法资源！【选择二】：加大海洋面积。极大概率初始眷族诞生为海洋种族，中等概率诞生植物资源，小概率诞生魔法资源！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfm_全球神祇：从选择木精灵开始崛起1-472章.txt",
+    readUrl: "https://pan.baidu.com/s/1GbsHMMGShPCmIyGhwo6ewA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfm/",
   },
 
@@ -56967,6 +57193,7 @@ export const bookItems = [
     excerpt: "老头子秉承着“穷养儿，成大业”的想法，一直对苏澄隐瞒家里有钱的事实。结果就导致，苏澄三十岁之前过的却相当穷酸。同年，老头子意外去世，苏澄得知一切真相。继承财富的苏澄终于毕业“通关”了，他在想自己终于可以买超级跑车、沪上大平层，每天都开趴体等等奢靡行为补偿自己的时候……下一秒他重生了！而且还是重生到了自己年轻的时候！也就是说，他还要再重新吃一遍老爹给自己施加的苦难吗？！天呐！二周目事情……不要啊！本",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfn_被穷养的我被迫开始二周目1-525章.txt",
+    readUrl: "https://pan.baidu.com/s/1YmOLhwlWz7on8DbLQOPNsA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfn/",
   },
 
@@ -56984,6 +57211,7 @@ export const bookItems = [
     excerpt: "✔上架五万字，日常四更一万六✔二弟，三弟，起床了。今天不是我们卷死别人，就是别人卷死我们，我们绝对不能被卷死，我们就是最强的。起来啊，让我们一起卷，卷出人生巅峰，卷出灿烂辉煌，卷出一个新的世界。——————《汉中祖昭武帝刘备语录》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfo_大哥别卷了，你都卷成汉中祖了1-268章.txt",
+    readUrl: "https://pan.baidu.com/s/1IF5FAAhyg8ZweAsfnzDlGQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfo/",
   },
 
@@ -57001,6 +57229,7 @@ export const bookItems = [
     excerpt: "单身科研狗，没升就得走，35岁小讲师岑言实验室爆肝猝死，重生回到15岁。 只会做实验写论文的他决定...... 伪装天才，冒充学霸！ 可是...... “高二发《Nature》，是为了逃避高考？” “嗯，我不太擅长考试。” “那你的竞赛金牌算什么？” “算......运气好？” 记者无言，采访看起来好说话的岑妈。 “请问您培养出顶尖科学家的秘诀是什么？” 岑妈端来削好的水果，闻言茫然。 “大概是祖",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfp_谈什么恋爱，组一辈子科研组吧！1-398章.txt",
+    readUrl: "https://pan.baidu.com/s/1GqLelT8DS6Eap59aGLsp9A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfp/",
   },
 
@@ -57018,6 +57247,7 @@ export const bookItems = [
     excerpt: "97年夏天，暴雨！碎尸！杀人凶手！ 杨锦文重生回到1997年，面对二十几年前这场暴雨，芦苇荡的女性碎尸，他势必要抓到凶手！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfq_1997：罪案追凶1-1017章.txt",
+    readUrl: "https://pan.baidu.com/s/1wNXEU9FAwd4SIBjhvJ3FmQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfq/",
   },
 
@@ -57035,6 +57265,7 @@ export const bookItems = [
     excerpt: "重回1995年，在电影学院当保安，是一种什么样的体验？林根硕表示，搞钱我是认真的！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfr_华娱大文豪，从北电保安开始1-266章.txt",
+    readUrl: "https://pan.baidu.com/s/156USO4hb33UcZRl8AdjF_w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfr/",
   },
 
@@ -57070,6 +57301,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mft_斗罗绝世：开局成为位面之主1-250章.txt",
+    readUrl: "https://pan.baidu.com/s/1O352NjhxiEVvWoWFOAsKyw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mft/",
   },
 
@@ -57087,6 +57319,7 @@ export const bookItems = [
     excerpt: "刘备：黑我的人太多了。郑平：不怕，我是备吹。本书又名《当刘备成了青州牧》《我是刘备，我的谋士是郑玄之子》《家父讳玄，我当个首席谋士没问题吧》《刘备遇上少年诸葛亮》《不到四十就当了皇帝的刘备，剩下的日子怎么活？》《大汉三兴了，阿斗还能坐稳江山吗》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfu_三国：刘备谋主，谋尽天下1-344章.txt",
+    readUrl: "https://pan.baidu.com/s/1LhoOa-ldOyeX1jQW_I3OXA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfu/",
   },
 
@@ -57121,6 +57354,7 @@ export const bookItems = [
     excerpt: "野史记载：一百年前，清末民初，天下大乱之时，妖魔鬼怪横行当世。太行山以东八百里，济泗崔家先后出了两个顶尖江湖术士。这二人行走天下，降妖除魔，留下种种传说。其中一个是如今在祖坟里埋着的太爷，另外一个是……一百年前的我。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfx_一百年前我死了1-439章.txt",
+    readUrl: "https://pan.baidu.com/s/1ouPTjCTaauw-2xW37wIQ3w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfx/",
   },
 
@@ -57138,6 +57372,7 @@ export const bookItems = [
     excerpt: "【精品三国+杀伐果断】【穿越成刘备养子，开局自挂东南枝？】好消息：我觉醒了前世记忆，通晓三国兴衰。坏消息：我是刘封——史上因拒援关羽被赐死的倒霉养子。超级坏消息：此刻的关羽，已经在樊城了！江陵已经救不了了。★逆天改命第一步：千里奇袭救二叔！伪父子相疑？真兄弟阋墙？这一世，我偏要在这乱世杀出个父慈子孝兄友弟恭！◇吕蒙白衣渡江？半场开香槟？问过我刘封吗？◇曹丕笑我假子？嫉妒令人面目可憎，曹丕你没兄弟吗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfy_三国：我刘封不想作死1-243章.txt",
+    readUrl: "https://pan.baidu.com/s/1dldFU5ecYUs058Ph9eIPyQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfy/",
   },
 
@@ -57154,6 +57389,7 @@ export const bookItems = [
     excerpt: "《武动乾坤》《斗破苍穹》《大主宰》《元尊》......--------元力本是无敌路，何须再借那祖符？衣服越粉，打人越狠！--------女主文，穆家庄开局，自创武学，单身，但会成为林动的白月光（战斗，乐子）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mfz_武动之真正的武祖1-910章.txt",
+    readUrl: "https://pan.baidu.com/s/1pVqfVEhaflUW6XcPju90jA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mfz/",
   },
 
@@ -57171,6 +57407,7 @@ export const bookItems = [
     excerpt: "东京某警备局最高机密基地.日本公安最杰出的卧底降谷零正在审讯21世纪最危险的犯罪嫌疑人。“真是遗憾，降谷警官，我曾经是那么的欣赏你。你忘记了，我们不是有过一段亲密无间的合作吗？”“我的朋友，让我告诉你将会发生什么事情，好让你有个心理准备。很快会有人来敲门叫你出去，大厅里有个比你高级别的人。首先，他会称赞你立了大功，世界因为你变得更安全，你将获得表扬与升迁。接着他会说我会被释放......”“我的朋",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mh_柯南：从情报掮客到战争之王1-364章.txt",
+    readUrl: "https://pan.baidu.com/s/1anFkcunXa7Ywh--sizjt2w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mh/",
   },
 
@@ -57188,6 +57425,7 @@ export const bookItems = [
     excerpt: "李泽轩穿越到05年，成为北影表演系的高材生，却有个超出常人的爱好——“玩音乐”！“一个北电高材生，不好好演戏玩上摇滚了？开除，必须开除！”【什么？他的歌上春晚了！】【金曲榜斩获五项大奖？】【唱片销量全国第一？】【格莱美首位华人天王？】简介无力，请看正文。无系统轻松娱乐文，欢迎试读~",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mi_让你学表演，你成歌坛天王了？1-940章.txt",
+    readUrl: "https://pan.baidu.com/s/1vY6ktG7N6BKnuuTkrWcAPQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mi/",
   },
 
@@ -57222,6 +57460,7 @@ export const bookItems = [
     excerpt: "“她本来就是恶魔，怎么可能是遇到我这个人类之后才被带坏的？那些批评家总在说一些很荒唐的东西。”1798年，枢机主教兰奇在接受记者采访时，被问起与那位流亡的魔族末裔公主的过往，以及近期魔族复苏的迹象，他表示：“我为捍卫世界和平做出了太多努力，我很确信，魔族在她的带领下绝无复国可能。”……1802年冬天，魔族复国成功。【请根据以上材料，指出导致魔族复国的主要战犯是谁，并说明为什么是兰奇。（10分）】—",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mif_不许没收我的人籍1-909章.txt",
+    readUrl: "https://pan.baidu.com/s/1IJRIeWKCQeo60fW93w6qLQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mif/",
   },
 
@@ -57239,6 +57478,7 @@ export const bookItems = [
     excerpt: "李谪仙被尘心领进七宝琉璃宗。 觉醒武魂那天，一柄青莲剑出世，剑气纵横，先天满魂力。 他被宁风致誉为千年难遇的天才，并敲定与宁荣荣的姻缘。 但不成想。 六年时间过去，李谪仙魂力没有寸进！ 宁荣荣：“谪仙哥哥，七宝琉璃塔是大陆第一辅助武魂，与强大的战魂师配合，才能发挥出最强威力。” “虽然……我很不想这么说，但你的确跟不上我的脚步了。” 拿回儿时互换的信物。 李谪仙：“各自安好。” ... “仰天大笑",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mih_斗罗：谪仙临尘，酒剑弑神1-546章.txt",
+    readUrl: "https://pan.baidu.com/s/1FH969o2i0TnRbtMNGDyDNg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mih/",
   },
 
@@ -57256,6 +57496,7 @@ export const bookItems = [
     excerpt: "江流一觉醒来，发现自己穿越到了平行世界，一款名为【修仙纪元】的游戏马上降临。地球修仙化！游戏角色与现实结合！全民修仙时代来临！游戏免费内容较多，包括不限于：开放世界探索，主线剧情，通天塔，排行榜，竞技场，精彩活动。游戏氪金内容海量，包括不限于：充值648送大翅膀豪华时装，限定卡池抽剑灵根max和至臻仙体，投资灵石获得完美筑基与九转金丹，VIP5解锁一键挂机修仙，情缘道具攻略100个仙姿道侣。平民玩",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mii_这是修仙游戏，但运营烂了1-500章.txt",
+    readUrl: "https://pan.baidu.com/s/1BieFUgJ0gVJWuSkc_UzUjQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mii/",
   },
 
@@ -57290,6 +57531,7 @@ export const bookItems = [
     excerpt: "八十年代末，昭和落幕，平成伊始。这一年，日经指数冲向38915点的巅峰，东京的地价可以买下整个美国。这是一个在出租车上挥舞着万圆大钞狂欢的时代，也是一个除了金钱一无所有的时代。穿越而来的北原岩，站在六本木的寒风中，口袋里只剩下四千六百日元。面对这个喧嚣得让人睡不着的世界，他决定先讲一个让所有人都睡不着的鬼故事。从《午夜凶铃》的诅咒，到《火车》的社会派惊悚；从《白夜行》的绝望羁绊，到《情书》的纯爱救",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mik_东京文豪：从八十年代末开始1-219章.txt",
+    readUrl: "https://pan.baidu.com/s/1vCbWn5nCyeg42vJyVZniQg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mik/",
   },
 
@@ -57307,6 +57549,7 @@ export const bookItems = [
     excerpt: "重活一世，陈秉文深知未来四十年每一个风口与暗礁。他从一碗普普通通的糖水起步，积累足以搅动风云的资本。当众人还沉迷于市场厮杀时，他的目光已投向那些被低估的巨无霸企业。收购、重组、赋能……用资本的手术刀，解剖旧时代的巨头，缔造属于自己的商业法则。传媒帝国？能源命脉？全球港口？不过是棋盘上的棋子。面对本土豪门的围堵、跨国财团的傲慢，他微微一笑：“我重生的意义，就是告诉你们——”“这个时代的游戏规则，由我",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mil_1978：从饮料巨头到实业之王1-419章.txt",
+    readUrl: "https://pan.baidu.com/s/15Mjh7BmdV7rDzyf1Movotw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mil/",
   },
 
@@ -57323,6 +57566,7 @@ export const bookItems = [
     excerpt: "重回2014年的那个夏天，李珞再一次站在人生的岔路口上。上一世的完整记忆，如同烙印一般，完完整整的封存在脑中的记忆宫殿，任由他随意翻阅。过目不忘、洞悉未来……这一世，他的人生将焕然一新！而这一切的改变，都将从明天的中考开始。但是……青梅委屈的抿着嘴，怀里抱着他小时候送的熊猫玩偶。同桌歪了歪脑袋，恬然的看着他，嘴里哼着歌，修长的双腿在半空摇晃。学姐无奈摇头，手指绕着发梢，另一只手敲着书桌，似笑非笑的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mim_重燃青葱时代1-963章.txt",
+    readUrl: "https://pan.baidu.com/s/1Uo9ww9G2nx0ZvKJahNotWA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mim/",
   },
 
@@ -57357,6 +57601,7 @@ export const bookItems = [
     excerpt: "“你说我写歌万一写进格莱美怎么办？洛杉矶的饭菜我能吃得惯吗？”在他身旁的室友闻言嗤笑道：“吹牛逼呢！你要能写进去我管你叫爹！”.....几年后。陈铭的室友抱住了他的大腿。“爹！这您真得教我！”...........(本书为架空文娱，欢迎品尝）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_miq_人在大学，但歌在格莱美1-226章.txt",
+    readUrl: "https://pan.baidu.com/s/1aPyXwrXJ_oye_Pvjq3Yn_g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/miq/",
   },
 
@@ -57374,6 +57619,7 @@ export const bookItems = [
     excerpt: "我来了，为了成为明星。我看到了，我一定能成功。我征……算了，这里太复杂了征服不了，我还是谈我的恋爱吧。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mir_半岛小行星1-1612章.txt",
+    readUrl: "https://pan.baidu.com/s/1osGcBrJN8r5CuQ9tfrH_2w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mir/",
   },
 
@@ -57390,6 +57636,7 @@ export const bookItems = [
     excerpt: "加入X战警的十分钟后就被送上战场和万磁王一家子对线。成为复仇者的第二天就看到齐塔瑞战舰从天而降。在银河护卫队里客串了一把，船都没开出星港呢，直接被灭霸的大军当头开了一炮。——在经历这些事情之前，死而复生并且得到强力外挂的梅森觉得自己拿到了梦幻开局，只等着走上人生巅峰。然而正所谓神通不及天数，人倒霉起来那真是挡也挡不住，哪怕想着说换个地图，他也没能从命运的饱和打击下逃出生天。像什么造访光之国偶遇怪兽",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mis_人在漫威：我能召唤万界物品1-339章.txt",
+    readUrl: "https://pan.baidu.com/s/16iU2ir48fk7HNwXhjPmFiQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mis/",
   },
 
@@ -57406,6 +57653,7 @@ export const bookItems = [
     excerpt: "沈言回到2016年，躺平废柴一枚。看着【女星养成系统】重新昂扬斗志养成女星？不捧到世界级算我输！.......帮助程萧声名鹊起，收获第一桶金洗白笨蛋美人孟姐，成为娱乐圈资本捧红周吔，清冷甜美小学妹成为95小花代表人物翻红陈嘟灵，登顶文娱之巅！........流量小生：沈总什么都好，就是不签男艺人，求沈总别卡太死！顶流前辈：沈言又签了个新艺人，又有一座天后宝座要沦陷了！业内震惊：他不是资本，他就是神",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mit_我一个顶流捧小花很合理吧？1-497章.txt",
+    readUrl: "https://pan.baidu.com/s/1wMCTBwD43ciaLu40iyL6QQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mit/",
   },
 
@@ -57423,6 +57671,7 @@ export const bookItems = [
     excerpt: "周诚意外获得影视大反派系统，自此，游走于诸般影视世界，他开启了不做人之行。周诚：我不仅会折磨正派，更会折磨反派！注：不穿剧情人物，单元拟订一个古装两个现代如此循环。当前世界：庆余年",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_miv_影视：反派人生从庆余年开始1-228章.txt",
+    readUrl: "https://pan.baidu.com/s/1M8foopo_G_dMBFSouH72-Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/miv/",
   },
 
@@ -57456,6 +57705,7 @@ export const bookItems = [
     excerpt: "张辰偶然获得了穿越影视世界的机会，这一切要从宁安如梦开始说起…… 进行中：北上 已完结：宁安如梦、星汉灿烂、庆余年、知否、欢乐颂、大宋少年志、去有风的地方、流金岁月、招摇、三十而已＋二十不惑、致青春、长月烬明、永夜星河、九重紫、玫瑰的故事、梦华录（融合知否世界观）、暗河传",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mix_从宁安如梦开始的诸天1-1061章.txt",
+    readUrl: "https://pan.baidu.com/s/15T9KasCLFZxzPzvNnDl3fg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mix/",
   },
 
@@ -57473,6 +57723,7 @@ export const bookItems = [
     excerpt: "新书《斗罗绝世：成了霍雨浩金手指！》，带霍雨浩走无敌路，浩冬CP锁死，干翻唐佛祖！起点首发，今天上试水推，欢迎追更鸭~【——分割线——】都说宁做萧炎小弟，不做唐三兄弟。穿越成唐三双胞胎大哥，唐蓝表示一点不慌。开启《唐三气运掠夺系统》，抢夺唐三气运就变强！直接吸收十万年蓝银皇魂骨，再觉醒成唯一的蓝银皇！抢夺小舞做大老婆、抢夺仙草打造班底、抢夺海神的继承权、抢夺修罗神的神位、......多年后，成为神",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_miy_斗罗：抢唐三气运就变强！1-1298章.txt",
+    readUrl: "https://pan.baidu.com/s/1oTt30_HA4kgmBbnjxiX2DQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/miy/",
   },
 
@@ -57490,6 +57741,7 @@ export const bookItems = [
     excerpt: "青冥魂穿忍界，成为了一名普普通通的宇智波族人，恰逢第三次忍界大战，为了更好的活下去，他只能肝了......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_miz_火影：我在木叶肝进度1-1290章.txt",
+    readUrl: "https://pan.baidu.com/s/1_4-McTNaERuHz3DufcsNqg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/miz/",
   },
 
@@ -57507,6 +57759,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mj_人在游戏王，超融合观众也融1-723章.txt",
+    readUrl: "https://pan.baidu.com/s/1dqQGt7VaK1gMYCdcpU3sxQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mj/",
   },
 
@@ -57523,6 +57776,7 @@ export const bookItems = [
     excerpt: "了无牵挂的顾离借助通天建木之力，穿梭在诸天万界，经历诸多世事，问道寻觅长生…… 第一个世界民国综合卷：《道士下山》、《金粉世家》、《霸王别姬》、《罗曼蒂克消亡史》、《双旗镇刀客》、《一代宗师》 第二个世界明朝世界：《断刀客》、《新龙门客栈》 第三个世界：《射雕英雄传》 第四个世界：《摩登如来神掌》、《电影神话》、《龙虎门》 第五个世界：《大唐双龙传》 第六个世界：《新天龙八部之天山童姥》 第七个世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mka_诸天：从民国道士下山开始1-539章.txt",
+    readUrl: "https://pan.baidu.com/s/1B0Wg5F8VomA5OPT91UXUeQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mka/",
   },
 
@@ -57539,6 +57793,7 @@ export const bookItems = [
     excerpt: "首先，这是一位仙子。我们先为她设置好完美的容貌。先添加一点偏执。再融一入点疯狂。最后，补充上满满的病态。于是，一位完美的仙子便诞生了，她会爱着你，也会砍死你。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkc_这些仙子全都不正常！1-308章.txt",
+    readUrl: "https://pan.baidu.com/s/1GNiHqbadEngHZQfAgApWnw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkc/",
   },
 
@@ -57556,6 +57811,7 @@ export const bookItems = [
     excerpt: "在这个磕着碰着都能穿越的年代，作为穿越者没有系统、没有老爷爷、没有随身空间、也不能召唤，怎么办？吴限穿越到《无限恐怖》的世界，还成为了与张杰同期进入的新人轮回者。一番挣扎求生之后，他独自回归到主神空间，很快便因为过度疲劳而陷入沉睡，却不想在梦境之中，看到了一名白银短发少年。直到这时，吴限才终于明白，原来他的金手指竟然就是他自己！无限恐怖、鬼泣……“我吴限全靠自己努力！“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkf_同时穿越：从主神空间开始1-857章.txt",
+    readUrl: "https://pan.baidu.com/s/18cmmdoSOcFrU1esz0t9DbA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkf/",
   },
 
@@ -57573,6 +57829,7 @@ export const bookItems = [
     excerpt: "戎温言穿越回到了1770年的美洲殖民地，创立一家制药公司成为了一个小镇的镇长。面对越演越烈的独立运动，他既不想帮大陆议会暴力抗税，也不想当英国人的帮凶。【历史+种田+轻度魔幻+后宫】读者群326460817",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkh_独立战争强力破解版1-649章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZgQSNnj4kqU-Y4z92jg43Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkh/",
   },
 
@@ -57607,6 +57864,7 @@ export const bookItems = [
     excerpt: "“你说什么？里昂·万斯那家伙到了东联？！” “他是疯了吗？他在西雅图是精英、是英雄、是年薪十万美金且拥有无限前途的警界之星！他居然放弃了这一切，跑去那个被媒体称为铁幕之城的东联？他在想什么？！” 此时的里昂·万斯，早已跨越了太平洋，但他若听到这番话，只会回以一记冷笑。 作为一个带着平行世界记忆穿越而来的灵魂，里昂刚刚落地在美利坚的时候是绝望的。 上辈子网上不是这么说的啊！ 说好的空气香甜呢？满大街",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkj_你一美警，老想着回东方干啥玩意1-401章.txt",
+    readUrl: "https://pan.baidu.com/s/1o-uxodeVxx2R1FfMS9UwNg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkj/",
   },
 
@@ -57624,6 +57882,7 @@ export const bookItems = [
     excerpt: "“你说，练出了……真气？”“嗯哼。”“那你展示一下。”陈野运功，一拳打出……“就这？真气呢？”“让真气飞一会。”有人笑场了，“嗤——”砰！的一声，远处墙壁四分五裂……警察叔叔瞠目结舌！！连忙报警……“你等会！你等会！！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkk_让真气飞一会1-146章.txt",
+    readUrl: "https://pan.baidu.com/s/14R8LwlqmKzAjUTU0U4Nbuw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkk/",
   },
 
@@ -57641,6 +57900,7 @@ export const bookItems = [
     excerpt: "我，留学半岛，高丽大心理学高材生，前·富二代，现·首尔丐帮预备帮主。一觉醒来，家里公司破产，信用卡冻结！V我50，我来和你讲述我凭三寸不烂之舌吃软饭走向人生巅峰的故事。又名《我在首尔吃软饭》、《我那一屋子的精神病爱豆》注：本书出现的一切内容为剧情需要，与作者无关",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkn_半岛：心理学概论1-371章.txt",
+    readUrl: "https://pan.baidu.com/s/144xMKPOazXQ27m0Iw65j7w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkn/",
   },
 
@@ -57657,6 +57917,7 @@ export const bookItems = [
     excerpt: "领主、气运、种田、争霸。 人杰，王朝、历史、神话。 诸天破碎，万界合一演化“永恒之地”。 因地球所在宇宙极为浩瀚。人类又为地球宇宙中唯一智慧种族，得获特权成为“天命领主”。 同时，人类文明创造出的诸多小说、影视、动漫人物也得以由虚化实，成为了可以被领主招募的英雄、人才、兵种。 有诸天人族英杰：武松、花荣、展昭、焰灵姬、少司命、冯宝儿、白素贞……有历代华夏天骄：老子、王阳明、诸葛亮、曹操、白起、岳飞",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mko_地球第一领主1-1007章.txt",
+    readUrl: "https://pan.baidu.com/s/1GcCEyGuWEbfF2uNWROTYxA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mko/",
   },
 
@@ -57674,6 +57935,7 @@ export const bookItems = [
     excerpt: "苏阳意外穿越至1950年的四九城，成为刚从百顺胡同“醉玉轩”被解救出来的少年。初获金手指，便被迫与青梅竹马的少女一起离开教养院，踏上了开往工业重镇沈州的列车。他凭借着金手指，火车上反杀劫匪救青梅；面粉厂灭鼠赚奖金改善生活；改进前线炒面配方......苏阳一步一个脚印，随着时代的巨浪，激起一朵朵属于自己的花。————————————这是一个穿越者在时代洪流中，用金手指和双手，努力活出价值、守护微光的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkq_从1950开始1-287章.txt",
+    readUrl: "https://pan.baidu.com/s/1c3YIwLcAr7PhBpWsXX81Dw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkq/",
   },
 
@@ -57690,6 +57952,7 @@ export const bookItems = [
     excerpt: "冯铭意外穿越到百年战争时期的法国，成为一名落魄的法兰西贵族埃德蒙•德•阿尔贝，在接下来的几十年中，看他如何利用智慧和手腕，让家族获得翻身的机会，重新夺回家族的封地，登上法兰西的皇位，让法兰西帝国超越曾经不可一世的罗马帝国！数十年后，功成名就的埃德蒙，穿着蓝底印有金色鸢尾花和雄鸡图案的皇帝新衣，站在欧罗巴宫的阳台上面，向掌声雷动的巴黎市民挥手致意。“尊敬的先生们，我并没有干什么大事，只是简简单单的战",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mkx_法兰西崛起，从百年战争开始1-970章.txt",
+    readUrl: "https://pan.baidu.com/s/1_PiJYqnFcxgA2idsJaz1hw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mkx/",
   },
 
@@ -57706,6 +57969,7 @@ export const bookItems = [
     excerpt: "雨夜降临，白羽穿越而来，身无分文，却身怀逆天【骑士道具系统】！表盘，记忆体，满装瓶，银币，卡带……这特么不是数码宝贝世界吗？我要这些骑士道具有什么用？【时空驱动器】腰间扣上，崇皇…哦不，是神将表盘插入！“Henshin！”“鼠牛虎兔龙蛇马羊猴鸡狗猪！”“数码时刻！生肖神将！”从此刻起，数码世界多了一位能吸收数码兽力量，随意变身、暴打一切的“魔王大人”！当然，也可以不单单是“魔王大人”......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mm_数码宝贝：我用骑士道具登顶1-695章.txt",
+    readUrl: "https://pan.baidu.com/s/1aoM4Kb1XrdYETJRA_kYVIw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mm/",
   },
 
@@ -57741,6 +58005,7 @@ export const bookItems = [
     excerpt: "重生第一剑，父母先斩我。杨牧野重生大理云苗村，从小鼓励父母南下堔圳打拼创业，自己在老家安心躺平。结果高考结束，被告知父母早已离婚多年。没等来继承亿万家产，先把自己等成了孤儿。好好好，这么玩是吧？都说站在风口上猪都能飞起来，更何况重生的杨牧野手里握着无数个风口。无人扶我青云志，我自踏雪至山巅！——多影视融合世界，出场重要人物均有配图。全原创剧情，未看过相关影视剧不影响阅读。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmc_从有风的地方开始的后浪1-522章.txt",
+    readUrl: "https://pan.baidu.com/s/1ra9X-BykJK7BANZKc_WjzQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmc/",
   },
 
@@ -57809,6 +58074,7 @@ export const bookItems = [
     excerpt: "【神豪】【多女】【爽文】又名：《谁家房产中介带看开劳斯莱斯？》萧彰，25届毕业生，正值经济下滑，毕业即失业，当即决定，黄袍加身！“跑过外卖么？”“没有，应届生！”“出门右拐，那边有两家房产中介，他们可以带薪跑盘，跑熟了再来！”多年后，记者会上：“萧总，您现在作为地产行业翘楚，请问一下，您有今天的成就，最想感谢的人是……”萧彰正色：“美团站长，我去面试他说干房产中介可以带薪跑盘，跑熟了再去送外卖！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmg_神豪：从房产中介到世界首富1-201章.txt",
+    readUrl: "https://pan.baidu.com/s/12_EGGwCLamuZC9FsHfN8Dg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmg/",
   },
 
@@ -57826,6 +58092,7 @@ export const bookItems = [
     excerpt: "刚穿越到韩娱女团养成游戏的世界里，李景就要面对公司资金不足、组合解散、员工离职的地狱开局。 不过当他看到自己公司练习生名单里的张元英、安宥真、金秋天和金智敏四人，以及随后加入的柳智敏时，他觉得一切困难都是浮云。 “我只是想给这些女孩一个舞台而已。” 多年以后，当记者采访已经被称为韩娱之王的李景，他看着打歌舞台上正在表演的少女时代如是说道。 Ps：hy，多女主。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmi_半岛：从破产公司到韩娱之王1-767章.txt",
+    readUrl: "https://pan.baidu.com/s/1iuY477FIHs3rMtJEpl7O3g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmi/",
   },
 
@@ -57843,6 +58110,7 @@ export const bookItems = [
     excerpt: "穿越火影，波风水门？ 未来死于九尾之乱？ 水门表示这种未来我绝不接受！ 于是，太阳降临火之国，须佐套上了大佛！ 来不及为带土哀悼了，现在登场的是兼具森罗万象，身负闪闪果实，且熟知剧情的青年水门！ ——《永带妹回忆录》—— “我再重申一遍，黄色闪光的重点是闪光！” ”木遁的用处不只是捆绑，写轮眼能力也不只有催眠，我的能力一直都很正经！“ “阿修罗和因陀罗是亲兄弟，那鸣人和佐助是亲兄弟不是很合理吗？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmj_火影：天生邪恶的波风水门1-172章.txt",
+    readUrl: "https://pan.baidu.com/s/1TKyhwPGycXMRWvx--KnPaQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmj/",
   },
 
@@ -57878,6 +58146,7 @@ export const bookItems = [
     excerpt: "消失三个月，刚成年的苏逸竟然患上了战后应激。吃饭只吃塑封产品？怕有人下毒.....睡觉必须半睁着眼带着刀子？怕有刺客袭击....碰到美女就看一眼？怕多看一眼就会爆炸....青梅竹马：“你现在身手怎么这么好？”母亲：“我感觉我儿子是刚从叙利亚回来。”同学：“我不敢评价，他上周因为宿舍舍友打呼噜拔了刀子。”彼之一瞬，我之十年。十年废土之行会改变一个人很多，人品，性格，实力，甚至无法与现代社会共融，这种",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mml_废土归来者没有疯1-433章.txt",
+    readUrl: "https://pan.baidu.com/s/1nmnhL9zLeCfy4RYrfked3w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mml/",
   },
 
@@ -57894,6 +58163,7 @@ export const bookItems = [
     excerpt: "开了一本新书，重生九三，开局成了煤老板。 小伙伴收藏一下，要是喜欢帮忙追读一下！ 七九年年末，秦军重生回到了要啥啥没有的老家。 二哥结婚需要盖房子，几个侄子需要交学费，两个姐姐还要嫁妆，这些都需要钱。 可惜八十年代的齐鲁大地上，也是要啥没啥。 不对啊，八十年代的黄大仙好像挺值钱，听说一张皮子就价值五十元。 好了，重生第一刀，先斩黄大仙！ 只不过，这黄大仙的皮子还没卖，家里就急着盖房？ 没钱怎么办？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmm_重返80：从黄大仙开始致富1-1358章.txt",
+    readUrl: "https://pan.baidu.com/s/1we0F81GAD-Xr_k9HYIRL6w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmm/",
   },
 
@@ -57909,7 +58179,7 @@ export const bookItems = [
     chapters: "1-607章",
     excerpt: "手滑炸掉全球互联网以后，江舟成为了人类历史上最恶劣的罪人，陷入了漫长的沉睡。 而一百年后当他再度苏醒时，呈现在他眼前的，是一个交织着蛮荒与文明，充斥着控制与反抗的失控时代。 深渊之中，无以计数的失控人工智能肆虐成灾；奥林匹斯之上，以神祇自居的超级企业睥睨凡众；基底现实之内，凡人们于苦难与疯狂间苦苦挣扎。 但长夜已逝，黎明将至。当他从漫长的沉睡中醒来，人智革命的种子已然发芽。 脑机接口、曼陀罗程序、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1unfE1xTGlcceDSt0s1_WBw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/15K3IZbr80lQIpUw8JPcVbQ?pwd=q7na",
     downloadUrl: "/books/m_mmn_深渊漫游者1-607章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mmn/",
   },
@@ -57928,6 +58198,7 @@ export const bookItems = [
     excerpt: "重生开局，从考上北电摄影系开始一路起飞；光影大师系统有点不一样。“拍电影就像谈恋爱，你得先让人想看，再让人想哭，最后让人想二刷”海王的鱼塘里，‌冰糖大园诗。没有一条鱼是多余的！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmo_华娱光影年华，从摄影系开始1-729章.txt",
+    readUrl: "https://pan.baidu.com/s/16Q7f1povdjw1xZQrUSGq-A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmo/",
   },
 
@@ -57961,6 +58232,7 @@ export const bookItems = [
     excerpt: "在百年前的霍格沃茨度过第六个年头后，哈利回到了1991年的楼梯隔间，再次收到了霍格沃茨的录取通知书。 “你是说，我的父母都被一个黑巫师杀死了？”哈利问，“那个黑巫师是什么人？你们为什么害怕他到连名字都不敢提？”“是伏——，”海格谨慎地回答：“好吧，叫伏地魔，因为他曾亲手杀了几百个人。” 哈利不置可否地点头。 “那第二天呢？” 海格：“啊？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmq_从霍格沃茨之遗归来的哈利1-731章.txt",
+    readUrl: "https://pan.baidu.com/s/1Spo5ZoPimQzVEa9CI1r0EA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmq/",
   },
 
@@ -57978,6 +58250,7 @@ export const bookItems = [
     excerpt: "“当你看见这句话，我已经死了……”“请妥善保管好遗言和骨灰盒。”…………人在第三次忍界大战，纯正炮灰一名。清原觉得自己每天都有可能死，不是今天死，就是明天死。谁料他突然收到了自己的遗书，竟能让他获取死在忍界不同时间线上自己的骨灰盒。完成他们的遗愿，还能得到不同自己的能力，乃至进行叠加天赋！于是清原得到了无数自己的帮助。「暗部大队长清原」、「邪修清原」、「叛忍清原」、「水影清原」、「宇智波清原」、「",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mms_火影：同时继承无数未来！1-374章.txt",
+    readUrl: "https://pan.baidu.com/s/17wl1BJhwgIqi7Mdn7JzPeA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mms/",
   },
 
@@ -58012,6 +58285,7 @@ export const bookItems = [
     excerpt: "【单女主】【GPT全程作画支持！】那湘江流淌过的，是这座城还是你与我的回忆？预见的那一刻她沉默片刻道:好久不见了。还认得我吗？在生活里，南方可城。看看云卷云舒，看看这虚幻而真实的世界。本书已扑，作者画猫摆烂更新中。。。。。。。。。。。。。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmu_我的青梅合租女友1-281章.txt",
+    readUrl: "https://pan.baidu.com/s/1Em96n6i-EcPCF73CPwgrpg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmu/",
   },
 
@@ -58028,6 +58302,7 @@ export const bookItems = [
     excerpt: "李响在生死之间获得一块与主神大老板失联的主神腕表，轮回转世来到港综世界。 从此以后他凭借腕表，以港综为点，穿越诸天万界，练武修仙，浪迹红尘，逍遥长生。 穿越世界不分先后顺序，且电视剧、电影、动漫、小说都有涉及，计划有：《凡人修仙传·人界·灵界篇》、《青蛇》、《雪中》、《仙剑系列》、《剑来》、《西游记》、《倩女幽魂》、《封神榜》、《宝莲灯》等等。 目前已完成世界：神雕、天龙、侠客行、不良人、诛仙、凡",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmv_身在港综，却从神雕开始流浪诸天1-448章.txt",
+    readUrl: "https://pan.baidu.com/s/1uIYQvYxYFt5oofte9U83Xw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmv/",
   },
 
@@ -58044,6 +58319,7 @@ export const bookItems = [
     excerpt: "周虽旧邦，其命维新。明末危局，能否逆转？且看平行时空，大明旧邦新命。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmw_大明新命记1-1395章.txt",
+    readUrl: "https://pan.baidu.com/s/1cHcZM1xqxkUTnNRsuFXFwA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmw/",
   },
 
@@ -58061,6 +58337,7 @@ export const bookItems = [
     excerpt: "穿越六年后，杨铸冷漠地看着眼前的记者：“知我罪我，其惟春秋……我们明山队的是非对错，终究还是留待后人评说吧。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mmx_远东匹夫1-403章.txt",
+    readUrl: "https://pan.baidu.com/s/1_TK9nbQeNkl-btrfEA5OHA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mmx/",
   },
 
@@ -58114,6 +58391,7 @@ export const bookItems = [
     excerpt: "柯学大舞台，没挂你别来。黑泽星野表示，刚好，我有挂。……柯南：“我前脚刚找线索，他后脚就破案。这不是挂？不封能玩？”服部平次：“哪有人那样子推理的？外挂，肯定是外挂。”……伏特加：“大哥，我们干掉目标后遇到黑泽星野，要不要杀了他？避免他推理出来我们是凶手。”琴酒：“蠢货，我们干掉目标后只会离开，不会在原地给他快速证明我们是凶手，因为他根本找不到我们。”……黑泽星野：“不好意思，我只是看过动漫，可不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mn_柯南：推理？不，我直接速通1-1028章.txt",
+    readUrl: "https://pan.baidu.com/s/1M_K_Mqh12PoIrvAJhu64xg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mn/",
   },
 
@@ -58131,6 +58409,7 @@ export const bookItems = [
     excerpt: "明日校场领饷银，勿着甲兵。一句响彻千古的“名言”，让穿越到明末的云天养只能带着一群残兵败将逃出大明。茫茫大海之上，他将何去何从？此时的世界正值大航海时期的后半段，大量的新世界被欧洲人开拓，掠夺，殖民，最后成就了欧洲人的霸业。值此之际，云天养能否搭上这最后一趟末班车？带着这个古老的民族再一次站上世界之巅？？？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moc_1595开拓新世界1-1289章.txt",
+    readUrl: "https://pan.baidu.com/s/1hi9SeLyzWJWDuBNJBL8-EA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moc/",
   },
 
@@ -58148,6 +58427,7 @@ export const bookItems = [
     excerpt: "【架空历史+首订过万】我穿越到了一个叫作大虞的朝代，还成为都城盛安有名的高门公子。我爹是盛安令，官居三品。我家主母乃京都五望的崔氏，名门贵族。他们的儿子更是风流倜傥、龙章凤姿的少年天才，不到十五岁便高中举人，京都世家无不争相将嫡女许配于他，枯燥的人生只剩下一眼望到头的富贵。那是我弟。而我，现在的任务只有一个——不被我爹打死。我叫宋时安，病入心膂何时安？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mof_高门庶子1-482章.txt",
+    readUrl: "https://pan.baidu.com/s/1SgFdVPDLLr1WnqAhkjDUCw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mof/",
   },
 
@@ -58165,6 +58445,7 @@ export const bookItems = [
     excerpt: "“抱歉，你们最高的上限，还没赶上我的下限。”“我的极限，不在人间。”“当年我还是个凡人的时候，他们叫我怪物。”“等我成了超凡者，全世界都在问：你到底是个什么怪物？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mog_极限超凡1-814章.txt",
+    readUrl: "https://pan.baidu.com/s/1TR0Q-VIXqlWNDNrG8nqwVg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mog/",
   },
 
@@ -58182,6 +58463,7 @@ export const bookItems = [
     excerpt: "蜀南，峻岭崇山，藏着太多不为人知的传说和财富。农大毕业回乡的陈阳，获得了赶山系统，成为一名赶山人。捉胡峰、采山珍，铜灌蚁穴，水淹竹鼠……山里的生活简直不要太丰富。“叮，发现D级山珍【鸡枞菌】，奖励【大旗山鸡枞菌生长分布图】*1！”“叮，狩猎F级虫兽【金环胡蜂】*100只，奖励【御蜂术1级】”……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moh_回村后，从绑定峨眉开始赶山1-1682章.txt",
+    readUrl: "https://pan.baidu.com/s/1pdhNcBOsAtleOcBAr0MLPg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moh/",
   },
 
@@ -58198,6 +58480,7 @@ export const bookItems = [
     excerpt: "大明1619年，萨尔浒之战，杜松兵败后一伙败军逃兵逃离了辽东，逃进关内，一路向西……穿越而来的刘恒成为了一名前途未卜的流寇，一不小心干翻了对手，成为一营头目，练新兵，当山大王，设关卡，抢士绅……一不小心有了争夺天下的资本，成为女真最害怕的对手……骨折新书:《这是朕的江山》已发布。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moi_大明流匪1-3683章.txt",
+    readUrl: "https://pan.baidu.com/s/1GZPgfxg3iEmMHX2_YW_Rtw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moi/",
   },
 
@@ -58215,6 +58498,7 @@ export const bookItems = [
     excerpt: "赵渊意外穿越至西游世界，偶遇五指山下的齐天大圣，过上了天天逗猴的生活；觉醒商店面板，可买各种诸天奇物；又遇诸天聊天群，与叶凡、孟奇、克莱恩、张羽等人为伴；成道之路历足弥坚，赵渊的第一步想法，便是以《黄帝乘龙御女飞升经》长生不死；他以万道化作资粮，终屹立于诸天之上。（西游非洪荒、非阴谋论版本）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moj_诸天：从五行山下逗猴成道1-347章.txt",
+    readUrl: "https://pan.baidu.com/s/1S7hjsoPjOW2CltjcLqw-aw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moj/",
   },
 
@@ -58232,6 +58516,7 @@ export const bookItems = [
     excerpt: "“小丸子，能不能不要在你妈妈面前提起你秀妍妈妈？”“为什么？我可喜欢秀妍妈妈和哥哥了。”“因为你妈叫林允儿啊。”夕阳下李青山抱着女儿走在回家的路上。 看完1—5章不喜欢看回忆的可以跳到100章接着看。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mok_半岛跨越山海只为你1-1055章.txt",
+    readUrl: "https://pan.baidu.com/s/19ZCQ8RynefZ_FRydZHmosQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mok/",
   },
 
@@ -58249,6 +58534,7 @@ export const bookItems = [
     excerpt: "穿越遮天界！ 李沉舟携魔狱玄胎经横推诸天！ 龙蛇世界，拳术无双，横扫天下！ 阳神世界，铸一口渡世宝笺。 帝尊元始，星河元始，孰为元始？ 永生完美，一世人道……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mol_遮天：我以永生之门证大道1-403章.txt",
+    readUrl: "https://pan.baidu.com/s/1P9AQHIc2G06Q7uiCTY3qvg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mol/",
   },
 
@@ -58265,6 +58551,7 @@ export const bookItems = [
     excerpt: "关键词:欠揍、正能量、威胁、孟德、征服、天选、君子、影帝、侠义、效率…… 世界:小欢喜、天龙、流金岁月、四合院、僵尸世界、少年派、去有风的地方、梦华录…… 白小凡每到一个世界就会随机获得一个关键词。 激活关键词之后可以获得与关键词相关的技能。 小欢喜–乔英子、王一迪、黄芷陶:“白小凡你怎么这么欠揍啊？” 欢乐颂–关雎尔、安迪、邱莹莹:“白小凡，我信你个鬼！” 漫长的季节–王响、沈默、龚彪:“你这么",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mom_诸天：每个世界随机一个关键词1-1157章.txt",
+    readUrl: "https://pan.baidu.com/s/1T8swwZJe_8qZdKSUOtl4Lg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mom/",
   },
 
@@ -58282,6 +58569,7 @@ export const bookItems = [
     excerpt: "我叫陆言沉。 是幻想修仙游戏《仙踪肆虐》的首席兼唯一设计师。 出于个人兴趣（划掉）。 我给修为通天的反派女帝烙上银色妖异的道纹。 为温柔雍贵的美人师尊，增加“孝心变质”的剧情线。 让清冷孤高的裴姓女剑仙“应劫”堕入红尘，自甘成魔。 游戏发售前夜，当我完成全体女主角战败堕落IF线，期待名利双收时。 眼前一黑，穿越进了自己设计的世界。 穿越并非绝路，可我发现这里的仙子都有些“失格”—— 饱受业火煎熬的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moo_仙子失格1-677章.txt",
+    readUrl: "https://pan.baidu.com/s/1s-faixPcIZp0wCR0mXeJ_g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moo/",
   },
 
@@ -58333,6 +58621,7 @@ export const bookItems = [
     excerpt: "崔道允（原名高立言，1994——？）一个从小到大都在自强不息对抗坑爹命运的人，机缘巧合下来到首尔。郑秀晶：“你欠我的，难道不该用一生去偿还嘛？”林允儿：“西卡欧尼，米亚内，但男人是不能让。“金智媛：“热闹是她们的，我只一味偷家。”媒体：“恭喜您成为本届青龙奖影帝，请发表获奖感言。”高立言：“这个...我认为在当前的形式下，一夫一妻制实在有碍社会发展...",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mos_半岛：我不可能会翻船1-535章.txt",
+    readUrl: "https://pan.baidu.com/s/1tO2yXccwR54dMakpxgrw_A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mos/",
   },
 
@@ -58350,6 +58639,7 @@ export const bookItems = [
     excerpt: "本书又名：《整片大海都是我的》、《我有情报系统，怎么可能打龟》、《好男人重生修炼手册》重回1984小海岛，陈渔意外拥有情报系统，从此捕鱼变得简单，整片大海都留下他的传说！【鱼情快讯】流水码头左侧的第三处礁石下，藏着一条大石斑鱼，具体品种不详！【行业动态】三沙罐头厂接了笔外贸订单，将会大量收购带鱼。【相关事件】李海棠早上回家收拾东西，打算给陈渔最后一次机会，只要他能改过自新，就不回娘家。【东海秘闻（",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mot_1984小海岛，从获得情报开始1-627章.txt",
+    readUrl: "https://pan.baidu.com/s/1duCPvr_vCVC20cbOH3Upgg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mot/",
   },
 
@@ -58383,6 +58673,7 @@ export const bookItems = [
     excerpt: "原来只要够强，就可以为所欲为。这是一个不断穿越诸天，不断变强的故事。回首来时路茫茫，一声逍遥惊玄黄！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mow_穿越吧，诸天1-330章.txt",
+    readUrl: "https://pan.baidu.com/s/1s_VXm6G0xOu7bSesvfqu-Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mow/",
   },
 
@@ -58400,6 +58691,7 @@ export const bookItems = [
     excerpt: "重回2016年，前世尝尽了酸甜苦辣的韩子墨，不再当演员，开始变卖家产，抄书起家，当编剧、当导演，重塑小花星路，养成顶流，成为娱乐大亨。 无系统，无背景，一步步布局，积累人脉资源，走上大佬之路。（开头不是秒天秒地的，等有2-3部作品后，主角才有底气，喜欢看纯爽文的，请慎看。） 赚钱需要会有少量韩娱。偏日常，不喜勿喷！ 郑重声明：平行世界，内容纯属虚构，如有雷同，纯属巧合。 本书曾用名：《华娱2016",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mox_华娱95花：我怎么成为顶流了？1-1099章.txt",
+    readUrl: "https://pan.baidu.com/s/12jKjmsXeNwRhOPOYAwuw1w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mox/",
   },
 
@@ -58416,6 +58708,7 @@ export const bookItems = [
     excerpt: "重生91，重启人生。企鹅堆:六五八零二幺六二四，欢迎大家",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_moz_重生之乘风而起1-2686章.txt",
+    readUrl: "https://pan.baidu.com/s/1ojCaauE22E7iBytMine16A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/moz/",
   },
 
@@ -58432,6 +58725,7 @@ export const bookItems = [
     excerpt: "（万界涉及范围：日漫）（已征服世界：甲铁城的卡巴内瑞，鬼灭之刃，进击的巨人，斩赤红之瞳，零之使魔，火影忍者，奇幻自卫队，植物大战僵尸.木星，猎兽神兵，银魂，怪物猎人，大剑，黑色四叶草，食戟之灵，皇家国教骑士团，剑风传奇，犬夜叉，滑头鬼之孙，一拳超人，出包王女）又名《海贼：老子是伊姆》又名《诸天万界世界政府》（不论原著伊姆确定是男是女，本书设定为男性，花之间改为月之间）（本书涉及到的所有异世界，皆不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mp_从海贼开始横推万界1-3113章.txt",
+    readUrl: "https://pan.baidu.com/s/1x1gqVsTwCpvJfQsf7ZO41A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mp/",
   },
 
@@ -58467,6 +58761,7 @@ export const bookItems = [
     excerpt: "活出第三世的钟天赐，没想到自己竟然来到了龙族世界。算了，第二世去的还是成龙历险记呢，甚至还混成了第九恶魔，穿越到龙族也没什么好惊讶的。只不过钟天赐想不通，自己拾来的十二符咒，为什么会丢了九个？偶然一个雨夜，钟天赐发现那个坐着迈巴赫上高架桥的小子，他的身上散发着指引符咒去向的命运。既然对方能够帮自己找到符咒，那么钟天赐不介意帮对方弥补一下遗憾，不就是救个人嘛，谁说恶魔就不能救人的。顺便也可以救赎一下",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mra_穿越龙族世界，我手握十二符咒1-465章.txt",
+    readUrl: "https://pan.baidu.com/s/1zUmalh1aQZBUhFdBRXbJPA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mra/",
   },
 
@@ -58484,6 +58779,7 @@ export const bookItems = [
     excerpt: "落地后，罗恩清楚的知道自己这是在一个什么样的宇宙里。 危机四伏，黑暗绝望，希望沉沦，一切都一切都正在行走于毁灭的道路之上，并且还不断的向着一个大坑光速滑落。 作为一个有着一点“特异能力”的普通人，罗恩原本是打算好好的苟在下巢，每天靠捡捡垃圾，接接委托，好好的混日子直到自己死掉来着。 但是…… 命运这件事，有的时候，就是那么难以捉摸。 就像是你不知道自己出个门，回家都会捡到基因原体一样。 还是复活的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrb_人在战锤，开局捡到圣吉列斯！1-214章.txt",
+    readUrl: "https://pan.baidu.com/s/1G-K7bJBGQIPsMFsOlfowZQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrb/",
   },
 
@@ -58501,6 +58797,7 @@ export const bookItems = [
     excerpt: "“解决掉他，我可以给你一个满意的价格。”“对不起，我们是合法的PMC，服务范围不包括武力清除。”“500万美金。”“请问你想让他以什么样的方式消失？”我叫张锐，我的职业是PMC，也就是私人武力承包商。我做PMC是为了赚钱。情报、军火、武力清除，只要你能支付的起价格，我能为你提供你想要的服务，并且提供售后保障。在我的世界里，赚钱是目的，信誉是保证，诚信是规矩。我不是雇佣兵，我是个商人，喜欢做生意赚钱",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrc_火力至上1-943章.txt",
+    readUrl: "https://pan.baidu.com/s/1mIL11VKf9Dz6Pt6optM18Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrc/",
   },
 
@@ -58518,6 +58815,7 @@ export const bookItems = [
     excerpt: "穿越斗破，萧清本想靠自己的实力走上巅峰，奈何金手指不允许。只需提升境界，便可抽取到土豆世界观之下的宝物。【菩提化体涎】、【生灵之焱】、【吞噬祖符】、【青天化龙诀】……数百年后，萧清靠着抽取的诸多宝物，脚踏时间长河，超脱于大千世界！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrd_人在斗破，抽奖成帝1-374章.txt",
+    readUrl: "https://pan.baidu.com/s/1ifGTZW1SQ4zaNmvLd4gYsw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrd/",
   },
 
@@ -58535,6 +58833,7 @@ export const bookItems = [
     excerpt: "林慕意外穿越到斗罗，并且觉醒了拿瓦召唤器武魂。经过十年的修炼，达到四十六级魂宗，偶然撞见准备入学的唐三，偏偏这时候，盼了十六年的金手指终于到账了。是一个非常简洁的面板。【主线任务：收唐三为徒，重塑他的三观，反差越大，奖励越丰厚，完成度：0%。】在林慕的教导下，唐三逐渐变得正的发邪，自己也开始解锁其他召唤器。...多年后，唐昊正准备跟唐三相认，却发现唐三的性格发生了翻天覆地的变化。唐三：“你既然都已",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mre_斗罗：弟子唐三，正的发邪1-316章.txt",
+    readUrl: "https://pan.baidu.com/s/1LQgyr34DaUqE5Oo-h2ws0Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mre/",
   },
 
@@ -58552,6 +58851,7 @@ export const bookItems = [
     excerpt: "我曾坐在喜马拉雅的山巅，遥望群山雪峰，吃着麻辣火锅。 我也曾在撒哈拉大沙漠的深处，一边喝着冰可乐，一边探寻古代历史遗迹。 我可以不戴任何装备，从山顶一跃而下，在即将触地的一瞬，开门让自己从下落，变成上升，重新回到半山腰。 也敢驾着一艘独木舟，横跨整片太平洋，在风雨雷霆中驰骋纵横。 而现在，我却打开了一扇，通往新世界的大门。 从秦汉，到隋唐，过宋元明清，直至鸦片战争、乃至……我看到了全部的历史",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrf_传送门通历史，我上报国家1-453章.txt",
+    readUrl: "https://pan.baidu.com/s/1n9dCsggDQ4NmKa4jJsEH3Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrf/",
   },
 
@@ -58569,6 +58869,7 @@ export const bookItems = [
     excerpt: "又名【从宝莲灯杨蛟开始征战诸天】，热血战斗，征战诸天，多种修炼体系，有创法情节，不是玩梗乐子文，慎入……——杨蛟打破胎中之迷。发现自己成了神话世界二郎神杨戬与三圣母杨婵的大哥。距离被天庭灭门还有半年时间。杨蛟无法接受这个事实。幸好，关键时刻，他觉醒了【诸天轮回盘】……消耗世界本源之力，就能轮回诸天万界。遮天世界：他是华云飞，以一部有缺陷的《吞天魔功》，吞噬诸多体质，逆开第六秘境，孕育万道至尊骨而成",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrg_诸天：从宝莲灯杨蛟开始1-316章.txt",
+    readUrl: "https://pan.baidu.com/s/1ezm9nqyf0eoj7e1jOwToDA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrg/",
   },
 
@@ -58585,6 +58886,7 @@ export const bookItems = [
     excerpt: "高斌捡了个神奇的笔记本，凡事被这个笔记本记录的事，必然会在现实中发生。从此他就开始到处搞事，制造各种超自然事件。现实被他改造的面目全非，科学体系面临极大的挑战，他就是一只幕后黑手，为了自己的超脱，用亿万人做实验。他带来了灵气复苏，他打破了绝对的平等。“难道我就是神？”，最后他在笔记本上写道，“唯一的神？”这次设定顺利通过，时空终于承认。（PS：幕后黑手文，魔改地球姐妹篇，群：792663562）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrh_魔改地球：我亲手导演灵气复苏1-506章.txt",
+    readUrl: "https://pan.baidu.com/s/11ZY1ZFIwaCsnyKv04ltJvw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrh/",
   },
 
@@ -58620,6 +58922,7 @@ export const bookItems = [
     excerpt: "简兮失踪的第七天，村民找到了她的尸体。那么，自己从后山背回来的，这个死而复生的简兮又是什么？是接受青梅死去的真相，还是欺骗自己吃下代餐？与未知的她共同编织这个青春的谎言蠕动，扭曲，背叛，痉挛。好不容易坠入爱河，真正的她又回来了——你身边的人谁？她是简兮？我是什么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrj_恋在克苏鲁1-179章.txt",
+    readUrl: "https://pan.baidu.com/s/1yKt4HdYeK60G1oE44B8kVg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrj/",
   },
 
@@ -58637,6 +58940,7 @@ export const bookItems = [
     excerpt: "一睁眼，江临回到2012年的暑假。这一年，家里的西瓜新品种大获丰收，却面临滞销危机。看着眼前浮现的半透明面板：【半坡地：1.5亩】【作物：西瓜】【糖度：13%】【市场分析：建议采用数据化精品零售模式……】江临愣住了：“不是，都重生了，要我种地？”前世，他被暴富梦吞噬，拖垮了所有爱他的人。这一世，他手握洞察农业数据的辅助面板，要换个活法。当村里的瓜还在为几毛差价争破头，他的西瓜已贴上甜度13%的标签",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrm_都重生了你要去种地？1-354章.txt",
+    readUrl: "https://pan.baidu.com/s/1xsGvA9Ot_hb3w5Vp6Y87Qg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrm/",
   },
 
@@ -58654,6 +58958,7 @@ export const bookItems = [
     excerpt: "穿越吞噬世界一万纪元的怯穹终于等来了属于他的金手指。到了某个境界就可以选择一次穿越的机会，随机在诸天进行转生，转生达到某种目标就可以得到奖励。随着一次次的突破穿越，怯穹终于靠自己站在诸天之巅。PS：这本书有可能只会写番茄的小说世界。前面写的有可能有点详细，因为第一次写书，所以没有看过的也可以看懂，我后面会找找平衡谢谢各位大大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrn_从吞噬星空开始的诸天穿越1-371章.txt",
+    readUrl: "https://pan.baidu.com/s/1xsLqNKWuGtbSBDHfGbpkuQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrn/",
   },
 
@@ -58671,6 +58976,7 @@ export const bookItems = [
     excerpt: "穿越到影视世界《人世间》，成为了里面的周秉坤，他第一时间想到的，就是逃，逃离周家……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrp_影视世界从人世间周秉坤开始1-247章.txt",
+    readUrl: "https://pan.baidu.com/s/1Mvtib0NJDsABfSIpEorPmA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrp/",
   },
 
@@ -58687,6 +58993,7 @@ export const bookItems = [
     excerpt: "沈平康就要死了，脑癌！ 出生于小县城的他来大城市里拼搏奋斗几年，这并没有给他带来什么好处，而是给他带来了一身的病痛，脑癌晚期，可他不想死啊……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrq_诸天轮回之从仙路开始1-995章.txt",
+    readUrl: "https://pan.baidu.com/s/11pSvtmTjUDtaVJaY0SlWvQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrq/",
   },
 
@@ -58704,6 +59011,7 @@ export const bookItems = [
     excerpt: "立君左右，朝夕记注，君举必书，备修国史。万历三年春。内阁首辅张居正复置起居注，命翰林史官轮值兼之。自此——隆庆五年辛未科三甲进士、庶吉士、翰林院检讨、张居正最优秀的门生、沈·万历皇帝的一生之敌·念开启了他修撰起居注的史官生涯。……那日，小万历醉酒误经筵。沈念挺胸写道：上醉酒误经筵，太后、首辅怒斥之，言废君主。那月，大批宦官充当矿监税使，搜刮民财。沈念梗着脖子写道：沈念在御前曰：采榷之祸，皆帝之过。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrr_我在万历修起居注1-390章.txt",
+    readUrl: "https://pan.baidu.com/s/1V10QxIH1OY4xrXSsTvKSoQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrr/",
   },
 
@@ -58721,6 +59029,7 @@ export const bookItems = [
     excerpt: "新书《从大金刚神力开始纵横诸天》已发布！燕奔穿越笑傲世界，作为华山大师兄，以万丈豪情，独创燕云掌法，转战南北，天下无敌。“纵有狂风拔地起，我亦乘风破万里！”历经练笑傲，连城诀，射雕，倚天，天龙，说英雄等诸多世界，燕奔终成千古无上大宗师。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrs_武侠世界无上大宗师1-307章.txt",
+    readUrl: "https://pan.baidu.com/s/1XQlHA3wKjRnpVqqegdQwyw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrs/",
   },
 
@@ -58737,6 +59046,7 @@ export const bookItems = [
     excerpt: "万历元年正月十九，万历皇帝朱翊钧，打量着面前的铁三角。第一位盟友面相颇为和善，她是大明的太后。第二位盟友只是个太监，他的职责是磕头。第三位盟友就是个权臣，他看起来霸气外漏。最后所有人目光移向朕，问朕扮演的角色是什么：朕看看身份说，朕是：不务正业大皇帝本书又名：《朕有亿点点小爱好》、《皇恩碎地拳》、《让大明再次伟大》……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrt_朕真的不务正业1-1385章.txt",
+    readUrl: "https://pan.baidu.com/s/1GTgE7xIyE2WcMsds3B62Jg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrt/",
   },
 
@@ -58753,6 +59063,7 @@ export const bookItems = [
     excerpt: "那一年，沪指还在5000点。那一年，房价开始再一次地狂奔。那一年，移动互联网的商业战场，逐渐进入红海。那一年，‘新能源’革命，开始冲破黎明前的黑暗，锂电池、电动车、氢能源、光伏、光储逐渐成为资本投资和金融市场的宠儿。那一年，历经金融市场十年洗礼的苏逸，睁开眼睛，再次回到原点。开始了从一个小散户，到金融巨头，到资本传奇的道路！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mru_重生之资本传奇1-731章.txt",
+    readUrl: "https://pan.baidu.com/s/1HVhjCwZDLtEq8C7jsGzIDw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mru/",
   },
 
@@ -58770,6 +59081,7 @@ export const bookItems = [
     excerpt: "今我魂兽一族，遭魂师屠戮，神界算计，乃危急存亡之秋矣，当自立自强，寻那一线生机。龙神已死，黑龙当立！我帝天，愿去匡扶魂兽一族！尔等可愿追随？古月娜一觉醒来，发现原本忠心耿耿的帝天，居然有一天会背刺她！古月娜：帝天！你放肆！帝天：银龙多病，吾自当勉之。 【PS：本书时间线从斗二开始，斗三结束。主角帝天】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrv_斗罗：我帝天，不再当怨种1-352章.txt",
+    readUrl: "https://pan.baidu.com/s/1-1SkiPdbibwQsMgnPzYaVw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrv/",
   },
 
@@ -58786,6 +59098,7 @@ export const bookItems = [
     excerpt: "“最开始，我只是想开一个福利院，照顾那些被遗弃的宝可梦。”“小家伙们问我，它们为什么会被遗弃？”“我选择让它们自己找到答案。”滕树微笑的说着。而被遗弃的宝可梦们在黑暗中，寻到了一束光。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrw_我在宝可梦世界开福利院1-784章.txt",
+    readUrl: "https://pan.baidu.com/s/1cT_9OrcXFPl4aOyKwPecrQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrw/",
   },
 
@@ -58802,6 +59115,7 @@ export const bookItems = [
     excerpt: "假如现实中你有一枚鼠符咒，你能将它的能力玩出什么花样？已知鼠符咒的限制：——一次只能复活一个；——被复活者的原型，需是字面意思上的“动”物；——被复活者的力量不全；——被复活者拥有自己的意识；——符咒力量脱离后，被复活者的力量以及所有物都会失去作用；——【现在发挥你的脑洞，寻找出一条可以走上伟力归于自身的路线……】（前期现实，后转诸天）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrx_人在现实，但有鼠符咒！1-444章.txt",
+    readUrl: "https://pan.baidu.com/s/1U2DxhCa7U4Gl2wZLWOHuWg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrx/",
   },
 
@@ -58819,6 +59133,7 @@ export const bookItems = [
     excerpt: "好消息，穿越了。坏消息，不是木叶，安全性无法保证。更要命的是，还是五国之中，最喜欢乱跳，还玩不明白的砂隐村。当第二次忍界大战结束后，尤比看着陷入人才荒，又资源贫瘠，久久无法恢复元气的村子，就明白…他必须做点什么了。不过，幸亏有系统傍身…他有信心改变这一切，哪怕，他只是一名医疗忍者。那么首先要做的…就是把还没进入叛逆期的赤砂之蝎拉上自己的战车！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mry_火影：与蝎一起重塑忍界1-411章.txt",
+    readUrl: "https://pan.baidu.com/s/1WDMRjK6ZEbx9IbZMzMxGSg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mry/",
   },
 
@@ -58836,6 +59151,7 @@ export const bookItems = [
     excerpt: "隐忍两万年，我噶了神界，一统斗罗星！ —— —— 本书又名《斗一之我与怨种哥哥的日常》+《斗二之被哥哥杀死之后我变成幕后反派大boss》+《斗三之这个斗罗画风不太对劲且成分复杂》欢迎入坑试毒～",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mrz_于是我去了斗罗1-1495章.txt",
+    readUrl: "https://pan.baidu.com/s/1uE5Y8M-f-yxm-oETOlOL2w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mrz/",
   },
 
@@ -58871,6 +59187,7 @@ export const bookItems = [
     excerpt: "陈升加载了【角色扮演系统】。每周可以选择一名角色获得对应的超能力。【角色：牛郎】是我知道的那个牛郎吗？【仅一次，拿走女生的衣服可以获得她的特别关注。每让女生脸红一次，可获得100元】原来是牛郎织女的牛郎啊。脸红的话……红温算脸红吗？【角色：周公】【获得穿梭梦境的能力。梦中每完成一张试卷，选择一门科目最低分+10】等一下，我梦不到试卷咋办？啥？抢别人的也行？来让我看看，哪个卷王做梦都在刷题啊？【角色",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msb_每周刷新的角色扮演系统不太对劲1-439章.txt",
+    readUrl: "https://pan.baidu.com/s/1jsxYxJRYkIwRFYTMug_OAQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msb/",
   },
 
@@ -58888,6 +59205,7 @@ export const bookItems = [
     excerpt: "《我家掌门天下第一》新书已发布————————————当现代都市里出现“打人如挂画”“水不过膝”。当国术江湖里出现“徒手抓子弹”“神掌天降”。当武侠江湖里出现“敕鬼驱神”“摧城搬山”。当末法时代里出现“天地灵气”“长生物质”。…………万古诸天，时空林立。祖夏、皇商、天周、仙秦、神汉、圣唐、道宋、魔元、武明、妖清、科武星河……在不同的天地，做不同的创道者，震惊世界，颠覆世人三观。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msc_诸天演道1-611章.txt",
+    readUrl: "https://pan.baidu.com/s/1PqfV0D8wlRs8Xvf65m193A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msc/",
   },
 
@@ -58904,6 +59222,7 @@ export const bookItems = [
     excerpt: "宣统二年，精武门创立。面对列强入侵，清帮横行。杨林只手遮天，拳镇山河……从纨绔子弟到帝王杀手，诸天演武，问天下，谁是英雄？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msd_演武令1-765章.txt",
+    readUrl: "https://pan.baidu.com/s/1GDJKORrvKDQAWroUEIzISg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msd/",
   },
 
@@ -58921,6 +59240,7 @@ export const bookItems = [
     excerpt: "【请宿主尽快逃离魔域死都瑞斯坎，向世人揭穿夜魇魔女卡莉娅的邪恶阴谋。】 【魔女卡莉娅正在聚敛大量财富，请阻止她，防止她利用这笔资金进行邪恶的魔药实验。】 【请宿主阻止夜魇魔女卡莉娅的邪恶计划，避免其将整个世界拖入永夜之中。】 【邪恶的魔女卡莉娅正在偷吃你的外卖，请阻止她。】 穿越剑与魔法的西幻世界，正在名为瑞斯坎的宁静小城里摆烂的罗兰，看着突然出现在自己眼前的系统陷入了沉思。 你管眼前这个正偷吃自",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msf_魔女大人，请按剧本黑化！1-498章.txt",
+    readUrl: "https://pan.baidu.com/s/1Dp-vtWSUXwJ2TXGzP616aw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msf/",
   },
 
@@ -58954,6 +59274,7 @@ export const bookItems = [
     excerpt: "【一人之下同人】 一本有煞灵潜藏的百诅簿，将一个原本命犯五弊三缺的将死之人拉入‘异人’的世界 赵九缺穿越一人之下，修诅咒厌胜之术，炼制镇物，一身‘五弊三缺’的debuff游历天下，喜结‘善’缘。 “道友请留步，你身上怎么挂着这么多debuff？” “道友且慢，我有一妙术可渡你去见地藏王菩萨。” 修着修着，居然就这么摸到了通天的门槛。 异人中从未有过以压胜咒诅之术通天者，或许，我可以弥补这个空缺。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msi_一人之下：百诅成道1-575章.txt",
+    readUrl: "https://pan.baidu.com/s/1nUAjfmNcAye94UZodncGXQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msi/",
   },
 
@@ -58971,6 +59292,7 @@ export const bookItems = [
     excerpt: "多年以后，被送上绞刑架的伊文，总会想起前世他第一次在笔记本上写下黑历史小说的那个夜晚。本书又名《关于我转生到笔下黑历史小说那件事》要素：【冒险者】、【大杂烩世界观】、【伪DND】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msj_我写的黑历史都成真了1-272章.txt",
+    readUrl: "https://pan.baidu.com/s/17pymrHhhe_O42_ssS-eGhA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msj/",
   },
 
@@ -58988,6 +59310,7 @@ export const bookItems = [
     excerpt: "帝国向您致敬，指挥官阁下！系统已经为您准备好一份特殊礼物，这便是两台经过特殊改良的恩戈马机，一台名为【诸神】，一台名为【黄昏】。您将选择其中之一，进入【柏格尼亚战役】去创造属于您的时代。可不要小瞧这两台【恩戈马机】，它们的“转子”组合功能，可以搭配出数百万种战术变化。且每一枚高级“转子”都有其对应的【限定技】、【半神技】、【满神技】，能力足可以扭转战局。现在，【普罗神帝国】的命运已经掌握在您的手中",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msk_神二战：我用大德通关世界1-502章.txt",
+    readUrl: "https://pan.baidu.com/s/1QbvachYZzRrItSr6jZBW_w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msk/",
   },
 
@@ -59023,6 +59346,7 @@ export const bookItems = [
     excerpt: "作为一只在箱庭之中极为少有但又强大的三大最强种之一的纯血龙种，苏念有这一个远大的理想。那就是建立属于自己的神群，铸造自己的神话。但是不知道为什么，这个过程却总是充满意外·····博识尊：尼玛的，不要用我的算力干这种事情啊！丰川祥子：踏马的，乐队解散税还在追我！！黄皮子：我绝不承认这些野史！！不，这根本就是史！·······“明明我也没干什么啊，为什么总是有人说我是第一大问题儿童呢？”苏念愤愤不平。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msn_人在箱庭，是纯血龙种1-395章.txt",
+    readUrl: "https://pan.baidu.com/s/1rvXuTsPaMWOxBLX7_JHKWw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msn/",
   },
 
@@ -59040,6 +59364,7 @@ export const bookItems = [
     excerpt: "在箱庭混，什么最重要？ 是举世无敌的实力？还是算测无双的智谋？亦或者是富可敌国的财宝？ 不，都不是，是大腿！！！ 身为一个可怜，弱小而又无助的旅法师的苏念深谙此道。 只要我身后的大腿足够多，那我在箱庭就是无敌了！！ “白夜叉老大，我敬爱你口牙！！” “万圣节女王陛下，我心中就只有你一个太阳。” “阿尔酱的美貌举世无双！！！” “雅典娜女神殿下，我是您最忠诚的圣斗士，你手中的最锋利的长矛和最坚固的对",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mso_人在箱庭，从落地成神开始1-526章.txt",
+    readUrl: "https://pan.baidu.com/s/1IG-WX8aTh4R2Lrfm7rnOlw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mso/",
   },
 
@@ -59073,6 +59398,7 @@ export const bookItems = [
     excerpt: "我叫欧阳锋，白驼山的欧阳锋。但我并非原本的那位“西毒”。我身怀重宝，二十岁前，就已身兼降龙十八掌、弹指神通、龙象般若功等诸多绝学。我甚至还结识了几个异界“网友”。最先认识的，是少女时的移花宫二宫主怜星。接下来是杨玉环，我认识她时，她刚刚奉旨出家修道，还没成为贵妃，据她说她那个世界，有个叫张果的奇人，还有会法术的叶法善、罗公远……诸天广大，无限精彩，我所在的世界却太小，修为越高，越觉龙困浅滩，不得伸",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msr_在下欧阳锋1-299章.txt",
+    readUrl: "https://pan.baidu.com/s/1xb1-h2ODx9qCkMWXKqJV9g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msr/",
   },
 
@@ -59089,6 +59415,7 @@ export const bookItems = [
     excerpt: "我叫陆沉，刚刚穿越到射雕世界，被离家出走的黄蓉捡到了，从此过上了没羞……咳，重新自我介绍。我叫陆沉，身怀一道“诛仙剑意”，先是穿越到了一个科技与超能并存，妖魔与古神同在的世界，却需修成大量剑术，才能逐层解锁“诛仙剑意”，习得诛仙之剑。可这个世界虽然高能，偏偏没有超凡武道，无处可学超凡剑术。好在“诛仙剑意”还可送我穿越到各种武侠世界。射雕、倚天、笑傲、天龙、大唐……各派剑术，尽可习得！嗯，首穿射雕，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msu_武侠世界，红尘剑仙1-250章.txt",
+    readUrl: "https://pan.baidu.com/s/1oyW-PPFAVcLEdhj8A4iwtg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msu/",
   },
 
@@ -59105,6 +59432,7 @@ export const bookItems = [
     excerpt: "新书《我家掌门天下第一》已经发布，求各位读者大大继续支持。_______行走在每一个世界，只为离开之后，诸天万界尽诵关于我的传说。陆小凤传奇里，于紫禁之巅刺出超越了完美的一剑，败尽群雄，留下剑道传说。破碎虚空里，留下飞升传说。雪中悍刀行里，让这天上地下，古往今来只有一个周乙！霹雳神州3天罪里，说了一声“弃天帝，不差！”……仙葫，完美，遮天，洪荒……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msy_诸天旅人1-726章.txt",
+    readUrl: "https://pan.baidu.com/s/1RBsJ1kCKgatweqq5ECttWg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msy/",
   },
 
@@ -59122,6 +59450,7 @@ export const bookItems = [
     excerpt: "一道彩色的雷霆落下，让吴羡穿越到《无限恐怖》的世界，还成为了与张杰同期进入的新人轮回者。一番挣扎求生之后，他独自回归到主神空间，很快便因为过度疲劳而陷入沉睡，却不想在梦境之中，看到了一名黑甲少年和一只毛脸雷公嘴的猴子。直到这时，吴羡才终于明白，原来他的金手指竟然就是他自己！无限恐怖、吞噬星空、黑神话、一人之下、大唐、雪中、龙族、遮天……总而言之，这是一个被雷劈的穿越者，在诸天世界抱自己大腿的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_msz_同时穿越：从回归主神空间开始1-606章.txt",
+    readUrl: "https://pan.baidu.com/s/1_ilcX3jX76BRO7mX-N2DaA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/msz/",
   },
 
@@ -59156,6 +59485,7 @@ export const bookItems = [
     excerpt: "穿越到民风淳朴哥谭市，觉醒了做好事就能爆奖励的能力！ 扶老太太过马路，善意值＋1 给流浪儿童喂食，善意值＋10 罗兰从此决定做一个好神父，投入到为哥谭市民做好事的事业中。 直到他发现…… 将谜语人谜题改成段子，善意值＋50 对毒藤女使用农家肥，善意值＋100 折断贝恩的脊椎，善意值＋200 破坏小丑的计划，善意值＋1000 罗兰从此决定，投入到给哥谭反派找麻烦的事业中。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mta_人在哥谭当神父，开局捡到小男孩1-567章.txt",
+    readUrl: "https://pan.baidu.com/s/16eqYPyGydACXc_o1x23pGQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mta/",
   },
 
@@ -59190,6 +59520,7 @@ export const bookItems = [
     excerpt: "1939年8月，日寇、汉奸猖獗，王学森秘密潜入汪伪特工总部“76号”，左右逢源，煽风点火，阳奉阴违…… 丁墨村：学森今天给我引荐了一个学生，她叫……郑萍筎。 李世群：学森老弟做的牛肉饼真香。 晴气庆胤：据查，戴雨农在76号安插一个内线，代号“申公豹”。 周佛海：王学森对汪先生忠心耿耿，绝不可能是“申公豹”。学森，我有绝密情报上报戴老板。 戴雨农（1946，岱山）绝叹：死道友不死贫道，王学森是真正的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtd_谍战代号：申公豹1-300章.txt",
+    readUrl: "https://pan.baidu.com/s/1n6-tH_SwfHRx37zQt1BCsg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtd/",
   },
 
@@ -59207,6 +59538,7 @@ export const bookItems = [
     excerpt: "“住友正一先生，请问为什么和您存在竞争关系的企业老板，都会死于意外谋杀呢？”住友正一：“老天爷喂饭吃。”“正一先生，最近发生了多起爆炸案，炸毁了多栋大楼，是否和您的建筑公司有关？”住友正一：“警方无能，与我无关。”“多名企业家受到了恐怖组织的威胁，是否和您刚注册的安保公司有关？”住友正一：“这是对我的恶意构陷。”“大家都说，您能取得这样的成就，都是靠家里的帮助。”正一：“胡说，我靠的明明是柯南！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtf_柯南：我在东京当财阀1-466章.txt",
+    readUrl: "https://pan.baidu.com/s/1FRG1sBsMfFKtEtzEhVE4eA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtf/",
   },
 
@@ -59224,6 +59556,7 @@ export const bookItems = [
     excerpt: "不主动、不拒绝、不负责，并不是我渣男，而是因为我不想伤害每一个爱我的女孩儿。况且，我对每个女孩子都是真心的话，又怎么能不算纯爱呢？！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtg_半岛：纯爱的我被她们盯上了1-306章.txt",
+    readUrl: "https://pan.baidu.com/s/1t5VuFU-axO38DDUQ0zEeEA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtg/",
   },
 
@@ -59240,6 +59573,7 @@ export const bookItems = [
     excerpt: "重生1986年，在这个不禁枪、不禁猎、不保护野生动物，甚至因为黑熊、野猪祸害人民群众辛勤劳动果实，上级部门鼓励、号召各村屯积极打猎的年代。作为永安屯民兵排小兵、猎人大队小队员的赵军，背枪走向了大山，过起了牵狗打猎的生活。本故事纯属事实，如有雷同，那是真的！！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mth_整座大山都是我的猎场1-2116章.txt",
+    readUrl: "https://pan.baidu.com/s/1hRVv5YMOkg_zfveO03je-g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mth/",
   },
 
@@ -59266,12 +59600,13 @@ export const bookItems = [
     title: "空想具现的大贵族",
     cover: bookCovermmtj,
     author: "泼墨红尘里",
-    date: "2026-10-17",
+    date: "2026-10-23",
     category: "玄幻",
     status: "连载中",
     chapters: "1-2675章",
     excerpt: "所谓贵族。闲来无事开宴会，吃饭睡觉造城堡。至于斗气魔法？那不过是点缀而已！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1j3y-XuDw6-v36gZCq-NTXA?pwd=gtah",
     downloadUrl: "/books/m_mtj_空想具现的大贵族1-2675章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/mtj/",
   },
@@ -59290,6 +59625,7 @@ export const bookItems = [
     excerpt: "来到禽满四合院的世界，林家国努力将自己变成边缘人，过好自己的小日子就行。如果众“禽”敢撩拨，那就得给他们“拔拔毛”。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtk_四合院之我是大厨开始1-446章.txt",
+    readUrl: "https://pan.baidu.com/s/1_L07kxBmqJ7AueZqmc0IQw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtk/",
   },
 
@@ -59306,6 +59642,7 @@ export const bookItems = [
     excerpt: "“私生毁我，对家害我，黑粉辱我，资本欺我，粉丝弃我……我已经从地狱归来！我要！向私生开战！向对家开战！向黑粉开战！向资本开战！！！向粉丝——”“呸呸呸！不是你自己出道夜前突然被爆恋爱只能退团退圈接着光速结婚入赘结果却嫁了个假富婆？你怎么还有脸复出的？你怎么还敢复出的？？？”“额额额……我不是脸皮厚嘛~”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtl_让我出道，我还能爆！1-421章.txt",
+    readUrl: "https://pan.baidu.com/s/1qwKZOMRj8o-ttqSRLtdwpg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtl/",
   },
 
@@ -59322,6 +59659,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtm_完美世界：重瞳开天，羽化登仙1-546章.txt",
+    readUrl: "https://pan.baidu.com/s/1y-lhXdT6Jhes2UAPEsDa6g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtm/",
   },
 
@@ -59339,6 +59677,7 @@ export const bookItems = [
     excerpt: "【绝世唐门同人文】【后宫】【原装唐舞麟】 唐舞麟的日记： 00/00/01戴云儿真是疯了，居然想要生米煮成熟饭，倒是因祸得福，跟古月在一起了，可...睡一晚上，怎么就穿越到一万年前了？ 00/00/07到这个时代的海神阁，这个马小桃怎么老盯着我？言少哲院长似乎误会了，想把我生吞活剥。 00/01/07古月，对不起，我不是故意的！ 02/11/22终于入学了！我的室友叫...王冬，跟谢邂很像，所以我",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtn_唐舞麟，你已有取死之道！1-374章.txt",
+    readUrl: "https://pan.baidu.com/s/173wAy8MOUbkKmE1JHGwLFw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtn/",
   },
 
@@ -59355,6 +59694,7 @@ export const bookItems = [
     excerpt: "林如海穿越了，却同时穿越了诸天万界，但他穿越的身份，每一个都是杂鱼。就连同时穿越的金手指，也只能共享记忆，不能共享力量。即便如此，他也决不放弃。每一个林如海都是我，但每一个我生长的环境不同、经历不同、思维不同，当无数个不同的思维敞开心扉，完全没有隔阂地互相交流，将会产生无数智慧。笑傲江湖，辟邪吸星为基础，铸燃心大法，心不灭，我不死。一人之下，引三尸出窍，融魔念入道，修三心二意。无限恐怖，四中心魔，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtp_同时穿越：全员杂鱼？1-513章.txt",
+    readUrl: "https://pan.baidu.com/s/1NDQtcztC41KTaGgwSGQCGw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtp/",
   },
 
@@ -59371,6 +59711,7 @@ export const bookItems = [
     excerpt: "看起来像是模拟器的金手指，实际上居然是分身流？林天赐分身万界，各个分身通过模拟器相连接。无数分身相互帮助，根据各自情况，贡献自己的力量。龙珠：用七十二变VS孙悟空有没有看头？绝世唐门：只要你骂狗三，我们就是好朋友。刺客伍六七：关于龟仙人龟派气功和烂命华的龟波气功的不同之处。成龙历险记：关于用魔封波封印恶魔这件事。蛊界：谁说蛊师没有蛊就不行的。……预计世界：龙珠，绝世，精灵宝可梦，非人哉，哆啦A梦，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtq_模拟器？不！是分身流1-794章.txt",
+    readUrl: "https://pan.baidu.com/s/1wfiQbuQgqfWAV1sME4g0MA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtq/",
   },
 
@@ -59405,6 +59746,7 @@ export const bookItems = [
     excerpt: "“是的，勇者就是我杀的，只是工作而已，不要提什么魔族入侵，与我无关。你们世界的问题自己解决....”1458年，世界末日前夕，无耻的异世界穿越者、卑劣的人类内鬼、魔王走狗奎恩在叛逃时，被质问是否愧疚于众神的栽培，他表示：“第一：世界末日是众神的问题，我只是不帮他们擦屁股而已，谈什么栽培？”“第二：我又不是这个世界的人，凭啥管你们死活？”“第三：魔王小姐穿好婚纱等我了，带着黄金回地球，老婆孩子热炕头",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtt_勇者可以不活，但不能没活1-630章.txt",
+    readUrl: "https://pan.baidu.com/s/1Nq6etYtyRrBu1bU0RGPPFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtt/",
   },
 
@@ -59422,6 +59764,7 @@ export const bookItems = [
     excerpt: "米尔顿·明斯穿越到奇葩小国的边境检查站，边境北边是墨西哥，边境南边是把狗脑子都打出来的内战双方。 还好，他能看到往来载具上的违禁物品，查封违禁品，获得积分，换取奖励。 只有拥有最强的火力，才能让所有人都乖乖缴税。 “在我的检查站，总统来了也得交税！” “唯有死亡和税收永恒！” …… “教父先生，按照您的指示，范康帮于昨日被彻底清除，您放心，在处决前，我们会保证他们缴纳完一切税款。” “锡那罗亚集团",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtv_税收只在机枪射程内！1-437章.txt",
+    readUrl: "https://pan.baidu.com/s/1sXEiSbjVghNhmmCIpT1I7w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtv/",
   },
 
@@ -59439,6 +59782,7 @@ export const bookItems = [
     excerpt: "高冷同桌今天被攻略了吗？·——你绑定了一个游戏，游戏里有你的专属电子女友。每天早上你都会为你的电子女友搭配出行装扮。上午你的电子女友会出门打工，好感度提升了你还会收到她为你精心准备的小礼物。“她”每一天都陪伴着你。有什么心事也都会告诉她。你将视“她”为知己、亲朋、好友。直到某天你的高冷同桌红着脸小声地在你耳边对你讲，“陈渺……你能不能不要再给我穿那些奇奇怪怪的衣服了啊。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtw_高冷同桌成为我的电子女友之后1-296章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ua9zJBw2h6qOeGQVxnECOQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtw/",
   },
 
@@ -59455,6 +59799,7 @@ export const bookItems = [
     excerpt: "（老书《我被时间回旋踢》已完本）一个坑人无数的现代投机份子，如果灵魂一下子穿越到了四十年前。他究竟会创造出什么样的惊人奇迹？又会走出什么样的人生轨迹？这一切都从1980年开始，从京城的前门楼子底下开始。从一个叫宁卫民的孤儿，穷困潦倒的处境开始……(重点提示:事业线不是收集古董，而是投机加商业)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtx_国潮19801-1908章.txt",
+    readUrl: "https://pan.baidu.com/s/1TndiHmhXYXdFotxw6T6FUA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtx/",
   },
 
@@ -59471,6 +59816,7 @@ export const bookItems = [
     excerpt: "修炼最邪的降头术，驾驭最凶的厉鬼。 身患绝症的李侦意外进入诸天世界，原本只想苟延残喘，多活几年，但恍惚间一回头，他却发现自己早已成为诸天万界最恐怖的禁忌…… 蛊、凶榜、南洋十大邪术、种鬼、追鬼七雄、鬼眼、猛鬼出笼、魔、降头、咒、灵媒、双瞳、娑婆诃、破墓、僵尸七日重生、僵尸大时代、陀地驱魔人、千人斩……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mtz_诸天：谁把他放进恐怖片的？1-428章.txt",
+    readUrl: "https://pan.baidu.com/s/1XVBkMmwwJCExx9HK0Bh-Lw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mtz/",
   },
 
@@ -59488,6 +59834,7 @@ export const bookItems = [
     excerpt: "实验室大爆炸。程功从2025年穿越回到1977年的香江。从负二代开始的程功，从小工厂主到资本大鳄迅速崛起。从伦敦金，纽约金，芝加哥黄金，大豆期货，白银期货，积累到大笔资金。从抢先一步李先生，买入美资永高公司，到九龙仓，青洲英坭，和记黄埔，中华巴士，九龙巴士，香江电灯，会德丰，华人置业，美丽华酒店，海外信托银行，渣打银行等等。他是香江资本市场连环收购不败记录的唯一创造者，他是投资界的神，财富增值30",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mu_家族百年：从港岛开始崛起1-598章.txt",
+    readUrl: "https://pan.baidu.com/s/18wm6gkEkvwWiC1-PAUj9NA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mu/",
   },
 
@@ -59523,6 +59870,7 @@ export const bookItems = [
     excerpt: "平凡与异常重叠，就像深海与海面。海面之上高楼林立，社会如齿轮般精密运转。海面之下，超凡的漩涡将一切窥视之徒卷入其中。……血魔之屋中，无人可见的透明少女，寻找着自己的命定之人；都市的阴影里，红发魔女戴着虚伪的假面，以饥渴偿还童年的冷漠；聚光灯下，偶像少女光彩夺目，舞台的背后，狂兽的血脉在侵蚀人性的本能。当记忆空白的无眼女仆，还在小说里等候最初的主人时，夏守穿越到这个神奇的世界，无数可能性在他面前展开",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwa_怪异收容专家1-1620章.txt",
+    readUrl: "https://pan.baidu.com/s/1PwmUWu_Iw0L_vQU3p9LpeQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwa/",
   },
 
@@ -59540,6 +59888,7 @@ export const bookItems = [
     excerpt: "林恩浩穿越到平行时空1984年的韩国，子承父业，很快进入保安司。林恩浩爱好外语学习，跟英语老师，日语老师，中文老师，俄语老师相处融洽。论忠诚，林恩浩是专业的。套路过于先进，不便展示。论业绩，他知道穿越后任何重大事件发生的脉络，立功不要太轻松。上级太初生，没有一个好人。林恩浩拒绝牛马，也拒绝鹰犬。他走上了一条金杯共汝饮，白刃不相饶的康庄大道。57万字已拿到精品徽章，均订过5K，高订13K+，放心阅读",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwb_半岛1984：我太忠诚了1-430章.txt",
+    readUrl: "https://pan.baidu.com/s/1OLnP5OiXrqzu4mMYjvSwmw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwb/",
   },
 
@@ -59557,6 +59906,7 @@ export const bookItems = [
     excerpt: "林玄分裂成无数份穿越了！天赋共享，技能共享，能力共享！从此以后我不吃牛肉！！可是......死亡皇后岛：我尼玛，这畜生些是人？圣斗士是这样训练的？进化之家：兄弟们，我感觉不到我的手了，救一下！伟大航路和之国：这什么傻逼国王啊！假面骑士：沃日，假面骑士在追我！卡塞尔学院：谢邀，血统等级评价e，坐等世界毁灭。型月世界：第四次圣杯大战冬木市区发生瓦斯爆炸了！数码宝贝：进化，进化，还是他妈的进化！！遮天：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwc_同时穿越：从龙族血统开始1-437章.txt",
+    readUrl: "https://pan.baidu.com/s/15r-S8DDRjwlQF0wepWEmcg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwc/",
   },
 
@@ -59573,6 +59923,7 @@ export const bookItems = [
     excerpt: "一觉醒来，决斗水平下降为万分之一？一觉醒来，决斗环境倒退二十年！一脸懵逼地在决斗怪兽风靡全球前就当上了老童实野市正黄旗，还是初代决斗王武藤游戏的同班同学隼人表示，事已至此，先打牌吧，我必须立刻拍出我的塔玛希——等等，身为主角的我不该起手超时代主流卡组吗，怎么是凡骨杂鱼均？但是没有关系！我直接把我的怪兽解放——为了大义献身吧！ 群号：316486071",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwd_这就是牌佬的世界吗？亚达贼！1-2098章.txt",
+    readUrl: "https://pan.baidu.com/s/1U0Uvmj_6LS8oikXr7YHWCA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwd/",
   },
 
@@ -59608,6 +59959,7 @@ export const bookItems = [
     excerpt: "“我叫余东，是一个重生者，每次死亡后都会回到末世降临的7天前。” “上一世我遇到了一个女孩，她叫柳叶叶，我们在末世一起相互扶持，生活了很久，还有了一个可爱的孩子，可惜最终我们全家死在了尸潮里...” “所以，这一世重生后我找到了孩他妈，为了取信她，我说出了她的家庭住址、她的卧室布局、她的衣柜材质、她每条袜子的手感和每条内酷的图案...” 在路边拦住余东的警察蜀黍点了点头。 “好了余先生，关于您被柳",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwf_末日边缘1-485章.txt",
+    readUrl: "https://pan.baidu.com/s/1sL5mRMQ8SwEAN14cmkgZcA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwf/",
   },
 
@@ -59641,6 +59993,7 @@ export const bookItems = [
     excerpt: "相依为命的爷爷去世后。方浩继承了家里唯一遗产：龙江水库。谁曾想，他家的水库可以连通各种江河湖海。甚至还有传说中的位面空间水域；自此，连接贝加尔湖、连接四大海洋、连接修仙世界无边海、连接洪荒大陆混沌海等。...钓鱼佬：卧槽！有巨物！必须盘它！科研专家：不可思议！未知的生物！颠覆现有科学体系！全球大佬：哦买噶！这是传说中的神龙！吃了它是不是可以长生啊？？？...一个偏远地区的水库。变成了全国甚至于全世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwh_为盘我水库，全球大佬狂砸百亿1-367章.txt",
+    readUrl: "https://pan.baidu.com/s/1MkOXtQX_AyYA1UrFrK2e5A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwh/",
   },
 
@@ -59676,6 +60029,7 @@ export const bookItems = [
     excerpt: "遮天精品同人，高订过万，放心食用悟道、仙种、祭灵、真仙、葬域……元亘在仙古时代的原始古界崛起，合无缺道种，铸仙王根基，年纪轻轻便踏足极道领域而后，仙古末年那场血战爆发，他竭死鏖战，却难抵历史的洪流，被葬在太初古矿历经不知多少岁月，元亘在太古醒来……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwk_遮天：我自仙古来1-521章.txt",
+    readUrl: "https://pan.baidu.com/s/1mcGpNwqBrkau9bbhkzqPsg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwk/",
   },
 
@@ -59693,6 +60047,7 @@ export const bookItems = [
     excerpt: "“现在插播一位战犯陆谦。“据传他曾干过不限于以下的罪行：“在经营的餐厅中，将自己的顾客做成食物；“为了拉高医疗健康行业的股票，将污水管接到全城人的饮水处；“使用中子束残忍地灭杀一整个星球的外星人……“请各位市民警惕这位罪大恶极的战犯。”陆谦看着营销号文章里自己的大头照，陷入了懵逼。他就做个游戏，怎么成战犯了？次日，陆谦在《游戏观察报》中郑重澄清：“谁说我是战犯了？我们做的游戏，从来都是在弘扬真善美",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwl_让你弘扬真善美，你做战犯游戏？1-268章.txt",
+    readUrl: "https://pan.baidu.com/s/1-ogREaSqxu-d02isM-qBNQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwl/",
   },
 
@@ -59710,6 +60065,7 @@ export const bookItems = [
     excerpt: "【种田，生存，搜集，进化，发育】一夜之间，整个小区穿越到了生物异常的原始荒野世界，生存，成为了第一道门槛。食物、水源、疾病、猛兽、变异生物......当小区居民艰难适应后，却绝望的发现只是一个开始。每生存一段时间，小区就会继续穿越到更危险的区域。好在天无绝人之路，小区居民的每个家都是可以拓展的折叠空间，只要能获得卡牌，能在里面建造建筑，开垦农田，挖掘水源，饲养宠物，甚至建立招募所......秦子文",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwn_我们小区又穿越了1-461章.txt",
+    readUrl: "https://pan.baidu.com/s/1OB7tnOlQgTI-DUspdW5RSg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwn/",
   },
 
@@ -59726,6 +60082,7 @@ export const bookItems = [
     excerpt: "穿越斗罗大陆，白晨分别在三个时代获得了三个武魂。接下来有请——三眼金猊！斗二版本之子，帝皇瑞兽，极致之火极致之光双极致属性，体内拥有黄金龙的血脉，主属性精神力比双极致的副属性还强，命运属性更是能带来无限的惊喜。金发狮獒！斗三版本之子，狮类魂兽和犬类魂兽的祖先，自带领域，一万年修为力量堪比四十八万年暗金恐爪熊，万年金发狮獒足以压制不出全力的封号斗罗唐舞麟，而且不吃金龙王的血脉压制，战绩可查。暗魔邪神",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwo_斗罗：版本之子齐聚，但时代错位1-732章.txt",
+    readUrl: "https://pan.baidu.com/s/1DpSmt0u4fpkkVdU1Y4zOiA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwo/",
   },
 
@@ -59777,6 +60134,7 @@ export const bookItems = [
     excerpt: "对于哈迪斯来说，那一次1500人讨伐纳萨力克地下大坟墓的行动，他出于见识排名第九公会的心态参与。 但当那位名为「飞鼠」的不死者骷髅玩家，用绝对的实力，把他逼到墙角，一边夺取他的性命，一边用居高临下的口吻对他说「你也想起舞么?」的时候。 哈迪斯意识到他在YGGDRASIL的目标就只剩下一个,掀翻位于纳萨力克地下大坟墓的「安兹·乌尔·恭」这个异形种公会，并狠狠的把「飞鼠」踩在脚下，同时对他呸上一口老痰",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwt_骨王：王的覆灭1-629章.txt",
+    readUrl: "https://pan.baidu.com/s/1tsTvSLuinnVXrhThzx85ww?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwt/",
   },
 
@@ -59794,6 +60152,7 @@ export const bookItems = [
     excerpt: "在梦里，路明非能听见各种声音。（雾） 身为一个衰了十八年的家伙，路明非对于自己头顶的霉运一直都有着良好的认知，包括但不限于踩到路边的石子会摔倒，下雨天必定会被过路的车子溅一身水。 但有那么一天，风和日丽平平无奇，他的霉运倒霉了。 于是，他的人生就开始朝着魔幻的方向发展…… 【路明非用石子打爆奥丁的头！】 【其实七宗罪只是七把普通的刀，但它们不敢告诉路明非，所以它们就能杀死龙王！】 【路专员是我们执",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwu_龙族：我路明非没有开挂！1-384章.txt",
+    readUrl: "https://pan.baidu.com/s/11t_GPe8krzz7R615Xs8oMw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwu/",
   },
 
@@ -59810,6 +60169,7 @@ export const bookItems = [
     excerpt: "钟表可以回到原点，但我们永远也不可能回到昨天。自从黄山来到这个战火纷飞的年代，哪怕是极端派也觉得他太极端了。陆光达、五师学弟：局长，此武器有伤天和，你要三思而后行啊！黄山：我的人生准则中没有杀戮过重这个字眼。从中条山开幕式的空袭，再到西太的舰队决战，我只相信科技才是真理。你们都闪开，鬼子们都喊着七生报国了，那我肯定要让他们一亿玉碎！我一个种蘑菇的老农，能有什么坏心思？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwv_抗战：来自钢铁雄心的工程师1-317章.txt",
+    readUrl: "https://pan.baidu.com/s/1I66xCD7YD9nH2Eses80EKw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwv/",
   },
 
@@ -59845,6 +60205,7 @@ export const bookItems = [
     excerpt: "【斗罗大陆同人】、【反三虐刚】、【乐子文】新书——斗罗，蓝银双生，唐三敬我如父穿越斗罗，我竟成为了那个被三锤打爆的教皇千寻疾。笑死，既来之则安之，愚蠢的斗罗土著们看哥们儿来给你们秀一手极限操作。等等，我的武魂怎么变成了凯尔。嚯，居然还有一个莫甘娜？！就在他思考之际，手下来报。红衣主教：教皇大人，我们发现了一个双生武魂的先天满魂力天才！千寻疾：这样的极品恋爱脑我们武魂殿无福享受，上三宗谁出的价高，这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mwy_斗罗：穿越千寻疾，天使降临！1-410章.txt",
+    readUrl: "https://pan.baidu.com/s/1lR2lChL3nYsqJSbEDZ0Rrw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mwy/",
   },
 
@@ -59861,6 +60222,7 @@ export const bookItems = [
     excerpt: "乐队解散，从东京回到故乡神户，决定继承家业——位于海边的咖啡店“繁星”。但推开门，店内却已经有了一位新的继承人。“绝不会把继承人的位置，让给抛弃咖啡店，毫无责任心的轻浮之人！”对抛下咖啡店出走的他针锋相对的冷漠少女，寄居在此的失意漫画新人，相逢于梅雨季节的谜样少女。以及……分手后，从东京追杀他到神户的键盘手重女前女友。从继承咖啡店开始的恋爱日常。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mya_继承人小姐对我不太友善1-356章.txt",
+    readUrl: "https://pan.baidu.com/s/1h9OycUZkZpEsOsU9-XRmPg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mya/",
   },
 
@@ -59878,6 +60240,7 @@ export const bookItems = [
     excerpt: "白月光离开后，半岛少了一个纯情的男孩，却多了一个看狗都深情的人渣。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myc_半岛：白月光走后，我杀疯了！1-1248章.txt",
+    readUrl: "https://pan.baidu.com/s/1cOe2MerqiJXRI9Fo8j2d0Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myc/",
   },
 
@@ -59895,6 +60258,7 @@ export const bookItems = [
     excerpt: "（原神，提瓦特，崩铁）璃月是提瓦特一切财富沉淀的地方。自从摩拉克斯赐予璃月摩拉铸造之大权，为提瓦特的一切存在衡量其价值之后，摩拉便成了提瓦特唯一流行的货币（梅洛彼得堡除外）。我叫王缺。大王的王。可以缺德不能缺钱的缺。也是一个遵纪守法的璃月商人。只要你有钱，我愿意为您提供一切力所能及的帮助。当然，在提瓦特之外，若你有需求，请向【信息与价值之主】祈祷，我依旧愿意为你提供力所能及的帮助。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myd_从璃月开始的价值之主！1-809章.txt",
+    readUrl: "https://pan.baidu.com/s/1O79m0vhuiR7y2QpShT-BVg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myd/",
   },
 
@@ -59912,6 +60276,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myf_都重生了谁还做演员啊1-567章.txt",
+    readUrl: "https://pan.baidu.com/s/1Z_-fG_X6LCutP-FgvfsKVg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myf/",
   },
 
@@ -59928,6 +60293,7 @@ export const bookItems = [
     excerpt: "再睁眼时已非人身，成了一头披鳞带角的野兽，甚至还是以残忍暴虐闻名的红龙。不负责任的父母、自相内斗的兄弟、以及不远处的屠龙者已经开始虎视眈眈。但好在能抽取怪猎世界的生物模板，冥赤龙的永动器官，黑龙的不死神心，煌黑龙的全属性掌控……，看我如何神之一手，逆天翻盘！等等！！这个肥硕的家伙是什么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myg_红龙的怪猎模板1-568章.txt",
+    readUrl: "https://pan.baidu.com/s/1GcaiX9EV141mblwiijufLQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myg/",
   },
 
@@ -59945,6 +60311,7 @@ export const bookItems = [
     excerpt: "黎铭被轮回空间选中，成为一名在熟悉的动漫世界中穿梭，完成任务艰难求生的轮回者。 他本以为觉醒的S级天赋是自己最大的金手指，直到他听到了一个又一个奇怪的情报： “五条悟是世界最强，不管打谁都会赢的！区区两面宿傩，不过一个出生在没有五条悟大人时代的凡夫罢了，完全无法让五条悟大人尽兴！” “芙莉莲只是个镀金的法三代，杀死魔王的其实是隐藏NPC赛丽艾！” “有能吃鬼的弟弟，还有能吸引鬼的特殊体质，风柱不死",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myi_从芙莉莲开始，只有我知道剧情1-335章.txt",
+    readUrl: "https://pan.baidu.com/s/13zEg0Lmf6OTHwX2t9v_BWA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myi/",
   },
 
@@ -59962,6 +60329,7 @@ export const bookItems = [
     excerpt: "“美女你好，冒昧打扰，我正在被女朋友们追杀，能在你这里躲一下吗？”那是一个雨夜，独居的苏瑶家中出现了一个彬彬有礼的陌生男人，但她一点也不慌，因为问题很大，慌也没用。“女朋友…们？看来要手打渣男丸的女人不止一个？”苏瑶深吸一口气，端起了咖啡。“别提了，要是一个我就不跑了，她们都快够一桌麻将了啊。”男人叹了一口气，说出了自己的处境。“快够一桌麻将？那到底是三个还是四个？”苏瑶优雅的喝了一口咖啡。“不是",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myj_模拟人生通关，你管这叫福利回？1-469章.txt",
+    readUrl: "https://pan.baidu.com/s/1Bi_6T3hzM-__N297TxGJMA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myj/",
   },
 
@@ -59979,6 +60347,7 @@ export const bookItems = [
     excerpt: "【多女主＋后宫文】一个练习了两坤年的练习生，靠着献身当红女艺人，走后门混入《偶像练习生》节目，凭借一首《告白气球》口水歌c位出道，在这娱乐圈书写自己的故事..... 建了个书友群，有兴趣的看官可以加一下：992589814",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myk_华娱：最强练习生1-894章.txt",
+    readUrl: "https://pan.baidu.com/s/1pqH7nLHv2woNjmg09gFrfQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myk/",
   },
 
@@ -59995,6 +60364,7 @@ export const bookItems = [
     excerpt: "“如今的忍界是扭曲的，因为忍界中有许多‘恶’的存在。这些‘恶’造就了乱象局势，滋生了数之不尽的痛苦、灾难、悲剧……”“苛捐杂税大名、权力熏心的高层、屠杀全族的畜牲、脑子有病的舔狗……这些虫豸如果继续存在于忍界，忍界将会愈来愈病态。”“而我，将会以绝对的正义，肃清整个忍界！”——奉行［绝对正义］理念的木叶上忍“宇智波池泉”，如是说道。绝对的正义，可使正义不会迟到。……ps：已有高订数万的完本火影同人",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myl_木叶：宇智波的绝对正义1-466章.txt",
+    readUrl: "https://pan.baidu.com/s/1rSZs858Bih2R0u8nYX1PCQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myl/",
   },
 
@@ -60011,6 +60381,7 @@ export const bookItems = [
     excerpt: "穿越了。好消息，乔凭借才华与努力，成功地从一名普通工人成为了一名成功的商人与发明家。坏消息，世界大战爆发了，就算是多财多亿的乔，现在也要去前线填线了。乔并不想参加这场和乔无关的战争，并且总是想用各种方式逃离这场与他无关的战争。然而在这个过程中勋章与荣誉却像是雨点般向乔打来，他们称乔为帝国英雄，旧大陆最危险的男人，传奇指挥官，布尼塔尼亚第一恶汉，不死老乔，军人的典范。面对这一切，乔只有一个想法“啊？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mym_帝国精英1-235章.txt",
+    readUrl: "https://pan.baidu.com/s/1_As0SYL16vCCBzXEu_GYMA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mym/",
   },
 
@@ -60027,6 +60398,7 @@ export const bookItems = [
     excerpt: "飞机失事，孤身落入异域自以为穿越的齐轩，意外获得直播系统只要积累人气值，就能抽取各种资源为此，他开始向八十二亿蓝星同胞们直播他的异界之旅——“这是地螺树，叶片排列可用来指示方向。”“这是沙棘兽，唯一的弱点是在菊花。”“我来给大家变个魔术。”“没错，我就是修仙者！”“这一招叫《飓风拳》，在飓风里面就能练成，很简单的。”“今天教大家的是《乐极升天功》，只要快乐修行，就能飞起来。”……而在蓝星上：“下面",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myn_我都元婴了，你说我没穿越？1-434章.txt",
+    readUrl: "https://pan.baidu.com/s/1j-C4LWEl7WBfEWVFFlKrkg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myn/",
   },
 
@@ -60044,6 +60416,7 @@ export const bookItems = [
     excerpt: "[不能越阶而战算是什么怪物？][所谓怪物的命运，就是注定将世界搅得天翻地覆！][让世界听见神的哀嚎！]路明非:“？？？”“喂喂喂，上面是哪来的中二病语录，我TM只想通个关回家好吧？” 总之，这是个路明非意外降临斗罗大陆成为路神人的故事。本书又名:《路神人养成二三事》《路明非的白色相簿》《路明非是世界破坏者》堂堂连载，敬请期待！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myo_路明非从斗罗开始1-440章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZIoaCF-BZrQvkN_x6hXOTw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myo/",
   },
 
@@ -60060,6 +60433,7 @@ export const bookItems = [
     excerpt: "重生来到吞噬星空，觉醒了武神系统，孟凡本以为自己能在金手指的帮助下崛起，直至踏上这浩瀚宇宙的最巅峰，但在系统激活之时，他直接傻眼：”什么叫拳力达到三百公斤便是顶流高手？“”我这明明是学徒一阶，你说我解锁成就‘武道宗师’？“”刚行星级，就解锁成就‘超脱’？“合着是低武世界的武神系统！这在吞噬星空里能有什么用？等会......武道宗师，奖励词条——灵窍顿开（悟性提升至原初的150%，参悟或创造招式事半",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myp_吞噬星空，你给我来个低武系统？1-377章.txt",
+    readUrl: "https://pan.baidu.com/s/1JqdXo_7RifTtFYrVM1zS0Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myp/",
   },
 
@@ -60077,6 +60451,7 @@ export const bookItems = [
     excerpt: "周然重生在1992年鹏城。白手起家，从一碗秘制猪脚饭做起。他紧跟这个年轻城市的步伐，一起走向世界，最终建成一个庞大的餐饮帝国。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myq_重生鹏城：从猪脚饭到实业帝国1-473章.txt",
+    readUrl: "https://pan.baidu.com/s/1G44j9sLU9l4wGMc9kzubpA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myq/",
   },
 
@@ -60094,6 +60469,7 @@ export const bookItems = [
     excerpt: "东汉末年，帝室衰微，皇纲失统，群雄逐鹿于中原。时值建安，刘备拒袁术于淮阴，吕布伺机袭取下邳，掳刘备妻子儿女。恰在此刻，一双来自后世的眼睛缓缓睁开。“今汉道陵迟，朝廷播越，四海之内皆为乱贼。”“吾乃汉室宗亲，中山靖王之后，刘玄德之子，值此乱世，当效高祖提三尺剑而定四海，续炎汉四百年国祚。廓清寰宇，兴复汉室！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myr_季汉1-529章.txt",
+    readUrl: "https://pan.baidu.com/s/1IcYuNTJ-IMC82naXEYff1Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myr/",
   },
 
@@ -60128,6 +60504,7 @@ export const bookItems = [
     excerpt: "职业球员杨开瑞穿越2009年，成为同名饱受伤病困扰的曼联青训天才开局加载比球王强‘亿’点的绿茵球主系统，太怕受伤选择先加满耐造！没想接连获得花哨的德尼尔森踩单车、迪马利亚插花脚、里克尔梅穿裆、内少彩虹过人等球星技……于是，他顺势而为。从花哨球风开始！通过拉满的足球天赋和卷死同行的自律，在欧洲主导的无差别模板化球员全球产业链中脱颖而出，把华丽的个人秀拉回到T0战术体系随着系统1.0版本由简入繁升级到",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myv_这个边锋实在太能进球啦1-515章.txt",
+    readUrl: "https://pan.baidu.com/s/1I_3ApOzqPoNmo01DddjJcA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myv/",
   },
 
@@ -60144,6 +60521,7 @@ export const bookItems = [
     excerpt: "“焚烧FBI探员尸体，获得词条【情报洞察】！” “焚烧传奇拳王尸体，获得词条【拳法巅峰】！” “焚烧A级诡异·警笛头尸体，获得词条【灵魂广播】！” “焚烧S级诡异·枪之恶魔尸体，获得词条【退魔圣焰】！” …… 都市的角落暗藏杀机，堆叠的尸体滋生诡异。 苏隆穿越平行世界的美利坚，成为了一名联邦烧尸工，意外激活了【烧尸人系统】！ 只要不断焚烧人类和诡异的尸体，就能获得各种词条！ 他原本只想靠着系统活下",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_myx_美利坚：烧尸人1-386章.txt",
+    readUrl: "https://pan.baidu.com/s/1a_8uJXJdm7hWBPQeak7cIw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/myx/",
   },
 
@@ -60177,6 +60555,7 @@ export const bookItems = [
     excerpt: "穿越平行世界获得人气系统的叶真。成为了电视台的一名主持人。只要科普就能获得人气值。“氧气其实是有剧毒的，你们相信吗？”“不呼吸可以活得更久哦！”“其实我是秦始皇，v我50给你发不死灵药。”“广播体操真的是修真功法，你信我。”“上古时期的传说和神话一切的一切都是真的。”“有没有可能我们人类并不是第一代文明呢？”“女娲补天，羿射九日，盘古开天，这一切的一切……”“都是曾经真实发生过的啊！”（内容纯属虚",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mza_科普氧气有毒，全网骂我有病1-1720章.txt",
+    readUrl: "https://pan.baidu.com/s/1xfQf_-FN_pJx8o2jrhTIxA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mza/",
   },
 
@@ -60194,6 +60573,7 @@ export const bookItems = [
     excerpt: "“陈寅，只要你跟她分手，以后你想对我做什么都可以！”“真的？”“嗯！”“把你小姨介绍给我。”“？”重生2017，阶层跃迁的机会越来越少。陈寅只好从最low的生意做起，打造上门按摩第一股！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzb_重生后姐姐们都向我喊忠诚！1-301章.txt",
+    readUrl: "https://pan.baidu.com/s/12yf-LKMvFDWbeHSk5FIMnw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzb/",
   },
 
@@ -60210,6 +60590,7 @@ export const bookItems = [
     excerpt: "坏消息：林一来到了咒术回战的世界。好消息：他成了一名咒术师！林一觉得自己很倒霉，莫名其妙来到了咒术回战的世界，好在运气不错，落地就送一个本土化的金手指，术式·两级反转。林一：我有两个形态，一个是cos无限剑制的咒术师形态，一个是cos有成长属性的天予暴君·假面骑士形态，你想跟我哪个形态打？嘿嘿，这下子哥们就不用怕宿傩了，报告导演，我已经准备好排队根宿傩打架了。等会，什么叫宿傩还没出场我要先打五条悟",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzc_咒术回战：我的术式名为假面骑士1-197章.txt",
+    readUrl: "https://pan.baidu.com/s/1TwccB2dgMUlQQ0juZFhTpQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzc/",
   },
 
@@ -60226,6 +60607,7 @@ export const bookItems = [
     excerpt: "“他是百年间，这个世界上最为神秘的那一抹阴影。”——乌丸莲耶 黄昏之馆血色夜、宫野夫妇的小诊所、大火中的药物实验室、纽约银发杀人魔、命运之始多罗碧加…… 黑暗的幕后，一只不老不死的手，正悄然拨动着柯学世界的历史轨迹。 书友群928275283欢迎来喷。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzd_柯南之百年柯学1-422章.txt",
+    readUrl: "https://pan.baidu.com/s/148GwKHRRsBmY6_SQfcVkBA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzd/",
   },
 
@@ -60242,6 +60624,7 @@ export const bookItems = [
     excerpt: "1800年过去，人们还是希望丞相赢。汉建兴六年，公元228年一月，一个叫方敏的年轻人来到了季汉巴西郡汉昌县。这一年曹叡刚刚登基不足两载，平定内乱，抵御外敌。这一年诸葛亮一出祁山，攻破陇右，包围上邽。这一年司马懿千里奔袭孟达，用兵神速。这一年，马谡与张郃相遇于街亭。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzf_自曝身份，我在季汉当副皇帝1-304章.txt",
+    readUrl: "https://pan.baidu.com/s/1BLvHTxtZ6YtoYUFgGH2dmw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzf/",
   },
 
@@ -60258,6 +60641,7 @@ export const bookItems = [
     excerpt: "穿越到MyGO和Ave Mujica的世界，南云雨月并不想参与进各大地雷少女的争端。 带着有关未来的些许记忆，抄抄歌和小说，当一个文抄公，或许是一个不错的选择。 直到那一天，在一次被邀请参与若叶家的晚宴时，南云雨月突然看到了若叶睦点燃的黄金瞳： 【16岁，你在没有卡塞尔学院新生引导员的帮助下，真正打开了这个世界的大门】 【恭喜你，见证了‘黄金瞳’（白王血脉）的觉醒】 南云雨月：？？？——！！！ 说",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzg_说好组一辈子乐队，龙族什么鬼1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/1RVRUKBvqQICSpQ9z0rj_pw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzg/",
   },
 
@@ -60275,6 +60659,7 @@ export const bookItems = [
     excerpt: "梦回2013，重启人生意外激活预支系统，还解锁了剪辑视频神技!中日武术交流大赛上,直接开挂的他，一掌KO岛国拳王，顶着全国武术冠军的头衔勇闯娱乐圈。别跟他扯什么背景人脉，吹嘘什么身手厉害，在他绝活哥叶少卿面前，统统都是乐色。踢瓶盖、凌空踢剑、鸟不飞、剑劈子弹，释迦掷象，一指禅，精武指，四两拨千斤，天外飞龙、神拳一千八，徒手扒飞机，隔山打牛，铁腿水上漂……一个又一个只存在于传说中的绝活被他一一实现。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzh_巨星之路从表演绝活开始1-1031章.txt",
+    readUrl: "https://pan.baidu.com/s/1IR1r8pVwUECCdSxZsWP5EA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzh/",
   },
 
@@ -60292,6 +60677,7 @@ export const bookItems = [
     excerpt: "穿越综武世界，成为刀法宗师西门长海的传人。“我师兄是西门吹雪！”“我师弟是独孤求败！”徐青崖本以为拿的是豪门剧本。谁知师父只丢来两本江湖大路货——《五虎断门刀》与《春秋刀法》。徐青崖吐槽：“这种烂大街的功夫，有个毛用？”直到他一招“虎啸”，凝煞成罡，惊天地，泣鬼神，撕天排云，血染苍穹；直到他一招“冠绝”，刀意冲霄，武圣残魂震动，传下冠绝天下的倾城一刀；此时他才发现，这个江湖有点不一样：这个世界，有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzi_综武：夫人请我当魁首1-483章.txt",
+    readUrl: "https://pan.baidu.com/s/1rsDAhQjTok7qdZkNU8k8SQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzi/",
   },
 
@@ -60309,6 +60695,7 @@ export const bookItems = [
     excerpt: "一朝穿越木叶，时值三战前夕。幸好觉醒了“忍界galgame系统”。原本以为能在系统帮助下，开启人生躺平模式的三上悠，发现自己的攻略对象有点奇怪……“悠，为何你的忍术威力比别人大这么多？”“这个嘛……你应该多跟忍术聊天，提升忍术的好感度，偶尔给忍术送送礼物，然后在某个特殊节日里和忍术有特殊互动，最后在忍术内心神秘事件中，向它表白，最后忍术同意跟你在一起，就可以忍术大成了！”“你为啥不相信啊，旮旯给木",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzj_火影：我的攻略对象全是忍术1-367章.txt",
+    readUrl: "https://pan.baidu.com/s/1fdQduYIMkGy-zInj-rKI-g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzj/",
   },
 
@@ -60326,6 +60713,7 @@ export const bookItems = [
     excerpt: "穿越了，同时穿成九十九个世界的龙一人成族 c级混血种不要怕，英雄协会的c级英雄其实是隐藏的龙级怪人 侏罗纪公园太危险？给你来点变形金刚恐龙的震撼！ 喷火龙打不过裂空座？战斗暴龙兽有话要说！ 苦逼流龙娃太虐主？都市龙傲天来拯救你！ 开局布加迪威龙，手把手教你升级亥伯龙神战列舰 一把屠龙刀，圆你巨灵龙的神兵老将梦 乖乖个龙地洞，凯多D青龙又是什么鬼？ 你是龙王？牛…等等，下棋的龙王是哪个？ 李昂：摊牌",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzk_同时穿越：龙族分身流的龙之众1-756章.txt",
+    readUrl: "https://pan.baidu.com/s/1DetsgXee_73ayzlblSah4w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzk/",
   },
 
@@ -60342,6 +60730,7 @@ export const bookItems = [
     excerpt: "穿越者苏瞳最近发现了许多人的秘密。同桌衰仔是世界上最大的怪物、做厨娘的雇主家少爷是永燃的瞳术师、游戏好友线下居然是大小姐…至于蜗居合租的室友，她是耶梦加得，龙王耶梦加得！好在，她也不是普通人，获得职业［塑灵术师］，天赋如下：［死亡预感］：感知周边五十米范围内将死之人，以倒计时的形式。［复燃］：杀死的生命，将以悲叹的仆役形态复苏，听从您的号令。永不停息的暴雨之夜，倒地的死侍群身上燃烧起紫色的死火，以",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzl_龙族：请奴役众生吧！魔女大人！1-498章.txt",
+    readUrl: "https://pan.baidu.com/s/1RKTyFYLdBIciUuanPDfaGw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzl/",
   },
 
@@ -60358,6 +60747,7 @@ export const bookItems = [
     excerpt: "新书已发《大明太子的创业生涯》（种田+家族+变革）这是一个大唐帝国冉冉升起，正要迈步前进，一切伊始的时代。它就像一个刚刚学会走路的娃娃，不知什么是风雨，不知畏惧。大唐帝国在未来的路上走错了方向也没什么，那就在错误的方向多走两步吧。李承乾对众人道：“没关系，总会好起来的。”终于，太宗皇帝李世民指着群臣怒骂道：“你们看看，太子将朕的大唐祸害成什么样了！”“……”李世民指着众人再怒道：“你们这些人就惯着",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzn_大唐太子的悠闲生活1-572章.txt",
+    readUrl: "https://pan.baidu.com/s/1AF7hZ3kNiJmnAu5Hps0eyg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzn/",
   },
 
@@ -60375,6 +60765,7 @@ export const bookItems = [
     excerpt: "本书都市年代、商战、娱乐文。1955年，霍建明重生香港。这时期的香港，遍地都是捡便宜的好机会，也是截胡的好机会。霍建明很无耻的开始了各种截胡，只要在这个世界还没有出现的，那都是我的！清霞、白娘子还有红姑，我截胡哪一个比较好？哎，做选择题太麻烦了，都截胡了行不行？还有一众香港超级大富豪的发家史，自己都很清楚，截不截胡，该怎么截胡？对了，金庸好像还没有动笔写他的武侠小说，截不截胡？还有那个什么五亿探长",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzo_重生1955，我在香江截胡1-406章.txt",
+    readUrl: "https://pan.baidu.com/s/1-W6uqMIyMj42PmACxPvpGQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzo/",
   },
 
@@ -60445,6 +60836,7 @@ export const bookItems = [
     excerpt: "【想我堂堂八道之上、白头大干尊神、令半岛所有鬼怪闻风丧胆的存在！怎么能天天处理家族矛盾呢？】 崔时安向上天无声控诉：“我当年也是受害者呀！！” ——“欧巴，我做了你前世最爱吃的羊肉饼～” “狡猾的高句丽小贱人，又假扮贤妻良母讨人欢心！” “可恶的新罗婢！故意找茬是吧？” “不要吵架噢～欧巴听见了会生气的。” “闭嘴，这里还没有百济妖女说话的份！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzt_半岛：我被顶流偶像供养了1-463章.txt",
+    readUrl: "https://pan.baidu.com/s/15usCneGV59Ukxf9jZXjt6w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzt/",
   },
 
@@ -60480,6 +60872,7 @@ export const bookItems = [
     excerpt: "（非直播流，非国运流，原创副本，无限流） 规则一：千万不要让他们知道你能看见。 “崽种，直视我。” 规则二：在公交车上要有自己的座位。 “尊老爱幼是传统美德，来，头上都是西瓜汁的老奶奶，这座位是你的了。” 规则三：对于热情好客的邻居，直接离开是不礼貌的事情。 “行，那我走。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzw_我在规则怪谈里无视规则1-244章.txt",
+    readUrl: "https://pan.baidu.com/s/1GfMdmouzcPCQz-l0mbJhpw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzw/",
   },
 
@@ -60496,6 +60889,7 @@ export const bookItems = [
     excerpt: "【如果全人类把希望寄托给一个人，文明就会好走吗？】…“当你看到这行字，赌上一切的星球生死游戏已开始，唯有赢到最后，方能赢回故乡文明”“我是苏明安，拥有仅我得知的死亡回档能力”“我严守着，星球侵略者也不知道的秘密——每当文明陷入绝望，我是唯一能回到过去，改变悲剧的人”“人们说我是——【最强的第一玩家、黑暗游戏的火炬、文明最后的引灯者】”“丧尸世界的救世主、人狼镇的占卜师、魔幻世界的恶龙、海妖之世的神",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzx_第一玩家1-1766章.txt",
+    readUrl: "https://pan.baidu.com/s/1tBmNoRagWhw8F2xufLRghA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzx/",
   },
 
@@ -60531,6 +60925,7 @@ export const bookItems = [
     excerpt: "李自成，“老朱家人心丧尽，合该俺老李得天下！” 张献忠，“皇帝轮流做，明日到我家！” 多尔衮，“天命于大清，入中国为天下主！” 明朝崇祯帝自缢，南明弘光帝瑟瑟发抖。 河南登封，魔王高欢降世，异军突起，以天下布武的决心，结束动荡的乱世。 李自成说俺挡他道了，杀！ 张献忠割据不臣，杀！ 多尔衮南侵，你也敢觊觎中国，杀！杀！ 明朝皇帝，东南资本家，不服改造，杀！杀！杀！ 魔王降世，天下布武！使天下遍布武",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_mzz_武布中华1-1584章.txt",
+    readUrl: "https://pan.baidu.com/s/11QkPWLUL8TXInkIcoFQaLA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/mzz/",
   },
 
@@ -60548,6 +60943,7 @@ export const bookItems = [
     excerpt: "物理法则正在死去，世界沦为疯狂的草稿。我们所熟知的一切常识，正在缓慢失效。突发的癌症、山顶的鲸尸、公路上的蛇眼……当现实分崩离析，理智能否带我们到达终点？读者群:974541229。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_n_异常纪元1-491章.txt",
+    readUrl: "https://pan.baidu.com/s/18gcvH447bdR4KdMh7LCmsQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/n/",
   },
 
@@ -60583,6 +60979,7 @@ export const bookItems = [
     excerpt: "崇祯七年春，气焰嚣张的高迎祥等部即将迎来至暗时刻。黄台吉正摩挲着由孔有德带来的红夷大炮，筹划着西征全歼林丹汗。紫禁城里，将尧舜视作目标的朱由检还在因为大旱、兵变、瘟疫、财政紧缺等问题焦头烂额。西域的卫拉特联盟宣告分裂，固始汗正准备南下青海，准噶尔开始扩张。大势所趋下，西北临洮卫的兵卒因缺饷缺食而准备造反，但在此之前，他们决定推举出个替死鬼…… “易姓改号谓之亡国，胡虏入关谓之亡天下；明可亡，而天下",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nc_匹夫有责1-720章.txt",
+    readUrl: "https://pan.baidu.com/s/1pQcw7wGBpO5NLDhe5uq96A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nc/",
   },
 
@@ -60600,6 +60997,7 @@ export const bookItems = [
     excerpt: "穿越进变种人的世界，陆辰却成为了一个普通人。好在有金手指。“入职披萨店，获得无限披萨盒。”“入职清洁公司，获得水晶湖男孩。”“入职囚犯，获得无限囚犯魔药。“……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nd_美漫：我是怪谈1-359章.txt",
+    readUrl: "https://pan.baidu.com/s/1_hf0w0R7m9NoWPRXjVjyWg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nd/",
   },
 
@@ -60617,6 +61015,7 @@ export const bookItems = [
     excerpt: "天城光穿越到了一个似是而非的《游戏王GX》决斗学院之中。这里充斥着认为只有融合召唤才是最高贵召唤方式的极端狂热者，他们试图通过决斗的方法改变其他次元决斗者的思维，迫使他们加入“融合绝对至上”派系。若是不从，就要将人变成卡片，可谓扭曲又疯狂。天城光看了一下自己卡盒里全套的融合魔法、陷阱卡，沉默良久，欣然认可。对，太对了。你说的极对。融合是最高贵的召唤方式！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ne_融合是最高贵的召唤方式！1-931章.txt",
+    readUrl: "https://pan.baidu.com/s/1xEhHreOFueBbEndniNM_Ig?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ne/",
   },
 
@@ -60634,6 +61033,7 @@ export const bookItems = [
     excerpt: "内娱大时代轰轰烈烈的震响，摇撼着浮躁的人心。在这个物欲横流，三观崩塌的圈子里。人吃人才能走得更高更远。看着身边川流不息的人群，嘈杂的，聪明的，狡诈的，两面三刀的，汲汲营营的……所以恭喜内地电影人里又出了一个“叛徒”。从踏上这条光影之路时，白魏只想好好拍戏。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nf_最佳导演之20001-1497章.txt",
+    readUrl: "https://pan.baidu.com/s/180cLoJiP0NrxMp9b9wFmsg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nf/",
   },
 
@@ -60650,6 +61050,7 @@ export const bookItems = [
     excerpt: "一个癫佬的爬塔之旅。这是别人眼里的三塔游戏铁律：1：禁止在欲塔里制造杀戮，欲塔是一座充满爱的塔，请用爱来攀登欲塔。2：杀戮是戮塔唯一的通行证，所有的戮塔生物，都是人类的敌人，请不要试图和怪物交流。3：远离诡塔，幸福万家。这是闻夕树眼里的三塔游戏铁律：1：欲塔里全是不会杀戮的肥羊。2：戮塔里的怪物强力又可靠，真是义父集中营。3：我超爱诡塔的。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ng_三塔游戏1-678章.txt",
+    readUrl: "https://pan.baidu.com/s/1A_P0maQdUyafNoD_AHhgVA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ng/",
   },
 
@@ -60666,6 +61067,7 @@ export const bookItems = [
     excerpt: "影视剧司审核部三级科员林星灼，重生到2009年，发现自己成为了一家煤老板投资的影视公司签约艺人。六公主频道的《世界电影之旅-资讯快车》。第一条新闻：“流行天王迈克尔・杰克逊因心脏骤停逝世……”第二条报道：“晋阳省发布《关于进一步加快推进煤矿企业兼并重组整合有关问题的通知》”林星灼：“……”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nh_重生之煤老板旗下的艺人1-575章.txt",
+    readUrl: "https://pan.baidu.com/s/1CtxAJNKbmNY3vCSkKovmYg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nh/",
   },
 
@@ -60683,6 +61085,7 @@ export const bookItems = [
     excerpt: "茅山坛，人皮灯笼，请神。 通臂八卦，风蛊傩舞，四面方相，术数惊奇暗通天。 九层狱，七重山，炼金，食尸， 娑婆堪忍，五浊恶世，众生颠倒，不差你我。 大家好， 我叫陈瑛，能文能武，长相十分乃至九分英俊。 我生在春风里，长在红旗下。经历了一次非必要但是剧烈的阵痛之后，成为了非传统宗教的一名打工人。 现在的人生目标是寻找宇宙万法之源头，成为精通世间玄奥秘术的贤者。 我司历史悠久，传承有序，专业承揽各类土建",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nj_驱邪从食尸请神开始1-1075章.txt",
+    readUrl: "https://pan.baidu.com/s/14e1qMMrTiQJuzTkrjyiV6A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nj/",
   },
 
@@ -60700,6 +61103,7 @@ export const bookItems = [
     excerpt: "贾东明、华夏东南军区，猛虎特战连的连长，在一次境外打击恐怖分子的行动当中，为了救战友，被一发RPG给送到了五十年代，成为贾家从未存在的老大贾东明！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nl_四合院：我是棒梗的大伯1-1182章.txt",
+    readUrl: "https://pan.baidu.com/s/18j1t-AkWIRRAZ89zY8Pr_g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nl/",
   },
 
@@ -60717,6 +61121,7 @@ export const bookItems = [
     excerpt: "四合院里“人才”多，身处其中的于小石总算领教了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nm_四合院之一代传奇1-267章.txt",
+    readUrl: "https://pan.baidu.com/s/1-vPMCt_2ZaWkSObhiel5WQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nm/",
   },
 
@@ -60734,6 +61139,7 @@ export const bookItems = [
     excerpt: "【龙王传说同人，反三，不舔唐，天才流】 深渊来袭，魂兽重返，联邦一统，史莱克，传灵塔各据一方，唐神王万年大计悬落头顶。 龙王绝唱之时，江休穿越斗罗大陆，觉醒亚龙之祖紫煌灭天龙武魂，与永夜的主宰暗影君王。 但就在觉醒之时，一场突如其来的深渊潮汐，将江休的影子卷入深渊位面。 但这恰好是江休摆脱唐神王万年大计的一次契机！ 随着一声“站起来！”无数深渊生物的影子缓缓起立，润物细无声下，深渊位面逐渐更换了主",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_no_斗罗龙王：吾深渊圣主，永夜君王1-765章.txt",
+    readUrl: "https://pan.baidu.com/s/1hNBjZFDfflv0_5Ql_kn8Zw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/no/",
   },
 
@@ -60751,6 +61157,7 @@ export const bookItems = [
     excerpt: "秦复意外穿越到了轮回乐园的时空，本是打工人的他居然成为了猎杀者，原本性格温和的他却在第一次任务中遇到了一个追求永生的疯子，自那以后，秦复就开始变得越发不正常起来，当然别人并不这么觉得，他自己也不这么觉得，秦复看着面板上高的吓人的魅力值如是说道。苏晓：我一直都想不通，凭什么他的魅力值这么高，都把人用空间撕成碎片了，别人凭什么还觉得他是个好人，这简直就是危言耸听！！！——书友群：695417304所有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_np_轮回乐园：虚空法师1-1002章.txt",
+    readUrl: "https://pan.baidu.com/s/1w2q0P9rEtFfg32XdRCkj5g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/np/",
   },
 
@@ -60768,6 +61175,7 @@ export const bookItems = [
     excerpt: "当我的脚下是雷击艇的时候，你说你就是真理；当我脚下是战列舰的时候，究竟谁是真理？巨舰、大炮是每一个男人的梦想，一场史诗级海战，是每一个水兵余生的谈资，当你身处这片战场，头顶没有烦人的飞机，你只需要集中全部精神，面对敌人的战舰，全速炮击的时候；肾上腺素会让你忘记恐惧。真正的巨舰大炮对轰，我们一起来领略！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nq_海战：口径即真理1-698章.txt",
+    readUrl: "https://pan.baidu.com/s/1jM-MYvRv89z4QGV8eoDRUQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nq/",
   },
 
@@ -60785,6 +61193,7 @@ export const bookItems = [
     excerpt: "在第四十一个千年的黑暗中，唯有无尽的战争，还有……做不完的假账。罗维穿越到了帝国边缘的农业世界“丰饶二号”，成了一名随时可能过劳死的底层书记官。这里没有系统，没有灵能，只有吃不完的尸体淀粉、贪婪的官僚，以及随时可能降临的灭顶之灾。为了活下去，罗维不得不掏出前世的知识，在这个绝望的宇宙里艰难求生。直到有一天，年轻冷艳、陷入绝境的新任女总督，看懂了他藏在账本里的信号。“罗维，给我一个不杀你的理由。”“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nr_战锤求生指南1-566章.txt",
+    readUrl: "https://pan.baidu.com/s/1BmXwTO4gPEkfuHtI4JTDYA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nr/",
   },
 
@@ -60820,6 +61229,7 @@ export const bookItems = [
     excerpt: "瞧不起武者是不是？我是武学无上大宗师，不是粗鄙的匹夫。有朝一日，我掌握了武学真谛，就算是神魔亲临，也得跪在我面前！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nu_诸天轮回：我是无上大宗师1-380章.txt",
+    readUrl: "https://pan.baidu.com/s/1Su5d7cVc-pID-q8Qej7yzg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nu/",
   },
 {
@@ -60828,13 +61238,14 @@ export const bookItems = [
     title: "向日取火",
     cover: bookCovermnuyq,
     author: "金柜角",
-    date: "2026-10-17",
+    date: "2026-10-23",
     category: "玄幻",
     status: "连载中",
     chapters: "1-376章",
     latestChapter: "第353章 黑暗",
     excerpt: "罗岳不是神。罗岳很忙。上学，跑异响，玩游戏，养手办；寒暑假兼职补习班，抓恶灵，挖地洞。十分充实。罗岳喜欢这个世界。罗岳不是神。但，这是事实。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/1MN9whOa-zBh_9osn7knfsA?pwd=gtah",
     downloadUrl: "/books/m_nuyq_向日取火1-376章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/nuyq/",
   },
@@ -60871,6 +61282,7 @@ export const bookItems = [
     excerpt: "在火红年代，情满四合院的世界中，院里充斥着鸡毛蒜皮的算计。陈卫东作为一名穿越者，一边谈一场纯真爱情，一边吃瓜看乐子，还悄悄从铁路技工开始进步至铁路巅峰，然后悄悄惊艳所有人....又名：四合院外的火红年代",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nw_四合院：从铁路技工开始进步1-928章.txt",
+    readUrl: "https://pan.baidu.com/s/1VIKRQb9G2B9E5gydRCevnQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nw/",
   },
 
@@ -60888,6 +61300,7 @@ export const bookItems = [
     excerpt: "居然穿越成了许大茂，金手指又不给力，一众禽兽败坏了他的名声，既然如此，就别怪我反击了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_nx_四合院之许大茂，开局要吃绝户1-268章.txt",
+    readUrl: "https://pan.baidu.com/s/1jtZ-KcjYVz3gZJydxWslXg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/nx/",
   },
 
@@ -60904,6 +61317,7 @@ export const bookItems = [
     excerpt: "做个梦不小心开了通往现实的天门，虚幻维度的生灵，杀进了现实。给这个注定灭绝的宇宙又添了一种微不足道的末日。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ny_绝对之门1-670章.txt",
+    readUrl: "https://pan.baidu.com/s/1Se4hkisOz4y4Q6iFDBf6KA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ny/",
   },
 
@@ -60937,6 +61351,7 @@ export const bookItems = [
     excerpt: "小导演马寻穿越到1996年，他发现这个时代的娱乐圈，太好忽悠了！从一无所有，忽悠成了资本大佬！ PS：书友群864910302VIP全订书友群：931501848",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ob_忽悠华娱三十年1-1124章.txt",
+    readUrl: "https://pan.baidu.com/s/1Da54ln-gF6txcpvc-G52ww?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ob/",
   },
 
@@ -60954,6 +61369,7 @@ export const bookItems = [
     excerpt: "“求求你了！再出一款游戏吧，我们什么都会做的！”烂片导演陆凡，觉醒电影制作系统，却穿越到文化荒漠的平行世界，成为大夏的游戏制作人。当硅谷的科技巨头们还在开发数独消消乐时，陆凡用拍烂片的思路，将地球电影魔改成游戏，让玩家们享受顶级折磨——在肖申克监狱的生存模拟中，和姐妹花打黑拳；驾驶着蝙蝠车在哥谭市和小丑飙车；在霍格沃茨邀请斯内普代言洗发水；骑着霸王龙在侏罗纪世界的海边对战沧龙；面对着汉尼拔热情递上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_od_说好摆烂拍电影，年度游戏什么鬼1-649章.txt",
+    readUrl: "https://pan.baidu.com/s/1QxXhOClpRSLQLC-Tc6ZZjg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/od/",
   },
 
@@ -60971,6 +61387,7 @@ export const bookItems = [
     excerpt: "赵真：“我金遁流光修练至大成层次，一念之间瞬息千里，可堪绝顶？”张之维：“驱动此术需要特殊符箓，费时费力，如同月在长空，水中有影，虽然看见，只是无法捞摸。”赵真：“那我兼修通天箓，凭空随手画符，无cd低消耗，可堪绝顶？”张之维：“速度虽快，可无性命修为傍身，遇敌终究只能一味逃跑，也似镜里观花，欲摘不能。”赵真：“牛鼻子，我给你脸了！你非得逼我用金遁流光带你凌空飞渡万米，和你一起体验一次万米高空的极",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_oe_一人之下：请称呼我金色闪光1-685章.txt",
+    readUrl: "https://pan.baidu.com/s/12u0F9Fsda0ArS9sbsI6Rwg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/oe/",
   },
 
@@ -60987,6 +61404,7 @@ export const bookItems = [
     excerpt: "林木一觉醒来到了1979的香江。本想开始港岛文抄公之路，却被要求写悔过书。禁止院线上映？试问我直接开辟新赛道国外参展卖版权阁下如何应对？禁止演员参演？那我这招华娱演员拍港娱电影你又怎么看？《山狗》《雏鸡》《圣殇》《黑金》《周处除三害》……一部部电影出产，整个港岛慌了。“谁让你们惹他的，让他上，让他上映！”本书又名《港岛地下电影人》《华娱1979从港岛开始》已完本《华娱》《华娱之梦》，千万字娱乐文老",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_og_港娱1-627章.txt",
+    readUrl: "https://pan.baidu.com/s/1i2JjlAHPgLbQ5-yOtuvl4w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/og/",
   },
 
@@ -61004,6 +61422,7 @@ export const bookItems = [
     excerpt: "云气蕴养技术真厉害，材料学爆炸。“众所周知，左手倒右手，等于什么都有。”陈曦宣。“我出图纸，你出机床，我们一起做大做强。”群友宣。“文以载道，武能安邦，唯有奇观，兴国安邦。”万年重工宣。“七代舰灵，听我命令，从此刻开始，开启舰娘时代。”万年公主刘桐宣。星辰大海，有梦即可。［神三同人，如有冒犯，还请指正。］",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_oh_神三群聊：三国1-3822章.txt",
+    readUrl: "https://pan.baidu.com/s/1vzkrIazMeGBioWwMHb_5Zw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/oh/",
   },
 
@@ -61037,6 +61456,7 @@ export const bookItems = [
     excerpt: "林耀东一觉醒来，回到八零年代，看着面前还没积劳成疾的老婆，默默发誓，这一世，他一定要赚钱养家，照顾好老婆、孩子。 （年代文，日常、赶海、种田、养娃、悠闲文！）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ok_重回83小渔村，从养殖大户开始1-656章.txt",
+    readUrl: "https://pan.baidu.com/s/117w3fUOPDbh1pCTug3-fng?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ok/",
   },
 
@@ -61054,6 +61474,7 @@ export const bookItems = [
     excerpt: "大三实习生林默偶然发现自己的网购平台绝对保真，无论购买什么，都与商品介绍完全相符，一下子就打开了新世界的大门。 【粉色沙漠之鹰手枪，下单即送300弹：￥2.85】 【24k足金黄金葫芦挂件，7.8克捡漏价，￥1.89】 【《如何让富婆爱上你》，读完让你懂得女神的心；￥5.3】 看着这宛若拼夕夕价格的劣质商品，从一开始感觉自己被诈骗到最后的深信不疑。 林默：谁说这网购假了，这网购可太棒了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_on_我在网购平台薅的全是真货1-1388章.txt",
+    readUrl: "https://pan.baidu.com/s/1YhhVjje3_MPrQA5pNpI64g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/on/",
   },
 
@@ -61070,6 +61491,7 @@ export const bookItems = [
     excerpt: "意外得到辅助修仙的仙界学习机，王程本想公开修仙奥秘，开启全民修仙时代，但是却没人相信！于是，王程只好证明自己真的可以修仙！没有灵气怎么办？赚足够的钱自己造！一不小心打造出世界最大药企，解决大量绝症。没有修炼资源怎么办？赚足够的钱自己造！一不小心打造世界最大材料科技公司，建造最大地磁阵法，建造最大太空阵法！当王程最终孤身立于太空的时候，大声告诉世界：“我真的在修仙呀！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_oo_仙界学习机？可我在地球呀1-374章.txt",
+    readUrl: "https://pan.baidu.com/s/1-jrI-wAne1HdLf5P_X219w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/oo/",
   },
 
@@ -61122,6 +61544,7 @@ export const bookItems = [
     excerpt: "制片人方致远回到了1990年，回到了自己24岁的时候。他从李成儒手中忽悠到100万，利用海湾战争石油暴涨的机会，赚到了一个小目标，并成功拍摄电影《目中无人》，在海内外引发轰动。方致远本来打算从此躺平，没事拍拍电影，泡泡妞。然而此时北影厂负债将近4000万，连全额工资都快发不出来。厂领导找上门来，希望他能带领北影厂脱困。方致远接下了这个烂摊子，带领北影厂高速崛起。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_or_华娱1990，我是电影厂厂长1-745章.txt",
+    readUrl: "https://pan.baidu.com/s/11EmqdH0hmFKYDoKJnl-ceg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/or/",
   },
 
@@ -61138,6 +61561,7 @@ export const bookItems = [
     excerpt: "常红几十年的天王重生，来到了一个平行世界，不成想开局就面临被天后妻子离婚。 作为一个为了维持人设常年吃素挨饿，演唱会摔倒后，来到这个世界的天王宁修远，他可不想错过这么好的老婆。 “修远，刚还完你投资亏的2亿，你又亏了4亿，都说我是国民好老婆，可我真的好累，我想……” “老婆，想休息也是人之常情，这样，演唱会很累，唱完了去综艺吧，综艺就是带薪休假呀。 我立字据，我再也不会去投资了！”宁修远岔开话题。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_os_投资失败后，天后老婆让我吃软饭1-475章.txt",
+    readUrl: "https://pan.baidu.com/s/192GV89JM_rsVDTN9WTl8tg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/os/",
   },
 
@@ -61154,6 +61578,7 @@ export const bookItems = [
     excerpt: "“袁公啊，陛下听说您得了传国玉玺，不知可有此事？”“朕没有！休得胡言，我看朝中定有奸佞进谗言。”“真的没有？”“君无戏言！”“袁公，您这样，我很难办啊。”袁术紧握使臣双手，奉金银，言辞恳切。“朕本大汉忠良，奈何小人诽谤。使君此去，在朝中为朕美言几句，再有乱臣贼子妄议君父，休怪朕亲提三十万大军清君侧，治他们欺君罔上。”…袁胤：“堂兄既得玉玺，合该即皇帝位，受命于天，既寿永昌。”袁术：“胡言乱语！谁看",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ot_三国：朕，袁术，大汉忠良1-500章.txt",
+    readUrl: "https://pan.baidu.com/s/1f9zvHMKm9h0b1xiVjHDjXg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ot/",
   },
 
@@ -61169,7 +61594,7 @@ export const bookItems = [
     chapters: "1-408章",
     excerpt: "【多女主】【不圣母】【天才流】【斗破→武动（进行中）→大主宰】一方图册记载世间，演化万物天赋————获取生灵精血，从中提取血脉天赋、特殊体质、天赋神通，化为己用……————穿越斗气大陆，本以为拿的是废柴逆袭、纳兰退婚的剧本，正摩拳擦掌准备迎接主角的宿命，却没想到…… 萧青：我也没想到斗帝血脉它自己就觉醒了啊！古薰儿：萧青哥哥快来吃软饭~紫妍：为什么你一个人族，玩起空间之力来，比我耍得还厉害？虚无吞",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1XHXqD9uxKceJcGX9QkNjeQ?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/12_UajBY9kwU31TBIQ8y0ag?pwd=q7na",
     downloadUrl: "/books/m_ou_人在斗破，开局成为法则掌控者1-408章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/ou/",
   },
@@ -61188,6 +61613,7 @@ export const bookItems = [
     excerpt: "没有系统，没有金手指，那还叫穿越吗？穿越到水浒传的林克表示，要啥系统？我自己就是金手指！同时穿越诸天，每一个世界都有林克的存在，彼此互通有无，共享天赋能力！借助共享平台，各个世界的林克们在整花活的路上撒丫子狂奔！水浒林克：“宋江？赵佶？金人？看我用机械化军团横推你们！”武侠林克：“独孤九剑，风神腿，天外飞仙……修炼哪个好呢？”海军林克：“恶魔果实，我是吃还是不吃呢？”漫威林克：“从今天起，卡玛泰姬",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ov_同时穿越：从打造机械水浒开始1-369章.txt",
+    readUrl: "https://pan.baidu.com/s/1bOnQ95nyMmbsEqCwomLMFA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ov/",
   },
 
@@ -61205,6 +61631,7 @@ export const bookItems = [
     excerpt: "威斯克。史塔克。这是什么该死的世界啊，赶上穿越潮流的沈飞，不由的大声叫道。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ow_美漫之手术果实1-2414章.txt",
+    readUrl: "https://pan.baidu.com/s/13lflUYZrnaO8ABi3Njk2NA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ow/",
   },
 
@@ -61239,6 +61666,7 @@ export const bookItems = [
     excerpt: "世界大战、形势大好，正是秀操作之时，我有什么错，只是想要统治法兰西而已。 博卡萨抱着法兰西终身执政的大腿一把鼻涕一把泪，“我太想当皇帝了，我做梦都想啊，我太想了我，我要是当了皇帝，我一切都听你的，我会像是尊敬父亲一样尊敬你，我不想失去这个机会。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_oy_法兰西之父1-878章.txt",
+    readUrl: "https://pan.baidu.com/s/1hT46-sLuEeD9RL6gWbokSA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/oy/",
   },
 
@@ -61255,6 +61683,7 @@ export const bookItems = [
     excerpt: "光着屁股穿越到精灵世界怎么办？ 夏木告诉你。 首先，找到君莎。 然后，被逮捕。 最后，用装失忆的借口被送入精灵中心。 完成以上流程后，就可以在身无分文的情况下，获得了基本的衣食住。 “接着，就可以享受在宝可梦世界的幸福生活了！” 夏木点了点头。 “没错，只要不要脸，你也可以成为下一个我！你也想成为下一个我吗？顶流博主养成秘籍，限时惊爆售价只要19999！” “不要199，也不要1999，只要199",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_oz_宝可梦旅拍：从蹭热度开始1-631章.txt",
+    readUrl: "https://pan.baidu.com/s/1Wl2lFiCE9iBccZISgWXBHQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/oz/",
   },
 
@@ -61272,6 +61701,7 @@ export const bookItems = [
     excerpt: "魔都底层打工人林枫，一次城隍庙之行，意外获得一枚神秘【建村令】。当再次被房东嘲讽，无良领导欺辱，林枫愤然掀桌辞职：“老子不伺候了！”他带着建村令回到老家，激活令牌。【临仙村（1级）】水井（1级）：每日产生100立方米水资源，可加速植物生长，长期饮用可微弱调节体质。农田（1级）：抵御温度影响，作物生长周期显著缩短，产量提高，品质提升。仓库（1级）：存放的工具、木材、矿石等物资，减缓锈蚀、虫蛀和老化。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pa_乡村种田：我的建筑能升级1-423章.txt",
+    readUrl: "https://pan.baidu.com/s/1iZAnjzkl_8i5QTpnPGQmOg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pa/",
   },
 
@@ -61288,6 +61718,7 @@ export const bookItems = [
     excerpt: "“我乃温侯吕布，此处可是大汉？”陈逸经营着爸妈丢给他的农家乐，本以为是烂摊子，哪想到来的顾客全是古代豪杰？吕布：“我真是大汉忠臣啊，你看，我都三兴大汉了！”李世民：“我不当天可汗了，异族都给我乖乖的臣服！”班昭：“都说四大才女，现在才女都来了。”刘裕：“贤弟，要老婆不要？王谢两家怎么样？”吕布：“这感情好，江东大小乔要不要？”李清照、李丽质、蔡文姬……随着他们的到来，他们所处的时代也被陈逸这个现代",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pc_经营农家乐，开局吕布上门喝酒1-731章.txt",
+    readUrl: "https://pan.baidu.com/s/1-TAxmuJcZKjoa3_bnRRO-w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pc/",
   },
 
@@ -61305,6 +61736,7 @@ export const bookItems = [
     excerpt: "邀请知名博主琪嗨猜足球人物第一期：线索一：他的球风非常华丽，极具侵略性的同时观赏性十足。琪嗨：这太简单了，小罗嘛。回答错误。线索二：在他的职业生涯前期，他是一个优缺点都很明显的终结者，常常散着散着步球就进了。琪嗨：散步？难道是梅西？不对啊，梅西球风算不上华丽，而且梅西是中后期才开始散步的，再猜一个……博格坎普？！回答错误。线索三：他在中文互联网上有一堆牛逼到炸的称号。琪嗨笑了：这我就知道了，你说的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pd_不帅踢什么球1-284章.txt",
+    readUrl: "https://pan.baidu.com/s/1-EFbaVZBseVwq83o-Z-4oA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pd/",
   },
 
@@ -61322,6 +61754,7 @@ export const bookItems = [
     excerpt: "陈熙捡了个绝美老婆，虽然有点憨，但总自称是大唐长乐公主。为了治好老婆的“思乡病”，陈熙决定带她来一场特殊的“认祖归宗”之旅。第一站，便是那座被誉为“天下第一陵”的——唐太宗昭陵风景区！就在陈熙开启直播，准备给家人们展示“老祖宗严选墓地”时，万朝位面震动了！画面中，本该“暴毙”的长乐公主正舔着冰淇淋，一脸天真地指着巍峨的大山：“夫君，我阿耶李世民就睡在里面吗？”陈熙宠溺地摸摸头，对着镜头晃了晃手里的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pe_天幕：带着长乐游皇陵，万朝破防1-359章.txt",
+    readUrl: "https://pan.baidu.com/s/1jQ1vriaeIJa_3uNqn9TrlA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pe/",
   },
 
@@ -61339,6 +61772,7 @@ export const bookItems = [
     excerpt: "出生普通家庭的刘逸轩，魂穿凡人，将自己的人生目标从“做个公务员”变成了“我要长生不老”！郑重说明：本书无外挂！无金手指！无系统！一切靠机缘！凡人流！有后宫，但绝不烂收！至于小绿瓶，自有后续！无机缘不长生！无机缘不凡人！我只是一个凡人世界里的俗人，让一切都随缘吧！当然，这个”缘“只能由我来解释！一个俗人，只求长生。贪财好色，却也一身正气！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pf_凡人之做个俗人1-1037章.txt",
+    readUrl: "https://pan.baidu.com/s/1Bkah0212dq6pkQm43Mv--A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pf/",
   },
 
@@ -61355,6 +61789,7 @@ export const bookItems = [
     excerpt: "谁家穿越者刚落地就被杀，惨遭活剥人皮？幸运的是，神秘的神石，让他活了过来。它能让他扮演谁，便成为谁。但，唯有越相似，方能越强大。披上熊皮，即获熊之伟力！扮演动漫角色、小说人物、历史豪杰、乃至虚构存在……周庄，可化身世间万物！金庸武侠世界：领悟“我之为我”，扮演龙蛇国术武者，以见神不坏之躯，千吨巨力硬撼内力高手，众我成城，平定南宋乱世！JoJo世界：夺取完美生物血肉，成就千变万化之躯！犬夜叉世界：参",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pg_我来扮演众生！1-541章.txt",
+    readUrl: "https://pan.baidu.com/s/1GStqkPprWvjzTtrXJeAw1Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pg/",
   },
 
@@ -61388,6 +61823,7 @@ export const bookItems = [
     excerpt: "【无敌】【后宫（全收，斗一到斗四）】【爽文】【重生唐三和重生小舞】穿越到斗罗大陆怎么办？快被玉小刚害死了怎么办？别担心，神级作弊器已经加载完毕。开局截胡少女时期的唐三妈阿银，少女时期比比东，少女时期柳二龙，少女时期唐月华，暴虐玉小刚。颜值不够？直接拉满！魂力不够？直接拉满！物品不够？直接拿！想开后宫？开！想要回到过去？去！想要前往未来？去！想要前往另一处平行宇宙？去！只有你想不到，没有系统做不到！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pi_斗罗：神级作弊器，出山即是无敌1-1307章.txt",
+    readUrl: "https://pan.baidu.com/s/1HCZYpGyUGGvOrxUdKrJjpg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pi/",
   },
 
@@ -61404,6 +61840,7 @@ export const bookItems = [
     excerpt: "刘基并不知道自己到底是一个倒霉蛋还是一个幸运儿。如果是倒霉蛋，为何能连续两次转世重生？如果是幸运儿，又为何总是重生在乱世之中？他想不明白，索性不去想了。云从龙，风从虎，龙虎英雄傲苍穹，在满是龙虎英雄的东汉末年，他只想不留遗憾的度过这奇妙的一生。就从灭掉孙策开始。小霸王？孙讨逆？彼可取而代之！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pl_彼可取而代之1-466章.txt",
+    readUrl: "https://pan.baidu.com/s/1yex3OMX_FdzdUtkI3Lvl_A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pl/",
   },
 
@@ -61421,6 +61858,7 @@ export const bookItems = [
     excerpt: "我叫里奥·华莱士，历史系博士在读，负债$137,542.89。人生的至暗时刻，我失业了，原因是我在网上喷了一家叫“奥姆尼”的科技巨头，然后就被它给“优化”了。我本以为我的人生剧本是《骆驼祥子》，直到我脑子里多了个非法闯入者。他说他叫富兰克林·罗斯福，对，就是印在10美分硬币上的那个。“孩子，别在网上喷了，没用。”“想搞他们吗？我教你。”“我们的第一步，先从当个市长开始。”于是，我，一个连工作都找不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pm_缔造美利坚：我竞选经理是罗斯福1-663章.txt",
+    readUrl: "https://pan.baidu.com/s/1ekLmD0E96u8rJ5uKpDCopQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pm/",
   },
 
@@ -61455,6 +61893,7 @@ export const bookItems = [
     excerpt: "许多年之后，功成名就的方远面对记者采访时，准会想起录像厅里喊着“老板！换录像带！”的那个遥远的下午。那一年，重生回到1987年的方远还是个兜里只剩十块钱的待业青年。当他在弄堂口挂出“环球录像厅”的招牌时，没人能想到，这里走出了中国娱乐圈里绕不开的资本大佬。从录像厅开始，到运作明星走穴到承包国企年会，方远踩着改革开放的浪潮。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_po_重生1987：从录像厅开始1-448章.txt",
+    readUrl: "https://pan.baidu.com/s/1PfFqThQEWRFh1GvbgEiuNA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/po/",
   },
 
@@ -61472,6 +61911,7 @@ export const bookItems = [
     excerpt: "表里比兴？背刺盟友？靠女人上位？大阪城内，躺在浅井茶茶的腿上，真田信幸表示：这都是世人对我真田家的误解罢了，难道取得如今的地位靠的不是我自己的努力吗？本书又名《武田有孤忠》《关原战神的成名之路》《软饭可太香了》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pp_日本战国：真田家的野望1-578章.txt",
+    readUrl: "https://pan.baidu.com/s/1_36kmNpUtc2fwtomsgysfg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pp/",
   },
 
@@ -61489,6 +61929,7 @@ export const bookItems = [
     excerpt: "作为一名教授，有教无类、因材施教是基本素养。但凡事总有例外。某顶流爱豆，请你立刻停止蹭课行为！本书别名：1.《出道三年，顶流爱豆的白月光回国了》2.《儿童心理学在恋爱场景中的应用指南》3.《不就是加钱吗？姐有的是钱》4.《Apop之我在首尔当外教》2.0",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pq_半岛教授：顶流爱豆禁止蹭课1-400章.txt",
+    readUrl: "https://pan.baidu.com/s/1sHEXs51y0RNHXBP6z2Pn3Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pq/",
   },
 
@@ -61523,6 +61964,7 @@ export const bookItems = [
     excerpt: "朝为田舍郎，暮登天子堂。 天子不在堂，日日宿豹房。 ~~~~~~ 唐寅：义父拯救了我。 王守仁：要不是他救我，我半道就被锦衣卫做掉了。 杨慎：既生瑜何生亮，我觉得他抢了我的状元，还抢了我的老婆…… 严嵩：义父教了我做官的道理，挽救了我的仕途。 朱寿：义父救我，我不会游泳。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ps_状元郎1-1054章.txt",
+    readUrl: "https://pan.baidu.com/s/1kaQcG1MvcLJVcgZW5Wt9QA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ps/",
   },
 
@@ -61558,6 +62000,7 @@ export const bookItems = [
     excerpt: "【华娱＋推土机＋爽文＋浪子人设】 在模特圈摸爬滚打十余年的陈墨重生回到2016年。 这一年，四大三小如日中天， 这一年，各路小花崭露头角。 陈墨与明星交流接触可以获得抽取词条的机会。 【故事性嗓音】：你的声音自带叙事感，说话时更容易让人专注聆听，演唱时更能传达歌曲情感。 【勇敢newnew】：妙用无穷，自行探索。 陈墨只用了几年时间就在水深火热的娱乐圈从男模变成资本。 记者采访问道：“您觉得您走到",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pu_华娱：是小花主动的1-334章.txt",
+    readUrl: "https://pan.baidu.com/s/1h3F0cA1Isf0GL0GRRkticw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pu/",
   },
 
@@ -61574,6 +62017,7 @@ export const bookItems = [
     excerpt: "【截至300万字，高定37000，均订7000，故事线完整，放心入坑，不会太监！】一觉醒来丧尸病毒爆发，全球沦陷人类文明分崩，作为幸存者，活下去是唯一渴求！问：末世怎样才能活下去？答：首先要狠！【非重生】【轻系统】【丧尸】【末世生存】【杀伐果断】【不圣母】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pw_末世第一狠人1-1851章.txt",
+    readUrl: "https://pan.baidu.com/s/1HvfDCw24UH2LxtXIWMGXgA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pw/",
   },
 
@@ -61591,6 +62035,7 @@ export const bookItems = [
     excerpt: "中医能治病吗？ 当然能。 但是药材造假触目惊心。 该用人参炮制的红参，却被商家用更便宜的西洋参代替。 用这样的中药材能治好病才怪。 李旭绑定了【每日情报系统】 【情报1：中药材批发市场益药堂新进了一批真品胖大海】 【情报2：广义行用20元/斤的扁豆煮熟后染色冒充800元/斤酸枣仁】 【情报3：城西桃山山脊处生长三颗品质极好的野生当归，已经成熟，请及时收取】 【情报4：隔壁胡文广肾阴虚，可用枸杞二两",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_px_中药逆袭：从每日情报开始1-1007章.txt",
+    readUrl: "https://pan.baidu.com/s/11UQ4QXU07RTdLRPNDpRUGQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/px/",
   },
 
@@ -61624,6 +62069,7 @@ export const bookItems = [
     excerpt: "【叮！恭喜你融合罗纳尔多模板！】坐在勒沃库森U19替补席上的林川正欣喜于自己得到了罗纳尔多模板。结果......是2015年的罗纳尔多！融合的是39岁的罗纳尔多。虽有顶级的有球技术。但.....耐力：15；加速：25；反应：25。这身体状况完全就是普通中年大叔的水平。【叮！罗纳尔多生涯模拟开始.....】【叮！在过去的10秒，你身临其境第一人称体验了罗纳尔多完整的职业生涯...】原来融合的不只是技",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_pz_足球：19岁融合39岁大罗模板1-461章.txt",
+    readUrl: "https://pan.baidu.com/s/1HFUQGXKO6XDNONVybTa6wA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/pz/",
   },
 
@@ -61641,6 +62087,7 @@ export const bookItems = [
     excerpt: "【游戏制作文】【绝对轻松搞笑】这是一个3A游戏极度内卷的时代，这意味着凡是不争气的游戏公司，随时都会面临倒闭的风险！唯独童小鱼就是要开一家不争气的公司！不仅要不争气，还要在整个游戏圈臭名昭著，烂到极致！这样她的公司才能极速倒闭，自己回家躺平。为此，她金里淘屎，终于找到了一个名叫韩彻的完美“人才”。他的游戏demo画面粗制滥造、贴图劣质、玩法单调、极其乏味，与这个时代格格不入！他的身份简单、毫无工作",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_q_让你搞垮公司，塞尔达是什么鬼？1-379章.txt",
+    readUrl: "https://pan.baidu.com/s/12_gkFmYVCeeem0XoWwy9LA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/q/",
   },
 
@@ -61658,6 +62105,7 @@ export const bookItems = [
     excerpt: "好消息：觉醒了超能力坏消息：我觉醒了个啥?当胡彪睁开眼睛，看着围绕在自己身体周围的星空时，宇宙的主，诞生了！这是一个觉醒了高维能力的普通少年探索自身、探索世界、探索宇宙的故事。这也是一本正能量的网络小说！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qb_高维化身，开局撬动星辰1-186章.txt",
+    readUrl: "https://pan.baidu.com/s/19x_mxJYnfbsS5Q8dHPoojw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qb/",
   },
 
@@ -61675,6 +62123,7 @@ export const bookItems = [
     excerpt: "【海王文！深情梗！绝不是舔狗！】财富、权利、名气、天下第一......这是属于主角的时代。不过对方云华来说，他更喜欢坐看主角翻雨覆云，毕竟在获取荣耀之前，先要背负足够多的苦难。重来一次的人生已是不易，还不如让自己多吃点甜的，当然他牙口不算太好，软一点的也吃得下。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qc_古龙世界里的第一深情1-498章.txt",
+    readUrl: "https://pan.baidu.com/s/1FIxWilGqO__aPSGigqSuxg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qc/",
   },
 
@@ -61691,6 +62140,7 @@ export const bookItems = [
     excerpt: "“17岁，练习不足两年半，能够拿大满贯吗？”“可以，建议直接投胎！”“建议直接入土，ITF希望赛的资格赛你都过不了第一轮！”“建议先练习发球，大满贯选手需要把球打过网，每天1000个发球！”“建议训练训练体能，毕竟是五盘三胜，每天慢跑10公里！”“建议吃颗网球……”“……”当姜鸿举起大满贯奖杯的时候，记者采访姜鸿。“你在没有教练的情况是怎么走到现在的？”姜鸿接过话筒，一脸严肃的表示：“我的赛博教练",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qf_网球：他实在太听劝了！1-445章.txt",
+    readUrl: "https://pan.baidu.com/s/1LSJiY3Ne1oy8GAnANUbqxw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qf/",
   },
 
@@ -61725,6 +62175,7 @@ export const bookItems = [
     excerpt: "政由葛氏，祭者寡人。且看我刘禅以祭为道，辅佐诸葛横推当世代，谱写《季汉书》。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qi_三国：季汉书1-574章.txt",
+    readUrl: "https://pan.baidu.com/s/1xVPnrNSziA7proQeJlofgA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qi/",
   },
 
@@ -61741,6 +62192,7 @@ export const bookItems = [
     excerpt: "修真界最强老六来袭！新书《概念神器批发商》已于起点读书正式连载～新人作者，今年刚满18岁，求支持～【国产热门2D动画IP同名原著小说】本书宣传名为《王令的日常生活》，本书外传故事《修真界唯一锦鲤》十岁（动画版时间修改为六岁）就随手干掉了妖王吞天蛤，作为一个无所不能的修真奇才，王令得隐藏自己的大能，在一群平凡的修真学生中活下去。普通人追求的钱财，仙术，法宝，声名，这个年轻人都不在意。无论豪门千金孙蓉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qj_仙王的日常生活1-2602章.txt",
+    readUrl: "https://pan.baidu.com/s/1o0m_7Dpy1XofqzBfcSnXlw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qj/",
   },
 
@@ -61776,6 +62228,7 @@ export const bookItems = [
     excerpt: "穿越到一九五二年，已成家，当立业！从钳工开始，在那个激荡的火红年代，一步步成为科技巨头！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qp_火红年代：从钳工开始成科技巨头1-270章.txt",
+    readUrl: "https://pan.baidu.com/s/1wz3ZEXHeg_lGDePtgpfUoQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qp/",
   },
 
@@ -61793,6 +62246,7 @@ export const bookItems = [
     excerpt: "鉴宝主播叶银川一觉醒来，发现自己穿越宝可梦平行世界，连养的小卡比兽都喂不饱的他，决定凭本事赚到第一桶金，却发现自己觉醒了直播鉴宝系统……宝可梦也是宝，怎么就不兴鉴了？“宝友，你这腕力，可不兴育啊！你可曾听闻，超雄综合症？”“什么？你家走路草臭不可闻？千万先别扔！恭喜要进化了！”“你家杰尼龟老伸脖子？不然你把水缸上面也封上试试？这他喵的是陆龟！”“尼多兰抗拒配种？这也不能勉强……快住手！这是异色尼多",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qq_直播鉴宝：你这精灵可不兴育啊！1-786章.txt",
+    readUrl: "https://pan.baidu.com/s/1y1XUz6bu6lYViuFsRnnunw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qq/",
   },
 
@@ -61809,6 +62263,7 @@ export const bookItems = [
     excerpt: "林成文回到了物资匮乏却充满荣誉的年代，京城户口，工人工作。可惜，这里是《禽满四合院》，身边住了一群禽兽。他本想安稳、低调生活，奈何隔壁傻柱三天两头干架。东厢房秦淮茹隔三差五打秋风，众禽各施手段、不断作妖。觉醒双穿系统的他，选择前往《欢乐颂》世界。安迪姐——成熟御姐，知性优雅曲妖精——率性犀利，古灵精怪小蚯蚓——娇小可爱，直爽单纯谭总裁——英俊儒雅，比我差点赵医生——表面严肃，实则闷烧小包总——阳光",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qr_影视：从四合院开始双穿欢乐颂1-792章.txt",
+    readUrl: "https://pan.baidu.com/s/1N1f_78uhux0vLqhRaPUHfQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qr/",
   },
 
@@ -61826,6 +62281,7 @@ export const bookItems = [
     excerpt: "作为一个网文写手，雷野听说过子孙越多主角越强的金手指，没想到轮到自己穿越的时候，得到的金手指却截然相反。什么叫做妈妈越多，实力越强？于是雷野一边后悔着过去天天堵桥，一边利用自己丰富的galgame经验攻略结识的少女或者少妇使其成为自己的妈妈。同时为了取得足够的经费，雷野也没有放下自己的老本行，在冒险之余依然会写故事然后委托大图书馆进行贩售。就这样，一切都还顺利，五年时间很快过去了，讨伐魔王的前期准",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qt_新世纪瓦战士1-150章.txt",
+    readUrl: "https://pan.baidu.com/s/1F4C0MnK7dOBDEnvLrL1_jQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qt/",
   },
 
@@ -61842,6 +62298,7 @@ export const bookItems = [
     excerpt: "这个世界像是筛子一样，每天都会从动漫，小说，游戏中掉一些东西过来。一开始只是掉落一些物品，直到一些怪物掉落到这个世界，一切都开始变了。次元的壁垒似乎在这一刻形同无物，末日般的大灾难降临了。【世界管理员日志】【1月2日捡到了一个任意门，距离不再是障碍。】【3月15日捡到了一截世界树枝丫，还赠一个智慧之神，我把她种在了后院，她可以给我解闷。】【5月17日捡到了一个英灵，她是不列颠的王，她胃口很好一顿可",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qu_在此刻，击碎次元壁1-381章.txt",
+    readUrl: "https://pan.baidu.com/s/11isp3MmtNsUJjCMPqNM6-w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qu/",
   },
 
@@ -61859,6 +62316,7 @@ export const bookItems = [
     excerpt: "“知识就是力量。““集市少了别做买卖。””酒馆里的人才终究会变为英雄。”拥有执政术的苏木降临在木材战争开启的元年，听从自古以来的英雄谚语，搜寻着未被发现的璞玉。周公吐哺天下归心，苏木虽然不才，也希望广纳天下英才，在乱世中站稳跟脚。炽天使，烈阳金龙，虚空泰坦，混沌领主，红月之母。英雄世界有更高层次的秘密，重新踏上熟悉的征途，希望能够登临永恒之塔，寻找诸神都难以触摸的神迹！英雄无敌系列，从未被遗忘的故",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qv_英雄无敌：大执政官1-594章.txt",
+    readUrl: "https://pan.baidu.com/s/1vNLwKa8mVkzzmqu06wU2xA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qv/",
   },
 
@@ -61875,6 +62333,7 @@ export const bookItems = [
     excerpt: "何承钰穿越到都市剧欢乐颂世界。普通家庭，职场帕鲁。年仅二十三，存款二十万，还有一辆大奔！这一切全靠自己努力（×）！关雎尔心生情愫，奖励大奔一辆？整蛊曲妖精气急败坏，奖励现金20万？帮安迪处理网暴风波，奖励数字敏感天赋？拳打脚踢白渣男，挖坑整蛊曲连杰。关雎尔：承钰最好了，你们别瞎说！安迪：承钰，今天加班，看我丝*漂亮吗？何承钰只想搞别人心态捡奖励，当个乐子人吃吃瓜。怎么别人都就喜欢上他了呢？————",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qw_影视从欢乐颂截胡关雎尔开始1-1872章.txt",
+    readUrl: "https://pan.baidu.com/s/1EVe7OfUiR6eK1ngXc57fsg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qw/",
   },
 
@@ -61891,6 +62350,7 @@ export const bookItems = [
     excerpt: "【智商在线】+【逻辑合理】+【穿越】+【经验面板】陆通穿越一人之下，开局惨遭全性灭门，幸被发小李慕玄相救。绝境之中，拜入三一门，觉醒属性面板！修炼就可获得经验值，各种功法技能熟练度直接肝满！【逆生三重熟练度MAX】左若童：我的弟子有仙人之姿！【内丹法经验+999】性命双修，金丹大道就在脚下！【刀法经验+999】八百米外一刀斩断苑金贵的破嘴！曾经的遗憾，这一世统统改写！左门长的悲歌？有我逆转！李慕玄",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qx_从一人之下开始肝穿世界1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1TfOSVtMtesRYdl9ydk4U_w?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qx/",
   },
 
@@ -61908,6 +62368,7 @@ export const bookItems = [
     excerpt: "张远贫困潦倒时候突然获得一个宠物鉴定能力，本来打算去宠物行业发光发热，却因为没资格证被拒。另辟蹊径下，进入直播鉴宠行业。“小姐姐，做一些事还是背你家鹦鹉一点吧。”“你家旺财突然凶你?那是你家进外人了，忘了你是主人。”“鱼的确只有7秒记忆，但你这鱼是假鱼啊。”直播间画面变得不对劲，一个个给宠物看疑难杂症，却成为看主人社死。随着鉴定技能提高，张远发现鉴定出来的情况也越来越不对劲。“成熟期会产金币的金鱼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_qz_在线鉴宠，大哥这狗认为在训你啊1-1339章.txt",
+    readUrl: "https://pan.baidu.com/s/1Q-GuWyJhr8cg5CktvM3bLw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/qz/",
   },
 
@@ -61960,6 +62421,7 @@ export const bookItems = [
     excerpt: "“你的S级觉醒技哪里来的？”“大海里面捡的！”——旧大陆在天灾中沉没，人类依靠“漂泊船”在海洋上艰难生存，探寻着无尽海洋与零星岛屿上的资源。而穿越而来的石铭，依靠着自己的“情报之眼”，在这片蔚蓝星球如鱼得水。【前方三百海里，有一座资源丰富的岛屿，生长着能增长力量的海稻。】【107号海盗船，藏着漩涡之地的藏宝图，这可是一个大惊喜！】【不要小看这不起眼的海鱼，它可以帮你觉醒出“水之呼吸”的C级能力！】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rb_无尽海洋：从独木舟开始逃生1-602章.txt",
+    readUrl: "https://pan.baidu.com/s/1HIvqWnOH46b6G9t16qPlew?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rb/",
   },
 
@@ -61977,6 +62439,7 @@ export const bookItems = [
     excerpt: "穿越到北魏末年怀朔，高羽原本只想抱着高王大腿，过着夜夜有美姬作陪的富家翁生活。但想到北齐高家皇帝人均神经病的操作，为了自己的身家性命着想。他觉得自己必须得努力一把。这一努力便止不住。别人对他的称呼一路从高家二郎、高郞神射、无双鬼神、东魏天策上将、齐王直至皇帝陛下。………………多年以后，高羽望着太庙里写着神武皇帝的那个牌位，他不由想起了大哥第一次带自己杀人的那个午夜。我叫高羽，高欢之弟，高家二郎，乱",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rc_我的哥哥是高欢1-921章.txt",
+    readUrl: "https://pan.baidu.com/s/1vpiC6O08kiTVghUqwqBMGw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rc/",
   },
 
@@ -61994,6 +62457,7 @@ export const bookItems = [
     excerpt: "“男人都该死，把他拉下去做花肥”秦禹一睁眼，就成了曼陀山庄的花肥，命悬一线之际，幸得神仙姐姐相救从而化险为夷！年龄太大，无法习武？秦禹冷笑：我有系统面板，肝就完了，只要努力，必有收获！......诸天穿越文：第一个天龙八部：得王语嫣授武，一日千里，武动江湖！第二个世界大唐双龙传：号令江湖，醉卧美人膝！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rd_纵横诸天从曼陀山庄开始1-339章.txt",
+    readUrl: "https://pan.baidu.com/s/1qlvfo7SYp7lOeUYq8Q_7ig?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rd/",
   },
 
@@ -62011,6 +62475,7 @@ export const bookItems = [
     excerpt: "陆青穿越武侠世界。面对江湖纷争，财富美人，他却有个与众不同的愿望。他要成仙！所谓内家真气，换一种说法就是内丹术，即“怡神守形，养形炼精，积精化气，炼气合神，炼神还虚，金丹乃成”的成仙法！虽然武侠世界从未听闻有谁成了仙，但谁又能说，他陆青就不会是这开天辟地的第一个呢？现在，他陆青的成仙路，就从这笑傲江湖开始。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_re_武侠世界，红尘成仙1-332章.txt",
+    readUrl: "https://pan.baidu.com/s/1YAjFn21SrezP08QykLOtSw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/re/",
   },
 
@@ -62028,6 +62493,7 @@ export const bookItems = [
     excerpt: "靠着卖散酒赚取到第一桶金，开办酒厂，跻身名酒之列。转而投身制造业，从摩托车发动机开始到整车，进军汽车业……人们最开始叫我“庆莽子”，后来叫我“陈老板”，再后来叫我“陈百万”。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rf_重生那年19851-1137章.txt",
+    readUrl: "https://pan.baidu.com/s/1D1GKklYTpKa8kAGJfUcCYQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rf/",
   },
 
@@ -62044,6 +62510,7 @@ export const bookItems = [
     excerpt: "穿越民国综影，成为一名臭脚巡。这里有大宅门的七爷，有胡同里的甜枣，有御香园的小东西，有光荣时代的白玲，有四合院的秦淮如，有小酒馆的陈雪茹，有谍战剧里的六哥、吴敬中、店小二，还有许许多多的年代剧角色。看曹魏达如何玩转综影世界，逍遥快活.......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rg_年代剧：老曹的潇洒人生1-533章.txt",
+    readUrl: "https://pan.baidu.com/s/1HRjY0VjXPaQXEEA0lBsTTA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rg/",
   },
 
@@ -62060,6 +62527,7 @@ export const bookItems = [
     excerpt: "当拥有修改现实之力的哨兵，遇到可以无限进化的怪兽之王哥斯拉。 当彻底觉醒了奥丁之力的雷神索尔，遇到口吐引力射线的王者基多拉。 当掌握着分子级温度操纵能力的冰人，遇到可以轻易引发冰河纪元的远古雪魔。 手持巨斧的金刚，火焰之王拉顿，至尊穆托…… 从百米巨兽到吞星泰坦，从二级变种人到多元神明。 以凡人之躯汇聚无数泰坦巨兽的力量，穿越成为变种人实验室的小白鼠后，柯林要做的第一件事情，却是打破一座小小的监牢",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rh_美漫哥斯拉：从二级变种人开始1-565章.txt",
+    readUrl: "https://pan.baidu.com/s/1oBAfrOnLbyCaHgYILrEadQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rh/",
   },
 
@@ -62076,6 +62544,7 @@ export const bookItems = [
     excerpt: "穿越地错，在欧拉丽连续被七八个眷族拒绝后，罗伊意外发现自己能够穿越不同的世界，如游戏面板一样，刷副本打BOSS，就能提升属性。从此走上了打怪升级的不归路。当回过神时，罗伊已经带着阿斯特莉亚眷族站在诸天之巅，神明面对他们，都要退避三舍。站在你们面前的是——黑暗派阀的终结者！欧拉丽最强眷族团长！讨伐黑龙的世界英雄！打穿地下城的超级冒险者！千年以来第一位弑神者！神明都会羡慕的后宫之王！——罗伊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rj_人在地错，从捡到精灵少女开始1-622章.txt",
+    readUrl: "https://pan.baidu.com/s/1JD84ZSQAKl7vuT6_JA8ONA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rj/",
   },
 
@@ -62110,6 +62579,7 @@ export const bookItems = [
     excerpt: "穿越四合院，庄中尘来到61年，成为机关小办事员。 虽说是当家爷们，但在四合院和单位混的人嫌狗厌； 虽说是九级工程师，实际上就是个毫无真材实料的大水货； 虽说有光鲜体面工作，但在外面负债累累…… 面对黯淡无光的人生，想到以后的动荡岁月，庄中尘毫不犹豫的躺平。 累了！摆烂吧！ 可就在这时，秦淮茹她暗送秋波、眼波流转、柔情似水、妩媚勾魂…… 从那天开始，庄中尘就开始了工业渣狗的作死狂奔…… 不是，你说的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rm_四合院：开局水货工程师1-356章.txt",
+    readUrl: "https://pan.baidu.com/s/1nMfJNHDOVbErVisOpYyr4g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rm/",
   },
 
@@ -62127,6 +62597,7 @@ export const bookItems = [
     excerpt: "天道司命穿越到了一个名为《群星》的异次元番剧中。绑定‘人气系统’的他，只要获得足够的人气，就能得到想要的一切。因此很快的，一个长相出众、实力超群、性格讨喜的超人气反派出现了。【星蚀天目：能百分百观测自身和目标的‘能量流动’，从而在战斗中提前1秒的预知对手下一步动作】【矢量控制：可控制触碰到物体的运动矢量（如攻击的冲击方向、能量的流动路径）】【超频演算：大脑进入‘超频状态’，可同时模拟数以万计的推演",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rn_这个反派过于有人气1-527章.txt",
+    readUrl: "https://pan.baidu.com/s/1CIOMbB4Dt6PTtIHUbQAsPA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rn/",
   },
 
@@ -62143,6 +62614,7 @@ export const bookItems = [
     excerpt: "穿越斗破苍穹，觉醒前世记忆。没有随身老爷爷。该如何在这大陆上崛起？机缘巧合，觉醒抽取系统。【滴……恭喜宿主抽取到万魂幡】【滴……恭喜宿主抽取到功法《焚诀》】【滴……恭喜宿主抽取到武学《大荒囚天指》】修为提升一阶，就能获取一次抽取机会。先知先觉截取机缘，万界抽取得到宝物。“这一世，我萧凌定当无敌于世间！”ps：后宫多女，不喜勿入，谢谢Orz",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ro_人在斗破：天赋绝世竟带系统1-928章.txt",
+    readUrl: "https://pan.baidu.com/s/1uoD0HoHrAcHcls7oDsVhcA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ro/",
   },
 
@@ -62160,6 +62632,7 @@ export const bookItems = [
     excerpt: "意外穿越到吞噬星空世界，陆青山本以为自己能够一路崛起，成为浩瀚宇宙中的超级强者……但可惜的是，他的金手指始终无法开启，而他的悟性和天赋也并不算太强，苦熬数百万年才修炼到了界主巅峰！在寿命大限来临之前，他终于举全族之力，获得了一个进入初始宇宙参悟的名额，最终得以突破成为不朽！就在陆青山觉得自己的生活会一直平淡下去，等到未来罗峰崛起之时抱一抱大腿的时候，他的金手指却突然开启，让他加入了一个诸天聊天群！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rp_诸天：从吞噬星空成神开始1-724章.txt",
+    readUrl: "https://pan.baidu.com/s/1M1y5hr2EvN04tytqDjTvUg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rp/",
   },
 
@@ -62177,6 +62650,7 @@ export const bookItems = [
     excerpt: "穿越红楼世界，成为贾政庶子贾彦，幼年八岁之际觉醒前世记忆并获得金手指，开局获得吕布天赋...贾彦表示，他要开始不吃牛肉了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rr_红楼：开局吕布天赋1-653章.txt",
+    readUrl: "https://pan.baidu.com/s/1Otz5S1J8BGea9cJDPRphkw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rr/",
   },
 
@@ -62193,6 +62667,7 @@ export const bookItems = [
     excerpt: "十年网文老书虫，江思和其他人不一样，他对自己也能踏出一条修真大道始终深信不疑。以各路网文前辈为目标，不断的寻找踏上修真大道的方法。气功，基因锁，魔法，超能力，丧尸危机……什么都好，只要有超凡力量的存在，都必然能踏上求道之路，一切力量的最终导向就是修真。然而可惜，这个世界平平无奇，什么超凡力量也没有。就在江思逐渐动摇之际，他终于等来了属于他的那一辆卡车。穿越后的世界，虽然日常生活与过去并无区别。但是",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rt_从魔法少女开始独断万古1-399章.txt",
+    readUrl: "https://pan.baidu.com/s/1TY_jG73c0lugbFLR0AF7Vw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rt/",
   },
 
@@ -62228,6 +62703,7 @@ export const bookItems = [
     excerpt: "来到宝可梦世界，继承自己姑奶奶遗留下来的土地和饲育屋，方言决定将这个饲育屋重新开起来。土地怎么利用？肯定是开垦，种植……然后帮忙照顾客人寄托在这里的宝可梦了，给它们打造一个完美的乐园，不只是宝可梦的，也是人的乐园。“你问我后花园的宝可梦气势为什么这么强？”方言回头看去，无奈的喊了一句：“都说了我这里是饲育屋！不是你们这群馆主，天王和冠军开下午茶话会的地方。”希罗娜，御龙渡，大吾，米克利，卡露妮等人",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rv_宝可梦：关于饲育屋那些事1-606章.txt",
+    readUrl: "https://pan.baidu.com/s/1SeM6akohsh7Vb5fTIndnwA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rv/",
   },
 
@@ -62244,6 +62720,7 @@ export const bookItems = [
     excerpt: "重生在一个月前，理论上没什么狗屁用。 但架不住宁毕书也不太想活。 反正是活过一次，与其苟且偷生，不如干脆不做人了。 世界就是一个大游乐场。 你不大胆跳出规则之外，就永远不会知道，它真正的玩法。 ——《哪抓2》你知道吧？ 宁毕书重生第一天，90倍杠杆，梭了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rw_重生之浪王之王1-357章.txt",
+    readUrl: "https://pan.baidu.com/s/1tnMIn3bC6mbWVmzsgsSmrg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rw/",
   },
 
@@ -62261,6 +62738,7 @@ export const bookItems = [
     excerpt: "穿越到奇幻异世界，陆维成为了一名【奸商】。 起初，他小打小闹，深入各个冒险地摆摊，为冒险者们提供补给购买、装备回收，有偿代打服务。 然后，他不安现状，开始与哥布林、黑暗精灵、大地精，甚至是夺心魔部落建立商业往来。 接着，他愈演愈烈，开创性的发明了“勇者助力贷”、“冒险者伤残保险”、“共享装备”等新型商业模式。 最后，他彻底疯狂，竟孤身一人闯入了令无数传奇勇者一去不返的巨龙巢穴。 一个月后，法兰尼斯",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_rx_今天也没有被顾客吃掉1-507章.txt",
+    readUrl: "https://pan.baidu.com/s/1nwWaxAOnbIifkT02j065gg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/rx/",
   },
 
@@ -62278,6 +62756,7 @@ export const bookItems = [
     excerpt: "林知秋穿成1979年返城知青，刚回家就被安排掏粪工。啥，真成了掏粪男孩了？他可接受不了，于是他拒绝了工作安置。打算静下心来复习高中课本，参加高考，目标燕大！家人虽支持，但也愁他吃闲饭惹人非议。于是他只能一边复习，一遍提笔开始当起了文抄公。对此，林知秋倒是心安理得。文学是大家的，也是世界的，读书人的事，怎么能叫抄呢？随后又认识了返城知青江新月，两人开始处起了对象。江新月向他坦白，自己家庭成分有点复杂",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ry_1979知青返城，从文豪开始1-355章.txt",
+    readUrl: "https://pan.baidu.com/s/1gJKgQ9Felu5ggZU-jbc-Nw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/ry/",
   },
 
@@ -62311,6 +62790,7 @@ export const bookItems = [
     excerpt: "倘若神明不再施舍他的怜悯，那就让我们点燃篝火，背上大剑，成为枯骨，或者传说中的英雄。 VIP群：9555-74517（同桌、猎赝、龙王、金装任一本书全订）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_s_星河之上1-704章.txt",
+    readUrl: "https://pan.baidu.com/s/1gNUFLwqmswCW3Z7A-YBjSg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/s/",
   },
 
@@ -62328,6 +62808,7 @@ export const bookItems = [
     excerpt: "言寺未来穿越尸魂界，成了九番队五席。工资不够花，只好在《瀞灵廷通讯》上写点小说赚外快。第一篇：《天才少年的傲慢与孤独》，主角“蓝川”。第二天，一个叫蓝染惣右介的后辈，带着温和的笑容来请我喝酒。……始解斩魄刀，缀文万象，可以书写过去。通过别人观看小说时产生的情绪波动，获得灵力后进行吸收，突破灵威。当言寺看见被实体化的斩魄刀时，不由得瞪大眼。缀文万象居然长得和自己小时候一模一样，还戴着红领巾！面对完全",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sac_死神：天生数值怪，做幕后黑手？1-331章.txt",
+    readUrl: "https://pan.baidu.com/s/109oPs9taWYxD25ORNzvQ3g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sac/",
   },
 
@@ -62345,6 +62826,7 @@ export const bookItems = [
     excerpt: "绝世唐门是霍雨浩的时代，但他活得并不开心。如果成神注定意味着悲剧，那不成即可！魂穿霍雨浩的少年在深思熟虑后，决定在这个时代苟到底，最终化作亡灵生物，自我封印。静等万年后龙王降世，灵冰再现！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sad_斗罗：龙王之霍雨浩活在万年后1-418章.txt",
+    readUrl: "https://pan.baidu.com/s/19aGbYp-pnCN3P5kFtEdC1Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sad/",
   },
 
@@ -62362,6 +62844,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sae_妖尾：我的魔法是武藤游戏卡组1-626章.txt",
+    readUrl: "https://pan.baidu.com/s/1-ucuNdKwjTUbdtH9klhPEQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sae/",
   },
 
@@ -62379,6 +62862,7 @@ export const bookItems = [
     excerpt: "满级游戏npc赤看穿一切，灵魂穿越至动画世界，成为了新手训练家小智的老爷爷。当白银山王者，遇上了逆属性大师，世界也开始变化了。赤：“嗯？这个叫小智的少年，为何这个世界好像都在围着他转？”小智：“可恶，我只要继承了赤老哥的遗产，宝可梦大师不是有手就行？”图鉴：“嘀嘀。人类也就图一乐，没人比我更懂宝可梦。”皮卡丘：“皮卡。”赤：“...”总之，这是一段画风清奇的冒险。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_saf_他比我懂宝可梦1-4496章.txt",
+    readUrl: "https://pan.baidu.com/s/1sto4X6l8hG818sB3BTxQIA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/saf/",
   },
 
@@ -62396,6 +62880,7 @@ export const bookItems = [
     excerpt: "陈阳穿越到斗破世界，觉醒全图最强系统，只要踏足新地图，直接就能成为本地图各项最强者。[乌坦城中，陈阳成为九星大斗师、三品炼药师，初识萧炎，恭喜发财！][魔兽山脉中，陈阳获得七星斗皇修为，收服紫金翼狮王，带走小医仙！][蛇人族中，陈阳一跃成为斗宗强者，蛇人族尽数臣服！][云岚宗上，陈阳晋升三星斗宗，碾压云山，逼的鹜护法提前现身！]多年以后，陈阳踏足古界！【叮！检测到古界中最强者为古元，实力九星斗圣后",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sai_斗破：全图最强，我永远在你之上1-570章.txt",
+    readUrl: "https://pan.baidu.com/s/16KLsrHYCwPJIMJUGVR18hA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sai/",
   },
 
@@ -62412,6 +62897,7 @@ export const bookItems = [
     excerpt: "北电2000级高职班毕业生颜礼，获得金手指【每日情报系统】，从此化身娱乐圈情报王 什么？《隋唐英雄传》剧组选角，宇文成都，这个角色好像适合我啊 什么？品牌方的代言底价是300万/年，靠，经纪人开价低了，赶紧往上提 什么？女明星打算靠房间针孔摄像头偷拍我和她的亲密视频作为把柄，哼，我换个房间 什么？！！ 2022京城房价下跌，由顶峰10万一平下降至8万一平，这也叫情报，这特么是预言了好吧？…（PS：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sak_华娱情报王1-681章.txt",
+    readUrl: "https://pan.baidu.com/s/1KlXTx3PxVJZKIPbzBasNyA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sak/",
   },
 
@@ -62429,6 +62915,7 @@ export const bookItems = [
     excerpt: "穿越2010，手握系统，魏安从县城少年一路狂飙，联手新浪，成为内娱初代顶流，用数字专辑开启他的巨星时代。当全网都在骂魏安是“娱乐圈公敌”、“小花粉碎机”时，从小玩到大的青梅刘皓存，眨着湿漉漉的大眼睛，委屈巴巴：“道理我都懂，青梅打不过天降……可、可也没人说天降是成群结队的呀！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sam_华娱：顶流从虐哭存子开始1-288章.txt",
+    readUrl: "https://pan.baidu.com/s/1e7c60_4lFRf_E5Ld_izXKA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sam/",
   },
 
@@ -62445,6 +62932,7 @@ export const bookItems = [
     excerpt: "洪驰穿越到了宝可梦的世界，成为了一名在编的护林员。 好在觉醒了穿越者必备的系统，让他的工作愈发如鱼得水！ 有精灵受伤严重急需救助? 洪驰立马抵达现场并进行救治。 有非法盗猎者狩猎精灵 那还用说，直接胖揍一顿再交给君莎小姐法办！ 什么？你想给你家优雅猫找个狂野一点儿的对象？ 正好我们这里有一只单身十年的猫鼬斩，绝对够狂野！ 直到某天一位金发的美女训练家意外来到洪驰的住处，他才终于结束了单机生活，开始",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sap_从护林员开始的宝可梦大师之旅1-837章.txt",
+    readUrl: "https://pan.baidu.com/s/18K9ZmD-__SZ8A3Ky85sJbw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sap/",
   },
 
@@ -62479,6 +62967,7 @@ export const bookItems = [
     excerpt: "历史老师林啸别开生面的历史课通往各个朝代。同学们答一下：“始皇死后几年，帝都被敌军攻破？甲：四年，乙：十年，丙：二百一十年，丁：一万三千五百年。”面对这个同步的天幕，朱元璋自信回答：“还用说吗？四年！”秦始皇破防！林啸：“那好，同学们又回答一下，朱元璋死后几年，帝都被攻破？”面对这一模一样的题目，朱元璋傻眼了！“向同学们公布正确答案，也是四年！”朱元璋破防：“啥？我大明也二世而亡了？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sar_现代历史课，被皇帝们旁听了1-602章.txt",
+    readUrl: "https://pan.baidu.com/s/127-PoqAc84WY5rhzQOcvmw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sar/",
   },
 
@@ -62495,6 +62984,7 @@ export const bookItems = [
     excerpt: "黄袍加身的林阳意外撞了‘大运’，穿越重生到影视综合世界。动物管理局、二代妖精、司藤、灵魂摆渡、一人之下、左耳、缝纫机乐队……坏消息，这个世界有着各种妖魔鬼怪！好消息，有外挂，天道酬勤！……林阳：妖孽，我要你们助我修行！司藤：……万晓娟：……白纤楚：……夏禾：小弟弟，只要妖孽么？林阳：妖女，也行。翡翠：混蛋！……这是讲述一个穿越者逐渐成长为超级祖宗人的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sat_影视：天道酬勤助我随心所欲1-738章.txt",
+    readUrl: "https://pan.baidu.com/s/18lIFq_KDs_ZLfRdhFh0FyA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sat/",
   },
 
@@ -62512,6 +63002,7 @@ export const bookItems = [
     excerpt: "绿龙是五色龙中最狡诈、阴险的龙，同时也是五色龙中最具有智慧的龙。所以，作为这个世界上最强大的绿龙，也是理论上最具有智慧的五色龙，翡翠帝国皇帝夏尔陛下直言不讳：“我惊世的智慧告诉我，面对如今这样的情况，必须使用我惊世的力量了！”说罢，夏尔双翼展开，遮天蔽日，如天灾降临！……“完了，翡翠皇帝来了，又一座城市要沦陷了。王庭角落的玉柱旁，传奇大法师安东尼奥胡子拉碴，一身酒气的倚靠在柱前，喃喃自语。PS:这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sau_绿龙1-426章.txt",
+    readUrl: "https://pan.baidu.com/s/1rOJZQo51ws956eDfc0wKDA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sau/",
   },
 
@@ -62529,6 +63020,7 @@ export const bookItems = [
     excerpt: "本书又名《我夺了朱元璋的气运》原书名《翦元》 石人一只眼，挑动黄河天下反！ 至正十一年，适逢红巾起义，元末大乱，此时的郭子兴还未起事，陈友谅不成气候，张士诚还在为各路豪强鼓掌叫好。 鲁锦却穿越到合肥地区，投奔处境凄凉的巢湖水师，面对离乱的时局，难道还要再等五年，等着朱元璋带他们过江吗？ 不！鲁锦登高一呼，我要翦平乱世，歼灭暴元，驱逐鞑虏，复我中华，陈纲立纪，救济斯民！ 这皇帝谁做不一样，没了朱重八",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_saw_元末：朕才是真命天子1-886章.txt",
+    readUrl: "https://pan.baidu.com/s/18AsQdXHW6NcsfoLKlDJgXw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/saw/",
   },
 
@@ -62546,6 +63038,7 @@ export const bookItems = [
     excerpt: "世界公认四大图书馆，分别是：大英图书馆、美利坚国会图书馆、法兰西国家图书馆，和华夏国家图书馆。 但四大有五个是常识，经常和四大放一起讨论的是百花图书馆。 它厉害之处有且只有一个：图书馆的创办者是21世纪最伟大的文豪赵既白。 本书又名：《你写动物庄园在影射谁？》《二十一世纪比肩莎翁的剧作家》《影响力：一篇文章32个国家同步连载》《新时代的图书馆扫地僧》《如何让别国主动捐赠古籍》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_say_文豪：这大叔才华横溢1-473章.txt",
+    readUrl: "https://pan.baidu.com/s/1QYzzMm0ogzA4iXyVeMhw9Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/say/",
   },
 
@@ -62563,6 +63056,7 @@ export const bookItems = [
     excerpt: "季宁重生了，还绑定了一个叫“灵犀光影”的导演系统。别人拍电影为艺术，他拍电影只为搞钱！以艺术之名！搞钱！搞钱！搞钱！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_saz_导演的艺术就是搞钱1-298章.txt",
+    readUrl: "https://pan.baidu.com/s/1oUAa0twnQV2tjEDecV4SSQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/saz/",
   },
 
@@ -62579,6 +63073,7 @@ export const bookItems = [
     excerpt: "不死帝国消失的一千年后，当年的种菜小骷髅依旧在耕种着他的农场，直到召唤通道重新开启。“你们饿吗？我种了一千年的菜，存了亿点点食物。”“这些农田都抛荒了吗？我能种东西吗？”“公主的城市在山上不能种菜？那不去了。”“他们要收我的税还不让我种菜？消灭他们！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sba_种菜骷髅的异域开荒1-1706章.txt",
+    readUrl: "https://pan.baidu.com/s/1bE6hqxIbRWNi0CY30GIA-Q?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sba/",
   },
 
@@ -62595,6 +63090,7 @@ export const bookItems = [
     excerpt: "我的名字叫沈云，24岁，是科学家。同时还是TPC总监、修卡的干部、财团X的创始人、超级战队的资助人、炼金之星的总议长。更是集激气、临气于一身的兽拳王者、五行的传人、被宇宙警察S.P.D.全宇宙通缉的通缉犯、将魔法与科技结合的海克斯科技创造者……总之，这是一个成分很杂的特摄厨，在奥特曼、假面骑士、超级战队的世界里面不断路过的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbb_特摄：从迪迦奥特曼开始1-741章.txt",
+    readUrl: "https://pan.baidu.com/s/1dgSXdJGD6iDEfKzXaukmSA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbb/",
   },
 
@@ -62612,6 +63108,7 @@ export const bookItems = [
     excerpt: "重生《神雕》剧组！赵言蹊表示，放开那个小龙女，让我来——从《神雕》开始，赵言蹊做演员，抄小说，拍电影，建院线，从无名之辈成为纵横全球的文娱巨鳄。赵言蹊煽动的翅膀，让一切的一切都在改变，唯一不变的或许只有那一缕悠然随意的月光！【单女主】【纯爱不舔狗】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbc_华娱：这个导演太全能1-313章.txt",
+    readUrl: "https://pan.baidu.com/s/1E72fzN82ZgQVGbV0IxPINQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbc/",
   },
 
@@ -62647,6 +63144,7 @@ export const bookItems = [
     excerpt: "方东明穿越了。 当他从鬼子的尸体中抽出射击技巧时，他就明白，自己有机会多杀两个小鬼子了。 又当他发现杀了小鬼子后，还能获得一些枪械的修复机会时，他就明白，以后打鬼子会更容易了。 抗战为何艰难？ 不就是因为前期小鬼子的装备精良，人员素质高吗？ 但如果这两项 ………… 当军队兵临城下，这时小鬼子的司令官，很震惊的发现，八路居然有众多的火炮，而且还是他们的制式火炮。 随后坦克、飞机、军舰，一一出现在他们",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbe_抗战：兵王的批量制造1-673章.txt",
+    readUrl: "https://pan.baidu.com/s/1LQiLI2b2g7sEhCEbhkL57A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbe/",
   },
 
@@ -62663,6 +63161,7 @@ export const bookItems = [
     excerpt: "地球公关人士谭越，穿越平行时空。“谭越，咱们离婚吧，我意已决，不用再求我了。”“那好吧。”谭越想要好好生活，第一件事就是离婚。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbg_从离婚开始的文娱1-1728章.txt",
+    readUrl: "https://pan.baidu.com/s/141jL56QDneHRa20GNa-HQA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbg/",
   },
 
@@ -62679,6 +63178,7 @@ export const bookItems = [
     excerpt: "金牌编剧继承深夜幼儿园，白天写剧本，夜晚当园长，与古灵精怪的萌娃们上演温馨都市轻喜剧，笑泪交织中见证市井温情。（日常风，温馨风，轻喜风，有萌娃，已有完本小说《与萌娃的文艺生活》《哥哥万万岁》）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbh_奶爸学园1-3466章.txt",
+    readUrl: "https://pan.baidu.com/s/1YYVBtQDeHuMhXHB_yFEDGw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbh/",
   },
 
@@ -62712,6 +63212,7 @@ export const bookItems = [
     excerpt: "在你面前的是，波西米亚剑圣，勃艮第侠盗，天主之剑，圣殿骑士团大团长，约姆斯海盗团大团长，格拉摩根伯爵，安纳托利亚征服者，埃及和塞浦路斯领主，伟大而可畏者，金与血之王埃里克·欧特维尔！穿越为1066年南意大利征服者罗伯特·欧特维尔的次子，老爹却把自己送进修道院，连个男爵都不给。一个诺曼人修道士开始了他的冒险。（微系统小说，以历史人物为主导。）【天国拯救系统】【新手礼包，初级大师反，两对撬锁，路西法仆",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbk_开局中世纪，正在十字军东征1-808章.txt",
+    readUrl: "https://pan.baidu.com/s/18Tgaymwah8Clzy5P1vqDgQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbk/",
   },
 
@@ -62728,6 +63229,7 @@ export const bookItems = [
     excerpt: "（快节奏，大男主爽文）一样的吞噬星空世界，不一样的人生。这是地球人+洪荒生灵在吞噬世界中崛起的故事。基本遵循原著设定，无魔改内容。原创剧情，带各位体验不一样的吞噬之旅。PS：新人写书，30章起飞，50章渐入佳境，越往后边越好看，作者菌在进步中！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbl_吞噬星空之主宰1-1418章.txt",
+    readUrl: "https://pan.baidu.com/s/1HuLoo7L6kgTCo8Ty23lSwA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbl/",
   },
 
@@ -62745,6 +63247,7 @@ export const bookItems = [
     excerpt: "灵能粒子渗透现实已过八百年，人类正值全民进化的时代。在灵界诸位面中漫游历史，和古代英雄征战；在荒野区的魔化妖植森林，和变异巨兽角力；在万众瞩目的至高赛场上，和觉醒强者对决！白朴，一个被时代遗忘的弃子，被移植了一颗神秘心脏。从此，宇宙群星，灵能诸界，皆为坦途。“我以至高神心之名，问鼎进化之路的巅峰神座。”--------已完本460万字同类型小说《进化之眼》，品质保证，欢迎阅读！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbn_全球进化：我移植了至高神心1-1330章.txt",
+    readUrl: "https://pan.baidu.com/s/1dgjpqqvXreD3DR1KOt_W2A?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbn/",
   },
 
@@ -62761,6 +63264,7 @@ export const bookItems = [
     excerpt: "【市井江湖，绿林响马，民俗奇闻】见面道辛苦，必定是江湖。清末民初，社稷倾颓，乱世当头。山海关外，绿林好汉风起云涌。京津市井，江湖奇人层出不穷。这世道，英雄合该有三分匪气！！！……金评彩挂，皮团调柳；蜂麻燕雀，横葛兰荣。少一样，便不成江湖！他叫江小道，绿林报号“鬼拍门”！有关他的一切，还要从光绪二十八年讲起……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbo_民国江湖二十年1-1113章.txt",
+    readUrl: "https://pan.baidu.com/s/1xmCbbItmBza-sQ0Cho2Odw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbo/",
   },
 
@@ -62795,6 +63299,7 @@ export const bookItems = [
     excerpt: "【非正经历史文】、【非穿越当狗文】、【疯批欢乐爽文】、【热血御史，爽得你头皮发麻】…….“朱重八！你宠庶弃嫡，有悖人伦，大明将二世而亡！！”朝会上，洪武大帝朱元璋欲立朱允炆为皇太孙，询问众臣意见。其实就走个过程。但偏偏这时候，有人视死如归的站了出来。朱元璋勃然大怒：“来人！给咱拖出去凌迟处死！”“哈哈哈！朱重八，你看看你这逼样子！”“反了！反了天了！快给咱杀了他——！”…….“嘻嘻，我又回来了！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbq_大明：让你死谏，你怎么真死啊？1-581章.txt",
+    readUrl: "https://pan.baidu.com/s/11FHBIPB7amU4bsAWRSOk3g?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbq/",
   },
 
@@ -62811,6 +63316,7 @@ export const bookItems = [
     excerpt: "“叮！事件‘境界突破’难度72点，您的掷点48+25点，事件成功！”“修炼之路充满了不确定性，每一步都要谨小慎微，如履薄冰……诶？你突破成功了？怎么做到的？”看着师父惊讶的表情，罗峻嘴角却止不住的上扬:“运气，运气而已……”异界，任务，元气，奖励……这个庞杂的世界充满了不确定，两枚能左右概率的骰子，彻底改变了罗峻的人生……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbr_天机骰子1-953章.txt",
+    readUrl: "https://pan.baidu.com/s/1BVTM5_xYp8wpB2y9iR7_bw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbr/",
   },
 
@@ -62846,6 +63352,7 @@ export const bookItems = [
     excerpt: "在和恶龙之母提亚马特的化身战斗时，李明卷入了时空乱流，因此二次穿越到了DC世界。看着哥谭市的乱象，作为圣武士的他无法坐视不理，拾起自己的誓言，向邪恶和混乱发起反击。.“根据新泽西州刑法和哥谭市刑法，即便是精神病，罪犯的罪行也是罄竹难书，作为恐怖分子无法以精神病相关法律减刑，我谨代表所有因被告人受到伤害的民众，强烈要求法院立即对他执行……”“死刑！”李明熟读律法，愿意行走于法律流程之上，申请判处极恶",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbv_美漫世界的圣武士1-365章.txt",
+    readUrl: "https://pan.baidu.com/s/1lR_-BAMdjFp6FZs3VJcfAQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbv/",
   },
 
@@ -62862,6 +63369,7 @@ export const bookItems = [
     excerpt: "“仁静怒那是这个世界上最美的女人。”“嗯~”“仁静怒那是这个世界上最温柔的女人。”“嗯~”“仁静怒那是这个世界上最圆的女人。”“嗯~，嗯？！这句不对，重来！”“。。。。。。”（hy日常文）群：824840417欢迎来玩",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sbx_皇冠亦有所属1-895章.txt",
+    readUrl: "https://pan.baidu.com/s/1S9MgexE1ciYJdalf7dGKIw?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sbx/",
   },
 
@@ -62897,6 +63405,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scb_帝国余晖：从敦刻尔克开始1-418章.txt",
+    readUrl: "https://pan.baidu.com/s/1WfuNXhEN2wibEFC3DLNkPA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/scb/",
   },
 
@@ -62913,6 +63422,7 @@ export const bookItems = [
     excerpt: "昭昭玉鉴辨冤情，剑荡千山映寒星。非是天公偏俊秀，人间必要此光明。展昭的神探之路，自大相国寺开始，一生传奇，全无黑点。直到亲朋好友终于知道，他的法号叫什么。展昭，你还说自己不是戒色大师！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scc_大宋神探录：展昭传奇1-624章.txt",
+    readUrl: "https://pan.baidu.com/s/1EJB4FLCspEdeJndiRjfcTA?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/scc/",
   },
 
@@ -62948,6 +63458,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sce_半岛：和金泰妍传绯闻后开始爆火1-694章.txt",
+    readUrl: "https://pan.baidu.com/s/1zHp7Y3XZZQaGEE6CmEn7bQ?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/sce/",
   },
 
@@ -62965,6 +63476,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scg_被巴萨租去切尔西后的那些事儿1-138章.txt",
+    readUrl: "https://pan.baidu.com/s/1ptIkATagHlRlUpGbtuQJFg?pwd=q7na",
     sourceUrl: "https://www.min-yuan.com/txt/scg/",
   },
 
@@ -62981,6 +63493,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sch_中世纪：天国拯救1-922章.txt",
+    readUrl: "https://pan.baidu.com/s/1PsawBeDXB94c6srpopSDmg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sch/",
   },
 
@@ -62998,6 +63511,7 @@ export const bookItems = [
     excerpt: "刚刚毕业的顾易收到了一个奇怪的游戏机。 当他发现游戏机里的东西不仅仅可以具现到现实，就连里面的操控的人物都是自己家族的老祖宗后。 ——自此； 一个从东汉之初便开始传承的不朽世家于历史长河之中冉冉升起。 他曾亲自操控老祖征伐天下。 他曾见家族之人占据于庙堂之巅，一人之下万人之上。 他曾扶乾坤于即倒，挽大夏于将倾、亦见家族因一人而崩坏，千载筹划险些破碎..... 安天下、扶龙庭、定九州..... 一部",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sck_操控祖宗，从东汉开始创不朽世家1-402章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZMApC18L6njzipLHItOuGQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sck/",
   },
 
@@ -63015,6 +63529,7 @@ export const bookItems = [
     excerpt: "刚刚穿越，人在59年，差点饿死！ 陈晨穿越回1959年，火红年代的开端，也是物资匮乏的年代。 首先他要想办法填饱肚，还有家里嗷嗷待哺的两大两小。 还好他有随身空间，空间储物、空间摄取、空间种田。 缺什么，种什么。 种瓜得瓜，种豆得豆。 空间内： 棕色土，三十日成熟！ 黑色土，十五日成熟！ 红色土，七日成熟！ 普遍每亩收成两百斤以内的时代，空间一亩出产千斤只是小试牛刀！ 火红年代，日子也要过得红火！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scl_火红年代！从随身空间开始1-279章.txt",
+    readUrl: "https://pan.baidu.com/s/18ljXpk8-09JyvirbQfXuSg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scl/",
   },
 
@@ -63032,6 +63547,7 @@ export const bookItems = [
     excerpt: "杨尘原本在老爹的古董店里打扫着卫生，却意外穿越到了一个充满怪物与人类遗骸的末日世界，而十二符咒竟也出现在了杨尘体内。 意识到回不去的杨尘却在末日中偶然认识一位名叫白月魁的白发女子，二人就这么一同在末日中存活下去。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scm_灵笼：十二符咒？我什么都不缺了1-344章.txt",
+    readUrl: "https://pan.baidu.com/s/1jyTPckXlApUI0u5jmav_1g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scm/",
   },
 
@@ -63066,6 +63582,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scp_华娱：男月光正确炼成方式1-267章.txt",
+    readUrl: "https://pan.baidu.com/s/1itd9VUzTDCFt2ip57f0tvA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scp/",
   },
 
@@ -63083,6 +63600,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scq_北美：谁让这只猫当驱魔人的！1-527章.txt",
+    readUrl: "https://pan.baidu.com/s/1-kGGdsDFao8AS10qSeqehw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scq/",
   },
 
@@ -63100,6 +63618,7 @@ export const bookItems = [
     excerpt: "穿越到了50年代，只有一枚1立方的储物戒指，怎么办？ 孙志伟正在苦恼的时候，更可怕的事情发生了，父母在眼前双双被杀，怀里还有一个4岁的妹妹，这是王炸开局？ 火红的岁月里有着火红的记忆，一个意外回到过去的现代人，带着一个小小的储物戒指，重走一遍父辈们波澜壮阔的历程。 扫故宫、发粮票、修水库、放卫星、抓老鼠、打麻雀、吃食堂、小球藻、人造肉、叶蛋白...",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scr_50年代：从一枚储物戒开始1-1726章.txt",
+    readUrl: "https://pan.baidu.com/s/1w4U6r_xhqCy_o9_xZ3wmzA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scr/",
   },
 
@@ -63133,6 +63652,7 @@ export const bookItems = [
     excerpt: "一场实验室爆炸，顶尖汽车工程师陈明睁开眼，成了“汽车制造厂”的技术员。眼前是煤油灯熏黑的图纸、手摇机床的轰鸣，和一纸仿制“嘎斯51”卡车的军令状。物资匮乏？技术封锁？他脑海中的未来技术就是破局的钥匙！他本以为他会一直在造车的路上继续走下去，可是厂里给的图纸却不再是简单的汽车图纸这也让陈明懵了。“我们这不是造车厂吗？怎么图纸……看着像装甲车底盘呢？！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sct_不是造车厂吗？怎么改军工厂了1-284章.txt",
+    readUrl: "https://pan.baidu.com/s/190lvIjAFUONePFvt1jTDFA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sct/",
   },
 
@@ -63148,7 +63668,7 @@ export const bookItems = [
     chapters: "1-736章",
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/110iEDkdIJxr1humhy2iq0w?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1raujvhpyku-Az2KUhD-Cag?pwd=gtah",
     downloadUrl: "/books/m_scu_玩家重载1-736章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/scu/",
   },
@@ -63167,6 +63687,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scv_一人之下：钢铁之躯1-141章.txt",
+    readUrl: "https://pan.baidu.com/s/18335oG0fISTwU4Q69PtTnA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scv/",
   },
 
@@ -63202,6 +63723,7 @@ export const bookItems = [
     excerpt: "前世他是警界精英，今生却成了港综世界菜鸟见习督察。他还觉醒[罚罪警察辅助系统]——只要打击犯罪……就能变强。羔羊医生？‌我提前布控，24小时破案；‌叶继欢抢金铺？‌我带队设伏，一网打尽；‌世纪贼王想绑架？‌我直接送他进赤柱。从PTU到CID，从警司到警队一哥……这一世，他将亲手终结港岛的犯罪黄金时代！他要让所有港片悍匪们知道——什么叫“犯罪终结者”！（PS:非卧底文，因剧情安排需要，港片时间线等会",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_scz_杀穿港综：从见习督察到警队一哥1-568章.txt",
+    readUrl: "https://pan.baidu.com/s/1nda8MKvQyzThUIfSY9BWMg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/scz/",
   },
 
@@ -63218,6 +63740,7 @@ export const bookItems = [
     excerpt: "沈国栋临死前的最后一个想法就是，千万不能娶个带孩子的寡妇，给别人养孩子。没想到再一睁眼，他回到了六十年前，十八岁的时候。这一次，他要分家，摆脱那些吸血的亲戚，单门独户过自己的小日子。六零年代小山村，长白山脚下、松花江畔，绵延无尽的大山里有灵芝、猴头、老山参，还有狍子、梅花鹿、野猪、熊瞎子，川流不息的江水中有蝲蛄、蛤蟆、三花五罗十八子。沈国栋扛起钢枪进山打猎，挽起裤腿下河摸鱼，凭借一身好本事，日子越",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sd_重生六零小山村：狩猎白山松水1-721章.txt",
+    readUrl: "https://pan.baidu.com/s/1sXBIjwq9Eb1lsp08FnOMrw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sd/",
   },
 
@@ -63235,6 +63758,7 @@ export const bookItems = [
     excerpt: "赵清玄刷到一个奇怪的视频。视频里是一个陷入饥荒的村子，而他能随意传送物资。他随机一扫，锅里吃剩泡着的刷锅水投送过去。崇祯三年，庆阳府，岁大饥。可怜的姐弟俩家里粒米也无，眼看着就要饿死。突然，一盆喷香的稀饭从天而降。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdb_我能从现代传送物资到大明1-600章.txt",
+    readUrl: "https://pan.baidu.com/s/1AtKznEzqHCPQ4PrJXI2WpA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdb/",
   },
 
@@ -63270,6 +63794,7 @@ export const bookItems = [
     excerpt: "我是大春，挖的不是矿。挖的是全球财团玩家的墙角。掘取的是女法女骑女医师女天使女魅族女血族女海妖女精灵各族美女的芳心。我很正派，但开局就混成最大的红名大反派。我想低调，但世界大喇叭不允许我低调。我在摆烂，但别人总觉得我老谋深算。我拼命苟，但国服大佬们非要把我吹捧成横扫全球的超级高手。我其实只是一个被裁员瞒着家人躲在网吧挖矿的老登…………这里是人工智能数字币时代，风靡全球的挂机挖矿魔幻经营冒险游戏《全",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdi_全球挖矿1-1089章.txt",
+    readUrl: "https://pan.baidu.com/s/1rB8DT9e5Mq37qFvi2ACPPA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdi/",
   },
 
@@ -63287,6 +63812,7 @@ export const bookItems = [
     excerpt: "打工人徐云结婚前，面对吸血女的无理要求，直接怒骂道：“滚！”从此梦想照进现实，获得了随心所欲系统。【面对吸血女友，宿主做出了随心所欲的决定，放弃结婚，奖励现金20万元。】只要他做自己想做的事，就能获得系统的奖励。随后，徐云的人生变了，身边的美女也多了起来……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdn_从随心所欲开始神豪1-602章.txt",
+    readUrl: "https://pan.baidu.com/s/1YKrm5JayGPJh9uG2EtTCFA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdn/",
   },
 
@@ -63303,6 +63829,7 @@ export const bookItems = [
     excerpt: "穿越百年、架空盛世，朝堂江湖，暗流汹涌，神异回潮、传说再现，真相如血，人心如铁，隔空而至，唯我救赎。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdp_唐奇谭1-1600章.txt",
+    readUrl: "https://pan.baidu.com/s/1pkgvyjThDt7sindP5kCzfg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdp/",
   },
 
@@ -63319,6 +63846,7 @@ export const bookItems = [
     excerpt: "汉末丧乱，天下纷扰。皇帝、宦官、外戚、豪强、四张无形之手宰割天下。瘟疫、战乱、苛税三重大山如泰岳压顶，民间已涂炭。野心家静坐邬堡，胡人则奋马边塞。即将神州陆沉，万马齐喑的时代，注定将有千古英雄力挽天倾。风雷滚滚声中，提前知晓了今后历史的少年刘备睁开双眼。与他同时苏醒的还有大汉国运的长明灯。早安，大汉朝！……历史向、前三国文。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdq_汉末昭烈行1-508章.txt",
+    readUrl: "https://pan.baidu.com/s/16tE0kL2XJSVYyVx1wPWSNw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdq/",
   },
 
@@ -63335,6 +63863,7 @@ export const bookItems = [
     excerpt: "袁大古发现自己掌握了一项奇特的力量。那便是可以随机获得词条描述，把词条给自己挂上便可以获得词条描述的力量，只是，这力量的副作用，将会带他随机地穿越不同的世界。而他第一个词条便是【惊世智慧】“惊世智慧，告诉我怎样把问题解决！”惊世智慧：“那便使用你的绝世力量吧！”智慧不智慧的先不提，你就说惊世不惊世吧！ 在道诡世界：“李火旺，你就练这个磁场转动，这个劲大”对岳不群：“师父，这是我实地调研之后，总结了",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdr_我的惊世智慧1-1021章.txt",
+    readUrl: "https://pan.baidu.com/s/1J6sViKMtsc08kGi80tDb6Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdr/",
   },
 
@@ -63369,6 +63898,7 @@ export const bookItems = [
     excerpt: "林长安带着《帝国崛起》系统意外的回到了42年的欧洲战场，成为了鹰酱海军的后勤大兵，靠着系统中兑换的生化人、科技、战车在这个最后的殖民时代抢占了东南亚，将南洋华人汇聚旗下。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdu_梦回二战从西西里开始的财阀帝国1-783章.txt",
+    readUrl: "https://pan.baidu.com/s/1iqyabHUMWxBOfTQxkUXghQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdu/",
   },
 
@@ -63386,6 +63916,7 @@ export const bookItems = [
     excerpt: "某天，朱河大草原上，可穿梭两界的时空门轰然打开！随后，合成旅组成的钢铁洪流迅速调动起来……轰轰烈烈的跨位面友好交流之旅就此开始！大家本以为这就是个平平无奇的魔法中世纪，不过探索后，这个世界非常不简单！关键字：「战锤」、「天穹交汇」、「时空裂缝」、「万族争霸」、「科技魔法」、「多元宇宙通道」",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdv_耕战异世界的钢铁洪流1-669章.txt",
+    readUrl: "https://pan.baidu.com/s/1q1fMMsWikei4pevRwfRRTQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdv/",
   },
 
@@ -63403,6 +63934,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sdw_华娱：从1995开始1-437章.txt",
+    readUrl: "https://pan.baidu.com/s/1E_buxjAJX2KA_N44rv4k3w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sdw/",
   },
 
@@ -63419,6 +63951,7 @@ export const bookItems = [
     excerpt: "王向东魂穿过去，成为一个开挂的猎人，体验那个年代的生活，感受那个年代的气息，重点是让自己的日子过得有声有色。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_se_四合院之我是猎人1-1515章.txt",
+    readUrl: "https://pan.baidu.com/s/16NNokuyeNLMJ1omsdRTFQw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/se/",
   },
 
@@ -63454,6 +63987,7 @@ export const bookItems = [
     excerpt: "一朝穿越，踏入草原，扑面而来的是百废待兴的紧迫。谢长青背起医疗箱，穿梭在牧场，与疫病展开殊死搏斗。从棘手的羔羊痢疾开始，在这广袤草原上，他用行动诠释着医者担当。逐步成长，赢得牧民信任。最终，谢长青站上行业巅峰，成为国家首席兽医师。在草原的滋养下，肆意绽放、野蛮生长！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sec_草原牧医1-462章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ms-I3OwLMXH475X4z0dIIg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sec/",
   },
 
@@ -63471,6 +64005,7 @@ export const bookItems = [
     excerpt: "网友：“张哥，我的相亲对象说自己是库里那样的球员，一人一城，但是我调查发现，她其实是杜兰特，陆续转会过好几支球队，而且专找强队，但她的投射能力我还挺满意的，这种情况还要不要继续？”张哲：“建议让专业的医疗团队评估一下她有没有过伤病经历，没有的话可以先试训。”……网友：“主播主播，我才26岁，可我妈找的媒婆老是给我介绍离异带孩子的，关键有一个我还看上了，你说我这个年纪，能给孩子一个家吗？”张哲：“你",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_see_直播相亲：我的情报无限刷新1-766章.txt",
+    readUrl: "https://pan.baidu.com/s/1hMQwp1plYM2Ek3nDarvKsA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/see/",
   },
 
@@ -63505,6 +64040,7 @@ export const bookItems = [
     excerpt: "23岁的姜在宇以独立练习生的身份参加了选秀节目《Boys Planet》，明明是明星选手却落得做票卡位的下场。从掉入低谷到再上巅峰，离开了节目以后的他决心不再躺平……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_seg_半岛：被做票的我不再躺平1-365章.txt",
+    readUrl: "https://pan.baidu.com/s/1BwqLAyoKZPz4JYupdOQe4A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/seg/",
   },
 
@@ -63521,6 +64057,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sek_斗罗大陆，普通魂师的逆袭1-358章.txt",
+    readUrl: "https://pan.baidu.com/s/1eoPJK-bxHZCEI1ioR_sKtQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sek/",
   },
 
@@ -63555,6 +64092,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_seo_亮剑：我的战场单向透明1-281章.txt",
+    readUrl: "https://pan.baidu.com/s/18tBBMVhy337pFZeVssw9qg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/seo/",
   },
 
@@ -63572,6 +64110,7 @@ export const bookItems = [
     excerpt: "穿越到神话时代的李明，只是一个普通的凡体，他靠着一面神秘的青铜镜，硬生生的自创吞天魔功，蜕变为混沌体，在神话时代创下了赫赫威名，被人称之为魔尊。。。李明：其实我也不想这样，可是想到一条狗都能成为准仙帝，难道我混的再差，还能不如一条狗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sep_遮天：我在神话时代自创吞天魔功1-640章.txt",
+    readUrl: "https://pan.baidu.com/s/1uTr4CgRequAEILAyRQGsCg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sep/",
   },
 
@@ -63588,6 +64127,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ses_年代：汉城往事19951-496章.txt",
+    readUrl: "https://pan.baidu.com/s/1dhgxusDg0n9cSLAEw2uFnQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ses/",
   },
 
@@ -63605,6 +64145,7 @@ export const bookItems = [
     excerpt: "又名《超级万界工厂》秦天遭人下套，公司即将面临破产，却意外获得了《万界工厂》系统。这里居住着千奇百怪的打工人。丧尸学徒：我们没有脑子，但我们不知疲惫。矮人工匠：酒，锤子，两个我都要。奥术大师：我以智者的身份告诉你，魔法并不存在，唯有奥术才是真理。炼金术士：魔法还是科技？摇一摇，摇了就有结果。修道方士：占星、演算、因果，嗯……你输了。从机械制造，到全自动化工厂。从纳米材料，到生物基因编辑技术。从量子",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_seu_科技制霸：我的员工真不是人！1-1106章.txt",
+    readUrl: "https://pan.baidu.com/s/1y_x5k1TDxD_I9Si8AlkjwQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/seu/",
   },
 
@@ -63621,6 +64162,7 @@ export const bookItems = [
     excerpt: "利欧·埃力格，一名就读于总武高三年级的学生，背地里却是一个恶魔。 在这个存在恶魔、天使及堕天使的世界里，刚刚晋级为上级恶魔的他，在侍奉部的活动室中对着自己的漂亮学妹说出了那句话—— “你相信恶魔的存在吗？” 这是一个恶魔与人类的混血儿为了收服眷属，而在这个平静却不平凡的世界中逐渐放飞自我的故事。 恶魔不会谈恋爱，除非你主动臣服…… （PS：已完本八本长篇小说《少女大召唤》、《全方位幻想》、《直死无",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sev_恶魔不会谈恋爱1-413章.txt",
+    readUrl: "https://pan.baidu.com/s/1llBD4lSAApJzpyBD90d4Ow?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sev/",
   },
 
@@ -63638,6 +64180,7 @@ export const bookItems = [
     excerpt: "穿越了，姓罗，是个写话本的秀才。既然如此，《三国演义》肯定得写啊，《水浒》《西游》《红楼》《聊斋》甚至《射雕》都得考虑起来。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sey_我在大明当文豪1-506章.txt",
+    readUrl: "https://pan.baidu.com/s/1z1tfIuBn-S_K9yGqLTilWg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sey/",
   },
 
@@ -63654,6 +64197,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfa_快收了神通吧！1-497章.txt",
+    readUrl: "https://pan.baidu.com/s/1pfiHGRwYEwP3n3NUv7UtVQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfa/",
   },
 
@@ -63670,6 +64214,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfb_铮铮大宋1-592章.txt",
+    readUrl: "https://pan.baidu.com/s/1OjiC0_rw6yc6HRONrqiEKg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfb/",
   },
 
@@ -63687,6 +64232,7 @@ export const bookItems = [
     excerpt: "【原著向】＋【群像】＋【人类群星闪耀时】 《史上第一面壁者肯定是罗辑啊》 《希恩斯吗？思想钢印先驱，合情合理》 《章北海？民间面壁者，能接受》 《什么叫有面壁者一锤子砸碎了水滴？》 当两千余艘恒星级战舰飘荡在宇宙时，水滴迎来得不是春节两千响，而是一个手握地质锤的人类。 罗辑握着黑森威慑法则陷入沉思：“你是说，有人一锤子敲爆了水滴，是吗？” “不止，他还提着冥王星，朝着三体舰队抡了过去。”---杂交",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfd_面壁者，但元婴期1-798章.txt",
+    readUrl: "https://pan.baidu.com/s/1X40dTjof25V8V73f7p0G1g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfd/",
   },
 
@@ -63704,6 +64250,7 @@ export const bookItems = [
     excerpt: "神乐桐生穿越到了游戏王DM决斗都市时期。在这个打牌至上的世界，赢者获得一切，败者失去所有，整个童实野市都化作了阴谋与卡牌交织的决斗之城。神乐桐生终于站在了童年所憧憬的舞台，只见他突然露出快乐的笑容：“将你场上的三只怪兽作为祭品！将神赐予你！拉的翼神龙—球形体！”“发动魔法卡，洗脑，心变，强夺！获得你场上一只怪兽的控制权！”“超魔导龙骑士-真红眼龙骑士！为我带来胜利！”本书又名【游戏王：我被黑魔术少",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfe_游戏王：我被精灵绑架到决斗都市1-609章.txt",
+    readUrl: "https://pan.baidu.com/s/1ueP2Ks5yUNltdGolcsu5dA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfe/",
   },
 
@@ -63721,6 +64268,7 @@ export const bookItems = [
     excerpt: "一朝穿越到海贼王世界，艾格给自己立了个目标，两年半后拳打四皇，脚踢大将，推翻天龙人统治。 然而，将近20年后，什么四皇大将，什么海贼王海军元帅，什么one plece，什么正义，什么世界政府都去见鬼吧！ 再次面对这混乱的大海，艾格决定回家成家立业，安安静静过完这辈子。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sff_在海贼世界开始成家立业1-435章.txt",
+    readUrl: "https://pan.baidu.com/s/1h7rGAjQYRVOXLd5ZskOdaA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sff/",
   },
 
@@ -63738,6 +64286,7 @@ export const bookItems = [
     excerpt: "穿越大唐李愔，携带着国战氪金游戏征途。两朝皇族血脉加身，身份尊贵非凡，可又无缘皇位。当不了大唐皇帝，不是还有别的地方吗？非得去内斗，搞玄武门继承制吗？格局要打开！看他如何一步步成为球长，然后走向诸天。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfg_大唐：从捣蛋皇子到诸天至尊1-156章.txt",
+    readUrl: "https://pan.baidu.com/s/1fFyg_LS7_ai5UqE_Q9Hadg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfg/",
   },
 
@@ -63755,6 +64304,7 @@ export const bookItems = [
     excerpt: "省直公务员陈着意外重生自己高三的那一年。 于是，一个木讷腼腆、和女生说话都会脸红、只知道学习的高中生； 突然变得通晓人情世故，说话做事总是恰到好处，不仅改变了人生轨迹，也越来越吸引女孩子的关注。 女生：陈着你有什么优点？ 陈着：人老实，话不多。 发小：我觉得骗人是不对的，你现在一点都不老实。 陈着：没骗！人老，实话不多。 （首先声明，绝对不是作者真实经历）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfh_都重生了谁考公务员啊1-872章.txt",
+    readUrl: "https://pan.baidu.com/s/1p_-qwfVPTtlUzxozCWGEpA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfh/",
   },
 
@@ -63771,6 +64321,7 @@ export const bookItems = [
     excerpt: "所谓天子者，父天母地，为天之子！ 或曰：天子做民父母，以为天下王！ 而朕，曾为天子！ 承六世之余烈，邵述先帝之志。 鞭西贼而惩旧党，所能必为，所伐必克，扫皇宋百年之积弊，使天威远畅，丑氐震叠！ 奈何天不假年，英年早逝！ 幸上苍哀怜，使朕于九百年后重活，留学于现代之世，经历科学之盛！ 如今！ 朕留学归来，重归少年。 三尺长剑在手，问尔群臣： 何日缚得苍龙？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfi_我在现代留过学1-1201章.txt",
+    readUrl: "https://pan.baidu.com/s/1dSgmV06WmK5XrHSpsKwy-Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfi/",
   },
 
@@ -63788,6 +64339,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfj_做我妈妈吧，魔法少女！1-418章.txt",
+    readUrl: "https://pan.baidu.com/s/1mnik6-Pu9xynMfpnQBNSeQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfj/",
   },
 
@@ -63805,6 +64357,7 @@ export const bookItems = [
     excerpt: "海圆历1496年，哥尔D罗杰等人在一座孤岛上找到了因为没有食物差点被饿死的鸣人之后的几十年，漩涡鸣人也登上了大海的舞台，他被人称作：“一人成军”、“大豪侠”、“暴食恶鬼”、“罪大恶极之人”、“世界政府通缉犯”、“海贼王的前船员”海圆历1520年，已经放弃寻找故乡的鸣人打算去东海看看被香克斯寄托梦想的那个小子木叶60年，鸣人重新在自己的小床上醒来，一头雾水啊，好像也不是很想要回到这里，我还能回另一边",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfk_火影：从罗杰船上归来的漩涡鸣人1-637章.txt",
+    readUrl: "https://pan.baidu.com/s/16cgr9UTy4GF6JHRLwy1XRQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfk/",
   },
 
@@ -63839,6 +64392,7 @@ export const bookItems = [
     excerpt: "【铭记历史，缅怀先烈，奋勇前行——纪念抗战胜利80周年征文三等奖作品】 要死了、要死了！兄弟们，我目前在1937的淞沪战场上，前面就是一辆鬼子的小豆丁坦克，但是我手里只有一把菜刀。 兄弟们，这个该怎么破？ 在线等，挺急的……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfm_抗战从淞沪开始1-892章.txt",
+    readUrl: "https://pan.baidu.com/s/1mPTs9cgaK6TFwTY0d-QyLA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfm/",
   },
 
@@ -63856,6 +64410,7 @@ export const bookItems = [
     excerpt: "穿越吞噬星空，认命过后想抱罗峰大腿的周泽，却无意中觉醒特殊的教学天赋。 不仅能获得学生的感悟，更是能叠加学生的悟性！ 洪：什么！我老师拜周泽为师了？？？ 雷神：你们都拜师，那我也拜师，哈哈。 伯兰：有老师在，谁说我不能时间法则和空间法则同修？ 真衍王：罗峰，我们各论各的。 罗峰：老师，我该叫你老师还是师祖，又或者是太师祖？ 直到有一天，人类宇宙最强者巨斧创始者：“项槖七岁而为孔子师，吾为何不能拜您",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfn_吞噬星空：震惊！巨斧要拜我为师1-803章.txt",
+    readUrl: "https://pan.baidu.com/s/1dexRfjzU-FSehB4PlKWkgw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfn/",
   },
 
@@ -63873,6 +64428,7 @@ export const bookItems = [
     excerpt: "好消息，林冬阳觉醒系统了。坏消息，系统名为【冠军登峰系统】，只有击败冠军强敌才解锁奖励。林冬阳看着系统简介，指了指自己鼻子。我打冠军？真的假的？不想给奖励，可以不给。林冬阳看这系统要求，刚准备摆烂却发现了不对。他望向了隔壁那年仅十二岁的少年，却看见系统提示【Bin，2022年MSI冠军.....】这不是才2015年？还有为什么我明明才17岁，系统却显示我27了？哦……系统好像出BUG了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfq_系统出错后，我成了LPL救世主1-422章.txt",
+    readUrl: "https://pan.baidu.com/s/1imQjUILAuiBlaH4zyMdDHg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfq/",
   },
 
@@ -63890,6 +64446,7 @@ export const bookItems = [
     excerpt: "穿越后一年，迫于生计成为训练家的罗牧一不小心通过了冠军测验。紧接着，他当场发表了退役宣言，并表示曾经经历了996摧残的自己想要过上悠闲平静的生活。然而，在他斥巨资购下一片土地准备修建属于自己的农场时，迟来许久的金手指忽然降临。这一年，时光机还未被研制出来，奥琳/弗图还未彻底醉心第零区的研究.......一边是暗地里想尽办法为他提升实力的聊天搭子特殊提示系统，一边是因为莫名其妙人物和宝可梦的乱入，画",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfs_精灵：帕底亚退役冠军的再就业1-1151章.txt",
+    readUrl: "https://pan.baidu.com/s/1QSBrZnYyJCyMJ6tiLNcCkg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfs/",
   },
 
@@ -63940,6 +64497,7 @@ export const bookItems = [
     excerpt: "江山笑，烟雨遥，涛浪淘尽，红尘俗世，知多少？ 另一个世界，武道从未消失，修行未曾止步！ 都市繁华下，隐藏了多少古老的神秘！ 红尘乱象中，何人清唱侠骨柔情！ …… 这一日，我若出山，尔等皆是蝼蚁！ 一本披着都市日常外壳的武侠文！ （群号250203315，大家可以在群里提意见）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfw_高武：陪练十年，一招出手天下知1-423章.txt",
+    readUrl: "https://pan.baidu.com/s/1bqMvKWfu9Zy_GOXbx-yCPQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfw/",
   },
 
@@ -63957,6 +64515,7 @@ export const bookItems = [
     excerpt: "重回78年的农村，年满十八岁的原主入伍参军，即将成为了军队中的一员。 等着周旭重生过来的时候，手里握着的是一张入伍通知书，半个月后报到？ 我还想要挥斥方遒。 或是下海经商，拳打南山敬老院？ 或是进入文娱界收服南龚雪北朱琳！再不济复读，他也能行呀！你告诉我，参军了？ 看着报纸上面的“投稿一栏”！ 周旭脑袋灵机一动！！成不了商业大亨，我还进不了文工团吗？……不久后！周旭不仅创作作品，还上前线踊跃报道！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfy_1978：从参军开始的文豪1-493章.txt",
+    readUrl: "https://pan.baidu.com/s/1qrFzEzgfldSU-H39DM5a-w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfy/",
   },
 
@@ -63974,6 +64533,7 @@ export const bookItems = [
     excerpt: "【火爆爽文】五年前，废物叶辰犹如地上蠕虫般被人耻笑！但是五年后，他带着一百位上古大能回来了！ 吊打一切，谁与争锋！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sfz_都市极品医神1-12939章.txt",
+    readUrl: "https://pan.baidu.com/s/1HNrG9RQ2mf5rqejBzmd1lQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sfz/",
   },
 
@@ -63991,6 +64551,7 @@ export const bookItems = [
     excerpt: "《从撞碎公知开始推平娱乐圈》 出生于2005年的Z世代水军头子，重生在1998年。 他对于这个时代没有任何滤镜，因此感到强烈窒息。 影视剧粗糙的画质，辣眼的特效，破布般的服装，糊弄鬼一样的妆容，能凑合就凑合的拍摄理念…… 男男女女，导演制片，统统都是垃圾。 少年公平的拷打一切，并且带着怒火揭竿而起。 是时候给华娱一点来自于更高维度的震撼了！ PS：只要我公正的黑每一个人，谁敢骂我是喷子？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sga_Z世代艺术家1-579章.txt",
+    readUrl: "https://pan.baidu.com/s/1cL2RvqZcPUTgxBtavjjPsA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sga/",
   },
 
@@ -64025,6 +64586,7 @@ export const bookItems = [
     excerpt: "大哉乾元，万物资始，乃以统天。 无上明尊，时乘六龙，所其无逸。 ——————————————————— 这是一个土著主角的穿越者老爷爷苏醒，金手指成精了的故事。…………………………我钱晨一路走来，从来只靠自己！太上爸爸救我！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgc_明尊1-1360章.txt",
+    readUrl: "https://pan.baidu.com/s/1bQuc7rhcxkx4fhJl5IXcuQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgc/",
   },
 
@@ -64042,6 +64604,7 @@ export const bookItems = [
     excerpt: "罗伯森来到这个剑与魔法的世界，成为了法兰克王国一名岌岌无名的军官，刚来就被丢进两大种族的绞肉场之中。还好他觉醒了骑砍系统。”叮！今日训练已完成，士兵经验加10“”叮！一阶兵种法兰克民兵经验已满，可升级法兰克步兵/法兰克弓箭手。“”叮！宿主完成骑士八技训练，经验值增加。“多年后，当异界的深渊领主大举入侵之时。”谁能告诉我为什么他的手下全是超凡军团啊？“【领主】【奇幻】【战争】【经营】【种田】【权谋】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgd_领主：我用骑砍系统肝经验1-988章.txt",
+    readUrl: "https://pan.baidu.com/s/1d67tprQb6zaxw08BSxFlBA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgd/",
   },
 
@@ -64058,6 +64621,7 @@ export const bookItems = [
     excerpt: "本书又名《亏成首辅从致仕回乡开始》、《说好致仕回乡，内阁首辅什么鬼？》、《零零后内阁首辅》…………“嘉靖的钱，我拿两百万两，分他一百万两。”“他非但不罢我官，不准我致仕，居然还感谢我，让我取代严嵩做内阁首辅？”“电视剧里可不是这么演的啊……”“难道我鄢懋卿的祖坟真的冒青烟？”鄢懋卿百思不得其解。从穿越第一天起，他就只想带着进士的特权身份致仕，远离其智若妖的嘉靖和满朝悍臣，像陶渊明一样回到乡里做个与",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgf_大明：我鄢懋卿真的冒青烟1-650章.txt",
+    readUrl: "https://pan.baidu.com/s/13Cx1w8nsz1mVW1Bfwr9M_g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgf/",
   },
 
@@ -64075,6 +64639,7 @@ export const bookItems = [
     excerpt: "温禾从没有想过他会穿越到武德九年。 他也没想到自己有一天会登唐入士。 直到那一天。 走投无路下，他来到了秦王府。 “未来的天可汗陛下，我真的是从未来来的，你要信我啊。” “这本大唐避坑指南，不需要998，也不要98，只要宰了李元吉，就能免费带回家。” 望着面前这自称是穿越者的少年，李世民看了看他，又看了看院子内挖好的坑。 “你是自己跳，还是本王帮你跳？” 温禾：“别激动别激动，难道你就不想了解一下",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgg_大唐：开局为李二献上避坑指南1-868章.txt",
+    readUrl: "https://pan.baidu.com/s/1o1udo7mvXxFu2RPdtYsqZg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgg/",
   },
 
@@ -64092,6 +64657,7 @@ export const bookItems = [
     excerpt: "穿越平行世界，觉醒地球游戏系统，潘图直呼从未如此美妙的开局！正当他打算大干一场时，却发现系统提供的游戏资料居然是残缺的！《上古卷轴5》只剩下溪木镇与鸡，《巫师3》只剩下昆特牌，《动物森友会》只剩下大头菜……许多年后。当被记者问起，为什么只有《昆特牌3：狂赌》却没有《昆特牌1》和《昆特牌2》时，潘图表情尴尬道：“如果我说这游戏原名叫巫师3，你信吗？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgh_说好3A大作，昆特牌什么鬼1-744章.txt",
+    readUrl: "https://pan.baidu.com/s/1gsMJuY1skKqnd402J_81uw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgh/",
   },
 
@@ -64126,6 +64692,7 @@ export const bookItems = [
     excerpt: "微博爆料【某二字男顶流和某三字女顶流秘密分手，正式结束为期六个月的恋情】黑粉：“靠，直接报魏沐身份证得了，魏狗又双叒叕分手！！”新粉：“你们闭嘴，不许黑我家哥哥，人家正经谈恋爱，投入感情的！！”老粉：“好耶，老魏分手，终于有新歌听了。”多年以后，面对微博数百万粉丝留言，魏沐准会回想起那个遥远的下午。“艹，我当时就写了首歌，怎么就成分手大师了？”PS：（华娱文+无系统+多女主+男主非土著）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgn_华娱2008：从分手快乐开始1-677章.txt",
+    readUrl: "https://pan.baidu.com/s/1576UMpx_sCMhrKvGlVcX7A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgn/",
   },
 
@@ -64143,6 +64710,7 @@ export const bookItems = [
     excerpt: "本书又名《Niko：老王别走了，咱俩不同意Major夺冠了》《对虾四连冠的日子》《加点系统，枪枪封神碾诸神》《元元尼尼孩孩三虾狂舞》《老王老汤谁是玩机器亲爹》“谁是最好的cn选手？王元【别斯特别别】：别别别。”“这人死了这么多次一次冠军都没有，而kobe死了一次就有五个冠军。”当王元研发i17成功，看到自己身边的niko一个冠军都没有，自己死了也那么多次，马上就要回家，于是嗷嗷叫着一声冲上去把对面",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgo_CS：加点！压donk干载物！1-288章.txt",
+    readUrl: "https://pan.baidu.com/s/1sRbhcMH3E60kgq763rfI4g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgo/",
   },
 
@@ -64177,6 +64745,7 @@ export const bookItems = [
     excerpt: "“我能听见动物说话。”“......是吗。”“您不相信吗？”“还行吧。”“金融危机就要出现了。”“......真的？”“是的，就在六年后。”“......你觉得你精神状态正常吗？”“......说实话，我也不清楚。”……顾晓穿越2002！坏消息，没钱，没本事，记忆力还不咋好；好消息，有挂，就是挂有点怪............从天龙到药神......从演到导......顾晓一步一步走向最高！顾晓：“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgt_华娱，我的金手指有点怪1-452章.txt",
+    readUrl: "https://pan.baidu.com/s/15qhPy8Uvjtvapi-IglMiMw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgt/",
   },
 
@@ -64193,6 +64762,7 @@ export const bookItems = [
     excerpt: "（偏暗黑风，无感情线）神秘酒店中的十七幅黑白遗像，装满鬼魅的十个房间，在灵异之地挣扎的三两活人。完成匪夷所思的生路，接引世间诡异入住，多重人格复生…季礼和这所诡异酒店的历代店长都不一样。他，从来都不是个正常人。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgu_诡异监管者1-1770章.txt",
+    readUrl: "https://pan.baidu.com/s/1LnZxSvBSHX6jfUHeNNIvnw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgu/",
   },
 
@@ -64209,6 +64779,7 @@ export const bookItems = [
     excerpt: "吴忧回到少年时代，脑海中与他训练成功的AI融合，从此，他成了捕捉光影的大师。故事，从某一年的威尼斯开始了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgx_华娱之从名扬威尼斯开始1-609章.txt",
+    readUrl: "https://pan.baidu.com/s/1hjW55mXonsMYsJQk5sQj1w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgx/",
   },
 
@@ -64226,6 +64797,7 @@ export const bookItems = [
     excerpt: "穿越成西门庆，见到的第一个女人不是潘金莲竟是红楼秦可卿。这北宋靖康之耻将临，亦如红楼将倾！我堂堂清河县一霸，仗着一手老中医和假药铺，在宋徽宗跟前混的是风生水起！潘金莲，李瓶儿遇上了薛宝钗，林黛玉，这些天底下最能斗的女人们凑在一个园子，也不知谁更厉害！惹恼了大官人我，又是一顿家法大棒伺候！有干爹蔡京撑腰，抄了贾府也是顺手的事。我爬啊爬！爬垮了干爹，爬塌了徽宗钦宗。爬到最高处，只剩我一个权倾朝野！黄袍",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgy_红楼芳华，权倾天下1-616章.txt",
+    readUrl: "https://pan.baidu.com/s/1HPucMULA7ZJnTEtnw70ncw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgy/",
   },
 
@@ -64243,6 +64815,7 @@ export const bookItems = [
     excerpt: "2004年的半岛，刚从亚洲金融危机带来的影响中走出，财阀势大政坛混乱，军中丑闻不断...再活一世的李武哲奋斗多年，成为一名垄断军队内部案件侦查权的军事检察官。身为军事检察官，理应高呼忠诚，持法律武器，成为军中正义的化身，打击那些丑闻缠身的大人物。“阁下，你到底想要什么？”李武哲眼中精光闪烁，“与这些碌碌无为的虫豸共事，绝对无法取得成功，他们已经不是真正的军人了，我要节制半岛兵马，给予他们凌厉打击！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sgz_韩综：人在半岛，节制天下兵马！1-600章.txt",
+    readUrl: "https://pan.baidu.com/s/1UAKYa7QxFcLe6IQvoulLYw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sgz/",
   },
 
@@ -64259,6 +64832,7 @@ export const bookItems = [
     excerpt: "【唯我独法】【系统错位】【动物日常】【温馨治愈】杨奇得到一个御兽修仙系统，初始任务就要求他拜入御兽宗。可现实哪来的“御兽宗”？抱着试探，杨奇应聘进入动物园，没想到真成了！解救被猕猴绑架的小孩——【宿主临危不惧，勇气可嘉，从“八臂金刚”手中智救无辜幼童，特此奖励：万兽亲和】给东北虎拔除刺在牙龈上的骨片——【恭喜宿主完成任务，助力“铁甲暴虎”恢复王者之风，特此奖励:小搬运术】安抚受惊跑出笼舍的棕熊——",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sh_入职动物园，系统说我拜入御兽宗1-421章.txt",
+    readUrl: "https://pan.baidu.com/s/1CiU_xQEORcIkKQo1IJiSMA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sh/",
   },
 
@@ -64276,6 +64850,7 @@ export const bookItems = [
     excerpt: "大多数人都生而平凡，但总有些人，即便生来的时候平凡，也向往着伟大。从被剥削的黑户杂工，到黑暗中的教父；从遵守规则的社会底层，到制定规则的幕后皇帝；阳光照耀时这个国家属于联邦，夜幕降临后它则属于我！“有时候，阴影不仅能够和光一样大，甚至还能遮住光！”“我们从不敲诈勒索任何人，我们赚到的每一分钱，在良心上都能过的去。”如果有人在夜晚敲响你的房门，他们要么为你带来我的问候，要么为你的狂妄带来毁灭。至于你",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sha_阴影帝国1-1472章.txt",
+    readUrl: "https://pan.baidu.com/s/1HYM_ETejJ_dmiv_8r0kSIQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sha/",
   },
 
@@ -64293,6 +64868,7 @@ export const bookItems = [
     excerpt: "人生四大作死:在墨西哥当警察！绝对的正义在这里是要挨枪子的，BIUBIUBIU。主角穿越到一名狱警身上，他发现他的眼睛能看到一个人的犯罪值！只有比犯罪分子火力更猛，才能维持正义！这座监狱叫：“高原监狱”！墨西哥最高安全等级。而此时有一人关在里面。他的名字叫—加拉多，绰号教父，瓜达拉哈拉集团创始人之一。如果想活下去，要么离开这个操蛋的国家，要么，就使劲的往上爬。墨西哥可以有光明！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shc_混在墨西哥当警察1-910章.txt",
+    readUrl: "https://pan.baidu.com/s/1gUhKuQSbQ1cOKjX3s3C4xQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shc/",
   },
 
@@ -64310,6 +64886,7 @@ export const bookItems = [
     excerpt: "隆庆三年秋。甩手掌柜朱载坖沉湎后宫，好好先生李春芳盼着退休。大炮仗高肃卿在家摩拳擦掌，美髯公张太岳内阁充位。底层小民贫无置锥，地主豪强田连阡陌，不稼不樯之徒滚滚当道，食禄禽兽高居庙堂。财政赤字、吏治崩坏、世风日下的大明，亟需一场暴风骤雨式的大变革。一位总喜欢苦一苦士大夫的青年官捋起袖子，准备补一补天下人的天，破一破天下人的劫。我叫顾衍，来大明一遭，只想让太岳不孤，大明不亡，文官多受苦，百姓少受罪，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_she_是，首辅！1-124章.txt",
+    readUrl: "https://pan.baidu.com/s/12xvfkXyRAaqDyUm4fk0V2Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/she/",
   },
 
@@ -64326,6 +64903,7 @@ export const bookItems = [
     excerpt: "【同时穿越，特摄，游戏，动漫，奥特曼，假面骑士…】 被冻醒的李悟发现自己要即将被从天而降的列车创飞…… 这一撞，让李悟陷入了走马花，也让他看见自己魂归诸天，也让他在灰雾空间中与其他自己相见。 【星穹铁道李悟】：不是，这对吗？什么粪坑世界！还有这是给我干哪来了！ 【迪迦奥特曼李悟】：那换换？落地成黑迪，还被卡蜜拉盯上，我现在根本不敢出门！ 【星穹铁道李悟】：那算了，至少我现在是开拓命途，苟点在这破地",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shf_同时穿越，我成了黑暗迪迦1-270章.txt",
+    readUrl: "https://pan.baidu.com/s/1SAWDw7pgq5_2nkw_GSjsfw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shf/",
   },
 
@@ -64343,6 +64921,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shg_血腕雷影，打造最强云隐村1-327章.txt",
+    readUrl: "https://pan.baidu.com/s/1oXtqB17Gn2DZLj8eBkUnUg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shg/",
   },
 
@@ -64360,6 +64939,7 @@ export const bookItems = [
     excerpt: "无限混乱的次元战场上；宇智波斑目光睥睨，须佐能乎打开，“你也想起舞吗？”两面宿傩双手插在口袋之中，“你才是挑战者啊。”蓝染惣右介则是一抹发胶手，“从今往后，我将立于天上！”光头埼玉摸着自己的脑袋，不明白这些人在干嘛；失去呆毛的黑Saber疯狂的挥舞着咖喱棒；一片乱象之中，强烈的气从白苍术体内爆发，他眼睑低垂，笑道“抱歉了诸位，似乎……我才是那个怪物”【动漫无限流+无敌流+数据流】（以动漫副本为主，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shh_无限轮回：我才是怪物1-917章.txt",
+    readUrl: "https://pan.baidu.com/s/1kzpc18QjlCq6lJEGBk-8jQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shh/",
   },
 
@@ -64377,6 +64957,7 @@ export const bookItems = [
     excerpt: "重生为红军米沙！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shi_红色莫斯科1-3218章.txt",
+    readUrl: "https://pan.baidu.com/s/12ONdMvRhpKQRzwJMYm_jzA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shi/",
   },
 
@@ -64394,6 +64975,7 @@ export const bookItems = [
     excerpt: "暂定世界：狐妖小红娘，笑傲江湖，一人之下，斗破苍穹，犬夜叉，诛仙……穿越者穿越到了狐妖小红娘的世界，成为了其中的反派金人凤。对此，他表示，这反派谁爱当谁当，他才不做那冤大头。这年头，谁愿意和人类相爱啊！和妖女恋爱，才是版本答案。东方灵血算什么？纯质阳炎算什么？就算能传承灵力，也无法长生，百年后也不过是一坯黄土。为了区区灵血、神火，就弑师夺位，谋害师妹，他才不做那种蠢事。妖女老婆才是正道。若是有个妖",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shj_从狐妖到斗破：开局反派大师兄1-818章.txt",
+    readUrl: "https://pan.baidu.com/s/1z-wf5ZLi_T2eULt2O7x50A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shj/",
   },
 
@@ -64410,6 +64992,7 @@ export const bookItems = [
     excerpt: "一觉醒来，全民穿越异界。这是一个恐怖的世界，几乎不可度量。这里有巨龙、狮鹫、哥布林、地精、矮人、兽人。也有丧尸、亡灵巢穴以及各种神话巨怪。每个人都是领主，开局选择身世、一个小院、三个农民。要致富，先撸树，逐渐建立领地。领主们需要探索地图，占领区域、获取资源、发展城建、征伐怪物巢穴。每隔一个月，都需要抵御怪物军团和各种异界势力的掳掠，才能生存下去。宗慎开局觉醒了攻略系统。目之所及的一切都会出现攻略信",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shk_领主求生：从残破小院开始攻略1-1934章.txt",
+    readUrl: "https://pan.baidu.com/s/1zJipX4VTZ1IyaKxl_bfpxw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shk/",
   },
 
@@ -64427,6 +65010,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shl_诸天恶兽，我以牛鬼蛇神为食1-507章.txt",
+    readUrl: "https://pan.baidu.com/s/18PzKw-NfDSCuNmnrGPlkiA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shl/",
   },
 
@@ -64443,6 +65027,7 @@ export const bookItems = [
     excerpt: "化身万千，穿越无数世界进行轮回。每一个轮回，都是对于自己证道之路的贯彻。一人世界，求道求真，性与命的融合，开辟成仙之路。火影世界，追述血脉源头，创造自身的武道法相。鬼灭世界，吃人恶鬼，七宗之罪，生灵沉沦……诸天万界，无限轮回。我有一颗证道之心，为鬼，为仙，为人，为修罗，为恶魔……永不放弃。这是一段诸天的传说",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shm_同时穿越：我在诸天证大道1-974章.txt",
+    readUrl: "https://pan.baidu.com/s/1aCvj9Ub6JBYCH1LV_ZBFXw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shm/",
   },
 
@@ -64460,6 +65045,7 @@ export const bookItems = [
     excerpt: "坏消息：没有重生穿越，三百分大专任意选择！好消息：系统来了！开局绑定词条系统，自带天生锦鲤，鹤立鸡群词条。同时白夜出演一个角色就能获得角色上专属的词条。他是最贴合游戏的魔尊，是谈笑间飞灰湮灭的江东美玉，也同样是金莲看了直流口水的西门大官人。白夜：戏外你可以叫我渣男，但戏内请叫我老戏骨！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sho_华娱：影帝从获取角色词条开始1-550章.txt",
+    readUrl: "https://pan.baidu.com/s/1_qQh774eX7AILrxz6M3iFw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sho/",
   },
 
@@ -64476,6 +65062,7 @@ export const bookItems = [
     excerpt: "苏霖原本以为自己是系统流主角，正为系统点数一筹莫展之际。一声提示告知他加入了聊天群。 “苏霖、叶凡、萧炎、韩立、蒙奇•D•路飞、卫宫士郎”“钟离、路明非、克莱恩…” 看着群里的刚刚打败凯多的路飞，苏霖的第一笔点数有了进展。 “@路飞你想救艾斯么？”于是黑暗动乱来临时，大成圣体不慌不忙摇人帮忙星球为丈量的岩枪破开星河而来一男子在星空一角号令世间火焰龙翼金眸男子坐在王座之上审判而苏霖在想怎么出场比前面",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shp_系统流主角的我加入聊天群1-1221章.txt",
+    readUrl: "https://pan.baidu.com/s/1XvUdMJHfjFdnjgZciE1w8g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shp/",
   },
 
@@ -64493,6 +65080,7 @@ export const bookItems = [
     excerpt: "【琥珀流、奇幻世界、双职业、游戏面板】乔恩穿越了，穿越进他所玩的游戏《伊诺》之中，成了一个被愚夫愚妇排挤的“灾星”。好消息：他带着自己的满级角色。坏消息：等级变成了1级。好消息：原来的天赋和技能都在，而且他还能选择第二个天赋、甚至第二个职业。坏消息：他快被压死了，谁来救救他.........这是一个穿越者努力变强，寻找回家之路，结果一不小心登顶至高的故事。已有《琥珀之剑》《深渊主宰》《召唤圣剑》《",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shq_登神：从双职业开始1-469章.txt",
+    readUrl: "https://pan.baidu.com/s/11hnGn-VKBH4i71oln52rig?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shq/",
   },
 
@@ -64526,6 +65114,7 @@ export const bookItems = [
     excerpt: "【诸天+聊天群+异能颠佬+老年热血番+整活】 被一发次元斩送去平行世界的罗克，很抱歉没能让擎天柱大人尽兴。 好在，平行世界，异能觉醒，超能力者至上。 只有觉醒一个足够强大的超能力，他未必没有将全世界殴打至跪地的机会呱！ 就是，这超能力到底谁研究出来的呢？ …… “风间琉璃·青春版”：霓虹第一牛郎，没有言灵的你，最好祈祷自己不要被零盯上。 “海王”：从今往后，你也是出场自带雪花飘BGM的男人！ “木",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shs_诸天聊天群：我的群友全是老登1-373章.txt",
+    readUrl: "https://pan.baidu.com/s/1EVJCmcpiODMKPxzqgHPHDA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shs/",
   },
 
@@ -64542,6 +65131,7 @@ export const bookItems = [
     excerpt: "“干明星什么最重要？才能？资源？人脉？不不不，现金最重要，没钱干什么明星？钱买不来演技，但是可以买来老戏骨带戏钱买不来才华，但是可以买来有才华的牛马钱买不来背景，但是可以买来流量和话题。”“那为什么要现金？”“因为我只收现金，不接受画饼。”这是一个钱途无良的故事。--------本书又名：《华娱现金王》《你这艺人不错，现在是我的了》《我爱做点儿局》《谈钱可以，谈恋爱不行》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sht_没钱怎么当明星1-440章.txt",
+    readUrl: "https://pan.baidu.com/s/19Cl8hGPZq-OnC4OnSbMXng?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sht/",
   },
 
@@ -64558,6 +65148,7 @@ export const bookItems = [
     excerpt: "简介：携带双开门冰箱，穿越不同的火红年代。物资匮乏？艰难岁月？咱照样把日子过得从容又幸福！原创诸天剧情，多线人生，共谱一段激荡岁月。八大篇章，精彩纷呈：一、从魔都石库门走出的工厂干部二、京都大杂院的烟火日子三、五十年代的风云足迹四、浪子回头金不换：咸鱼大翻身五、现代都市：华娱太子从威尼斯影帝开始六、带领全家：从乡土到城镇七、民國小市民八、淬炼青春的知青岁月 带着冰箱每天刷新的底气，在激情燃烧的岁月",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shu_诸天火红年代，冰箱每日刷新1-441章.txt",
+    readUrl: "https://pan.baidu.com/s/1LuyoLooNMipRVgpPgTACLw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shu/",
   },
 
@@ -64592,6 +65183,7 @@ export const bookItems = [
     excerpt: "一个花盆带来的穿越，来到了1796年夏秋之交的沙皇俄国，这个崭新的索洛维约夫的故事，正在慢慢展开。 别人到了这个时代，都在吃那位皇帝陛下的红利，而索洛维约夫虽然和他会有些联系，却要在反法联军的阵营当中，全程参与对抗在儒安港登陆的魔王，在其中为自己和效力的阵营获利。他只能在俄罗斯帝国一步一个脚印的向上爬，和众多的历史人物产生交集。俄国的皇室，贵族，平民，农奴，甚至还有小说里才会出现的人物。 QQ群：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shx_索洛维约夫在沙俄17961-1229章.txt",
+    readUrl: "https://pan.baidu.com/s/1VjjLVY6r0HCMXFJ1wK6iZw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shx/",
   },
 
@@ -64608,6 +65200,7 @@ export const bookItems = [
     excerpt: "——欢迎来到元宇宙。当郭康来到这个世界后，他渐渐发现，历史似乎有些不对。在东罗马故地，出现了一个被称为“罗马汗国”的国家。他的义父郭大侠，身为汗国最重要的世侯之一，正在为了它东征西讨。纵观四方，各种奇奇怪怪的“元”政权，让这个世界一片勃勃生机，万物竞发。然而，在他们背后，远方的迷雾之外，一个似乎强的离谱的明朝正注视着所有人。武林人士间纷纷传言，罗马的命运将会在几十年后终结。毁灭它的究竟会是谁？郭康",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shy_自建帐以来：罗马汗国记1-1004章.txt",
+    readUrl: "https://pan.baidu.com/s/1_nwR-3XHcipHqZtVmmEnow?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shy/",
   },
 
@@ -64625,6 +65218,7 @@ export const bookItems = [
     excerpt: "好消息，穿越了，坏消息，穿越到了恐怖片世界，坏消息，变成了怪人，好消息，是蝗虫怪人。当伊诺变身为蝗虫怪人手刃食人魔变异人之后，他才惊觉自己穿越的世界并没有那么简单，变异人、吸血鬼、狼人、铁血战士等等，经典怪物接连出现，而在这之中，还有专门捕猎怪人的神秘机构。不过，情况似乎还不止于此，当伊诺陷入危机之时，异世界的大门为他缓缓打开。血族隐匿于黑夜，狼人狂啸于群山；外星科技构筑护甲，神明启示创造根源。“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_shz_从恐怖片开始的假面骑士1-670章.txt",
+    readUrl: "https://pan.baidu.com/s/1QdsDsvHcd0F2KihUxCYXLw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/shz/",
   },
 
@@ -64642,6 +65236,7 @@ export const bookItems = [
     excerpt: "傅诗晏穿越到斗罗大陆二十多年，却是个底层废柴。 觉醒的蓝银草武魂只有先天半级魂力毫无用处，人生黯淡无光。 直到觉醒了编造系统，人生终于迎来转机。 而他要做的第一件事，就是为天命之子唐三定制了一个【人生模拟器】。 在模拟中，唐三也震惊地看到自己拜师玉小刚后的悲惨命运—— 错误的魂环搭配让蓝银皇武魂觉醒失败，顶级武魂就此废掉。 更可怕的是，玉小刚与比比东的勾结间接害死了他的父亲。 而在两次模拟中，唐三",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_si_斗罗：给唐三模拟器后，我无敌了1-350章.txt",
+    readUrl: "https://pan.baidu.com/s/1s-2eUagODDVv2Hb5Nvwcdw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/si/",
   },
 
@@ -64659,6 +65254,7 @@ export const bookItems = [
     excerpt: "97级北电摄影系毕业生沈良上辈子的成绩并不理想。 重回2001年，沈良要换个活法。 重生前是扛摄像机，重生后还扛摄像机？ 那不是白重生了嘛！ 什么扛摄像机的？ 叫我导演！ (本书又名《诽谤！他诽谤我啊！我不是渣男！》、《我们导演就是这样子快乐》)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sia_华娱2001：叫我导演！1-594章.txt",
+    readUrl: "https://pan.baidu.com/s/18PF_GPrsUIlCyB1x4NrH8A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sia/",
   },
 
@@ -64676,6 +65272,7 @@ export const bookItems = [
     excerpt: "穿越成崇祯，发现歪脖子树已到货，快递小哥正在派送的路上。 怎么办？在线等，挺急的！ 【大明集团破产急需重组啊！】 【当前公司状态：资不抵债，现金流断裂，核心员工（边军）即将离职，外部市场（后金）已被竞品抢占，内部股东（文官集团）正在疯狂转移资产。】 【新手任务：任命魏忠贤为“首席催收官”，负责追讨集团所有坏账、烂账！】 朱由检：“？？？” 杀魏忠贤？开什么国际玩笑！ 现阶段，这么优秀的职业经理人上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sib_开局掌控魏忠贤，先抄他一个亿！1-872章.txt",
+    readUrl: "https://pan.baidu.com/s/1k992fjvyDRF4RqxK73bL6Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sib/",
   },
 
@@ -64693,6 +65290,7 @@ export const bookItems = [
     excerpt: "【杀伐果断】+【不圣母】+【开局杀美女】末日来临，世界秩序混乱，人性道德沦丧重生回来冷酷男人李宇，开局中奖3000万建造坚固的基地，囤积物资当别人在挣扎在饥饿生死边缘时，李宇在天台吹着风儿，吃烧烤喝啤酒.......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sid_重生末世：开局中奖3000万1-2416章.txt",
+    readUrl: "https://pan.baidu.com/s/1zgCbFB6HE_rGpzFMeewU0g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sid/",
   },
 
@@ -64728,6 +65326,7 @@ export const bookItems = [
     excerpt: "这是一个来自诸天的、可悲的旅人们在法环受苦后衣锦还乡的故事。当路明非看着赫尔佐格的茧被一只纯白色的利爪撕破，篡位的逆臣从裂口中腾起，在空中张开白色的翼膜时。他默默掏出了褪色者老指，写下了通往诸天万界的谏言。“一次三个卢恩弯弧，来就给。”白色的字符在大书库的地板上缓缓浮现。正在打坐的卫宫士郎睁开了双眼，缓缓拿起身旁的夜与火之剑，身形渐渐消失。前往崖山的道路上。金木研从白金之子的胸膛抽出如触手般的鳞赫",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sij_路明非，成为艾尔登之王吧！1-795章.txt",
+    readUrl: "https://pan.baidu.com/s/1j9FaoS8csr5VBKgICFFtjg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sij/",
   },
 
@@ -64744,6 +65343,7 @@ export const bookItems = [
     excerpt: "【我，宋文，英雄联盟六冠王，就在我捧起第六座奖杯时，却在大屏幕上看到了几个字“你被泥头车创死了”。】 “所以你的意思是，我是书里的人物。现实世界里的LPL天天被棒子吊打，我是你YY的产物？” “没关系，我是天选之子，既然我来了，我就是冠军！什么乌兹faker，都是路边一条！” “可恶，区区白银竟然想要阻挠我进步，再来亿把！” 【我，王柯，扑街小说作者。在又一次烂尾完结准备跑路的时候，主角从书里跑出",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sik_我白金作家，打职业怎么了1-226章.txt",
+    readUrl: "https://pan.baidu.com/s/1lPrsK_fEzQCgnJbIAoknUA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sik/",
   },
 
@@ -64778,6 +65378,7 @@ export const bookItems = [
     excerpt: "因为两个灵魂碰撞，浑噩的陈清被人送到顾氏招赘。本想着能过上踏实日子倒也不错。 欺压麻烦却接踵而至。 “这赘婿，不当也罢！”于是陈大公子仰头望向京城，野心终于迸发。 他要向上攀登，步步登龙！ ps：已有一千多万字完本作品，人品保证，放心收藏！！老书《靖安侯》《贼天子》等等，欢迎大家去看！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sim_成龙快婿1-815章.txt",
+    readUrl: "https://pan.baidu.com/s/12IPAC9EqVWdp4wDzequ-jg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sim/",
   },
 
@@ -64795,6 +65396,7 @@ export const bookItems = [
     excerpt: "浩瀚宇宙，群星璀璨，深邃而神秘。当智慧生命第一次仰望星空，智慧深处的好奇已然扬起了求知的帆。无尽星宇，无数文明，他们在哪里，他们缘何争相远航？是那遥远的星河有什么宝藏？或是那黑暗的深空隐藏着什么秘密？又或只是为了寻找那一丝渺茫的希望？失去家园的人类，又该驶向何方......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sin_星辰大远航1-1981章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZFbmnJQfmX_wfIS6bLFZsA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sin/",
   },
 
@@ -64848,6 +65450,7 @@ export const bookItems = [
     excerpt: "一名爆发性心肌炎的患者突然死亡，他的父亲周某悲痛之余，要求与作为主管大夫的你好好聊聊。注意：周某手中拿有一把1米长的布林布林闪光的大砍刀。这个时候你该怎么办？请选择：（）A.聊就聊！我有什么好怕的？杀死他儿子的是疾病，又不是我！我尽力了，问心无愧！B.暂避锋芒，此时不跑更待何时！D.我？避他锋芒？当场脱下白大衣，拎起手边造价1500元的椅子与周某在医生办公室进行互掏。C.大声喊道：“周师傅，你冷静",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sir_刚成关系户，医疗模拟系统来了1-477章.txt",
+    readUrl: "https://pan.baidu.com/s/1yAt5c7V5WGDGd67ck5m6uA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sir/",
   },
 
@@ -64864,6 +65467,7 @@ export const bookItems = [
     excerpt: "二十九岁的周子扬一觉醒来回到了2015年。这一年周子扬刚满十八岁，在县一中高三一班就读。这一年的夏天格外的热，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sis_重生2015，高中开始做男神1-530章.txt",
+    readUrl: "https://pan.baidu.com/s/1tWQEh7lA95CQ64gwn1yqpQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sis/",
   },
 
@@ -64880,6 +65484,7 @@ export const bookItems = [
     excerpt: "好消息：有人捡到会冒出文字的羊皮纸了。坏消息：那个人不是我。好消息：楼下老大爷能看到别人头顶的死亡倒计时。坏消息：老大爷快死了。好消息：房东女儿带着未来记忆重生了坏消息：我还被懵在鼓里。现实越发古怪，游戏情况不断。《求魔》游戏开服，方羽进入游戏，发现这个游戏，没有血条显示。而他，能看到血条！【大妖魔：1/21999。】“放开那个妖魔，让我来！”【天牙虎：29481/29482。】“弟兄们冲鸭！大残",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sit_无敌从我看见BOSS血条开始1-1356章.txt",
+    readUrl: "https://pan.baidu.com/s/1TOnJKX3AFQb_heO9X5v-FA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sit/",
   },
 
@@ -64897,6 +65502,7 @@ export const bookItems = [
     excerpt: "穿越了，一家子都鼎鼎有名。父亲未来的谥号是灵，母亲是善妒的何皇后，弟弟是大汉最后一位皇帝刘协，舅舅是绝世蠢货何进。面对这样的情况，刘辩直接躺平，这汉废帝谁爱做谁做，他反正是不干了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_siu_家父刘宏，我躺平了1-660章.txt",
+    readUrl: "https://pan.baidu.com/s/14dia02Ae12HxSG7Cb_VksQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/siu/",
   },
 
@@ -64913,6 +65519,7 @@ export const bookItems = [
     excerpt: "从梅林传奇开始，经历一战，遇到神奇女侠，然后踏上遗失的高地，可当凯再次来到现代世界的时候，看到了斯塔克集团的广告。（有英剧、美剧，其中有些还是很老的剧集，漫威是主体，也会夹杂一些其他影视剧，DC只是涉猎，最多一两个角色，并不会加入DC的世界观）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_siv_美剧大世界里的骑士1-2479章.txt",
+    readUrl: "https://pan.baidu.com/s/1kEYmel6WjCHGAAP1zlru7g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/siv/",
   },
 
@@ -64929,6 +65536,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_siw_重生在四合院的悠然人生1-896章.txt",
+    readUrl: "https://pan.baidu.com/s/1RvJG9vtYxHccdq54r-DZXg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/siw/",
   },
 
@@ -64946,6 +65554,7 @@ export const bookItems = [
     excerpt: "火影忍者中，呼唤死去之人依凭己身，再现神话时代的战场。 妖魔鬼怪的世界当中，亲手打出来一个人道昌隆。 魔法界当中，让那些愚蠢的血脉巫师明白，他们根本不理解自己手握何等可怕的生产力。 武侠世界当中，给江湖人科普一下什么才叫做武。 亦或者，在没有其他超凡之力的世界，享受生活，提升科技，寻求终末之轮回和灵能飞升。 能力与信念，自己能够给予自己的，不应该仅仅是一面镜子和工具而已。 正所谓人的合作终究是会因",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_six_我和无数个我1-991章.txt",
+    readUrl: "https://pan.baidu.com/s/1I1QvzvQwCYW8k1N75Wm0PQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/six/",
   },
 
@@ -64963,6 +65572,7 @@ export const bookItems = [
     excerpt: "挑战强敌，可无限进行武学推演。 身怀这样的异宝，穿越到了一个看似平静的现代世界。这里没有灵气，不存在修仙，练武之人更是只有自己。就在伊然认为可以躺平时。蓦然发现，这个世界存在着比仙佛神魔更可怕的东西……它们潜藏在一个个恐怖的平行时空里，等待着与现实发生重叠。每一次重叠，就是一次恐怖复苏。 恶神漫天，凶煞遍地，绝望的土地上，污秽与邪祟肆意横行。 凡人舍身成为驭鬼者，披肝沥胆，以求一线生机。 伊然果断",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_siy_我在恐怖世界横练肉身1-531章.txt",
+    readUrl: "https://pan.baidu.com/s/1kZfH8pJ0XmmLn2SWSWY7FQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/siy/",
   },
 
@@ -64997,6 +65607,7 @@ export const bookItems = [
     excerpt: "穿越火影？开局地狱难度？！！赵青玄一觉醒来，发现自己竟穿越到了以残酷著称的火影世界。更离谱的是——他的老妈是纲手，老爹却是宇智波富岳的亲弟弟！宇智波和千手的血脉结合？这设定够劲爆，但……关他什么事？然而，还没等他消化这个离谱的身世，现实就给了他一记重拳——六岁的他，此时孤身一人被困在荒漠中央，周围逐渐围拢过来的砂隐忍者虎视眈眈，而他的全部家当，只有几封神秘信件、一个半死不活的系统和……一头羊？“淦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sj_火影：宇智波只能去当水影1-812章.txt",
+    readUrl: "https://pan.baidu.com/s/1XeQ_nwCdlimDLY3WJfRmjg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sj/",
   },
 
@@ -65030,6 +65641,7 @@ export const bookItems = [
     excerpt: "方文穿越到民国19年，成了南苑航空学校一名飞行学员。在飞行方面拥有特别能力的他，经历成长后，成了抗战中战绩辉煌的王牌飞行员，并建立了部队参与波澜壮阔的抗战中。（军工产业，航空产业发展。人机一体，纵观全局的战略视角，不但空战犀利，还能指挥空地机械化配合作战，让日军闻风丧胆。）（空战爽文，有日常）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjb_民国：王牌飞行员1-952章.txt",
+    readUrl: "https://pan.baidu.com/s/1zRo179e8rNHhSBltK028sw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjb/",
   },
 
@@ -65047,6 +65659,7 @@ export const bookItems = [
     excerpt: "“所以他们真以为，这天下，鞑清抢得，李闯抢得，唯独我大明抢不得，是不是？”朱慈烺看着眼前涕泪交加，再三劝阻的史可法，凌然一笑，扶剑走向南京勋贵们送出城来的“犒军大礼”“五百万！孤的好国公们分了四百万，只给孤一百万，他们当我像父皇一样好蒙骗不成！那都是孤的钱，孤的钱！”暴怒的朱慈烺一脚将其中一个银箱踢翻，露出其中白花花的银子来，抽剑指向南京城门。在他身后，是数万眼睛望出血随他一路南下的破家北军！“将",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjc_大明最狠太子，开局渡江抢南京1-180章.txt",
+    readUrl: "https://pan.baidu.com/s/1gccQXug9HKwKJVczRUsiiQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjc/",
   },
 
@@ -65064,6 +65677,7 @@ export const bookItems = [
     excerpt: "团藏：日斩，我才是火影！三代：团藏，你会后悔的！门：砰！【情绪值+5000！】……穿越忍界，觉醒【圆梦大师系统】，获得了掌控梦境的能力。时雨成为了真正的圆梦大师！鸣人：父亲教的飞雷神就是好用！佐助：我有一千种办法弄死他！一千种！卡卡西：父亲！我终于把旗木刀术发扬光大了！宁次：区区笼中鸟，给我破！……望着梦中淌口水的众人，时雨不语，只是一味地兑换了【大筒木血统】。“谁还有梦想？！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjd_火影圆梦大师！1-546章.txt",
+    readUrl: "https://pan.baidu.com/s/1r4WToYoFMAJM49Nxtb38Mw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjd/",
   },
 
@@ -65117,6 +65731,7 @@ export const bookItems = [
     excerpt: "（超自然历史流）（原创世界）你可否想过，其实历史有着无数的分支？幕末京都，刀剑的清光夹杂着妖鬼的嘶吼，黎诚京都寻刀试剑，剑豪举世无双。乱！乱！乱！才闻狼豺吞虎豹，忽有龙猊割春秋！黎诚是乱世举火的无常。……行者为何而存在？难道仅仅是为了在异常的历史劫掠？历史的尽头是什么？直到黎诚走过无数历史，才惊觉原来答案早在自己手中。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjg_诸天：从幕末斩鬼开始1-944章.txt",
+    readUrl: "https://pan.baidu.com/s/1YbjEdUBK4YxXGaQTFxi1NA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjg/",
   },
 
@@ -65134,6 +65749,7 @@ export const bookItems = [
     excerpt: "穿越之初步天(卓天)以为自家很普通，老爸是个沉默寡言的渔夫，母亲是个盲女，有一个小妹名唤小婷。 一家人日子不说多富裕，但也算其乐融融，直到他掘出那柄深埋地下的漆黑长剑，才惊觉一切并非那么简单。 一大群人手持刀剑杀入自己家中，“步惊云，交出绝世好剑！” 危难之际，那终日与渔网为伴的父亲竟反手一掌，排云掌劲撼天动地，将来犯之敌尽数杀之！ 此刻步天方知，自己的父亲，竟是那位名动江湖的“不哭死神”！ 此时",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sji_诸天武侠：家父步惊云！1-310章.txt",
+    readUrl: "https://pan.baidu.com/s/1MdCLiRnXqn46UaSM8uYT2g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sji/",
   },
 
@@ -65168,6 +65784,7 @@ export const bookItems = [
     excerpt: "（列车、载具、进化、多女主）“这火车上有1226人，有670个男人，556个女人。” “但是只有2个人能住车头，剩下的1224人只能住后面的车厢里。” “你说你想加入我们，凭什么呢？”…… 采集材料，武装列车，吸纳幸存者一路向北……穿越高温、酸雨、洪水、风暴、孢子、重力、植物、锈蚀、风雪、永夜等十二道天灾去寻找末日最本源的真相！ 苏焕合上日志，看向车窗外扭曲的怪物：“准备一份特辣的火锅，总有些不礼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjm_武装列车在末日1-546章.txt",
+    readUrl: "https://pan.baidu.com/s/1xb-ABUzjrCQQvWAD52meKQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjm/",
   },
 
@@ -65184,6 +65801,7 @@ export const bookItems = [
     excerpt: "灾厄降临，吞没世间。 人类以最后的力量筑起高墙，建立巨城，保存最后的火种。 而如今，灾厄再动。 人类将反守为攻！ 去见证英雄，模仿英雄，成为英雄！（热血、末世、多女主不喜勿喷）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjo_黄泉逆行1-1080章.txt",
+    readUrl: "https://pan.baidu.com/s/18lV88_gSdH9d1naBB9DM0A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjo/",
   },
 
@@ -65201,6 +65819,7 @@ export const bookItems = [
     excerpt: "战场上，林野苟活着寻找小鬼子尸体，只因他能够在尸体上捡到属性。但当他亲手击杀一个敌人之时，他发现，原来自己亲手杀的远远比捡取别人杀的要多十倍。从此，林野越来越强，逐渐成为所有敌人的噩梦。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjp_亮剑：我在战场上捡属性1-479章.txt",
+    readUrl: "https://pan.baidu.com/s/19jOiry1rSzZIsx_-U8SjBQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjp/",
   },
 
@@ -65217,6 +65836,7 @@ export const bookItems = [
     excerpt: "军工科技，衡量一个国家国防力量强弱的重要标准。 强大的武器装备能力斩千军，杀人于千里之外，能重新定义战争。 强大的武器装备能捍卫疆土，抵御外敌，护佑国泰民安，保我盛世太平。 我愿为这大国复兴锻造利剑，我愿为这国泰民安熔铸长城。 持我利剑，必将披荆斩棘，所向披靡。 守我长城，必能克敌制胜，捷报频传。 且看一个年轻人如何创造一个属于他的军工霸业2.0时代。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjq_军工科技1-4966章.txt",
+    readUrl: "https://pan.baidu.com/s/17kUvxli90f4X59eZcRFyNA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjq/",
   },
 
@@ -65234,6 +65854,7 @@ export const bookItems = [
     excerpt: "战列舰黄昏 1942年，南太平洋的钢铁坟场。 当口径即真理的怒吼被舰载机的俯冲淹没，燧发枪时代的最后遗孤，向着布满弹道的天空，发起了一场必败冲锋。 残阳如血，海天为冢。 一个时代的落幕——中途岛.战列舰的黄昏！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjr_弹道尾迹1-594章.txt",
+    readUrl: "https://pan.baidu.com/s/1GAj45bMaDs_1lca-PaDsIg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjr/",
   },
 
@@ -65250,6 +65871,7 @@ export const bookItems = [
     excerpt: "38年前，神之谷事件被世界政府划上了休止符，洛克斯海贼团在此刻落下帷幕。然而高高在上的天龙人并没有意识到，一个更恐怖的怪物展开了他的行动。很快，他的敌人意识到，砍下头颅，洞穿身体，哪怕化作飞灰，这些手段都无法真正杀死他。直到鲜血淹没空白的王座，他们才知道，自己的对手究竟是何人。将蝙蝠果实·幻兽种·吸血鬼形态开发到史无前例地步的男人，三色霸气达到极致的男人。其名为-涅柔斯深海之主，不死之王，解放者…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjs_海贼：从神之谷走出的不死之王1-464章.txt",
+    readUrl: "https://pan.baidu.com/s/1wEtzQiH3Q4iMSLTlz4SXsw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjs/",
   },
 
@@ -65266,6 +65888,7 @@ export const bookItems = [
     excerpt: "（游资视角布局的万均金融股市文，全网独此一本，不容错过！）一场犹太资本精心策划的空难，让世界顶级资管公司，桥水基金的经理张扬意外重回2009年。 这一年，次贷危机余威刚退，全球经济与股市蓄势待发。 同年，A股率先爆拉数月，随后进入技术性熊市。 彼时各方游资、机构不会想到，仅800元入市的小散张扬，会成为A股新生代最强游资。 他随后创立的“胜天资本”，更是力压软银、贝莱德等一众风险投资巨头，成为三星",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjt_从满仓A股开始成为资本1-567章.txt",
+    readUrl: "https://pan.baidu.com/s/1OFBF_8BX4NSZ4OellfqRfg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjt/",
   },
 
@@ -65282,6 +65905,7 @@ export const bookItems = [
     excerpt: "书名——误入无限的路明非(上架后很难改书名了，特此说明)许多年以后，面对星河战队中汹涌而来的虫潮，路明非将会回想起，和网友老唐一起悠闲打着星际的那个遥远的下午……主神空间，战斗，爽！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sju_从主神空间归来的路明非1-637章.txt",
+    readUrl: "https://pan.baidu.com/s/12FDFxNGNoawdHfkw4e0yDQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sju/",
   },
 
@@ -65316,6 +65940,7 @@ export const bookItems = [
     excerpt: "【种田，生存，发育，收服，生态圈】陈重所在的大学穿越到了原始丛林，这里隐藏着无数危险的生物。长角的河中巨鲶，喷吐毒雾的血蟒，翼展夸张的石鹰，寄身吃人的植物……食物匮乏，物资稀缺，超凡生物，所有人面临的最大问题，是如何活下去。但最大的危险，还来源于同类，人性的阴暗在这里被不断放大。幸运的是，穿越后的世界每个人每日都可以根据生存表现获得评分，随机抽取一张具有特殊能力的卡片，不仅如此，探索未知地带同样能",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjx_学校穿越求生，每日三条情报1-288章.txt",
+    readUrl: "https://pan.baidu.com/s/1Hnx3NxTWYk_EarwQXrzkqA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjx/",
   },
 
@@ -65333,6 +65958,7 @@ export const bookItems = [
     excerpt: "“所以说，在东京这种地方，正常人都会对[大小姐]这种生物，有些刻板印象吧？”“比如完美无暇、高冷、恶劣或者败犬。”“如果能成为友人，她们其实还挺可爱的。”“高贵、漂亮、凭亿近人、有钞能力，人生可以开启简单模式。”“当然，一切的前提是，不要踩进她们的雷区。”“更不要窥探秘密。”“否则——”......这是一个普通少年，在成为六边形战士的路上，不慎坠入爱河的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sjy_她们都有隐藏属性！1-266章.txt",
+    readUrl: "https://pan.baidu.com/s/1za5URYj3xgnsROiaTsbNtQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sjy/",
   },
 
@@ -65350,6 +65976,7 @@ export const bookItems = [
     excerpt: "好莱坞、传媒、流行音乐革命...回到2010年的纽约，新一代乐坛天后们集体爆发的黄金年代。李昂.史密斯拔烟四顾心茫然：“试问还有什么比在自由城做一个渣宰更自由的事情呢？” 背叛、谎言、虚伪、毫不掩饰的金钱崇拜…但也许这些十足的渣宰行径在腐烂的资本主义世界通通都不算是罪恶呢？在这里，背叛会得到奖赏，贪婪是一种美德！【无耻词条已刷新，当前词条为：骗子。】【开启每月灵感刷新，解锁无耻词条可开启更多功能。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sk_美利坚头号玩家1-799章.txt",
+    readUrl: "https://pan.baidu.com/s/1LRYuwvDksisGgmZJov-G-g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sk/",
   },
 
@@ -65366,6 +65993,7 @@ export const bookItems = [
     excerpt: "【一个有点年代感的警察故事】犯罪侧写师陈彬一睁眼成了90年代的社区片警。陈彬觉得，来到这时代他总得为这个国家，做点什么！比如那些未来堆积的陈年悬案，受制于技术无法侦破。荒山残尸、灭门惨案、水中漂尸、连环杀人...该给这世界来点后世刑侦技术的降维打击了，将那些逍遥法外的嫌疑人绳之以法，或许，这才是重生的意义吧。当然，首先要做的，还是从社区片警转调到刑侦队！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ska_1991南元警事1-666章.txt",
+    readUrl: "https://pan.baidu.com/s/1k1FgVikyIFA9HoATLeLFYQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ska/",
   },
 
@@ -65383,6 +66011,7 @@ export const bookItems = [
     excerpt: "中国足球最令人遗憾的时刻是什么？是2002年世界杯一球未进，遗憾出局？是2004年亚洲杯决赛，在自己的主场被日本队用手球偷走冠军的耻辱？还是2005年世青赛上那支才华横溢，承载了无数人希望，却因为2：3输给德国队，使得克劳琛被解雇而分崩离析，泯然众人的国青？假如时光能够倒流，国青战胜了德国队，历史又将发生怎样的改变？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skc_足球：从05世青赛开始1-713章.txt",
+    readUrl: "https://pan.baidu.com/s/1jRTc5OdscseDAOZUjJi1IQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skc/",
   },
 
@@ -65400,6 +66029,7 @@ export const bookItems = [
     excerpt: "这是最好的时代，也是最坏的时代。重生者将末日情报上交，举国启动“开天计划”；考古学家将连通异界的青铜门上交，歼20飞进地下城；又有人把系统上交，于是《五年武道，三年模拟》成为全民普及教材。而我撞大运穿越成还是婴儿的超人，却被养父母连同宇宙飞船一起上交给了国家。于是，当末世危机、诡异复苏、旧神降临如期而至，所有人都以为文明将倾时——我身披旗帜，从天外的同步轨道缓缓降下。本书又叫《中国式超人》、《超人",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skd_刚穿越成超人，被养父母上交国家1-368章.txt",
+    readUrl: "https://pan.baidu.com/s/1dYL9w0V2w5echuYIOir1FA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skd/",
   },
 
@@ -65417,6 +66047,7 @@ export const bookItems = [
     excerpt: "夜空下，百鬼夜行。千百年间化作传说流世的存在接连粉墨登场。时代霸主跃跃欲试，绝世大妖鲸吞天地。酒吞童子，玉藻前，八岐大蛇……你方唱罢我登场。神秘归来，超凡再现。生命羸弱，苦海争渡。大妖屠城血祭，鬼怪魅惑世人。亚瑟王英灵回归，雅威抛弃圣城。看着这一切，水无月白这位幕后黑手只是淡淡一笑，于天穹之上俯瞰芸芸众生。庆贺吧，我为你们带来了新世界！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ske_人在东京，掀起百鬼夜行1-657章.txt",
+    readUrl: "https://pan.baidu.com/s/1wll6Mquf3xtBibc24o_qXQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ske/",
   },
 
@@ -65434,6 +66065,7 @@ export const bookItems = [
     excerpt: "作为从战锤世界脱身的穿越者，陈瑜觉得自己所抵达的每一个新世界都是令人心情愉悦且美好的，毕竟有什么能比穿越战锤世界没有外挂、只是普通人，还穿越到巢都底层更令人绝望？通过努力他成为了一名机械神甫，在一次考古发掘中意外接触古代遗物，从而被传送到了一个与地球几乎一模一样的世界，原本陈瑜以为自己回家了，结果却发现这是赛博朋克的世界，故事于是就此展开",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skg_战锤：大贤者的维度穿越1-1751章.txt",
+    readUrl: "https://pan.baidu.com/s/1oro8YCLKNDIYeSgb9ExyAA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skg/",
   },
 
@@ -65486,6 +66118,7 @@ export const bookItems = [
     excerpt: "17年飞车界来了一个天才少年，脚踩江章闯，拳打罗伟，暴虐胡旭，直接拿下了s4谁是车王的车王头衔。在采访的镜头下，李繁无奈的再做了一次解释：“qq飞车纯粹就是的爱好，不仅qq飞车是……率土之滨，王者荣耀，csgo，绝地求生同样也是。”“虽然……我马上要参加街霸V的比赛，但我还是联盟职业选手！”“信我！” 你可以在Unreal的直播间看到任何游戏，但是就是看不到英雄联盟！theshy：我也不知道繁哥为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skk_信我，我真是联盟职业选手1-361章.txt",
+    readUrl: "https://pan.baidu.com/s/1Oa29VXj-lmrpu9haBUK87g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skk/",
   },
 
@@ -65503,6 +66136,7 @@ export const bookItems = [
     excerpt: "诗云：花有重开日，人无再少年。偏偏咱们的主人公乔瑞达因为一次意外，重返了少年时代，并且获得了一项了不得的金手指——复制。 苹果四手机刚刚上市，一机难求，复制一批卖掉，瞬间成为百万富翁。 棒国芯片工厂大火，内存价格涨上了天，复制一批卖掉，瞬间实现财富自由。 友商背后使绊子，手机芯片断货，没关系，复制技能开启，芯片还不是要多少有多少。 自建晶圆厂，买不到光刻机，复制开启，想要几台有几台，DUV不够用，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skm_大国科技之超级复制1-776章.txt",
+    readUrl: "https://pan.baidu.com/s/1qEesD3iDfi9cn5YFcliSAQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skm/",
   },
 
@@ -65520,6 +66154,7 @@ export const bookItems = [
     excerpt: "让别人去打仗，你，幸运的奥地利，去结婚吧！战神能赐予你的，爱神也能赐予你。拿破仑战争的硝烟已经散去，曾经为欧洲带来和平的维也纳体系，已经千疮百孔。看似毫无波澜的和平表象之下，则是暗流涌动的时代漩涡，暴风之前的宁静。空气中弥漫着汗水蒸腾的雾气，呛人的黑烟让人难以呼吸，高雅的餐桌上，一群军人和穿着西装的胖子正在你推我攘，饕餮着那名为世界的大餐，墙上挂着梵高的自画像，耳边萦绕着施特劳斯父子的圆舞曲。突然",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sko_战争宫廷和膝枕，奥地利的天命1-2083章.txt",
+    readUrl: "https://pan.baidu.com/s/1ev1DBwpSEmbdxSSq2H6P2w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sko/",
   },
 
@@ -65554,6 +66189,7 @@ export const bookItems = [
     excerpt: "【华娱+修罗场+95花+85花，韩娱日娱都会有】一觉醒来，重回2014。这一世，韩锋发誓，吃苦只吃冰美式。“韩老师，有人说你尊老爱幼，既喜欢85花，也偏爱95花，有这回事吗？”“这叫尊老爱幼啊？”“韩导，有人说你崇洋媚外，和外国美女私会，冷落国内大花，是这样吗？”“这是什么话，我那是扬我华国男儿风采！”“韩天王，他们都说你是魅魔转世，这你承认吗？”“放屁，我再说一遍，我只是一个长相普通，能力一般，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skq_华娱：我真没想当魅魔啊1-456章.txt",
+    readUrl: "https://pan.baidu.com/s/1fFXoX9Aj74EeBFQfgdTm4w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skq/",
   },
 
@@ -65571,6 +66207,7 @@ export const bookItems = [
     excerpt: "洪武二年春，一青年牵驴扶棺来到了新丰里。朱元璋成了我姐夫？那我就是大明第一国舅！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skt_大明第一国舅1-1282章.txt",
+    readUrl: "https://pan.baidu.com/s/1IJ47mVe6xn1NgV1FuAKTPQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skt/",
   },
 
@@ -65587,6 +66224,7 @@ export const bookItems = [
     excerpt: "当熟知的电影人物走出荧幕，一一出现在这个陌生的世界。封于修、雨化田、东方不败，还有其他各种类型的电影人物，还有各种获取电影人物能力作妖的观众。苏良觉得，事情大条了。------本书书友群：339880743欢迎骚扰作者！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skv_地球电影院1-721章.txt",
+    readUrl: "https://pan.baidu.com/s/1j7FygPNTo8dYwX1nZYUUBw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skv/",
   },
 
@@ -65604,6 +66242,7 @@ export const bookItems = [
     excerpt: "千错万错都是旁人的错，怪谁都不能怪自己。你说裘某言而无信？但对付你这种歪门邪道，自不需讲什么江湖道义。挟持家眷不耻？屠戮满门不仁？拘泥仁义，固守本分，不过侠之小者。我辈正道，当不慕浮名，除恶务尽。什么叫裘某偷学你家的辟邪剑法？此分明是裘某家传武学！看我天人化生，万物滋长！穿越诸天世界，从成为铁掌帮传人开始。没有系统？没有机缘？那就抢！PS：无系统、无女主、无敌无情、无法无天、诸天无限、万界横行、前",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_skw_掌出笑傲，睥睨诸天1-822章.txt",
+    readUrl: "https://pan.baidu.com/s/1vrC3_SnwBvJxRu4aG3XuXg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/skw/",
   },
 
@@ -65674,6 +66313,7 @@ export const bookItems = [
     excerpt: "“我在80年代崭露头角，击败拉里.伯德和魔术师约翰逊。又在90年代统治一切，压制了迈克尔.乔丹和查尔斯.巴克利。噢，别紧张孩子，先擦擦你的汗水，你大可不用放心。00年代，你会和他们享受相同的待遇。”年轻人咽了咽口水：“求你了，快退役吧！” ----------------- 故事从一个中国少年，在1984年成为NBA选秀钻石一代成员开始。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sla_求你了，快退役吧！1-423章.txt",
+    readUrl: "https://pan.baidu.com/s/1DmJY2tFYThZwrlotCucPyw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sla/",
   },
 
@@ -65690,6 +66330,7 @@ export const bookItems = [
     excerpt: "这天，接警中心接到一个电话:“如果我把风车国的最新版光刻机制造说明书拿回家，算犯法吗？”接线员以为是有人恶作剧，没有理会。但次日，大科院就收到一封神秘邮件，邮件的内容则是风车国新版光刻机详细的制造说明书。所有的院士全都懵了。数天后，接警中心又接到一通电话:“如果我一不小心又把小鹰酱国博物馆的文物带回了家，不会被当成文物贩子吧？”接线员还以为他是在恶作剧，但这次，他回道:“如果你真把文物带回家，那么",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slc_国宝竟是我自己1-840章.txt",
+    readUrl: "https://pan.baidu.com/s/157-R7KMPAxR1230oJstX0Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slc/",
   },
 
@@ -65724,6 +66365,7 @@ export const bookItems = [
     excerpt: "一夜之间，末日尸潮突然席卷全球，生态改变，怪兽横行，全世界超80%人口变异。 城市沦为异变兽巢穴，巨兽肆无忌惮地破坏杀戮，人们只能躲在地下或郊外苟延残喘。 穿越者陆锋觉醒【舰船改造】&【工业制造】异能，解锁舰船科技图纸，制造各种武器装备，从零开始一路升级打造舰队。 当122mm榴弹炮换装到双联装203mm舰炮，当三联装283mm舰炮击穿巨兽胸膛的那一刻，陆锋知道——属于大炮巨舰的时代……它回来了…",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sle_大炮巨舰不相信末日怪兽1-445章.txt",
+    readUrl: "https://pan.baidu.com/s/1uaBCPRiXiBcjeJ42I4KWXQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sle/",
   },
 
@@ -65758,6 +66400,7 @@ export const bookItems = [
     excerpt: "19世纪中叶，广西浔州府，从烧炭工开始的反清之旅，覆清灭洋，荡涤百年国耻。【无系统外挂，传统历史文】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slj_1848大清烧炭工1-729章.txt",
+    readUrl: "https://pan.baidu.com/s/1JETDrkgYep4lGnAynBrfXA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slj/",
   },
 
@@ -65774,6 +66417,7 @@ export const bookItems = [
     excerpt: "李斗焕“重生”了。 只是这系统似乎出了一点小小的意外…… 【任务一：社团上下内忧外患，作为昔日的帮派元老，请宿主重新出山，铲除社团毒瘤！】 “不是哥们，先不提我有没有重生，我只是一个电竞职业选手，帮派大哥什么鬼？” 【任务二：三星堂下达战书，明日傍晚，要与你们进行火拼，请宿主做好准备！】 “哥，就算我真的是社团大哥，但现在这个时代，街头火拼貌似有点不太合适吧？” 【任务三：所谓英雄难过美人关，见武",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slk_系统出错后，我成了LCK话事人1-414章.txt",
+    readUrl: "https://pan.baidu.com/s/1uRonE--Ge9BT5OzAIFbu1g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slk/",
   },
 
@@ -65791,6 +66435,7 @@ export const bookItems = [
     excerpt: "想当兵，体检却不过的苏阳回到了九十年代末！为了圆军旅梦的他，报名参军，在前往军区的车站里遇到了我是特种兵的陈喜娃！这是他才知道自己来到了我是特种兵的世界！…………影视综合题材，我是特种兵系列，冲出亚马逊，火蓝刀锋，红海行动.......前期特种兵，后期军官文，非系统文！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sll_影视从夜老虎开始1-240章.txt",
+    readUrl: "https://pan.baidu.com/s/1ApIumZ1TcENROrLPwIx85Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sll/",
   },
 
@@ -65825,6 +66470,7 @@ export const bookItems = [
     excerpt: "简介：【双穿+晋阳小公主日常+萌娃+甜宠】一个小小的玉胜挂件搭建起21世纪和大唐的双穿门。创业失败的江南意外结识大唐晋阳小公主李明达,开启了一段奇幻的邂逅。江岩：“哪来的小萌娃？吃可爱多长大的吗？”小公主：“小囊君~尼系随鸭~~~”李世民：“这叫汽车？”长孙皇后：“这个空调真不错！”……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sln_双穿大唐：遇上可爱小兕子1-485章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZwOhjOdv2VlUos41PY63MQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sln/",
   },
 
@@ -65842,6 +66488,7 @@ export const bookItems = [
     excerpt: "穿越斗罗大陆是诺丁城的一个孤儿好消息我姓唐，坏消息，我叫唐山；好消息武魂本体先天满魂力，坏消息，不是斗1的版本答案；……大师你的理论有问题，蓝银草肯定可以吸收动物魂兽的魂环我又没说不可以，只是说不适合，要知道我才是大师你一定会后悔的。玉小刚愤怒的摔门而出……本体宗开创者、大陆第一人、武魂界的理论大师唐山面对三神之战何解唐山：我的惊世智慧告诉我该动用我的惊世力量了刹那间体形暴涨，顶天立地，只手掌神界",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slp_斗罗：武魂本体，我才是大师1-482章.txt",
+    readUrl: "https://pan.baidu.com/s/1RXrd4Rmqc2uoBBf07wg3sw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slp/",
   },
 
@@ -65859,6 +66506,7 @@ export const bookItems = [
     excerpt: "【日常】【校园】【恋爱】【休闲修仙】二十多，零零后，无房无车无存款，有爹有妈有时间。真是躺平奋斗的时候，却穿越到平行世界蓝星初三的自己，即将中考却什么也不会。李衍正自绝望之时，托管成仙系统降临。当他将错就错的把教科书放上去时。发现原本天书一样的知识，竟然不断的理解起来。···当一个月碾压第一之时，李衍微微一笑。成神仙嘛，学神也是神！但当他把音乐。美术、书法等也练至大成。他悟了。万物皆可神。然而，当",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slr_唯我独仙：重生的我悠闲修仙1-716章.txt",
+    readUrl: "https://pan.baidu.com/s/15-Cv3NN7dPcY99a1gse-FQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slr/",
   },
 
@@ -65875,6 +66523,7 @@ export const bookItems = [
     excerpt: "煤气灯映着巨大的差分机，艾略特推动桌前推杆，机械低沉嗡鸣，弹出一张张卡牌。“看看有没有特殊事件吧。”卡牌在桌上移动，【迷茫的少女】被推入卡槽【夜游】，指向【繁华的城市】。凡妮莎身形一僵，无形之力操纵着她的躯体，迈步走向了灯火。她路过街边的尸骸，她看着腐朽的繁荣，她直面被践踏的一切。她的眼中再无喜悲：“原来如此，这就是您想让我看到的一切吗？我的主。”【迷茫的少女】→【虔信的少女】“我将成为您的代行者",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sls_我命令你成为密教教主1-897章.txt",
+    readUrl: "https://pan.baidu.com/s/1O_MNy62FEZR9Pvix4wUqKw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sls/",
   },
 
@@ -65891,6 +66540,7 @@ export const bookItems = [
     excerpt: "这是最好的时代。两大阵营斗而不破，通向“新大陆”的大门已经开启，探索与开拓，勇气和光荣是整个银河的底色。这是最坏的时代。地球人们忘却了独立之父们披荆斩棘的艰辛和骄傲，沉迷于文恬武嬉的虚假繁荣中，即将坠入深渊而不自知。这是奇迹降临之前的时代，泰坦舰穿梭星海，灵能者漫步虚空，利维坦们在恒星背后的阴影中苏醒。远古留下的意志，不仅是遗产，还有考验，甚至净化。这是大时代的前夜。晨曦的龙女正在假寐，无骨只眼的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slu_他和她们的群星1-2259章.txt",
+    readUrl: "https://pan.baidu.com/s/1nfnq8CvO3Z_CF2GF9u33_Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slu/",
   },
 
@@ -65907,6 +66557,7 @@ export const bookItems = [
     excerpt: "“同样是被系统砸中了头，别人的系统给钱花，我的系统不让我花钱。” “如果是没钱可花也就罢了，偏偏我是一个富二代。” “我这辈子，最痛苦的就是银行卡里有花不完的钱，但却不能花的感觉。” “为了省钱，我过上了不抽烟不喝酒不打麻将的佛系生活。” ——被逼成为佛系青年的程煜心里一万多个MMP。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slv_抠神1-1632章.txt",
+    readUrl: "https://pan.baidu.com/s/1N_nQBG8Y8nT3ZmGLrwy3vw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slv/",
   },
 
@@ -65923,6 +66574,7 @@ export const bookItems = [
     excerpt: "【你愿意——】【为了你的人生，拼一次命吗？】……18岁的顾珩，双脚深陷泥泞。当命运荆棘递向他的那一刻，纵使双手沾满鲜血，他依旧选择紧紧握住。一次次人生挑战，一次次逆袭人生。左手掌【财】，右手掌【势】。不知不觉间，曾经双脚深陷泥泞的他，已然成长为遮天蔽日的大树。……若干年后，顾珩站在北方那座拔地而起的雄城前，轻轻张开双臂：“世人道我轻狂，可我本就年少。”“欢迎各位——”“来到属于我的金钱堡垒！”……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slw_神豪从逆袭人生开始1-619章.txt",
+    readUrl: "https://pan.baidu.com/s/1K2FvFhFJqHrR6RaQjGOJ0w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slw/",
   },
 
@@ -65940,6 +66592,7 @@ export const bookItems = [
     excerpt: "王安回到了1980年···生活不易，也要放弃前世的浮华，赶山打猎，虽危险艰辛，却自由幸福！！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slx_重回八零年，赶山也是一种生活1-1924章.txt",
+    readUrl: "https://pan.baidu.com/s/1KT_N0LYcpv-dExxnPLlY7g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slx/",
   },
 
@@ -65957,6 +66610,7 @@ export const bookItems = [
     excerpt: "“我是军团，我是堕落……” “我是污秽与灾厄，苦痛与诅咒……” “你们胆敢如此敷衍？居然找了个黄皮肤教父对付我？” “你一靠近，我就闻到了恐惧的味道，如此甜美，如此……” “等等，厚礼蟹，这是什么鬼东西！万魂幡？！” “朋友，哦不，来自东方的贵宾，我尊贵的道长先生，请接收一个魔鬼最诚挚的问候……” “不不不，不要让我进入那个该死幡里，让我下地狱，我什么都答应你！上帝啊，救我，救我！” 林正将黑色幡",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sly_北美驱魔：在芝加哥当道士的日子1-443章.txt",
+    readUrl: "https://pan.baidu.com/s/1wqSdv3nvsXOr3NnuyBol-Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sly/",
   },
 
@@ -65973,6 +66627,7 @@ export const bookItems = [
     excerpt: "杨俊穿越到八十年代的港岛，摊上这个打听消息要靠看报纸的废物大佬，本来杨俊打算躺平，幸亏系统及时到账。 “帮小弟骆天虹的母亲付医药费，获得骆天虹+20点忠诚度，奖励高级枪斗术。” “给小弟阿华5000元奖金，获得阿华+10忠诚度，奖励黄金腰子一对。” “给小结巴治疗口吃，获得小结巴+50忠诚度，奖励AK47生产线。“ 只要提升小弟的忠诚度，就可以获得各种奖励，史上最大方的老大出场。 东星乌鸦：“我去",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_slz_港综：我能刷忠诚度，最大方大佬1-458章.txt",
+    readUrl: "https://pan.baidu.com/s/1bcbmekFTrZQuo1gYagxvcQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/slz/",
   },
 
@@ -65990,6 +66645,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sma_北宋：剧透未来，赵匡胤崩溃了1-484章.txt",
+    readUrl: "https://pan.baidu.com/s/17cPS_r5a5et1ZjnoPpho8g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sma/",
   },
 
@@ -66006,6 +66662,7 @@ export const bookItems = [
     excerpt: "曾经的天才厨师常季，现在的废物。在获得金手指之后，有了更宏大的目标。 做出，会发光的菜肴！ 本书又名《不会带娃的厨师不是好奶爸》《我的客人来头都很大》《如何用便宜的食材作出高端美食》 ……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smb_我的天，他做菜会发光1-1363章.txt",
+    readUrl: "https://pan.baidu.com/s/1yIAMmbl2EICXNHmE794JpQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smb/",
   },
 
@@ -66023,6 +66680,7 @@ export const bookItems = [
     excerpt: "陈野穿越平行世界，成为一名默默无名的练习生。 幸而觉醒【大艺术家】系统！ 歌曲传唱度越广，奖励越丰厚！ 小鲜肉们：“他的歌太土了，一点潮流元素都没有！” 陈野：“你们的歌潮流，全网都在嘲。” 老艺术家们：“这样俗不可耐的歌简直是对音乐的侮辱！” 陈野：“真唱一首雅的你又不高兴了。” 资本：“陈野高中霸凌同学！致使同学高考失利！” 陈野：“对不起，我没上过高中！” ...... 若干年后面对采访时，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smc_歌土怎么了？就说好不好听吧！1-411章.txt",
+    readUrl: "https://pan.baidu.com/s/1bgZFvUwAl1BBKSqxdWZd7w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smc/",
   },
 
@@ -66040,6 +66698,7 @@ export const bookItems = [
     excerpt: "穿越龙族世界，却意外地获得了漫威宇宙的钢铁侠系统。起初林托只是想要变强，在这个沟槽的世界生存下来，直到他在长久积累之下，不知不觉中打造出了【冷核聚变方舟反应堆】……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sme_人在龙族，我是钢铁侠1-356章.txt",
+    readUrl: "https://pan.baidu.com/s/1uaBjAqtJRHrszMtJPRzg9Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sme/",
   },
 
@@ -66090,6 +66749,7 @@ export const bookItems = [
     excerpt: "现在这个娱乐的圈都是这什么鬼，怎么成了低能儿扎堆的聚会，突然出现一个高端玩家，圈里会怎么样的啼笑皆非。本书正式更名为娱乐圈，从人大毕业生开始",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smi_娱乐圈，从人大毕业生开始1-655章.txt",
+    readUrl: "https://pan.baidu.com/s/1BRUrecQNQkvst6HTlmDBEQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smi/",
   },
 
@@ -66107,6 +66767,7 @@ export const bookItems = [
     excerpt: "2012年的夏天，东京不热。 玛雅预言中的末日已经到来，人们在惊梦当中劫后余生。 距离索尼的PS4发售还有一年，耳熟能详的游戏也将悉数登场。 轻改神作《刀剑神域》踏上登神长街，日漫的黄金一代落下帷幕。 电影，动画，游戏，小说...... 各行各业，在这一年，都看起来是一副勃勃生机万物竞发。 然而，对于穿越到这一年的少女来说，这一切都与眼下的她毫无关系。 她需要解决的当务之急是...... “先吃饱",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smk_贫穷少女的东京日常物语1-201章.txt",
+    readUrl: "https://pan.baidu.com/s/1HTwtEg2NtZCNPq0DKuiXkw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smk/",
   },
 
@@ -66124,6 +66785,7 @@ export const bookItems = [
     excerpt: "贞子、伽椰子、小丑、裂口女、笔仙……一个个过去只存在于影视剧中的厉鬼，逐渐真实地降临在神秘复苏的世界。五浊恶世，地狱已空，厉鬼复苏，人间如狱。我叫王梁，倒霉地穿越成了原剧情第一个领盒饭的七中班主任王老师。敲门鬼就在教室外，但不要为我悲伤，因为我驾驭了……贞子，这来自另一个世界的恐怖灵异。……多年后，陷入恐惧的人们听到这样一句话在城市废墟上回荡。“我叫王梁，这个灵异时代，我来结束。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smm_神秘复苏之开局驾驭贞子1-668章.txt",
+    readUrl: "https://pan.baidu.com/s/170JezN2ljYxxE08v_gQRNQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smm/",
   },
 
@@ -66141,6 +66803,7 @@ export const bookItems = [
     excerpt: "重回2010年，陈延森觉醒了【薪火成神系统】，员工越多、工资越高，薪火积累越快，能力就越强！精神+10，激活【过目成诵】，书山学海，一目纳之！体质+10，激活【犀皮虎骨】，水火不侵，刀枪不入！……多年以后，坐拥数亿员工的陈延森表示：“修仙竟如此简单？”本书又名《人在都市，加点成神》、《银河系第一BOSS》、《我给你发工资，你助我修行》、《逼我成仙是吧》。【系统+重生+搞钱+进化流】【书荒的朋友，也",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smn_发薪就能变强，我有十亿员工！1-1213章.txt",
+    readUrl: "https://pan.baidu.com/s/1LAgEy8jG6WaGxAWOfHF6-Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smn/",
   },
 
@@ -66174,7 +66837,7 @@ export const bookItems = [
     chapters: "1-1100章",
     excerpt: "世界自毁灭之后重建。 于危崖之上，再起万丈高楼。 被称为天选者的人们活跃在现实的幕后，行走在历史的阴影中，掌握超凡脱俗的力量，领受着崇拜与敬畏。 有人说他们身负天命，万中无一。 可季觉对天命不感兴趣。 他只想有朝一日，去看一看天命之上的风景。 “……” 记录者写到这里停下了笔，看向那个满手油污的汽修工：“所以，这就是你破坏国际秩序、贩卖禁忌武器、资助颠覆组织、引发两极大战、图谋暗中统治世界的理由？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1kzyw6W0nglK717tATyDQXw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1k2m1qRczWPJiACo5iZf8Kg?pwd=gtah",
     downloadUrl: "/books/m_sms_天命之上1-1100章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sms/",
   },
@@ -66193,6 +66856,7 @@ export const bookItems = [
     excerpt: "此书曾用名《斗罗之百年传奇》、《百年传奇之我是尘心二叔》、《斗罗综武：尘氏仙族，干翻神界！》此书，时间线在《斗罗一》百年前，百年期间不必遵循什么预定主线。此书，不用赶时间，不急成神。此书，不成神，成仙，有金手指。此书，设定了斗罗大陆万年历史脉络。此书，有人口十五亿，魂师数量一百五十万以上，并在上升期中。此书，立国两千年的两大帝国皇室很强，与武魂殿并列八大霸主级势。此书，江湖很大，很大。有二十四名门",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smt_玄幻版斗罗1-2681章.txt",
+    readUrl: "https://pan.baidu.com/s/18B65RLFjqx88-ABFmBThvQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smt/",
   },
 
@@ -66246,6 +66910,7 @@ export const bookItems = [
     excerpt: "“弟子李白，愿随仙人学仙问道，真心不悔！”“丹丘生，孟夫子，我求得真仙了！”江涉穿越到大唐盛世，遇见了大名鼎鼎的诗人，念佛的世家子，野心勃勃的权臣。还看到画圣、宦官、贵妃、皇帝。站在云巅，旁观他们的历史。红尘游仙，涉世一遗人。……“霓为衣兮风为马，云之君兮纷纷而来下。”“仙人抚我顶，结发受长生。”——摘自《全唐诗选》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smy_我在唐朝当神仙1-954章.txt",
+    readUrl: "https://pan.baidu.com/s/1pP_Z4HNpMZSPWyWUDh38TA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smy/",
   },
 
@@ -66263,6 +66928,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_smz_重生1878：美利坚头号悍匪1-391章.txt",
+    readUrl: "https://pan.baidu.com/s/1WiZNOr9jzUijq0KZ0g18aQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/smz/",
   },
 
@@ -66279,6 +66945,7 @@ export const bookItems = [
     excerpt: "当叶的手指在谈判桌上敲击三下，不久后肯定会出现关于我们的负面新闻，所以，快去掰断他那该死的手指吧！————某不愿透露姓名的可怜受害者 在同伴心中，叶青是精明睿智、奇谋百出、战无不胜的九爷，在对手眼里，他却是一个阴险狡诈，毫无下限的恶棍。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sn_穿越七零做外贸1-759章.txt",
+    readUrl: "https://pan.baidu.com/s/1xZT_lN5-V1YG0Jo8xarBWw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sn/",
   },
 
@@ -66296,6 +66963,7 @@ export const bookItems = [
     excerpt: "2006年，夏末。来自初圣魔宗的转世大真人陆昊，觉醒胎中之迷，发现自己正在黄教主版《鹿鼎记》剧组当人材。“本地的合欢宗，有点猖啊。“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snb_华娱2006：我来自初圣魔门1-391章.txt",
+    readUrl: "https://pan.baidu.com/s/1Fz1BpSyrMbz7BvIcjeRdSQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snb/",
   },
 
@@ -66312,6 +66980,7 @@ export const bookItems = [
     excerpt: "“信我！玩完你会思考一个问题——人命到底值几颗子弹？” “我只能说，玩了这个游戏后，对人与人之间的信任有了新认识。” “玩过的最硬核生存游戏，没有之一！良心制作组！” “虽然僵尸毁灭工程更加出名，但体验感上，确实不如这个，光是地图面积，就差远了。” …… 如果上天再给自己一次机会，林修绝不会点击付款下载。 【百分百无差评末日游戏！】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snc_这款末日游戏太真实了1-244章.txt",
+    readUrl: "https://pan.baidu.com/s/1X7GHk7tW-2JN1cjWVKzayQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snc/",
   },
 
@@ -66329,6 +66998,7 @@ export const bookItems = [
     excerpt: "顾北重生回到纽约，刚刚上大学的那一年。他得到了一个文娱宝库，零级萌新瞬间可以成为满级大佬。于是，他果断决定走一条前世从未走过的道路，先用满级导演技能在好莱坞捞一笔，然后回国去当资本大佬。就在他还在艰难起势的时候，被一个自称天仙表姐的美女富婆库库地砸钱支持，掏空小金库也要支持他。这谁挡得住啊？令他没想到的是——顾北：“啊，原来你是天仙？”天仙：“一开始，我只是想要进步！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sne_华娱：天仙真的太想进步了1-587章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZzNTcDv7ELFBWt5mQGrp3g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sne/",
   },
 
@@ -66363,6 +67033,7 @@ export const bookItems = [
     excerpt: "这是人类历史的第三十个千年，人类在帝皇的带领下发起远征寻求统一，在那浩瀚银河的千万颗星球内，一个从属于基亚瓦尔，名为吕凯乌斯卫星的某个矿洞内，伊恩与一名叫做科拉克斯的黑发青年相遇。命运？偶然？欺诈？混乱？救赎奴隶混乱前进。原体之血，超级鸦卫试剂，帝皇手谕，背负起这三种沉重的命运，伊恩的信条只有前进。动力爪手撕艾瑞巴斯，铁骑型终结者装喷气背包，热熔空降泰坦，从大叛乱开始至那遥远且黑暗的第四十个千年，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sni_战锤：破妄之鸦1-875章.txt",
+    readUrl: "https://pan.baidu.com/s/1lPbBnOc8Ni6SKLts2YzROg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sni/",
   },
 
@@ -66380,6 +67051,7 @@ export const bookItems = [
     excerpt: "娱乐圈满级大佬重生，只想咸鱼躺平，却遇上了此时还天真烂漫的神仙姐姐。开局《天龙》剧组，看到十五岁的神仙姐姐像个小弱鸡似的快要冻死。他用家传的医术，给她调理身体。被质疑演技差，他用一碗“红烧肉”教她开窍演戏。为了让她为自己做饭，他顺手写了几首口水歌让她火遍全国。带她去海对岸，给梅姐续命，拉着哥哥在愚人节打麻将到天亮，小茜茜成了港圈明星们的团宠。……多年后，已经成为国际巨星的神仙姐姐被问及成功秘诀时。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snj_娱乐大亨：从培养天仙开始1-491章.txt",
+    readUrl: "https://pan.baidu.com/s/13C_BdeKfN-z2qFglFkYr9w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snj/",
   },
 
@@ -66396,6 +67068,7 @@ export const bookItems = [
     excerpt: "睁开双眼，希恩已成为霍利塞孤儿院的一员，虽然开局有些不妙，但从未想过的魔法世界正向他打开大门。更令人喜悦的是，老家的特产随之而来。“我希恩走到今天全凭自己的努力！熟练度面板，加点！”从刚学会荧光咒的【魔咒新手】，到掌握所有魔咒的【白魔王】；从能变形火柴的【变形术学徒】，到足以转变物质属性的【魔法传说】；从勉强熬制好疥疮药水的【魔药小白】，到开创一整个魔药体系的【坩埚之主】。他在魔法上的建树多如繁星",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snk_霍格沃茨的学习面板1-633章.txt",
+    readUrl: "https://pan.baidu.com/s/1S2hnO_rYIchrjTABim_PBA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snk/",
   },
 
@@ -66412,6 +67085,7 @@ export const bookItems = [
     excerpt: "无形的“模因污染”侵蚀着人类世界。人类战战兢兢遵守着各种诡异的规则，稍有不慎，就可能SAN值狂跌，将不得不进入恐怖副本轮回，成为恶灵与诡秘的猎物，在规则怪谈的死亡游戏中挣扎求生！水潭之中的蓝色戏服女鬼，通过录像带传递诅咒的长发怨灵，循环于恐怖电影的上吊老妪，以及深藏于凶宅中的母子索命咒怨姜烬，一个被模因污染的小警察，当其他轮回者战战兢兢遵循规则时——他，竟能篡改规则！随着他一次次颠覆副本，轮回系统",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snl_诡律禁区1-598章.txt",
+    readUrl: "https://pan.baidu.com/s/1fYmg84iHyXp5bJ1EeHMm-A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snl/",
   },
 
@@ -66429,6 +67103,7 @@ export const bookItems = [
     excerpt: "接连躲过三辆泥头车的霍雨浩，爬山散心却被九龙拉棺当减速带送到了斗罗大陆。 本以为要学同人小说中那样猥琐发育，和唐神王斗智斗勇，结果幻想具现系统绑定，霍雨浩直接掀桌！ 展开系统面板化作天幕，编造未来欺骗众生，收集信仰，以超乎想象的速度变强！ 播放【黑暗至尊法师霍雨浩】，为救母亲毁灭宇宙，给这个恋爱脑的世界一点小小的亲情震撼。 霍云儿看完泪崩：雨浩，妈妈再也不恋爱脑了！ 播放【四国大战之邪眸传奇】，戴",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snm_斗罗：编造未来，黑暗至尊霍雨浩1-361章.txt",
+    readUrl: "https://pan.baidu.com/s/1dZyPx2CdbklR7D9xXJDqkA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snm/",
   },
 
@@ -66446,6 +67121,7 @@ export const bookItems = [
     excerpt: "末日生存十年的白牧，在生命的最后时刻被“无尽乐园”选中，成为一名玩家。荒岛求生，丧尸危机，收容物基金会，后室，隐藏着狼人的村落...无尽乐园的每一个玩家，都必须经历一次次危险的剧本，才能换取活下去的时间。而在其他人都小心翼翼，步步惊心时，白牧却好像回到了家一样自然。“不是，你真把乐园当家了？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snn_无尽乐园1-632章.txt",
+    readUrl: "https://pan.baidu.com/s/1inNA_atdIYL-Nq-UgdErVw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snn/",
   },
 
@@ -66462,6 +67138,7 @@ export const bookItems = [
     excerpt: "【现实平行世界背景】【唯我独法】【幕后流】【非《剑风》同人，但设定灵感来自《剑风》，且有一定私设，没看过《剑风》的也可以入坑。】宿渊本以为他死后就能解脱，迎来永久的长眠。可是直到他发现他死后被困在了另外一个世界，一个仅由人类千万年来的记忆所组成的幽暗世界。在这里不知道过了多少年，他快要疯了。直到某天，他对着代表物质的现世播撒下一颗颗名为贝黑莱特的石头，他终于见到了脱困的希望。可自此人类的历史和现在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sno_我在现世播撒贝黑莱特1-410章.txt",
+    readUrl: "https://pan.baidu.com/s/1aKwOd_y2de60WkRnNchO5g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sno/",
   },
 
@@ -66479,6 +67156,7 @@ export const bookItems = [
     excerpt: "坏消息：一觉醒来穿越异世界了好消息：是网王坏消息：主角穿越之前是个网球小白好消息：遇到了还没加入u17的鬼十次郎，而且，觉醒了神秘的六道空间只要比赛过的对手，都能在梦境中登场。并且，每打开六道空间的一扇门，就能获得特殊能力加成。于是，主角在见证鬼崛起，与年轻‘一军’们交锋之后，加入青学，彻底改革网球部，并率领队伍登顶全国大赛。u17蛰伏、远征组磨砺、世界杯扬名。最终，成为所有人心中梦魇一般的网坛大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snr_网王之第六天魔王1-369章.txt",
+    readUrl: "https://pan.baidu.com/s/1xg1rU9HmpxmfbjgmpY6S2Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snr/",
   },
 
@@ -66512,6 +67190,7 @@ export const bookItems = [
     excerpt: "《书中解释得很清楚，没玩过传奇也能无障碍阅读》骨灰级传奇玩家何生穿越到了平行世界……这里传奇世界和现实世界交织……打怪升级就能增加寿元，拥有超凡之力……世界格局重新洗牌……弱肉强食，强者为尊……穿越过来就身患重病的何生表示很绝望……却获得了专属传奇VIP系统，每天还能额外发一次死人财……我这一生只想活着……还有就是捡点垃圾……不过分吧？627870023群，密码：秦生无聊的大佬可以去阅读我小号写的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snt_传奇：每天一条捡尸信息1-427章.txt",
+    readUrl: "https://pan.baidu.com/s/1N-TdVxuN32Rvl80pVYkCzw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snt/",
   },
 
@@ -66529,6 +67208,7 @@ export const bookItems = [
     excerpt: "重生2005，我干了三件事：一：全部身家押注苹果、腾讯二：截胡《暮光之城》、《饥饿游戏》版权三：告诉好莱坞：“你们的技术，过时了！”当工业光魔质疑中国团队做不出“钻石皮肤”，我现场重写了他们的渲染引擎！当某些导演嘲讽“特效无用”，我做出的东方美学让卡梅隆递来合作邀约。从华尔街到比弗利山庄，从硅谷到中关村....这一世，我要用未来二十年的技术，在好莱坞封神！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_snw_好莱坞，我凭特效封神1-379章.txt",
+    readUrl: "https://pan.baidu.com/s/1KN42W2Y58sJR2Ddw52g95Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/snw/",
   },
 
@@ -66545,6 +67225,7 @@ export const bookItems = [
     excerpt: "意外误入尼伯龙根后，伊文这才知道自己来到了龙族。幸好，他穿越时还随身附赠《诡秘之主》中外神超星主宰的全套特性与源质，只要按步就班扮演，就是未来可期。所以，面对龙族世界的众多问题儿童，伊文觉得自己应该做点什么。“奥丁是吗，如果接下来的九发超新星都卡壳，那么我就换黑洞爆发。”诸天流，除了龙族之外还会有几个世界，但龙族是主世界。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sny_从龙族开始登顶诡秘旧日1-313章.txt",
+    readUrl: "https://pan.baidu.com/s/13pU_ja8Gd6xuialNnJSWTQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sny/",
   },
 
@@ -66562,6 +67243,7 @@ export const bookItems = [
     excerpt: "来到东京，成为一名底层巡警。本以为会碌碌无为地在派出所干到退休，却因每日情报的到来，改变了他的预定轨迹。【每日财富情报：歌舞伎町一番街12-6号的暖帘居酒屋，门口的白色灯箱下方，有2万日元现钞。】【每日炸裂情报：歌舞伎二番街2-11号情热俱乐部，藏匿着杀人通缉犯洋口三郎。】【每日刑事情报：板桥区高岛平2-63的古村药厂发生大火。实验台下方0.5米处，有一枚嫌犯留下的血指纹。】【每日搜查情报：新宿区",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_soa_东京刑警：每日一个炸裂情报1-1294章.txt",
+    readUrl: "https://pan.baidu.com/s/13AlwWFireZCmMBwgKiOrLQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/soa/",
   },
 
@@ -66577,7 +67259,7 @@ export const bookItems = [
     chapters: "1-1158章",
     excerpt: "命符传李氏二百五十七年后。昔日万国朝宗的煌煌天唐跌跌撞撞地走到了乾符元年的冬至。这年冬，距离王、黄立旗只有三月，距离大唐覆灭也仅剩三十三年。也是这年冬，长安的公卿们依旧沉湎在盛世的余晖，而在帝国的西南方，蕞尔南诏却再次进犯西川。……初战，唐军兵败大渡河，溃众奔邛州，南诏兵锋直指成都。与此同时，大渡河外，修罗战场。一名年轻的唐军甲兵睁开了眼，他推开了身上的尸体，满目斜阳末日。这就是乾符元年，大唐天厦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1o03OM1bIInziIPBAHv4HUw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1xF7UY5bzFQAx0goY4nc6XA?pwd=gtah",
     downloadUrl: "/books/m_sod_创业在晚唐1-1158章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sod/",
   },
@@ -66613,6 +67295,7 @@ export const bookItems = [
     excerpt: "刚到浙江见过胡宗宪，已经被严世蕃当成“改稻为桑”的背锅侠，还没拉过芸娘手。目前自己还有救吗？ 目标成为为完整版西方经济学的网文趣味版平替。希望能实现一点点。 意外被小伙伴发现这本书其实也可以作为科普读物，避免不必要的螺旋式曲解和无效交流。书中提出的先说世界观、认识论坐标，对于判定言论真假至关重要。只有真言才能有效交流与验证。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_soi_大明王朝1566之高翰文1-1339章.txt",
+    readUrl: "https://pan.baidu.com/s/1fF8W3CZOhK0u63BL9vaTkQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/soi/",
   },
 
@@ -66647,6 +67330,7 @@ export const bookItems = [
     excerpt: "【2022年科幻星光奖口碑好书】【2022年科幻征文三等奖】当一幅卫星拍摄的北极照片传回各国时，地球人都被照片内容震惊了。 他们看到了北极数以千计的狼族，甚至其中还包括数百头北极熊和北极银狐，都统一的俯首帖耳。 而雪山之巅，一头体型超过所有人想象的巨型北极狼，正居高临下的俯瞰着北极冰原。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sok_吞噬进化：我重生成了北极狼1-1568章.txt",
+    readUrl: "https://pan.baidu.com/s/122NggWFfLcHU5jgF43a6Pw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sok/",
   },
 
@@ -66664,6 +67348,7 @@ export const bookItems = [
     excerpt: "作为重生者的莫里斯本想安稳度日，但一封来自霍格沃茨的信打乱了他的计划。同时出现的，还有一本记载了各式各样亡灵魔法的书籍。成为亡灵法师？或许这样也不错。骸骨为仆，幽魂作伴，亡者低语在他耳畔呢喃。“我只是个热爱研究的普通巫师。”莫里斯对着瑟瑟发抖的同学们露出温和笑容。直到某天他对着镜子突然惊醒——等等，整天和尸体打交道的自己，该不会是个变态吧？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sol_从霍格沃茨开始的亡灵法师生涯1-373章.txt",
+    readUrl: "https://pan.baidu.com/s/1POHOx36IGQ13HB5eUm2uow?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sol/",
   },
 
@@ -66680,6 +67365,7 @@ export const bookItems = [
     excerpt: "“我曾在涩谷目睹五条悟被封印。”“也曾在灰雾之上与周明瑞共饮。”“我目睹过保尔柯察金的决意，与他们互道同志，也见过普罗森人的暴行。”“无限城中，由我来安排无惨的结局；日月同错之下，我来决定时间线的条理。”当深海的障眼法远去，我才明白生命的真意：“你我皆是企鹅，要不要充点Q币？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_son_你这辈子就是让游戏给害了！1-1196章.txt",
+    readUrl: "https://pan.baidu.com/s/106G7tOrjv5Q_TSbtR7T2nA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/son/",
   },
 
@@ -66696,6 +67382,7 @@ export const bookItems = [
     excerpt: "路明非：这源稚兄弟真可谓是，一对笑面虎两头乌角鲨。芬格尔：学生，就是上的学越多，学习越好，换句话说就是，留级留的越多，学习越好。路鸣泽：哥啊！不是我害了你！是这个乱世害了你啊！凯撒：我在想我那些个镰鼬，它们各个都有情有义！楚子航：爹啊！你死的好惨啊！孩儿不孝啊！呱——昂热：如果我是你，就绝不和我和谈，因为只要昂热一息尚存，他就战无不胜！！副校长：既然我已经放开了言灵，解除了戒律，那应回别墅，痛饮解",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_soo_龙族：从新三国归来的路明非1-653章.txt",
+    readUrl: "https://pan.baidu.com/s/1QqOzXMz78B79K9JVmEkN4w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/soo/",
   },
 
@@ -66713,6 +67400,7 @@ export const bookItems = [
     excerpt: "你要先磨砺你的技艺，直到它如斯卡哈那般精湛； 你要锻炼你的体魄，直到它像提丰那样强大； 然后，你要举起不列颠之王留下的剑，跨上美杜莎赠你的珀伽索斯，去向远方； 一路上，你会吐出火焰，降下雷霆； 人们会将你的名编成歌谣传唱，也会在夜色中压低颤抖的声响。 你会成为传说，成为行走在地上的——英灵。 …… …… “成为英灵只需三步，合上书，推开门，然后走出去。” 如此说道的夏恩，带着能呼唤诸多传说与神话的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sop_妖尾：成为英灵需要几步？1-423章.txt",
+    readUrl: "https://pan.baidu.com/s/1Y27lPXOmOXFSwVH0UKO9Fw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sop/",
   },
 
@@ -66730,6 +67418,7 @@ export const bookItems = [
     excerpt: "陈韬万万没有想到，自己穿越了就算了，居然穿越成了蝙蝠侠本人。众所周知，蝙蝠侠聪明绝顶，智慧超群，格斗水平超凡入圣，但是——这一切和我这个穿越者有啥关系呢？哦！没事，我能继承蝙蝠侠的力量和记忆……？！？等等，为什么都是平行宇宙版本的？—————大都会，正义联盟在黑暗君主达克赛德面前躺了一地。【警告！已检测到“超人破碎的披风”“神奇女侠的烂盾牌”“绿灯侠损坏的绿灯戒”……】“可恶。”陈韬无语望天：“难",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sor_美漫：蝙蝠侠能有什么坏心思？1-1165章.txt",
+    readUrl: "https://pan.baidu.com/s/1TLRHUrM8flb3CM2haYjIzQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sor/",
   },
 
@@ -66746,6 +67435,7 @@ export const bookItems = [
     excerpt: "穿越到感染体肆虐、天灾不断的废土，程野成为了幸福城的边境检查官。每一个想要加入幸福城的幸存者，都要被仔细盘问检查，以防感染体混入其中。但很快，程野发现这些感染体和自己想象的完全不同！这里有能让人死而复生、靠执念存活的亡语触手。有瞬间覆盖两公里，范围感染的死亡蒲公英。有释放生物解构射线融化一切的火热向日葵。还有，让生物发笑就能变强的笑面曼陀罗...什么，要我检查这些怪物？幸好，程野获得了特殊的文明收",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sov_废土边境检查官1-640章.txt",
+    readUrl: "https://pan.baidu.com/s/1OF8ddQlhji-xYvm9d5PScQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sov/",
   },
 
@@ -66763,6 +67453,7 @@ export const bookItems = [
     excerpt: "又名《川味人间》【年代文、美食、日常、种田】美食博主周砚，重生1984。开局接盘一家破产川菜馆。在这个物资匮乏的年代，给食客们一点高标准的美味震撼！跷脚牛肉、夫妻肺片、麻婆豆腐、东坡肘子、跳水兔……炒、煸、烧、蒸、炸、煮、卤、熏……川菜百味，一菜一格！从此，川南小镇多了一家远近闻名的小饭店。食客们围着小桌吃跷脚牛肉，年轻人最爱一毛一串钵钵鸡，老饕们对着一盆临江鳝丝流下了口水……这一世，钱要好好挣，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sow_1984：从破产川菜馆开始1-648章.txt",
+    readUrl: "https://pan.baidu.com/s/1KwEJWfskhAdZFILOPOkQmw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sow/",
   },
 
@@ -66797,6 +67488,7 @@ export const bookItems = [
     excerpt: "穿越平行世界，陆燃本想靠“鸡你太美”抽象出道，却绑定了【正能量文娱系统】。 做正能量的事就能变强！ 别人炒CP，他打扫排练室拿积分； 别人买热搜，他爆励志金句被官媒转发； 别人电音拉满，他一首《水手》直接霸榜。 选秀节目组：“让你参加选秀，没让你考公上岸！” 某歌坛天后：“上次我问陆燃最想要什么，他说最想要祖国繁荣昌盛。” 某顶流小花：“我澄清一下，我俩在房间一晚上没睡真的没干别的，是陆燃在给我讲",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spd_这个明星正得发邪1-1056章.txt",
+    readUrl: "https://pan.baidu.com/s/1uiumZEwF9yCJZKnP2_6Nwg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spd/",
   },
 
@@ -66814,6 +67506,7 @@ export const bookItems = [
     excerpt: "张景辰临终前，身边空无一人。兄弟姐妹中他不算混的最差的，但晚年却是最惨的。酿下这苦果的正是他自己。直到上天让他重新回到1985那一年。张景辰才幡然醒悟。「很多人陷入泥泞后，总是渴望有福星贵人拉自己一把。」「殊不知在每个人的世界里，救赎者是自己，开路人也是自己。」「自我救赎，方可坦途。」这一次，他绝不会再走旧路，他要弥补曾经犯下的错。这一世，张景辰化身宠妻狂魔。他摒弃恶习，放下没用面子，不在眼高手低",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spf_1985：开局大雪封门1-405章.txt",
+    readUrl: "https://pan.baidu.com/s/1KGManDFcSqQ9jhGTlIzTFA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spf/",
   },
 
@@ -66830,6 +67523,7 @@ export const bookItems = [
     excerpt: "王溯顶着史上最年轻球员的名头登陆NBA，从天之骄子到背负“水货”骂名……他却用自己的天赋在NBA凿出一片青天！退役之夜，科比拥抱王溯，“你说未来属于年轻人，你欺骗了我们所有人……”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sph_NBA：我的天赋能升级1-437章.txt",
+    readUrl: "https://pan.baidu.com/s/1qVfSkhuXBX_4CwJnd_P9KQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sph/",
   },
 
@@ -66847,6 +67541,7 @@ export const bookItems = [
     excerpt: "（已签约，放心食用） 六线音乐制作人重回2007，苦修两年半，扬名油管 港台经纪公司：爬进来吧，献上青春才华！ 韩国经纪公司：先当练习生乖乖听话，不保证能当欧巴！ 国内经纪公司：你看这饼又大又圆，每月一万先签八年！ 签？签个金坷垃！ 泰勒为他点赞，比伯妒忌他的才华，两曲助阿黛尔定鼎Diva 环球音乐为签他，工作学业护航保驾 他是行走的整活大师，库里和奥尼尔被整活却说【下次别忘带带我】，拍MV热度比",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spi_归国顶流，从签约环球音乐开始1-312章.txt",
+    readUrl: "https://pan.baidu.com/s/1Dc1EwM3t4dQJlJ3W_RevjA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spi/",
   },
 
@@ -66864,6 +67559,7 @@ export const bookItems = [
     excerpt: "一个世界，一个故事————————————————————本书目前进度：最好的我们，笑傲江湖，隐形守护者，天下第一，都挺好、神雕侠侣、欢乐颂、我是余欢水、正阳门下、三十而已，猎场，沉默的真相，我和僵尸有个约会，山海情，闯关东，棋魂，最美的青春，乔家的儿女，痞子英雄，凡人修仙，谁是凶手，对手，父母爱情，心居，人世间，奋斗，天才基本法，清平乐（大宋风华），北爱，流浪地球，大桥下面，漫长的季节，大江大河",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spk_诸天万界之大拯救1-4496章.txt",
+    readUrl: "https://pan.baidu.com/s/1wdZO2OsP4UE7X7jqpQNonA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spk/",
   },
 
@@ -66880,6 +67576,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spl_半岛之我的小说无限循环1-230章.txt",
+    readUrl: "https://pan.baidu.com/s/1gkohESODygZOZfpomO625g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spl/",
   },
 
@@ -66896,6 +67593,7 @@ export const bookItems = [
     excerpt: "【真当过龙裔，没有想当然，非乱写】“我再强调一遍，龙裔本就是贪财、好色、暴食之徒，什么叫被我带坏了，失去了诺德人高贵的本性？我告你们诽谤啊！”第四纪元，201年，穿越到天际省的林恩，向恶意造谣抹黑他的各大公会、组织、政权提出严肃抗议：“我只是力所能及的为他人提供帮助，顺便赚点小钱补贴家用，我相信在我的不懈努力下，寒冷的天际省将会被我的热情融化。”“还有，请别再叫我什么织死者、夜母聆听者、阴影之誓、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spm_上古卷轴：魔神大人深不可测1-256章.txt",
+    readUrl: "https://pan.baidu.com/s/1ybFa-JhMwmXaU-7wVAb50Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spm/",
   },
 
@@ -66913,6 +67611,7 @@ export const bookItems = [
     excerpt: "重生在98年代的郑辉，带着全能导演的金手指（只为合理生产文娱产品，后面不提）发现这年代，你不是圈内人也没办法拍电影啊？该怎么办呢？还是先做歌手出道吧。（本书定了事业线，至于女主我打算顺其自然写，不舔狗，也不滥交，大家先安静看我先好好讲个故事好不？写的不好欢迎批评，但女主就先别说了。）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spn_华娱：满级导演但歌手出道1-787章.txt",
+    readUrl: "https://pan.baidu.com/s/1guS90bsjotvGGzTF_7i5BA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spn/",
   },
 
@@ -66930,6 +67629,7 @@ export const bookItems = [
     excerpt: "【首订三百写到四千均订，可尝试食用】我叫宇智波佐助，我遇到了点麻烦。就在刚才，我被我亲哥一发月读送去了尸魂界。还好，问题不大。凭借宇智波的优秀血统，我花了一年学会始解，三年当上席官，眼看就要攒够资历去虚圈砍几个大虚练练手，好为将来卍解做准备了……结果，出任务的时候，脚滑了。一睁眼，我又回到了木叶医院，成了全村最后的宇智波独苗。床边，三代老头正对我笑得像朵菊花，话里话外想让我当火之意志接班人。走廊外",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spr_火影：从尸魂界归来的宇智波佐助1-282章.txt",
+    readUrl: "https://pan.baidu.com/s/13EJT-WY9owwg3TZO9uiJFQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spr/",
   },
 
@@ -66946,6 +67646,7 @@ export const bookItems = [
     excerpt: "斗罗龙王传说同人，（多女主，反唐三）炼狱斗罗千古清风和寒韵斗罗夏筝他们夫妇二人生下了大陆最后的希望。在这个外有深渊位面虎视眈眈，内有唐家在实施万年大计的时代，生有三瞳的持棍青年终将一棍扫平大陆的阴云，新的时代来临了。（很多灵感都借鉴了日月同错！强烈推荐大家去看）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sps_斗罗龙王：千古第一人1-486章.txt",
+    readUrl: "https://pan.baidu.com/s/1FmqsgCKhIKUfdnfHCjPy-w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sps/",
   },
 
@@ -66963,6 +67664,7 @@ export const bookItems = [
     excerpt: "【欢迎加入欺世游戏，枉死者！】【只要赢下一场，就足以篡改已死的历史，死而复生！】“赢下一场？”明珀抛出筹码，嘴角上扬：“有句话说得好，赢到最后才是赢。”若所有胜利者都同时手握改写命运的权柄，当时间线被无数只手反复撕扯、涂抹、覆盖，唯有最后的胜利者，才能一锤定音。胜者通吃，败者成尘。“——梭哈。”——————已有《牧者密续》、《玩家超正义》等千万余字完本万订作品，信誉保证！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spv_欺世游戏1-412章.txt",
+    readUrl: "https://pan.baidu.com/s/1HZfb0Z29V0Xqs17EAWBzqQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spv/",
   },
 
@@ -66980,6 +67682,7 @@ export const bookItems = [
     excerpt: "【伪学霸文】【多女主】穿越斗罗大陆，武魂蓝银草，先天魂力一级，终其一生难以突破魂尊。面对天崩开局，罗素激活前世巫师小游戏的合成模块。蓝银草+蓝银草=超级蓝银草。超级蓝银草+超级蓝银草=蓝银王。蓝银王+蓝银皇右腿骨=蓝骨皇草。……幽冥灵猫+白虎=幽冥白虎。八角玄冰草+烈焰杏娇疏+寒阴泉水+炽阳泉水=阴阳逆生丹。海神三叉戟+修罗血剑+罗刹魔镰=戮神方天戟。……天地万物皆可合成，血脉的演化，基因的真理，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_spx_斗罗，蓝银草？幸好我有合成器1-517章.txt",
+    readUrl: "https://pan.baidu.com/s/1y0vR4y73GKbq4DslanYI5Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/spx/",
   },
 
@@ -66997,6 +67700,7 @@ export const bookItems = [
     excerpt: "墨尘穿越游戏【异世】，发现自己不仅有着属于玩家的面板，还发现他所获取的技能，跟当前版本不一样。“你说同样是【铁骨】，为什么你只是增加骨头硬度，而我全面提升属性？”“大概是我的技能版本，跟你的不一样吧。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sq_我的技能版本不对1-599章.txt",
+    readUrl: "https://pan.baidu.com/s/1_XdsmiPtjZiBy7S8IcRhMQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sq/",
   },
 
@@ -67013,6 +67717,7 @@ export const bookItems = [
     excerpt: "全网千万粉丝的花心律师周明远，回档成了2014年的法学院新生。谈恋爱一定要轰轰烈烈，搞事业必须得抢占先机，重生的我不可能循规蹈矩！这一世，他当然要选随心所欲的人生。......本书又名《随心所欲2.0》《顶男重生攻略手册》《如何玩转亲密关系》等。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqa_循规蹈矩能叫重生吗？1-658章.txt",
+    readUrl: "https://pan.baidu.com/s/1etXCnYSBbGKVkCdQogR95g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqa/",
   },
 
@@ -67082,6 +67787,7 @@ export const bookItems = [
     excerpt: "2019年斯德哥尔摩Major，金色的雨从天上洒落，队友都在捧杯狂欢的时候，焦阳在阴暗的角落里给老板打了通电话。“喂，青总？我想把天赋带到CNCS……” 阿青的朋友圈：“太搞笑了，我们这有个选手路都不会走就想换项目。”“开玩笑，怎么可能让他走？国内没几个中单了，我们的目标是TI！”“啊？你们说的那个外挂是焦阳。”“259说他有点天赋。”“先当个替补吧。”“赢了？”“MVP？”“Major冠军？”“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqm_CS：拿下Major才来系统？1-456章.txt",
+    readUrl: "https://pan.baidu.com/s/1iciGNcd_Ob_rSsTdHfcXCw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqm/",
   },
 
@@ -67098,6 +67804,7 @@ export const bookItems = [
     excerpt: "原本家境优渥的许源，因为后妈的挥霍无度成了负二代，过上了牛马不如的悲惨人生。重生回到8岁那年，在爸爸与后妈初次相遇的现场，许源略施小计，智斗妄想嫁入自家豪门的败家后妈。同时也因为这场意外的相遇，让他提前结识了高中离世的清冷校花，以及未来的非主流歌坛小天后。此时的她们还是在酒席散后捡瓶子卖钱的可怜小女孩。前世饱经风霜的许源已然明晰，这物欲横流的世界人心险恶，唯有知根知底的青梅竹马之间的感情才值得守护",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqo_重生后，自己养成小青梅1-472章.txt",
+    readUrl: "https://pan.baidu.com/s/1E3EE5mVUR5ts-GFT22qY2A?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqo/",
   },
 
@@ -67114,6 +67821,7 @@ export const bookItems = [
     excerpt: "“医生，这十天来我睡着的时候总是在迷迷糊糊中听到有人喊我的名字。”“黄天先生，你这是幻听。”“我可以确信我听到了。”“那你就是焦虑躯体化。”“焦虑躯体化？”“总之你什么事也没有，别担心，平时别抽烟喝酒，早睡早起，放宽心态你就能好。”“……”9月5日，我去看了医生，医生说我什么病也没有，我稍微放宽了心，但是当天下午我就被公司裁了。9月6日，我睡前尽量什么也不去想，竟然真的一觉睡到天亮，然而，当我睁开",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqp_我名黄天，苍天已死什么鬼？1-460章.txt",
+    readUrl: "https://pan.baidu.com/s/1yXTruR4mKjz53e_a5OEQJg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqp/",
   },
 
@@ -67131,6 +67839,7 @@ export const bookItems = [
     excerpt: "嘉祐元年。 宋夏兵戈渐止，庆历已成旧事。 汉语言文学教授陆北顾自安乐溪畔醒来。 映入眼帘的，是一个文华鼎盛、群星闪耀的时代。 这一年，苏轼高呼“千里快哉风”自蜀入京，曾巩屡试不第黯然潦倒，章衡胸有成竹只待成名。 这一年，张载横渠四句尚未响彻华夏，二程理学犹且潜于微澜，欧阳修古文复兴运动方兴未艾。 开局身为县学穷书生，陆北顾不得不提笔挥毫努力改变命运，不经意间，却为那冠绝古今的“千年龙虎榜”添上了一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqr_大宋文豪1-712章.txt",
+    readUrl: "https://pan.baidu.com/s/16A7tE0fjOVLfoChsZGp9SA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqr/",
   },
 
@@ -67147,6 +67856,7 @@ export const bookItems = [
     excerpt: "研究生毕业的陈普发现自己意识可以穿越回两千年前，操纵先秦时期自己的祖宗。他亲自操纵老祖征伐天下，居于庙堂之巅，兴文定武千载仰止。他曾挽天之将倾，扶社稷既倒。自此，一个不朽家族在历史长河中冉冉升起。崛起于封建，掘墓封建，发展科技经济、文化，从过去开始，改变现在。一部陈家族谱，半部华夏史书。望祖成龙，从老祖宗开始奋斗！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqs_从楚汉争霸开始，打造不朽世家1-434章.txt",
+    readUrl: "https://pan.baidu.com/s/1fvkGk9XsY8foAJA3wYyVEw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqs/",
   },
 
@@ -67164,6 +67874,7 @@ export const bookItems = [
     excerpt: "白杨捡到了一枚名为“谎言之神”的神格。谎言之神很弱，虽然有神力，但是他的一切都是虚假的。谎言之神也很强，如果有人能够相信他所编织的谎言，那么随着愿力的出现，一切虚假的都会变成真实的。“什么谎言之神？那是你不会用罢了，我明明就是故事之神、造物主！”利用现实世界那庞然的人口，白杨决定编造一个弥天大谎，然后逐渐把这个谎言，变成真实的。【灵气复苏、幕后黑手、神话重启类】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_squ_从谎言之神到诸世之主1-810章.txt",
+    readUrl: "https://pan.baidu.com/s/1rWHY_OBYOcLBnxVQYzR4gQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/squ/",
   },
 
@@ -67180,6 +67891,7 @@ export const bookItems = [
     excerpt: "冥冥之中的第六感指引他走向未来正确的方向。可是站在十字路口看着对岸的她们，没人告诉他该怎么选择一个正确的她。干脆全都要吧！从选秀落败的权煊赫开启奋斗花路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqy_半岛之我真是顶流1-860章.txt",
+    readUrl: "https://pan.baidu.com/s/1nQ9Bmqxsj-pGWikpyzhQnQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqy/",
   },
 
@@ -67197,6 +67909,7 @@ export const bookItems = [
     excerpt: "重来一次的林峪，拿着刚从自家老头子那里骗来的银行卡，站在他梦想开始的地方……导演—单女主—拍戏—日常",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sqz_华娱之为你而来1-504章.txt",
+    readUrl: "https://pan.baidu.com/s/1YNndDZwGof0jJY3WGFPFRQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sqz/",
   },
 
@@ -67212,7 +67925,7 @@ export const bookItems = [
     chapters: "1-693章",
     excerpt: "2007年的足坛风云变幻。皇家马德里银河战舰分崩离析。巴塞罗那“梦二”灵魂放任自流。AC米兰“上帝之子”所向披靡君临王座。阿森纳再无枪王之王。红魔曼联真核蜕变收复英伦山河。铁血蓝军切尔西内部矛盾激化。利物浦迎来“圣婴”。还有...在英冠沉沦三年的利兹联重返英超！一位来自华夏的菜鸟主帅突兀地闯入了欧洲足坛顶级舞台。“我叫郑辉，争一世之辉！”索普拱门训练基地外由少帅亲自镌刻的队训在阳光下熠熠生辉。“为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/14wTx4VAYTS-EI8oH48p0Vw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1NXYVFqHC1Oul-PhtbjO2Cg?pwd=gtah",
     downloadUrl: "/books/m_sr_这位少帅，不对劲！1-693章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sr/",
   },
@@ -67231,6 +67944,7 @@ export const bookItems = [
     excerpt: "于图书馆内永生的管理员亚伦，利用千年光阴读完了馆里所有禁书，却无法掌握任何力量。然而他有一本《禁书借阅录》，只要它揭示的目标在馆内借书，并掌握书中力量，亚伦将自动拥有对方的本领。当一位衣衫褴褛的小女孩，“吱呀~”推开大门后，冷清的图书馆逐渐热闹起来。借阅者陆续出现，从禁书图书馆里毕业的学生越来越多。他们，正在不知不觉中，潜移默化地改变整个巫师世界……【群像】【幕后】【日常】【种田】【治愈】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sra_巫师世界的禁书管理员1-678章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ft1g43jS-1qEy3A2XijPew?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sra/",
   },
 
@@ -67246,7 +67960,7 @@ export const bookItems = [
     chapters: "1-396章",
     excerpt: "重活一世，穿成物理系博士生。张明浩获得了名为‘正确感知’的特异功能，能够对问题结论的正确性进行判定。同时，还能通过学习知识，不断地提升智慧和记忆力。他成为学霸和科研天才，任何科研难题到了他的手中，都变得异常简单、轻松破解。从隐形涂层、拒阻材料，到常温超导、量子通信、反引力技术……科技改变世界，而他，改变了科技！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1Y0TYV2IWL5Bu_eREHxbEvw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1HUV-3E1w2Oy1Ekjg-GZpUQ?pwd=gtah",
     downloadUrl: "/books/m_srb_从高校学霸到科研大能1-396章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srb/",
   },
@@ -67265,6 +67979,7 @@ export const bookItems = [
     excerpt: "林夏一觉醒来，发现自己来到了超凡职业者的世界中，并背上了一辈子都还不完的恩情贷。升级贷、装备贷、技能贷、副本贷、灵魂贷......在这超凡职业者的世界中，普通人不依靠贷款，寸步难行。幸好林夏拥有人生模拟器，在一次次的人生模拟中打造独属于自己的完美未来。......【第一次模拟，你背负各种贷款多达八十五种，孤军奋战的你被追债队剥夺灵魂，采集五脏六腑而亡。】【第二次模拟，被冠以天才名号的你拥有更高的贷",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_src_我靠演讲缔造超凡帝国1-860章.txt",
+    readUrl: "https://pan.baidu.com/s/1KP8Nn3ejNVy4URfegrRmRw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/src/",
   },
 
@@ -67299,6 +68014,7 @@ export const bookItems = [
     excerpt: "一句话简介：一个来自基金会世界的现实扭曲者被黄皮子征兵，穿越到了战锤世界，开始拯救人类之旅的故事。———罗安摸索着下巴，看向了眼前这个小麦色皮肤，黑色长发，头戴金色桂冠的美少年。“……你的意思说，你要带我离开这个世界，前往一个新的宇宙开始新生活？”“没错，那个宇宙非常美好，是一个有人类，精灵，兽人，亡灵，恶魔等等多种族共存的奇幻世界。”吾的要求不高，你作为被吾选中的勇者，只需要帮助人类击败恶魔和其",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sre_现实扭曲者的战锤之旅1-381章.txt",
+    readUrl: "https://pan.baidu.com/s/1DDJLUxmWjYPos_LPdiS6Fw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sre/",
   },
 
@@ -67316,6 +68032,7 @@ export const bookItems = [
     excerpt: "都说这影帝奖杯不好拿，要靠运营公关，还有内定，背后有人。好的，那我来看看，到底好不好拿？咦，我不是拿到了吗？一个、两个、三个……威尼斯金鸡金马戛纳……金球奥斯卡？！一不小心，大满贯了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srf_华娱大满贯影帝的诞生1-703章.txt",
+    readUrl: "https://pan.baidu.com/s/1ciE7jQ3HzNOfz0nKDZ__zA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srf/",
   },
 
@@ -67349,6 +68066,7 @@ export const bookItems = [
     excerpt: "大虞立国三百一十二年， 魔教暴起，东厂覆灭，林党垮台，这一年风云变化，江湖波谲云诡，王朝岌岌可危。 一切的起点，都因魔教圣女死于非命。 “此案就此了结，你已经没有嫌疑了。” 又一轮调查过后，陈易回到家，推开门。 本该死去的魔教圣女，瑟瑟发抖地缩在了他的床榻里…… “主人…” 她朝陈易喊了一声。 前世的仇敌，这一世的侍妾。 ………………… 临朝称制的太后，清净无漏的魔教圣女、天下第九的独臂剑甲、太上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srh_我的仇敌成了我的道侣1-1071章.txt",
+    readUrl: "https://pan.baidu.com/s/1v0XFZOznDiC8F1TXOo056w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srh/",
   },
 
@@ -67365,6 +68083,7 @@ export const bookItems = [
     excerpt: "好消息:穿越到天行九歌了。坏消息：金手指自己跑天上装逼去了。韩国紫兰轩，流沙众人商议着如何护送尚公子出城。天空突然出现了一个巨大的发光体，正在播放秦时明月时间线的故事。自此，原著的世界线发生变动。韩非怒视卫庄:“我把你当兄弟，说！红莲是怎么变成赤练的？！流沙怎么变成见不得光的杀手组织啦？”嬴政看向盖聂:“说好的一起相守到白头呢？你特么居然背叛我？怎么我的身边全是二五仔。”东皇太一:“我阴阳家失传已",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sri_在天行九歌观影秦时明月，我麻了1-601章.txt",
+    readUrl: "https://pan.baidu.com/s/11WjuXvYQO5Q9Sju8vV72ZA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sri/",
   },
 
@@ -67382,6 +68101,7 @@ export const bookItems = [
     excerpt: "【被偷听心声，轻松，日常，搞笑，多女主】做了一辈子牛马打工人江淮重回2013.郑秀妍：当我男朋友，钱都给你。雪莉：oppa我们一直在一起好不好？林允儿：假男友有什么意思，我们来真的行不行？朴智妍：我真的没有听见你的心声，请你相信我！江淮：好好好，原来你们接近我，都是为了偷听我的心声！！！！群号：1078161236",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srk_半岛：idol们都能听见我心声1-362章.txt",
+    readUrl: "https://pan.baidu.com/s/1uUVQD20Db7X63dOQK5nYeQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srk/",
   },
 
@@ -67398,6 +68118,7 @@ export const bookItems = [
     excerpt: "正处于《骄阳似我》周辰偶然获得了穿越影视世界的机会，一切从小舍得开始！…………穿越以都市世界为主，已经经历过《小舍得》《咱们结婚吧》《都挺好》《流金岁月》《小欢喜》《春风十里不如你》《三十而已》《欢乐颂》《人世间》《正阳门下》《一起同过窗》《我是余欢水》《鸡毛飞上天》《琅琊榜》《情满四合院》《漫长的季节》《梦华录》《警察荣誉》《消失的她》《莲花楼》《知否》《去有风的地方》《曾少年》《繁花》《周生如",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srl_影视世界从小舍得开始1-2441章.txt",
+    readUrl: "https://pan.baidu.com/s/1H94Y0lAgJ3HoHdQ_4UWlMA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srl/",
   },
 
@@ -67415,6 +68136,7 @@ export const bookItems = [
     excerpt: "“欢迎玩家登上维度裂缝游戏专用列车，本次列车将由E级始发站开往D级站点，请玩家保证生命安全有序上车，并遵守乘车规则。”“乘车规则如下：”“1.非游戏物品请勿带上列车。（内衣裤除外）”“2.必须消费。（列车工作人员均为无薪上岗）”“3.熄灯之后请勿开灯。（艺高人胆大者除外）”“此外，列车鼓励偷袭、斗殴、猎食等多种休闲方式，请玩家随意选择。”“祝您旅途愉快。”*大家有兴趣的话可以加加读者群哈！玩家请上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srm_玩家请上车1-3286章.txt",
+    readUrl: "https://pan.baidu.com/s/1cGFXOi4oc0UGnFB0R0xVBw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srm/",
   },
 
@@ -67432,6 +68154,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srn_同时穿越：怎么是少儿频道1-557章.txt",
+    readUrl: "https://pan.baidu.com/s/1fp4Zf7gXFgl3F-ZMBRpVmA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srn/",
   },
 
@@ -67448,6 +68171,7 @@ export const bookItems = [
     excerpt: "我们现在正生活在历史的重大变局之中，主导了前四分之一个二十一世纪的全球化浪潮，正在急速的退去，世界将会迎来怎样的未来犹未可知。而本书所在的时代，也是中国历史上的一个重大变革时期。公元二世纪中叶，距离汉高祖刘邦建立西汉帝国已经过去了大约三个半世纪，距离汉光武帝刘秀建立东汉帝国也过去了大约一百二十余年。在开头的四位天子之后，东汉帝国就陷入了天子幼年登基——早夭——幼年登基——再早夭的恶性循环。由于幼年",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sro_太平记1-645章.txt",
+    readUrl: "https://pan.baidu.com/s/19uXsLQyL0oUfGSXJXklyyg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sro/",
   },
 
@@ -67465,6 +68189,7 @@ export const bookItems = [
     excerpt: "当年算命的跟我说，一将功成万骨枯，我不信，我来佛罗里达只做三件事，买AK，整来福，做大做强，再创辉煌！谢邀，人过马路，忘记看车，已经来北宋了！系统：我在大宋有条路，我觉得你有点实力，打算交给你！张诚：找我做事，做不做，你都得给钱，少一个子都不行！系统：让你光复燕云十六州，你不是刮风就是下雨，两年了，你还在跟包拯打官司？张诚：你还说，扫把星，我来这里都怪你，包拯现在要铡我啊！系统：快去隔壁请陆言！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srq_流窜诸天的恶势力1-2918章.txt",
+    readUrl: "https://pan.baidu.com/s/1l2lIJ6VjsImPwV4KwiMinA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srq/",
   },
 
@@ -67482,6 +68207,7 @@ export const bookItems = [
     excerpt: "这世道，都要苦一苦百姓？可我偏不！穿越成嘉靖年间的监察御史，杜延霖开局就被架在了火上烤——要么逢君之好，沦为清流唾弃的佞臣；要么死谏直言，午门廷杖下尸骨无存。可他偏要撕出第三条路！借天崩地裂的华县大地震，他让满朝文武亲眼见证“天谴”；凭后世记忆，用《治安疏》把嘉靖怼到哑口无言。严嵩父子视他为眼中钉，他却顶着“戴罪钦差”的名头杀向盐政黑洞。盐税黑洞深不见底，倭寇屠刀寒光刺骨，官商勾结织就铁幕！构陷、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srr_大明王朝15561-347章.txt",
+    readUrl: "https://pan.baidu.com/s/1FrhO9CxOYRgzk7sgj79iTQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srr/",
   },
 
@@ -67516,6 +68242,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srt_贞观悍师：从教太子逆袭开始1-524章.txt",
+    readUrl: "https://pan.baidu.com/s/1h2TzmLafzwB0765v7vD22w?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srt/",
   },
 
@@ -67533,6 +68260,7 @@ export const bookItems = [
     excerpt: "穿越诸天，结果都是恐怖片？不要紧！我直接拜入酆都黑律，看看谁更狠！民雄鬼屋、咒、校墓处、双瞳、僵尸先生、僵尸大时代、office有鬼、咒怨、陀地驱魔人、来了、僵尸至尊、灵幻先生、哭声、第一戒，伊藤润二，倩女幽魂……（副本目录，定时更新）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sru_恐怖诸天：我直接拜酆都黑律！1-614章.txt",
+    readUrl: "https://pan.baidu.com/s/1h6NzA_XNqj01Ho8h3Uv8Qw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sru/",
   },
 
@@ -67550,6 +68278,7 @@ export const bookItems = [
     excerpt: "苏定平重回99年，正值海军举步维艰之际。054B大护、055大驱、003航母还是遥不可及的梦。觉醒【最强军工解析系统】，解析卡脖子技术，他带领海军走向辉煌。多年后，华夏的无敌舰队巡视四大洋，全世界都安静了。“小日子，我来看你了。”“鹰子，把门开开。”“大家不要怕，我们一向以德服人。”……五千年来，我们一直在世界的牌桌上，注视着一个又一个对手的崛起和消亡。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srv_我打造了无敌舰队1-1257章.txt",
+    readUrl: "https://pan.baidu.com/s/1oOje-2X9J60vU6WypdYMMg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srv/",
   },
 
@@ -67567,6 +68296,7 @@ export const bookItems = [
     excerpt: "【像我这样年轻的演员都能获得金满贯影帝，你能想象吗？】……重生，就是用来创造奇迹的！这是一个北漂老龙套重生后，创造演员奇迹的故事！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_srw_重生从艺考状元开始1-1042章.txt",
+    readUrl: "https://pan.baidu.com/s/1KoCJOU5gVz-llHLTz8bDMA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/srw/",
   },
 
@@ -67618,7 +68348,7 @@ export const bookItems = [
     chapters: "1-1393章",
     excerpt: "未知污染侵袭世界，仙神妖佛尽数沉沦。生化狂潮，蔚蓝再临，奇点登台，人革逆袭…… 来自未来的进化与源自过去的国术相逢，气血磅礴的人仙武道与诡异扭曲的污染相战。 我自长夜之前沉睡，我于永噩之地苏醒，带着未来的无限可能与位面救赎的希望，撼树的蚍蜉也是血溅五步的匹夫，他的故事才刚刚开始。 以下为不正经简介： 我是小西王啊啊啊啊 杀杀杀杀杀杀杀……………………",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1UYLhxBq5hu8kL68h_JQ39g?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1Phab_vmATzjJ34tPy0Qpcg?pwd=gtah",
     downloadUrl: "/books/m_srz_永噩长夜1-1393章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/srz/",
   },
@@ -67654,6 +68384,7 @@ export const bookItems = [
     excerpt: "重生在北海道，是一名吹奏部顾问指导老师。神旭高中的吹奏部没有光辉灿烂的战绩，旧顾问遗留下来的，只是一所麻烦不断的吹奏部。起初，吹奏部的氛围北原白马并不放在心上，青春期的少女们总会有些甜美的小心思。但随着音乐大会的‘完美’落幕，吹奏部内的气氛愈发不对劲—“能和我，当一辈子的朋友吗？”“求你了！如果没有你帮我，瓦答西~~！”“我，从来没觉得吹双簧管开心过。”“因为月夜看上去快要坏掉了。”“你这个人，满",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssa_我在北海道教吹奏1-573章.txt",
+    readUrl: "https://pan.baidu.com/s/1J9HXd2kUeH1X5OyEjYIv5Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssa/",
   },
 
@@ -67689,6 +68420,7 @@ export const bookItems = [
     excerpt: "据说某虚空论坛中有这样一个帖子：“如果你能拥有一个超凡职业的能力，你愿意选择什么“对于刚刷完传世经典《如何挑选集合石坦克》，脑子里全是“合波”的易青锋则顺手选了一个圣骑士。翌日，看着出现在视网膜上的面板信息，易青锋不由得陷入沉思：等等，这个圣骑士的光环怎么是血红色的……而冒险的开始？“综网提示：你完成了一次每日副本，你解锁了随机副本天赋群[怪物数量]……”异……异界天赋树？——这是一个战斗天选在综",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssc_综网：从速刷打灰开始的战斗天选1-685章.txt",
+    readUrl: "https://pan.baidu.com/s/1kpQMEAomb88hs_cH_yPRew?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssc/",
   },
 
@@ -67705,6 +68437,7 @@ export const bookItems = [
     excerpt: "大道阴阳，无极太一。万古三十帝，东皇一出，谁与争锋？曾在试炼古路斩霸体，曾在星空深处与混沌体同世竞逐，也曾于神话古路创下无敌法，乱天动地，威震古今。帝术一出，十方俱灭，震古烁今无人敌。大世沉浮，岁月变迁，纪元更替，仙王伏尸，帝者喋血，惟吾恒在！谁能只手镇上苍？谁可弹指覆轮回？惟我东皇太一！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssd_遮天：我为东皇太一1-861章.txt",
+    readUrl: "https://pan.baidu.com/s/193HNPgck-VfDgtayNAqfSg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssd/",
   },
 
@@ -67722,6 +68455,7 @@ export const bookItems = [
     excerpt: "穿越了，还是同穿流。坏消息，无法共享能力。好消息，穿越的对象大部分都是知名人物，还都是研发能力逆天的科学家。但为啥大部分都是反派啊？（火影大蛇丸，奥特曼正木敬吾，一人之下诸葛青，漫威哈利奥斯本，假面骑士大修卡，EVA，强殖装甲，无限恐怖，石纪元，三体，流浪地球，高达……）总之这些科技流的同时穿越，一群科学家用黑科技改变世界的故事……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sse_同时穿越，但是反派科学家1-1482章.txt",
+    readUrl: "https://pan.baidu.com/s/18xc_HMZF8beQmvXu-sG-hA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sse/",
   },
 
@@ -67738,6 +68472,7 @@ export const bookItems = [
     excerpt: "带着历史档案的记忆，踏入尔虞我诈、风云变幻的战争年代，看似全无痕迹，一切尽在掌控之中！《谍云迷踪》，深蓝的国度民国谍战系列第四部！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssf_谍云迷踪1-973章.txt",
+    readUrl: "https://pan.baidu.com/s/1akq_WoZhuVC6yheF5GuPbA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssf/",
   },
 
@@ -67808,6 +68543,7 @@ export const bookItems = [
     excerpt: "苏宇重生回到《左耳》开拍前。上辈子混迹娱乐圈十多年，赔得裤衩都不剩，最后只能回家继承亿万家产。这辈子，他决定换个活法。重回2014，带着五千万启动资金，一头扎进了娱乐圈。所有人都以为他是个来玩票的败家子。直到他左手《盗墓笔记》右手《琅琊榜》，将一众未来顶流和顶级IP尽收囊中。陈都灵的纯真，李一桐的知性，周也的耀眼……从《左耳》的青春风暴，到《流浪地球》的工业革新，再到《三体》的终极幻想……当别人在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssk_华娱2014：从煤二代开始1-324章.txt",
+    readUrl: "https://pan.baidu.com/s/1P57EopvSQOdf4eRtTiXNBg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssk/",
   },
 
@@ -67824,6 +68560,7 @@ export const bookItems = [
     excerpt: "08年初，17岁的中国小子王硕到德国试训。坏消息，他试训了18支球队，全都以失败告终。好消息，他苦苦等待的外挂终于来了。球神，启动！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssl_球神从被动技能开始1-212章.txt",
+    readUrl: "https://pan.baidu.com/s/1jg6CpLYB3BPZ9_UotHWwNw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssl/",
   },
 
@@ -67858,6 +68595,7 @@ export const bookItems = [
     excerpt: "谢邀，人在木叶，刚成反派，薪资按镜头结算。我叫柳生真彦，职业是忍者学校老师，副业是在《火影忍者》世界扮演反派。工作：对鸣人重拳出击，勾结大蛇丸，带领团藏颠覆忍界。我的职业目标：当好出色且可以活到大结局的反派！只要当好反派，拥有足够多镜头，成为人气角色，忍术、秘术、血继限界等皆有可能。到最后。当反派接连登场，最后的幕后者露面……“老师，为什么？你不是我的真彦老师！”“很遗憾，你认知中的真彦，从一开始",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssn_火影：扮演反派的我成了人气角色1-435章.txt",
+    readUrl: "https://pan.baidu.com/s/1uWH_mRtczksmupdKKVBhHw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssn/",
   },
 
@@ -67875,6 +68613,7 @@ export const bookItems = [
     excerpt: "都说在圈中混，要有背景、人脉、资源，不然迎接你的将是黑暗丛生、潜规则盛行的真实娱乐圈。对于这一说法，圈内人深信不疑。……当小花们急于寻求突破，却发现上升通道早已被前辈们牢牢把持，感到踌躇无助时……这天娱乐圈来了一位拥有系统的新人——顾洛瑾。……张婧怡：“顾哥，我们认识最早，你得负责……”周吔：“顾洛瑾，你是真狗啊，连狗都骗！”田熙薇：“顾哥，选我，我会绑双马尾哦~”章若南：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sso_重生后，小花们追着和我谈恋爱1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/12bbPDNBMrIPUd5IbJEWROw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sso/",
   },
 
@@ -67891,6 +68630,7 @@ export const bookItems = [
     excerpt: "来到迪迦世界的江煜平平无奇，只有一颗能够收集怪兽与奥特曼力量的神秘晶石从此，江煜就成了奔走于各个奥特世界的热心市民收集足够的奥特力量后，江煜还能借助变身器强行变身，具体情形大致如下：神光棒：哒咩！江煜：这可由不得你！于是乎，奥特世界的画风逐渐变得奇怪起来【迪迦世界】江煜：“亡牌飞行员看好了，迪迦是这么玩的！”大古：“前辈为什么一定要先夸我，还有，道理是这样没错，但脑门这么沉重是怎么回事？还有，坠机",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssp_奥特曼：好机师是不挑奥的1-852章.txt",
+    readUrl: "https://pan.baidu.com/s/19_nM-nHUSaJ4mJzr369S0g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssp/",
   },
 
@@ -67908,6 +68648,7 @@ export const bookItems = [
     excerpt: "一场意外，墨羽穿越到一个毁灭后的世界，成为空间站里最后一名人类。本以为要迎来‘太空垃圾’的BADEND，却意外发现可以通过穿梭机，回到过去的时间线。穿梭人类灭亡史，见证纪元更替，抗击各种怪物和异族，打出全线GOODEND，拯救全人类。血族大帝？蛛母？兽主？尸皇？八贤者？龙尊？……面对历史记录中，搅动世界风云的传奇怪物。墨羽表示：“只要抓住小时候的她们，开启养成计划，就可以得到一个传奇级帕鲁，再让她",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssq_请摧毁主时间线1-673章.txt",
+    readUrl: "https://pan.baidu.com/s/1rBQOgOgihqx-pzPAkIesGA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssq/",
   },
 
@@ -67924,6 +68665,7 @@ export const bookItems = [
     excerpt: "女神用六天创造了世界，并在第七天将象征世间法则的十四种王权托付给十四位少女，因此称为：少女王权。1855年10月25日，大布列塔王国的林威尔市，一位名叫林格的年轻人捡到了从天而降的异界少女爱丽丝，由此踏上了一段与少女王权们邂逅的故事。这世间的一切都遵循规律未免太过无趣，让我们探求不可思议的事物，塑造瑰丽的奇迹。譬如在某一个遥远的时刻，天真善良的少女们曾是童话国度的主宰、倾听心愿的神明、一切神秘的王",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sst_蒸汽之国的爱丽丝1-1630章.txt",
+    readUrl: "https://pan.baidu.com/s/1lV_zWnn5ge3Z_Q5jGKKSuQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sst/",
   },
 
@@ -67941,6 +68683,7 @@ export const bookItems = [
     excerpt: "书友群:307012836交易其实是世界上最难成功的职业，也是最容易赚钱的职业。 年轻人碰不得，智慧未开的碰不得，未过情观的碰不得，未经世事，未体验过人情冷暖的碰不得，不愿踏上修行之路的碰不得。 只有佛魔同体的人才会选择这条路。 这是一条向内修的路，要善于情绪管理，要懂得享受孤独，要对人性有顶级的理解，要敢于打破自我认知，外表温文尔雅，内心沙发果断，只专注于自己的精神。 内在杜绝一切无用社交，这样",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssv_强制平仓：从炒黄金外汇开始暴富1-1517章.txt",
+    readUrl: "https://pan.baidu.com/s/1tAKNksXdCs6fMoajeNvRsg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssv/",
   },
 
@@ -67958,6 +68701,7 @@ export const bookItems = [
     excerpt: "重生民国十二年，这一年，美资的奥斯邦电台首次播音，开创国内无线电广播的先河。紫禁城一把大火，把满藏珍宝的建福宫附近一带宫殿，烧成一片灰烬。迅哥儿，第一部小说集《呐喊》由北京新潮出版社出版。……同时这一年，战火纷飞，时局动荡。李子文穿越百年时光，重生而来。有人说，“他不仅是华夏文坛的领袖，更是如同一颗璀璨的星辰，与莎士比亚，雨果，狄更斯……共同照亮世界文坛……”也有人说，“他是西方史学的奠基者，是横",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ssw_民国大师：从文豪开始崛起1-333章.txt",
+    readUrl: "https://pan.baidu.com/s/1otjG9qUjOl224vtvJbsFOA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/ssw/",
   },
 
@@ -68011,6 +68755,7 @@ export const bookItems = [
     excerpt: "灵气复苏，全球觉醒无数人因为灵气的滋养而觉醒了异能。有趣的是多数人都以为自己才是唯一觉醒了异能的人。而在此情景下，觉醒了异能之后的白玄却突然发现自己加入了连接诸天万界的聊天群。在看到其他觉醒了异能的路人或是兴奋，或是隐秘，或是精神焕发，或是眼含自信。白玄：有没有一种可能，只是可能，其实我才是主角呢？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sta_全球觉醒：开局加入聊天群1-2141章.txt",
+    readUrl: "https://pan.baidu.com/s/1EDEWOvUA7-_ZdXuxcKGtBg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sta/",
   },
 
@@ -68045,6 +68790,7 @@ export const bookItems = [
     excerpt: "不是。 隔壁日本能14岁拿个戛纳影帝。 我一个重生带穿越回来的，还带个人脉系统。 15岁拿个金棕榈，怎么了？ 就问你，这不合理吗？ 我上面有人！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stc_我15岁拿金棕榈很合理啊1-756章.txt",
+    readUrl: "https://pan.baidu.com/s/1ypkH1wd6-uerBIM3lZLMGQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stc/",
   },
 
@@ -68061,6 +68807,7 @@ export const bookItems = [
     excerpt: "【高达seed同人】QQ群：414405154文明交流，共同讨论！新书：《高达SEED：不死鸟的永恒篇章》！————————————重生到高达seed世界，平静的在哥白尼都市度过十五年时间，一朝搬家就搬到了尤尼乌斯七号上。一想到尤尼乌斯七号未来的命运，菲力克斯就感觉到头皮发麻。在了解到换地方可能无果后，菲力克斯毅然决然决定参加扎夫特，决定改变尤尼乌斯七号的命运，拯救父母的命运。当踏入战争的漩涡时，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stf_高达seed：家在尤尼乌斯七号1-714章.txt",
+    readUrl: "https://pan.baidu.com/s/1ODj2si88evZFoblDOUA2kg?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stf/",
   },
 
@@ -68078,6 +68825,7 @@ export const bookItems = [
     excerpt: "完蛋了！冰河穿越到游戏王世界，发现自己名字里没有游！而且他完全不会打牌，是一名当之无愧的云玩家！这样下去，就算拼搏半生，也随时会被他人用黑暗游戏把全部资产都给夺走啊！既然这样，只能学了！他也要当一名不取对象的魂玩家！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stg_游戏王：从云玩家到魂玩家1-970章.txt",
+    readUrl: "https://pan.baidu.com/s/1_T_GGpbFbYwiXv4YwNH95g?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stg/",
   },
 
@@ -68093,7 +68841,7 @@ export const bookItems = [
     chapters: "1-1604章",
     excerpt: "“孩子，你知道这是什么吗？” 灭霸举起金色的手套，六颗无限宝石闪烁着褶褶辉光：“我一个响指下去，你将化作风中的尘埃。” “爹不信。” 身穿无尽套的方墨缓缓摇头，手中寰宇长剑直指灭霸那瓦光锃亮的紫色脑壳：“今天别说无限宝石了，就是宇宙之心也救不了你的狗命！” “你知道这是什么吗？这是求道玉！” 宇智波斑站在半空中放肆的狂笑：“它是最强之矛，也是最强之盾，没什么是它无法摧毁的！” “你TM是真没见过硬",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1glXlP2Ksd7HA9N6GLf3c1Q?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1OceNr99hIstGAhamyunN4Q?pwd=gtah",
     downloadUrl: "/books/m_sth_我的替身是史蒂夫1-1604章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sth/",
   },
@@ -68164,6 +68912,7 @@ export const bookItems = [
     excerpt: "这是帝国迈向星海的第十个千年，群星见证一代文明的兴起衰落。异族战火蔓延至边疆，邪神爪牙隐藏人间，灵能者在星海掀起风暴，血脉与科技引领文明发展。秦天穿越而来，却发现自己竟然变成了星际战场的炮灰克隆人，几天后将奔赴战场。“别慌，穿越者怎么会没有金手指。”触碰兽人尸体，捡取天赋——【高级强壮】【快速恢复】【猫之灵动】触碰虫族尸体，捡取天赋——【飞行】【隐身】【虫皇意志】触碰灵能者尸体，捡取天赋【雷龙血脉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stn_我在星际战场捡天赋1-758章.txt",
+    readUrl: "https://pan.baidu.com/s/1axXS4OB9Do3NMGowUjZZAw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stn/",
   },
 
@@ -68179,7 +68928,7 @@ export const bookItems = [
     chapters: "1-1355章",
     excerpt: "我们创造神祇，设立信仰，以此描绘我们的救赎。 我们手持谱系，解析以太，以此来成为全知的一。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1QIlFtYprRMf7h4co8m8Q8w?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/185j_E_qlXXGRadTLRnus1A?pwd=gtah",
     downloadUrl: "/books/m_sto_超凡大谱系1-1355章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/sto/",
   },
@@ -68198,6 +68947,7 @@ export const bookItems = [
     excerpt: "成为优秀侦探的关键能力是什么？观察力、逻辑能力、格斗能力、丰富的知识储备……温水和树并没有以上任何一种能力，但他有一个取材就能变强的外挂。只要经历能够写进小说里的事件，就能获得能力上的提升，然后继续参与到更加紧张刺激的案件之中。…温水：话虽如此，可一上来就是裂口女这种级别的，是不是强度太大了？灰原哀：“这种程度就退缩的话，是没办法和组织对抗的。”毛利兰：“隔壁超市的薯片半价了，我们快去抢吧！”…裂",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stp_柯南：怪谈侦探的恋爱日常1-372章.txt",
+    readUrl: "https://pan.baidu.com/s/1MGANiG8Y9dBbwhjn910YvQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stp/",
   },
 
@@ -68214,6 +68964,7 @@ export const bookItems = [
     excerpt: "小西天封不了真大圣假把式练出个真神仙笑傲·方藤：全是低武又怎样？我命由我不由天！天龙·方藤：俗话说三个臭皮匠顶一个诸葛亮，我们这么多人，我就不信冲不开世界枷锁！庆余年·方藤：冲冲冲，她们一个都跑不了！七侠镇·方藤：不是哥们，你这冲的什么啊？这对吗？还珠·方藤：什么都冲只会害了你！鹊刀门·方藤：这密码的给我干哪来了？射雕·方藤：艹，我怎么成杨康了？奶奶滴，看我登上帝位，全面汉化，民族融合，再现汉唐，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stq_同穿，但全是低武？1-298章.txt",
+    readUrl: "https://pan.baidu.com/s/1Aob_d_DAYm8cpTyL8mAAog?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stq/",
   },
 
@@ -68231,6 +68982,7 @@ export const bookItems = [
     excerpt: "农历3230年大灾变爆发，人类从世界霸主位置跌落，神州成为人类最后的自留地。 3255年，武侯陆昭正在接受调查。 “按理说，你这个级别的超凡者，还无权调查我。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_str_以神通之名1-679章.txt",
+    readUrl: "https://pan.baidu.com/s/11sd6tyrwnu-87iyvKqmhKQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/str/",
   },
 
@@ -68247,6 +68999,7 @@ export const bookItems = [
     excerpt: "【龙王传说同人】这是一个精彩的时代!魂师有了更强的可能，斗铠与机甲交相辉映，璀璨瑰丽，天下英雄如过江之鲫!苏秋穿越至此觉醒双生武魂，圣剑与圣枪。深渊位面入侵?圣灵教意图灭世?苏秋挡在众生之前:“叽里咕噜干什么呢，先吃我一击!”誓约胜利之剑，十三拘束解放!“ex...calibur!”恐怖的光束撕碎一切!......魂兽种族复仇。苏秋一夫当关，看向古月和她身后的众多凶兽。“古月，非得如此?”“必须如",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stt_斗罗龙王：我圣剑使，斩尽诸邪1-354章.txt",
+    readUrl: "https://pan.baidu.com/s/1JlHhyqdmOHxCrKd3WqGSVw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stt/",
   },
 
@@ -68263,6 +69016,7 @@ export const bookItems = [
     excerpt: "穿入泡沫年代的东京，在这个陌生时代，唯一熟悉的，松田圣子、中森明菜、工藤静香......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_stw_东京泡沫人生1-1662章.txt",
+    readUrl: "https://pan.baidu.com/s/1u2KrRN-3vBQorkH_Luh03Q?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/stw/",
   },
 
@@ -68280,6 +69034,7 @@ export const bookItems = [
     excerpt: "一个顶流明星。什么样的人设最完美？经纪人：“当然是过硬的演技或唱功，干净没有黑点的过往，令人羡慕且认同的生活，以及良好口碑和人缘，外加几部破圈的爆剧作品！”沈见：“不敢苟同。”经纪人：“那你来。”沈见：“首先‘帅’要满级。”经纪人：“……”沈见：“其次，干不干净无所谓，浑身上下，到脚指头盖都得是话题。”经纪人：“！！”沈见：“反差要有点，接地气一丢丢，毒舌加爆梗，还要懂时间管理，抽象拉多点…呃…艹",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sty_从文盲开始的顶流时代1-238章.txt",
+    readUrl: "https://pan.baidu.com/s/1fv45qP17aYcjPD1gQK2uTA?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/sty/",
   },
 
@@ -68297,6 +69052,7 @@ export const bookItems = [
     excerpt: "魔力的高低，决定了正义的归属。“真理，在魔力的差距之间，历史，是存活之人书写的赞歌。”欧文·卡罗特看着自己站在自己眼前的伏地魔，还有他率领的一众食死徒，语气淡然的说道：“你们比风儿还要吵闹，请随风起舞吧，无尽之风。”看着被强力龙卷风，卷到半空中的伏地魔和食死徒们，霍格沃茨进入了一种诡异的沉默之中，直到那个一边走路，一边看着书的小巫师悄失，这才有人悄悄的松了口气。“我就知道，哪怕是伏地魔，也不能破坏",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_su_霍格沃茨魔力即正义1-157章.txt",
+    readUrl: "https://pan.baidu.com/s/1v7Bpzj79T7WW10mhmZ6avQ?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/su/",
   },
 
@@ -68331,6 +69087,7 @@ export const bookItems = [
     excerpt: "前世平凡的胡明，他怎么也想不到自己会穿越到盗墓的世界，而且还成为了胡八一的表弟。 在这盗墓的世界里，他一出生就带有系统的男人，不知道他能不能在这个世界留下什么的传说呢。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sue_盗墓之我是胡八一的表弟1-968章.txt",
+    readUrl: "https://pan.baidu.com/s/1fFW702U4px5zVGgCGtreLg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sue/",
   },
 
@@ -68348,6 +69105,7 @@ export const bookItems = [
     excerpt: "重生到1985年的贫困农家，唐怀义刚接受自己要靠高考逆天改命的设定，就被亲妈一句话砸懵。”别上学了，去给你哥换亲当上门女婿！”一边是大哥的婚姻，一边是自己的大学梦；一边是家徒四壁的穷窝，一边是进城端铁饭碗的曙光。面对认命的爹娘、沉默的大哥、穷得叮当响的家，唐怀义自有主张：让我认命种地？绝不可能，大学，我考定了。他推拒换亲、靠着自己见识和收服的禽鸟，偷偷搞钱、埋头苦读。只是，换亲上门带来的桃花运，怎",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sug_重生从换亲上门开始1-538章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ulct7sASTbDfQ5K_oge1qQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sug/",
   },
 
@@ -68365,6 +69123,7 @@ export const bookItems = [
     excerpt: "唐文重回2000年，穷学生一枚看着【捧女明星，百倍返利】不由陷入了沉思我兜里只有21块5毛拿头捧女明星？这破系统不要也罢！……给王心玲写歌，资金+300w，姐姐粉+1w捧高媛媛演女主，【技能：回眸一笑】等级提升为刘艺菲写剧本，魅力+10，资金+10000w刘艺菲：他们说我是票房毒药，你也愿意投资？唐文毫不犹豫：你一年赔一部，我愿赔到天荒地老！……著名编剧：唐总真的热爱艺术，什么剧本都投，并且只对女",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suh_文娱2000：捧女明星百倍返利1-772章.txt",
+    readUrl: "https://pan.baidu.com/s/1OsZ0zqhU5fzKp3Ys59AhcA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suh/",
   },
 
@@ -68381,6 +69140,7 @@ export const bookItems = [
     excerpt: "加玛帝都，林动驾驭大罗金枪被当做了踏空而行的神秘斗宗；血狼帮内，萧战的狂狮怒罡被误以为领悟造形之意的造形境强者；阳元丹增强斗师，纯元丹增强大斗师；一亿涅槃丹，让萧家的斗宗如雨后春笋；一枚加强版的生死转轮丹，让净莲妖圣活出第二世……“老萧，他就是欺负你是个知识分子！”“行了，老萧你跟他们废什么话，让我来跟他们谈，大荒囚天指——”药老：小鬼头，等下抢了宝物切勿伤人性命。貂爷：小子，等下直接动手杀了他，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sui_斗破双穿门，我的兄弟是林动1-790章.txt",
+    readUrl: "https://pan.baidu.com/s/12a1i7rrrlrIT4XT0rdR71g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sui/",
   },
 
@@ -68397,6 +69157,7 @@ export const bookItems = [
     excerpt: "可以的话，其实我是想躺着过完这富贵的一生。奈何群芳谢尽的结局，令人不忍，只好稍稍努力那么一点点，不能再多了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suj_红楼：我是贾琏1-957章.txt",
+    readUrl: "https://pan.baidu.com/s/1NawqhRgHCkuKziu-rNbD7w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suj/",
   },
 
@@ -68413,6 +69174,7 @@ export const bookItems = [
     excerpt: "软萌小师妹是大地与山之王、剑道少女巧得至尊骨铸就煌煌龙威、连我那青梅竹马的阿姊明珰居然都是身负皇帝血脉的娲主？龙女仆夜袭很让人腰酸背痛、还有什么叫漂亮阿姨在门外路明非你再不出去她的尾巴就藏不住啦！这是个后宫故事吧？可病娇皇女真的要不起啊……等等，《绘梨衣同学有交流障碍症》又是什么神展开？为什么伊丽莎白和夏绿蒂又总对我虎视眈眈？芬格尔把话筒怼到路明非嘴里问请问路主席您对外界盛传自己是人奸这件事情是怎",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suk_路明非：我老婆好像全是恶龙1-573章.txt",
+    readUrl: "https://pan.baidu.com/s/1_fteEeb-KUQOAoG7lkrmhg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suk/",
   },
 
@@ -68429,6 +69191,7 @@ export const bookItems = [
     excerpt: "刚进四合院，就碰上了经典名场面。 贾家居然要借我的房子。 这能答应嘛？ 你们要开全院大会，那我就直接掀桌子。 嗯！...居然只掀了一半... 那行，咱们以后慢慢玩！ WHO怕WHO？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sul_四合院：开局就掀桌子1-346章.txt",
+    readUrl: "https://pan.baidu.com/s/1PpiRLCtSPahxOrGzNKUGBg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sul/",
   },
 
@@ -68446,6 +69209,7 @@ export const bookItems = [
     excerpt: "已喷导演：鲁川、陈凯哥、张一谋待喷导演：贯虎、老燕子。郭竟明、吴纸牛、贾樟科、娄耶、徐争、墨镜王、陈可新....请各位朋友积极推荐其他待喷人员。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sum_就你叫大导演啊？1-257章.txt",
+    readUrl: "https://pan.baidu.com/s/18GDKvZcGRNLHq6KTwnzQRg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sum/",
   },
 
@@ -68463,6 +69227,7 @@ export const bookItems = [
     excerpt: "穿越成了慕容复？！整日假装复国，实则摸鱼，有屋有田，有美女有骏马，生活乐无边。没想到忽然绑定多子多福系统。 ......多年以后，暮然回首，朕已然走到了对岸。以天龙为基石，征战万界，壮我慕容仙族。嗯？怎么回事，明明我一开始只想吃瓜呀？！......【天龙+神雕+倚天+多情剑客+绝代双骄+仙剑奇侠+新白娘子传奇+宝莲灯前传+大圣传】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sun_穿越慕容复，多子多福1-818章.txt",
+    readUrl: "https://pan.baidu.com/s/1C28fjaZgMqZjvOkdqp3pAA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sun/",
   },
 
@@ -68480,6 +69245,7 @@ export const bookItems = [
     excerpt: "康纳德自幼通读武侠港漫，一朝穿越海贼世界，开始霸拳直行。“这世间的道理已讲不通，我的拳头才是道理！”“多弗朗明哥，霸王色亦有顶底之分！霸气在我手！远比你更霸！更王！更色！”“色是一把刮骨刀？哈！鹰眼！我恰好以刀法见长！当受千刀万剐！”“卡普，你也配教我行事？什么海军英雄，活得踏马颠三倒四，猪狗不如。”“望过来！赤狗！讲的便是你这狗种！”“懒散的正义？两不相帮的正义？青黄鸟猴，不知所谓！看我来诠释，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suo_海贼：霸气转动一百万匹！1-270章.txt",
+    readUrl: "https://pan.baidu.com/s/15tExdMzMUi-qD5lfnXUWNA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suo/",
   },
 
@@ -68496,6 +69262,7 @@ export const bookItems = [
     excerpt: "陈元穿越吞噬星空世界，成为一名初出茅庐的中级战士。只可惜时间不对，此时天才战已经结束，罗峰进入混沌城，地球上的机缘被一扫而空。好在他觉醒了优化系统，可对现有秘法进行优化。优化五心向天，得到深度睡眠冥想法，开启心灵修炼道路！优化修炼秘法，成功发掘自身潜能，获得法则亲和体质，掌握领域和法则！不只是秘法，随着系统升级，陈元可优化的东西越来越多……多年后，陈元身穿至强至宝铠甲，脚踏虚空真神级宫殿，手持永恒",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sup_吞噬星空：从优化五心向天开始1-799章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ib7tIhZWmzelM4rFmisdFg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sup/",
   },
 
@@ -68512,6 +69279,7 @@ export const bookItems = [
     excerpt: "人类，诞生于太阳系的渺小族群。怀揣着仇恨的种子，方远降临流浪地球。以此为枢纽，链接无尽文明，守护地球文明。自此，人类在神圣泰拉的带领下，踏足万界，征战诸天-----------------当星界军团战旗插遍寰宇。当动力装甲捏爆智械头颅。当钢铁泰坦震慑万千异族。尊严只在链锯剑锋之上，真理只在爆弹射程之内。............（关键词：流浪地球、极乐空间、终结者、环太平洋、超级战舰、阿凡达、明日边",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sur_从流浪地球开始打造人类帝国1-481章.txt",
+    readUrl: "https://pan.baidu.com/s/13yM7a7J9XOKplHbrF9eyIA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sur/",
   },
 
@@ -68529,6 +69297,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sus_重回年代，接盘成为人生赢家1-381章.txt",
+    readUrl: "https://pan.baidu.com/s/12jpk06Jsvuwx3NaEwfD5Lw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sus/",
   },
 
@@ -68545,6 +69314,7 @@ export const bookItems = [
     excerpt: "我曾经叫千寻疾，现在真的成了千寻疾。现在一个叫比比东的黄毛丫头站在我面前，大言不惭的说要和一个叫玉小刚的人在一起。我能受这气，当场就把这个叫比比东的武魂殿圣女给开除了，千道流都没拦住。一个叫玉小刚拿着圣女令牌的想要查看武魂殿的典籍，我把他和比比东一起打包丢出去了。................. 武魂殿多了一个叫项羽的的六翼天使圣子。星罗帝国朱家多了一个名叫阿珂的孩子。星斗大森林据说出现了一只七",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sut_斗罗大舞台，我叫千寻疾1-372章.txt",
+    readUrl: "https://pan.baidu.com/s/1-Wij1CJj3uTxlwy5Ri-aAA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sut/",
   },
 
@@ -68562,6 +69332,7 @@ export const bookItems = [
     excerpt: "穿入红楼世界，身份是不被父皇相认的皇子。这日他初见父皇，启口而问：“圣上还记得那年玄武湖畔的姜雪莲吗？”父皇，你不愿认吾为皇子，吾偏要让你认。父皇，你不愿传皇位于吾，吾偏要让你传。吾爱金钗，更爱江山。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suu_红楼帝业1-419章.txt",
+    readUrl: "https://pan.baidu.com/s/1-1ePpv998lSGNvrT3OvqLA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suu/",
   },
 
@@ -68578,6 +69349,7 @@ export const bookItems = [
     excerpt: "穿入大时代的香江，在陌生的社会，唯一熟悉的是那些人，关嘉慧、李佳欣、利志、周慧悯……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suv_香江1984：从当歌手开始1-659章.txt",
+    readUrl: "https://pan.baidu.com/s/1Jt0tcLobLflMCuoveE7DFQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suv/",
   },
 
@@ -68594,6 +69366,7 @@ export const bookItems = [
     excerpt: "身为某间谍组织成员的禾野有一天想要隐退了。 因为战争已经结束多年，现在是和平时代，甚至失业率还爆高。 可隐退不是这么简单，他还需要处理好组织里的人际关系——比如他的妻子，一位国家级杀手小姐。 “我们离婚吧。” 因任务而组合在一起的婚姻关系，到现在也没有再维持的必要。禾野需要新的生活，而第一步，就是和国家级杀手小姐离婚。 …… （本作又名《离婚后，杀手小姐重度依赖》）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sux_杀手小姐重度依赖1-338章.txt",
+    readUrl: "https://pan.baidu.com/s/1E937s6WurIpXsZNTvl0n3A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sux/",
   },
 
@@ -68610,6 +69383,7 @@ export const bookItems = [
     excerpt: "“哈？分手？我什么时候同意了，她是哪里来的小三？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_suz_东京病恋女友1-466章.txt",
+    readUrl: "https://pan.baidu.com/s/1WLsU334BCiiUC_CSEZZ9IQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/suz/",
   },
 
@@ -68678,6 +69452,7 @@ export const bookItems = [
     excerpt: "我叔叔是FBI局长！什么？你问我是谁？咳咳，我姓胡佛。…………1960年的初夏，一名侧写师重生在叛逆青年身上，他决定要给这个时代的罪犯们带来一点小小的技术震撼。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sve_1960：我叔叔是FBI局长1-586章.txt",
+    readUrl: "https://pan.baidu.com/s/1GsNkjUEv9LzyvQdXcSq0Gw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sve/",
   },
 
@@ -68712,6 +69487,7 @@ export const bookItems = [
     excerpt: "木叶41年，第二次忍界大战落幕未久。村内暗潮汹涌，人心浮动；村外，四大隐村厉兵秣马，等待着啃噬木叶的时机。内忧外患之际，机关老资历穿越成猿飞日斩。随之而来的，还有识海中的一页文件：权威、外交、军事、经济、教育——五项指标，将他的未来与村子绑定。“大蛇丸，你一直是最让我骄傲的弟子！”从收心徒弟开始，猿飞日斩踏上了最强火影之路。“你相信火之意志吗？木叶，要开始加速了！”「笼络天才」、「制度改革」、「保",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svh_穿越三代：让木叶再次伟大！1-279章.txt",
+    readUrl: "https://pan.baidu.com/s/15BIzMW1Fi3EdIQzwu79qzA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svh/",
   },
 
@@ -68729,6 +69505,7 @@ export const bookItems = [
     excerpt: "神豪+商战+幽默+生活 996原来真的有福报：1、每天可以领取低保；2、所有奖金可以有额外奖励。从此，陈晓一边爱岗敬业，刷钱致富；一边发展副业，挥金如土。本书又名《一铺养三代？我买500座商业广场》《上班的真谛：摸鱼+爆金币》《流氓财阀：你究竟有几个好妹妹》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svi_我的低保，每天到账1000万1-942章.txt",
+    readUrl: "https://pan.baidu.com/s/1CjW61f7etn38vkphecvmYQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svi/",
   },
 
@@ -68763,6 +69540,7 @@ export const bookItems = [
     excerpt: "成仙得道，自古以来都是每个华夏人的梦想，纵然王公贵胄亦不能免俗。痴迷道教修行文化的陆离，偶然一次炼出了传说中的法力，从此修为一日千里，很快迎来了羽化登仙的最后一步“我见诸空，诸空见我”。他只需借助阳神毫光斩去诸天万界的亿万“他我”，即可获得亿万神通、无边法力，从而白日飞升。未曾想，在最关键时，他遭遇到了“天魔”干扰，使得只登仙了一半，被迫暂留在了红尘俗世。陆离：“有谁能告诉我，成仙了一半是什么鬼？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svo_万法归一：开局我就成仙了1-583章.txt",
+    readUrl: "https://pan.baidu.com/s/1mgmIjFqjfAt1Rwq5aQ6tIQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svo/",
   },
 
@@ -68780,6 +69558,7 @@ export const bookItems = [
     excerpt: "上一秒，凯洛斯还在和群友们疯狂吹水，进行虚空论战。下一刻，便来到这个堪称粪坑的世界。欢迎来到战锤世界！勇敢的少年你掉的是这个小狗，这个叉子还是这个机枪兵呢？不过幸好，凯洛斯他有挂，一个可以兑换所有星际争霸产物的系统。让他幼小的心灵不至于直接崩溃。凯洛斯：哦？那我岂不是可以亲身体验一下关公战秦琼的乐趣了？我看谁以后还敢说我是在虚空论战！泰伦和Zerg谁才是真正虫群？网道和折跃哪个更好用？刺客庭听起来",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svq_人在战锤，游骑兵出动！1-229章.txt",
+    readUrl: "https://pan.baidu.com/s/1GsE1w7_qUchd8-nypNargw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svq/",
   },
 
@@ -68815,6 +69594,7 @@ export const bookItems = [
     excerpt: "天幕降临斗罗大陆，随机挑选人员进入遮天世界，并开启全大陆直播！只要成功存活满三个月，便能选择暂时或永久回归斗罗大陆，并可带回期间的一切所得！唐三：“遮天？是一个隶属于斗罗大陆的小秘境吗？是时候让这些原始土著，见识见识暗器的强大了！”玉小刚：“土著蠢笨、愚昧，正可传播我的《武魂十大核心竞争力》！”比比东：“凡我武魂殿进入遮天世界者，当尽可能的为我武魂殿夺取一切造化与机缘，若土著有不服者——杀无赦！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svs_斗罗：人在遮天，被斗罗直播了1-344章.txt",
+    readUrl: "https://pan.baidu.com/s/1auR_pvtGu1p_W4k02OvuXw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svs/",
   },
 
@@ -68831,6 +69611,7 @@ export const bookItems = [
     excerpt: "重生归来的莫凡，再次踏上校园生涯。他拥有天生特殊天赋〔天生三系-天生融合-天生进化-天生变异-天生-〕高一觉醒魔法时，他的脑海当中绑定了铭文面板。冰封之灾席卷魔法大陆，黑云压城，钢筋水泥城市化作冰雕，农舍庄稼化作银色荒原。人界统治者米迦勒野心勃勃，为了维护秩序，联合魔法协会约束滥用魔法力量的天才，而南域深海极南帝王为了扩大领地，联合海洋神族试图占领人类世界的沿海地区，与此同时，域外黑暗位面，诸多强",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svt_全职法师：重生莫凡，很合理吧！1-456章.txt",
+    readUrl: "https://pan.baidu.com/s/1yQDLB58lyPErzH4ccr9mLA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svt/",
   },
 
@@ -68848,6 +69629,7 @@ export const bookItems = [
     excerpt: "苍天已死，黄天当立！岁在甲子，天下大吉！这是一个穿越者继承大贤良师传承，推翻腐朽东汉帝国，建立全新星汉帝国，给诸天万界带来黄天秩序的故事。吕布戟灭神明，带来诸神黄昏。关羽刀斩邪魔，诛灭万界不平。“神罗是罗马，绿罗是罗马，这星汉怎么就不是大汉了！”——大贤良师丶万军之主丶万界先行者丶穆易。 ps:这应该是一片种田文（大概）群号698098706",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svw_从神话三国开始征服万界1-1285章.txt",
+    readUrl: "https://pan.baidu.com/s/1Abj-wrZsIg0KBm9e0wTCAg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svw/",
   },
 
@@ -68865,6 +69647,7 @@ export const bookItems = [
     excerpt: "林易重生了。 回到了没有科技平权的2009年，这个时代，有的全是各种低配高价的产品。 他看着自己的【遥遥领先】系统。 【遥遥领先特性1：领先同行！只要宿主进入该行业，投入资金研究后，必定获取领先同行技术！】 【遥遥领先特性2：领先百分之五十！宿主名下工厂产出产品相较同行同类产品性能提升百分之五十！】 【遥遥领先特性3：出不了厂！宿主名下工人全心全意工作，工厂产品质量全行业第一，无惧黑子！】 【遥遥",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_svx_小米重工，第一次创业！1-1005章.txt",
+    readUrl: "https://pan.baidu.com/s/1OU6GZkjTacCRP1xaGVRRvQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/svx/",
   },
 
@@ -68882,6 +69665,7 @@ export const bookItems = [
     excerpt: "我拍戏不太在意演员的演技，只要外形符合我剧中人物的设定，我就能找到办法，让她演出剧中人物的精髓——曹阳在北电大礼堂演讲时说。重生后，曹阳具备一种能力，能让演员入戏体验，哪怕你再没演技，体验一遍剧中人物的离合悲欢，也能有所感悟。什么，还是演不出状态？那就再来一次入戏体验，让你快速入戏，让观众惊呼，你的角色都不像演的。小花们，你们有福了。曹阳来了，演技就有了。书友群1：605650175书友群2:58",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sw_华娱之学院派大导演1-647章.txt",
+    readUrl: "https://pan.baidu.com/s/1J-W6aOJavWFLrycmgIrqHQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sw/",
   },
 
@@ -68899,6 +69683,7 @@ export const bookItems = [
     excerpt: "重生了；有系统了；来到港综世界了；不搞大的难道躺平吗？靓坤是发小，大D是脑残粉，不混社团有错吗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swa_重生港综1982：我有天眼通1-578章.txt",
+    readUrl: "https://pan.baidu.com/s/1CpXoIaLlVZa7CSWgBnWTwA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swa/",
   },
 
@@ -68950,6 +69735,7 @@ export const bookItems = [
     excerpt: "周礼重生了。对周礼而言，最大的挑战不是夺冠，而是重写LPL的岁月史书。S2，周礼加入WE，帮阿布姐姐举办微博葬礼，执掌队内大权。S3，周礼收购皇族，改名EDG，从此猪狗合璧，将猪狗大战扼杀于摇篮，净化网络环境。S4，周礼作为WE二队选手，带领着青训队伍一年完成三级跳，上演青春风暴。S5，周礼化身韩援，却被膨胀到底的LGD过河拆桥，扭头加入IG，上演三十年河东三十年河西，莫欺少年穷。S6……那些掩埋",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swe_LPL史记1-465章.txt",
+    readUrl: "https://pan.baidu.com/s/1MkgGOIXC1-BMJN6ullfAtA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swe/",
   },
 
@@ -68967,6 +69753,7 @@ export const bookItems = [
     excerpt: "穿越到大明开国前一年，胡翊发现，他有个叔父名叫胡惟庸。洪武四大案之一的“胡惟庸案”，洪武帝朱元璋祭起了屠刀，胡家的九族们，连带几万颗脑袋一起落了地。胡翊也很懵，怎么我穿过来就变成九族了？好好好，总算大明开国之初，从不缺乏向上攀爬的机会，还有时间，稳住别浪！胡翊只是想保命罢了，怎奈他的官衔一加再加，从民间游医做到六品承德郎，再从承德郎做到驸马都尉、光禄大夫、大明第一国医，最后领上柱国，一人之下万人之",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swi_大明国医：从九族危机到洪武独相1-535章.txt",
+    readUrl: "https://pan.baidu.com/s/14P1T4OWzgamLuioF9Ohwfg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swi/",
   },
 
@@ -69002,6 +69789,7 @@ export const bookItems = [
     excerpt: "在小智成为精灵训练家的那一天，聊天群降临，在里面竟全是平行世界的自己！成为冠军的小智：精灵不能放养，要跟上营养，有专门的训练方针才行。波导勇者小智：精灵，不是这么抓的，要拳拳到肉，打到他认同你为止。培育家小智：用料理，驯服精灵，用料理，培育精灵。战术大师小智：会不会玩对战？轮换懂不懂？天气队会不会组？替守毒会不会？起开，换我打。 ……庆贺吧，他是集全小智天赋能力于一身，超越时空，堪称全能的训练家！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swl_精灵：同时穿越，这个小智太全能1-576章.txt",
+    readUrl: "https://pan.baidu.com/s/1oWLNFTg5QHRlqw1rgem3uw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swl/",
   },
 
@@ -69018,6 +69806,7 @@ export const bookItems = [
     excerpt: "穿越1988年的宝岛该干嘛？做生意？玩股票？前世只是精神小伙的00后陈致远选择了闯荡娱乐圈。恰逢开丽公司正在筹划华语乐坛第一个划时代组合小虎队。他决定截胡其中一人，成为三只小老虎之一。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swm_华娱1988，从小虎队开始1-693章.txt",
+    readUrl: "https://pan.baidu.com/s/1p-43s4rcmgDnpqkVF0ujVw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swm/",
   },
 
@@ -69035,6 +69824,7 @@ export const bookItems = [
     excerpt: "【经过真龙指导，没有想当然，非乱写】钢铁为鳞，烈焰铸骨。红龙和铁龙的血脉在我体内交织融合，构筑出耀眼的新生，烈焰与钢铁是我与生俱来的天赋，适应与进化才是我证就永恒的权能。弱者顾虑重重，而王者，百无禁忌。凡是杀不死我的，都将使我更加强大。在我面前，跪伏者生，站立者死，万象生死皆我，生杀予夺由心。若整个世界与我为敌，我便以一龙之力燃烧这个世界，然后统治它的灰烬。吾名伽罗斯，世人敬我畏我，尊我为——永恒",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swn_以一龙之力打倒整个世界！1-735章.txt",
+    readUrl: "https://pan.baidu.com/s/1RTTrjI5uZ9Rc7_giqTj6xw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swn/",
   },
 
@@ -69051,6 +69841,7 @@ export const bookItems = [
     excerpt: "魂穿中世纪，徐图再起。 中世纪、类架空、慢热型、合理爽。 从彷徨苟活的森林猎人到乱世立锥的平民小官；从充作炮灰的见习骑士到立功授勋的军事新贵；从因战恢复男爵位到由谋册封子爵衔...... 且看现代职员如何附身落魄小贵族徐徐谱写一幅别样的中世纪史卷。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swo_中世纪崛起1-1359章.txt",
+    readUrl: "https://pan.baidu.com/s/1NV9FtksHwzy7AtK-or1q9Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swo/",
   },
 
@@ -69085,6 +69876,7 @@ export const bookItems = [
     excerpt: "同时穿越+不叠加属性直接打爆+融合世界观开发脑洞有的世界，没有魔法，没有武术，只有神奇的武魂；有的世界：有的仅仅是繁衍到巅峰的斗气！还有的世界，只有仗剑生，为剑死，事了拂衣去的侠客。诸天世界光怪陆离，各有千秋，当彼此相互融合之际，或许能迸发出新的光彩！目前已有主世界—斗罗（进行中），神雕（进行中），古龙（已结束），jojo（进行中）副世界：大内密探，唐伯虎点秋香，武状元苏乞儿，凌凌漆，射雕胡歌版，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swq_同时穿越：融合世界观1-312章.txt",
+    readUrl: "https://pan.baidu.com/s/1KTFvGlUoBNlV8vNjvo0vQg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swq/",
   },
 
@@ -69101,6 +69893,7 @@ export const bookItems = [
     excerpt: "【民俗元素】【文字跑团】【诡异修仙】【魂系世界】推开常世的门扉，你回到了这片先祖们曾经生活过的土地。在漫天的风雪中，你窥见这个世界。红月悬天，生灵涂炭，神佛已死，妖诡遍地，乱世中到处都是绝望的哭声与祈祷，天灾人祸令整个王朝分崩离析。活药，疫城，人集市。和尚，道士，斩妖人。陈岁阴差阳错的接触了这个名叫《常世》的文字游戏，命运的齿轮在这一刻开始转动……“面前这两只诡物十分强大，然而不幸的是，你手里可以",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swr_文字游戏：吾乃人间太岁神1-1552章.txt",
+    readUrl: "https://pan.baidu.com/s/1xmYAVZtqTDSxWU7rcUnt3g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swr/",
   },
 
@@ -69118,6 +69911,7 @@ export const bookItems = [
     excerpt: "李渔被“自己”献祭，穿越到一个群魔乱舞的灵气复苏世界。幸好他觉醒了【见稽古之眼】——管你是武道绝学还是魔法禁咒，我瞅一眼，就是我的了！当别人还在内卷时，他靠着刷短视频就已武功大成。因天赋过于离谱，他被塞进了全是怪胎的“天才班”，甚至遇见了从二次元穿越来的同学……加藤同学我注意到你了，雪之下同学，来蘸豆吧！.......李渔表示：这挂太大，我躺着变强，没问题吧？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swu_开局见稽古，我复制万法1-385章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZUa8g5GFGHNVXzdyEpBMHg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swu/",
   },
 
@@ -69135,6 +69929,7 @@ export const bookItems = [
     excerpt: "“玄德公，三造大汉的胜负手就在襄阳，咱必须得拿下！” 穿越汉末，萧和原想就近投身曹营，却被当作疯子拒之门外，机缘巧合下被关银屏捡回荆州。 身为一名三无黑户，萧和果断决定抱紧刘备大腿，捞一张长期饭票。 适逢曹操八十万大军挥师南下荆州，刘琮不战而降，刘备即将再次踏上逃亡之旅。 萧和当即说服刘备奇袭襄阳，阻曹操于汉水之北，最终饮恨败归。 尔后辅佐刘备取荆州，下江东，北伐中原讨灭曹魏，三造大汉！ 刘备：萧",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swv_三国：季汉兵仙从奇袭襄阳开始1-766章.txt",
+    readUrl: "https://pan.baidu.com/s/1_yOhZ7RiWYeqJ3zY81Hf9g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swv/",
   },
 
@@ -69151,6 +69946,7 @@ export const bookItems = [
     excerpt: "游魂彷徨，蠕虫四散。不可见之物身边环绕，耳畔窃窃私语从何而来。可憎之物在深渊中等待。死寂无风，吹不动衣角发梢。牧苏注视着深渊，深渊也在注视着他。直到牧苏脱掉衣服，深渊才不得不尴尬地移开视线。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sww_熟睡之后1-950章.txt",
+    readUrl: "https://pan.baidu.com/s/1bLqYU20zLie00crcWbihRg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sww/",
   },
 
@@ -69168,6 +69964,7 @@ export const bookItems = [
     excerpt: "【精品宝可梦同人，均订9000，可放心阅读】多年以后，已是对战传奇、大师赛冠军、宝可TV唯一大主播的青羽面对记者采访，一脸严肃：“总有人说现在的阴间对战环境都是我的锅。”“那我问你，大吾的撒菱吹飞盔甲鸟是什么？丹帝的极巨草原喷火龙难道也是我教的？”“回答我！Looking my eyes！”第二天。“现在的阴间对战环境都是我的锅。”“大吾的撒菱吹飞盔甲鸟，丹帝的极巨草原喷火龙也是我教的。”节选自青",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swx_你不准玩宝可梦！1-606章.txt",
+    readUrl: "https://pan.baidu.com/s/1ijLbEODg5O0Gtar6HGLSLg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swx/",
   },
 
@@ -69185,6 +69982,7 @@ export const bookItems = [
     excerpt: "F1阿布扎比收官战，在观众席上如海涌动的红旗中，吴轼遭遇撞车，飞出赛道后不幸身亡。等到他再次醒来时，却是回到了2007年。这一年，意气风发的头哥正式加盟麦克拉轮，剑指年冠。这一年，老汉还是小汉，刚刚登上F1的舞台，还没前往梅奔开启七冠王朝。这一年，小维斯塔潘刚刚转入卡丁车mini-max组别，即将血洗赛历，崭露头角。这一年，中华未来F1第一人周冠宇正在马青骅指导下开始接触卡丁车。这一年，仿佛一切都",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_swz_F1：绝对车感1-469章.txt",
+    readUrl: "https://pan.baidu.com/s/1RS23ZZ0-Ar2W3OaxnitJFA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/swz/",
   },
 
@@ -69219,6 +70017,7 @@ export const bookItems = [
     excerpt: "末世降临，游戏影响现实。或许别人游戏里会小心翼翼，但刘尘叹了口气，挥手之间斯崔克骑兵旅高速穿插，阿玛塔混着99a组成叹息之壁，ka52与z10me猛猛开罐，天空j16带着ac130疯狂舔地。 什么？大型单位？没事，咱还有轨道轰炸可以用，看我↑→→把你们这些重甲单位全部扬了！因果打击？异常现象？连续时间槽与斯克兰顿现实稳定锚直接把他们上市！ “兄啊，你们到底有多想不开才会用碳基生物来硬冲钢铁防线啊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxc_末日游戏：我觉醒指挥官天赋1-785章.txt",
+    readUrl: "https://pan.baidu.com/s/186IXt-x_LjQunBTNr99E9w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxc/",
   },
 
@@ -69236,6 +70035,7 @@ export const bookItems = [
     excerpt: "钢铁侠远坂时臣，魔法少女之父卫宫切嗣，黑暗剑士间桐雁夜，满口脏话亚瑟王……死神队长宇智波佐助，基因原体漩涡鸣人，血族真祖春野樱……规则怪谈入侵的综漫世界，奥特曼降临的EVA……一个个世界都出现了不该存在的家伙，给那个世界的人带来了世界观毁灭的冲击。“是的，这一切都是我做的，身为手握乐子人系统，职业为‘假面愚者’的第四天灾，整一些让人眼前一黑的活，也很合情合理的对吧？”“什么？你问那些看到平行世界另",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxd_从钢铁侠远坂时臣开始整活1-284章.txt",
+    readUrl: "https://pan.baidu.com/s/1TWfWj4sfrIIGEbl05za-RA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxd/",
   },
 
@@ -69253,6 +70053,7 @@ export const bookItems = [
     excerpt: "一不小心重回S3，打职业捞个英雄皮肤，创个俱乐部搞搞电竞豪门。没有系统没关系，电竞的野蛮时代，处处是机会。不信？看我卖他十万个肉松饼先！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxe_LOL：重生S3，调教全联盟1-686章.txt",
+    readUrl: "https://pan.baidu.com/s/1yoLduxlCvRJqOwdpRcvSew?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxe/",
   },
 
@@ -69287,6 +70088,7 @@ export const bookItems = [
     excerpt: "李渊穿越斗罗大陆，觉醒聊天群系统。 可以通过邀请斗罗1-4的女角色加入群聊，就可以获得奖励。 开局随机邀请十名女角色，获取新手礼包，开局极品奖励。 【武魂获得九彩吞天蟒血脉，金光咒。】 比比东：你嗦什莫啊！什么叫病娇疯批美人？ 胡列娜：就是，胡说八道，我们才不是恋爱脑！ 柳二龙：卑鄙无耻，小刚才不是你说的那样！ 千仞雪：群主说的对，能发个地址吗？我给你送点东西！ 小舞：姐妹们，救命，我好像遇到你们",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxg_斗罗聊天群：她们都吃瓜吃上瘾了1-154章.txt",
+    readUrl: "https://pan.baidu.com/s/1T__9hYE7mJWViqvwregtWQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxg/",
   },
 
@@ -69303,6 +70105,7 @@ export const bookItems = [
     excerpt: "“恋爱，是比虚兽更可怕的怪物！”为此，我们小队立下铁律：全员封心锁爱，一起变强，互相监督，违者重罚富家小姐队长：“谁想脱单，罚讲一个月睡前童话！”社恐娇小魔法使：“脸、脸上要画乌龟……写‘笨蛋’，顶三天！”金发长腿女剑士：“还要穿女仆装，给全员端茶倒水叫主人，直到下一个倒霉蛋出现！”直到上周，在虚界中我为救她们，险些丧命。“那个…我伤真好了……”我刚想动弹，就被三个身穿女仆装、脸上画着乌龟、正轮流",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxh_败犬队友太多了1-170章.txt",
+    readUrl: "https://pan.baidu.com/s/1UGDOaLY7K3ur2FBzpC33FQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxh/",
   },
 
@@ -69337,6 +70140,7 @@ export const bookItems = [
     excerpt: "那一年，患有眼疾的相原继承了二叔的风水堂，时常用自身所学为深陷困扰的客人们算命看相，指点迷津。 也是那一年，古老的神话生物集体复苏，冲破了生死的桎梏，降临到现实世界，拉开诸神时代的序幕。 蜃龙，相柳，金乌，鲲鹏，九尾狐…… 随着诸神的时代降临，当年受过相原帮助的客人们纷纷回来对他表示感谢。 相原却汗流浃背。 “请问相先生，您是如何帮助这些神话生物复苏的呢？” “关我屁事！你们知道的，我从小眼神就不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxk_天理协议1-541章.txt",
+    readUrl: "https://pan.baidu.com/s/1mI3L4C8BoQMEvASYzraIaQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxk/",
   },
 
@@ -69353,6 +70157,7 @@ export const bookItems = [
     excerpt: "任职东京女校的教师不久后，青泽忽然觉醒特殊能力，他能够看到一些奇特的标签，然而这些标签的描述，却让他感觉身处于奇幻世界。马蜂被称为“蛰杀之主”，中二少女是“悖论妖精”，不良少女的标签为“灭世魔女”……每个标签都隐藏着超凡力量，在探索如何获得这些力量的过程中，他一步步逼近那长久空悬的天之王座。【标签：唯我独法、无敌、日常、多女主、轻松、慢热，探索成长】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxl_唯我独法：东京奇幻日常1-754章.txt",
+    readUrl: "https://pan.baidu.com/s/1gVLSZAb1OJBCD6ez-PHKtA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxl/",
   },
 
@@ -69387,6 +70192,7 @@ export const bookItems = [
     excerpt: "在又一次被石头砸死，路易成功的激活了自己的金手指。妖魔鬼怪，神仙凡人的路易汇聚在一起。从不凡到超凡再到超脱，在诸天的道路上路易最终都会走上一世无敌的终点。这是一个文荒读者在绝望中写下的小说。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxn_诸天世界同时穿越1-695章.txt",
+    readUrl: "https://pan.baidu.com/s/1cpOYksaTDU2iQTLIRcOrFQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxn/",
   },
 
@@ -69403,6 +70209,7 @@ export const bookItems = [
     excerpt: "恶魔：“冒险者，恭喜你获得了神愿宝盒，打开它，我实现你的一切愿望！”李茶：“你能让精灵女王给我洗脚吗？”恶魔：“精灵族天生高洁，这很难。”李茶：“我能。”“你能让时光巨龙把祂的财宝交给我吗？”“我打不过祂。”“我能。”“你能让女神教会的信徒全部信仰我吗？”“女神......”“我能。”“......”“恶魔先生，时代变了，下次再开口忽悠，不要先问别人要什么。交易的本质是什么？等（wo）价（you）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxo_人在异界，开局出卖100点良心1-920章.txt",
+    readUrl: "https://pan.baidu.com/s/1MIvZ8SaPhdnmzDL-vaFeWg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxo/",
   },
 
@@ -69438,6 +70245,7 @@ export const bookItems = [
     excerpt: "【疯批病娇长公主李云睿】武锋穿越庆余年世界，成为了长公主李云睿的广信宫中，一名负责照料花草的小太监。一次偶然机会，他与李云睿突然接触，激活情绪值抽奖系统，只要让李云睿感到刺激，就可以获得情绪值进行抽奖。从这一刻开始，武锋决定紧抱李云睿大腿！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxu_庆余年：开局抱长公主大腿！1-450章.txt",
+    readUrl: "https://pan.baidu.com/s/1BlpAFU-vidxdX242rrYlJw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxu/",
   },
 
@@ -69455,6 +70263,7 @@ export const bookItems = [
     excerpt: "【华娱，明星，八卦，嘴炮】张辰一觉醒来，回到2004。2004年流行拍文艺片获奖，然后回国装逼，张辰偏不，他就要拍商业电影。《黑暗侵袭》国产化，《突袭》魔改为《九龙城寨》，《环太平洋》与《金刚》《哥斯拉》结合的机甲怪兽宇宙，《飓风营救》《惊天救援》《疾速追杀》融合的特工宇宙，《绣春刀》《捉刀人》《龙门飞甲》融合的武侠宇宙……说我不懂电影，让你们看看什么才叫电影！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxv_说好拿奖片，怎么拍黑暗侵袭1-841章.txt",
+    readUrl: "https://pan.baidu.com/s/1Cer1_IOIEtyGsoAJtJ7jJg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxv/",
   },
 
@@ -69472,6 +70281,7 @@ export const bookItems = [
     excerpt: "【高订八千，目前已更新一千条多情报！】在模特圈厮混两年半的资深经纪人林青松，意外获得每日情报系统。【今日情报：天海小区2号楼边上的垃圾房内，有一坛被遗弃的酒。它外表.......但实际上是一坛上好的八十年陈野生虎鞭酒，外面是封蜡，里面的沉淀物更是正宗的虎鞭。（售卖违法）】【今日情报：新锐健身器材品牌创始人沈星虞，会在今天早上七点前往金鸟健身房进才店锻炼。（注：该公司近期需要几名模特拍摄广告。）】【",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sxy_混在模特圈，我的情报每日刷新1-748章.txt",
+    readUrl: "https://pan.baidu.com/s/1gCnU-XQeLgwX8368OtWDZQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sxy/",
   },
 
@@ -69489,6 +70299,7 @@ export const bookItems = [
     excerpt: "满清乾隆末年，昏君当道，奸臣弄权，横征暴敛，民不聊生。川楚白莲教民走投无路，乃首倡反清义帜。我太祖皇帝因势起于河南商丘，于山东定陶登基称帝，建元兴汉。立百官，均田地，东征西讨十余年，覆灭满清，荡涤乾坤，驱逐鞑虏，恢复中华。又十余年征讨教化，使四夷宾服，天下咸宁。太祖姓刘氏，讳德胜，或言太祖乃汉高帝苗裔也，金刀谶历两千载终验于太祖。太宗皇帝仁德爱民，明理任贤，可惜天不假年，即位经年而崩。今上讳玉龙，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sy_新汉皇朝18341-472章.txt",
+    readUrl: "https://pan.baidu.com/s/1WRDwejOID8YTOthDFk8prA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sy/",
   },
 
@@ -69524,6 +70335,7 @@ export const bookItems = [
     excerpt: "张岩刚重生回到十八岁，哥嫂就要和他分家。然而他们只给张岩分了一块没人种的荒地，一片不值钱的山林，以及一间远离村子的牛棚。无处落脚的张岩只能搬离村子，住进了山里的牛棚独自生活。还好他已经活过一世，所以心态很好，独自住在山里赶山、挖药材、采菌、采蜜、一点点积攒家当，盖房子。他用重生的眼光时常发点小财，从一无所有盖起全村第一栋小别墅，买了第一辆汽车，第一个在城里买了房……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syd_重生西南，独居赶山生活1-193章.txt",
+    readUrl: "https://pan.baidu.com/s/1tmH6LSRtKpWC9ko5aNPAug?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syd/",
   },
 
@@ -69541,6 +70353,7 @@ export const bookItems = [
     excerpt: "巴黎奥运闭幕，国乒包揽五块金牌，但暴露出的问题，同样令人担忧。除了三十二强以外，男乒的梯队建设问题亟需解决。值此新一轮奥运周期开启之际，一位直板天才少年横空出世，镇压世界乒坛。男乒主教练：“我是直板横打的集大成者，而他则是真正的巅峰者。”六边形战士：“国乒有他，我终于可以放心退役了。”黄金左直：“我都这么全面了，可他比我更全面。”国际乒联：“他的球，时而凶狠，时而风骚，无愧‘帝国の孤狼’称号。”乒",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sye_乒乓：挥拍亿万次，超神全满贯1-646章.txt",
+    readUrl: "https://pan.baidu.com/s/12tvdp9Wd78QcWrAa22neSA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sye/",
   },
 
@@ -69557,6 +70370,7 @@ export const bookItems = [
     excerpt: "徐凌意外回到2006年，成为了德州理工大学的一名新生。他天赋异禀，却鲜为人知。那时，传奇教练鲍勃·奈特的光环笼罩着整个球队，但这支队伍仍不过是NCAA浩瀚星河中一颗不起眼的凡星——直到那一天，它的轨迹彻底改变。有些人如同雄鹰一样注定要展翅高飞。徐凌决定在自己的第二次人生中全力冲向前世从未抵达的山脉。于是，“TTU的乔丹”、“比肩奥登与杜兰特的超级新人”、“来自东方的终结者”……无数标签与厚重的期待",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syf_喧嚣未及之处1-648章.txt",
+    readUrl: "https://pan.baidu.com/s/16cODTBVHbzG__dY5ioGdUA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syf/",
   },
 
@@ -69591,6 +70405,7 @@ export const bookItems = [
     excerpt: "【元祖无限】【火影】封垠穿越火影，为了不沦为炮灰，他拜师迈特凯，练体术，八门遁甲干到底！然而，还没等他青春燃起来，却遭团藏迫害。危急关头，那个熟悉的对话框弹了出来。【想明白生命的意义吗？想真正的……活着吗？】封垠：“？？？主神业务都拓展到忍界了？！”封垠果断YES，开局就是二十人的咒怨！........自此，中洲队的画风彻底不对劲了。郑吒手搓佛怒火莲高喊：“三十年河西，三十年河东，莫欺少年穷！”赵",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syi_从八门遁甲开始横推元祖无限1-323章.txt",
+    readUrl: "https://pan.baidu.com/s/1HkYpX9_ynHhQRhG7pabOTQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syi/",
   },
 
@@ -69608,6 +70423,7 @@ export const bookItems = [
     excerpt: "北齐很倒霉，一度有希望终结乱世，却接连碰上神金皇帝，最终成为北周的垫脚石。 北齐也很幸运，天保九年，被打懵的太子高殷重新睁开了眼。 文宣帝高洋是他的亲爹，等这位人骨做琵琶、嗜酒滥杀的“英雄天子”死去，太后娄昭君就会扶持她的亲儿子来夺走高殷的帝位，将高殷的生命终止在十六岁。 当世最强的齐国，也会在十七年后被消灭，成为历史上荒诞至极的禽兽王朝。 这怎么可以？明明秦琼、程咬金、魏征等贤臣名将的祖先都在这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syj_北齐：家父文宣帝1-1339章.txt",
+    readUrl: "https://pan.baidu.com/s/1qM1GoIX_R7m3sZI9tzqn-Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syj/",
   },
 
@@ -69625,6 +70441,7 @@ export const bookItems = [
     excerpt: "穿越无限恐怖是中洲队新人，苏叶发现中洲队能够兑换第一至三世代的所有强化。常年混迹论坛的苏叶表示感谢大佬们的总结，这些轮椅强化中洲队全都收下了。奥术师启蒙+三眼族血统，走上大奥术师路线的苏叶；九阴九阳大悲赋+巨魔绿巨人的肌肉大猩猩郑吒；血族九幽泉水+计都罗睺剑化身血族魔剑修的赵樱空；念动力+直死魔眼第一世代最强精神力控制者张杰；召唤死灵法走上亡灵军团道路的萧宏律；......所有人走上了主神空间高手",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syl_无限之憧憬成为主神空间高手1-416章.txt",
+    readUrl: "https://pan.baidu.com/s/1hbYp7_raBABuNnmMsS2G7Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syl/",
   },
 
@@ -69642,6 +70459,7 @@ export const bookItems = [
     excerpt: "【守序中立】我自宇宙而来，降临漫威世界。90年代的变种人就在身边，但社会依旧安逸。 在没有外置大脑的协助下，我该如何隐藏自己，生活在这个世界中。 成神非吾愿也，金钱非吾所追求也，若是咸鱼想着翻身，那还叫咸鱼嘛。 且看我如何躲在世界角落，吃瓜看戏。如果被逼到第一线，那就当作在特等席上继续吃瓜，当个看戏的傻子，而非演戏的疯子。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sym_漫威咸鱼氪星人1-1299章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZpJASEiSDQJf22ui5nFAMQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sym/",
   },
 
@@ -69659,6 +70477,7 @@ export const bookItems = [
     excerpt: "荒野大佬秦长风穿越来到平行世界，成为了一个正在参与《荒野独居》节目的塌房艺人。 本就不喜欢与人勾心斗角，每天跟演戏一样生活的他表示找到了属于自己的舒适圈。 了无人烟的北极圈荒原哪里恐怖了？ 那里明明就是人间天堂好不好，绚丽的极光，罕见的极昼与极夜，冰封万里的壮阔雪景。 这哪一样景色不震撼人心！有钱都不一定买得到啊！ 你说吃的怎么办？ 这还不简单！ 想吃鱼了，就手编鱼篓和刺网，手搓鱼叉和钓竿，或者直",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syo_荒野求生：这个塌房顶流太能活了1-825章.txt",
+    readUrl: "https://pan.baidu.com/s/10u2CdCo_H_9eOT5npYdDxg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syo/",
   },
 
@@ -69675,6 +70494,7 @@ export const bookItems = [
     excerpt: "本书开局短暂双穿，穿越明末蓟镇遵化古城，接收一家冶铁坊。从一个小白开局，亲身经历一系列重大历史事件，以及被人为掩盖的真像。揭开明末的重重历史迷雾，在斗争中成长，逐步成长为乱世枭雄。占地盘，建军队，搞工业，对内朝廷争斗，对外扫平蒙古、满洲，海权和陆权双臂齐全发展，征服世界。多女主，爱情线甜美，看主角用铁和火重整万里河山。用科技砸碎一个旧世界，取代大明，建立新帝国。重铸九鼎，划分世界为新九州。建立一个",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syp_全球帝国从明末开始1-2401章.txt",
+    readUrl: "https://pan.baidu.com/s/15IYsRuyfhEiS7c2HoMWJUQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syp/",
   },
 
@@ -69692,6 +70512,7 @@ export const bookItems = [
     excerpt: "【刘艺菲单女主】 林立刚要执导自己第一部作品，突然回到了千禧之前。 这一年张艺谋的《英雄》还没上映，华娱还未走进大片时代。 重来一次，脑中装着用不完的文娱宝库，再也不走弯路了。 北电摄影系林立，这次想好好瞧瞧，这光怪陆离的电影圈，究竟是什么模样。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syt_华娱：导演归来1-642章.txt",
+    readUrl: "https://pan.baidu.com/s/1AzIw3JKVe_BGFXDlKWmWLw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syt/",
   },
 
@@ -69726,6 +70547,7 @@ export const bookItems = [
     excerpt: "什么是美警啊？以德服人！ 不服？ 刚刚穿越到了美利坚巴尔地摩市，成为了一个维护自由与正义的美警表示：那就一直清空弹匣，清到你服为止！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syv_美警：我有每日情报系统1-1232章.txt",
+    readUrl: "https://pan.baidu.com/s/1B7I8R4j8WZ2CGSm9RaJ13w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syv/",
   },
 
@@ -69742,6 +70564,7 @@ export const bookItems = [
     excerpt: "父亲因为轻信他人被骗，气到住进医院。临危受命，杨学斌只能接手家里的公司，在内忧外患的情况下，他绑定了科幻系统，可以让他穿越到一个个科幻世界。只要完成相应的任务，就能抽取科幻世界里的各种黑科技。此后，一个科技帝国诞生。……《三体》，进行中。下个世界，《流浪地球》。…………老书《从穿越封神开始》，高订七千，大家也可以看看！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syw_科技帝国从穿越三体开始1-971章.txt",
+    readUrl: "https://pan.baidu.com/s/16D6gL-m4V5LdqZ1o_4UYgg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syw/",
   },
 
@@ -69759,6 +70582,7 @@ export const bookItems = [
     excerpt: "【奇幻世界，慢节奏冒险，法师，怪物图鉴收集】来到奇幻异世界，得到一本击杀收集怪物，数量越多就会越强的冒险者手册，高斯原本以为自己会开启打败巨龙，击杀魔鬼，拯救王国的正统冒险，却看着害虫般不断繁衍，杀不绝灭不尽的哥布林，以及怪物图鉴上飞速增长的击杀数量和奖励，脸上愈发无奈......“你已累计击杀1000只哥布林！智力+1，力量+1，体质+1。”“称号「哥布林屠杀者」升级为「哥布林专家」，你是哥布林",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syy_我不是哥布林杀手1-538章.txt",
+    readUrl: "https://pan.baidu.com/s/1dRk3AMmfHDbqVqFoBh3U8A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syy/",
   },
 
@@ -69776,6 +70600,7 @@ export const bookItems = [
     excerpt: "异世界危险重重，为了威慑敌人，我得把自己打扮得可怕一些。既然成了血法师，就得有一副强大的身躯，顺便用血疗术给自己改造一下血脉吧。都这份上了，我不给手下强化一下，岂不是寒了他们的心？得安排他们与我统一画风。为了制止不必要的纷争，我必须把血海扩张到更多世界。“所以，这就是你发动十三次血海远征、搅乱诸界的原因？”“不，是为了传播爱与和平。”莫狄如是说道。......多年后，血海掀起浪涛，无数身着狰狞铠甲",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_syz_从血法师到冥河老祖1-411章.txt",
+    readUrl: "https://pan.baidu.com/s/1RC_8HScEVk4t7osFgvNteg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/syz/",
   },
 
@@ -69792,6 +70617,7 @@ export const bookItems = [
     excerpt: "轮回乐园同人文。无限流。在那死寂的黑暗中，王长乐的生命戛然而止，旋即被卷入轮回乐园。乐园空间里，幽冷之光闪烁，仿若无数双眼睛在暗中窥视。为复仇，他满腔热忱地穿梭于各个衍生世界，所经之处，杀戮与鲜血铺就其前行之路。在一次仿若噩梦的任务里，他意外触碰到古神禁忌的存在。克苏鲁的低语仿若恶魔诅咒，在他脑海中不断回荡，受黄衣之王的蛊惑，他鬼使神差地加入外神教派。彼时，他惊觉自己已深陷上古时代遗留的巨大阴谋，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sz_轮回乐园之旅1-2035章.txt",
+    readUrl: "https://pan.baidu.com/s/1XxjFmRsXrMFf_4S8ASrPUg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sz/",
   },
 
@@ -69809,6 +70635,7 @@ export const bookItems = [
     excerpt: "宇智波哲，25岁，在精神病院做研究工作。一次医疗事故，他来到了异世界，成为了宇智波一族的族长。系统每天都会赠予他一次抽卡次数。且抽奖结果只会是宇智波族人。（鬼灭之刃·已完结）（Fate/Zero·已完结）（Fate/stay night·进行中）（Overlord·待开始）（综漫、诸天、多女主、群像、种田、日常、搞笑）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_sza_综漫：从鬼灭开始一天一个宇智波1-248章.txt",
+    readUrl: "https://pan.baidu.com/s/143_S9A60HKsjNQQoZbjyYQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/sza/",
   },
 
@@ -69825,6 +70652,7 @@ export const bookItems = [
     excerpt: "李诺，男，漫画家，穷，有绝症，医生说他活不过21岁，所以他因为一场意外死了。 然后，他进入了一辆搭载玩家们去往各个游戏世界的列车里。 进入游戏世界，还好。 面对玩家竞争，还行。 但是……他发现这些游戏的世界观和任务剧本有点奇怪。 尼尔的世界为什么有巴哈姆特！ 巫师世界的地图上怎么有个叫“亚楠”的城市！ 想成为怪物猎人大师要收集八个会馆徽章！？ 原创世界里的血族都是女性是认真的吗？ 他想发出呐喊：作",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szc_残血玩家1-996章.txt",
+    readUrl: "https://pan.baidu.com/s/1XPHm3-dfegy0m2LhVNiKCQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szc/",
   },
 
@@ -69842,6 +70670,7 @@ export const bookItems = [
     excerpt: "“谢邀，人在宾馆，刚被逆推。”夏澈怎么也没想到，自己养成的赛博女友竟然会来到现实！一开始，他只想拥赛博女友，享美好人生。直到游戏提示传来。【您的女友已死亡……】莫名其妙死亡的女友。无限重来的七日轮回。随着度过一个又一个的难关，夏澈这才发现，游戏中的内容竟然渐渐降临现实！床边出现的染血白裙。角落蹲坐的乖巧女孩。夜晚如鬼魅般出现的古怪虚影。还有睡时在他耳边哈气的轻声细语。夏澈一直都把赛博女友当作升级赚",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szd_我将以女友形态出击1-482章.txt",
+    readUrl: "https://pan.baidu.com/s/1Cqa7vijnyYm1klv6aDifig?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szd/",
   },
 
@@ -69877,6 +70706,7 @@ export const bookItems = [
     excerpt: "【你想和女明星交朋友、谈恋爱、深入了解吗？】【点击即玩！】2015年，艺考生余温良得到一款恋爱模拟器。和现实中的女明星谈电子恋爱？虚拟的有什么意思！余温良对此不屑一顾！什么？你说能用模拟预知未来？余温良望向高考倒计时，高考状元正朝他招手！什么？你说能获得模拟过程中的能力？余温良模拟角色少年将军，习得马术，古代武学！什么？你说还能检测未出道的潜力女星？余温良看向他的同桌周也，系统提示她是未来的顶流9",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szf_华娱从模拟恋爱开始1-559章.txt",
+    readUrl: "https://pan.baidu.com/s/1Fd7vxt65nDsjnJuI1U39SA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szf/",
   },
 
@@ -69893,6 +70723,7 @@ export const bookItems = [
     excerpt: "罗伊很喜欢一步一个脚印踏踏实实做事的感觉，直到他重生到了揍敌客家，不得不面对一个冷漠的爸，变态的妈，扭曲的兄弟，一日一杀的爷爷以及老不死还酷爱假借看动画片实则背地里拿【圆】偷窥的老祖宗.........",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szi_全职猎人：从日之呼吸开始1-337章.txt",
+    readUrl: "https://pan.baidu.com/s/1n1_fagaYJQFEYiskpZEVKw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szi/",
   },
 
@@ -69910,6 +70741,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szj_回到八零机械厂1-894章.txt",
+    readUrl: "https://pan.baidu.com/s/16sfi9zkRuzFF4vwwW8tXog?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szj/",
   },
 
@@ -69927,6 +70759,7 @@ export const bookItems = [
     excerpt: "食色性也，美食爱好者张锦轩太适配娱乐圈了，圈里人好评如潮。何老师：“轩儿这豆太棒了！绝了！”彭彭：“对啊，轩哥做饭好吃啊。”大华：“好吃！”陈赤赤：“无敌巨好吃！”沈藤：“轩儿样样通样样精。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szk_华娱大厨1-518章.txt",
+    readUrl: "https://pan.baidu.com/s/1pCxMLM_qkpPD8DTw-hm8mg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szk/",
   },
 
@@ -69962,6 +70795,7 @@ export const bookItems = [
     excerpt: "我穿越了，也变强了，但这画风，不太对！不是，系统你玄幻、魔幻、科幻、奇幻那么多选项，为什么到我这里偏偏是这个？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szm_虽然无敌但画风不对1-560章.txt",
+    readUrl: "https://pan.baidu.com/s/16e0PIL7QRC-cBzQeg7qefA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szm/",
   },
 
@@ -69979,6 +70813,7 @@ export const bookItems = [
     excerpt: "大宋财政危机，赵官家紧急启用王安石，变法在即，却有一个人横空出世，夺了王相公的气运，重塑大宋的财政体系。李长安，一个在读的政治经济史研究生，开始了他的研究课题。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szn_大宋财经周刊1-581章.txt",
+    readUrl: "https://pan.baidu.com/s/1zBIQoPY4nMZkmXzpLX6uoA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szn/",
   },
 
@@ -69996,6 +70831,7 @@ export const bookItems = [
     excerpt: "“我反复强调，真正的魅魔是以理想诱人，而不是以美色诱人，现在的异人界就像一滩死水，平静的表面下暗藏虫豸和污秽，我不过是想将它洗干净，怎么就有这么多人不理解呢？”面对他人的误解，顾景苦口婆心地在论坛上发布公告。但底下的评论却似乎不这么认为。“我明白了，顾景的美色很诱人。”“异人界对顾景来说都是虫豸，不被他看在眼里。”“顾景宣称，将对异人界发动一场大清洗！”......[西游原旨][三教合一][非严肃",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szo_一人之下：我成新时代魅魔了？1-294章.txt",
+    readUrl: "https://pan.baidu.com/s/1Kfgx_tYBkywXeSWHlgLXTg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szo/",
   },
 
@@ -70030,6 +70866,7 @@ export const bookItems = [
     excerpt: "林耀穿越到港片世界，获得「吃瓜系统」，只要吃瓜，就能获得奖励。什么？吃瓜？！港综世界这么危险，我一普通人，去吃瓜不是找死？这瓜，打死我也不吃！【叮，你目睹了《无间道》天台戏，奖励1万港币！】。【叮，你目睹了《警察故事》陈家驹追捕朱韬，奖励「双骨龙」！】。【叮，你目睹了《喋血双雄》教堂枪战……】【叮……】林耀：“……”抱歉，我刚刚说话太大声！我这就去吃瓜！随着一次次吃瓜，林耀的实力、人才、金钱、越来",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szt_港综：让你吃瓜，吃瓜到大嫂身上1-608章.txt",
+    readUrl: "https://pan.baidu.com/s/1c5DivFWn43OYR1HqZSCFUA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szt/",
   },
 
@@ -70046,6 +70883,7 @@ export const bookItems = [
     excerpt: "陷入无限空间中，等待的是永无尽头的战斗与冒险...在这里会被发放新的“身份”进行对抗。开局抽到卫宫（Emiya），本以为是奇迹男神，却发现只是个空有外壳的“红P”！投影魔术？现场学！无限剑制？只会念第一句糊弄人！“谢邀，男神胜率100%，战绩可查。”“坏事了，兄弟们，对面有夜神月，露头包死的。”“己方是疾风传二愣子，对面是忍界大战二柱子？玩NM！”“什么叫顶上战争里出现了罗杰和第二个白胡子？”“啊",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szu_无限世界：随机角色，开局红A1-292章.txt",
+    readUrl: "https://pan.baidu.com/s/1N_uaYvj5jIIDrt1FEgpTZQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szu/",
   },
 
@@ -70063,6 +70901,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szv_我以扭曲恋爱拯救病态少女1-498章.txt",
+    readUrl: "https://pan.baidu.com/s/1_mJtzaHu7Vc9qCC8RYCLKw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szv/",
   },
 
@@ -70080,6 +70919,7 @@ export const bookItems = [
     excerpt: "“50年寿命太短，你之眼界太过狭隘，助我脱离此界桎梏，赐你长生久视。” 那一天，黑发红瞳，身高145cm的神明少女对着因为没事干回了个“v我50帮你重回神座”结果被召唤的夏宸如是说道。 成为所谓神眷者后的夏宸发现，这位神明小姐，似乎不会穿衣服，不会穿鞋袜，生活自理能力为零……. “夏宸，帮我穿衣服，帮我穿鞋子。” “好好好。”夏宸心不甘情不愿的低下头。 “夏宸，帮我洗澡。” “靠你不是不用洗吗？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szw_神明小姐的饲养日记1-289章.txt",
+    readUrl: "https://pan.baidu.com/s/1SNilei_OuwXOIqwXkfn0wQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szw/",
   },
 
@@ -70097,6 +70937,7 @@ export const bookItems = [
     excerpt: "菜农陈家志回到了1994年。这一年他21岁，背井离乡来到花城，开始了第一次菜农生涯。随后一名新手菜农遭遇了连环打击，梅雨烂根、暴雨绝收、台风洪涝、高温干旱、寒潮来袭……现在，他有了重来一次的机会。对菜农来说，恶劣的天气既是灾难，也是机遇。（种田+日常+农业+蔬菜产业）【已有230万字完本精品作品：开发大西北从种子开始】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szx_1994：菜农逆袭1-918章.txt",
+    readUrl: "https://pan.baidu.com/s/1hvb8TsSGjtL8gyVFKjGF3Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szx/",
   },
 
@@ -70114,6 +70955,7 @@ export const bookItems = [
     excerpt: "又名《从四合院开始的巫师之路》，《巫师的诸天成神路》简介一：现代青年李钦被泥头天尊送到了艰难的五十年代，本以为是重生流的现代都市剧本，能轻易的走上人生巅峰。未曾想竟是穿越到四九城南锣鼓巷95号，也就是大名鼎鼎的“情满四合院”。知晓真相的李钦更愿意称之为“禽满四合院”。就在李钦思考如何应对一众禽兽的时候，没想到竟然被系统找上门......简介二：穿越到“禽满四合院”的现代青年李钦心中异常的迷茫与不安",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_szz_从四合院开始的巫师之路1-1492章.txt",
+    readUrl: "https://pan.baidu.com/s/1FYTmCpt6qhXAL6ciTNUQHQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/szz/",
   },
 
@@ -70131,6 +70973,7 @@ export const bookItems = [
     excerpt: "雾门降世，玩家丛生。战士、念师、魔法师……道士、虫师、催眠师……觉醒职业与生涯经历及文化信仰息息相关。某一天，提前激发职业面板的李灿踏入雾门。当他以为自己的隐藏职业足够强力时，第二个职业面板在向他招手。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_t_从双职业开始执掌权柄1-477章.txt",
+    readUrl: "https://pan.baidu.com/s/1qremLhVGN8XP7Y8xa0eUFQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/t/",
   },
 
@@ -70148,6 +70991,7 @@ export const bookItems = [
     excerpt: "满级神探，重回2013！开局就被白月光陷害，即将身败名裂？ 不好意思，这一世，剧本我说了算！ 你还在现场找脚印，我已经锁定了真凶；你还在等法医报告，我已经推导出了作案手法；你以为天衣无缝的毒杀，在我眼里如同儿戏！ 带着未来十二年罪案记忆宫殿，陆离俯视着这群还在用着老旧刑侦手段的“高手”们，嘴角露出一抹冰冷的微笑。 “我不是针对谁，我是说在座的各位……都是罪犯的间接帮凶。” 从当庭审判白月光开始，我",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tb_重生破案，从抓捕白月光开始1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1bbR59Pa2EbueiWg-OLekdw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tb/",
   },
 
@@ -70182,6 +71026,7 @@ export const bookItems = [
     excerpt: "这一年，全真南宗出了个道人，结缘三五好友，漫步纷乱红尘，闲看浮生无限。————大明江湖，有友人狂禅，号称“天地茫茫，人生无常，和尚吃肉，菩萨心肠”民国异人，博术艺，明法理，乾坤通幽秦时明月，百家争鸣，他是道家硕儒，建构了道教之道统与文统聊斋不古，妖鬼滋生，掀起人道杀劫，甲子荡魔，正本清源。宝莲灯火…… ————已有完本精品老书《诸天从洪拳开始》，高定1w4，欢迎书荒朋友。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_td_漫步诸天的道士1-678章.txt",
+    readUrl: "https://pan.baidu.com/s/1SNCFxQmuw5_Dx4Nt9a4Zbw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/td/",
   },
 
@@ -70198,6 +71043,7 @@ export const bookItems = [
     excerpt: "【斗罗】【斗破】【双穿】【多女主】【无系统】【抽象文】一世穿越，两世为人。萧砚身在斗破，自从发现可以穿越斗罗大陆!事情就变得不对劲了。在斗气大陆！“什么？你叫我黄级低阶功法《青木诀》没问题！但！现在到了斗罗大陆，你说你该叫我什么？不知道？《万古长青功》！记牢了！”在斗罗大陆！“啊？你叫我魂技，我不挑你理，可到了斗气大陆，你觉得你该叫我什么？记住了！叫秘法！百分比增幅秘法！”“斗帝用了都说好！”绝世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_te_斗破：双穿斗罗，以神铸帝！1-339章.txt",
+    readUrl: "https://pan.baidu.com/s/1kehI3R7Z31T5VMjWNWSNtw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/te/",
   },
 
@@ -70214,6 +71060,7 @@ export const bookItems = [
     excerpt: "绝世唐门同人文，多女主，不喜勿喷！重生斗罗世界，少年拥有神秘武魂黑洞。他也是日月帝国史上最强帝皇！他是毁灭之神信任的队友！他也是海神唐三的噩梦！许渊：他日我若成神，宇宙星空都将被我吞噬！ps:反三，父慈女孝，控制史莱克后改名。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tf_绝世唐门之我的武魂是黑洞？1-338章.txt",
+    readUrl: "https://pan.baidu.com/s/1mNNLgzqYmlcbbX1QZ9PGQA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tf/",
   },
 
@@ -70249,6 +71096,7 @@ export const bookItems = [
     excerpt: "爷是康熙的亲侄儿，恭亲王常宁的第五子，雍正朝的领班军机大臣，乾隆朝的多尔衮！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_th_我伯父是康熙1-242章.txt",
+    readUrl: "https://pan.baidu.com/s/1zwSnNADeehbY-0LqbJiF8g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/th/",
   },
 
@@ -70266,6 +71114,7 @@ export const bookItems = [
     excerpt: "日高响：那我问你，我扎基闪电射程长会不会空？嗯？会不会空？我扎基闪电是锁头的吗？我CD多少？回答我！我扎基数值怪不需要操作？你回答我，你们这些说扎基超模的苟！回答我！look in my eyes！我扎基数值很高吗？是不是打满操作才有伤害？说话！还扎基数值怪的都来了，那没我这操作能把数值发挥出来吗！回答我！安培拉：我不到啊，他二话不说往我脸上来一拳给我打驾崩了，还搁那问呢，他扎基有什么操作？雷布朗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ti_奥特曼：进化传说1-1607章.txt",
+    readUrl: "https://pan.baidu.com/s/1Mrnr_eJq5S1M6mUn1lcHsQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ti/",
   },
 
@@ -70283,6 +71132,7 @@ export const bookItems = [
     excerpt: "（本书不送装备，不压等级，全靠缴获和发展，本书搞定一万五，均订五千五以上，质量有保障）陈铭回到那个炮火纷飞的年代，成为了平安县区小队的队长。 山河陆沉，国破家亡。 热血儿郎当自强。掌握了三维立体作战地图，只要击败敌人，就能获得各种徽章奖励。二级步兵徽章：增加40%士兵训练速度三级炮兵徽章：增加60%炮兵训练速度一级科研徽章：增加20%科研速度除此之外，还有各种各样的奖励。…… 陈铭训练部队，指挥作",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tj_亮剑：从晋西北到长津湖百战百胜1-595章.txt",
+    readUrl: "https://pan.baidu.com/s/1nfx0mmqqU-Jn4aNIfFmFBA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tj/",
   },
 
@@ -70300,6 +71150,7 @@ export const bookItems = [
     excerpt: "（每日绝赞五更中～）“你知道吗，整个世界其实是一个游戏，我是这个游戏里最强的邪神，单挑十二主神不在话下。”“好厉害，那为什么会被封印呢？”“因为开打的时候我穿越了！手里没键盘！不过没关系，帮我解开封印，主神你来当。”“嗯嗯好的。”圣女小姐一边应着，一边在日记本上写到——【只要不解开……邪神先生就永远属于我（划掉）】——本书又名《穿越成邪神被众神封印，召唤自己的竟是众神圣庭的圣女？》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tk_刚成邪神，被圣女召唤1-1041章.txt",
+    readUrl: "https://pan.baidu.com/s/1k-cAnesPpdgNUNldpLyQZw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tk/",
   },
 
@@ -70316,6 +71167,7 @@ export const bookItems = [
     excerpt: "【公路骑行、职业车手、日常文、体育竞技、环法、世巡赛】———————狂热的骑行爱好者：黄冲，在盘山公路放坡时，意外跌下山崖，重回到了2022年。此时，温格高正联合队友罗格里奇于环法S11赛段，疯狂拉扯如日中天的波加查。看着直播中的比赛画面，黄冲做梦都想成为世界级的公路车手，脚踏风雷，跟这些偶像们在世巡赛的赛场上同台竞技、一决高下！作为被命运眷顾的天选之子，重生者福利向来不会缺席，他在被同行指教该如",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tl_骑行之逆风飞驰1-392章.txt",
+    readUrl: "https://pan.baidu.com/s/12ATQsHfNQFnwWk30EYkjwg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tl/",
   },
 
@@ -70331,7 +71183,7 @@ export const bookItems = [
     chapters: "1-775章",
     excerpt: "有时候一个完美的镜头就能让人兴奋的睡不着。有时候一次愉悦的指导又能让人睡的很安心。这就是当导演拍电影的乐趣啊。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1_KGFVu__C0Cdb-zxi8hv7w?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1AXerWyiPJr3SLC2167Fh2w?pwd=vrf3",
     downloadUrl: "/books/m_tm_这个导演开了挂1-775章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/tm/",
   },
@@ -70350,6 +71202,7 @@ export const bookItems = [
     excerpt: "我叫王敢，敢作敢当的敢。 什么，你说我在江湖上到处杀人放火，挑拨离间，还专门勾搭各路女侠？ 我怎么可能做过，冤枉我王敢，你已有取死之道！ 穿越世界：小李飞刀--绝代双骄--陆小凤--大唐--一人--遮天",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tn_诸天，从小李飞刀开始1-577章.txt",
+    readUrl: "https://pan.baidu.com/s/11tcf89KY6JRLTDpIgpXjYQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tn/",
   },
 
@@ -70365,7 +71218,7 @@ export const bookItems = [
     chapters: "1-484章",
     excerpt: "迪伦：“伏地魔在上，我只是掌握了满级不可饶恕咒而已，请相信我，我真的是个好孩子，你看看我在学校做的事情就知道了！” 麦格教授：“你指的是，你用一秒一百发的摄魂夺魄，击败了一整个集会的食死徒，以及与一群摄魂怪为伍，能够随意操控它们的事情？” 迪伦：“不，我的意思是，图书馆的书籍就没一本是我没看过的！我的所有课程都是满级，魔法也是！就连伏地魔也是我用不可饶恕咒打败的。” 麦格教授：“对，就是这样，那群",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1uJduPAPzTPCRftIyOnYoNA?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/10oZcAt6KEdULgyB_m1D8Vw?pwd=vrf3",
     downloadUrl: "/books/m_to_霍格沃滋：开局满级不可饶恕咒1-484章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/to/",
   },
@@ -70384,6 +71237,7 @@ export const bookItems = [
     excerpt: "【领地经营文，领主争霸文】蓝星被异界世界意志捕获，蓝星意识以自身意识泯灭的代价给与蓝星人类的馈赠——《全球战争》虚拟游戏。陆鸣从游戏摸爬滚打的20年后穿越回游戏开服之时。波澜壮阔的异界汉帝国.异界罗刹帝国.异界拜占庭帝国.异界孔雀帝国.异界高句丽王国带给蓝星人类不仅是震撼和磨难，更是机遇和进化。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tp_网游三国领主之全球战争1-1066章.txt",
+    readUrl: "https://pan.baidu.com/s/1DedOSrdzxZBKPQRJJ9t5eg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tp/",
   },
 
@@ -70400,6 +71254,7 @@ export const bookItems = [
     excerpt: "一次时空错位。 本该前往【一人之下】世界的林仙被系统带到【遮天】宇宙。 面对两个世界悬殊的战力，低级系统10086无比绝望。 林仙露出一丝神秘的笑意，问道：”一起摆烂吗，一起薅主系统羊毛吗？“ 系统10086一激灵，沉声道：“细说。” 林仙指了指叶凡，意味深长道：“跟着叶师傅混，保底仙王境。天帝在前面乱杀，咱们在后面嘎嘎，岂不美哉。” 仙王境：生灭宇宙，万古不朽，真正意义上长生不死，可小规模修改时",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tq_人在诸天，摆烂成帝1-856章.txt",
+    readUrl: "https://pan.baidu.com/s/1QgFabvYcmCb9z5p2L8Nk6g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tq/",
   },
 
@@ -70416,6 +71271,7 @@ export const bookItems = [
     excerpt: "【写过千万字爆款都市文，请放心阅读】重生到互联网行业迅速发展的2001年，成毅突发奇想，打算向全球的互联网大厂收亿点点服（bao）务（hu）费。【初创期的成毅说】：“比尔盖茨说过，谁控制了流量市场，谁就能控制整个互联网。”【巅峰期的成毅说】：“哪家互联网公司敢和贩夫走卒抢饭碗，那咱就干掉它。”【退休期的成毅说】：“不要喊我传统行业守护神，我只是天生反骨。”【墓志铭的成毅说】：“这是我给世界挖的最后",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ts_都重生了谁还正经创业啊1-1060章.txt",
+    readUrl: "https://pan.baidu.com/s/1fdXXroHF3yPoy3cRPX5tIA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ts/",
   },
 
@@ -70432,6 +71288,7 @@ export const bookItems = [
     excerpt: "虽然是前女友买一送一送的廉价穿越票，但只要不做人了，格局瞬间打开，刹那间天高海阔。人类真的是不行，打今日起，咱就是一只珍稀保护魔兽九节狼啦！那么问题来了，作为一只‘濒危魔兽’，开局就在地下室中的一个笼子里，是不是搞错了什么？（九节狼的自我培养之路，全新教程，手把手教你如何在异世界优雅地生活，以及成为一只更凶猛更可怕的魔兽）（ps：现实中的九节狼，学名‘小熊猫’，另有别名‘金狗’‘红熊猫’等，因为这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tu_这只九节狼太凶猛啦！1-946章.txt",
+    readUrl: "https://pan.baidu.com/s/1JPrbgIpQAkOER-EEEeNSbw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tu/",
   },
 
@@ -70448,6 +71305,7 @@ export const bookItems = [
     excerpt: "女朋友和别人跑了……几个月后又回来了，流着泪怀着孕，说那个渣男跑了……让我陪着她去医院，把孩子打了。我说孩子是无辜的，好歹也是一条生命，生下来吧，我养你们娘俩。几个月后，孩子顺利生产下来，是对双胞胎，母女平安，然后……我跑了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tv_人到中年，我每月联系一次十年后1-289章.txt",
+    readUrl: "https://pan.baidu.com/s/1HywxUdUBOA_a_G_QpYQRfA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tv/",
   },
 
@@ -70483,6 +71341,7 @@ export const bookItems = [
     excerpt: "当奥特曼捡到了系统！当奥特曼穿越到了异世界！当奥特曼培养起了神奇宝贝！KONO百里缘哒！什么？你说我不像奥特曼？吃我一记破坏死光！（欢迎加入群聊【雀道天凉啾啾啾群】：749496402；老群被废了，大家进新群吧，难受。本书V群：929343327，一万粉丝值可入，讨论群带截图联系管理或作者君）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_tx_我可能是一只假的奥特曼1-5421章.txt",
+    readUrl: "https://pan.baidu.com/s/1GyrzynQFDh0KkouufSbMtA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/tx/",
   },
 
@@ -70500,6 +71359,7 @@ export const bookItems = [
     excerpt: "杨烨不知道，自己为起号剪辑的老戏骨教科书级表演，竟被上传到了古人面前。恰逢数月前神秘光幕出现，古人早就玩嗨了。袁绍直播炫富，刘备在线哭惨，连孔夫子都在开网课！当【超燃视频皇帝篇】在古人的本土榜单冉冉升起时，祖宗进行曲配上经典台词，影帝级表演顿时让古人们头皮发麻！朱元璋：“妹子你看，咱这台词多霸气，叫太阳站下！叫太阳站下！”朱棣：“我在猪圈里吃了几年的猪食，才把这个天下拿下来？朕什么时候吃猪食了？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ty_曝光帝王扮演者，老戏骨们杀疯了1-157章.txt",
+    readUrl: "https://pan.baidu.com/s/1H-UjXUTfd7Ar3_RlamUE_w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ty/",
   },
 
@@ -70534,6 +71394,7 @@ export const bookItems = [
     excerpt: "陆霄穿越斗罗大陆，刚突破到极限斗罗。 却不料，天幕降临！ 轰！ 【天幕降临，武魂榜！】 【唯有排名在斗罗大陆前列的武魂方可上榜！】 【榜单之上，皆可获得丰厚奖励！】 “看来，我极限斗罗的修为隐藏不住了！” 陆霄看向天空的天幕，叹了一口气。 …… 蓝电霸王龙家族：“我族蓝电霸王龙武魂，乃是斗罗大陆顶级强攻系武魂，必定位列前五。” 昊天宗：“昊天锤天下第一器武魂，必定位列第一。” 唐三：“我身负昊天锤",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ub_斗罗：刚成极限，天幕将我曝光了1-522章.txt",
+    readUrl: "https://pan.baidu.com/s/1q-r-aNyoehiSXW5ZHctqyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ub/",
   },
 
@@ -70551,6 +71412,7 @@ export const bookItems = [
     excerpt: "身份不明的天外来客，带着某个倒霉穿越者的记忆来到了这个世界。在一个流星划过的夜晚，三个原本毫无瓜葛的灵魂和而为一。苍崎青子·Alter如何利用型月宇宙之外的智慧来扭转种种悲剧？型月同人+诸天穿越",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uc_魔法使苍崎青子事件簿1-2256章.txt",
+    readUrl: "https://pan.baidu.com/s/1Qy9627_SIjdUK5Nv64v08g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uc/",
   },
 
@@ -70567,6 +71429,7 @@ export const bookItems = [
     excerpt: "一场航空灾难，让2034年的院士徐川，重生回到了2014年。 在这个国家正艰难发展的时期，他以一己之力将祖国的科技拉上了全球巅峰。 从变废为宝让核废料变成能源开始、再到可控核聚变技术，禁锢祖国发展的能源之路将再无掣肘。 从数学的千禧年难题开始，再到揭开宇宙时空的奥秘，人类的心智在这一刻达到了前所未有的巅峰。 星辰永在，华夏永昌。 这是一个院士重生......一路前行的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ud_大国院士1-1358章.txt",
+    readUrl: "https://pan.baidu.com/s/1Fe__P5uywu5_EdeKobVgZA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ud/",
   },
 
@@ -70584,6 +71447,7 @@ export const bookItems = [
     excerpt: "东汉兴平元年。徐州张昀窝在流民营地中，紧紧盯着面前只能他能看到的聊天屏幕。【大哥，我信了，球球别说了！我知道你不是骗子，你就是我，我前天穿越到三国了，说吧，到底需要我干嘛？】张昀看到对面的回复长舒一口气，飞快输入新的内容：【帮我查查曹操是什么时候杀的边让。】【你再帮我查查袁术手底下都有什么人才？】【对了，典韦和许诸都是什么时候投奔的曹操？】【丞相什么时候去南阳种地的？】【东汉这边怎么做才能量产硝？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uj_从三让徐州开始辅佐刘备1-365章.txt",
+    readUrl: "https://pan.baidu.com/s/1ffL3Amk8Pb2sGT29nj4O4g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uj/",
   },
 
@@ -70618,6 +71482,7 @@ export const bookItems = [
     excerpt: "一般来说，如果非要穿越到美漫里，那么我希望尽量避免DC那种黑暗色调的世界如果一定要穿越到DC，那么起码不要让我穿越到那几个高危城市，比如民风淳朴的哥谭如果一定要让我穿越到哥谭——求求给个系统吧，孩子还想活下去“白手起家系统已加载，请您努力赚钱，勤劳致富。所谓钱可通神，在身无分文之前，您永远有继续的机会。”长出了口气的马昭迪摩拳擦掌，好歹在这危险重重的世界有了个外挂。一个月后。漆黑的蝙蝠展翼飞翔在夜",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ul_白手起家，蝙蝠侠干碎我的致富梦1-1138章.txt",
+    readUrl: "https://pan.baidu.com/s/1bPpVYHolES5bIr1RP_unqg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ul/",
   },
 
@@ -70635,6 +71500,7 @@ export const bookItems = [
     excerpt: "李君穿越平行世界，成了清风观的小道士。平时在网上发发特效视频，卖点自己做的工艺品，桃木剑、护身符啥的贴补家用。一天，沙雕网友在直播间问：“道长，你家桃木剑保真吗？砍诡好用吗？”作为乐子人，李君信口胡诌：“当然保真，每一把我都用掌心雷劈过，砍诡一剑一个不吱声，不好用全额退款，我亲自出山帮你！”本来李君只是一时口嗨，结果没想到，沙雕网友竟然玩真的！而且……他瞎鼓捣的工艺品，真有用！人工电镀桃木剑，砍诡",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uo_直播卖桃木剑，我咋成道祖了？1-356章.txt",
+    readUrl: "https://pan.baidu.com/s/1_J30wVNxFvlXUGc0BZoKFw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uo/",
   },
 
@@ -70669,6 +71535,7 @@ export const bookItems = [
     excerpt: "我叫星野空，姐姐宫子，妹妹日向表哥兼一，表姐穗香邻居阿笠博士，高中同学小埋……喵内天下无敌！日向天下无敌！小埋天下无敌！莲酱天下无敌！……本书又名：《高木：让我将你心儿摘下》《新一：被暗恋到成为情敌，从那场生日开始》《灰原：你好，贝尔摩德，家师李大喜》《伏特加：我当群演的那些年》《赤井秀一：谢邀，人刚醒，在去挖矿的船上》《星野空：升格世界，吾辈义不容辞》《小埋：感谢组织给了我成为干物妹的机会》《宇",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uq_名侦探世界的武者1-2008章.txt",
+    readUrl: "https://pan.baidu.com/s/1sR4oaf8ARE5gvVZ2gV6aJQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uq/",
   },
 
@@ -70703,6 +71570,7 @@ export const bookItems = [
     excerpt: "异梦降临，梦境影响现实，那是让人翘首以待的藏宝地，是趋之若鹜的宝箱。想要财宝？想要超凡？想要改变一成不变的人生？觉得现实的人生过于平淡，试图追求刺激？现实中追寻虚幻的二次元？所有的一切都可以在梦中找到！——白幕：穿越就穿越吧，非要说成做梦，梦比人先穿越了那还是梦吗？你这梦正经吗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uu_梦境穿越时1-1048章.txt",
+    readUrl: "https://pan.baidu.com/s/1lmHtf06iDFY0t3Xah4l_Kg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uu/",
   },
 
@@ -70720,6 +71588,7 @@ export const bookItems = [
     excerpt: "【高定六千多，欢迎品尝，写过精品单菲文《华娱从艺校开始》】梦回2005年，李泽昊自带导演打卡系统，能从各路艺人打卡装备。从天仙身上获得美貌，从女顶流身上获得黑丝，从老师身上获得摄影和指导技能。【叮咚，打卡成功，获得天仙美貌+2】【叮咚，打卡成功，获得摄影理论知识+2】【叮咚，打卡成功，获得黄三石拿手菜式+2】这个圈子有人靠才华，有人靠背景，有人靠钞能力。李泽昊只靠实力！深蓝，加点！本书又名《开局获",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uv_华娱大导演，我能复制明星天赋1-457章.txt",
+    readUrl: "https://pan.baidu.com/s/1GqqbZvNV7Pizi7G9z__nLQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uv/",
   },
 
@@ -70737,6 +71606,7 @@ export const bookItems = [
     excerpt: "“符纸木剑经书，纯古法的驱邪，现在已经不吃香了，就算术士出门，都得带个二百斤的香炉防身，你不练武，抡都抡不起来。 有道是，宁可十年不画符，必须先练硬气功！” “可是，练武跟驱邪，能专业对口吗？” “呵呵，你到四面八方去打听打听，谁人敢说比我更专业？ 没有人~比我~~更懂驱邪！” 早年的楚天舒，还不知自己以后会有多狂野，老实吃药养生，偶尔扎死几只脏东西，盘算下一单多赚点。 直到他唤醒一块令牌。 枪炮",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_uw_噬恶演武，诸天除魔1-1030章.txt",
+    readUrl: "https://pan.baidu.com/s/1vCEsnPChxOnUQsdR5ci4pw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/uw/",
   },
 
@@ -70754,6 +71624,7 @@ export const bookItems = [
     excerpt: "（抽象+喜剧+电竞融梗+后毕加索现代画风）我叫狄午，我重生了！正值2020年电子竞技蓬勃发展的时代，LPL连续两年拿下冠军，“业内专业人士”无不沸腾踊跃期盼着LPL永远的统治。可是谁也不知道，LCK，闪耀着冰蓝色彩的DWG正打算建立自己的王朝，散作满天星的GRF每一位都化作了LCK的星光，年迈的Deft打算自己的“最后一舞”，即将复苏的大魔王！还有失去了至亲的马赛克蠢蠢欲动！LPL危！好在狄午在开",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ux_LOL：我真没想当喜剧人啊1-520章.txt",
+    readUrl: "https://pan.baidu.com/s/1QuixVEYf32XiSQSRlM0hEQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ux/",
   },
 
@@ -70788,6 +71659,7 @@ export const bookItems = [
     excerpt: "《黑神话：水浒》王禹穿越到清风山下，成了一名农夫。开局就用粪叉捅杀了前来清风山落草的“锦毛虎”燕顺。【掠夺命魂：锦毛虎】【获取天赋：虎啸炼精】那么，从今日开始杀穿这乱世吧！兀那妖魔！我要你助我修行！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_v_从黑水浒开始1-388章.txt",
+    readUrl: "https://pan.baidu.com/s/1Q6pOLFSOaXzYwiFAb1ci6g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/v/",
   },
 
@@ -70805,6 +71677,7 @@ export const bookItems = [
     excerpt: "沈砚重生到了1983年的西南农村。什么都好，就是家家户户都很穷，一年到头也就能吃上两三回肉。穷倒罢了，最要命的是沈砚发现，原身不仅妻子离世，还留下了两个嗷嗷待哺的孩子。沈砚一下子成了手忙脚乱的新手奶爸，看孩子、熬米糊、换尿片，忙得一个脑袋两个大。走投无路的沈砚不得不开始写小说挣稿费。起初只想稍稍改善下生活，不想一发不可收拾，竟朝着文豪之路狂飙突进。多年之后，拿遍国内外大奖，成为一代文豪的沈砚回忆起",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_va_1983我的文豪时代1-648章.txt",
+    readUrl: "https://pan.baidu.com/s/148TZg54NevkozEfKYZ_bMw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/va/",
   },
 
@@ -70822,6 +71695,7 @@ export const bookItems = [
     excerpt: "【想看吃糠咽菜的勿进，年代+空间+轻松搞笑+家长里短】穿越六十年代，人住南锣鼓巷。吃糠咽菜？不不不，咱有系统，不存在的！种田，钓鱼，打猎，偶尔收拾一下众禽（戾气不大，没有恨人不死，平淡的年代生活）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vf_四合院：回到六十年代1-685章.txt",
+    readUrl: "https://pan.baidu.com/s/1FycSLIOIQsdmXcki3gheUA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vf/",
   },
 
@@ -70839,6 +71713,7 @@ export const bookItems = [
     excerpt: "「斗一同人文、多女主、无系统、天才流」林默穿越宝可梦世界，却惨遭时空双神大战波及，随后以火流星之姿坠入斗罗大陆，开启第三世人生。六岁觉醒出先天六级魂力与双生武魂：一颗需要十级魂力才能孵化的‘小火龙蛋’，孵化后随魂力提升而掌握各种魂技、亦可随魂力提升而不断进化的强大武魂！以及万年后的版本答案——心脏加血液的黄金本体武魂组合！火龙进化，焚天灭世：【小火龙（lv10）】→【火恐龙（lv30）】→【喷火龙",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vh_斗罗：从武魂喷火龙开始！1-555章.txt",
+    readUrl: "https://pan.baidu.com/s/1HoNKeJ-IZmhVErDJITh21Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vh/",
   },
 
@@ -70856,6 +71731,7 @@ export const bookItems = [
     excerpt: "刚刚穿越，人在五六，天胡开局。大学生毕业，教授岳父以及刚刚结婚的妻子。周志强来到这个时代，感觉他的人生路已经走完一半。另一半路，就是周志强掀起工业突飞之路。从拖拉机到工业母机，汽车、战斗机、核工业、激光武器....每一次工业突飞发展，都留下周志强的名字。——————若干年后，在一次军备武器公开展览会上，记者提问道：“请问为什么我们在这么多武器介绍上，都看到同一个名字吗？”“因为周院士是众多武器以及",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vj_火红年代：成为工业巨擘1-688章.txt",
+    readUrl: "https://pan.baidu.com/s/1YQkGZNZDtjoBP42EvR6Z_Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vj/",
   },
 
@@ -70873,6 +71749,7 @@ export const bookItems = [
     excerpt: "作为英国第22特别空勤团的一员，属于冯建平的传奇人生从海湾风暴开始……“见鬼，酋长，我需要你的解释。”“长官，我跟你说……这两个科威特人给了100万美刀。”“瓦特，开什么玩笑？”什么军事，商业，金融，实业，这有什么区别吗？什么事业，爱情，女人，成年人不做选择，冯建平通通都要……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vn_从海湾风暴开始1-366章.txt",
+    readUrl: "https://pan.baidu.com/s/1jG6V9UsVz0gF0AvJkxiaEQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vn/",
   },
 
@@ -70889,6 +71766,7 @@ export const bookItems = [
     excerpt: "17岁的孤儿沈亢，有一个美好的家庭：一掷千金的妈，人脉广博的爸，人间理想的妹。不过大家不太熟，一家四口下馆子，像买了团购来拼桌的一样。确实不熟，因为这一家四口都是刚从贴吧认识的。一掷千金的妈，人脉广博的爸，人间理性的妹……面对各怀绝技的家庭成员，沈亢压力有点大。还好，沈亢是重生的。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vo_我全家都是从贴吧认识的1-510章.txt",
+    readUrl: "https://pan.baidu.com/s/163gOydfvnDYxstXQwTCDBQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vo/",
   },
 
@@ -70923,6 +71801,7 @@ export const bookItems = [
     excerpt: "穿越到八十年代的港片世界。 随身携带的金矿空间，可以绑定现实世界任意金矿，还能挖到各类宝箱。 林耀辉最喜欢挖鹰酱的金矿，发给自己兄弟，让兄弟们从此都爱黄金。 加钱哥：“别跟我提钱，以后就给我黄金，有黄金啥都可以。” 乌蝇：“食屎啊你，你能和我大哥比，我大哥红包只发黄金。” 林耀辉：“阿乐喊我钓鱼？等我去打造个黄金头盔，现在谁出门钓鱼不带黄金头盔。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vu_港片：我黄金大亨，陈浩南嫉妒1-342章.txt",
+    readUrl: "https://pan.baidu.com/s/1KECvSdIYK3tx9b47ORpeVw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vu/",
   },
 
@@ -70958,6 +71837,7 @@ export const bookItems = [
     excerpt: "穿越到斗罗大陆，意外成为一只萌妹子，先天废武魂，零级魂力，这天崩地裂的开局，该怎么整？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vy_斗罗：从领域开始的女主之路1-741章.txt",
+    readUrl: "https://pan.baidu.com/s/16LUfKifnzyB70Ju3r2Dg7Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vy/",
   },
 
@@ -70975,6 +71855,7 @@ export const bookItems = [
     excerpt: "“玄德公，复汉的唯一希望就是和曹操换家，去夺兖州吧！” 穿越汉末，一睁眼正赶上被曹操灭族，却机缘巧合为赵云救回小沛。 于是边哲果断选择抱紧刘备大腿，入股季汉创业团队。 适逢曹操二伐徐州，吕布趁虚而入，边哲当即劝刘备黄雀在后，奇袭兖州，令曹操无家可归。 历史的车轮就此开始转向… 多年后，当边哲辅佐刘备诛吕灭袁，一统北方，挥师南下讨灭曹孙时。 曹操：孤一生行事无愧，唯害边哲满门悔不当初，今负荆请罪晚否",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_vz_季汉帝师，从教刘备反夺兖州开始1-675章.txt",
+    readUrl: "https://pan.baidu.com/s/12W-n1FsCz_nWfVbGsMfvyQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/vz/",
   },
 
@@ -70991,6 +71872,7 @@ export const bookItems = [
     excerpt: "据某些外星友邦说，想要加入宇宙文明联盟，就要有至少十二个行星级强者的存在。之所以是十二个，只不过是因为地球存在的特殊资源只够供养出十二个。“嘁！没戏，这种好事怎么会砸在我们身上呢？”“听说有个十二种子选手做了绿袍老祖的起源任务，开了蜀山的大型副本，如今一大堆的霸总都进去刷飞剑了。你不试试？”“谢邀，刚刚跳槽，忙着帮老板忽悠傻龙捐J，忙着偷……参考小蜘蛛他爹妈的定向基因培养技术，忙着寻找艾德曼合金给",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_waa_霸总都在刷飞剑，我却成了蝙蝠侠1-743章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZsnpCwNuYLal8HxEL1T9sw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/waa/",
   },
 
@@ -71008,6 +71890,7 @@ export const bookItems = [
     excerpt: "全甲格斗冠军，整天幻想乱世称雄的李则安意外穿越唐末。刚缓过神，朱温军的箭矢已射进上源驿。“大帅莫慌，随我来！”知晓历史走向的李则安化身带路党，领着李克用冲向汴州南门，逃离火海。逃出生天，面对河东节帅的邀请，李则安十分感动，婉拒了。他很清楚，这是熟人桌上见的唐末，接下来是五代乱世，李克用什么都改变不了。他脑海中冒出一个大胆的想法。我来之前五代乱世，我来之后还是五代乱世，那我踏马的不是白来了？既然历史",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wab_唐殁1-561章.txt",
+    readUrl: "https://pan.baidu.com/s/1AgO4iRR4EdlnKRfHhf_0lA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wab/",
   },
 
@@ -71025,6 +71908,7 @@ export const bookItems = [
     excerpt: "冬树意外穿越到宝可梦世界，被炎帝收养并带回天青山。 一开始。 玛夏多：“人类什么的最讨厌了。” 雷公：“人类都是奸诈之徒，不可信任，就算你把他带回来我也不会管他！” 水君：“我们还有自己的使命，可没有时间去照顾他。” 后来。 玛夏多：“谁敢伤害冬树，我将一拳终结他的生命！” 水君：“冬树本就是我们凤王卫队的一员。” 雷公：大猫舔舔。 炎帝：“……”说好的不管呢？ 多年以后，被凤王选中，参与虹之勇者",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wac_人在精灵，开局被炎帝收养1-115章.txt",
+    readUrl: "https://pan.baidu.com/s/1U3R_KEWEOCEXadNAGurAUg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wac/",
   },
 
@@ -71041,6 +71925,7 @@ export const bookItems = [
     excerpt: "重生回到乡下小渔村，成为一名快乐的打野专家，运气好到爆棚。海红斑，大黄鱼，秋刀鱼，黄油蟹，金枪鱼，土龙，大红鳗，应有尽有。竹参，金线莲，红菇等山珍偶尔也能碰到。陈洋和发小，兄弟在打野过程中尝遍各种山珍海味。骑乘有海中金丝雀之称的白海豚。驯服海洋街溜子虎鲸.....",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wad_重生2003小渔村1-1236章.txt",
+    readUrl: "https://pan.baidu.com/s/10yqii4cDCLNLEpK_QHES8g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wad/",
   },
 
@@ -71076,6 +71961,7 @@ export const bookItems = [
     excerpt: "人生，唯美食不可辜负！ 就算穿越诸天了，林溪也同样如此认为。 于是，各个世界的林溪，聚集在真灵空间内，每天都在讨论着不同的美食。 “来吧，和我一起，用美食改变世界！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_waf_同时穿越：舌尖上的诸天1-238章.txt",
+    readUrl: "https://pan.baidu.com/s/1kZEX8JrnSf8tfd0qOq_7zA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/waf/",
   },
 
@@ -71093,6 +71979,7 @@ export const bookItems = [
     excerpt: "白天在赛博世界身为公司社畜惨遭全球猎杀，晚上穿梭末日世界建造、打怪、升级！……林奇穿越赛博世界幸运绑定一扇两界穿梭门。门后是一座末日都市世界，丧尸横行、怪物肆虐。末日世界拥有赛博世界稀缺的非凡资源，非凡力量处于新生状态。掌控一座末日世界，林奇的非凡之路彻底启航。林奇：全球猎杀？我倒要看看，谁才是猎物！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wag_赛博双穿：我有一座末日世界1-467章.txt",
+    readUrl: "https://pan.baidu.com/s/1dADVzRG6vP-m7I54bvt6KQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wag/",
   },
 
@@ -71110,6 +71997,7 @@ export const bookItems = [
     excerpt: "或名：《偏心二十年，我武道成圣你们哭什么！》 星海时代，科技飞跃，巨企林立，机甲盛行，基因改造，古武复苏，魔法再现，又有维度位面世界，与主世界开始交织碰撞，星海人类至此开启了大进化时代！作为家里面不受重视的老二，在边疆征兵召开之际，全家瞒着陆辰，让他成为边疆征兵的的一员。陆辰为求生路，冒险二次觉醒，却觉醒了可进入其他世界的诸天之门！星海漫漫，诸天无穷，世界相交，维度互触，人类进化如火如荼。陆辰孤身",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wah_星界旅徒1-502章.txt",
+    readUrl: "https://pan.baidu.com/s/1P2XKUoVNRrHtrHByakBc_A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wah/",
   },
 
@@ -71144,6 +72032,7 @@ export const bookItems = [
     excerpt: "一条意外发送至三天前的短信，让江然三人打开了修改历史、变动时空的魔盒。 中彩票，考高分，救活死去的学姐，弥补人生遗憾……三人组利用时间机器实现各种愿望，宛若无所不能的神明。 直到某天，一条从未来发来的短信，对他们发出警告！ 至此，隐藏在历史迷雾的秘密开始浮现，时间长河的大门正式打开。 一场天才们尔虞我诈、争夺未来的游戏……就此拉开帷幕！ 【已有12万均订爆款老书《天才俱乐部》，蝉联两届科幻银河奖，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wak_天才游乐场1-273章.txt",
+    readUrl: "https://pan.baidu.com/s/1mQHj-wfsksdYiM7aCSQEWA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wak/",
   },
 
@@ -71178,6 +72067,7 @@ export const bookItems = [
     excerpt: "莫林被人一拳打醒后，发现自己成了个战俘。原以为这是个类似一战爆发前夜的世界，却发现实际情况比自己想得更糟糕。而且为什么我一个帝国士兵，和国际纵队的志愿者成了盟军啊！铁罐头一样的手持剑盾的突击士兵，柴油和魔导混动的装甲骑士，还有随军法师......这一切都在告诉莫林，这个世界有问题，还很大。但他现在要考虑的，是如何在这场号称‘终结一切战争’的战争中，活下来。 本书要素：魔改一战、真男人就要拉大栓、柴",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wan_堑壕大栓与魔法1-613章.txt",
+    readUrl: "https://pan.baidu.com/s/1duoRQe_0AMUpuyGssv3EoA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wan/",
   },
 
@@ -71230,6 +72120,7 @@ export const bookItems = [
     excerpt: "任宁穿到云垂帝国，成了边境重伤垂死的小斥候。孤立无援、身边群狼环伺以及敌军遍布的情况下，他想先安全回国，以及日后出人头地，统领百万大军。前提是：活下去！ps.已有百万完结老书，欢迎阅读。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_war_小兵活下去1-788章.txt",
+    readUrl: "https://pan.baidu.com/s/1x08WfRzaEsNhOjZ1-6_7ag?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/war/",
   },
 
@@ -71246,6 +72137,7 @@ export const bookItems = [
     excerpt: "粉丝千万的颜值网红，重生2004年。 好消息：年轻了20岁。坏消息：没有系统。 好消息：刚上高三。坏消息：摸底考试351。 好消息：家里挺有钱。坏消息：金融危机要来了。 所以…怎么办？陈诺决定去电影学院混个文凭再说。 “一个没听说过的草台班子剧组，怎么就让我得了个影帝.....什么？还要逼我去演神雕侠侣？” ..... 从300写到9000均，多女主慢热文，涵盖华娱韩娱日娱美娱，无毒无副作用。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_was_华娱：重生了，还逼我做渣男啊1-916章.txt",
+    readUrl: "https://pan.baidu.com/s/1rLDhplPMF51i6BVVVqX1wA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/was/",
   },
 
@@ -71261,7 +72153,7 @@ export const bookItems = [
     chapters: "1-328章",
     excerpt: "幻想入侵现实，世界崩坏。寄生兽，食尸鬼，巨人，僵尸接踊而来。拥有着黑暗本质，能够吞噬黑暗物品的封守。在他的眼中，究竟看到了什么？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1GXujW58TKsEwPUQMnrUMgg?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1AuJ4f0XWAZqmbRbzlANqEQ?pwd=vrf3",
     downloadUrl: "/books/m_wat_幻想入侵现实1-328章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wat/",
   },
@@ -71280,6 +72172,7 @@ export const bookItems = [
     excerpt: "综网里不是这样的！！你应该先提升等级，学习技能，打完小怪，最后在跟boss来一场惊险又刺激的决战。 你怎么直接一个召唤物给boss秒了！-----------------综网当中，墨鸣总是能召唤出克制敌人的召唤物！别人在亡灵天灾中绝望挣扎，墨鸣默默召唤出一支太阳骑士团：“圣光啊，净化它们。”别人在巨龙吐息下艰难求生，墨鸣随手打开屠龙者名册：“专业团队，在线服务。”别人集结全服精英对抗灭世魔王，墨鸣",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wav_综网：从召唤师开始挂机刷图1-432章.txt",
+    readUrl: "https://pan.baidu.com/s/1wvLanSf3yBo6jIRuKWsXMw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wav/",
   },
 
@@ -71350,6 +72243,7 @@ export const bookItems = [
     excerpt: "（多女主，不喜勿入）穿越斗罗大陆，林渊获得了日记编造系统，只要写日记就能获得奖励。但系统竟给出了一个疯狂的选项：是否向重要女角色发放日记副本？林渊看着斗罗大陆的各种美女，嘴角微微上扬：“发！不仅要发，我还要给她们剧透！”于是，当一本本《林渊日记》凭空出现时，女主角们的世界观崩塌了。小舞：原来我的身份一早就被唐昊发现了，为的是将我作为唐三的魂环！还好林渊哥哥告诉我了。朱竹清：那个懦夫只会逃避，而在日",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_waz_人在斗罗编日记，女角色们崩坏了1-270章.txt",
+    readUrl: "https://pan.baidu.com/s/1ABdYslqbT9RrCaxwl1yxFg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/waz/",
   },
 
@@ -71366,6 +72260,7 @@ export const bookItems = [
     excerpt: "王道穿越港综世界，开局警校毕业成为靓坤手下，获得情报系统，每日十条情报，每月十条月度情报，，每年十条年度情报。【西九龙海边，坐标xxx，一块岩石下有个油纸包，里面是三把黑星以及若干子弹，这是季正雄藏在那里的，方便他跑路回归时取用】【九龙xx宾馆305房间柜子里挡板处有一块劳力士手表，是某位江湖人士遗留下来的，该江湖人士已经去卖了咸鸭蛋，宿主放心取用】【西九龙重案组最近正为尊尼汪的犯罪集团困扰，陈国",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbb_港片情报王1-425章.txt",
+    readUrl: "https://pan.baidu.com/s/1pUZQ_wqlVf2Y_qhJXJiR8A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbb/",
   },
 
@@ -71383,6 +72278,7 @@ export const bookItems = [
     excerpt: "我能看见别人心底的旅行执念。兄弟惦念贵州山野里十年的旧梦，奖励帅气的车技。顶级明星想回老家吃一顿街头烧烤，奖励天生好声音大厨渴望去看北疆的日落，奖励是顶尖的高端厨艺。老兵只想回西北喝一口风沙，奖励是炉火纯青的格斗术。既然心向远方，何必困在原地？我替不敢出发的人，去他们想去的地方。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbe_我，心愿旅行家！1-473章.txt",
+    readUrl: "https://pan.baidu.com/s/1Q_p_qZNe0sRleEyyLSfHrQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbe/",
   },
 
@@ -71400,6 +72296,7 @@ export const bookItems = [
     excerpt: "【无系统、纯剧情、专业是股票期货坐庄，业余是推进世界科技线。经验可复制，只要你穿越回1891年的美利坚】杰西·利弗莫尔在《股票大作手回忆录》里说：一个人只要不犯错，他会在一个月之内拥有整个世界。现在，拉里·利文斯顿，这个华尔街史诗级空头的异世界美利坚重生者，打算用一生去践行一下大作手这句话。怎么通过华尔街做空美国资本主义；怎么拥有整个世界，怎么获得天量的财富；怎么变成“人民资本家”，怎么样成为两党",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbf_从传奇空头到美利坚资本之神1-621章.txt",
+    readUrl: "https://pan.baidu.com/s/1-sz4HPhXrx2B9HEHzyFcyQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbf/",
   },
 
@@ -71417,6 +72314,7 @@ export const bookItems = [
     excerpt: "被金手指带到吞噬星空世界的白辰，本以为可以和罗城主一样纵横星空，成为宇宙巅峰强者。没成想穿越过程出现了问题，金手指....破碎了？！眼看金手指破碎，没了保护的白辰也即将在时空洪流中消亡，白辰的灵魂在这时却意外的与破碎的金手指融合在了一起，成为了金手指的灵，并附身在了高考考场昏倒的罗峰身上。而为了获得足够能量从而化形脱离罗峰，白辰只能寄托于罗峰这个宿主，帮其变强。.....身为金手指本身的白辰，动漫",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbh_人在吞噬，成了罗峰的金手指1-382章.txt",
+    readUrl: "https://pan.baidu.com/s/1QyfDzn9S-Mlk7sGUrX8nrQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbh/",
   },
 
@@ -71434,6 +72332,7 @@ export const bookItems = [
     excerpt: "意外穿越到玄幻下水道，先天魂力为零，本以为只能碌碌一生，好在天无绝人之路，作为废武魂的门竟然能连通其他世界。为了避免无辜枉死，叶玄穿梭诸天万界，小心翼翼地生存，同时从危险中掌握各种技艺。种田，御兽，锻器......一步步将伟力归于己身，成就无上仙途！“在诸天你叫我小叶我不挑你理，在下水道你该叫我什么？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbl_诸天：开局零魂力，百艺炼长生1-190章.txt",
+    readUrl: "https://pan.baidu.com/s/1LoQvVuhmELqzzsOl1Nk7cA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbl/",
   },
 
@@ -71486,6 +72385,7 @@ export const bookItems = [
     excerpt: "拿到卡塞尔通知书的路明非眼前忽然多出一排文字【上签，隐藏收到卡塞尔学院通知书的事实，一人参与面试，吉】在路明非将信将疑的从了这个签位后。更多的签位如雨后春笋般涌现在了他的眼前。在电影院。【上签，拒绝赵孟华的西装，并提前让诺诺为你准备衣装车架，成为校园传说，吉】在卡塞尔学院。【上签，举报叶胜与酒德亚纪的地下恋情，成为风纪委员会会长，吉】在三峡。【上签，主动与小魔鬼签订契约，获得something f",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbp_路明非在龙族趋吉避凶1-759章.txt",
+    readUrl: "https://pan.baidu.com/s/1vPZn_chw0KTDqpFrEZQ8Nw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbp/",
   },
 
@@ -71519,6 +72419,7 @@ export const bookItems = [
     excerpt: "【变身美少女+系统+单+轻松+半无敌+养怪兽+奈克瑟斯+轻日常+团宠】慕苒穿越到了特摄世界，变身超高颜值的美少女，并且绑定了系统！但是，这个系统似乎有点问题？——PS：无感情线、偏爱养小怪兽、偶尔混杂一些稀奇古怪的小东西（简介无力）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbt_奥特曼：身为客串奈一定很强吧1-701章.txt",
+    readUrl: "https://pan.baidu.com/s/1haeDId_jv5Qnpr-21yVppA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbt/",
   },
 
@@ -71535,6 +72436,7 @@ export const bookItems = [
     excerpt: "明朝末年，西班牙和日本逐渐限制白银流出，明朝自十六世纪初以来的资本流入已经逆转，明朝并存的商品经济与小农经济同时遭受到通货紧缩的冲击。叠加小冰河的影响，一个一个乱世的骨牌不断倒下。崇祯六年十一月，流寇渑池南渡，势如疮疽溃裂而出，席卷中原大地。崇祯七年，肆虐北方十余年的后金军横扫宣大，如入无人之境。立国近三百年的大明王朝风雨飘摇。主人公于此时到来，成为南直隶桐城县一名小小皂隶，故事就从一只腾空而起的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wbu_铁血残明1-620章.txt",
+    readUrl: "https://pan.baidu.com/s/1qIWLFq9VZs1jadxw5wWunQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wbu/",
   },
 
@@ -71570,6 +72472,7 @@ export const bookItems = [
     excerpt: "【帝国版本·界门远征·钢铁纪元】林策穿越成奥索斯帝国皇帝维斯。凭借着‘文明火种’科技，以跨时代火力碾压诸国，结束战争。但此时帝国已经通过极端军事化变成了横推世界的怪物，如同一只即将失控的巨龙。“胜利”之下的帝国，可能比战败时更加脆弱。直到....他激活了那能够穿梭诸天的界门。——艾欧兰斯世界。“当黑夜的流星降落艾欧兰斯大陆，永夏的绿叶将被铁鳞覆盖，群山之中会升起新的太阳，荒原的勇武将在轰鸣中沉默。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wby_什么叫帝国铁幕从天而降？1-111章.txt",
+    readUrl: "https://pan.baidu.com/s/1AEBVbLhYxLQUxlr1dJ7hfQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wby/",
   },
 
@@ -71605,6 +72508,7 @@ export const bookItems = [
     excerpt: "吞噬大舞台，挂小你别来。穿越吞噬星空世界，姬东山成为了银雪候姬天藏的后裔之一，只可惜他天赋平平，修炼到恒星级就到头了。八千岁苦修一无所成，他只能继承了父亲的一颗生命星球养老。本想种种花，养养草，安度晚年，却意外觉醒了金手指，种田万倍返还！“收获清心莲一株，获得冰心莲子一枚。”“收获澜可果实一枚，获得生命果实一枚。”“收获生命果实一枚，获得洛克神水113万立方米。”“培养毁娑巨兽为不朽，获得领域类至",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wc_吞噬星空：种田万倍返还1-538章.txt",
+    readUrl: "https://pan.baidu.com/s/1_otfvO9tfqUZwW2AOm4LcA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wc/",
   },
 
@@ -71622,6 +72526,7 @@ export const bookItems = [
     excerpt: "“请问一下，作为灵异副本通关记录最高保持者，您速通的诀窍是什么呢？”“始终对死亡怀有敬畏之心。”“您的意思是再强的人也会死亡，无论面对什么样的灵异都要谨慎小心吗？”“不，我的意思是——我本来就在找死。”吴亡微笑着割腕后喝下一瓶百草枯转身就走，像是下定了某种决心。再次进入存活率为0%的灵异副本。希望这一次自己能够死掉。……保持良好精神状态的七大优秀品质——勇敢:大不了去死。乐观:那又怎样，反正又死不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wca_不死的我速通灵异游戏1-803章.txt",
+    readUrl: "https://pan.baidu.com/s/16-j9zMWFNBD6DnW0qSTDEw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wca/",
   },
 
@@ -71638,6 +72543,7 @@ export const bookItems = [
     excerpt: "梦回2001年，从青涩走向成熟，从平凡迈向成功，且看重回高中的林宇是怎样在田坛搅动风云，最终成为一代王者的故事......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcb_短跑之路：从高中开始的王者1-485章.txt",
+    readUrl: "https://pan.baidu.com/s/1_Dl_-MOSUpJuiHoxyHDJUg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcb/",
   },
 
@@ -71655,6 +72561,7 @@ export const bookItems = [
     excerpt: "一觉醒来，前世当了四十年守村人的牛憨，成了东汉涿郡的同名樵夫。不过他没感觉有什么不同，依旧每日砍柴，修家具，帮助乡邻盖房。直到十八年后。桃园深处，三位豪杰正欲结拜，誓言荡气回肠。刘备：“匡扶汉室！”关羽：“生死相随！”张飞：“俺也一样！”正当气氛拉满，前来给张飞送柴的牛憨跳出：“加我一个！”刘关张：“你谁？？？”牛憨将背上千斤巨木丢在地上，理直气壮：“你们一个卖鞋的，一个杀猪的，一个打枣的，还看不",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcd_三国：从樵夫到季汉上将1-404章.txt",
+    readUrl: "https://pan.baidu.com/s/1phvVqL_w6IX4UOmESGVTeg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcd/",
   },
 
@@ -71671,6 +72578,7 @@ export const bookItems = [
     excerpt: "【死神之眼：能力类，拥有死神之眼的你将是最伟大的射手，当然，前提是不要有什么灵光一现的点子。】 【御风剑术：能力类，是的没错，拥有御风之力的你就是辣个最快乐的男人。】 【马符咒：道具类，高贵的马儿驱除体内一切外力，让你远离伤痛，那能治疗肾虚吗？】 【钻石镐子：道具类，给我足够的时间，我能挖穿地球！】 …… 洛亚穿越漫威，拥有一个游戏人生系统，只要完成npc的任务，就能获得奖励。 表面上，他是神盾局",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wch_人在漫威抽奖成神1-352章.txt",
+    readUrl: "https://pan.baidu.com/s/1BlrJo17H9SDbpakXoTwajw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wch/",
   },
 
@@ -71688,6 +72596,7 @@ export const bookItems = [
     excerpt: "【公认黛玉人设丰满，描写细腻，为第一女主，适合黛玉党及红楼爱好者阅读】【黛玉女主+金钗互动园子戏＋感情甜蜜细腻+半架空明末历史+尊重原著人设+非种马】【着重黛玉为主的金钗群像，以乱世挽天倾为历史背景，写变革时代中，红楼群芳的风云际会】【非花瓶女主，非无脑后宫，非猥琐男主，非阴谋论，写的是红楼人物介入乱世历史的合理推演】女娲炼石已荒唐，又向荒唐演大荒此系身前身后事，倩谁记去作奇传穿越红楼世界，公府旁",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wci_红楼：重生贾瑞，铁血风流1-429章.txt",
+    readUrl: "https://pan.baidu.com/s/13Stk3nSRCA4gyZvqRepOmA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wci/",
   },
 
@@ -71705,6 +72614,7 @@ export const bookItems = [
     excerpt: "李贤从来没见过刘建军这样的人，说着奇奇怪怪的话，做着奇奇怪怪的事，行事乖张，贪图享乐，沉迷美色……可却又总能料敌先机，未雨绸缪，以自己意想不到的方式，将一切危难都扼杀在摇篮里。 他帮着自己扳倒丘神勣，重返长安，在长安后又拉拢狄仁杰、张柬之，稳固地位，更是在武曌登极、如日中天之际激流勇退，北上练兵，回来后一朝政变，推翻武周，光复李唐…… 这世间好像就没有他办不到的事。 所以，李贤很好奇，刘建军今天又",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wck_盛唐：刘建军今天要干嘛1-359章.txt",
+    readUrl: "https://pan.baidu.com/s/1gCXqkg9vNyEL6dBeGgq0qQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wck/",
   },
 
@@ -71740,6 +72650,7 @@ export const bookItems = [
     excerpt: "【一本有点东西的神豪文】大学毕业不知何去何从的周望，在玩游戏的时候意外开启了“人生之弈”系统，从此生活变成了简单模式。我们无法回到过去，但却总能换个活法。在放纵中成长，在洒脱中前行。……周望：“这一次，老子只做赢家。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcm_财富自由从毕业开始1-921章.txt",
+    readUrl: "https://pan.baidu.com/s/1tOe__7vYci3Gxe0im6UPlg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcm/",
   },
 
@@ -71757,6 +72668,7 @@ export const bookItems = [
     excerpt: "作为一个有名的街溜子，白峰意外地重生了，而且重生的距离还非常远，直接干到了一九八三年。那是一个没有什么商机的年代，对于有家庭的人来说，要怎么把日子过好，这比较伤脑。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wco_重生八三：浪子回头1-2430章.txt",
+    readUrl: "https://pan.baidu.com/s/1O7AnedLLDu3KyuGavpSmxA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wco/",
   },
 
@@ -71773,6 +72685,7 @@ export const bookItems = [
     excerpt: "无名客：“如果你能够将游戏中学到的武功、内功、道法、神通等能力……带入到现实之中，这样的游戏你会玩么？”游戏玩家：“当然会玩，还有这种好事？”无名客：”那如果你在游戏中死去，现实中的你也会跟着死去，这样的游戏你还会玩么？”游戏玩家：“让我考虑考虑——嗯，我应该会玩，只要我小心一点不去惹高等级的怪就好了。”无名客：“那如果这个游戏的难度高到一个村口小怪都能轻松砍翻你，那你还玩么？”游戏玩家：“……”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcr_绝对命运游戏1-701章.txt",
+    readUrl: "https://pan.baidu.com/s/1GQY3bmDtYCyuqjyEG6TgNg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcr/",
   },
 
@@ -71790,6 +72703,7 @@ export const bookItems = [
     excerpt: "穿越漫威，卡尔成了九头蛇死亡实验的耗材，还好系统及时激活，并送给他一个初始化的维度空间。 等一下，这个篮球大小的【亚空间】是什么鬼？ 面对地狱开局，以及不靠谱的系统，卡尔脑洞大开，利用【亚空间】与【无限宝石】玩起了卡Bug… 什么，两颗无限宝石放在一起会发生不祥？拿来吧你！ 于是从那天起，卡尔开始在漫威宇宙里野蛮生长，拉古一下水、给四小贩制定KPI考核、打造乐子人计划、征战各路魔神、吞噬其他维度空",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcs_美漫救世主？我是亚空间邪神！1-913章.txt",
+    readUrl: "https://pan.baidu.com/s/1W9MlZm_8Hvt9yli74gv5qg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcs/",
   },
 
@@ -71824,6 +72738,7 @@ export const bookItems = [
     excerpt: "[本文写作之前，查阅了大量官方资料，部分资料精准到某年某月，请放心阅读】李长安意外穿越到了四合院的世界，面对满院禽兽，李长安只想说：放开那个禽兽，让我来！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcu_四合院：我是驯兽师！1-1439章.txt",
+    readUrl: "https://pan.baidu.com/s/1aqjS7-OIukRnwfmCa1ro9A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcu/",
   },
 
@@ -71841,6 +72756,7 @@ export const bookItems = [
     excerpt: "重生在资本修仙，类人群星闪耀的时代，但陈宇一点都不慌。因为他的挂来了。但谁能告诉我，我只想收割一下你们的负面情绪，这件功德袈裟什么鬼？才华横溢的造梦师，天元的骄傲，高考满分状元，体修天才，伟大的企业主又是谁？陈宇：你们可是害苦了我啊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcw_我是魔修，不是良心资本家1-1323章.txt",
+    readUrl: "https://pan.baidu.com/s/1ENyDV00e-UD0pfpxwrZ4uA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcw/",
   },
 
@@ -71858,6 +72774,7 @@ export const bookItems = [
     excerpt: "本书原名《我在民国种田的日子》 这是一场从种田开始的科技兴国之路！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcx_从民国种田开始科技兴国1-736章.txt",
+    readUrl: "https://pan.baidu.com/s/1jWe2mChUwGIaxM78OnwfGg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcx/",
   },
 
@@ -71874,6 +72791,7 @@ export const bookItems = [
     excerpt: "穿过诸天门后，带着从虹猫蓝兔七侠传中获得的白猫内力，李林在一人之下里学会了逆生三重，谁说逆生三重通不了天？！通不了天我去别的世界还不成吗？秦时明月中，嬴政为什么求仙问道，那是因为看到了我！不良人里，你说袁天罡是天下第一，呵，问过我了吗？诛仙世界里，我三一门才是天下第一玄门！（不止国漫，后续还有其它世界）简介无力，还请观看正文",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wcy_从一人之下当李慕玄叔公开始1-405章.txt",
+    readUrl: "https://pan.baidu.com/s/1RaUdgVHLhvbGVB_pA0kc9g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wcy/",
   },
 
@@ -71907,6 +72825,7 @@ export const bookItems = [
     excerpt: "到账十万亿可是要让我继续当舔狗等等为什么叫“继续”？先不管了该怎么办？在线等很急！！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdb_我真的不想当舔狗了1-2036章.txt",
+    readUrl: "https://pan.baidu.com/s/1RqDB2fw6ZbfVkO0Kk9SwSg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdb/",
   },
 
@@ -71940,7 +72859,7 @@ export const bookItems = [
     chapters: "1-1028章",
     excerpt: "刚在游戏世界屠完龙，罗修下一秒就穿越到了《神之命途》的游戏世界里。魂穿lv.1的同名白板npc，一切回到开服前。唯有罗修一个人知道的是：彼时，审判战争一触即发、猩红狂潮即将席卷、深渊倒悬已然临近；再想想沉睡的凶暴古族、星天之外游弋的堕落世界与侵蚀一切的腐朽神明……罗修表示自己慌得一批。累了，毁灭吧.jpg所幸，前世游戏里屠龙的奖励——创世级道具《深渊圣典》跟着邮箱和自己一同穿越。罗修觉得自己还能再",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1cGptoirrYx8ooewkbd9sJg?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1KoZcVmqtc5F4l0CBcyPjSw?pwd=vrf3",
     downloadUrl: "/books/m_wdd_执掌深渊，从见习神官开始1-1028章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wdd/",
   },
@@ -71959,6 +72878,7 @@ export const bookItems = [
     excerpt: "上帝是公平的，因为他对所有人都不公平，所以因为熬夜赶设计图嘎巴过去的李砚重生了......时尚文——时装设计，超模为主。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wde_从巴黎开始的时尚人生1-563章.txt",
+    readUrl: "https://pan.baidu.com/s/1O0v6sahbvJoKTpHk9qaW-g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wde/",
   },
 
@@ -71975,6 +72895,7 @@ export const bookItems = [
     excerpt: "2545年，陆安的学生冒然展开提取“真空零点能”实验导致“真空衰变”引发宇宙级灾难，让陆安意外重生回到2013年的青年时代。人生重启，陆安以科技再次创业起家。仿生机械义肢、武装人形机器人、固态晶格电池、纳米医疗机器人、低温冷冻休眠、基因抗衰老、可控核聚变、反物质能源……从民用到军工，他推出一系列颠覆性的黑科技产品，成就一个史无前例的超级科技帝国。他带领人类文明冲出摇篮，向地球之外拓展人类的生存边界",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdf_重生2013：超级科技帝国1-620章.txt",
+    readUrl: "https://pan.baidu.com/s/1If_n71woUU0Nh_8105TB0g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdf/",
   },
 
@@ -71991,6 +72912,7 @@ export const bookItems = [
     excerpt: "李延年穿越斗罗大陆，转生成为魂兽水熊虫，从斗罗大陆诞生那一刻起，万古长青！依靠着自身不死不灭的特性，他曾与龙神争锋，戏耍过海神，修罗神杀他不死！雪帝、冰帝都是他的养女，帝天曾拜他为师，古月娜更是尊称他为前辈！无敌的他开启游戏人间的生活，创立海神殿，与初代武魂殿殿主把酒言欢，见证人间帝国盛衰！这般的他，在斗罗大陆上，化身万千，无忧无虑，直到有一天，一道天幕悄然出现，将他曝光！【天幕盘点：斗罗大陆十大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdj_斗罗：我最强魂兽，被天幕曝光？1-249章.txt",
+    readUrl: "https://pan.baidu.com/s/19yWSje58GTUphl4H8p8l0w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdj/",
   },
 
@@ -72007,6 +72929,7 @@ export const bookItems = [
     excerpt: "误入一个知否、梦华录等电视剧混合的世界，曹倬的梦想很简单，靠自己开国元勋之后的身份混吃等死，把华兰、明兰、赵盼儿、张妼晗等等妹子收入府中。但现实是，君王无后，两王争储，朝野内外乌烟瘴气，外患西夏虎视眈眈，燕云还在契丹之手。曹倬不得不站了出来：“我乃当朝国舅、太尉、司徒、中书令、尚书令、陕西五路经略安抚使，河东路经略招讨使、我姐夫是当今天子，我姐姐是当朝皇后。”曹皇后：这站不下那么多人目前融合世界：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdm_人在影综：一切从梦华录开始1-332章.txt",
+    readUrl: "https://pan.baidu.com/s/1clf2HZfkojB7H2BvAnYA8g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdm/",
   },
 
@@ -72023,6 +72946,7 @@ export const bookItems = [
     excerpt: "好消息，穿越了（胎穿），且还是比较伟光正的斗气大陆。坏消息，冰属性，与炼药师有缘无分。何以解忧，唯有开挂！预支功法，预支斗技，预支丹药，直至成帝！陈逍：我的挂不大，但够用。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdn_人在斗破，预支成帝1-449章.txt",
+    readUrl: "https://pan.baidu.com/s/1yD6utPaNwsSHjMrM_tBtNg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdn/",
   },
 
@@ -72039,6 +72963,7 @@ export const bookItems = [
     excerpt: "苏青穿越了，同时穿越诸天万界的他表示他的成就全靠他自己。仙剑世界，他成为了新任人皇。遮天界，他以最快的速度证道大帝。阳神界，他成为了彼岸存在。仙逆世界，他为大天尊。吞噬星空界，他为新任宇宙最强者。永生世界，他证道无上天君，仙王！……这是苏青同时穿越诸天，无敌诸天的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdo_同时穿越：我在诸天证道尊1-900章.txt",
+    readUrl: "https://pan.baidu.com/s/1Bf7X3JtjCI_F6jHu2AVKAQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdo/",
   },
 
@@ -72056,6 +72981,7 @@ export const bookItems = [
     excerpt: "路人：“你屠过龙吗？就灭龙魔导师？”伊德：“我不仅屠过龙，还杀过天龙人！”伊德穿越了，来到了海贼世界，听信了凯老师的话，将霸气修炼到了顶点，误以为超越了一切，结果为了保护奥哈拉，被伊姆的魔法阵与古代兵器干懵了，直接被一炮轰到了妖尾世界。当伊德看到这个世界人均魔法阵后，他就知道来对地方了，直到他遇到了那头比伊姆还‘阴’的黑龙为止。伊德：“我灭龙魔导师，天龙人得死，那头黑龙更该死！”伊德发誓他要做一名",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdq_妖尾：你屠过龙吗？就灭龙魔导士1-213章.txt",
+    readUrl: "https://pan.baidu.com/s/1vOd5pc-Zc_gPiBARuS8E_A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdq/",
   },
 
@@ -72091,6 +73017,7 @@ export const bookItems = [
     excerpt: "【原住民vs穿越者】【半群像文】玩家（穿越者）：你知道吗！组织里卧底超级多！这个，这个，还有那个，全是卧底！玩家（原住民）：……玩家（原住民）：谢谢，现在知道了。他拿出手机，写下【黑麦、波本和基尔疑似是卧底】的邮件，选择收信人——琴酒。————书友群：106751716（基本没啥人说话……）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdw_柯南之我真不是幕后黑手1-527章.txt",
+    readUrl: "https://pan.baidu.com/s/1RK2tDVFePYWLfLwknMD4ww?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdw/",
   },
 
@@ -72108,6 +73035,7 @@ export const bookItems = [
     excerpt: "重活一次，书要好好读，钱要好好挣，生活要慢慢过。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdy_1987我的年代1-952章.txt",
+    readUrl: "https://pan.baidu.com/s/18hd0br2NJq7EUtc5FTFCaQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdy/",
   },
 
@@ -72125,6 +73053,7 @@ export const bookItems = [
     excerpt: "重生日常国产都市综影世界的贺晨，发现自己每个季节能刷新出一种超能力，从此过上了不一样的日常人生。 《鹤算龟龄》：练得身形似鹤形！朕又不是新仙鹤神针的蓝小蝶，岂能将超能力用在省钱上！ 《诸葛之智》：诸葛大力，你那诸葛是母的，我这个诸葛是公的，你那母的遇上我这个公的就不灵了。 各种各样的超能力不断刷新，在这个小欢喜、少年派、匆匆那年、家有儿女、夏洛特烦恼、爱情公寓、致青春、一起同过窗、二十不惑、小时代",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wdz_日常系综影：我的超能力每季刷新1-1880章.txt",
+    readUrl: "https://pan.baidu.com/s/1GzKQUbgXQobaurSqPBmrMw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wdz/",
   },
 
@@ -72142,6 +73071,7 @@ export const bookItems = [
     excerpt: "别名：《二三英雄》《LOL穿越日记》“我叫苏墨。”“一觉醒来，我成了EDG替补上单。”“教练阿布居然叫我赶紧上场。”“刚来就有比赛打，古德古德！”“原来现在是S7春季季后赛，EDG跟RNG争夺决赛名额，且目前EDG1：2RNG。”“草，阿光这个老吊，生死局装病想让老子去背锅！”“我要开摆了！”“等等，金手指来了，叫‘折磨系统’。”“折磨对手或者队友，就能获得奖励？”“豁出去了！”“我无视教练的安排",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wea_LOL：什么叫折磨流选手啊！1-895章.txt",
+    readUrl: "https://pan.baidu.com/s/1i3mTRJ-FyqMat6bicviwBA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wea/",
   },
 
@@ -72159,6 +73089,7 @@ export const bookItems = [
     excerpt: "姜森重生到了十年前的小县城，还自带一个能预见未来一分钟的金手指（可升级，目前每天三分钟）有钱之后，各种女孩子纷至沓来。率真的精神小妹、宝藏洛丽塔女孩、俏皮双胞胎姐妹、县城瑜伽裤、护士小姐姐、知性白富美、傲娇白富美、狐狸精银行女…【看惯了各种高大上的重生文，来看看真正的屌丝重生之后的神豪生活】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_web_来财1-491章.txt",
+    readUrl: "https://pan.baidu.com/s/1Yq6DHcWlVDjcztSUt_uzJw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/web/",
   },
 
@@ -72175,6 +73106,7 @@ export const bookItems = [
     excerpt: "好消息，自己穿越变成一个魔法少女之神，能够让人成为魔法少女。坏消息自己穿越到战锤宇宙。是大远征之前的时间线，而且自己有自保之力，并且能够让人成为魔法少女。“康拉德，你内心有魔法少女的一面哦！”“安格隆，你想成为魔法少女吗？”“荷鲁斯，你成为魔法少女，帝皇会更爱你的。”“洛迦，你信仰神皇，成为魔法少女就可以更好的信仰神皇。”“佩图拉博，你……你怎么这么拧巴啊！你不配成为魔法少女！什么叫你非要成为魔法",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wec_人在战锤是魔法少女之神1-149章.txt",
+    readUrl: "https://pan.baidu.com/s/1zzkc9We-odBO6BItuIsmdA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wec/",
   },
 
@@ -72209,6 +73141,7 @@ export const bookItems = [
     excerpt: "唐文回到1996年，从魔法造船厂开始祸害全世界。业务包括但不限于：渔船、观光艇、气垫船、船坞登陆舰、两栖攻击舰、导弹巡洋舰、武库战列舰、航母、核潜艇等。什么，你问我既然这么逆天，空天母舰能不能造？空天母舰也是舰，太空飞船也是船！当核聚变引擎的光芒照亮半个地球，小伙伴们纷纷流泪：“这哪是民企，这是魔法吧！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wee_说好的民企，空天母舰什么鬼1-1158章.txt",
+    readUrl: "https://pan.baidu.com/s/1HeikiMHXtiGAGbWjnr8LVA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wee/",
   },
 
@@ -72226,6 +73159,7 @@ export const bookItems = [
     excerpt: "（高订过万，均订四千）被主神空间选中，说好攻略恐怖片，没想到意外穿越到神秘复苏世界。开局撞上猛鬼拦路，陆明反手牵走鬼新娘，一同成为红白双煞。自此，陆明便开始在恐怖诸天与神秘复苏之间来回穿梭。神秘复苏世界，执手新娘，补齐拼图，成为异类中的异类、灵异圈的传奇。恐怖诸天一路速通，从水泥灌井到驾驭贞子，从咒怨凶宅到收富江为女儿，各种骚操作层出不穷！直到最后，蓦然回首，陆明才发现这诸天万界，已再无可称量他的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wef_说好攻略恐怖片，神秘复苏什么鬼1-317章.txt",
+    readUrl: "https://pan.baidu.com/s/1LOsAb7r-MsR7F0TOwCmhrg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wef/",
   },
 
@@ -72242,6 +73176,7 @@ export const bookItems = [
     excerpt: "青春啊就是躺平。不想继承亿万家产的我的青春日常，就是玩玩乐高、玩玩单机游戏，看看动画片，修修道的样子，提前进入老年生活。谈恋爱是什么？我林怀恩就是母胎单身，单外边，单一辈子，也不会和你们这些坏女人谈恋爱。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_weg_我的青春修道日常1-792章.txt",
+    readUrl: "https://pan.baidu.com/s/1sENemgPT2LZGhTpReNlMoQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/weg/",
   },
 
@@ -72258,6 +73193,7 @@ export const bookItems = [
     excerpt: "我叫林方，年龄二十二，是一名穿越者，现在的身份是米国堪萨斯州一个农民。今天我在农场里，发现一个坠落的外星飞船，我怀疑自己要捡到超人了。怎么办？好激动！我儿子是超人！我是不是可以躺平了？！等等......怎么飞船打开，系统告诉我这个婴儿是祖国人？！多年后。林方站在农场里，抬头看着天上坠落的又一艘宇宙飞船。我说系统你有完没完了，这些年你送来多少婴儿？要是送个超人我也不说什么了，又是祖国人，又是“灭爸”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_weh_美漫：完蛋，我被父愁者包围了！1-1415章.txt",
+    readUrl: "https://pan.baidu.com/s/1W_sATy1qNTLbu2B991KvrA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/weh/",
   },
 
@@ -72274,6 +73210,7 @@ export const bookItems = [
     excerpt: "当时间指针回拨到共和国工业的襁褓期，陈天宇带着跨越世纪的工业记忆归国。从设计中级教练机开始，他和曾经仰慕的前辈一起重塑共和国的工业骨骼……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wei_航空军工19501-455章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZorY5ymrQqsDCxR2m1FHYw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wei/",
   },
 
@@ -72308,6 +73245,7 @@ export const bookItems = [
     excerpt: "泰昌帝朱常洛登基一个多月离奇暴崩。红丸案余波未平，而移宫案再起！身为帝国皇长子，朱由校看着自己老爹留下一个剑拔弩张、分崩离析的烂摊子，只得长叹一声：和这些虫豸在一起，怎么能治理好大明？此时距离明朝灭亡、山河沦丧只有24年。面对如此地狱开局，易溶于水的天启高呼：今朕继大统，便立志为圣君雄主！外扫四夷，内平党争。变法改革，尽去沉疴。天子守国门，君王死社稷。汉贼不两立，皇明不偏安！【绝对爽文】【智商在线",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wek_皇明1-867章.txt",
+    readUrl: "https://pan.baidu.com/s/1lPJLml2omE2npsVPdNdrpQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wek/",
   },
 
@@ -72342,6 +73280,7 @@ export const bookItems = [
     excerpt: "朝堂之上，衮衮诸公党同伐异，置社稷于不顾。 关山之外，鞑酋铁骑磨刀霍霍，妄图问鼎中原。 张逸一睁眼，便陷此末世危局。 更致命的是，一场天灾席卷陕西，赤地千里，饿殍载道，百姓易子而食... 为了不被饿死，张逸只能随父揭竿而起，向这吃人的世道讨一条生路！ 烽烟滚滚，义军席卷州府！ “四王八公，贾史王薛...” 这些煊赫的勋贵名号传入耳中时... 一个尘封在记忆里的书名，猛的在他脑中再次浮现： 《红楼梦",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wem_红楼：新朝太子1-250章.txt",
+    readUrl: "https://pan.baidu.com/s/14Ho29G92kml6KXNyMy3vKQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wem/",
   },
 
@@ -72375,6 +73314,7 @@ export const bookItems = [
     excerpt: "自方影穿越到这个存在异能的世界之后，就过着普通平凡，却又安宁幸福的人生。他虽然没有异能魔法，却拥有着令人羡慕的家人和青梅竹马——经常出差，但每次回来都会给家人带礼物的父亲；全职主妇，脾气很好性格温柔乐观开朗的母亲；政府文员，较真严肃却会给弟弟妹妹偷偷买“违禁品”的姐姐；内向害羞，却总是喜欢黏着他目光都在他身上的妹妹；从小一起长大，像个假小子一样把他当好兄弟看待的青梅竹马；甚至还有笑容温和，家境富裕",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wep_我的人生模拟器建议我重开1-489章.txt",
+    readUrl: "https://pan.baidu.com/s/1pO_MmWCWwPmPoeRiOh048A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wep/",
   },
 
@@ -72409,6 +73349,7 @@ export const bookItems = [
     excerpt: "有人问，如果“大鸟”拉里·伯德在这个时代打球，会是怎样一番景象？2000年，意外觉醒“大鸟伯德”天赋的杨策在篮坛横空出世：丹子，你在我这里只能排老二。老科，来加入我一起玩吧！邓呆，未来是属于你的~小詹，你是来拿亚军的吗？阿杜，我等下在这里绝杀你！小库，我的三分投比你的准……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wes_你们是来争第二的吗？1-373章.txt",
+    readUrl: "https://pan.baidu.com/s/1Du7aJtvKIq-nIIzNaVYaMA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wes/",
   },
 
@@ -72426,6 +73367,7 @@ export const bookItems = [
     excerpt: "项明魂穿全民领主世界，带着万能经验值强化外挂，走出一条让所有男领主都羡慕的耀眼之路。强化：【木宝箱】——【黑铁宝箱】——【亮金宝箱】【E级天赋·异性吸引】——【A级天赋·凤巢之主】【D级·骑士长·安德莉】——【S级·圣女骑·安德莉】【B级·高等精灵耳环】——【SS级·项明专属·圣女骑的装饰】【C级·宝坊主·欧阳卿】——【S级·宝女神·欧阳卿】……当神座高举、万界共尊，项明在人界厮混躲躲避在疯狂搜寻",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_weu_全民领主，万能经验值强化1-390章.txt",
+    readUrl: "https://pan.baidu.com/s/1zg1SUP9DvF8gZEVMTK7TJg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/weu/",
   },
 
@@ -72443,6 +73385,7 @@ export const bookItems = [
     excerpt: "面对黑化的正联七巨头，韩为没有怂，选择拿命换天赋。虽然我现在弱，但我能模拟试错！将来正联大厅的英雄雕像，必须有我热狗佬，吉米韩一个位置！————————————————无数世界后，韩为靠着『人生模拟器』，混在【无限空间】的任务世界里，无往不利。“你这么强，【无限阶级】却是个新人？！”倒在他面前，一脸绝望的某小队强者，发出了灵魂质问。“新人怎么可能一拳打爆宇宙飞船！”韩为微微一笑。“因为我比你们多一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wev_无限：模拟从DC正义联盟开始1-521章.txt",
+    readUrl: "https://pan.baidu.com/s/1wnyjNfSknDnbRYSmk2iBKA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wev/",
   },
 
@@ -72460,6 +73403,7 @@ export const bookItems = [
     excerpt: "多年以后。看着班级里一群嬉笑打闹的小萝卜头们，坐在讲台后的小南，总会想起那个曾经改变了无数雨之国子民命运的上午。红发的少女戴着雨影的斗笠，握住查克拉忍刀，屹立在雨之国最高的高塔上。她的脚下，是数以万计已无家可归的雨之国的子民百姓。她的头顶，是几十年来未曾照耀过这片土地的温暖阳光。众志成城的声音，从四面八方汇聚而来。“即使首领已经战死，哪怕国家已经破碎.....”“也请您登上雨影的位置，带着大家，继",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wew_火影：我以女儿身纵横忍界1-342章.txt",
+    readUrl: "https://pan.baidu.com/s/1ewpZG9gEb23Vn1B1RT3B3A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wew/",
   },
 
@@ -72477,6 +73421,7 @@ export const bookItems = [
     excerpt: "“预支2021S1mple巅峰实力！”“条件不足，预支失败。“系统的回答声传来，杨雨却意识到一个关键的问题。也就是说，只要条件足够，哪怕这种级别选手的实力也能预支。什么叫做不属于我的力量，我只是先享用成果，后补充过程罢了。……若干年后论坛中对于杨雨的讨论中，有网友无奈地表示：“当年我们只是把他吹成TOP1，没想到他直接成Goat了！“PS：已有万订CS文《CSGO：这个选手太听劝了！》、《CS：才",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wey_CS：坏了，真让他成Goat了1-360章.txt",
+    readUrl: "https://pan.baidu.com/s/1z7t8CFpvkbDcAxUPco9VIw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wey/",
   },
 
@@ -72494,6 +73439,7 @@ export const bookItems = [
     excerpt: "宇智波一族的覆灭真的是罪有应得吗？不，宇智波只是木叶权力斗争下的牺牲品。——宇智波渊。宇智波一族在木叶一直被打压，被忌惮；我要让宇智波之名重新恢复荣耀，我要光明正大的拿回宇智波失去的权力。——宇智波渊。一名穿越者要斩断既定的命运，以宇智波之名向整个忍界发动华丽的叛逆。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wez_木叶：宇智波华丽的叛逆1-483章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZFq1Lltg72kxkmq7jfhJbQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wez/",
   },
 
@@ -72511,6 +73457,7 @@ export const bookItems = [
     excerpt: "穿越成《无耻之徒》里的亚裔老三夏恩加拉格，开局就是地狱难度，但绑定了拼多多系统。当那些南区底层居民还在为下一顿饭发愁时，夏恩已用美金充值，吃喝不愁，当南区居民还在温饱线上挣扎时。夏恩已经靠这经验和系统成了全美大网红！很喜欢看无耻之徒，但找了很多都觉得没写出想看的点，于是萌生了自己写一本的想法，兄弟们不喜勿喷。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wf_美利坚大网红从无耻之徒开始1-539章.txt",
+    readUrl: "https://pan.baidu.com/s/1AS52rt1MU_jtVjn_9bmq_g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wf/",
   },
 
@@ -72528,6 +73475,7 @@ export const bookItems = [
     excerpt: "前世劳碌命的魏乾重回2009年。 再次来到了人生的分叉路口，手握“影帝之路”系统的他决定去前世放弃的娱乐圈好好的混一下。 看着从系统处获得的技能，魏乾觉得这娱乐圈是越来越有意思了。 【身强体健：身体是革命的本钱，大幅度提升宿主的身体健康度。】 【卸力：宿主获得从高处跳下或坠落的时候，减轻冲撞，能更平稳的落地。】 【声线模仿】、【身残】、【格斗】、【攀岩】、【唱功】... ——— 【危险感知：可以在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfa_华娱：不当资本，混什么娱乐圈1-621章.txt",
+    readUrl: "https://pan.baidu.com/s/1YD8ckFHZRmm7-rUcTc2j_g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfa/",
   },
 
@@ -72544,6 +73492,7 @@ export const bookItems = [
     excerpt: "红绳糯米今犹在，不见当年林道人。巧了，赵政不止见到了，赵政还成功拜九叔为师了！注：萌新作者，前来报道，本文糅合诸多港综类恐怖电影，文风略微黑暗……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfb_诸天：一切从拜师九叔开始！1-628章.txt",
+    readUrl: "https://pan.baidu.com/s/1h17lt2i6he_fnO9Ssl1-qA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfb/",
   },
 
@@ -72594,6 +73543,7 @@ export const bookItems = [
     excerpt: "柳父：“志儿，去读书吧。” 柳明志：“我，江南首富长子万贯家财，开玩笑吗？不去，打死都不去。” 柳父：“管家，取训子棍来。” 柳明志：“且慢，牵马来。” 齐韵：“夫君，男儿若无乘风志，空负天生八尺躯，去考状元吧。” 柳明志：“我？娇妻在怀，日子美满，去考状元，我疯了啊。” 新皇：“柳爱卿，北方已定，新军三十万是不是该移交兵部了？” 柳明志：“柳明志奉先帝之命镇守边疆二十七府一百五十二州，愿世世代代",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfe_我娘子天下第一1-4329章.txt",
+    readUrl: "https://pan.baidu.com/s/1UxtmXIZKvLX8_2mXUvnS2g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfe/",
   },
 
@@ -72629,6 +73579,7 @@ export const bookItems = [
     excerpt: "少年被一道紫霄神雷符带着穿越斗气大陆，成为萧家一普通族人养子，以符箓中的九道雷种成就雷道至高……多年以后魂天帝:“不可能，斗帝洞府还未打开，你为何能成斗帝？”萧白:“看清楚，我这是祖境，不是帝境！”ps:不修焚诀，先成祖境，后成帝境，双道合一，飞升大千。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfk_斗破：紫霄雷帝1-600章.txt",
+    readUrl: "https://pan.baidu.com/s/1DxgfQlsyFhjou2gEdmOlaQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfk/",
   },
 
@@ -72645,6 +73596,7 @@ export const bookItems = [
     excerpt: "二十七岁，还能抓住青春尾巴的井高得到一张无限额度的银行卡。精彩的人生就此开始。但他发现，一个真正的神豪不能只会砸钱，而是需要全方位的提升自己…书友普通群：752023611（已满）。书友群2：698470749",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfl_我是如何当神豪的1-1755章.txt",
+    readUrl: "https://pan.baidu.com/s/1G1Iih3F5kpArar_AArc4aw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfl/",
   },
 
@@ -72662,6 +73614,7 @@ export const bookItems = [
     excerpt: "都重生了当然是要上报国家啦！重返末世一月前，苏寻对自己躲起来囤物资的行为嗤之以鼻。朋友你是对人类历史上最大的工业体有误解吗？什么变异兽，我以为减速带呢。丧尸？跟我的陆盾3000说去吧！什么叫秘境被异能者包围了？你说你叫伏羲是吧？过来办一下三代居民身份证！我都还没用力，兄弟你怎么就不活了？集体的力量，小子！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfm_工业克苏鲁不相信末日1-509章.txt",
+    readUrl: "https://pan.baidu.com/s/1qbbOHrmIw-Bqus4uXrzQ9A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfm/",
   },
 
@@ -72679,6 +73632,7 @@ export const bookItems = [
     excerpt: "【首订500到精品，高定8600，低开高走类神豪文，欢迎上车试读，车速有保障】……【收款宝lv.1】 【破解效果：500RMB/天（根据“收款宝”的等级和APP破解版的个数进行提升）】 【升级任务：总资产超过10000RMB】 …… 女友背叛、身形走样、积蓄全无。 林深在他的25岁迎来了人生的重大挫折，眼看未来无望，手机却突然安装了APP破解版。 【收款宝】、【低德】、【大蓝书】…… 每一款破解版",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfn_财富自由，从APP破解版开始1-428章.txt",
+    readUrl: "https://pan.baidu.com/s/1_p7BkTZ0D56dF77R2PTlsg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfn/",
   },
 
@@ -72696,6 +73650,7 @@ export const bookItems = [
     excerpt: "穿越至浩瀚的吞噬星空宇宙，成为金岚宇宙国青鳞族一名父母双亡的普通子弟——青羽。觉醒记忆之日，金手指开启：天赋叠加！每突破一个大境界，全方位天赋翻倍！行星级两倍，恒星级四倍...法则感悟、原力修炼、秘法领悟，全部一日千里！青羽原本想从下位法则入门，却卡在领域九重迟迟无法迈入法则门槛，既如此，那就只好发挥“亿点点”天赋了！凭借天赋翻倍的加持强行参悟，终于迈入法则门槛，但似乎有点不对劲...明明是风、水",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfo_吞噬星空：我的天赋无限叠加1-383章.txt",
+    readUrl: "https://pan.baidu.com/s/1TwLUDcE-7JUEyzK9RTPvkw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfo/",
   },
 
@@ -72713,6 +73668,7 @@ export const bookItems = [
     excerpt: "刚刚穿越，身份是曼联青训的天才，马上英超首秀，但我不会踢球啊，怎么办？在线等，很急！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfp_曼联王储，但不会踢球1-458章.txt",
+    readUrl: "https://pan.baidu.com/s/1cPiWt6yewzRM9YWsM5j08A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfp/",
   },
 {
@@ -72721,12 +73677,13 @@ export const bookItems = [
     title: "弱小友善的我",
     cover: bookCovermwfr,
     author: "君不见",
-    date: "2026-10-17",
+    date: "2026-10-23",
     category: "玄幻",
     status: "连载中",
     chapters: "1-733章",
     excerpt: "没钱、命短、牛马、坐轮椅。 开局集齐了所有的人生debuff，怎么逆天改命？ 刚刚大一，正在一家小IT公司暑假实习的唐一平只抢到了【弱小】和【友善】两个属性，开启了【弱者生存指南】这个弱者专用系统，捡一些强者不屑的技能凑活用这样子。 本以为自己的系统是个废物，自己一辈子只能卷到死了，但他万万没想到，还有“我弱我牛逼”这个选项，debuff也是战斗力。 变弱一念起，刹那天地宽。 直到有一天他发现，这",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
+    readUrl: "https://pan.baidu.com/s/180QElo708wTNU4P4nTyEbA?pwd=vrf3",
     downloadUrl: "/books/m_wfr_弱小友善的我1-733章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wfr/",
   },
@@ -72763,6 +73720,7 @@ export const bookItems = [
     excerpt: "谢庸，一个苦逼的打工仔，一觉睡醒后就发现自己竟然待在了牢里，但这可不是一般的牢里……至于为什么不一般，他也不懂，因为他只是个欧格林猿人。没错，就是军务部钦定的合法亚人类欧格林猿人。同时，它也是人类帝皇手中，面值稍微大一点的钱币。虽然他身陷囚牢，但好在他脑袋里还有个系统。只是想要让身为欧格林猿人的我去读懂系统的提示？！哈哈哈，为什么不让奸奇教我数到数字9呢？什么？我真的能数到9！喂！系统，这次任务完",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wft_战锤40k，我欧格林人诸天行走1-1006章.txt",
+    readUrl: "https://pan.baidu.com/s/1Er4YvSsnq1Uno-slqxBY3g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wft/",
   },
 
@@ -72779,6 +73737,7 @@ export const bookItems = [
     excerpt: "华尔街的一头疯狼，阴差阳错下来到了1978年的霓虹，真性情的他又将遇到怎样的浮光掠影、风华绝代，这一场繁华旧梦中又会迸溅出怎样的火花？ 来自新世纪的猎手，肆意地吹大着那个时代的泡沫，然后冷眼看着那个泡沫“砰”一声的炸开！霓虹或许会因为他失去更多！ 温文尔雅的样貌，却有强盗一样的性情，誓要霸占这昭和美人们的风华，演绎出犹如浮世绘般的情酿，终成为无数霓虹男人嫉恨的存在！ 欲要征服，必先晓之，且翻开此书",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfw_昭和美人录：肆虐在泡沫时代1-1749章.txt",
+    readUrl: "https://pan.baidu.com/s/12fPjQh-tRBIo1K5k6HzfHg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfw/",
   },
 
@@ -72795,6 +73754,7 @@ export const bookItems = [
     excerpt: "话说天下大势，分久必合，合久必分。格林德沃自纽约起势，又败走纽蒙迦德监狱。巫粹党及灭，食死徒与凤凰社分争，又并于魔法部。魔法界方得安宁。 然，天下平安十余载，魔头卷土又重来。若问此祸谁人解，疤面郎君祛厄灾。 “福吉已死，凤凰当立！” “岁在戊寅，天下大吉！” 哈利·波特腰挎格兰芬多宝剑，手捧赫奇帕奇金杯，头戴拉文克劳冠冕，颈系斯莱特林吊坠，身后跟着千百个巫师，果真是好气派。 见了那伏地魔，哈利两行",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wfx_霍格沃茨：从水浒归来的哈利1-306章.txt",
+    readUrl: "https://pan.baidu.com/s/1traToQ-V6NvujRh9V-HmMQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wfx/",
   },
 
@@ -72846,6 +73806,7 @@ export const bookItems = [
     excerpt: "【波纹使者】狄亚，意外穿越到了全职猎人的世界。苏醒以后的他，竟发现自己获得了DIO那能暂停时间的强大替身【世界】。他一定会用这些力量，去探索充满未知与冒险的猎人世界，弥补那些人与人之间的遗憾……吗？利用时停偷吃绮多的巧克力蛋糕？狄亚表示:“狗狗不能吃巧克力是常识，为什么要打我？”在楼梯拐角利用【时间停止】搬动库洛洛，模仿迪奥名场面？库洛洛:“有意思，你是说我在恐惧你吗？”和波克森打牌，用替身偷看她",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wga_全职猎人：我的替身能时停1-434章.txt",
+    readUrl: "https://pan.baidu.com/s/1mF2eAJZu-ZhcIho7rPkPDQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wga/",
   },
 
@@ -72863,6 +73824,7 @@ export const bookItems = [
     excerpt: "洪武一十五年，第一次在金銮殿打自由搏击，就得了亚军...什么？你问冠军是谁？当然是明太祖朱元璋了！“不过你别看我这样，那老小子绝对比我好不到哪去！明儿早朝的时候，他肯定顶着一对熊猫眼！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgb_大明：从进京告御状开始！1-392章.txt",
+    readUrl: "https://pan.baidu.com/s/1-Oe31sNb6rS1HBSPTzzgYg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgb/",
   },
 
@@ -72879,6 +73841,7 @@ export const bookItems = [
     excerpt: "【主神建设流】——论坛提问：如何白手起家，从零开始做一位合格的主神？——来自一位佚名用户的回复：你可做梦去吧。……多年后，该回复被加精置顶！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgd_主神的无限维度1-515章.txt",
+    readUrl: "https://pan.baidu.com/s/1B2wRA6vrE2sYNhh4qiIYag?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgd/",
   },
 
@@ -72896,6 +73859,7 @@ export const bookItems = [
     excerpt: "【大唐+美食+萌娃+轻松搞笑+迪化流】穿越大唐，苏牧只想在御膳房当个劈柴的低调杂役，毕竟前世做国宴主厨太累了。谁知绑定“食神系统”，只要在工作时间偷偷给自己做美食，就能获得神级奖励！于是，苏牧躲在角落里涮火锅、烤羊肉串、做奶茶……直到某天，一只粉雕玉琢的小团子闻着味儿找来了。兕子：“锅锅，尼在七什么呀？能不能给窝七一口？”苏牧无奈，只能开启投喂模式。结果小兕子吃完还要打包！李世民看着兕子带回来的“",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgi_大唐：御膳房摸鱼，被兕子曝光了1-626章.txt",
+    readUrl: "https://pan.baidu.com/s/13-y0AjvjFqWDDADliV2fCA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgi/",
   },
 
@@ -72913,6 +73877,7 @@ export const bookItems = [
     excerpt: "躺平了！人在国企，不卷晋升、不舔领导，就做条硬气咸鱼！ 杀疯了！硬刚PUA、怒怼甩锅侠，“不想进步”就是我的免死金牌！ 摊牌了！老子有的是钱，你当孙子你当狗，我不伺候了！ 两万订完本神作《重生从咸鱼赢起》，不想进步，爽到飞起！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgj_财富自由的我整顿职场1-277章.txt",
+    readUrl: "https://pan.baidu.com/s/1sMeWdlV1RdCDfuVoewvDzQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgj/",
   },
 
@@ -72947,6 +73912,7 @@ export const bookItems = [
     excerpt: "妈妈是经纪人，小姨夫是大导演，小姨是影后，姐姐也是影后，作为西北圈的小少爷，进入娱乐圈的马思辰拿奖拿到手软。自从跟三小只的合约到期后，娱乐圈稍微有点资本的女明星都想将他签到自己旗下。他本人虽然没有再签公司的打算，但并不影响他在这些女明星当中周旋，获得利益。没办法，谁让他实在是太想进步了呢！（从西北圈小少爷，成长为圈内第一大佬！）推荐老书：《人在华娱，开局带资进组》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgm_华娱：我又得奖了？1-193章.txt",
+    readUrl: "https://pan.baidu.com/s/1g6QxtfnZ8cfN9Ul4lTkiYA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgm/",
   },
 
@@ -72998,6 +73964,7 @@ export const bookItems = [
     excerpt: "被假酒坑害，回到了那个年代，种田挣工分非我所愿，低买高卖风险太大，我还是考个大学，先苟着吧。机缘巧合下以漫画入局，八十年代小日子的社畜们，爷爷收下你们的膝盖。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgu_人生激荡四十年1-1415章.txt",
+    readUrl: "https://pan.baidu.com/s/1WeOt9MhTkPZTpW7N_WobmQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgu/",
   },
 
@@ -73050,6 +74017,7 @@ export const bookItems = [
     excerpt: "注意看，这个男人叫小杰。穿越后绑定“嘴炮王者”系统，只要在公众视野语出惊人，引爆舆论热潮，就能将流量热度兑换成舆论点，换取实力提升！从此，南佛罗里达大学的赛场成了乔杰的“嘴炮秀场”。他敢在赛前放话：“对手不过是我扣篮集锦的背景板。”敢在绝杀后轻蔑一笑：“这球，我三岁就会投。”媒体骂他狂妄，球迷爱他嚣张，黑粉与死忠的骂战天天霸榜热搜，而乔杰却借着这股舆论风暴，从NCAA一路逆袭成NBA现象级暴君！当",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgy_NBA：从嘴炮到现象级暴君1-560章.txt",
+    readUrl: "https://pan.baidu.com/s/1NbLu9WVk8PPlSn_e-_vpAw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgy/",
   },
 
@@ -73066,6 +74034,7 @@ export const bookItems = [
     excerpt: "【双职业】、【领主】、【升级】黑暗入侵，全球崩溃，暗幕席卷光明，魔物吞噬人类。林修作为一个外来者，却孤独的在长风要塞守了三年时间，他是长风要塞最后的守卫者，也是最后一位领主。作为领主，环境是脸面，那就建设城市，把城内外种满阳光花。作为领主，工业是基石，那就拉起新时代符能工业的革命。作为领主，得有一点爱好，那就……种树吧。于是，孕育十日的扶桑神树冉冉升起，引导人疯狂的恶魔果实树在黑暗中诞生，与城市共",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wgz_独守要塞三年，我成了长夜领主1-472章.txt",
+    readUrl: "https://pan.baidu.com/s/1hPb_bXyDqMAsK3l7IzlAUA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wgz/",
   },
 
@@ -73083,6 +74052,7 @@ export const bookItems = [
     excerpt: "次元入侵，天地巨变，灵气复苏，蓝星进入一个新的时代。无数小说、动漫中的事物出现在了现实。有人获岩王帝君传承，愿荡涤四方，护浮世一隅；有人获风后奇门，先天领周天，盖周天之变，化吾为王；有人获斩魄刀·冰轮丸，端坐于霜天之上。叶轩穿越而来，本以为能依靠对前世作品的了解在这个世界走在人前，却发现这个世界拥有着他前世所有的作品，一部未少，想法瞬间破灭。无望之际，突获诸天垂钓系统，可以垂钓诸天万界中的宝物、丹",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wh_次元入侵：我能垂钓诸天1-1174章.txt",
+    readUrl: "https://pan.baidu.com/s/1m8tE3TkIzQ9xeCewOu3Zhw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wh/",
   },
 
@@ -73100,6 +74070,7 @@ export const bookItems = [
     excerpt: "【正面战场+大兵团作战+布局流+兵棋对弈】“报告！国内战事已经基本平息，小鬼子完蛋了！”竹石清负手站在巨幅地图之前，抿嘴一笑，抬眸看了眼北面的广阔板块，又低眼盯着东南亚的丰硕土地。最后，他缓缓开口:“准备登陆！”“登陆?”周遭一愣。——“战争还没有停止，我们的旗帜，要插在富仕山头！” 中国不接受投降！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wha_民国：烽火19371-880章.txt",
+    readUrl: "https://pan.baidu.com/s/1TXjg8f2KIHKSc5WyNVOpXA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wha/",
   },
 
@@ -73117,6 +74088,7 @@ export const bookItems = [
     excerpt: "意外穿越到吞噬星空世界的云辰，成为一个宇宙级家族的唯一传人。然而因幼时身中诡异的基因毒素，导致修为进境缓慢，且时刻面临毒素爆发，彻底陨落的风险。原本的联姻对象更是因此直接登门退婚......看着这似曾相识的一幕幕，云辰不由得心中苦笑：“行星级三阶，废物少爷，退婚......好家伙，我这穿越的应该是《斗破星空》才对吧！”“可我的空间戒指里可没有老爷爷啊......”就在他一筹莫展，准备悲愤接受这屈辱",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whc_吞噬星空之人生选择系统1-287章.txt",
+    readUrl: "https://pan.baidu.com/s/1MoMn7nSzsXdIoxLVqIYcGw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whc/",
   },
 
@@ -73134,6 +74106,7 @@ export const bookItems = [
     excerpt: "法庭！刑事命案！血海深仇！徐良穿越2004年，成为一名刑事辩护律师，看着身边被判死刑的委托人，他深吸一口气。从死刑变无罪开始，给这世界一点律师的震撼！............法庭上。“你的意思是，你方委托人犯下故意伤害、故意杀人、侮辱尸体、危害公共安全...这些都是情有可原？”“不，事实是，我方委托人从未犯下这些罪，这些罪名均不构成！”“那依你的意思......”“无罪！”此话一出，全场陷入寂静。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whd_死刑变无罪？谁叫他做侦探的！1-459章.txt",
+    readUrl: "https://pan.baidu.com/s/1NSOCXJ7ePtoRFOoi-37Umg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whd/",
   },
 
@@ -73151,6 +74124,7 @@ export const bookItems = [
     excerpt: "《“平成年代的福尔摩斯”去哪了？》《“日本警察的救世主”已经消失整整两月！》《神奇的破案技巧！新名侦探“沉睡的小五郎”！》看着摊在自己手上的剪报，这下哪怕是龙潭虎穴也得闯一闯了。那个绝望之地，犯罪之城，罪恶之城，侦探之都——米花市。本书又名：如何从零开始，用柯学在3天内建立一个大型跨国组织。世界各地著名科学家离奇失踪，现场只留下一句：——物理学不存在了。【柯南世界】——【型月宇宙（进行中）】建了一",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whe_从柯南开始肝成救世主1-611章.txt",
+    readUrl: "https://pan.baidu.com/s/1Z7kfRMTSSQeUB9_DpRSfUg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whe/",
   },
 
@@ -73167,6 +74141,7 @@ export const bookItems = [
     excerpt: "神婆养鬼索命占田，邪道赶尸寻毒谋财，术士占山为匪血洗村庄，魔婴附身孕妇吃人血肉，恶神蛊惑人心夺人心智……宋亦航穿越到这个鬼片世界里，他所能依靠的便只有手中的杀生极道推衍系统，以妖魔鬼怪之命，推衍出他的无上功业，杀出一条堂皇大道！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whf_从僵综开始极道推衍1-357章.txt",
+    readUrl: "https://pan.baidu.com/s/1CrrAanxEyhBI5yMeLmOolA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whf/",
   },
 
@@ -73184,6 +74159,7 @@ export const bookItems = [
     excerpt: "人在美利坚，从收尸人开始拾取万物词条。 开局遭遇枪击，拾取【实习警员】词条，当场成为一名菜鸟警察。 替枪手收尸，拾取【清空弹夹】词条，“一秒六枪是左轮的极限，不是我的极限”。 替遇难者收尸，拾取【麒麟臂】、【急救医生】、【金牌龙套】 打击犯罪集团，拾取【西装暴徒】、【海景别墅】、【私人飞机】 参议员脑洞大开，拾取【财阀未婚妻】、【千万选票】、【象党候选人】 他是警察、特工、参议员…… 也是天才科学",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whg_苟在美利坚，我能拾取万物词条1-505章.txt",
+    readUrl: "https://pan.baidu.com/s/1OVFK0oDKlti78OqFYyQBOQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whg/",
   },
 
@@ -73201,6 +74177,7 @@ export const bookItems = [
     excerpt: "诡秘之主中的恶作剧之神斗罗大陆的偷盗者斗破苍穹里的盗火人比域外邪族还诡异的天尊……云岚山上，萧炎被逼着结婚。药族举办丹会之日，一朵异火与一枚丹药在药界上空大打出手，下方的一众炼药师只能干瞪眼。远古种族一个接一个消失，幕后黑手竟是萧族。身披黑袍的神秘人站在天上，恐怖的修为引起能量潮汐，他看着萧炎缓缓摘下兜帽，轻声道：“炎儿，我是你爸爸。”萧炎：“？”双帝之战，阿蒙笑着对面前的萧炎道：“小炎子，你能走",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whh_斗罗：从武魂时之虫开始1-1570章.txt",
+    readUrl: "https://pan.baidu.com/s/1pZmFDllyBwnBxehDRnogmw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whh/",
   },
 
@@ -73218,6 +74195,7 @@ export const bookItems = [
     excerpt: "表面繁华的平和都市下，隐藏着不为人知的超凡与神秘。秦陌穿越至此，因毫无特长，被父母安排成为一名普通的档案室管理员。但殊不知，秦陌每过一日，都会自动觉醒一种天灾级异能。于是，他就这样每天上上班，摸摸鱼，顺带随手解决下危险无比的超凡事件。不知不觉间，他忽然发现自己已是屹立在了这个世界的顶点！……若干年后，父母家人无意中发现，看似不成器的秦陌，似乎拥有着众多无法想象的隐秘身份。他是父亲的顶头上司“天宫巡",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whi_我每天觉醒一个天灾级异能1-147章.txt",
+    readUrl: "https://pan.baidu.com/s/1lK2eWc1L3pQZX5tua_Z5LQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whi/",
   },
 
@@ -73253,6 +74231,7 @@ export const bookItems = [
     excerpt: "梁溪，UPMC Presbyterian Shazyside匹兹堡大学医学中心有史以来，最年轻的心胸外科正职教授兼副主任。 亲手送走了对象，又将所负责的病人全部送出医院，开启了自我疗伤的旅途。 初至首尔，似乎就沾染了什么不干净的东西。 晨练看风景，遇见了突发脑卒中的病人。 上午体育馆看球赛，前排小朋友却因意外受伤。 下午好不容易吃个饭，却接到了当地医院帮忙手术的请求... ...... （以《机智",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whn_梁医生在半岛1-1035章.txt",
+    readUrl: "https://pan.baidu.com/s/1hrYfJgByIdhWmzJWMnkvLA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whn/",
   },
 
@@ -73288,6 +74267,7 @@ export const bookItems = [
     excerpt: "穿越成为第十一军团原体，面对被抹杀的未来。宁录被源质“失序之国”选中，从孕育舱开始改变命运，给混沌四神一点小小的震撼。“大远征”，他开疆拓土；“荷鲁斯之乱”，他斩杀叛变原体。帝皇坐上黄金王座后，他作为唯一的原体，更是四处救火。“野兽战争”，他阵斩野兽。“万古长战”，他让叛徒闻风丧胆。无人不赞颂他的忠诚，但这是全部的真相吗？“其实我是在捞好处。什么？你没看出来。有了魔药材料，我就能培养非凡者。贝利撒",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wht_战锤之黑皇帝1-1232章.txt",
+    readUrl: "https://pan.baidu.com/s/1kqMFG_gtcY8bH4N6yAS90w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wht/",
   },
 
@@ -73305,6 +74285,7 @@ export const bookItems = [
     excerpt: "方云重生了，重生到了他高三时的2005年。这个时期的梦幻西游正处于飞速成长期，各种风云人物竞相争锋。“叮——全能辅助系统为您服务！”从课堂上醒来的方云听到脑海中的提示声，整个人已经惊呆了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whw_梦幻西游之重返20051-2175章.txt",
+    readUrl: "https://pan.baidu.com/s/1YlEvugQNRhwz0Oh6Oz4E0A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whw/",
   },
 
@@ -73322,6 +74303,7 @@ export const bookItems = [
     excerpt: "21世纪外卖员苏阳穿越大唐双龙传世界，成为竟陵城地主黄世运家扫地奴仆，开局激活一块【大道简化面板】，只要吃东西就可以获得简化点，用简化点可简化各种武学，让练武变得简简单单！虎煞拳简化=摸老虎，草上飞简化=草地上狂奔，金钟罩简化=搓澡，铁砂掌简化=撸铁砂鸟渡术简化=原地转圈圈大力金刚指简化=戳豆腐，戳面团龙爪手简化=抓鸡/抓泥鳅九字真言简化=念经/哼小曲音律简化=吹口哨，杀生刀法简化=背刀开水烫蚂蚁",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_whx_大唐双龙：简化神功苟成无敌神话1-403章.txt",
+    readUrl: "https://pan.baidu.com/s/1B_P9ANMtXskcSM7kq68zzw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/whx/",
   },
 
@@ -73338,6 +74320,7 @@ export const bookItems = [
     excerpt: "别人穿越，张承逸也穿越，只是他穿越成了金山游侠游戏修改器。为了寻找一个能够容纳他的最强身体，他不断登陆不同的世界、不同的身体、追寻一条无限变强的路。人类、动物、植物、妖魔鬼怪、山脉、或者……星球？这是属于金山游侠的冒险旅程。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wia_在下，金山游侠1-522章.txt",
+    readUrl: "https://pan.baidu.com/s/1EyY2PtdPS2jAlOsYCw6TFg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wia/",
   },
 
@@ -73391,6 +74374,7 @@ export const bookItems = [
     excerpt: "万千世界，诸天纵横！当亿万玩家都在游戏规则里挣扎求生，你已站在维度之上，俯瞰全局。来到1990，当别人都在南下淘金，当二道贩子之时，只有你把目光放在了海外，用格瓦斯撬动了苏联的飞机订单。大清沉沦，殖民大战，当玩家忙着站队争霸，你已经化身石达开，打穿了南洋。明末风云，群雄并起。玩家成为了肆虐历史的伟力，只有你举起了“大明可亡，天下不可亡”的旗号，以铁血重铸汉家河山。水浒仙侠，魔星乱世。一百零八张文身",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wid_真实历史模拟游戏1-638章.txt",
+    readUrl: "https://pan.baidu.com/s/1yt0RcL9yVVk4YORz_zYzgQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wid/",
   },
 
@@ -73407,6 +74391,7 @@ export const bookItems = [
     excerpt: "东汉末年，光和二年春（179年），北方大疫。三月，京兆地震。四月，日食，灵帝大赦天下。太平道人张角在冀州传道，以符水救治百姓。在巨鹿乡里，他目睹税吏催逼，一农户家破人亡，田地尽归豪强。唯留一个孤童，痴痴怔怔，念出晦涩的童谣。张角有所感触，抚摸着童子的结发总角，叹息道：“《太平经》有言：天地不仁，万物皆有承负。天下失德，于是罪及天下。”“你家破人亡，皆是世道所为。而你浑浑噩噩，念诵童谣，犹如附魂，也",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wif_汉末太平道1-93章.txt",
+    readUrl: "https://pan.baidu.com/s/16RFhaWqCmsfXNi3s0i_OLg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wif/",
   },
 
@@ -73424,6 +74409,7 @@ export const bookItems = [
     excerpt: "赵迟穿越游戏异界。天赋能转移数据。3个女英雄只能选1个。女医官很普通，但会治疗。女魅魔身材爆，颜值超高。女精灵腰细腿长，皮肤好。转移数据！女医官变得身材爆炸、颜值超高、腰细腿长、皮肤极好、还会治疗技能。领地数据也能转移！赵迟的领地的加成最高。初始天赋数据也能转移！他转移出一个能大幅强化女下属的天赋。种族数据也能转移！为了配合第二个天赋。他创造了个全部高颜值的新种族。除此以外。能转移植物数据。能转移",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wih_全民领主：从女英雄融合开始1-1184章.txt",
+    readUrl: "https://pan.baidu.com/s/1WSRcLcypeC5xifNDUGmnEg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wih/",
   },
 
@@ -73441,6 +74427,7 @@ export const bookItems = [
     excerpt: "人在死神，正义执行！奈落空穿越死神世界解锁正义系统，镇压罪人即可获得奖励。初代护廷队持护廷之名，行杀伐之实。虚圈大虚弱肉强食，互相吞噬。四大贵族封印分解灵王，只为建立腐朽秩序。友哈巴赫弑父灵王，崩坏三界。在这个建立在原罪基础上的世界，我们应该做些什么？奈落空：“山本，我日……”吾心吾行澄如明镜，所作所为皆为正义！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wij_死神：从镇守无间地狱开始1-419章.txt",
+    readUrl: "https://pan.baidu.com/s/1tcW6n7QCmNKvLrP23ZxVpg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wij/",
   },
 
@@ -73457,6 +74444,7 @@ export const bookItems = [
     excerpt: "重生后，韩书俊只想写几部大爆剧好好赚钱。 直到他遇到…… “S，我发给你的照片姿势好看吗？” “欧巴，拍摄里有几个动作很难，我想亲自跟你对戏……” “书俊xi，我能晚上去你家里聊聊剧本吗？” …… 多年后，韩书俊才发现，如今拥有的一切都源自当初一条陌生的秘密信息。（多女主，主感情线，人物描写细腻，事业线为辅，喜欢看日常的欢迎各位看官入内。）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wik_半岛之秘密信息1-515章.txt",
+    readUrl: "https://pan.baidu.com/s/1SMB_RQQPzWRnlo3-JZFGsA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wik/",
   },
 
@@ -73473,6 +74461,7 @@ export const bookItems = [
     excerpt: "带着一方洞天福地，从繁华后世重回1995年，陈凌无意间建起一处世外桃源……养养鸡鸭，逗狗放牛。闲时进山打猎两三日，忙时田里挥汗金银堆满窝。崖间蜂蜜滋味好，溪中鱼虾趣味多。捕鱼、摘瓜、种果树。窝在世外桃源，领略山水牧歌，田园风光，日出而作，日落而息，其乐亦无穷也……又名《富贵山庄》。温馨提示:前三章稍微虐一点，主要是铺垫，五章好转，后面以种田和日常为主！这是一本不搞事业，只想窝在山村躺平的小说！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wim_我的1995小农庄1-1118章.txt",
+    readUrl: "https://pan.baidu.com/s/13wpQ0T0nm3u4ZtQOZbZLSw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wim/",
   },
 
@@ -73525,6 +74514,7 @@ export const bookItems = [
     excerpt: "我，帝国叛徒！历经巴恩的无情鞭打后，我悟了！穿越来不好好看看这个世界怎么能行？先让赛丽亚那个坏女人把我氪的金吐出来再说！阿拉德历990年。这一年是阿拉德大陆极为特殊的一年，大陆异象频发、使徒降临的消息传遍了整个阿拉德大陆，数百年的铺垫在这一年集中爆发了。同时，巴图也从帝国监狱那个鬼地方逃了出来，来到了“梦开始的地方”。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wiq_DNF：从帝国叛徒开始1-627章.txt",
+    readUrl: "https://pan.baidu.com/s/1b7PH3aOrT5KH74AK_FoxJA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wiq/",
   },
 
@@ -73542,6 +74532,7 @@ export const bookItems = [
     excerpt: "【这是一个海边人上山下海的日常小说！ 没有装逼打脸，只有上山下海的悠闲！ 年代文，日常，赶海，种田，养娃，家长里短，不喜勿入，勿喷！】 叶耀东只是睡不着觉，想着去甲板上吹吹风，尿个尿，没想到掉海里回到了1982年。 还是那个熟悉的小渔村，只是他已经不是年轻时候的他了。 混账了半辈子，这回他想好好来过的，只是怎么一个个都不相信呢…… 上辈子没出息，这辈子他也没什么大理想大志向，只想挽回遗憾，跟老婆好",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wir_重回1982小渔村1-2028章.txt",
+    readUrl: "https://pan.baidu.com/s/1a5JBGeZQYP9NHF-HEvKE4g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wir/",
   },
 
@@ -73559,6 +74550,7 @@ export const bookItems = [
     excerpt: "一觉醒来，北原枫穿越到了火影世界，本以为要作为炮灰中忍渡过一生，没想到觉醒了日记系统！通过记录日记，各种血脉，忍术，神器信手拈来。不过逐渐他发现这个世界的画风怎么越来越奇怪了。为什么宇智波佐助提前觉醒了写轮眼？为什么漩涡鸣人提前掌握了仙鸣模式？宇智波鼬怎么没死还活的好好的？大筒木一族怎么提前降临了？宇智波佐助：这一次，我要当火影！自来也：这一次，我不会死在长门的手上！宇智波鼬：我要帮佐助扫平一切障",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wis_火影：我写日记曝光大筒木降临1-767章.txt",
+    readUrl: "https://pan.baidu.com/s/17COiLHylzn619CBtJSzEiA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wis/",
   },
 
@@ -73575,6 +74567,7 @@ export const bookItems = [
     excerpt: "资深恋爱剧吐槽UP主，终遭报应，被“万界物流”卡车创进了恋爱剧宇宙。所有终极目标都只为攻略女主。不同的攻略方案、不同的爱恨交织。-第一个世界：骄阳似我（单女主）第二个世界：未定并非所有世界都是单女。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wit_影视穿越：我怎么去的都是恋爱剧1-72章.txt",
+    readUrl: "https://pan.baidu.com/s/1SeUQOVTcPOp9Y8H2g3E8BQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wit/",
   },
 
@@ -73592,6 +74585,7 @@ export const bookItems = [
     excerpt: "李沉舟提前得知未来天灾的消息，提前修建避难所。高温，大暴雨，洪水，恐怖山火，全球地震，全球海啸，太阳耀斑爆发，陨石撞击，全球火山大爆发。陨击撞击产生的大量粉尘和火山喷发的大量火山灰和尘埃进入大气层遮挡阳光，加上太阳异常，全球进入冰河废土时代。在各种天灾冲击下，地表已经不再适合人类。极寒末日，降临！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wiu_末世天灾：提前修建避难所1-356章.txt",
+    readUrl: "https://pan.baidu.com/s/1oQ_H0HL4xBsSIQgdoxCj_w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wiu/",
   },
 
@@ -73609,6 +74603,7 @@ export const bookItems = [
     excerpt: "【女主文、单身、进化、日常、会有太空歌剧元素】重生为虫，身陷绝境，面对各种魔幻生物的威胁，白忧艰难的求生自此开始。本来是励志的求生故事，但自从遇到一个诡异的宠物，救了一个人类之后，画风就变的奇怪了？多年后……星海快报——《文明两大黑恶势力分别发布公告，是巧合，还是新一轮阴谋的开始？》秘语教派：遵循神的旨意，寻找名讳为“白”的伟大存在，知情者可私信秘语教派官方网络，教派将全力保证您的个人安全。虚灵帝",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wix_从虫开始的求生日常1-690章.txt",
+    readUrl: "https://pan.baidu.com/s/16G37qc3yxGbJevthTAQD5g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wix/",
   },
 
@@ -73626,6 +74621,7 @@ export const bookItems = [
     excerpt: "为了不让油罐车爆炸，林河抬走了它，提前引爆基因病死亡，转生为一个还在奥特胶囊内的光之幼崽。本以为可以出生在光之国，用更强的力量继续帮助他人，结果出生后发现自己居然不在光之国内！..........刚刚诞生的16米，3100吨的光之幼崽立马就要面临邪恶的饕餮军团攻击，好在幼崽身强力壮加上林河的成年思维，当场反杀饕餮军团，并摧毁了他们邪恶的入侵计划。同时觉醒系统的林河决定不回光之国了，要在诸天继续维护",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wiy_奥特：光之幼崽的诸天之旅1-451章.txt",
+    readUrl: "https://pan.baidu.com/s/1Ir61yKXI1SmZ_fehJeFD2Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wiy/",
   },
 
@@ -73642,6 +74638,7 @@ export const bookItems = [
     excerpt: "东汉末年，皇权崩解。中山靖王之后刘靖，散尽家财，买下渔阳县令之职，毅然踏入这边塞危局。 面对肆虐的乌桓铁骑，他的回应简单直接：寇可往，我亦可往！杀胡首，收流民，纳精兵，他的势力在北疆急速膨胀。 当天下大乱，这位买官上任的汉室宗亲，是选择匡扶汉室，还是告诉世人：天下鼎重，唯兵锋与民心者可居之！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wiz_汉末，从幽州开始争霸天下！1-436章.txt",
+    readUrl: "https://pan.baidu.com/s/1pGEzM---KsqLr_OETJBbwA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wiz/",
   },
 
@@ -73659,6 +74656,7 @@ export const bookItems = [
     excerpt: "双开新书：人在柯南，我真不是渣男——————————森山实里警校刚毕业，就被黑田兵卫拉去谈话，执行卧底任务。森山实里大喜：“让我用美色是接近一个美女？这事情我爱做啊！给我三天时间，保证拿下！”宫野明美？坏了，被这老小子给套路了！正当森山实里想要抢了赤井秀一的剧本，截胡宫野明美时，发现正主已经在墙角蹲着了。——————————————pS1:从五年前，赤井秀一加入组织的时间开始，里面充斥着大量的原创",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wj_柯南：开局截胡明美，卧底酒厂1-740章.txt",
+    readUrl: "https://pan.baidu.com/s/1TRJSDF5ySFBb8bXY3SFX0A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wj/",
   },
 
@@ -73675,6 +74673,7 @@ export const bookItems = [
     excerpt: "赛博武侠、义体修仙，硬核又搞笑的都市争霸恋爱文！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wja_我为了少主威严欺负下老婆没错吧1-733章.txt",
+    readUrl: "https://pan.baidu.com/s/1jXN-5-koNPO4fGruCYo3Eg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wja/",
   },
 
@@ -73692,6 +74691,7 @@ export const bookItems = [
     excerpt: "觉醒木系能做什么？缠绕？治疗？不止！ 万叶飞花的切金断玉，花开顷刻的刹那枯荣，更有掌御风雷的摧枯拉朽！ 但是！ 当一枚集尽精华的种子雏形出现时，你意识到：它最终能结出什么果实，完全取决于你提供了什么养分。 你不必惊叹动物的奇特能力，更无需羡慕异人、变种人、外星人、超人或是各种神等等一切超能力者。 因为他们有的，你都可以有！ ----------------- 《果实大全·漫威宇宙篇》： 以动物为养",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjb_美漫：我能种出超能力1-912章.txt",
+    readUrl: "https://pan.baidu.com/s/1LPNhUfrSc8251-5KnF420w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjb/",
   },
 
@@ -73725,6 +74725,7 @@ export const bookItems = [
     excerpt: "【综女神异闻录5+柯南同人，从世界观到主线都有私设和魔改】【无女主，有酒厂马甲，主角带着P5游戏界面穿进柯南世界，so不会出现P5原作角色】“请问怪盗先生，对新生活有什么评价吗？”“偷心是不可能偷心的，这辈子不可能偷心的。人死的比我救的还快，只能发展下好感，才能维持的了生活这样子。到米花町感觉像回家一样，酒厂里面个个都是人才，说话又好听，我超喜欢这里的。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjf_心之怪盗！但柯南1-1582章.txt",
+    readUrl: "https://pan.baidu.com/s/18snXn_Dl8sYYCv-K9VdNrw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjf/",
   },
 
@@ -73741,6 +74742,7 @@ export const bookItems = [
     excerpt: "9.827就是黄种人的极限？不，这一次我苏神一定要写出最强飞人的……论文。应读者大佬们的要求特意加一条：可能是全网最硬核的短跑流。科学夺舍系统，想看你就来。（大佬们俺这个阔以了不，入大家法眼了不，俺真的尽力了T_T） 书友群：497746492",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjg_体坛之重开的苏神1-2595章.txt",
+    readUrl: "https://pan.baidu.com/s/13YmLU4kDK8HvlbRVsJLHEQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjg/",
   },
 
@@ -73775,6 +74777,7 @@ export const bookItems = [
     excerpt: "陈浮生重生过去，‘一不小心’把‘刘阿姨’给娶了。媳妇怀孕后，为了挣点奶粉钱，他一头扎进了电影届，从此，中国电影史翻开了新的篇章——八十年代，他让电影为国家创汇不再是纸上空谈！九十年代，面对西方的封锁，他带领着中国电影打破层层束缚，依然屹立在世界的舞台上！千禧年后，国门大开，面对来势汹汹的好莱坞大片，他振臂一呼，大吼一声：“关门，放狗！”——书名又叫：《一部电影史，半部有爷名》《用电影守住文艺战线的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjj_1979：孩子她妈是天仙妈1-530章.txt",
+    readUrl: "https://pan.baidu.com/s/10JLdGyjUF4CFa3h3OnTwAw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjj/",
   },
 
@@ -73809,6 +74812,7 @@ export const bookItems = [
     excerpt: "就像到来之时就注定会结束的春天一样，曾经活跃于中长战线的竞马名门走向了衰败。二十世纪的光辉逐渐淡去，未竟的悲愿存留至今。羊蹄山下，传承的火炬悄然易手。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjo_北海道赛马物语1-762章.txt",
+    readUrl: "https://pan.baidu.com/s/1qic8MwXj0YXZlwo3tNtZsQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjo/",
   },
 
@@ -73825,6 +74829,7 @@ export const bookItems = [
     excerpt: "【2025中国作家协会网络文学重点扶持作品】 这一片土地这一些人，就这样活着：有来，有往。有生，有死。 喜、怒、哀、乐、悲、欢、离、合。 清风不语，万物希声…… 那些人，那些事，不近，不远，既旧，又新。 PS：这次是个长篇。 QQ书友群：887043905",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjq_万物希声1-1327章.txt",
+    readUrl: "https://pan.baidu.com/s/16yjOLBeoggWFM66G-ZBOew?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjq/",
   },
 
@@ -73842,6 +74847,7 @@ export const bookItems = [
     excerpt: "八九玄功、诛仙剑阵、大罗金丹……超级血清、凤凰之力、无限宝石……从《我是传奇》开始，易林来往于“影综”和“一世之尊”两个多元宇宙大世界之间。【低武】隐皇堡内，敌人施展武功想要杀死众人，易林举枪直接爆头射杀：“美式居合，小子！”【风云】雄霸脚踏虚空，凌空而立，哈哈大笑：“我雄霸，乃天命所归之人，何人能杀我！”易林御风而来：“哦，真的吗，我不信。”话音落下，云层翻涌，凝聚成一个巨大的手掌，从天而降，向",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjt_我在影综连接一世之尊1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/1tvHevzkFVfhbTmNq4NrSbA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjt/",
   },
 
@@ -73876,6 +74882,7 @@ export const bookItems = [
     excerpt: "李维穿越了，似乎灵魂还传入了99个世界里，成为那些世界的人物。只是身份似乎有点不太对……认为我不是反派，我是主角对照组，这次你看我变主角就行了，林平之表示自己不是反派。我不是反派，我最后洗白了，德拉科马尔福确定的说道。我也不是反派，至少还有的洗，吕良同样觉得自己不是。可爱又迷人的反派角色只是我的伪装，其实我是皮卡丘保护协会的会长。小次郎拍桌自证清白。我是悲情角色啊，和什么反派没有关系，谁会让落榜生",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wjv_同时穿越，我才不是反派！1-607章.txt",
+    readUrl: "https://pan.baidu.com/s/11SjKCDvG7jxKAsT4EBTfmQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wjv/",
   },
 
@@ -73892,6 +74899,7 @@ export const bookItems = [
     excerpt: "平行世界，方恒穿越在一个刚刚自杀的倒霉鬼身上。嗯？什么？这个世界的所有人类都被迫加入游戏？惊！不玩游戏就会被抹杀掉？好家伙，这个自杀的倒霉鬼竟然是前职业玩家？他竟然有最高级别的S级天赋技能-丧尸分身？S级天赋居然还升级了！我的丧尸分身能挂机？【在你离线的这段时间，你的丧尸分身群制作完成了木质伐木斧*720；你获得基础制作经验值：1921】。【在你离线的这段时间，你的丧尸分身群砍伐27821棵树木；",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wk_全民游戏：从丧尸末日开始挂机1-4026章.txt",
+    readUrl: "https://pan.baidu.com/s/1R8ReVu4sbSyDYVR27Hmemw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wk/",
   },
 
@@ -73909,6 +74917,7 @@ export const bookItems = [
     excerpt: "「洛夫克拉夫特」×「伊藤润二」×「铅黄」 【移民通告】 日期：████年██月██日 地点：「██」 申请条件如下： 1.熟记《角落法》。 2.清楚█人、异常以及怪物等相关概念，对██文学有着一定的认知力。 3.身心健康，无传染病，无精神病史。 4.掌握至少一门技术，不限于基建、医学、运动等。 5.家庭移民具有高优先级。 做出您此生最重要的决定，去成为联众国的全新移民，在人类历史的丰碑上刻下属于自",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkc_活人深处1-991章.txt",
+    readUrl: "https://pan.baidu.com/s/119i8bsxJ7WiczZVIq-3DaQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkc/",
   },
 
@@ -73926,6 +74935,7 @@ export const bookItems = [
     excerpt: "谢邀，段位白银，人在S7当EDG替补上单。 但刚穿过来就让我上场打SKT？这河里吗！ 等等，调教系统什么鬼，调教别人成功就有奖励？ 于是，各大选手和解说们迎来了一位恶霸！ —— 《EDG教练日记》 “我是阿布，我意外发现队伍里有个叫陈烈的不正常人类。” “S7世界赛16强生死局，Meiko手伤严重，我让陈烈上场打SKT。” “结果他掏出个辅助泽拉斯，一级挠着头就把对面打野蓝抢了，对线期间边打边喷，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkd_电竞圈恶霸，调教全联盟！1-600章.txt",
+    readUrl: "https://pan.baidu.com/s/1S9HcA8PyHdrm4aVyIc1Dug?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkd/",
   },
 
@@ -73942,6 +74952,7 @@ export const bookItems = [
     excerpt: "感觉现在好像很少有人写外国历史题材了，所以想着自己写一本，有兴趣的给个收藏关注投资谢谢，求订阅 1869年11月11日，冬日的冷风已经随着大西洋的寒风逐步吹向欧洲各地，意大利南方繁华的那不勒斯却丝毫没有受到寒风的印象，达官显贵们都聚在一座繁华的宫殿外等候着，宫殿内翁贝托也焦急的踱着步，不时用余光瞟一眼紧闭的大门，直到大门打开穿着白衣上面被一些血液沾染的护士向他报喜，他才走进屋内看着刚出生的婴儿，请",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkg_意大利荣耀1-922章.txt",
+    readUrl: "https://pan.baidu.com/s/1Uq3yJ_eun_5VLCFvq1hYdg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkg/",
   },
 
@@ -73975,7 +74986,7 @@ export const bookItems = [
     chapters: "1-467章",
     excerpt: "先天之气乃道枢所寄，立命之根，禀父母以成胎元，藏肾精而壮百脉，为长生之基、武魄之宗。然天门难叩，先天一炁杳渺难寻。志坚者，自可运后天之气鼓荡周天，以武淬体，以意引神。形动则气聚，气聚则精生，精生而神完，终以血肉之躯铸通天桥。界海降临，李泉游走于不同的世界，习武若狂，以武入道。 奢靡东京，笼中死斗，食化养精，养化丹田之虎。​国术民国，人祸山乱，屠虎取骨，蕴养玄坛正气。​赛博大明，巨门森列，气血如缕，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1qoYofDVuRv7DCy8ABlu53g?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/14CH2g4d_yfAX4FIFrs24Jg?pwd=vrf3",
     downloadUrl: "/books/m_wkj_为武道狂，拳压诸天1-467章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkj/",
   },
@@ -73994,6 +75005,7 @@ export const bookItems = [
     excerpt: "本书又名：《我嘴臭、暴食、爱散步，但我是个好球员》2008年那个炙热的夏天，足球世界真正的GOAT横空出世。罗斌，十八岁，本科！他像小罗一样盘带、像C罗一样跑位；他像伊布一样射门、像水爷一样争顶；但是，他也像小罗一眼沉迷夜店；像C罗一样处处留情；他也像伊布一样口无遮拦；像水爷一样球场暴力。他的未来，没人清楚。但足球历史上最具争议的天才球员，现已登陆英伦。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkk_什么叫堕落型球王啊？1-534章.txt",
+    readUrl: "https://pan.baidu.com/s/1fTDEX8thSAf8fEiyyAvchQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkk/",
   },
 
@@ -74011,6 +75023,7 @@ export const bookItems = [
     excerpt: "1978年的香江，此时还没有成为第三金融中心,同时这一年的东方好莱坞,也还没有蓬勃发展。而莫名其妙穿越过来的曹家铭，身为底层的他，想要在这个风云激荡的时代，闯出自己的一片天，又该如何操作呢？且看他如何利用自己穿越者的先知记忆，击败一个个对手，然后从叱咤香江开始，再到后来，每一个香江人一说起曹家铭这个人时，纷纷觉得他是香江的骄傲；只是对于世界上的其他人来说，他或许是撒旦的化身........",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkl_人在香江：我惊艳了一个时代1-252章.txt",
+    readUrl: "https://pan.baidu.com/s/1EtoGuYYTiDwDWlKuUm_FcQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkl/",
   },
 
@@ -74027,6 +75040,7 @@ export const bookItems = [
     excerpt: "EVA！高达！环太平洋！大声告诉我，男人的浪漫是什么！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkm_保卫南山公园1-126章.txt",
+    readUrl: "https://pan.baidu.com/s/1Fdp0SyJxBjai3yfzdrj78g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkm/",
   },
 
@@ -74043,6 +75057,7 @@ export const bookItems = [
     excerpt: "我与疯魔周旋久……仍是我！hy【谨以此书，怀念曾经年少气盛的我们，还有陪伴我们走过独孤岁月的女孩们。】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkn_重启全盛时代1-3700章.txt",
+    readUrl: "https://pan.baidu.com/s/1BfmSmylsDGkyTBy8x6lJwg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkn/",
   },
 
@@ -74060,6 +75075,7 @@ export const bookItems = [
     excerpt: "韩凌曾是黑夜的裁决者，子弹即正义，鲜血写判词。 穿越重获新生，那些曾经猎杀的魑魅魍魉，如今变成了卷宗里等待真相的谜题。 精通最高明的反侦查手法，洞悉人性最深的阴暗，破案，更像是对经验的复盘。 昔日屠龙者，今朝执盾人。 我，真不是天才刑警。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wko_我不是天才刑警1-439章.txt",
+    readUrl: "https://pan.baidu.com/s/1gyBwcTkaEBhbY6QhYpNXIQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wko/",
   },
 
@@ -74076,6 +75092,7 @@ export const bookItems = [
     excerpt: "穿越到民风淳朴哥谭市，苏岁觉醒了一项超能力：催眠。不过只能催眠自己……稻草人：“为什么我的恐惧毒气没有一点效果？！你到底是什么怪物？！”苏岁：“严格意义上讲——我是个外星人。”蝙蝠侠：“如此明显的谎话，测谎仪竟然没有任何反应。”苏岁：“那只是一句玩笑而已，你为什么老这么严肃？”毒藤女：“从一开始，你就在假装被我控制？”苏岁：“倒也没有装那么久……”神奇女侠：“真言套索将会使你的谎言无所遁形！”苏岁",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkq_美漫：蝙蝠侠的骗术师1-612章.txt",
+    readUrl: "https://pan.baidu.com/s/17_Ib7orhMrfYxHU5c9tfzA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkq/",
   },
 
@@ -74092,6 +75109,7 @@ export const bookItems = [
     excerpt: "从诺克萨斯的胡萝卜，到艾欧尼亚的精魄；从祖安的嚼火者手雷，到皮城的奶油蛋糕；从弗雷尔卓德冰激凌，到艾卡西亚的桃子；从恕瑞玛的十字饼干，到以绪塔尔巧克力。有一个算一个，都是迪恩在符文之地不可错过的美味！本书又名《吃了符文大剑，锐雯听我心声》《开局一件心之钢，举起拳头就是Duang》《她们都好香啊》第一卷【艾欧尼亚】即将结束。第二卷【双城之战】正式展开！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkt_舌尖上的英雄联盟1-856章.txt",
+    readUrl: "https://pan.baidu.com/s/1clJDb1Id315_ifdt-U8hEQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkt/",
   },
 
@@ -74126,6 +75144,7 @@ export const bookItems = [
     excerpt: "慕墨白，你天生就是一个魔头，杀人放火对你来说，如同吃饭喝水一样简单，你这样的人，就该千刀万剐，死无葬身之地！荒谬，慕某之名便已说明一切，深知本性洁白，却守持混沌之黑，乃是一个脱离低级趣味的纯粹之人！你满手血腥，罪恶滔天，也配谈纯粹二字！慕某是刺客，不就该满手血腥，另外纯粹便是，为达目的可以不择手段，不顾一切，富贵荣华，美色权势无一不视为过眼云烟！慕墨白，你还说自己不是魔头！诸天万界，我以杀伐兴人道",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkw_速通诸天，红尘戮仙1-278章.txt",
+    readUrl: "https://pan.baidu.com/s/1YgLK0AgC61GABkvnr_WO0Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkw/",
   },
 
@@ -74141,7 +75160,7 @@ export const bookItems = [
     chapters: "1-580章",
     excerpt: "岳不群喟然长叹：“你就算是走剑宗的路子也好啊，可是你这……” 俞莲舟痛心疾首：“早知道你会如此，我就将虎爪绝户手传给你了。” 丘处机无可奈何：“孽障！你……你……唉！为师还是帮你去师叔那里讨要《九阴真经》吧。” 九叔扶额摇头：“这本是《炼尸法》，这本是《太阴炼形术》，你别搞你那些破玩意儿了，我怕哪天祖师爷下凡清理门户，连我也一并清理了。” （PS：本书不提供大脑寄存处，看这本书用不上那玩意儿，直接",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/1m3ZnQKfdy1mb3qg7FgGcjQ?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1woHDXVdOCCrgAE8_x1cQzQ?pwd=vrf3",
     downloadUrl: "/books/m_wkx_第四天灾就没有正常的1-580章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wkx/",
   },
@@ -74159,6 +75178,7 @@ export const bookItems = [
     excerpt: "“阿公，大学我就不去念了，还是早点寻事情做吧。” “书哪能不念？做人要有追求，念了大学，就有机会考博士，以后事业上才能更高的追求……” “阿公，我没有啥大追求。早点上班，早点赚钱。” 我叫张大象，是个重生客，现在爷爷让我族谱单开一册……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wky_重生的我超有追求1-407章.txt",
+    readUrl: "https://pan.baidu.com/s/1D2XV_T5DaTaBQbySORSiOQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wky/",
   },
 
@@ -74175,6 +75195,7 @@ export const bookItems = [
     excerpt: "同样的ID，不同的无限，高中生穆翔在读无限同人时误入主神空间。欣然加入无限世界的无限计算与死斗，只是他好像穿错了书……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wkz_无限恐怖之无限逆转1-698章.txt",
+    readUrl: "https://pan.baidu.com/s/1zKS30Jg4RtHQl5ZOBM1rcg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wkz/",
   },
 
@@ -74191,6 +75212,7 @@ export const bookItems = [
     excerpt: "“我说的话可能没人听，但我放的屁一定有人闻得到！”陆绾穿越到东汉末年，本来打算在曹魏中安安静静的混工资，结果被曹军驱赶。愤而决定学习前辈贾诩的打法，先给曹魏整个大活，提升自己的统战价值，然后拿到大魏编制。但很快陆绾就发现坏事了。曹操：“陆绾可恶！我誓杀汝！”刘备：“备德薄才浅，幸得先生指点，此汉室之幸啊！”陆绾：“我真的只想躺平啊！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wla_本来想投魏的，怎么就复汉了呢？1-369章.txt",
+    readUrl: "https://pan.baidu.com/s/1mlxy64VarULiNtAwVIjQmQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wla/",
   },
 
@@ -74208,6 +75230,7 @@ export const bookItems = [
     excerpt: "好消息，穿越了，还是波澜壮阔的吞噬星空。坏消息，一穿越过来就要落地成盒了。陨墨星号华丽大厅内，萧枫看着身中灵魂攻击的神体不禁悲从中来。何以解忧，唯有开挂。无论是法则感悟、还是秘法传承，亦或是基因振幅，弹指一瞬便能领悟。什么叫不属于我的力量？我只不过是先享用成果，后补上过程罢了。汗水那是一滴也没浪费。多年以后，已成浑源领主的萧枫仍在不懈努力的‘苦修中’。“再贷个大道，我要超越浑源！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlb_吞噬星空，呼延博预支成神1-298章.txt",
+    readUrl: "https://pan.baidu.com/s/1BET-GhEqjUe1Q8XI99q1tw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlb/",
   },
 
@@ -74225,6 +75248,7 @@ export const bookItems = [
     excerpt: "一个后世的灵魂闯入了五十年代，熟悉的国家，勤劳的人民，激情的岁月，他的出现会给这个国家带来怎么样的改变。当夏涛知道这世界好像是电视剧里面的世界，看着这熟悉的场景，熟悉而又陌生的人，他的出现是否会改变这里的一切。看一个普通的有志青年，依靠自己的努力奋斗，逐渐影响周围的一切，踏上巅峰，领略一览众山小的风景。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlc_四合院之奋斗的日子1-833章.txt",
+    readUrl: "https://pan.baidu.com/s/1Vb0qaCiUkwaf1KdAFgprHQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlc/",
   },
 
@@ -74260,6 +75284,7 @@ export const bookItems = [
     excerpt: "坏消息：李浩宇穿越到《玫瑰的故事》。更坏的消息：身无分文，还不知道如何回归。不管怎么说，先接近黄亦玫总没错。黄亦玫情报信息：身高：一米七体重：100斤颜值：9分（大明星）学历：央美毕业生7分家庭：父母top2双教授，非独生7.5分评价：相亲市场完美正六边形，择偶权无限高的女生。顺手帮了关芝芝，就被赖上了。真没招惹白晓荷，非要给他生孩子。至于黄亦玫，她怎么也倒追上了。................",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlf_影视：从玫瑰的故事开始1-370章.txt",
+    readUrl: "https://pan.baidu.com/s/1ft_tJPpuyrLHa5TM60QjUw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlf/",
   },
 
@@ -74277,6 +75302,7 @@ export const bookItems = [
     excerpt: "【hy，多人重生，轻松，日常。系统不重要】回到2013年，林慕延原本打算凭借系统赚点小钱，过上咸鱼生活。可他身边的女人却变得越来越诡异……雪莉：缺钱？这张卡给你。想开公司？我帮你租办公楼！郑秀妍：你说，我是不是现在直接退团比较好？林允儿：劳力士，送你。另外，能像上次那样抱我一下吗？朴智妍：oppa，你看我像是离过婚的女人吗？林慕延人都麻了：你们能不能别再重生了啊……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlg_半岛：从躲在idol衣柜里开始1-469章.txt",
+    readUrl: "https://pan.baidu.com/s/1DEyZEtFoxjD7kNjMysxQXA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlg/",
   },
 
@@ -74311,6 +75337,7 @@ export const bookItems = [
     excerpt: "大燕百年盛世之下，暗流汹涌。薛淮穿越而来，本可倚仗翰林探花之身、清流座师庇护、忠烈父亲遗泽，做个舞文弄墨的富贵闲人。一次离奇落水后，他被迫卷入诡谲朝局：朝堂贪腐、盐漕黑幕、皇子夺嫡……每一步都是生死棋局。从翰林笔吏到扬州知府，从盐漕钦差到内阁首辅。他诛豪强、改税制、收军权、压宗室，执掌天下权柄，勾勒盛世画卷。最终御座旁设相国位，龙椅前立议政堂。御笔朱批不过走过场，天子垂拱方为定鼎策。——这天下，从",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlj_相国在上1-849章.txt",
+    readUrl: "https://pan.baidu.com/s/1hG7lPcH2sEnlMjO68UUI7Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlj/",
   },
 
@@ -74361,7 +75388,7 @@ export const bookItems = [
     chapters: "1-514章",
     excerpt: "“六代机的八种方案，其中四种已经得到了验证。”“但我认为还是太落后了！”“我们现在应该立马进行七代机的制造。”“另外...”“八代机也要提上日程。”啊？会议室内一片死寂。...鹰酱：什么叫歼20给一个《三角形》伴飞？鹰酱：这天空中有个《矩形鲨鱼夹》又是怎么回事？鹰酱：什？么？叫？天上有个《噬菌体》在降落？！还有！该死的！告诉我！这《布达拉宫站起来了》，又是什么意思？【以上，根据事实改编】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
-    readUrl: "https://pan.baidu.com/s/18DxnwVDbu7am0QgzSmmunw?pwd=29dr",
+    readUrl: "https://pan.baidu.com/s/1-_uyTSlXnU4IKjURDVY71A?pwd=vrf3",
     downloadUrl: "/books/m_wlm_六代机落后？鹰酱直呼人言否？1-514章.txt",
     sourceUrl: "https://www.min-yuan.com/txt/wlm/",
   },
@@ -74416,6 +75443,7 @@ export const bookItems = [
     excerpt: "【“连入《多元宇宙综合游戏网络》（以下简称《综网》）成功，正在读取版本信息……”】【应推荐者要求，《综网》的版本设定为：万物的强化之无尽词条】【玩家获得限定职业：剑修】....从【极速】到【浮光掠影】从【锋利】到【破灭万法】从【千锤百炼】到【先天至宝】...无尽的高空中，李玄握着强化了无数次的本命灵剑，低头俯瞰着下方的食人魔帝国，一剑挥出...ps：不要去招惹剑修，这群疯子脾气又大，心眼还小…——",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlp_综网的剑修：我的剑都是满级词条1-204章.txt",
+    readUrl: "https://pan.baidu.com/s/1t0xQyVtHZ6yCvwwrNnCd8g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlp/",
   },
 
@@ -74432,6 +75460,7 @@ export const bookItems = [
     excerpt: "穿越游戏异界十年，李昂没有金手指和老爷爷，以一个普通人身姿奋斗成为了世界最强冒险团的核心辅助，功勋卓著，堪称建队基石。然而团队在引入一套全新的功绩算法后，他被定义为吃资源不干事，直接被“优化”。十年努力付诸东流，他的眼前才出现了游戏系统。他决定重组一个专业性高，执行力强的冒险团重回巅峰。这时候在他面前出现的是：身负天命的剧情女主、与魔性之花共生的淑女、不守戒律的怪力圣骑士、召唤炼狱军队的弓手——等",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlq_退队，然后捡到问题美少女1-1002章.txt",
+    readUrl: "https://pan.baidu.com/s/1yjK_CDsLvTgkzpC3d3puPQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlq/",
   },
 
@@ -74448,6 +75477,7 @@ export const bookItems = [
     excerpt: "总之岁月漫长，然而值得等待。林年等了十六年，等到了卡塞尔之门的召唤，等来荒诞无稽、热血放纵的青春。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlr_没钱上大学的我只能去屠龙了1-2185章.txt",
+    readUrl: "https://pan.baidu.com/s/1tUqcwLwfSbpckeLVBriJsw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlr/",
   },
 
@@ -74465,6 +75495,7 @@ export const bookItems = [
     excerpt: "【无敌文】+【系统文】+【末世文】200年后的未来时代。林星海获得系统，横行末世，碾压一切敌。碾压一时爽，一直碾压一直爽。叮！获得血气之力+1叮！获得基因优化+1%叮！获得枪械技能精通。PS：由于是爽文，主角会一路横推，不会压抑，也不是黑暗文。【漫画版权已售出，质量有保证，请放心阅读。】【查看方式，打开起点APP，进入作品详情页，拉到最下方的版权改编，就可以看到漫画改编的图标。】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wls_我从末世开始无敌1-1546章.txt",
+    readUrl: "https://pan.baidu.com/s/1qcxzuPw9I1sdIpqbDoFJDw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wls/",
   },
 
@@ -74481,6 +75512,7 @@ export const bookItems = [
     excerpt: "【全职高手同人】【单女主唐柔】【嘉世战队】【七期选手】“我不要一叶之秋，我要暗无天日。”后来有人说：嘉世前三个赛季是斗神叶秋建立的王朝，而从第八赛季开始虽然是双神齐手，但却是属于修罗莫策的时代。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlt_全职：叶修懵了，怎么踢刘皓了？1-687章.txt",
+    readUrl: "https://pan.baidu.com/s/1znmFjilf0EGVG_KygX4NhA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlt/",
   },
 
@@ -74516,6 +75548,7 @@ export const bookItems = [
     excerpt: "【铭记历史，缅怀先烈，奋勇前行——纪念抗战胜利80周年征文三等奖作品】警队画像师沈逸意外回到了民国那个风起云涌的年代。 一朝穿越，沈逸发现当自己触摸到别人的时候竟然可以随机读取到他们的记忆。 抓间谍、杀日寇、参与重大事件，沈逸将在这个时代谱写属于自己的谍战传奇！ ———————— 你的名字无人知晓，你的功勋永垂不朽！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wlz_民国：我，谍战之王1-894章.txt",
+    readUrl: "https://pan.baidu.com/s/1RPW7t5qg86DcHMAKMX_Fdw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wlz/",
   },
 
@@ -74532,6 +75565,7 @@ export const bookItems = [
     excerpt: "古辛穿越了，梦想是成为一个传奇性的魔法卡牌制造师，所以他开了一家蓝星卡牌店。 “古辛老板，这张场地魔法卡【光之金字塔】，它有什么效果？” “对黑暗生物特攻，对光系魔法有增益？唔，不适合我啊……” “等等，你说可以在【光之金字塔】内变成光是什么意思？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wm_谁说我做的魔法卡牌有问题？1-854章.txt",
+    readUrl: "https://pan.baidu.com/s/1IU5Us72pldfkiVGWHYQpMw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wm/",
   },
 
@@ -74549,6 +75583,7 @@ export const bookItems = [
     excerpt: "大明1627年，生铁是9文钱/斤，小麦是0.7两/石，粟米0.5两/石大明1627年，中央税收约1000万两白银+400万石漕粮。地方上的均徭银、民壮银、里甲银，驿站银等收入，每县约合1W~2W白银大明1627年，人口约为1.5亿~2亿，离满清的4亿还有很大距离。北直、河南、山东大量土地抛荒，湖广、云贵、四川更是远未到开发极限。大明1627年，陕西连续三年风调雨顺后，终于开始在本年略微小旱。整体上",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmc_大明王朝16271-377章.txt",
+    readUrl: "https://pan.baidu.com/s/1MbBFYnePrwAn2EZsyOe7aQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmc/",
   },
 
@@ -74584,6 +75619,7 @@ export const bookItems = [
     excerpt: "知识即权柄，机械即军队。穿越星海，方正君携带游戏模板，成为了最烧钱的职业——机械师。从维修一台破烂的机车，到徒手搓出机械神祇，他的力量来源于“氪金”与“肝经验”。当帝国与联邦争夺疆域时，他的钢铁洪流已漫过星空。然而，让众人愕然的是，那位端坐于王座之上的存在，其本身的铁拳竟比万千机甲更为恐怖——这真的是机械师？！宇宙公约将其列为最高威胁，称其为“机械暴君。”方正君表示强烈反对，他只不过是多“肝”了亿",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wme_机械暴君：从维修工开始1-310章.txt",
+    readUrl: "https://pan.baidu.com/s/1Hh5tv5uPQumnjjMOaSNJ6Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wme/",
   },
 
@@ -74600,6 +75636,7 @@ export const bookItems = [
     excerpt: "穿越一遭，却被说成根骨太差，练不了上乘刀法。好在觉醒了系统。这之后，名气值可以兑换技能点，技能点可以直接加，这功夫谁练的过他？武侠之旅，从民国江湖开始。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmf_诸天武侠：从民国江湖开始1-501章.txt",
+    readUrl: "https://pan.baidu.com/s/1UcUpm1jTEEaoYjPt6v-IJg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmf/",
   },
 
@@ -74617,6 +75654,7 @@ export const bookItems = [
     excerpt: "综武世界，群雄汇聚，传奇故事就在身边上演。 兴云庄中梅花盗，极乐楼里探银票，武当山上百岁宴，御剑山庄赤龙啸…… “这个世界的确已经足够有趣，但我觉得还能更有趣一些！”周明说道。 于是…… “木道人已经死了，你挑的嘛张真人！现在，叫我琴酒！” “你们听说过，七剑的传说吗？” “我今天就要带她走，我看哪个敢拦我？！” “贫僧法海，自西天大电音寺取经而归，诸位，可愿听我讲经说法？” 一开始，周明只是想要",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmg_综武：憧憬成为幕后黑手1-704章.txt",
+    readUrl: "https://pan.baidu.com/s/1yeyHim8MDisxDRWYcHQwbg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmg/",
   },
 
@@ -74652,6 +75690,7 @@ export const bookItems = [
     excerpt: "夏元的生活并不理想，活了28年的他，还是一无所有，在一次公司倒闭后，原本打算回到老家考个公务员了此余生，就在这时系统面板出现了，只要消耗体力就能加点。公务员那是什么？不好意思，不熟。于是他转身投入到工地上的搬砖大业中，从此他一步步变强。许多年以后再回头看时，曾经所追求的金钱名利，不过唾手可得。曾经叱咤风云的时代浪潮儿，熟悉的亲朋好友一个个也都已老去。而他仍旧青春依旧，向着超凡之路不断前进。【ps：",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmj_我缔造了超凡时代1-1130章.txt",
+    readUrl: "https://pan.baidu.com/s/1_ObIidzwHGcV2085TsQOeQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmj/",
   },
 
@@ -74668,6 +75707,7 @@ export const bookItems = [
     excerpt: "-穿越到《星球大战》世界，接管一艘来自《家园》的母舰，大家还管我叫管理者……-母舰数据库里面居然有各类科幻游戏的科技，《星际争霸》、《太阳帝国的原罪》、《光环》、《质量效应》、《EVE》、《群星》，哦，居然连这些游戏里面的人物都有……-我控制不住自己的情绪，黑暗面的原力影响着我，于是我成了黑暗尊主达斯-普雷格斯的徒弟……-要想在战争当中存活下来，我必须做到太多事情，我给自己的人民起名第四天灾，因为",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmo_帝国从第四天灾开始1-2988章.txt",
+    readUrl: "https://pan.baidu.com/s/1ud3g0ozYWpy6ScV_Dyfo-w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmo/",
   },
 
@@ -74702,6 +75742,7 @@ export const bookItems = [
     excerpt: "“我市医院发生一起恶性事件，一名患者劫持医护人员，正在与警方对峙......”杨逍关闭电视机，下一秒，一通电话打了过来，“儿子，快把医生放了，外面都是警察，你逃不掉的！”像是为了印证女人的话，外面的警笛声一声高过一声，走廊里也有动静。“假的，都是假的，这是噩梦世界，不然为什么我剪断了电话线，你这通电话还能打进来？”杨逍盯着垂落在地的电话线，脸色狰狞。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmq_噩梦使徒1-1249章.txt",
+    readUrl: "https://pan.baidu.com/s/12-icdz6ilxcUr_AwkqWfqg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmq/",
   },
 
@@ -74719,6 +75760,7 @@ export const bookItems = [
     excerpt: "赫尔佐格大怒，指向漆黑的狂猎将军:“他是路明非！”又看向一边的圣殿骑士最高大师:“他是路明非！”接着质问另一边端坐在抛瓦椅上的魔剑士:“你也是路明非！难不成我也是路明非？””这还有什么路明非我应该认识吗？”他再次质问。路过的摆烂衰仔看了他一眼，喵了一声，给了他一闷棍。为了给平行世界的自己擦屁股，路明非不得不踏上了和他们斗智斗勇的道路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmr_还有什么路明非我应该认识1-319章.txt",
+    readUrl: "https://pan.baidu.com/s/1Cpw7xaCr3cIf3OLCaFRUHA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmr/",
   },
 
@@ -74736,6 +75778,7 @@ export const bookItems = [
     excerpt: "来历不明的穿越者谏山幸，因为和纲手的亲密关系，避免了绳树必死的结局……但却不曾想到代价就是自己。好在及时刷新的【技能】让他重新来过。第一周，他的目光能够逐渐穿透眼前的物质，为了避免辣眼睛，他只能多以45度角仰望天空……第二周，他看到每人都顶着一个数字。不过与探究这些数字的意义相比，他觉得这个能力有一个另外的用法……那边那位旗木朔茂先生，你的确擅长隐蔽，但你头顶的数字是在太显眼了！！指！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmt_火影：我的忍术每周刷新1-553章.txt",
+    readUrl: "https://pan.baidu.com/s/1UwNVexQgObdhmSZJosSbdQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmt/",
   },
 
@@ -74753,6 +75796,7 @@ export const bookItems = [
     excerpt: "目前在《繁花》一个普通人穿越影视世界，逐渐超越自我，红尘炼心的故事，不狗血，不虐主。 经历过：《曾少年》《请回答1988》《欢乐颂》《乔家的儿女》《流金岁月》《小欢喜》《知否》《去有风的地方》《都挺好》《致青春》《风声》《匆匆那年》《三十而已》《春风十里不如你》《司藤》《左耳》后续世界：《正阳门下》《咱们结婚吧》《梦华录》《跑女战国行》《大江大河》……(先后顺序未定)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmu_影视世界从曾少年开始1-943章.txt",
+    readUrl: "https://pan.baidu.com/s/1jl2yfgoX3Rkp5egnf6IrXg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmu/",
   },
 
@@ -74769,6 +75813,7 @@ export const bookItems = [
     excerpt: "攻略影视世界，从“三十而已”世界开始……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmv_从三十而已开始的影视攻略1-2041章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZnZvSfL_7il26lJVDScwfA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmv/",
   },
 
@@ -74785,6 +75830,7 @@ export const bookItems = [
     excerpt: "1314赛季，穆里尼奥重回自己忠诚的斯坦福桥1314赛季，弗格森一手缔造的红色帝国大厦将倾；1314赛季，利物浦的英超首冠触手可及；1314赛季，K.O SIR抓住机会，开始了自己的名帅生涯。红魔们，让我们一起喊：“Moyes OUT！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmw_进击的主帅：从莫耶斯下课开始1-364章.txt",
+    readUrl: "https://pan.baidu.com/s/18LRJAM4BcjpAMdNo9qvDMA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmw/",
   },
 
@@ -74802,6 +75848,7 @@ export const bookItems = [
     excerpt: "同穿流，龙族，日月同错，一人之下，雪中，罗小黑，狐妖小红娘，诛仙等......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wmx_同时穿越：纵横诸天1-189章.txt",
+    readUrl: "https://pan.baidu.com/s/1jSIU2TYJ8_H2NkewB0cHZw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wmx/",
   },
 
@@ -74853,6 +75900,7 @@ export const bookItems = [
     excerpt: "“一米九八你怎么不去打篮球啊？”“现代足坛还有传统高中锋的生存空间吗？”“你这样的性格是不可能在职业足坛有所建树的！”“殴打国青队友，活该国内俱乐部和各级国家队永久禁赛！”人生有很多选择，也许每一个选择，都是一个平行宇宙。阳光就是如此。在这个时间线上，他选择了踢球。一百九十八公分的高中锋，从获得马拉多纳模块开始。他来了，他颠覆这个时代，他统治这个时代。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnb_身高198你给我马拉多纳模板？1-334章.txt",
+    readUrl: "https://pan.baidu.com/s/1TL2Gm1CVHWlPwT-eZMZg5A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnb/",
   },
 
@@ -74870,6 +75918,7 @@ export const bookItems = [
     excerpt: "高订破万。带着系统穿越的林阳无语望天。为什么会直接出现在完美世界这种噩梦级世界？还好可以继续穿越，不慌！先苟一波！他不曾想到，自己会从乱古岁月开始，见证古史，自化禁区，历经无尽岁月，活到后荒古年代，甚至更加久远。林阳：我修炼绝对不是为了装逼，只是为了修炼而修炼，为了造福苍生而修炼，九天十地苍生为证。……完美世界、一世之尊、盘龙、斗破苍穹、诡秘之主、灭运图录、飞升之后、武道宗师、莽荒纪、吞噬星空……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wne_自完美世界开始1-2430章.txt",
+    readUrl: "https://pan.baidu.com/s/1JEAGuR1sQBF-yZebE5Cl4A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wne/",
   },
 
@@ -74887,6 +75936,7 @@ export const bookItems = [
     excerpt: "",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnf_从吕伯奢邻居，到执掌天下1-332章.txt",
+    readUrl: "https://pan.baidu.com/s/1fLO4WepNAr5pGSUZ352P1w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnf/",
   },
 
@@ -74940,6 +75990,7 @@ export const bookItems = [
     excerpt: "8岁的洛瑞·蒙特斯志得意满的站在觉醒仪式的光圈里，等待自己即将大放异彩的骑士之路。 然而红色的血脉骑士光圈却骤然变成了蓝色的精神传承五角星阵！ 周围的人一片惊呼，洛瑞却陷入了惊慌失措：他带来的游戏职业不是骑士吗？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wni_尊敬的扫帚骑士大人1-1748章.txt",
+    readUrl: "https://pan.baidu.com/s/1em7vZ9eYKmt-3mKdll9ALg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wni/",
   },
 
@@ -74956,6 +76007,7 @@ export const bookItems = [
     excerpt: "『原名：傅青海大战一切』主要就是讲了一个战锤40K宇宙出身的男主，车翻各路牛鬼蛇神的故事。异形大战食死徒、绝地武士大战变种人、深潜者大战安娜·贝尔、泰坦巨兽大战机甲猎人、戒灵大战共生体……最终演变成傅青海大战一切。主角已经获得和即将获得的称号：青山·斯塔克，贝利撒留·青山，青山·可汗，达斯·青山，青山·维拉兹……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnj_无限流的元宇宙1-852章.txt",
+    readUrl: "https://pan.baidu.com/s/19jDrSj96g1Nc_ITfCocsqg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnj/",
   },
 
@@ -74990,6 +76042,7 @@ export const bookItems = [
     excerpt: "就职亡灵法师时，顾息发现自己遇到了一点小问题。被人闷棍扔在牢里是什么个情况。为了不成为第一个就职未完成就挂的废物玩家，顾息选择了自救！结果，一位未来被称为亡灵之息的强者，踏上了他的传奇之路。----------------英雄无敌风，种田、建城、战斗，作者在英雄无敌、无限流与脑洞方面绝对有保证，各兵种脑洞强大，更新稳定，还请大家多多支持。-----------------群：551751609（已",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnt_亡灵之息1-3856章.txt",
+    readUrl: "https://pan.baidu.com/s/1-xNn-NrOG6xG3jac6fXDbg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnt/",
   },
 
@@ -75006,6 +76059,7 @@ export const bookItems = [
     excerpt: "好消息：穿越到了吞噬星空世界，还是罗城主未出生之前，将来有大把的机会可以抱大腿，长生不老不是梦！坏消息：穿越早了点，来到了大涅槃前一年，而且没金手指！那我该怎么度过接下来的大涅槃时期？甚至超脱浑源？急急急！两年半后。“哦，原来我是修炼天才，还能掌控雷电，那没事了......”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnu_吞噬星空之雷霆之主1-400章.txt",
+    readUrl: "https://pan.baidu.com/s/1dq7c51zBgBRxOQ-LRdcxKA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnu/",
   },
 
@@ -75022,6 +76076,7 @@ export const bookItems = [
     excerpt: "败于内部倾轧的陈世俊咬紧牙关，准备给浮华遮蔽腐朽的娱乐圈带来一些痛楚。前作《半岛之落花》、《半岛之我要再次伟大》，280万字未曾断更一天，更新有保障放心看。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wnw_半岛白金时代1-891章.txt",
+    readUrl: "https://pan.baidu.com/s/1RiSpPEb8Qj0zuOVdZtZVyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wnw/",
   },
 
@@ -75074,6 +76129,7 @@ export const bookItems = [
     excerpt: "林晓很无奈。穿越到一个想要获得超凡力量，就必须付出代价的世界。他的代价是不能说谎，否则就会立刻暴毙。于是……【场合一】死党：“我是不是比你更强壮，更有钱，更体贴，更有时间陪伴她？”林晓：“嗯，你说的都对。”死党：“那凭什么女神喜欢的是你？”林晓：“现在你知道，为什么‘潘’排在‘驴邓小闲’前面了？”死党：“！！！”【场合二】女神：“你说我将来生个男孩好，还是女孩好？”林晓：“女孩吧。”女神：“果然男",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wob_坦坦荡荡真君子1-997章.txt",
+    readUrl: "https://pan.baidu.com/s/1jtDVYyBjGgyLKZU43e5WAg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wob/",
   },
 
@@ -75090,6 +76146,7 @@ export const bookItems = [
     excerpt: "一次深夜抢救手术中。年轻的外科医生被系统砸中，开启奇异的人生。“叮咚！奖励三千例断指再植！”“叮咚！五千例心脏搭桥手术半价打包出售。““脑干肿瘤加油包！”“鉴于你最近的优异表现，经系统评估，赠送系统实验室——”什么？这个破系统这么牛，不仅可以做手术，还可以搞科研？好吧，那就这样走向人生巅峰。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_woc_外科教父1-1485章.txt",
+    readUrl: "https://pan.baidu.com/s/1DMsq_RaDP4xlHKg6XXUFQg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/woc/",
   },
 
@@ -75107,6 +76164,7 @@ export const bookItems = [
     excerpt: "程随穿越到龙族世界，在卡塞尔学院混了四年就要毕业之际，系统来了。但是火影逆袭系统是什么鬼，自己还被判定为万年中忍、忍者学校的一位普通老师。【宇智波佐助和漩涡鸣人又在班里打起来了，三代火影此刻正在用水晶球观看这一切，此刻需要你运用合理手段解决这场争斗】【任务奖励：三代火影的好感，一勾玉写轮眼，漩涡一族体质】程随：“？？？”，看着眼前正在激情互砍的楚子航和恺撒，陷入深深的沉思。多年以后，当龙王咆哮世间",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_woe_人在龙族，绑定火影逆袭系统1-383章.txt",
+    readUrl: "https://pan.baidu.com/s/1WKtGZazNRuCEbQi9zfH3wA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/woe/",
   },
 
@@ -75142,6 +76200,7 @@ export const bookItems = [
     excerpt: "“是陛下龙旗！” “龙纛临阵，吾皇万胜！” “杀！” 各种乱七八糟口音各异的言语，在十几个呼吸工夫过后，或化作振奋人心的万胜欢呼，又或干脆凝练一声『杀』字大吼。 声震天地。 鎮北將軍牙纛之下。 本在陷阵杀敌的魏延，听到这突然爆发出来的剧烈欢呼，先是莫名其妙。 待彻底听清这些呼声到底在喊些什么后，满身杀伐之气如鬼似神的虎熊大将，惊愕难言。 只见三面大纛，两前一后，两高一低，两旧一新，两破一全，在东风",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_woi_三国：王业不偏安1-500章.txt",
+    readUrl: "https://pan.baidu.com/s/18pjkENDmpW3wl8tLkrf_3A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/woi/",
   },
 
@@ -75159,6 +76218,7 @@ export const bookItems = [
     excerpt: "诸天乐园降世，人类迎来了生死存亡的大危机。凡是年满18岁的人类都将被选中进入诸天副本。陈安夏发现诸天副本竟然都是自己前世所熟知的作品世界。除此之外，陈安夏还觉醒了诸天角色模板系统，每到一个世界就能抽取一个模板角色。《死神》世界，陈安夏立于天之王座，高举乖离剑，毁天灭地的洪流斩向蓝染。《海贼王》世界，看向那坐于空之王座上的伊姆，陈安夏拔出了斩魄刀流刃若火，口中吟唱：“卍解...残火太刀！”《火影》世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wok_死神开局，我有万界角色模板1-506章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZsFms8-3NjdROTIrDZSVRg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wok/",
   },
 
@@ -75176,6 +76236,7 @@ export const bookItems = [
     excerpt: "跌入洛水而溺的羊耽在中平四年睁开了眼，成为了泰山羊氏子，还拥有了羁绊系统。泰山羊，岂是断脊犬？大汉民，甘当两脚羊？不忍让战火吞没万民性命的羊耽，誓要早日结束乱世……可当羊耽拿出《洛神赋》谋了个名士后，骤然发现与自己结下羁绊的诸侯有点多，并且怎么一个个对自己都显得势在必得啊？刘备：诸位，诸位，承让了，是我先来的。曹操：唯操与耽英雄也，英雄惜英雄，尔等还请让让。袁绍：哼，四世三公之名，还不足让挚友折腰",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_won_三国：坏了，我成汉末魅魔了1-814章.txt",
+    readUrl: "https://pan.baidu.com/s/1ftEvTai4wX8zgJN0ZUOgJg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/won/",
   },
 
@@ -75211,6 +76272,7 @@ export const bookItems = [
     excerpt: "柳元穿越斗罗大陆2绝世唐门。父母乃是史莱克学院监察团的成员，但在一次监察团任务之中，双双陨落，导致他成为了孤儿。刚好那年，柳元觉醒了灵眸武魂，先天魂力九级，史莱克见状，便“好心”的收养了他。却不曾想。一次意外，让柳元的武魂发生变异，双目失明，六年时间，魂力没有寸进！玄子：“柳元，我们史莱克对你已经仁至义尽了！但你确实不配继续待在我们史莱克，从明天开始，你就走吧！”玄子将此时还是盲人的柳元直接赶出了",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_woq_斗罗绝世：谁说重瞳必须走控制？1-298章.txt",
+    readUrl: "https://pan.baidu.com/s/1RkHCGhKoPhREPMLmIrcmPw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/woq/",
   },
 
@@ -75228,6 +76290,7 @@ export const bookItems = [
     excerpt: "转生斗罗大陆，武魂觉醒两只猫，一只是七剑之首，长虹剑主的虹猫，另一只是龙骑团团长，第六龙骑的蓝猫。唐三：“两只猫也想翻了天，看我蓝银草，蓝银（亲妈）缠绕！”蓝虹：“假仁假义，道貌岸然，早已坠入魔道而不自知，长虹贯日！”唐昊：“竟然伤我儿，拿命来，炸环！死！”蓝虹：“哼！唐昊，真是给你脸了，啸天出世，天火燎原！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wor_斗罗：虹猫蓝猫七剑配龙骑1-1546章.txt",
+    readUrl: "https://pan.baidu.com/s/1jxlkDU3WV7msnK5PderPQQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wor/",
   },
 
@@ -75244,6 +76307,7 @@ export const bookItems = [
     excerpt: "一个平凡人，经历着一段段不凡的人生……、、、尽量都市，不修仙。《我不是药神》《无间道》《三十而已》《匆匆那年》《一代宗师》《欢乐颂》《鸡毛飞上天》《新世界》《北京爱情故事》《绣春刀》《春风十里不如你》《大时代》《都挺好》《西西里的美丽传说》《咱们结婚吧》《闯关东》《追龙》《人世间》《水浒传》《致我们终将逝去的青春》《流金岁月》《新宿事件》《正阳门下》《伪装者》《去有风的地方》《疾速追杀》《警察荣誉",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wot_影视世界从药神开始1-1917章.txt",
+    readUrl: "https://pan.baidu.com/s/1FP2xzWHB1mLh4Ti8oZ6eew?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wot/",
   },
 
@@ -75279,6 +76343,7 @@ export const bookItems = [
     excerpt: "大西洋深处，游动着吞噬万物的瀚海鲸皇。青藏高原之顶，耸立着接通天地的不朽建木。阿尔卑斯山脉中，走动着拔地参天的大地泰坦。这是一个超凡的世界，一个御兽师为主流的世界。来到这个世界的叶墨觉醒游戏化天赋，可以用天赋开启一个个游戏功能。解锁经验功能，灵宠通过锻炼或者击败、击杀对手就能获得等级经验，技能只需要释放就能获得熟练度经验。解锁转职功能，灵宠转职后，获得专属技能树，种族潜力和职业面板双重加成，越阶而",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wow_御兽：我的灵宠拥有游戏面板1-792章.txt",
+    readUrl: "https://pan.baidu.com/s/1jFRmts6zpqPOQ3rO1Ecfkw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wow/",
   },
 
@@ -75296,6 +76361,7 @@ export const bookItems = [
     excerpt: "大龄青年李长道魂穿异界，虽小了两岁，却省去了结婚生子，直接成了爷爷！小孙儿嗷嗷待哺，小女儿乖巧可爱却瘦骨伶仃，二儿子正长身体却瘦得好像竹竿。大儿子刚满十八岁，便要顶门立户支撑起一个家···三千年之天变到来，灾害连绵，然而皇帝昏庸无道、朝廷腐朽不堪，地方官吏更是以鱼肉百姓为能。李长道融合了前身记忆，面对这混乱的大争之世，誓要带领家人、族人争一个富贵！闯出一片朗朗乾坤！【已有三部完本历史作品，请收藏支",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wox_改朝换代，从当爷爷开始1-701章.txt",
+    readUrl: "https://pan.baidu.com/s/16eqhynpJS9TI9l43CY37_g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wox/",
   },
 
@@ -75313,6 +76379,7 @@ export const bookItems = [
     excerpt: "带着导演满级的林青辉重生在2002年，利用后世信息，打算第一部电影就攻略金棕榈。 新人第一本书，单女主刘，不喜欢可以直接退出，谢谢。前面章节有些白，五十章后我自认为有些进步。特别最近写到柏林影后那几章。本人也是老书虫，很多方面会尽量写的合理，我也是合理党。当然我有给主角开导演满级挂，既然开挂有些方面我也不会太压主角，有挂还不敢写的超越现实天才，更不合理。系统只为拍电影合理，第一章出现，后面基本神隐",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_woz_华娱：从攻略金棕榈开始1-444章.txt",
+    readUrl: "https://pan.baidu.com/s/10JEDFkGGTYGVgwP3lpTlRg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/woz/",
   },
 
@@ -75330,6 +76397,7 @@ export const bookItems = [
     excerpt: "蹉跎的穿越者，遭遇藏身「盲区」的魔女。“要力量吗？践行超越之道吧。”她说。于是，他获得了能将一切升华强化的权柄！【「心脏导引」升华，获得「帝王引擎」】【「吐纳术」升华，获得「转龙呼吸」】【「疾风腿」升华，获得「神风怒嚎」】【「渡鸦甲胄」升华，获得「狂战之铠」】太玄经，界王拳，磁场转动！八刀一闪，武神踢，剑二十三！气势球棒，恶鬼缠身，黄金圣衣！甚至是九转玄功，先天至宝，法天象地.....这诸多幻想之",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpa_究极生命，从升华心脏开始1-488章.txt",
+    readUrl: "https://pan.baidu.com/s/164VDDVpALBNER7oE4anHmw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpa/",
   },
 
@@ -75346,6 +76414,7 @@ export const bookItems = [
     excerpt: "（本书无系统，硬核军工。）军工专家李牧之穿越亮剑世界，成为边区兵工厂的厂长。泱泱大国的兵工厂，怎只能造手榴弹和复装子弹。李牧之造出威力相当于3000颗手榴弹爆炸的地狱大炮。有了重火力，腰杆子就硬！没有电力设备，抢鬼子！没有冶炼设备，抢鬼子！没有冲压设备，抢鬼子！……抢！抢！抢！边区兵工厂发展成为工业巨擘！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpb_亮剑：从手搓大炮到工业巨擘1-655章.txt",
+    readUrl: "https://pan.baidu.com/s/1Qv795uHXN3rMOXb8yig7qw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpb/",
   },
 
@@ -75362,6 +76431,7 @@ export const bookItems = [
     excerpt: "多年以后，当司明看着眼前那密密麻麻的演变人契约人星级人天关人时。他准会想起自己因为受不了零七年的脚盆鸡而从东海队润到天神队的那一天。 ——元祖无限流，第一世代。从轮回世界的顶点到多元宇宙的顶点。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpd_无限天神君临1-700章.txt",
+    readUrl: "https://pan.baidu.com/s/1FmOMtyh9-6I0kPiYRkhAvg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpd/",
   },
 
@@ -75397,6 +76467,7 @@ export const bookItems = [
     excerpt: "其实本来，刘恭是准备精忠报国的。但他遇到了长着猫耳朵的西域美少女。而且是真的猫娘。唉，此间乐，不思唐。……以下是正式版：这是个不一样的大唐。猫娘、人马、翼手、蛇娘、人鱼遍地走，从凉州到长安，从幽云到岭南。但这又是个熟悉的大唐。晚唐年代，节度使们草菅人命，蛮夷戎狄四面叩关，汉家天下摇摇欲坠。刘恭就这样，稀里糊涂地来到了归义军。（本书别名：《你这大唐怎么有猫娘》《大唐的疯狂动物城》《异世界大唐的兽耳娘",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpf_大唐不归义1-293章.txt",
+    readUrl: "https://pan.baidu.com/s/1BmuS-Ynve9veCS31MEK9dw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpf/",
   },
 
@@ -75414,6 +76485,7 @@ export const bookItems = [
     excerpt: "【恋爱、文豪、反套路】 凉宫佑确信自己身穿到了平行世界的日本，还被书店的一对姐妹收留。 随着时间流逝，他渐渐熟悉了这里，并成为了书店大女儿的男朋友，过着平淡且幸福的日常。 只是在他为了生计执笔写作后，一切都变了，感受着那些虎视眈眈的视线，直觉告诉他一定要遵守以下规则： ①不能让女友的妹妹住在家里。 ②不要让女友带你出去和她的闺蜜喝酒。 ③逛街、按摩、去医院、点外卖、倒垃圾一定要让女友陪着，尽量不和",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpg_东京文豪，从被大小姐追求开始1-368章.txt",
+    readUrl: "https://pan.baidu.com/s/1xdQYmYuEaXcc-16SN6omQw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpg/",
   },
 
@@ -75431,6 +76503,7 @@ export const bookItems = [
     excerpt: "系统是阿哈本人是怎样一种体验。（当前版本，匹诺康尼）林睿穿越到了星穹铁道的世界，成为公司高层的游戏制作师。托帕老大让制作能够传遍千星的大制作，那就《崩坏：星穹铁道》吧！当悬赏数额108亿9900万的星核猎手卡芙卡出现在up池的时候，众人惊呆了。“下个月我不吃饭啦！氪金，氪金！”“冲！冲！冲！这下想不冲都不行了。”当EP水龙吟中的饮乐君一指开海的时候。I“啊啊啊，什么时候开饮月君池子啊。”当匹诺康尼",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpm_制作铁道游戏，角色们都玩疯了1-1206章.txt",
+    readUrl: "https://pan.baidu.com/s/1-0XMYkn7LSIQECS1_O09Bg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpm/",
   },
 
@@ -75483,6 +76556,7 @@ export const bookItems = [
     excerpt: "【年代商业文，非文豪，多女主】重生1977年。李长河觉得，来到这个时代他总得为这个国家，做点什么！当然，他首先要做的，还是把隔壁的女王陛下拿下。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpq_1977：开局相亲女儿国王1-864章.txt",
+    readUrl: "https://pan.baidu.com/s/1xOmw90XUM0FtLBgsrfYksg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpq/",
   },
 
@@ -75499,6 +76573,7 @@ export const bookItems = [
     excerpt: "2018年，被女友粉认为是最伟大的一年，因为顾明朝出道了。2018年，被男友粉认为是黑暗的一年，因为顾明朝出道了。对此顾明朝表示很无辜：“最开始，那个狗屁系统还说我三十八岁离婚带娃呢。”(hy，jyp公司solo出道，多女主，非喜勿入)",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpr_半岛：刚出道，人生逆袭系统来了1-333章.txt",
+    readUrl: "https://pan.baidu.com/s/1-ChLsf1hvZmfSWkwaSB81Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpr/",
   },
 
@@ -75516,6 +76591,7 @@ export const bookItems = [
     excerpt: "童话世界里，并非全是王子和公主的幸福故事，这里有冻死在大年夜的卖火柴的小女孩，有被狼吃掉的小红帽，有被烈火焚身的小锡兵，还有那变成泡沫的美人鱼。因为不是所有人生下来就是公主和王子，也不是所有人穿越过来就是高贵的魔法师，总有人要面对平凡和苦难。“谁规定我们必须面对苦难，以上这些故事都被我改写了结局，为什么？为了我能在这童话世界里过得更好。”穿越者贝尔是这样说的。他此时正带着卖火柴的小女孩骑着一只巨大",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wps_我改写了童话世界的剧情1-410章.txt",
+    readUrl: "https://pan.baidu.com/s/1uYNhKcspoY_-F6eRnTrC5w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wps/",
   },
 
@@ -75549,6 +76625,7 @@ export const bookItems = [
     excerpt: "魂穿东京，多崎透将自己写的歌卖给武士道旗下的BanG Dream!企划。意外成为了两支新乐队，“MyGO!!!!!”与“Ave Mujica”的御用作曲家。于是，他开始不停地为女声优写歌。…………羊宫妃娜：恶意的言辞，真的很刺痛人心，好不甘心，想要唱得更好，你愿意一辈子为我写歌么？青木日菜：下次编曲来点吉他爽弹，弹不爽我就弹你。小日向美佳：为什么要给她们写歌！？和我回高家神社吧，我什么都会做的！立",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpv_难道我真有女声优瘾？1-601章.txt",
+    readUrl: "https://pan.baidu.com/s/1NLu4fkf4vm14POn2BHoJ8w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpv/",
   },
 
@@ -75566,6 +76643,7 @@ export const bookItems = [
     excerpt: "已有322万字完本精品老书《吞噬星空之虫群主宰》，可以放心阅读。穿越到2055年的吞噬星空，成为003号战争基地实习的江南第一军校大四学生，开局就出现在地狱般的战场上。 完了！ 秦铭心中一苦，他就是一普通人啊！ 等等，我的金手指是万魂幡（划掉，人皇幡！）？ 看着那如燕归巢吸入万魂幡的怪兽灵魂，以及‘万魂幡内源源不断涌出的灵魂力量，秦铭眼睛亮了。 万魂幡收割灵魂，可蕴养自身。 汲取血肉精华壮大体魄、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpw_吞噬星空之灵魂主宰1-743章.txt",
+    readUrl: "https://pan.baidu.com/s/1a1__S5Q2ACgFVvVLeMLd8Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpw/",
   },
 
@@ -75582,6 +76660,7 @@ export const bookItems = [
     excerpt: "“小生苏轼，与舍弟自眉州进京赶考，怀念家乡风味，贵店可有蜀地美食？”“有的！本店正是川饭店！”自从吴铭打开了那扇通向1056年的门，他再也不用担心饭馆的生意了。……“州南吴楼乃京师酒肆之甲，饮徒常千余人。凡酒店中，不问何人，皆排号入内。虽一人独饮，杯盏亦用一等琉璃。其果子菜蔬，无非精洁，凉水茶饮，皆可续杯。更有回锅肉、鱼香肉丝、粉蒸肉之类，每分止百文矣。”——摘自《东京梦华录》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wpy_我的饭馆通北宋1-433章.txt",
+    readUrl: "https://pan.baidu.com/s/1-vnYk6O17J3NSePIHz7Wqg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wpy/",
   },
 
@@ -75598,6 +76677,7 @@ export const bookItems = [
     excerpt: "当年我被你们追着撵着到处跑的时候，你叫我赤匪，我不和你计较。 但是现在，你看看我身后，请大声告诉我，你该叫我什么！？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wq_亮剑：从雪山开始崛起1-975章.txt",
+    readUrl: "https://pan.baidu.com/s/1LBuYwL2inB6pIE2jKwHPpA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wq/",
   },
 
@@ -75615,6 +76695,7 @@ export const bookItems = [
     excerpt: "【他是不是想骗我钱？天仙一脸狐疑】资深短剧小导演重生09年.......“刘小姐你愿不愿意，证明自己！”崔砚露出灿烂的笑容，整个人仿佛披上了一层光晕。“证明什么？？”“把欺负你的人，狠狠地扇上一巴掌”对方那极具感染力笑容和蛊惑的声音，她隐约看到了自己钱包哭泣的声音。【单女主，恨海情天，家国情怀】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wqa_华娱，这个导演很有才情1-465章.txt",
+    readUrl: "https://pan.baidu.com/s/1vmOzAjvadXwhmhA5atTz9g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wqa/",
   },
 
@@ -75632,6 +76713,7 @@ export const bookItems = [
     excerpt: "“出道一年，爆火出圈，两年咖位飞升，周余棠怎么能进步这么快！？” “长的帅有天赋是这样的。” “在这个比烂的时代，其他明星还在为了上位撕番，他已经进步成了手握资本的大佬。” “虽然他是无双影帝，是商业片导演之王，是娱乐圈女星们的男神，还是资本大佬，但我必须狠狠的批判他，大渣男！” “周总，这里是《时代周刊》专访，您取得如此显赫成绩的原因是什么？” “我实在太想进步了。” ——一个带着梦境记忆、一心",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wqd_娱乐：我实在太想进步了1-1403章.txt",
+    readUrl: "https://pan.baidu.com/s/11LRXlor8UGJVFvO6BvOXlQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wqd/",
   },
 
@@ -75702,6 +76784,7 @@ export const bookItems = [
     excerpt: "林玉明穿越到五一年，面对满院的禽兽，他只想说只要弄不到我身上，关我何事。他更想的是享受着无忧的无虑童年生活，顺便为未来铺成一条通天大道。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wql_四合院的孩子王1-316章.txt",
+    readUrl: "https://pan.baidu.com/s/1fMyzDDO7OZPyt-PbETvlaw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wql/",
   },
 
@@ -75735,6 +76818,7 @@ export const bookItems = [
     excerpt: "当一群来自二十一世纪的玩家们来到明末后，一切都变得不受控制起来。后世的史书如此记载：夜袭寡妇村一马当先，阵斩敌方大将。土木堡战神身披数创，击杀数十骑，乘胜破潼关。樱桃小弔子伤重不治，毛毛虫大意失荆州。Judy曰：“老六，又特么抢我人头！”正在上吊的崇祯擦了擦冷汗：“你们应该是来帮朕的吧？”刘烨：“小朱，过来给我捶捶肩！”（并非扶明）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wqz_明末：第四天灾千里行1-646章.txt",
+    readUrl: "https://pan.baidu.com/s/1drUWicqofK3TwVQzXEWU9w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wqz/",
   },
 
@@ -75752,6 +76836,7 @@ export const bookItems = [
     excerpt: "弗格森走了，莫耶斯来了。 莫耶斯走了，范加尔来了。 范加尔走了，穆里尼奥来了。 穆里尼奥走了，索尔斯克亚来了。 索尔斯克亚走了，滕哈赫来了。 滕哈赫走了，阿莫林来了。 阿莫林…… 走什么走！ 我可是曼联DNA！ 知道曼联DNA的含金量吗？！ 钱多，妹多，责任少！ 只要你放下赢球夺冠的羞耻心！ 只要你丢掉红魔复兴的责任感！ 只要受得了千夫所指的怒骂！ 你能在曼联混到天荒地老！ 不对，混什么混，这叫忠",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wr_曼联DNA打死不离队，忠诚！1-622章.txt",
+    readUrl: "https://pan.baidu.com/s/1KfQQxomrh0H8q-_HMsjfqA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wr/",
   },
 
@@ -75769,6 +76854,7 @@ export const bookItems = [
     excerpt: "全人口中，仅有1%的少数，具有天生“通路”，能进入诡谲莫测、机遇与冒险的奇境。 为了梦想，财富，自由……为了一段鲜明强烈的生命，1%的人类中，从不缺少勇敢之士。 但是，假如你发现它的时候，已经垂垂老矣了呢？ 假如你明明知道它的存在，却天生不能进去呢？ 假如你曾被吞噬过一次呢？ 本书世界中，黑摩尔货币兑RMB汇率为1:8 凡是出现金钱数字，请自动乘以8 --新书是群像文，希望大家喜欢。 --完结书《",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrc_伪像报告1-677章.txt",
+    readUrl: "https://pan.baidu.com/s/1RTAg-eNm_ZZZAYGhpIiSTg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrc/",
   },
 
@@ -75786,6 +76872,7 @@ export const bookItems = [
     excerpt: "穿越了大明王朝的苏泽，成了隆庆二年二甲进士，入翰林院庶吉士。好消息，不用卷科举了，穿越起点就是科举文终点，这一榜的含金量极高，万历朝大半的首辅重臣都是这一年的进士。坏消息，隆庆二年正是朝堂斗争最激烈的时候，新科进士们也卷入其中。更让苏泽崩溃的是，为什么穿越了，还要每天早上5点就起来上早朝啊！怎么比996还苦逼！还好苏泽获得了多啦A梦里手提式国会同款的手提式朝廷。只要将议案放在这个机器里，就会变成国",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrg_我的手提式大明朝廷1-1130章.txt",
+    readUrl: "https://pan.baidu.com/s/1CjNEYmEYUNTDlLzfuS1wKw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrg/",
   },
 
@@ -75802,6 +76889,7 @@ export const bookItems = [
     excerpt: "如果《西游》被做成了虚拟网游，数亿玩家降临三界！ 唐僧还能取到真经吗？ 本游戏核心玩法—— 闯过的劫难越多，保护唐僧所获的功德越是丰厚。 而唐僧肉的效果，也就越强！ 唐僧西行失败被杀后，将会轮回转世，重择护道人，再踏西行之路！ 当唐僧又又又又一次转世，好不容易闯到平顶山，原本挡关的金角银角竟是跌跌撞撞跑到唐僧面前。 “圣僧！圣僧救命啊！快让您的徒儿们挡一挡那煞星吧！” 后方仓皇逃来的妖魔成千上万，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrh_谁敢抢我唐僧肉！1-467章.txt",
+    readUrl: "https://pan.baidu.com/s/1BLgJ_-GKtgW5MylJGrLuyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrh/",
   },
 
@@ -75818,6 +76906,7 @@ export const bookItems = [
     excerpt: "穿越美漫世界，变成一位地狱领主，千辛万苦进入地球后，他只有两个目标，一是享受人生，二是契约人类灵魂，将美利坚变成自家产业。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrj_美漫地狱之主1-3653章.txt",
+    readUrl: "https://pan.baidu.com/s/1W-eAYgFpV7Vtt6jAVgdZ9A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrj/",
   },
 
@@ -75834,6 +76923,7 @@ export const bookItems = [
     excerpt: "（3万均定老作者，质量保证。）“又要到饭了，兄弟！”楚胜重生到了2023年，成为了美利坚的一个华人街头流浪者，还和丁讲师组成搭档。「叮……打野系统，绑定中！」「你搜索到物资发放点，奖励力量+0.1！」「你精神超过了3点，觉醒「子弹时间」，枪服无敌！」「你帮助了一群流浪汉人材，获得「忠诚光环」，大业之基已成！」来到洛杉矶第一天，我又要到饭了兄弟。来到洛杉矶第二天，老拂爷替我付过款了！来到洛杉矶第三天",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrl_美利坚斩杀线？我超凡不吃牛肉！1-299章.txt",
+    readUrl: "https://pan.baidu.com/s/1xQpeP9muaE4bFRd7E01VRA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrl/",
   },
 
@@ -75869,6 +76959,7 @@ export const bookItems = [
     excerpt: "【本书无任何阅读门槛，另有400w字万均完本老书，质量有保证！】 压迫、逼抢，还有反击！ 朗尼克的战术理念就是进攻，作为莱比锡新帅，他立誓要将自己的足球理念发扬光大。 教练是很好没错，问题是…… 老子是纯防守型后腰啊！防守后腰怎么融入朗尼克的队伍？ 就在郝仁不知道接下来该怎么办的时候，他的系统来了。 【你获得了马克莱莱精准抢断模板】 精准抢断模板？ 这不还是后腰吗，能有啥用？ 【你获得了凯塞多暴力",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrn_什么叫进攻型后腰啊1-448章.txt",
+    readUrl: "https://pan.baidu.com/s/1rbMr6fJvLdEMJRwOxy_Fzw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrn/",
   },
 
@@ -75886,6 +76977,7 @@ export const bookItems = [
     excerpt: "人在遮天世界，同时穿越诸天万界。天赋悟性融合，战力无限叠加。五倍同级战力，你说我只是凡体而已，我不挑你理。万倍同级战力时，你该叫我什么？诸天万界的我啊，把你们的元气借给我吧！（包含小说、动漫、电影、电视世界）",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrp_同时穿越：继承万界遗产1-850章.txt",
+    readUrl: "https://pan.baidu.com/s/1YSR9FVfzHQjTianKUKuAhg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrp/",
   },
 
@@ -75902,6 +76994,7 @@ export const bookItems = [
     excerpt: "来到蒸汽工业蓬勃发展的新世界，继承王国首都广场的三层公寓，带着别人的猫，听着耳边的呢喃之语，去见证这个诡秘而离奇的时代。第六纪元的史诗即将开始，帷幕后，被选中者将要踏入传说。旧神、遗物、蒸汽、魔女、侦探、远古的奥秘、纪元的辉光......“你要玩一把罗德牌吗？”岁月铭刻光阴，银月照耀阴影。我为你谱写传说，你为我呢喃诗章。（另有老书五百万字完本，一天两更从不断更。上午六点五十，下午五点五十，咸鱼出品",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrr_呢喃诗章1-4559章.txt",
+    readUrl: "https://pan.baidu.com/s/1xsZI62l_EismfvPfKxEKyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrr/",
   },
 
@@ -75918,6 +77011,7 @@ export const bookItems = [
     excerpt: "三国时代的大门缓缓开启，一个横跨千年的灵魂孤独站在大门前，踌躇、彷徨，但他最终还是义无反顾地走进了大门，走进了这个波澜壮阔的大争时代。东汉末年，群雄角逐天下，重生的甘宁将何去何从？是继续当江表虎臣，还是杀开一条血路，做天下之虎枭？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrt_虎枭1-693章.txt",
+    readUrl: "https://pan.baidu.com/s/10E9RRBj29KmYlQwuEcqnRg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrt/",
   },
 
@@ -75953,6 +77047,7 @@ export const bookItems = [
     excerpt: "何谓G-O-A-T。意味着，Greatest of All Time（历史最佳）。...2003年，足坛群星闪耀时。 罗伊穿越而来，从姆巴佩天赋开始，开启【球王之路】。 每获得一个重要荣誉都能提升天赋？桀骜、优雅、不屈、凌厉。他是最迅捷的风，也是最锋利的剑。是绿茵疆土上最恐怖的征服者。 以无数的荣耀，铸造属于自己的冠冕！ ... 德尚：“别叫我拴狗冠了!算了，真香！” 穆里尼奥：“我欣赏他的球技，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrw_踢球的时候要称GOAT1-437章.txt",
+    readUrl: "https://pan.baidu.com/s/1wsszbDNiLy1VF7yU9IaPwg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrw/",
   },
 
@@ -75970,6 +77065,7 @@ export const bookItems = [
     excerpt: "【偏正史向】-【三国志】章武二年，夷陵的火，烧去了三兴炎汉的光。但这一年，刘祀的出现，又为季汉重新降临了一道新的强光。当刘备看到刘祀时，想起当年长坂坡不由泪湿了眼眶……后世人将诸葛亮、刘备的谈话称作《隆中对》，又将刘祀与诸葛亮的谈话，称之为《汉室三兴策》！何为三兴策？相信科学，疯狂建设，解放人力，广积粮，缓称强。简单总结，就是憋个大的！产铁总量超过魏、吴两国了吗，就打仗？攻取长安的粮道问题解决了吗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wry_三国：从相信科学开始鲸吞天下1-380章.txt",
+    readUrl: "https://pan.baidu.com/s/17HaMMwqBI2cIkQpIvoPtaw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wry/",
   },
 
@@ -75986,6 +77082,7 @@ export const bookItems = [
     excerpt: "叶晨被自己客户的大哥误会，一棒子削在了后脑勺，然后就陷入了意识混沌中，当他睁开眼的时候，发现自己来到了平时在电视里看过的世界，被绑定了一个诸天系统，靠完成任务增加自己现实的寿命，任务成功，寿命增加，还可以收获技能，任务失败，就地抹杀，为了活着，叶晨在影视剧的世界里不得不拼命完成任务…… 已完成世界《情满四合院》，《少年派》，《人世间》，《白夜追凶》，《夏洛特烦恼》，《匆匆那年》，正处在《渗透》主世",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wrz_诸天影视从四合院开始1-1638章.txt",
+    readUrl: "https://pan.baidu.com/s/10FxMS8mdLewsgdWfb205wg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wrz/",
   },
 
@@ -76020,6 +77117,7 @@ export const bookItems = [
     excerpt: "回村经营农家乐的张泊发现一个问题，似乎他的这间农家乐成为了连同各个朝代的桥梁。历史上的一系列的名人皆汇集于此。甚至，他们之间还能够互相串门！刘备：“中山靖王刘胜十七世孙刘备见过孝武皇帝陛下，望陛下救大汉于水火。”岳飞：“天无二日,我心中只有哲宗官家一个太阳。”朱棣：“爹，你没死啊。”……曹操：“我打刘备，汉武帝？”金国：“我打岳飞，辛弃疾？”带清：“我打明太祖，明成祖？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsa_农家乐通古代，开局接待刘关张1-810章.txt",
+    readUrl: "https://pan.baidu.com/s/1XlKkZsvgJz7DK8kvDKzlcA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsa/",
   },
 
@@ -76037,6 +77135,7 @@ export const bookItems = [
     excerpt: "多年之后，尼克转头看向身侧穿着二次元修女服的女孩们，无奈摇头叹气，“姑娘们，我理解你们这么穿是为了方便藏装备，但冲锋枪也就算了，吊袜带和RPB是真不搭啊。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsd_美利坚驱魔往事1-388章.txt",
+    readUrl: "https://pan.baidu.com/s/1g8Amvff96j_-pX3n1P1A0g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsd/",
   },
 
@@ -76072,6 +77171,7 @@ export const bookItems = [
     excerpt: "”如果一个大学生球员拥有巅峰纳什的投篮能力，会是什么样？“”打穿NCAA。“”再加上白巧克力的传球呢？“”乐透区没问题。“”再加上极高的球商，斯托克顿的出勤率、卡特的扣篮、韦德的盖帽、佩顿的单防、科比的背身技术、纳瓦罗的抛投？“”球队大腿，全明星首发，建队核心，MVP！总冠军有力争夺者！！可是已经很久没见这种级别的全能后卫了。“”废话，因为他是中锋！“————杨林穿越回2011年，成为杜克大学的饮",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsi_NBA：杨姓中锋，却来后卫模板1-371章.txt",
+    readUrl: "https://pan.baidu.com/s/1HZ3oH3zT1QS77LVyXOBQfw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsi/",
   },
 
@@ -76088,6 +77188,7 @@ export const bookItems = [
     excerpt: "“V。”“嗯？”“我得跟你承认，我之前确实是小看那家伙了……曾经我以为，这个世界上最厉害的，大概就是重锤这种人，身上塞满了义体，恨不得脑子都对半儿切，还特么不发疯。”“所以你能想象，有一个一丁点儿义体都没装的家伙，却能搞出这么大的事吗？”“真是稀奇，强尼银手也会佩服别人了？”“嗯。”强尼面无表情地挠了挠胯，很是认真地点了点头。“还记得我说过的上世纪的那些老掉牙漫画吗？这货……就跟特么超人一样。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsj_赛博朋克里的锻体独狼1-464章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZlZfweMlYAponR1LtEEydA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsj/",
   },
 
@@ -76105,6 +77206,7 @@ export const bookItems = [
     excerpt: "从《狗阵》到《小欢喜》，从《精英律师》到《欢乐颂》，秦安令一个个诸天世界，变成他认为应该的模样。 世界排序： 已完成：《狗阵》、《小欢喜》、《精英律师》、《杀戒》、《欢乐颂》、《芳华》、《高山下的花环》、《第一炉香》、《命悬一生》 当前世界：《玫瑰的故事》 后续世界待定：《大江大河》、《三十而已》、《流金岁月》、《欢乐颂3》、《前任攻略》、《漫长的世界》、《半熟男女》、《边水往事》、《小武》……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsk_人在诸天，无限逍遥1-704章.txt",
+    readUrl: "https://pan.baidu.com/s/1xrmQ-uVLhro-uddp2qia3Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsk/",
   },
 
@@ -76122,6 +77224,7 @@ export const bookItems = [
     excerpt: "我叫李玄霸，是唐国公家的老三，自幼体弱多病，是家里最孱弱的孩子。直到有一天，大哥纵马外出，摔了一跤，他醒来之后，就变得神神叨叨，他拉着我的手，说我将来是天下无敌的猛将，能一人打杀百万乱军。既然大哥都这么说了，那就一定是真的。又名《大唐霸王传》，《从李玄霸到李元霸》，《人造霸王计划》，《哥哥们，现在事态紧急！》。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsl_大哥说我天下无敌1-580章.txt",
+    readUrl: "https://pan.baidu.com/s/1RG6Vsjr3Tn9Jy2RTObGOEA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsl/",
   },
 
@@ -76190,6 +77293,7 @@ export const bookItems = [
     excerpt: "带着一杆魂幡穿越三国，成了被曹操称为“守户之犬”的刘璋。知足常乐的刘璋心里还是挺开心的。守户有什么不好？不说别的，起码逍遥一生应该不成问题，何必提心吊胆的打打杀杀。但想到因为上蹿下跳的老爹而被扣押在京城中的经历，慎勇的刘璋选择提前溜到益州苟着。用魂幡培养些忠心能干的谋士武将、官吏士卒，埋头种田。本想就这么安安静静的关起门来过自己的小日子。但奈何身边总有些不平事，看不过去的刘璋只好清理门户。可谁知道",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsp_三国守户1-727章.txt",
+    readUrl: "https://pan.baidu.com/s/1w4XJ-h4j31EPpf3EhJZqgw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsp/",
   },
 
@@ -76207,6 +77311,7 @@ export const bookItems = [
     excerpt: "赤柱监狱里面个个都是人才，说话又好听。 李青穿越而来，赤柱进修五年，人送外号——赤柱小霸王。 出狱谋夺三亿债券，一步登天，直接做大佬！ 打工是不可能打工的，这辈子都不可能打工的！ 都穿越了，要做就做最大，不然我不是白穿了吗？ 大傻：“我在赤柱做生意的时候……” 李青：“坐牢就坐牢嘛，做什么生意？坐牢见不得人啊？以后跟我混！” … 仇杰：“青哥，你的赌术早已经超过我，以后你才是‘亚洲第一快手’了！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsr_港综：开局三亿债券，出狱做大佬1-233章.txt",
+    readUrl: "https://pan.baidu.com/s/1yNMWXHoGpNvbBk5RsSjsfA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsr/",
   },
 
@@ -76223,6 +77328,7 @@ export const bookItems = [
     excerpt: "因拍无脑短剧而重生的吕睿回到了01年，身上还携带着一个【十项全能大导演】系统！目标：走上人生巅峰！可系统却不按常理出牌！开局任务是汉化好莱坞电影？奖励是好莱坞导演们的各种导演技巧？诱惑力直线拉满！干！干的就是汉化！干的就是导演！干的就是文抄！……老师在拍《不要和陌生人说话》？吕睿：“化个缘，借我用下你们剧组的人手呗？”《消失的爱人》横空出世！【奖励：大卫·芬奇的手稿图绘画技巧……】……陆钏吹牛《寻",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wss_我一个三金导演十项全能很合理吧1-809章.txt",
+    readUrl: "https://pan.baidu.com/s/1UqaHuxRImhNYnO0JBCJ46A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wss/",
   },
 
@@ -76240,6 +77346,7 @@ export const bookItems = [
     excerpt: "醉卧沙场君莫笑，古来征战几人回？ 乱世帝星携带召唤系统入世与诸世帝王，王侯将相争锋。 这里有横勇无敌的天宝大将独战桃园三兄弟，霸王项羽孤军破唐军，白袍薛仁贵箭射金兀术！ 这是全历史英雄与异界人杰之间的大混战！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wst_我在异世召唤全史名将1-2013章.txt",
+    readUrl: "https://pan.baidu.com/s/1o9oJZ49KqyUCUKDbusMV2w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wst/",
   },
 
@@ -76257,6 +77364,7 @@ export const bookItems = [
     excerpt: "【目前在更唯一一部高订过万古代刑侦文，不容错过】贞观二年春，李建成墓穴轰然坍塌。护卫剖开冰封的棺材，里面只有一滩血写的谶语：「武德九年六月初四，雨」——正是玄武门之变的日期。棺材之内的尸首不翼而飞！李世民震怒，责令追查李建成尸首。谁料此时，李建成鬼魂忽现世间，残杀数名官员，民间开始流传“李建成不甘玄武门被杀，化作厉鬼欲夺回天下”的流言。朝廷内外人心惶惶，百姓人人自危。李世民怒而令司空裴寂、尚书仆射",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsu_贞观第一刑案官1-365章.txt",
+    readUrl: "https://pan.baidu.com/s/1C2zFT2Fr6hsDAGvwL2oMjA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsu/",
   },
 
@@ -76291,6 +77399,7 @@ export const bookItems = [
     excerpt: "洪武二十三年，李祺穿越为李善长之子，家族倾覆，他也被流放江浦。幸好他身负系统，能在死后化为祖宗神灵保佑家族。从洪武朝的罪族，到永乐朝的新贵，数百年间，李氏恢复相权，推行科学，掘墓封建，摄政天下，建立秘党，直至凌驾于皇权之上，带领着大明统御整个世界，甚至走向无垠星空。大明，不是皇帝一人的大明，而是所有汉人的大明。当皇冠落地，有人说李氏依旧在暗中操纵着一切政治经济，是黑暗中的皇族。无人言语。唯有一代又",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsx_大明世家五百年1-483章.txt",
+    readUrl: "https://pan.baidu.com/s/1eBWN0SDbeNdfKiG9sEH7tQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsx/",
   },
 
@@ -76307,6 +77416,7 @@ export const bookItems = [
     excerpt: "欢迎来到地狱游戏。 [进入副本：血腥餐厅] [你应聘的岗位是：外卖员] [你的客户有：浑身散发着尸臭的肥宅，一言不合就爆浆的女仆...] [你的同事有：漂亮得不像人的女老板，字面意义上的牛马，满嘴法兰西粗口的吃人树...] 面对这些卧龙凤雏，想好好做人的刘正只好不做人了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wsy_地狱游戏：从大都会开始1-1010章.txt",
+    readUrl: "https://pan.baidu.com/s/1YXDr1d9BwdP2A8G8pmZneQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wsy/",
   },
 
@@ -76342,6 +77452,7 @@ export const bookItems = [
     excerpt: "穿越绝世唐门，在这个平民连武魂是什么都不知道的时代，陈元却好运的完成了武魂自主觉醒，而且脑子里还有个贪吃的小家伙和一道巨大的光柱。原先还想着要不要和唐神王虚与委蛇，现在……猛攻！必须猛攻！！！邪魂师泛滥成灾，四大帝国腐朽不堪，贵族阶级那些人更是将底层百姓视为刍狗。这个世界本不该是这个样子！勇气的火光将会点燃这个腐朽的世界。勇气将会如太阳光辉一般，驱赶一切邪恶力量。～～～唐三：“竟然想要破坏我的万年",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtd_斗罗绝世：烈焰武神，搭档达力古1-289章.txt",
+    readUrl: "https://pan.baidu.com/s/1s6mr_x7-wIvX_-eCEGnPyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtd/",
   },
 
@@ -76358,6 +77469,7 @@ export const bookItems = [
     excerpt: "不要和我说谎，我能够闻到你身上间谍的味道——孟绍原。 一个微表情专家，他确定，自己能够改变很多东西。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtf_迷踪谍影1-3732章.txt",
+    readUrl: "https://pan.baidu.com/s/1-ei2GqZiz8z58u8kLTlrNA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtf/",
   },
 
@@ -76375,6 +77487,7 @@ export const bookItems = [
     excerpt: "林寅本是国际组织的黑衣搜查官，穿越之后获得具有情报功能的青玉。 随着介入荣国府的重大案件，林寅开始逐渐卷入朝堂权力旋涡之中，只得与政敌展开权力博弈。 从太学的历事小吏开始，历经刑部、兵部、太学、翰林院、通政司等各个衙门，最终走上权力巅峰，登基为帝。 这一世，江山，美人，我全都要！ 还要与美人共赏这大好河山！ 待我君临天下，且看我养成金陵十二钗，助我重整河山！ 【90章起势】+【细腻园子戏】+【金钗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtg_红楼：金钗请自重，我是搜查官1-422章.txt",
+    readUrl: "https://pan.baidu.com/s/1V4tZSZP6Lsmz91CuqBv_Ww?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtg/",
   },
 
@@ -76410,6 +77523,7 @@ export const bookItems = [
     excerpt: "穿越华娱，从1995年年底开始。台娱日薄西山，港娱正值巅峰，内娱刚刚起步。林见鹿也没想到，自己第一张专辑就直接打穿了两岸三地，直接封王了。这还怎么退休？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtk_华娱的盛宴1-354章.txt",
+    readUrl: "https://pan.baidu.com/s/1D9Efks31SHGj0dO1rkWA9w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtk/",
   },
 
@@ -76426,6 +77540,7 @@ export const bookItems = [
     excerpt: "（原名：这阴间地下城谁设计的）为了活命，不幸变成了塞恩地下城城主的宫奇英不得不把他的地下城建设的无比“阴间”【无法从这一侧打开】的大门、【触发了传送陷阱】的宝箱、从出生点到BOSS房之间没有任何休息处的三百六十五里路、在独木桥两边架起大弓的魔物骑士、在转角处偷袭的阴险老六，还有不得不品鉴的粪坑毒池、隐藏道路......更有苇名一心、熔炉骑士、激昂金狮子、天灾军团等等高手带给你意外惊喜吔！冒火直剑、",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtn_这阴间地下城谁设计的！1-1097章.txt",
+    readUrl: "https://pan.baidu.com/s/1EaoawMr4nNsRagOoKSi7ew?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtn/",
   },
 
@@ -76443,6 +77558,7 @@ export const bookItems = [
     excerpt: "​这逆生三重，我有三不练。​第一重我不练，因为它菜。让人一晃上丹就散了，不够一巴掌打的。​第二重我不练，因为它累。脑袋上一直顶个球，自己都累成球了。​第三重我不练，因为我善。我老恩师顶球顶了一辈子，临了临了，我给他扒拉下来，我于心不忍呐。“无量天尊，什么竖中指，贫道是出家人，怎能干如此粗鄙之事？我这叫王灵官法印！”陆瑾：张之维，站住！牛鼻子，你给我站住！张之维：贺松龄，站住！狗东西，你给我站住！贺",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wto_三一逆徒：从一人之下逆生诸天1-1317章.txt",
+    readUrl: "https://pan.baidu.com/s/1kbcoqmBzE8u9BqmY2GuAEw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wto/",
   },
 
@@ -76460,6 +77576,7 @@ export const bookItems = [
     excerpt: "问，如果患有低血压，应该服用什么药物治疗？答，去看《南明史》。遍读青篇三百史，不忍南明十八年。都说世界是一个巨大的草台班子，可南明这个班子，未免太过草率。草率就草率吧，也没别的办法，因为有个人穿越到了南明。本来是打算摆烂的，可他们竟然请我当皇帝。你们，你们真是害苦了朕……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wts_南明，这个皇帝有点稳1-591章.txt",
+    readUrl: "https://pan.baidu.com/s/1RefEyWngCvJBoU72KAH3Eg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wts/",
   },
 
@@ -76476,6 +77593,7 @@ export const bookItems = [
     excerpt: "手握秘境对点帮扶计划书，关意可以用帮扶方秘境的技能攻略待攻略秘境。拳愿的武技在海贼王世界能闯出一番天地吗？在一人之下世界修术百年，能应对死神吗？葬送的芙莉莲、火影忍者、七大罪、全职猎人，不同世界的技能交织，会迸发怎样的光彩？秘境对秘境，世界对世界！四羊新作，综漫同人，欢迎诸位品鉴收藏！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtv_从拳愿暴打海贼王开始1-554章.txt",
+    readUrl: "https://pan.baidu.com/s/1sFMjt0fCpvhDywFI80FKdg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtv/",
   },
 
@@ -76493,6 +77611,7 @@ export const bookItems = [
     excerpt: "传统版：当一缕无边广大的剑光降临时，灵魂、运势、因果、命定、以及存在本身，所有一切都将被斩断，这是剑道的极致，万有归墟之劫。剑分生死，万灵归墟！迪化版：当某个剑客意外来到轮回乐园后，穿梭各界的契约者们就发现好像有什么改变了。某幸运系契约者不敢置信地对着一个因果系的强者说：你敢信吗？我今天碰到了刀男和剑人，我…………某灭法嘴角抽搐地看着世界联络平台的一个名字，然后又看看自己的任务目标，有些怀疑人生地",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtw_轮回乐园：归墟劫1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/1SXfHF767Ca35BOaG3fB5eQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtw/",
   },
 
@@ -76509,6 +77628,7 @@ export const bookItems = [
     excerpt: "乾隆六十年，明年就是嘉庆元年。清朝中期规模最大，影响最深远得白莲教大起义即将爆发。……聂宇挥斥方遒，指着乾隆老狗的鼻子。“这饿死人的盛世，这虽远必赔的鞑清，还是亡了吧！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtx_哪有什么康乾盛世1-715章.txt",
+    readUrl: "https://pan.baidu.com/s/1ivxUq_cr7vXa9unx3PQjug?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtx/",
   },
 
@@ -76526,6 +77646,7 @@ export const bookItems = [
     excerpt: "永生世界唯唯诺诺！凡人世界重拳出击！方寒:肉身境，竟然会法术！韩立:筑基期，击杀结丹修士！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wtz_凡人之我来自玄黄大世界1-946章.txt",
+    readUrl: "https://pan.baidu.com/s/1EmxP3oHgiouZSIGrpzpmdg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wtz/",
   },
 
@@ -76543,6 +77664,7 @@ export const bookItems = [
     excerpt: "丁晓穿越汉末三国的荆州，开局一只破碗，自己都没得吃的，竟然还被官府塞了一妻一妾。为了一家三口的生存，丁晓穷思竭虑，根据穿越前的知识努力改变自己，提升地位。育阳黄家的家丁——育阳黄家商队的队长——沔水黄家小姐黄月英的护卫。他的身份不断变化。期间，他也听了不少关于天才的故事。天才诸葛亮的故事。天才庞统的故事。人杰徐庶的故事。丁晓原本以为，自己就这样老婆孩子热炕头。直到有一天，他坐在隆中茅庐，和诸葛亮斗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wu_三国：季汉继任丞相！1-540章.txt",
+    readUrl: "https://pan.baidu.com/s/1yh6sHuYkwPUEHEVKpH3rYw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wu/",
   },
 
@@ -76560,6 +77682,7 @@ export const bookItems = [
     excerpt: "自那一晚被大车碾过之后，许乐就过上了一种既不是人，也不是神的生活。从过去的两点一线，变成了九点十八线。上午，他要将在本市流窜的下水道缉拿归案。中午，他要出门去处理一场19/2027年的战争。下午茶的时候，他得花功夫和自己搭档以及手机斗智斗勇。最后，在下班之前，他还要以幽冥邪王的身份，去三鲜教吃个便饭。至于晚上......他回到了1999年。“我最后重申一遍，我不是神，也对你的计划毫无兴趣，我就是个",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wua_神人调查局1-405章.txt",
+    readUrl: "https://pan.baidu.com/s/19oC8QVpgInz-SriROMk8mA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wua/",
   },
 
@@ -76577,6 +77700,7 @@ export const bookItems = [
     excerpt: "崇祯元年。崇祯以雷霆手段除掉了阉党党首魏忠贤，他踌躇满志，谋求大明的中兴。谒陵归来，因风雪阻路，他误打误撞走进了一家奇怪的书店。在这间奇怪的书店里，他赫然发现这里竟然在售卖一本叫做《明史》的书，崇祯瞬间懵了……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wub_大明：书店卖明史，崇祯懵了！1-106章.txt",
+    readUrl: "https://pan.baidu.com/s/1AZklBKkrUK2gwYCluflD8Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wub/",
   },
 
@@ -76594,6 +77718,7 @@ export const bookItems = [
     excerpt: "一个老套的穿越故事后，洛克穿越了，然后穿越成了很多分。不幸的是，由于孤儿的身份，他们老是会被莫名其妙的盯上，导致时常陷入危险之中。在生死危机之间，洛克们终于遇见彼此，而这时，他们惊奇的发现，除了共享能力以外，他们还能共享一个系统。【最强角色扮演系统】他们可以卡系统bug同时扮演不同的诸天角色，一人成众。黑袍纠察队队中，被超英迫害的洛克从地狱归来，化身饿狼狩猎英雄。咒术回战，成为降灵受肉体的洛克化身",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuc_同时穿越：我们共享角色扮演系统1-269章.txt",
+    readUrl: "https://pan.baidu.com/s/1ryPjKo5AavTfiONtZfYBtQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuc/",
   },
 
@@ -76611,6 +77736,7 @@ export const bookItems = [
     excerpt: "野原广志吸收了一个穿越者的灵魂记忆，发现自己竟然是漫画和动画片里的虚拟角色。但他并不气馁，他发誓要凭借自己的努力，在这个哪怕是漫画的世界，也要让家人过上好日子。毕竟在穿越者的记忆里，可是有着1992年到2026年的记忆呢！“等等？什么叫正统力作《蜡笔小新》……”“鬼畜魔改……《野原广志の午餐流派》？”野原广志发现，似乎是有点不太妙了。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wue_野原广志的午餐流派1-405章.txt",
+    readUrl: "https://pan.baidu.com/s/1Vl_SYqROsunjLXffxD34Iw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wue/",
   },
 
@@ -76628,6 +77754,7 @@ export const bookItems = [
     excerpt: "北宋末年，靖康前夕，穿越而来的陈绍目标明确。为了防止大宋被金国灭掉，他决定先一步取而代之！没有大宋，你怎么灭宋？当女真人铁蹄南下的时候，十万将士露刃列于庭曰：“诸军无主，愿策陈绍为天子。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wui_你们真是害苦了朕啊1-665章.txt",
+    readUrl: "https://pan.baidu.com/s/1m2M-VybOIAnkpB3ATQGbAw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wui/",
   },
 
@@ -76645,6 +77772,7 @@ export const bookItems = [
     excerpt: "赵德昭VS千古第一车神宋太宗。陈桥兵变前夕，一位后人魂穿赵匡胤的次子赵德昭，亲爹是一手终结了五代乱世的宋太祖，叔父更是千古第一驴车战神宋太宗。陈桥兵变、金匮之盟、烛影斧声……历史厚重的画卷在赵德昭面前徐徐展开。想起原本历史上自己凄惨的结局，赵德昭看着眼前的赵光义，叹道：“叔父，侄儿这一生如履薄冰，您说，朕能走到对岸吗？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuk_昭宋：家父宋太祖1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/1pb6WOmmtv6LDEqj2yntV0w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuk/",
   },
 
@@ -76679,6 +77807,7 @@ export const bookItems = [
     excerpt: "新书《半岛第一老实人》已经上线，火热连载中。本书又名：《从郑秀妍开始成为韩娱教父》《女爱豆疯抢身为制作人的我》《这个制作人的粉丝怎么登顶半岛第一啊》2015年，我，成为了SM女团制作人。什么！开局就被李秀满开除。不是，凭什么啊。郑秀妍：原来你也是SM的复仇者吗？来成为我solo专辑的制作人吧。我：……五年后……郑秀妍：不是，你一个制作人，粉丝怎么比我还多啊。房间门被撞开，金泰妍，IU，裴珠泫，金智",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wun_半岛：韩娱第一制作人1-1175章.txt",
+    readUrl: "https://pan.baidu.com/s/13xHrYrV76rUpjdFP1epnPQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wun/",
   },
 
@@ -76695,6 +77824,7 @@ export const bookItems = [
     excerpt: "【诡异+悬疑+民俗+无限流】 你有过，抓心挠肝、寝食难安，恨不得交换一切、也要得到某样东西吗？你试过，求神拜佛、失魂落魄，却无论如何也做不到某些事吗？明明得到了想要的一切，她却偏偏又从你生命中消失，你感受过那样的痛苦吗？生老病死，爱别离，求不得，怨憎会……你的折磨，我感受到了。那么，来这里吧，来到诡怨回廊，你想要的一切，都会实现……噗，呵哈哈哈……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuo_诡怨回廊1-970章.txt",
+    readUrl: "https://pan.baidu.com/s/1vNhEDlvw3MZjOMf52JYqpQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuo/",
   },
 
@@ -76712,6 +77842,7 @@ export const bookItems = [
     excerpt: "生活在2080年的李松带着二手交易平台，魂穿百年前的1979年的港岛！ 李松：我的，都是我的。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wup_重回港岛百年1-792章.txt",
+    readUrl: "https://pan.baidu.com/s/1qkqvlCZz8KJWdvfLqvRapg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wup/",
   },
 
@@ -76728,6 +77859,7 @@ export const bookItems = [
     excerpt: "新的纪元，人类获得新纪元天命眷顾，在成年时便能觉醒神域种子，开辟神域，成为神域之主。穿越而来的楚诚手握上个纪元遗物，从一个神性生命开始，开辟神域，经营眷族信徒，点燃神火，凝聚神格。率领英雄与眷族军队征战外域，掠夺资源，征服无数位面与晶壁系，掠夺神格，最终成就无上伟力，神上神。注：神祇流与领主流相结合，涉及全战3战锤，英雄无敌，骑砍等元素。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuq_神祇纪元1-374章.txt",
+    readUrl: "https://pan.baidu.com/s/15lktbpgeo6pFC_ug07SNlw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuq/",
   },
 
@@ -76745,6 +77877,7 @@ export const bookItems = [
     excerpt: "魂穿星际时代，杨博发现可以从杀死的对象里面随机获取能力！杀死一条金鱼，游泳+1！杀死一只蝙蝠，声波定位+1！杀死一只老鼠，动态视野+1！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wur_星际：从清洁工开始1-1807章.txt",
+    readUrl: "https://pan.baidu.com/s/141iQ0Qx-DjwhxQivsVta0A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wur/",
   },
 
@@ -76762,6 +77895,7 @@ export const bookItems = [
     excerpt: "联邦、帝国、企业联合，这是一个无比危险的星际时代。所有智慧生灵都能够通过特殊仪式就职拥有超凡伟力的职业，这也是所谓的职业者。李昂即不幸又幸运的穿越到了这个世界。不幸是因为他作为一名普通人想要在这种危险的世界寿终正寝的概率基本为0。幸运则是因为他觉醒了两个强大的天赋。旅人：每当经历大事件之后，都可以开启新的旅程。控制台玩家：作为墙后的玩家，你可就职的职业数量为...∞。当李昂第一次来到一人世界时，他",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wus_我的职业面板怎么是二次元画风？1-591章.txt",
+    readUrl: "https://pan.baidu.com/s/1q4ReMdpdCfYTOYmxOv3iNw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wus/",
   },
 
@@ -76779,6 +77913,7 @@ export const bookItems = [
     excerpt: "天地大变，元气复苏。贾氏先祖探秘境，得底蕴，辅佐天命之人一统汉家大地，建立大昭！贾氏二代传人秉承父辈遗志，大力发展家族，培育家族传人，完善府内武备。可天有不测风云，人有旦夕祸福。一门双国公，屹立于大昭门阀最顶端的贾氏突逢大难，致使二、三两代底蕴尽数折损，危若累卵！值大厦将倾之际，一位原著中不存在的四代嫡子觉醒前尘记忆，掌至宝修武道。借着天地大变的浪潮，一步步攀登至巅峰！本书又名《清道夫穿越古代封建",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuu_红楼：从仙武开始1-321章.txt",
+    readUrl: "https://pan.baidu.com/s/1HbtgJHFra7wtOEQf9FUS2g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuu/",
   },
 
@@ -76796,6 +77931,7 @@ export const bookItems = [
     excerpt: "我叫罗宾，被一辆半挂车送到了美利坚，成了德州圣安东尼奥警局下的一名实习警员，还被绑定了骑砍系统。系统告诉我这里被邪神污染，处于黑暗中世纪，处处都是危机，还好我作为一名实习骑士，有资格获得圣光赐福，并最终进阶为圣骑士！ 但我必须完成系统发布的每日任务，将那些该死的兽人、地精、哥布林、魅魔、食尸鬼、女巫、邪神使者、混沌腐化者，堕落者……全部关押、收容或处决！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuv_人在美利坚：系统说是中世纪！1-256章.txt",
+    readUrl: "https://pan.baidu.com/s/1gMCX02f6fNWpze2cxvBBIw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuv/",
   },
 
@@ -76813,6 +77949,7 @@ export const bookItems = [
     excerpt: "前世灾年，全家只活了赵文东一个。他孤独的游走在人世间，每天不断的上山下海，苦练打猎和捕鱼的本事，只因为当初他要是有这些本事，家人们就不会死。他总是期盼着晚上的到来，因为梦中可以见到亲人。总是害怕醒来，怕下一次再也梦不到家人，更怕忘了家人的样子。无数次午夜梦回，赵文东都会忍不住想，如果人生能重来一次，他一定要靠自己的本事不再让家人出意外，不再有人饿死。直到有一天，他真的重生了，还能听到动物的心声..",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuw_重生灾年，我偷听动物心声养全家1-359章.txt",
+    readUrl: "https://pan.baidu.com/s/1fcXPVwyqnE0luaADak0Qlw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuw/",
   },
 
@@ -76830,6 +77967,7 @@ export const bookItems = [
     excerpt: "星海历1314纪，动荡多年的星海终于迎来了和平，众生一致决定将星海和平奖颁给身为万象混元真君、万界盟约缔造者、救世的圣师与万灵之主的我。因为，镜月无相魔君、众神黄昏灾星者、诸界的灾厄与归墟之主，也是我。......“总而言之先做个梦。”“梦里什么都有。”——节选自星海和平奖颁奖仪式后对白禹的采访。......p.s.类无限流，非幕后",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wuz_我的梦境驾临诸天1-440章.txt",
+    readUrl: "https://pan.baidu.com/s/1yzjbrW3vIbuf5cjhfDqlqQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wuz/",
   },
 
@@ -76846,6 +77984,7 @@ export const bookItems = [
     excerpt: "宇智波斑：虽然我活了那么久，但是奈良和月的忍术我还真没见过纲手：谁让他跳舞的？啊？不知道他跳的这个舞要命吗？穿越后的奈良和月发现自己的忍术只要肝够熟练度就能升级，于是他走上了一条奇怪的忍者之路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wv_木叶：我的忍术能升级1-518章.txt",
+    readUrl: "https://pan.baidu.com/s/1jaR4GKCr3rN3x8vpq1kXsQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wv/",
   },
 
@@ -76862,6 +78001,7 @@ export const bookItems = [
     excerpt: "拳打奥斯曼，脚踢法兰西，内统神罗诸邦，外吞大勃板鸭。重铸哈布斯堡荣光，我辈义不容辞！在那交错的时空轨迹里，【遗腹子】失去了他的绰号，但得到了一位更加长寿的父亲。一场变故却让一个异世界的灵魂带着神秘的金手指来到这个混乱的世界，他注定将在这里谱写新的史诗。时局诡谲，风云激荡的欧洲大陆，鹿死谁手尚未可知。霸权征途之上，联姻为笔，战争作墨，究竟哪般能绘就宏图？是化身战狂，以铁骑踏破山河；还是巧为魅魔，用谋",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wva_从奥地利到日不落帝国1-703章.txt",
+    readUrl: "https://pan.baidu.com/s/1wdYcnSUP11fmRDbaVhjmXQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wva/",
   },
 
@@ -76878,6 +78018,7 @@ export const bookItems = [
     excerpt: "【铭记历史，缅怀先烈，奋勇前行——纪念抗战胜利80周年征文三等奖作品】 一九三六年，于白山黑水之间有一群与世隔绝永不言退的疯子。 在资源枯竭后，这片土地寂静下来，一个在林子里迷路的护林员不断咒骂。 他遇见了一棵无比粗壮的红松，树干上歪歪扭扭的字体依旧可见，远处传来歌声。他一头闯了进去，探视这片土地曾经的过往。 ——抗联从此过，子孙不断头！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvd_我的抗联岁月1-1254章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZN3U0GGQKiJtFGi_820Ujw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvd/",
   },
 
@@ -76894,6 +78035,7 @@ export const bookItems = [
     excerpt: "【恭喜宿主成功来到修仙界，系统将助你成为修仙界最强修仙者】 “啊，我穿越了？”周睿看着熟悉的天花板一脸懵逼。 【任务一:加入宗门，初入修仙界的你第一要务就是加入一个合格的宗门。】 “统子哥，我还在现代啊？那有宗门让我加入？” 【任务二：夺魁，成功加入宗门的你遭受他人白眼，三十年河东，三十年河西，莫欺少年穷！成功在宗门大比夺魁体质加1】 “这个体质…加的是我想的那个吗？” 【任务三：修仙界仙子魔女妖",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvg_华娱：我来修个仙1-591章.txt",
+    readUrl: "https://pan.baidu.com/s/1n6H-1LjWTeBjLt4yHK8Hgg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvg/",
   },
 
@@ -76945,6 +78087,7 @@ export const bookItems = [
     excerpt: "【男频文】、【多女主】、【园子戏】 侯府二公子李宸觉醒前世记忆后，又神奇的与林黛玉互换了身体。 李宸从此扮演林黛玉在荣国府搅风搅雨、享受生活；林黛玉也只好扮演对方发奋读书、求取功名。 若干年的纠缠互换，李宸平步青云，权倾朝野；林黛玉玉体康愈，倒拔垂杨柳…… 薛宝钗内心os：为什么我看林妹妹和镇远侯府二公子都有点喜欢。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvl_红楼：我和黛玉互穿了1-541章.txt",
+    readUrl: "https://pan.baidu.com/s/1BoeGdWQqC7MWbFUjKjgE_A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvl/",
   },
 
@@ -76962,6 +78105,7 @@ export const bookItems = [
     excerpt: "星空大开发时代，异能觉醒。李环重活一世，觉醒异能【治疗】，可惜只能治疗一些小伤势，还即将被征召到死亡率高达九成的未开拓星球。然而出发前夕，发现自己能够穿梭诸天，异能似乎发生了微妙的变化。遮天世界，叶凡：你这【治疗】道伤也能治？李环：道伤也是伤！于是黑暗动乱叶凡身后有了个超级奶妈！吞噬星空世界，罗峰：你这【修补】还能断肢重生？李环：修补断肢也是修补！完美世界内，石昊：你这【整活】怎么感觉有些怪？李长",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvp_诸天，从用概念技治疗道伤开始1-440章.txt",
+    readUrl: "https://pan.baidu.com/s/18RQJlUFYrscrASoMre2CQw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvp/",
   },
 
@@ -77030,6 +78174,7 @@ export const bookItems = [
     excerpt: "九十九流就是这样，共享平台只用存在就可以，各个世界的陆克要整的花活就多了。 火影陆克:拳打忍者学校，脚踢火影大楼，打架需蒙面，战绩不可查，抽象是一门艺术。海贼陆克:数值即是为王的理由！异人陆克:龙虎山最靓的崽，异人界最欠的货。 百变怪陆克：既然我可以变成人，为什么要把目光局限在宝可梦身上，女训练家全部梭哈！咒回陆克:什么？你怎么知道我刚刚成神！精灵陆克:我常因为不够变态与你们格格不入。 龙族陆克:",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvu_同时穿越：在诸天成为传说1-626章.txt",
+    readUrl: "https://pan.baidu.com/s/1oAEMms7cls7Y-Hka01xVcQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvu/",
   },
 
@@ -77047,6 +78192,7 @@ export const bookItems = [
     excerpt: "陈小刀这辈子最大的梦想，既不是把家族产业做大做强，也不是练成绝世武功在江湖上扬名立万。他的梦想只有一个，那就是把对面中州镖局的小姐姐娶回家当媳妇。你说中州镖局有三位云英未嫁的小娘子，问陈小刀到底看中了哪一个？嘿嘿嘿！！！那个······陈小刀表示：一个不嫌少，三个不嫌多。多多益善！！多多益善嘛！！！！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvx_镖师：我看上了总镖头家的三姐妹1-354章.txt",
+    readUrl: "https://pan.baidu.com/s/1-vRoHpVtSnd8Vn_45FuESg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvx/",
   },
 
@@ -77063,6 +78209,7 @@ export const bookItems = [
     excerpt: "知名网文作者“仁慈”，创作出《凤族》《八洲》等经典小说的传奇网文作者，Z时代最具商业性作家，21世纪最年轻的富豪作家......最具IP改编价值作家......2024年7月，仁慈死了。然而在死后，得到的却并非网友们的祝福，反而而是恶毒的咒骂。“其他作者死了我会感到惋惜，这位我只能祝他好似。”“善恶终有报了。BYD万订切书，上架跳脸，出道才几年，切了十几本书。”“前不久还在BILIBILI跟读者对",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wvz_惊天大太监，转生文学少女1-266章.txt",
+    readUrl: "https://pan.baidu.com/s/1JbKSVAb_AMwhwyUVGFXlFQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wvz/",
   },
 
@@ -77098,6 +78245,7 @@ export const bookItems = [
     excerpt: "齐林从审讯室醒来时，发现自己成了一场凶杀案的主要嫌疑人。 迷离错乱的记忆，自相矛盾的证据，不可填补的时间空白……超脱常理的行凶，将一切指向诡异丛生的新世界。 直至他戴上面具，想要从眼孔中探寻真相，却发现众生皆在傩面之下，早已看不清未来与结局。 【都市悬疑+异能+群像文，稳定日更4000+】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwa_傩面之下1-396章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZkYB-TgBHO2-ddvyvlC2eg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwa/",
   },
 
@@ -77115,6 +78263,7 @@ export const bookItems = [
     excerpt: "正上班摸鱼，看着一本遮天同人小说的陆洲，没想到自己只是眨个眼的功夫，就穿越到了遮天世界！还正好就处于九龙拉棺降临泰山的时候！就当他震惊着这一切的时候，签到系统叮了他一下。签到泰山，获得万斤巨力！签到九龙棺，获得乾坤珠！签到大雷音寺，获得三次大帝级悟性！签到荒古禁地，获得......多年以后，遮天世界除了一个叶天帝之外，还多了另一尊杀出来的红尘仙！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwb_横推遮天：从泰山签到开始1-646章.txt",
+    readUrl: "https://pan.baidu.com/s/1Zezr9QlqWJ7CvF9f5O1H1A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwb/",
   },
 
@@ -77131,6 +78280,7 @@ export const bookItems = [
     excerpt: "重生到九龙夺嫡的平行世界，想着大干一场的沈叶，却发现自己竟然成了被群起而攻之的太子。知道太子最大敌人不是那些兄弟，而是越来越猜疑的皇帝。沈叶在发现难以复制玄武门之变后，就决定躺平了！反正再努力也成为不了皇帝，爱咋咋地……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwe_戾天子1-937章.txt",
+    readUrl: "https://pan.baidu.com/s/11myjzcMMDXFDeFFKuyHZRQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwe/",
   },
 
@@ -77148,6 +78298,7 @@ export const bookItems = [
     excerpt: "木叶49年，第三次忍界大战如火如荼进行着，迈特戴还没有手撕忍刀七人众，旗木卡卡西还没来得及捅死野原琳。一个如老农般埋首耕耘的日向分家少年抬起头，睁开那双属于宗家的白眼，在这血腥又洁白的双眼中，火影的世界究竟是什么样子呢？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwf_白眼中的火影世界1-269章.txt",
+    readUrl: "https://pan.baidu.com/s/1YS6wEzTR3oIuE75eynfOeg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwf/",
   },
 
@@ -77164,6 +78315,7 @@ export const bookItems = [
     excerpt: "永历十五年冬十月，仙山现于海州湾，有仙人受太祖高皇帝之托降于安东卫城……",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwg_灭清1-331章.txt",
+    readUrl: "https://pan.baidu.com/s/1-fJF0hMDzs4BIhKddZZYBg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwg/",
   },
 
@@ -77181,6 +78333,7 @@ export const bookItems = [
     excerpt: "【轮回乐园同人】【持续日万中……】享誉世界的美食家陆离因车祸逝世，生命的最后得到了轮回乐园的招揽，为了品尝那些前所未闻的食材，陆离欣然接受，至此踏上了游历世界的品鉴之旅。然而，品鉴之旅和陆离想象中的轻松惬意有些不同“我就是做了道菜而已，怎么就是违规者了，我冤枉啊！”狠人兄看着眼前满脸无辜的陆离好奇道：“你做了道什么菜？”陆离害羞一笑：“爆炒原始蛊。”在他的身后，碧游村旧址发出一阵轰鸣声，随后轰然倒",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwh_轮回乐园：我就做个菜也算违规？1-821章.txt",
+    readUrl: "https://pan.baidu.com/s/1XslnqGAwPf8VXFlHAImNQA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwh/",
   },
 
@@ -77198,6 +78351,7 @@ export const bookItems = [
     excerpt: "【主世界+诸天副本】……“神父，我有罪。”夜深人静，变态杀人魔在教堂忏悔。洛恩喀嚓上膛，从忏悔室后面伸出左轮，顶在对方额头。“别担心，我也不是什么好人。”五大教会、古代历史、半神家族、破碎律法、教廷圣女……从不太对劲的北美开始，洛恩踏上登神长阶。警察、巫师、驱魔人、特工、灵能者、刺客、波西米亚剑圣、海盗、希腊半神、赛博传奇、至尊法师……他的身份多到连自己都数不清，每一个名字背后都是无尽荣誉。但洛恩",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwk_诸天：请叫我罪恶克星！1-156章.txt",
+    readUrl: "https://pan.baidu.com/s/1bmP3Deq6rTeTNg243Fo5QQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwk/",
   },
 
@@ -77214,6 +78368,7 @@ export const bookItems = [
     excerpt: "庄华机缘巧合之下，居然因祸得福，被天道选中，能够穿梭到平行空间的世界中去，而且还是他熟识的影视世界。他是知否中的学子，一路青云直上成为宰相，更是明兰、如兰、华兰和淑兰全都要。他是民国的大夫，凭借一手医术纵横灵异世界。他是现代都市的学子，享受着平凡而又青春的大学生活。……且看庄华在诸天世界中穿梭历练，领悟大道，完成超脱。世界：知否、民国九叔、一起同过窗、绣春刀、影、大唐双龙传、庆余年、雪中悍刀行、诛",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwl_影视诸天：我来领悟大道1-786章.txt",
+    readUrl: "https://pan.baidu.com/s/1ThAzSGBSoKn_VYnzvCaiXQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwl/",
   },
 
@@ -77231,6 +78386,7 @@ export const bookItems = [
     excerpt: "据透露：亚洲首富宋词与其夫人、人气女星刘师师前往腾达总部，慰问春节假期值守员工。 这是刘师师首次以腾达集团董事长夫人的身份，公开亮相。 网友极度震惊，飞上枝头变凤凰，女明星嫁入豪门的例子也有不少，但和刘师师一比，简直弱爆了！ 这可是亚洲首富夫人，千亿美金跨国集团老板娘！ 本文半华娱半商业，前期古早言情风，可从150章看起，后期越写越顺。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwn_娱乐大亨：从互联网开始布局1-937章.txt",
+    readUrl: "https://pan.baidu.com/s/1X8uFxK4ddMFuKnNmLCzarA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwn/",
   },
 
@@ -77248,6 +78404,7 @@ export const bookItems = [
     excerpt: "【火影+元祖无限】穿越火影世界，成为宇智波家一个忍者天赋一般的普通族人。宇智波弦拼尽全力修炼，也未能成功开启写轮眼，只有普通中忍的实力。如果不出意外的话，灭族之夜他将必死无疑。正当他打定主意润出木叶，从此隐姓埋名的时候，一道邀请函却是出现在了他的面前。‘想明白生命的意义吗？想真正的活着吗？’‘Yes/No’",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwr_这个忍者会开基因锁1-284章.txt",
+    readUrl: "https://pan.baidu.com/s/1G8QfpThlAc8ON_lh8oTigQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwr/",
   },
 
@@ -77264,6 +78421,7 @@ export const bookItems = [
     excerpt: "(阎浮无限流，姑获鸟同人)一朝身入阎浮，秦淮神游三千果实。清末江湖，拳术广传。北境有罗刹鬼穷搜拳谱珍物，欲夺神州秘药，而后龙虎京华斗，敌酋尽授首！南粤现传教士坑骗九龙宝地，图谋社稷神器，然则阎王催命来，丹晖解城围！永乐年间，妖鬼横行。交趾之地，魑魅搏人应见惯，怎敌他，覆雨翻云手。秦淮通天人气象，斩思凡佛孽，杀六道鬼众，赦罪二十四诸天！盛唐开元，安西绝响。蒸汽朋克，天瑞机甲，祆教明王，三衣大食，昭武",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwu_阎浮武事1-865章.txt",
+    readUrl: "https://pan.baidu.com/s/1lwkM2ELDEPDb-0JY89ReSg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwu/",
   },
 
@@ -77281,6 +78439,7 @@ export const bookItems = [
     excerpt: "穿越到崇祯皇帝朱由检身上，我直接开始摆烂，别人的摆烂都是演的，只有我是认真的。 亲哥木匠皇帝23岁就死了，大学还没毕业；亲爹才当了一个月皇帝就完蛋；爷爷万历皇帝30年不上朝一身病还活到了58岁，应该学谁不是一目了然吗？ 纵观大明皇帝，自永乐以后，但凡励精图治的都英灵早逝了，开摆还能苟活。什么改革、集权、科技树，我懒得弄，因为露头就秒，大明皇帝溶于水，我不想落水。 我联姻大臣，生小孩总不至于得罪人吧",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wwz_明末：我崇祯摆烂怎么了？！1-381章.txt",
+    readUrl: "https://pan.baidu.com/s/10SA_dZLvFMdPxboP1Ik1cA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wwz/",
   },
 
@@ -77298,6 +78457,7 @@ export const bookItems = [
     excerpt: "当年我在山里，拿着土枪、土炮、汉阳造乱窜的时候；你叫我土八路，我不挑你的理。但是现在，你看着我后这几根十几米高的大圆木；你告诉我，你该叫我什么？大点声，我这里的东风有点大，听不清！PS：本故事纯属虚构，如有雷同，纯属巧合。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxc_亮剑：从晋西北打到上甘岭1-685章.txt",
+    readUrl: "https://pan.baidu.com/s/1etjvjeJKe8mokzWzT6If3w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxc/",
   },
 
@@ -77314,6 +78474,7 @@ export const bookItems = [
     excerpt: "坏消息：林一来到了咒术回战的世界。好消息：他成了一名咒术师！林一觉得自己很倒霉，莫名其妙来到了咒术回战的世界，好在运气不错，落地就送一个本土化的金手指，术式·两级反转。林一：我有两个形态，一个是cos无限剑制的咒术师形态，一个是cos有成长属性的天予暴君·假面骑士形态，你想跟我哪个形态打？嘿嘿，这下子哥们就不用怕宿傩了，报告导演，我已经准备好排队根宿傩打架了。等会，什么叫宿傩还没出场我要先打五条悟",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxe_咒术回战：我的术式无上限1-184章.txt",
+    readUrl: "https://pan.baidu.com/s/17DjN1akbX8XOQ_lRdx3k6Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxe/",
   },
 
@@ -77331,6 +78492,7 @@ export const bookItems = [
     excerpt: "回到那个激情似火的年代，我是一名火车司机",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxg_四合院里的火车司机1-1431章.txt",
+    readUrl: "https://pan.baidu.com/s/1oOOBqP0yYx36XqHXN0AJWA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxg/",
   },
 
@@ -77348,6 +78510,7 @@ export const bookItems = [
     excerpt: "刚进娱乐圈，陈砚的系统来了。职业模版是不是不太对劲？不过是胖了一点，宅了一点，成绩差了一点，还染了黄毛而已。凭什么叫我黄毛？请叫我绅士！面对系统的造谣，陈砚咬牙切齿，悲愤交加，无奈接受！对不起，一切错误都是系统的锅！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxi_人在华娱，职业系统太绅士了1-256章.txt",
+    readUrl: "https://pan.baidu.com/s/1d-ctNe7DdfbrnzFsihXrGg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxi/",
   },
 
@@ -77365,6 +78528,7 @@ export const bookItems = [
     excerpt: "我，文浩，联盟第一野王！野，是野王的野；王，是海王的王！……本书又名：《玩转电竞圈》《电竞魅魔2.0》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxj_联盟野王，玩转电竞圈1-257章.txt",
+    readUrl: "https://pan.baidu.com/s/13JoX8u4gkQjzmpnoqNkj_g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxj/",
   },
 
@@ -77382,6 +78546,7 @@ export const bookItems = [
     excerpt: "汉室衰弱，群雄逐鹿。徐州陶谦、兖州曹操、扬州袁术，窥探中原。刘公初居小沛，深陷纷争，欲问前程何在？子刘桓携母南下，望父成龙，文辅安邦，武以定世。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxk_家父刘备，望父成龙1-364章.txt",
+    readUrl: "https://pan.baidu.com/s/1CedljEJU4cluYm88TrU4kA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxk/",
   },
 
@@ -77399,6 +78564,7 @@ export const bookItems = [
     excerpt: "【公认黛玉人设丰满，描写细腻，为第一女主，适合黛玉党及红楼爱好者阅读】【黛玉女主+金钗互动园子戏＋感情甜蜜细腻+半架空明末历史+尊重原著人设+非种马】【着重黛玉为主的金钗群像，以乱世挽天倾为历史背景，写变革时代中，红楼群芳的风云际会】【非花瓶女主，非无脑后宫，非猥琐男主，非阴谋论，写的是红楼人物介入乱世历史的合理推演】女娲炼石已荒唐，又向荒唐演大荒此系身前身后事，倩谁记去作奇传穿越红楼世界，公府旁",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxl_红楼：权倾天下，我和黛玉挽天倾1-449章.txt",
+    readUrl: "https://pan.baidu.com/s/1OMjuqcFuJl2QyuJTPLeLWg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxl/",
   },
 
@@ -77451,6 +78617,7 @@ export const bookItems = [
     excerpt: "“哈？渣男？你们自愿的凭什么说我是渣男？”……坂本健重生东京，一周目，把现实当成恋爱Galgame玩，结果被三位少女堵上天台，打出了GG。二周目，坂本健发现自己拥有前世各种文娱作品的记忆，于是决定不再沾花惹草，专心成为漫画大师。恋爱什么的，哪有挣钱重要？这一次，从对业界使出《链锯人》开始！然而，上周目的她们再次一个个出现在了坂本健的生活当中……“什么就玛奇玛是你的精神写照了？什么叫帕瓦是以你为参照",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxq_柴刀流漫画大师1-292章.txt",
+    readUrl: "https://pan.baidu.com/s/11-DSYHFK4YiX23eiXRzGGQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxq/",
   },
 
@@ -77468,6 +78635,7 @@ export const bookItems = [
     excerpt: "陈铭义一觉睡醒，来到一个群魔乱舞的时代，他发现本地人说话办事太没礼貌了，于是......",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxu_港综：我做事最讲义气1-390章.txt",
+    readUrl: "https://pan.baidu.com/s/1G7JU5DC_QsYGdASLUrLWXA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxu/",
   },
 
@@ -77485,6 +78653,7 @@ export const bookItems = [
     excerpt: "前世学霸，魂穿废柴少年李业体内，从此开启稳如老狗，扮猪吃虎的旅程。从蓝星外星元年（平行宇宙）开始，李业凭借前世喜欢的传统玄幻等网文思路，靠（意外获得）基因古树系统和大环境修炼体系，双管齐下开启基因修行之路。修炼稳如老狗的李业，遇到的事却总是鸡飞狗跳，但身为一只学霸，李业每次都会沉着冷静的去（试图）解决问题......在一次次事件中，李业世界观逐渐崩塌。是他狭隘了。每次想得最多的是，能否活着回去和确",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wxw_我能提取万物属性点1-556章.txt",
+    readUrl: "https://pan.baidu.com/s/1BPaWJ8_Fjy2lkQyOb2abqQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wxw/",
   },
 
@@ -77537,6 +78706,7 @@ export const bookItems = [
     excerpt: "陆成已经到三十岁的而立之年，身为县医院的主治医生，资质一般，能力有限，收入微薄。医学浩瀚，如金字塔般序列分明，陆成的医生之路一辈子都能望到头。住院医师、主治医师、副主任医师、主任医师，层次分明，每走一步都举步维艰。陆成只是医学金字塔中最最最基层的一只蝼蚁。县城医院里，人情交织、想学没处学，就连升职称都得排队到关系户的身后……所幸的是，陆成一觉醒来，发现自己觉醒了大医系统，治病救人就可以获得技能点，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wya_人已中年，这个医生才出道1-379章.txt",
+    readUrl: "https://pan.baidu.com/s/1fLLyOuNYjYn4T5lfLF5j9A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wya/",
   },
 
@@ -77553,6 +78723,7 @@ export const bookItems = [
     excerpt: "“所以，你这手段到底是怎么回事儿？” “自然是叫倒转八方了！” “倒转八方！？有这么变态？” 青年张之维看着眼前将自己的雷法扭曲起来的陈源，嘴角抽了抽。 “可能我的倒转八方比较强吧，或许可以称之为磁场转动！”陈源咧嘴一笑。…… 穿越到民国年代的陈源，意外拜师全性鬼手王，学习倒转八方。于是他交手少年陆瑾，对战张之维，痛殴无根生，战日寇，学百家艺。【性命双修】【倒转八方】【西游原旨】【逆生三重】【百家",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyb_一人之下：我能转动磁场！1-695章.txt",
+    readUrl: "https://pan.baidu.com/s/14GVG6eNUXM0AYKY6JIxtIw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyb/",
   },
 
@@ -77570,6 +78741,7 @@ export const bookItems = [
     excerpt: "日薪一万美刀，准时到账！这破班，陈俊河是一天也忍不了。系统觉醒当天，他直接上交工牌裸辞。都说越南是有钱人的天堂。陈俊河揣着大把美刀，活得无比潇洒恣意，骑最快的摩托，载最辣的妹，逛最野的夜市，买最嗨的醉。从河内三十六行古街，到西贡的钻石广场，别人精打细算，他只看心情刷卡，别人卷生卷死，他爽到飞起。用最俗的钱，活成越南最浪的仔。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyc_财富自由从越南开始1-549章.txt",
+    readUrl: "https://pan.baidu.com/s/16-oTg-1fwUHjsXe9cUUuFw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyc/",
   },
 
@@ -77586,6 +78758,7 @@ export const bookItems = [
     excerpt: "“这听起来很不可思议，但这很有可能是那女人在下仙人跳。” “你知道的，每天都有骨肉皮缠着我们这些球星，没有人比我更懂他！” 在一场全美直播ncaa的赛后，作为当家球星陈征旗帜鲜明的支持他，遭受巨大的言论压力。 被全美口诛笔伐的陈征打开篮坛反派boss系统，看着疯涨的罪恶值，口中发出桀桀桀笑声。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyf_人在篮坛，速成BOSS1-279章.txt",
+    readUrl: "https://pan.baidu.com/s/1aJRQ0a7mWmUvWJkWNer_iQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyf/",
   },
 
@@ -77603,6 +78776,7 @@ export const bookItems = [
     excerpt: "寒窗苦读数载，身为贾家旁支的贾璟看着周围万千赶往考场的士子，心有感慨，正所谓。入场时篦梳搜身如验贼，归号时蜷入席舍如病鹅。开题时冥思苦索如参禅，完卷时神魂耗尽如抽丝。候榜时卜筮掷卦如求丹，落第时面如槁木如丧妣。但身处这么一个将万卷诗书夯作登天之梯、把十年寒窗炼成唯一通途的时代，贾璟只能握紧手中的笔，从这号舍开始，一寸寸，写下属于他的青云路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyg_红楼：风雪青云路1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1LrpcF1XjGzGNoZI3Y7adcw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyg/",
   },
 
@@ -77620,6 +78794,7 @@ export const bookItems = [
     excerpt: "（ps：一句话，主角是跟踪读书老爷写出来的！）重生成为朱棣第四子的朱高煌凭借修仙打卡系统，已于人世间无敌。但为了修仙永生离家游历天下数载，当他御剑回归皇宫的时候。便是画风变幻之时……朱高炽：“老二，大哥这么多年也没求过你一件事，现在只求你把这皇位给继承了吧！”朱高喣：“哎，大哥你这就不至于了，我天生尖嘴猴腮，我还是觉得大侄子有天子相！”朱瞻基：“二叔，可我已经当四叔亲卫了！”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyh_大明：老四，带咱一起修仙！1-450章.txt",
+    readUrl: "https://pan.baidu.com/s/1-X-2H0fQ7L3XJcY79m2-SA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyh/",
   },
 
@@ -77636,6 +78811,7 @@ export const bookItems = [
     excerpt: "首先，邓布利多知道吉德罗·洛哈特是个骗人的假货。 其次，罗哈也知道洛哈特是个假货，因为他穿越成洛哈特了。 现在的问题是，邓布利多打算把他请到霍格沃茨当反面教材，而罗哈这个连最简单魔法都施展不出来的假货一心只想躺平享受原身积攒下来的诺大家业。 但最终，罗哈还是去了霍格沃茨担任黑魔法防御课教授。 是魔法豪宅和堆满金库的金加隆不香吗？ 还是十几本源源不绝赚取稿费的畅销书的成就还不能让他满足？ 亦或者是心",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyk_霍格沃茨的混子教授1-385章.txt",
+    readUrl: "https://pan.baidu.com/s/1SrA1E9qA7Evl-cX8rSFiHQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyk/",
   },
 
@@ -77653,6 +78829,7 @@ export const bookItems = [
     excerpt: "路修原本只是在玩游戏，结果莫名其妙就穿越到1914年，成了一名陆军下士。刚一睁眼，上司就告诉他：“你去守住这条滨海公路、顶住两百倍敌人的突围！”那些不把人民当人的国王、皇帝真是该死！两边都一样！东面有百倍的敌人想突围，西面有百倍的敌人想接应，南面有滔滔洪水，北面是汪洋北海和敌人的巡洋舰。这仗还能打？“当然要打！不打就会死！不就是一个连打五个师么？优势在我！”“不过打完之后，我会把两边那些草菅人命的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyl_从粉碎敦刻尔克开始1-635章.txt",
+    readUrl: "https://pan.baidu.com/s/1xf2gRH4a7gx8PUg0ozoEuw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyl/",
   },
 
@@ -77670,6 +78847,7 @@ export const bookItems = [
     excerpt: "中堂我身居高位，你们竟敢说我的名字是假的，我的功名是假的，我为官这么多年的经历是假的，我为大清做出的杰出贡献是假的，我的老婆孩子也是假的！天理何在！你们不讲道理，中堂我只能跟你们讲拳脚了。.............本书又名《我在满清撸小贷》、《老太爷刷卡时为零》。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wym_清妖1-1022章.txt",
+    readUrl: "https://pan.baidu.com/s/1Evyyc3jSLqcFsZyIQytlEg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wym/",
   },
 
@@ -77687,6 +78865,7 @@ export const bookItems = [
     excerpt: "又名：《什么叫撒旦背后纹着美利坚？》《等等，现代社会哪里来的克苏鲁？》《斩杀线面前人人平等》《高达爆仓后，我的SAN值掉光了》《美利坚人民有钢铁般的精神》……罗杰撞大运穿越到了美利坚，成了一名最底层的流浪汉，本以为自己只能艰难挣扎，却没想到觉醒了克苏鲁系统。【检测到调查员正在邪神遍地的克苏鲁世界探索求生，特发布每日情报如下：】【情报：深夜，有流浪汉与流浪狗低语，言辞古怪且难以理解。目击者称其神情恍",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyn_人在美利坚，克苏鲁系统什么鬼？1-293章.txt",
+    readUrl: "https://pan.baidu.com/s/1gXTo8bSO3HCOWXG5yjrrkQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyn/",
   },
 
@@ -77704,6 +78883,7 @@ export const bookItems = [
     excerpt: "一把柳叶刀独闯警界，一双慧眼探寻真相。穿越平行世界，江安成为江城市一名法医，毕业报到就遇大案。学生离奇吊死，校方：这是自杀！江安：这是受他人伤害死亡。建筑工地工人坠楼，施工方：这是意外失足！江安：这是安全事故导致死。少妇携幼儿跳楼，婆婆：她有抑郁症自杀！江安：这不是自己跳楼！20年悬案未决，退休老刑侦：此案是我的遗憾！江安：我找到了破案方向！......江城有江安，从此再无悬案！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyo_你一个法医，比刑警还厉害！1-693章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZwGmJTd2ZGDQq7tw-fA2kQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyo/",
   },
 
@@ -77721,6 +78901,7 @@ export const bookItems = [
     excerpt: "想把夜之城烧成灰吗？想干翻这堆沟槽的公司企业吗？想尝试全感虚拟现实游戏吗？你还在等什么？赶紧订购《未来视界-赛博朋克》买不了吃亏！买不了上当！不要998，不要298，不要198，名额免费送！荒坂、军用科技、康陶、生物科技、苏石化：这群赛博神经病是从哪里来的？夜氏公司：别看着我啊，你们不会把这群上蹿下跳的猴子当流窜AI吧？蓝眼睛先生：我不认识他们夜之城最火性偶：这群疯子为什么每个人都要杀我一遍留照纪",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyp_玩家入侵赛博朋克1-685章.txt",
+    readUrl: "https://pan.baidu.com/s/1QdzIAiGOtV0D7e96bigRug?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyp/",
   },
 
@@ -77755,6 +78936,7 @@ export const bookItems = [
     excerpt: "【捕获人间体】【正在渗透现实宇宙……】【侵入世界根源法则！……侦测高纬度生命体！……未发现其他维度生命……】【正在载入人间体！】你是穿越一切维度之上的玩家，拥有近乎于上帝私生子般的权柄。你拥有无数的身份，乞丐、贱民、海盗、角斗士、游侠、北地恶龙、地狱行刑者、星际浪子、异怪猎手、魔女的主人、帝国掘墓人、诸神黄昏、灭世者等等。整个现实宇宙都是你的游戏场。你是至高的域外天魔！你是上帝的私生子！你是凌驾于",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyv_超维度玩家1-523章.txt",
+    readUrl: "https://pan.baidu.com/s/120ZtMeBhAXvL7UsI1JkwuA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyv/",
   },
 
@@ -77790,6 +78972,7 @@ export const bookItems = [
     excerpt: "穿越成红楼超级美男，面对独断专横的色鬼老爹，霸道狠辣的美艳老婆，以及二房那一家子面带猪像，实则内心嘹亮的亲人们，贾琏决定，是时候好好整顿一下他们了。这是个为贾家立魂的故事。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wyx_红楼琏二爷1-1139章.txt",
+    readUrl: "https://pan.baidu.com/s/1DuxnxcmZMWxAldcofnY8iA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wyx/",
   },
 
@@ -77825,6 +79008,7 @@ export const bookItems = [
     excerpt: "江不平一觉醒来，发现自己待在一口深埋地下的棺材里，喘气都费劲。好在他还有一部能拨打110的手机。在警察的帮助下，他成功从棺材中脱困，正准备回家，却发现天上有两个月亮！“警察同志，我好像穿越了......”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wza_穿越被活埋，我反手拨打报警电话1-376章.txt",
+    readUrl: "https://pan.baidu.com/s/1mn7O4BbU0wT097mKTCWgYQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wza/",
   },
 
@@ -77841,6 +79025,7 @@ export const bookItems = [
     excerpt: "打打游戏就能改变世界?【黑科技】【大规模精神污染】【时间线变更点】【文明编年史】对我而言，那是在一次次死亡而后读档的循环里谱写的史诗。若文明在黑暗中前进。我会于一千万个时间线的夹缝里。为它寻找黎明的出路。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzb_我用游戏改变了时间线1-1202章.txt",
+    readUrl: "https://pan.baidu.com/s/1pB8eiVzXgOFTjUH6hmRCxg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzb/",
   },
 
@@ -77858,6 +79043,7 @@ export const bookItems = [
     excerpt: "大运创人，罗克转眼来到海贼王世界。好在他觉醒一个词条系统，只要对海贼王剧情造成影响，就抽取各类词条。大爱仙尊的【一把抓住，顷刻炼化】、克比的二百倍努力【努力王】。烧烧人替太阳神挡岩浆拳的【烧烧果实，狗都不吃】、传奇耐杀王路飞的【仰卧起坐】…… “天龙人？五老星？伊姆？从今天起，由我立足天空之上!”……本书又名：【海贼：我词条是一把抓住顷刻炼化】【海贼：开局抓住小偷娜美！】【词条】、【梗】，",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wze_从海贼开始打造最强词条1-600章.txt",
+    readUrl: "https://pan.baidu.com/s/1weMSaHQC9vh-4KfltO_Lbg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wze/",
   },
 
@@ -77875,6 +79061,7 @@ export const bookItems = [
     excerpt: "大唐建立，道教当兴。穿越成为小道童，可对面就有一个和尚庙。这俩搁一块能有啥好事儿？然后这个庙似乎叫少林？不能坐以待毙。你们助唐我也助唐。你十三棍僧助秦王是吧。那我就努力成为玄武门之变的总策划，看谁才能笑到最后。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzg_大唐：如何成为玄武门总策划1-351章.txt",
+    readUrl: "https://pan.baidu.com/s/1uZhhXWihnkFQ1197nRS2Bw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzg/",
   },
 
@@ -77891,6 +79078,7 @@ export const bookItems = [
     excerpt: "“连入《多元宇宙综合游戏网络》（以下简称《综网》）成功，正在读取版本信息……” “根据推荐者指定，当前《综网》版本设定为：天赋者的命运之轮。” 旧时代的标尺在这一刻彻底崩断…… 人物获得一次天赋觉醒机会…… 正在激活玩家天赋……根据玩家内心最纯粹的渴望，天赋【混沌道兵箓】已觉醒。 “基于玩家天赋，获得限定基础职业：光环法师。” “基于玩家天赋，光环法师职业基础特性已自适应转化。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzh_综网：我的道兵，皆为神明1-800章.txt",
+    readUrl: "https://pan.baidu.com/s/1kkq2C0X7tGyCSXUDK7EfPA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzh/",
   },
 
@@ -77907,6 +79095,7 @@ export const bookItems = [
     excerpt: "（万均）多年以后，当纳博科夫在美国讲授俄国文学的时候。他是如此这般操作的。 他在黑漆漆的屋子里先是打开了墙角的一盏灯，并说道：“普希金是俄罗斯文学的第一盏明灯。” 紧接着又打开中间的一盏，讲道：“这是果戈理。” 而后再打开一盏灯，言道：“这是契诃夫。” 随后，他迈着大步走到窗边，用力扯开窗帘，让明媚的阳光照进屋内，大声叫嚷：“这就是托尔斯泰！” 平复一阵心情后，有学生举手问道:“教授，那外面的天空",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzj_我在俄国当文豪1-605章.txt",
+    readUrl: "https://pan.baidu.com/s/14enmosH2dg69znLoFy_nmg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzj/",
   },
 
@@ -77924,6 +79113,7 @@ export const bookItems = [
     excerpt: "元祐七年，集英殿殿试。徐行望着垂帘之后的模糊身影，做了一个大胆的决定。他写下《辩新法疏》，直言神宗变法“初衷本善，志在富国强兵”，其弊“在吏非其人，法未臻善”。在这旧党张目，新党蛰伏之际，他公然唱起来反调。最终被高滔滔亲笔贬谪三甲末尾。在放榜那日，他见到了盛府盛长柏的名字，才意识到自己正身处一个繁杂的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzk_人在北宋，开局娶盛明兰1-523章.txt",
+    readUrl: "https://pan.baidu.com/s/1xe5_cikJgHjSeTDnGwI15w?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzk/",
   },
 
@@ -77941,6 +79131,7 @@ export const bookItems = [
     excerpt: "可恶的阿斯让，你一天到晚都在干些什么呢?什么事这么重要，竟使你忙得没有时间，给你高贵可敬的庇主再写一封信呢? 是什么样的感情，窒息和排挤了你答应给她的忠诚，以及你向往去她身边的承诺呢？ 究竟是什么奇妙的东西——是金钱，是地位？还是名望？到底是什么，竟能占去你的每一分钟，霸占你每天的光阴，不让你稍稍关心一下你的庇主呢? 阿斯让，注意点！说不定哪个夜黑风高的晚上，我会像刺客一样破门而入！好叫你跪地向我",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzm_谁说要向魔女效忠？1-726章.txt",
+    readUrl: "https://pan.baidu.com/s/1A17Fqp2p8iKoTWICh4duBQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzm/",
   },
 
@@ -77958,6 +79149,7 @@ export const bookItems = [
     excerpt: "“我翻开忍界历史一查，这历史没有年代，歪歪斜斜的每页上都写着'忍者工具论'几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着字是'吃人'”“难道我要顺应历史？”“不...这个忍界不该是这样！”那一年，在宇智波走入深渊前夕，宇智波诚义无反顾的站了出来，脱离宇智波一族，建立了属于自己的忍村。.....多年后...忍界的灯塔照亮这个忍界，驱逐了黑暗。越来越多的忍者觉醒了！“什么？原来下忍",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzn_火影：我建立的忍村没有斩杀线！1-431章.txt",
+    readUrl: "https://pan.baidu.com/s/1yJAYo2Wsoz3IaN2YuDYNBQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzn/",
   },
 
@@ -77975,6 +79167,7 @@ export const bookItems = [
     excerpt: "作为穿越者，于数百年前死去的南安离奇地复活了。他的新身份暂时是……召唤物？“你的意思是，我死之后，魔法隔断、知识封存、黑雾弥漫、异常肆虐、黑潮涌动、秩序崩塌？”得到肯定回答，南安发现，他成了这个世界的老资历，一个旧日的亡灵。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzo_旧日回响1-318章.txt",
+    readUrl: "https://pan.baidu.com/s/12xBs6NPZmTiXFcHHkCGLLg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzo/",
   },
 
@@ -77992,6 +79185,7 @@ export const bookItems = [
     excerpt: "张平安穿越四合院，误打误撞进入交道口街道办工作。建国才几年，百废待兴，街道办刚组建，虽然是基层机构，但该管的可不少。小到鸡毛蒜皮，大到生老病死，工作下乡，一个人的一生，都跟街道息息相关。来看张平安从一个小小的街道办临时工开始，开启专属于他的火红色年代。腕骨读者群：739907561腕骨新书，重生83，从摆地摊开始！欢迎义父们品鉴",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzp_四合院：从交道口街道办开始！1-736章.txt",
+    readUrl: "https://pan.baidu.com/s/1TvASXCn3mVnPVnV-PvSNsQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzp/",
   },
 
@@ -78026,6 +79220,7 @@ export const bookItems = [
     excerpt: "那是光和六年（183年），距离搅动汉家大厦的黄巾起义只有数月时间！而这一年。曹老板在洛阳担任议郎；刘先主还带着关、张横行涿县一方；孙十万才刚刚学会走路。也是这一年，有一个断发的流民来到了徐州琅邪郡西海县。站在奎山之上，对身前的数十流民问道：“我陈烈需要十个不怕死的，去干一件大事，可有愿者？”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzr_三国：汉末小民1-613章.txt",
+    readUrl: "https://pan.baidu.com/s/1l-FUyCHGBztY8VKDeX_JFQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzr/",
   },
 
@@ -78043,6 +79238,7 @@ export const bookItems = [
     excerpt: "大神级代练的李斯一觉醒来，发现自己穿越到《神启》游戏之中，成为了沉迷魔法的子爵大人。知道自己即将面对的是硝烟四起的大陆全面战争、波澜壮阔的异世界远征、世界树的莫名腐朽、危机四伏的深渊恶魔入侵......李斯表示自己有点慌。......还好游戏系统还在，自己还拥有【全能者】天赋。依靠前世记忆，转职奥术师，解析元素模型，重塑世界规则，一步一步登临那无上的宝座。......玩家们吐槽他:“这个boss太",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzu_我以奥术登临神座1-1085章.txt",
+    readUrl: "https://pan.baidu.com/s/1a1XbTJ0xpBbMeJkirS-rbw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzu/",
   },
 
@@ -78059,6 +79255,7 @@ export const bookItems = [
     excerpt: "来到平行世界。还没安顿好，就发现原身为了买了一块地，欠了一笔高利贷。刚跟高利贷催收人员互怼一顿，正犹豫要不要跑路的时候，一个自称武松的人过来了。不仅如此，后面还来了不少书里或者历史上的人物。吕布：”兄嘚，我把貂蝉抓来了。“秦琼：“兄弟待我如此，我秦叔宝岂是忘恩负义之辈？这门神我当了！”杨再兴：“怎么这里的人武力这么高？”辛弃疾：“......想当年，金戈铁马，气吞万里如虎，咦，这就是铁马？”（本书",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_wzz_人在大西北，手握一座城1-1522章.txt",
+    readUrl: "https://pan.baidu.com/s/1uc3Ge8onvszeVQ7BtQyf5g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/wzz/",
   },
 
@@ -78076,6 +79273,7 @@ export const bookItems = [
     excerpt: "好消息，重生了，回到2012。 坏消息，回到高考前一百天，知识都忘完了。 还有一个好消息，拥有一个超级阅读系统。 读书就能学习技能，获得属性点，改变命运。 阅读《青囊经》，获得中医精通。 阅读《财富论》，获得金融精通，获得经济精通，获得货币精通。 阅读《图神经网络：基础、前沿与应用》……，获得超级大脑。 恋爱？狗都不谈，而我只想搞事业！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_x_重生的我只想当学霸1-1078章.txt",
+    readUrl: "https://pan.baidu.com/s/17HYA8PI29gJ0tnD1DVhHbw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/x/",
   },
 
@@ -78110,6 +79308,7 @@ export const bookItems = [
     excerpt: "这是一个有着无限可能的时代，蒸汽与钢铁，齿轮与发条。蒸汽动力与差分机，象征着人类文明的无限未来，然而没有人注意到，在蒸汽的阴霾下，在钢铁的阴影中，那黑暗的，神秘的奥秘之物，从来没有离开。而一位来自异乡的旅客，将在这个动荡，自由，梦幻的世界揭开那黑暗中的神秘面纱，书写属于自己的历史与传说………============================西贝猫出品，完本保证",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xb_蒸汽世界的奥秘侦探1-737章.txt",
+    readUrl: "https://pan.baidu.com/s/1Sb4ACX7dNBulnX09Pw676Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xb/",
   },
 
@@ -78127,6 +79326,7 @@ export const bookItems = [
     excerpt: "“威尔瑞，你罄竹难书，恶行累累！从恐惧之眼到神圣泰拉，从大漩涡到帝国暗面，你的恶名无人不知，无人不晓！” “你作为混沌战帅，通过午夜领主散播恐惧，利用死亡守卫污染星球，指挥怀言者亵渎国教，凭借阿尔法瑞斯暗中潜伏，借助千子巫师举行亵渎仪式，召集荷鲁斯之子发动黑色远征！” “除此之外，你还搅乱大漩涡与帝国暗面，攻击帝国星球与机械教会，事到如今还有什么可辩解的？” 威尔瑞：“我虽然做过这些事情，但是我却",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xc_战锤：帝皇，请相信我是忠诚的！1-1832章.txt",
+    readUrl: "https://pan.baidu.com/s/1wC68_6mRtydvO_iRFRDAOA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xc/",
   },
 
@@ -78162,6 +79362,7 @@ export const bookItems = [
     excerpt: "路明非等了十八年，没有等到向他敞开的卡塞尔之门，反而等来了不要脸的小偷。既然如此，那就给这个疯狂的世界加点料吧！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xg_诡秘：路明非不想当上帝1-784章.txt",
+    readUrl: "https://pan.baidu.com/s/1IrviF0-haJXTj2cxWus0Xg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xg/",
   },
 
@@ -78197,6 +79398,7 @@ export const bookItems = [
     excerpt: "二十七年前，异境突然降临地星，使人类成为拥有超凡能力的职业者。由此，人类的生存道路拐了个大弯，劈了个大岔。书生，一个百无一用的职业，却因为穿越者周景登上了神坛。只要是读过的书，周景就可以从其中召唤人物为自己战斗。《水浒传》《红楼梦》《三国演义》《西游记》《聊斋志异》《搜神记》《神异经》《山海经》《精忠说岳》《封神演义》《隋唐演义》《子不语》……穿越前周景读过多少书，他自己的都数不清。三国豪杰，天罡",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xi_异境：我能召唤书中人物1-1049章.txt",
+    readUrl: "https://pan.baidu.com/s/19bfhpRTEV3DAJ1J9SQN8rA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xi/",
   },
 
@@ -78213,6 +79415,7 @@ export const bookItems = [
     excerpt: "仙界难登，命断门前。塑体重生，一梦千年。沧海化桑田，日月换新天。铁鸟凌空渡，广厦千万间。金匣函天下事，琉璃映五千年。耳听四海九鼎，眼见隔岸红颜。微火寒冬如春暖，相濡沙漠胜甘泉。得成比目何辞死，愿作鸳鸯不羡仙。【都市】【言情】【单女主】【非修仙】",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xj_不想升仙了怎么办1-382章.txt",
+    readUrl: "https://pan.baidu.com/s/1akA2zSUlYZoD9uu7zHAlZg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xj/",
   },
 
@@ -78229,6 +79432,7 @@ export const bookItems = [
     excerpt: "杨渊穿越斗罗大陆。上一秒刚觉醒完美世界无上超脱系统。下一秒系统就察觉到绑定错人果断跑路。好在系统跑路前给杨渊留了一点补偿奖励。正所谓，重瞳已是无敌路，多块骨头多条路。杨渊开局觉醒双生武魂重瞳至尊骨，从此一路高歌猛进。登天路，踏歌行，弹指遮天。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xk_人在斗罗，开局获得重瞳至尊骨1-265章.txt",
+    readUrl: "https://pan.baidu.com/s/1hVsOylyIa1Lb1yJ5QZE6cw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xk/",
   },
 
@@ -78263,6 +79467,7 @@ export const bookItems = [
     excerpt: "科拿:他只能我说，什么时候轮得到你们说三道四！？卡露妮:分手是我的问题，他真的很好。小菊儿:阿诚，我当时只是一时情绪失控才说分手的，我们复合好不好？嘉德丽雅:御龙诚你这个混蛋！居然对希罗娜小姐做那种事情！玛俐:轮到我们的回合了吗？御龙诚看着这帮冠军女友，又看了看自己的系统提示。【叮！你已获得女友拉帝亚斯词条——恶意感知】【叮！你已获得女友蒂安希词条——宝石创造】【叮！你已获得女友穿着熊词条——卡璞",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xm_女友们不努力我怎么当宝可梦大师1-245章.txt",
+    readUrl: "https://pan.baidu.com/s/1KM5csuRmmvuT-pXSbrAm-g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xm/",
   },
 
@@ -78280,6 +79485,7 @@ export const bookItems = [
     excerpt: "记者：”大道寺阁下，好多人都说您的施政纲领过于激进了，您怎么看？“大道寺宗介：“他们越是反对我，就越证明我是正确的。”记者：“那么还有人说在您加入警视厅后，霓虹的犯罪程度就突然升级了，对此您又是怎么看的？”大道寺宗介：“这证明我们的执法手段还是太温和了，起不到对罪犯的震慑作用。”记者：“那么能请您解释一下为什么您的竞选对手经常会卷入莫名其妙的命案里？您是如何控制这一切的？”大道寺宗介：”抱歉，无可",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xn_柯南：从警视厅到国会1-333章.txt",
+    readUrl: "https://pan.baidu.com/s/1EyTaE6RmO-2o99PFiwHDsw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xn/",
   },
 
@@ -78296,6 +79502,7 @@ export const bookItems = [
     excerpt: "父亲，忍者的器量真的是有极限的啊，在我短暂的忍者生涯里观察到，一个忍者越是辛苦修炼，拼命战斗，就越会成为可怜的短命鬼，要成为超越忍者的存在啊。什么？儿子，你在说什么啊？我…不当忍者了，父亲！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xo_火影：忍者从入门到入土1-324章.txt",
+    readUrl: "https://pan.baidu.com/s/10hGcGhcQ_x9Z58L43xPCqA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xo/",
   },
 
@@ -78313,6 +79520,7 @@ export const bookItems = [
     excerpt: "都说不想当导演的摄影师不是好演员，顾杰深以为然，选择从忽悠开始出道。不当不知道，一当吓一跳。导演的快乐外人还真想象不到。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xp_从忽悠豪门范开始成为全能导演1-597章.txt",
+    readUrl: "https://pan.baidu.com/s/1gN7cg4r45lzA9ubh7plRQA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xp/",
   },
 
@@ -78330,6 +79538,7 @@ export const bookItems = [
     excerpt: "成为史密斯专员拢共分三步：一：伪装成供应商。二：攒项目。三：分账。凯文·史密斯，前世作为一名华府K街的说客，一睁眼成了太平洋高地社区的年轻水管工，这里是富豪与名流汇聚之地，他靠着精湛的技艺与热情的服务，令此地太太们赞不绝口。机缘巧合下，他获得了好莱坞影星母女的信任，成了一家非盈利组组织的负责人，又邂逅了曾经世界首富后代且在加州颇具影响力的盖蒂家族对外代表。从那之后，他嘴上经常挂着三句话：“当你还在",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xs_2006：操盘美利坚1-433章.txt",
+    readUrl: "https://pan.baidu.com/s/1wgBcwyYjltgWPIPAPi8uUQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xs/",
   },
 
@@ -78347,6 +79556,7 @@ export const bookItems = [
     excerpt: "坏消息：穿越北宋，家徒四壁！好消息：觉醒【贬官致富系统】，只要被贬，就能享受生活！赵野悟了：这破官谁爱当谁当，老子要回家当富家翁！朝堂之上，他指着神宗鼻子痛骂：变法误国，大宋要亡！却被认为大才，一眼看破新法之漏洞。为了被贬，他拳打同僚，弹劾宰相，甚至大闹樊楼公然宿娼！却不知这竟被视为忍辱负重的忠义！“赵卿为保皇家颜面不惜自污，真乃朕之肱骨！”赵野崩溃了：我都把天捅破了，怎么官越做越大？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xv_北宋：我真的只想被贬官啊！1-322章.txt",
+    readUrl: "https://pan.baidu.com/s/1-hs_smU9UEwQb_TuobVVZA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xv/",
   },
 
@@ -78363,6 +79573,7 @@ export const bookItems = [
     excerpt: "医学生张凡，获得未来医疗系统，平凡的生活开始变得无限精彩。QQ群782723204！欢迎来吹牛",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xw_医路坦途1-3003章.txt",
+    readUrl: "https://pan.baidu.com/s/1d3E_yTeIGCerMztYPXYLUQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xw/",
   },
 
@@ -78380,6 +79591,7 @@ export const bookItems = [
     excerpt: "开荒种田、探险搜集，从零开始一点点打造完全属于自己的庄园。江远一直以为绑定的游戏是个能穿梭两界倒卖东西的金手指，直到他发现游戏里得到的技能在现实里也能用了！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xx_啊？这不是探险种田游戏吗？1-1191章.txt",
+    readUrl: "https://pan.baidu.com/s/1AsqSUGDvbcvwSM3cO1esRA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xx/",
   },
 
@@ -78397,6 +79609,7 @@ export const bookItems = [
     excerpt: "数以万计的球员奔向欧洲赛场，犹如千军万马过独木桥。 天赋卓越者惊才绝艳，努力拼搏者厚积薄发。 足球是一项唯天赋论的运动。 市区天才来到省级舞台，相形见绌！ 省级的天才来到全国乃至世界舞台，同样黯淡无光！ 一山还有一山高，真应了那句，天才只是见我的门槛！ 2034年，当五星红旗的飘扬，嘹亮的歌声充斥球场，望着电视机内身披红色战袍，被誉为中国足球真正黄金一代的天才们，魏来却是居于陋室，眼中含着不甘又希",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xy_大师补习班1-817章.txt",
+    readUrl: "https://pan.baidu.com/s/1CAWUuV1z-lfDS56XRRzEVA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xy/",
   },
 
@@ -78413,6 +79626,7 @@ export const bookItems = [
     excerpt: "故事开始。 伊恩以为自己只是一个有那么一点小天赋〔外挂〕，努力就能变强的小巫师。 然而。 随着故事的发展。 他渐渐开始发现。 自己一直跟随着学习魔法的老师们，竟然不是曾经赫赫有名的强者，就是各种传奇故事当中提及过的角色。 “站在你面前的是迷离幻境的高贵使徒，旧日亡者们的共同代言人，以及霍格沃兹创始人指定的继承者！” “什么？没鼻子怪想要搞事情？他一定是没有听说过，我那在巧克力蛙的名人收集卡片上都有",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_xz_霍格沃兹的时空旅者1-613章.txt",
+    readUrl: "https://pan.baidu.com/s/1mECesSU-2XMLfm8RXiCAgQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/xz/",
   },
 
@@ -78430,6 +79644,7 @@ export const bookItems = [
     excerpt: "普通人高天无意中加入了一个诡异的聊天群。群友的名字都十分奇怪，像是什么“鬼婴”、“鬼洞”、“活人公寓”、“焚死鬼”。他们经常讨论一些离奇惊悚的恐怖故事，偶尔还会发一些黑色红包。红包名字更加猎奇，“灵异物品”，“骨灰盒”，“吸灵壶”，“血寿衣”……高天一直没有在意。有一天，一位群友忽然说道：“我们几十个鬼之中，似乎混进来一个活人。”",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_y_这聊天群就我一个活人？1-239章.txt",
+    readUrl: "https://pan.baidu.com/s/1ek1rbHJpu-ORge0fiZDy-A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/y/",
   },
 
@@ -78446,6 +79661,7 @@ export const bookItems = [
     excerpt: "林秀一穿越到了三十多年前的柯南世界，直接和妃英理、毛利小五郎成了一起长大的好友。死神还未出生的柯南世界，案件依旧数不胜数。前世刑警，这一世高中生的林秀一，成了警视厅的救世主，帮助搜查一课解决了一个又一个凶案。在探案过程中，他也与那些未来成熟妩媚的太太御姐们相遇。……“林新一？女孩起这个名字，听着总觉得怪怪的。”“小兰，园子其实是你同父异母的亲姐姐！”“小哀？女儿的小名叫这个，会不会不太好？”“前辈",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ya_穿越柯南三十年前，截胡妃英理1-838章.txt",
+    readUrl: "https://pan.baidu.com/s/1nS6WCXjcQmuc2PImlOPI-A?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ya/",
   },
 
@@ -78462,6 +79678,7 @@ export const bookItems = [
     excerpt: "踩了半辈子缝纫机后，赵卫红终于... 猝死了！ 再睁开眼，赵卫红回到了自己高考落榜后的那个夏天。 看着神情憔悴的双亲，再看看前来催债的亲戚。 赵卫红沉吟片刻，决定要换个活法。 “爹，我还是去当兵吧。” ...... 多年后，肩膀上金星熠熠的赵卫红，在夜深人静的时刻，悄悄地发了一个朋友圈。 “我这一生，如履薄冰。” “你说，我能走到对岸吗？” 赵卫红的老班长，老连长...等一众领导，看到这一条朋友圈",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yc_谁教你这么当兵的！1-733章.txt",
+    readUrl: "https://pan.baidu.com/s/1A3jEKa4b8am7wejmjb31xg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yc/",
   },
 
@@ -78478,6 +79695,7 @@ export const bookItems = [
     excerpt: "这是遥远的第四十一个千年，曾经守护人类的帝皇，已经化作了黑色的冰冷太阳。人类崛起的最后的机会，如果没有人能够抓住，那就由我来...让银河再次燃烧！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yd_战锤：帝皇冠军的自我修养1-588章.txt",
+    readUrl: "https://pan.baidu.com/s/1n6eigU7GdiRmP9aDhaAotg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yd/",
   },
 
@@ -78495,6 +79713,7 @@ export const bookItems = [
     excerpt: "百年功业竟成空，帝祚黄粱一梦中，皇基恨隳众宵小，多瑙河水长流东。哈布斯堡啊，哈布斯堡。一个喜爱哈堡历史的人穿越到弗朗茨身上，逆天改命，让哈布斯堡家族再次伟大！七千万人大帝国的梦想当年没能实现，我来实现！原名为《奥地利帝国崛起之路》",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yf_让哈布斯堡再次伟大！1-726章.txt",
+    readUrl: "https://pan.baidu.com/s/1u1WNZdaBkfZmJ1tSqitJ4Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yf/",
   },
 
@@ -78512,6 +79731,7 @@ export const bookItems = [
     excerpt: "曹胜，一个写网文的老扑街，回到了1997年。这一年，网文还没出现，他有机会做网文鼻祖。于是，他写了一本小说发到网上，从此，他开启了网文时代。他用自己的作品不断告诉大家——网文还可以这么写。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yg_梦回1997，我成了网文鼻祖1-852章.txt",
+    readUrl: "https://pan.baidu.com/s/1eUz9YPIBuYCzVUK9EsV6Jw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yg/",
   },
 
@@ -78529,6 +79749,7 @@ export const bookItems = [
     excerpt: "张述桐曾有两个女同学： 一个是有钱人家的骄傲大小姐； 一个是在山里当庙祝的清冷少女。 她们一个被杀死在八年前，一个死在了八年后。 张述桐还有一个不可告人的秘密： 他能回到过去。 ... 可好不容易救回了她们，她们怎么自己打起来了？ ... 深山、大湖、神庙、水下的阴影、八年前的连环凶杀案，还有女孩逐渐冰冷的身体； 这是一个发生在冬天的小岛上，一群少男少女之间，有些温馨、有些惊悚、有些浪漫的青春故事",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yh_冬日重现1-503章.txt",
+    readUrl: "https://pan.baidu.com/s/1qlxlNNa4Jc1egh4PrTFGmg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yh/",
   },
 
@@ -78545,6 +79766,7 @@ export const bookItems = [
     excerpt: "穿越成异世界游戏制作人，本以为凭借着前世游戏记忆能够风生水起，但现实却是无情一击，这里游戏业更为发达。 陈纪思虑再三，既然这个世界的历史不同，所以为什么不照搬历史改成游戏？......玩家们疯狂吐槽。 什么，我要扮演跟随将军的二十八个士兵之一，去冲击敌阵五千人？ 这次任务很爽，作为唐使的我要一人去灭一国，但凡吃粒花生米，都不可能想出这种扯犊子的任务。 这是什么游戏开发商，麻烦讲点逻辑好不好！ 当玩",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yj_你的游戏为何有历史感1-512章.txt",
+    readUrl: "https://pan.baidu.com/s/1HIN_tuYBbwkPxgkzlWWxVA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yj/",
   },
 
@@ -78562,6 +79784,7 @@ export const bookItems = [
     excerpt: "流浪影视诸天，陈锋为自己圆梦。已过世界：《小欢喜》乔卫东：拒绝复婚一念起，豁然开朗天地宽已过世界：《欢乐颂》曲连杰：我愚蠢的妹妹啊，想击败我，也不问你嫂子关关答不答应已过世界：《怒火重案》邱刚敖：请看我纯真的笑脸已过世界：《都挺好》苏明哲：能孝si人的好大哥已过世界：《三十而已》陈屿：欢迎来到我的鱼塘已过世界：《小舍得》陈锋：把竞争对手都干掉的话，就不会内耗了吧。已过世界：《流金岁月》陈锋：说要给",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yk_圆梦影视，从小欢喜乔卫东开始1-714章.txt",
+    readUrl: "https://pan.baidu.com/s/1hvMMHGkWBgGrIgUhvN5A_w?pwd=fjjj",
     sourceUrl: "https://www.min-yuan.com/txt/yk/",
   },
 
@@ -78579,6 +79802,7 @@ export const bookItems = [
     excerpt: "一个普通现代上班族，流浪在影视世界，一步步成长的故事。系统太垃圾，装备功法全靠自己想办法。看现代温室长大的主角，在危险的异世界如何适应和生存。一步步从可以被人随意碾死的蚂蚁，成为绝世强者。成功掌握自己的命运和自由。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yl_诸天影视流浪1-2201章.txt",
+    readUrl: "https://pan.baidu.com/s/1eq5xH7xk5VSCk4x00PH0JQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yl/",
   },
 
@@ -78595,6 +79819,7 @@ export const bookItems = [
     excerpt: "穿越之后的上杉宗雪诸事不顺，从前程无限的第一外科被赶去了最悲剧最没有前途最不受人待见没钱没地位的法医病理科，这辈子看来就交待在这里了。迟来的非自然赐福终于来临，上杉宗雪突然发现，他看不了活人，但他可以看死人？法医仙人、验尸之神、警视厅最后的防线、国宝。自杀，他杀，意外死。交番，警署，警视厅。医师，医长，特聘教授。一个熟悉又陌生的东京，一个相似又不同的平行世界中，一场场别开生面的验尸和解剖下，上杉宗",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ym_东京非自然法医1-1023章.txt",
+    readUrl: "https://pan.baidu.com/s/1MJLaKYlY-uV_51Eo4vt3dg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ym/",
   },
 
@@ -78612,6 +79837,7 @@ export const bookItems = [
     excerpt: "脑洞领主文。王逸穿越到了一个领主游戏世界。在这里，开盲盒本是收益很低的事情，但在主角双天赋的加持之下，开盒强化，各种脑洞物品接踵而来。 钓鱼竿变成捕鱼塔。小火球直径六米。哥斯拉身高一厘米。仙门小童炼气9999层。青铜圣斗士觉醒第八感。古董老爷车咋就成了青铜战车？夭寿了，老子的资源点不小心强化成了十亿光年之外的资源星球。 “你家稀奇古怪的东西怎么就这么多？”“全是开盲盒开出来的！” “本大帝发展领地",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yn_开盲盒成就最强领主1-421章.txt",
+    readUrl: "https://pan.baidu.com/s/1W4DFyap68VUuFbzfClc_Jg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yn/",
   },
 
@@ -78629,6 +79855,7 @@ export const bookItems = [
     excerpt: "“哈哈哈哈！假的！都是假的！”猩红朱月之下，挑起第四次忍界大战的漩涡面麻直面八万忍者联军，操作九尾大杀四方。“没有六道仙人！没有大筒木辉夜！这个世界都是假的！”感受着‘限定月读’世界的排斥，漩涡面麻右手凝聚出一颗暗紫色小球，裹挟着风遁查克拉，缓缓落地。“这是给这个世界，离别的馈赠。”白光一闪，‘限定月读’世界消失。再次睁眼，已是九尾之夜。被神秘面具男抱着的面麻，看到了对面波风水门怀里的鸣人。‘草（",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yo_火影：人在木叶，我叫漩涡面麻1-563章.txt",
+    readUrl: "https://pan.baidu.com/s/1LfGg2Ds6o6Or3lrE2ihgDQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yo/",
   },
 
@@ -78663,6 +79890,7 @@ export const bookItems = [
     excerpt: "叶星空穿越吞噬星空，却发现身处危机四伏的域外战场。不过没关系，身怀金手指，我照样浪穿全宇宙！————简介无力，请读者老爷移步正文。开局就是宇宙级，时间点在罗峰时代之前，剧情不套路，不水天才战，成长路线不照搬原著。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ys_人在吞噬，浪穿宇宙1-364章.txt",
+    readUrl: "https://pan.baidu.com/s/16LFBBo7rsz-lNM8tyzEz5g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ys/",
   },
 
@@ -78680,6 +79908,7 @@ export const bookItems = [
     excerpt: "公元1785年，暹罗（泰国）南陲，宋卡府，空气中弥漫着战争的血腥与潮湿。吴志杰，一个普通社畜，却意外穿越成为华人城主之子，他从此踏上征途，决定改变家族命运，重振南洋华人雄风。一切，先从眼前这场战事开始。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yt_南洋：吴宋崛起1-534章.txt",
+    readUrl: "https://pan.baidu.com/s/1-RUj7zprICyRV_mBUhgQJg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yt/",
   },
 
@@ -78715,6 +79944,7 @@ export const bookItems = [
     excerpt: "云长空穿越至《倚天屠龙记》晋阳镖局少镖头，卷入江湖漩涡，得‘罗汉伏魔神功’，看到江湖的险恶以及亲手缔造的血雨腥风。 终于明白，曾几何时，站在张无忌的视角，看待江湖是那个样子，但换了身份，换了立场，感受又是不同。 何谓“伏魔？” 在阴谋与强大中坚守本心，摆脱枷锁与权力诱惑，活出了属于自己的“江湖道”。 这是伏魔！ 衣冠禽兽做好伪装，呼喊正义，躲在大仁大义背后血腥屠杀。 是不是魔？又该伏否？ 云长空双",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yv_罗汉伏魔从倚天屠龙开始1-276章.txt",
+    readUrl: "https://pan.baidu.com/s/1klOFwSABGL3KOgbtsKq2pg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yv/",
   },
 
@@ -78749,6 +79979,7 @@ export const bookItems = [
     excerpt: "教会的密室里，漆木长桌上，放着一份绝密档案。 姓名：夏法 类型：未知存在，但自认为是人类。 【相关描述一】 曾自以为身体孱弱，想锻炼身体，结果锻炼过程中直接吸收了一整颗星球来补充营养。 【相关描述二】 一旦处在饥饿状态下，就会随机瞬移到全宇宙任何一个举办宴会的地方，大吃特吃，曾因此惊吓到天使级强者。 【相关描述三】 认为自己弱而疯狂修炼，实则以人类之躯就能逆斩半神 …… 翻开这一页档案，立马就能看",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yx_我可不仅仅是人类！1-521章.txt",
+    readUrl: "https://pan.baidu.com/s/1jUv4JOip-2m170ACi2rlfg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yx/",
   },
 
@@ -78784,6 +80015,7 @@ export const bookItems = [
     excerpt: "诡异的游戏降临，每个国家随机传送一人进入游戏。 龙虎山修炼了两年的张阳青莫名其妙进入了规则怪谈的诡异世界内。 深夜蜡像馆，您将扮演一名保安。 【规则1：蜡像馆十二点准时闭馆，任何人禁止出入，无论门内和门外有任何请求。】 【规则2：蜡像馆里只有你一个人，如果有人叫你，请无视，并且尽快远离。】 【规则3：每隔两小时巡视蜡像馆一次，路过蜡像切勿直视它的眼睛。】 【规则4：蜡像不会移动，如果发现蜡像摆放的",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_yz_我满级天师，你让我进规则怪谈？1-2360章.txt",
+    readUrl: "https://pan.baidu.com/s/1VPDorkxLz9ho3khb3bDidA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/yz/",
   },
 
@@ -78800,6 +80032,7 @@ export const bookItems = [
     excerpt: "一拳打出，任老太爷就成了破口袋。确认过他已经被打的比乐高难拼之后，钟玄假装抹了把头上不存在的汗，准备和师父分享下喜悦，却惊恐的发现：英叔的头顶亮起了长长的血条......穿越进恐怖电影世界却不会法术，怎么办？看我力大无穷金刚不坏，莽出一条邪路。楚人美，贞子，杰森，我这一拳有龙象之力，你们接得住吗？呵呵，大黑佛母，就算你穿黑丝也没用，贫道是吃斋的！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_z_在恐怖电影里力大无穷1-1616章.txt",
+    readUrl: "https://pan.baidu.com/s/11gjga59AAtv6e-yWNhjjaA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/z/",
   },
 
@@ -78816,6 +80049,7 @@ export const bookItems = [
     excerpt: "肆虐诸天，掠夺气运、美人、财富、权力等！……在《相爱十年》，《咱们结婚吧》，《猎场》，《流金岁月》，《欢乐颂》，《釜山行》，《生化危机》，《琅琊榜》，《楚乔传》等无尽世界进行掠夺。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_za_影视：肆虐在诸天的收集员1-1013章.txt",
+    readUrl: "https://pan.baidu.com/s/1UigHoweQAsUn-q6Qvcy0XQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/za/",
   },
 
@@ -78850,6 +80084,7 @@ export const bookItems = [
     excerpt: "维克多·雨果：“你们都叫我是‘法兰西的良心’，但此刻它正在莱昂纳尔的胸膛里跳动！” 爱弥儿·左拉：“‘自然主义’还是‘现实主义’？不，只有莱昂纳尔的‘现代主义’才属于20世纪！” 居斯塔夫·福楼拜：“莫泊桑是我最好的学生，莱昂纳尔是我的知己。” 居伊·德·莫泊桑：“莱昂纳尔唯一的缺点就是没有感染高贵的、雄壮的梅毒。” 安东·契诃夫：“活在世上，除了阳光、空气、水和笑容，我们还需要什么呢？当然是莱昂",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zc_文豪1879：独行法兰西1-945章.txt",
+    readUrl: "https://pan.baidu.com/s/1ysHcQ8WH4kMkYpKeV22wvQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zc/",
   },
 
@@ -78867,6 +80102,7 @@ export const bookItems = [
     excerpt: "在家熬夜看着遮天的同人小说杨尘，因为看书看的眼睛太过疲劳眯了一下，再睁眼来到了遮天世界，还觉醒了跟刚才看到同人小说一样的金手指，从此开启了他的超脱之旅。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zd_靠着辅助修炼金手指横推遮天1-537章.txt",
+    readUrl: "https://pan.baidu.com/s/1Gfld5EQHFW_OJbU9xitl2g?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zd/",
   },
 
@@ -78884,6 +80120,7 @@ export const bookItems = [
     excerpt: "当一个名为瑞兹的小巫师获得了来自符文之地的符文系统之后。“基石法师解锁召唤·艾黎加奥术彗星，还能提升一定的巫师基础资质，还行，至少比游戏里有用。”“双刀流能同时使用两根魔杖释放不同的魔咒，这个有点意思。”“...拥有无用大棒的情况下，同时持有分院帽跟时间转换器完成任务获得沃格勒特的巫师帽？”“财运锻造器？好好好，谁说巫师就不能锻体了，锻造器给我加点！”“巫师式思考+超强大脑+尖端发明家+科学狂人.",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_ze_从霍格沃茨开始的符文法师1-404章.txt",
+    readUrl: "https://pan.baidu.com/s/1i7cSrAyK7LiIZmDeRDc5jA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/ze/",
   },
 
@@ -78900,6 +80137,7 @@ export const bookItems = [
     excerpt: "天才麻将少女与斗牌传说的融合世界，即火龙果宇宙。夏尘穿越来到这个世界，成为神之夏尘，并且加入了白糸台。原本的白糸台，被称为一神带四猪的队伍，宫永照独木难支。但随着夏尘的到来，一切都发生了改变。夏尘决定，先定下一个小目标。先取全国大赛，然后再战传说之夜！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zh_天麻从白糸台开始征战全国大赛1-226章.txt",
+    readUrl: "https://pan.baidu.com/s/1aXvifIyijZhpwCxb84LFZw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zh/",
   },
 
@@ -78917,6 +80155,7 @@ export const bookItems = [
     excerpt: "【两本高订破万作者，无阅读门槛，质量有保证，放心收藏！】大学毕业才半年的陈杰，由于父亲受伤住院，需要一大笔钱。麻绳专挑细处断，噩运只找苦命人！人越穷，越借不到钱！就在他心急如焚的时候，他看到父亲藏在柜子里面的一块‘血龙玉’！机缘巧合下，他发现这块‘血龙玉’，竟然能让自己穿梭到另外一个世界。这是一个国术鼎盛的世界，却又是一个饱受西方列强坚船利炮欺凌的年代！这里有西城车夫头‘鬼脚七’，也有娴静端庄的‘",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zj_国术！大宗师1-682章.txt",
+    readUrl: "https://pan.baidu.com/s/15r-S6GVXZrSd9kCHlpFb9Q?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zj/",
   },
 
@@ -78951,6 +80190,7 @@ export const bookItems = [
     excerpt: "【直播+搞笑+穿越！】“2025年在看直播的兄弟们好，我叫陈放，现在在2023年的云海市！”陈放得到能穿越直播的能力，并且从直播获得的收益越多，能穿越的时间便越长【大哥，你要见死前前女友？十个飞机，我替你见！】【想让我找个凶手，这个……得加钱！】……【你要封我直播间？我在2023年呢，你要怎么封？】【那2025年的你们，倒是来2023年抓我啊！】ps：统一回复一下，你要看书名，穿越，穿越，都穿越了",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zl_直播穿越，我的观众在未来1-664章.txt",
+    readUrl: "https://pan.baidu.com/s/1pQ5aQbDAuAHnAvcIF_YvwA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zl/",
   },
 
@@ -78968,6 +80208,7 @@ export const bookItems = [
     excerpt: "宇智波景渊振臂高呼：初代火影遗训有言，村无正臣，内有奸恶，当训兵讨之，以清影侧之恶。我宇智波为建村元老，当遵初代火影遗命，除奸佞，清影侧，安木叶！ 霍格沃茨五年级插班生景渊•伊斯特拍着汤姆的大光头：汤子，听说你这段时间一直在找我啊，看来你是真想跟我拼一下了。跟我拼你有这个实力吗？给你机会你也不中用啊！ 第三代理之律者瓦尔特景渊：杨叔你是了解我的，虽然我把可可利亚送去西伯利亚挖土豆，虽然我整天往世界",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zn_同时穿越：诸界星渊1-858章.txt",
+    readUrl: "https://pan.baidu.com/s/1B-C8iX42MSywyg6PyMWxbw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zn/",
   },
 
@@ -78985,6 +80226,7 @@ export const bookItems = [
     excerpt: "独自超凡、现实无敌。19岁的王贺，本是一名平凡的大学生。偶然一日，他发现自己可以触摸镜子进入镜中世界。这里的一切与现实颠倒，有玄奇的恐怖生物，击杀它们便可获得它们的力量和神通。最重要的是，镜中世界的一切，都能够带到现实之中。--------------主现实唯我独法题材，已有同类170万字精品完结书，人品保障。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zo_人在现实，我能进入镜中世界1-663章.txt",
+    readUrl: "https://pan.baidu.com/s/16mRSPXjY8pjqk0Nq52Z8jQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zo/",
   },
 
@@ -79002,6 +80244,7 @@ export const bookItems = [
     excerpt: "当游戏融合现实，人类进入转职时代。魔物肆虐，各种秘境副本层出不穷，风险中也隐藏着机遇，只有不断的变强才能登上世界之巅。穿越而来的牧尘转职成了全类别隐藏职业亡灵法师，强大的能力让他组建出了一个亡灵军团。别人还在苦苦寻找队友。牧尘：亡灵军团，给我冲！看着密密麻麻的骷髅军团，不光是那些魔物，就连人类那些大佬都麻了，现在抱大腿还来得及不？",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zp_亡灵法师召唤一群骷髅很合理吧1-1200章.txt",
+    readUrl: "https://pan.baidu.com/s/10pl1nTTIwYXIyGci3xsCvA?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zp/",
   },
 
@@ -79019,6 +80262,7 @@ export const bookItems = [
     excerpt: "【鬼灭之刃】【加点】【轻松】.同期剑士都还在苦修呼吸法，他选择打开系统面进行加点。当别的队员还在努力活下来，他默默救下本该牺牲的同僚。当鬼杀队还恪守九柱传统，他身边围满了称他“先生”的准柱少年。“富冈义勇，人的梦想，是不会结束的！”——面对刚刚加入鬼杀队的后辈时，夏西随口指点。“产屋敷，你会后悔的。”——《最终选拔制度修改企划》被婉拒，夏西摔门而出。数年过去，决战无限城时。看着被拉入无限城，已经严",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zq_鬼灭：我的呼吸法能加点1-560章.txt",
+    readUrl: "https://pan.baidu.com/s/1ZjT2bJ08p-DWSsml8mUZwg?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zq/",
   },
 
@@ -79035,6 +80279,7 @@ export const bookItems = [
     excerpt: "15年娱乐圈正是风起云涌，85花竞争激烈，90花还是入圈新人，95花尚未崭露头角，靠着第一桶金发育了三年的陆承宇，顺利考入北电导演系，终入娱乐圈一试深浅。【半日常】【多女主】。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zt_华娱：从2015开始暴富1-673章.txt",
+    readUrl: "https://pan.baidu.com/s/1qC24rF6Ewfa3Nq4y-zIiAQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zt/",
   },
 
@@ -79052,6 +80297,7 @@ export const bookItems = [
     excerpt: "你是董卓的谋士？ 刘末：是。 那董卓怎么死在你手上了？ 刘末：这是个意外！ 那你怎么还成了西凉军老大？ 刘末：这是别人害我啊！我不想，他们非要我当！ 那你当皇帝这事也是他们逼你的？ 刘末：是啊，我就说了句天冷了，他们非得把这龙袍往我身上套！ 他们害苦了我啊！",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zu_三国，我？算无遗策？1-731章.txt",
+    readUrl: "https://pan.baidu.com/s/14kMn0ZAvQgP3f6wTSzaAyw?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zu/",
   },
 
@@ -79069,6 +80315,7 @@ export const bookItems = [
     excerpt: "仗剑载酒江湖行，楚腰纤细掌中轻。魏武行走江湖，靠的就是五件事：出卖兄弟，背信弃义，栽赃嫁祸，吃里扒外，照顾嫂子。财宝不重要，天下富人那么多，自动拾取即可名声不重要，讲证据是大侠的事，我一邪魔歪道管那么多干嘛？有美人，醒时同交欢；有朋友，醉后各分散。仅此足矣。",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zv_魔祸诸天：从小李飞刀开始横行1-529章.txt",
+    readUrl: "https://pan.baidu.com/s/1BlQFXkiD04TqiAKD-DpIBQ?pwd=vrf3",
     sourceUrl: "https://www.min-yuan.com/txt/zv/",
   },
 
@@ -79085,6 +80332,7 @@ export const bookItems = [
     excerpt: "第一世界港综：《冲锋队之怒火街头》、《警察故事12》、《杀手之王》、《杀破狼1》、《鼠胆龙威》、《逃学威龙二》、《导火线》、《黑侠》、《神话》、《双雄》、《大事件》、《男儿本色》、《无间道》、《新警察故事》、《保持通话》、《猛龙》、《大追捕》、《全城戒备》、《杀破狼2》等......第二个世界美漫+电影第三个大世界：《哈利波特》等第四个大世界：《鬼吹灯》、《我和僵尸有个约会世界》等第五个大世界：《",
     tags: [{ name: "玄幻", type: "purple" }, { name: "连载", type: "blue" }],
     downloadUrl: "/books/m_zw_重生在电影的世界1-3073章.txt",
+    readUrl: "https://pan.baidu.com/s/1ebHx5H7OW7rASrwNGHHpEw?pwd=gtah",
     sourceUrl: "https://www.min-yuan.com/txt/zw/",
   },
 

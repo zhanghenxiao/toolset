@@ -1,0 +1,216 @@
+.page {
+  min-height: 100vh;
+  padding: 20rpx 24rpx 40rpx;
+  box-sizing: border-box;
+  background: #f3ead8;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 16rpx;
+}
+
+.search-input-box {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  height: 72rpx;
+  padding: 0 20rpx;
+  background: #fffaf0;
+  border: 1rpx solid #c9b896;
+  border-radius: 36rpx;
+  box-sizing: border-box;
+}
+
+.search-input {
+  flex: 1;
+  height: 72rpx;
+  font-size: 28rpx;
+  color: #3a2f24;
+}
+
+.search-placeholder {
+  color: #a8977a;
+  font-size: 26rpx;
+}
+
+.clear-btn {
+  padding: 0 8rpx;
+  font-size: 36rpx;
+  color: #a8977a;
+  line-height: 1;
+}
+
+.cancel-btn {
+  flex-shrink: 0;
+  font-size: 28rpx;
+  color: #6d2229;
+}
+
+/* ---------- 筛选面板（与首页同源） ---------- */
+.filter-card {
+  margin: 24rpx 0 4rpx;
+  padding: 28rpx 28rpx 24rpx;
+  background: linear-gradient(180deg, #fffaf0 0%, #f7eeda 100%);
+  border: 1rpx solid #e0d0b2;
+  border-left: 8rpx solid #7a2f2f;
+  border-radius: 10rpx;
+  box-shadow: 0 8rpx 22rpx rgba(122, 96, 58, 0.12);
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.filter-label {
+  width: 120rpx;
+  color: #8a6d4b;
+  font-size: 26rpx;
+  letter-spacing: 2rpx;
+  flex-shrink: 0;
+}
+
+.filter-picker {
+  flex: 1;
+  min-width: 0;
+}
+
+.picker-value {
+  padding: 16rpx 24rpx;
+  background: #fdf9ef;
+  border: 1rpx solid #ddcdae;
+  border-radius: 8rpx;
+  color: #43382d;
+  font-size: 26rpx;
+}
+
+.history-box {
+  margin-top: 28rpx;
+}
+
+.history-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16rpx;
+}
+
+.history-title {
+  font-size: 26rpx;
+  color: #5c4a38;
+}
+
+.history-clear {
+  font-size: 24rpx;
+  color: #8a7355;
+}
+
+.history-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+
+.history-item {
+  padding: 10rpx 24rpx;
+  background: #fffaf0;
+  color: #4a3728;
+  border: 1rpx solid #c9b896;
+  border-radius: 28rpx;
+  font-size: 26rpx;
+}
+
+.state-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80rpx 48rpx;
+}
+
+.state-icon {
+  font-size: 60rpx;
+  margin-bottom: 16rpx;
+}
+
+.state-text {
+  font-size: 28rpx;
+  color: #5c4a38;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.state-tip {
+  margin-top: 12rpx;
+  font-size: 24rpx;
+  color: #8a7355;
+}
+
+.error-detail {
+  margin-top: 12rpx;
+  font-size: 24rpx;
+  color: #8a7355;
+}
+
+.result-tip {
+  margin: 28rpx 0 12rpx;
+  font-size: 24rpx;
+  color: #8a7355;
+}
+
+.book-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+
+.book-card {
+  display: flex;
+  gap: 20rpx;
+  padding: 20rpx;
+  background: #fffaf0;
+  border: 1rpx solid #e0d5bd;
+  border-radius: 12rpx;
+}
+
+.cover-img {
+  flex-shrink: 0;
+  width: 140rpx;
+  height: 190rpx;
+  border-radius: 8rpx;
+  background: #e8dcc4;
+}
+
+.card-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8rpx;
+}
+
+.card-title {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #3a2f24;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.card-author {
+  font-size: 24rpx;
+  color: #8a7355;
+}
+
+.card-excerpt {
+  font-size: 24rpx;
+  color: #6b5940;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}

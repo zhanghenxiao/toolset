@@ -41,7 +41,7 @@
   </view>
 
   <view
-    wx:if="{{book.latestChapter}}"
+    wx:if="{{book.latestChapter && startReadEnabled}}"
     class="section section-latest"
     bindtap="onLatestChapterTap"
   >
@@ -50,10 +50,7 @@
     <!-- <text class="latest-hint">点击查看广告解锁，再连点 5 次获取网盘分享链接</text> -->
   </view>
 
-  <!-- <view class="actions">
+  <view wx:if="{{startReadEnabled}}" class="actions">
     <button class="action-btn primary" bindtap="onStartRead">开始阅读</button>
-    <button class="action-btn secondary" bindtap="onOpenReadUrl">在浏览器打开</button>
-  </view> -->
-
-  <!-- <view class="tip">阅读链接为夸克网盘分享，复制后在浏览器打开即可</view> -->
+  </view>
 </view>

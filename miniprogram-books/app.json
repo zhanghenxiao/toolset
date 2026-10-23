@@ -1,8 +1,27 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/detail/detail"
+    "pages/search/search",
+    "pages/detail/detail",
+    "pages/reader/reader",
+    "pages/bookshelf/bookshelf"
   ],
+  "tabBar": {
+    "color": "#8a7355",
+    "selectedColor": "#6d2229",
+    "backgroundColor": "#f7eeda",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "热门"
+      },
+      {
+        "pagePath": "pages/bookshelf/bookshelf",
+        "text": "收藏"
+      }
+    ]
+  },
   "window": {
     "navigationBarTitleText": "数维探索",
     "navigationBarBackgroundColor": "#4a3728",

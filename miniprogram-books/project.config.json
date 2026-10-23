@@ -6,6 +6,22 @@
       {
         "type": "file",
         "value": "data/books.js"
+      },
+      {
+        "type": "file",
+        "value": "data/remot-books.js"
+      },
+      {
+        "type": "file",
+        "value": ".tmp-check.js"
+      },
+      {
+        "type": "file",
+        "value": "README.md"
+      },
+      {
+        "type": "file",
+        "value": "阅读页广告规则.md"
       }
     ],
     "include": []

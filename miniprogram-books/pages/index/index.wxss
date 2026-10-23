@@ -1,6 +1,7 @@
 .page {
   min-height: 100vh;
-  padding-bottom: 60rpx;
+  /* 底部 tabBar 占位 */
+  padding-bottom: calc(140rpx + env(safe-area-inset-bottom));
 }
 
 /* ---------- 页眉：书阁牌匾 ---------- */
@@ -80,36 +81,40 @@
   align-items: center;
 }
 
+/* 首页搜索框：只做入口，点击跳转搜索页 */
 .search-box {
   flex: 1;
   display: flex;
+  align-items: center;
   gap: 16rpx;
 }
 
-.search-input {
-  flex: 1;
+.search-entry {
+  justify-content: space-between;
   padding: 16rpx 24rpx;
   background: #fdf9ef;
   border: 1rpx solid #ddcdae;
   border-radius: 8rpx;
-  color: #43382d;
-  font-size: 26rpx;
 }
 
-.search-placeholder {
+.search-entry-text {
+  flex: 1;
+  min-width: 0;
+  color: #43382d;
+  font-size: 26rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.search-entry-text.is-placeholder {
   color: #b8a888;
 }
 
-.search-btn {
-  background: linear-gradient(135deg, #8c2f39, #6d2229) !important;
-  color: #f7eeda !important;
-  border: none !important;
-  border-radius: 8rpx !important;
-  margin: 0 !important;
-  padding: 0 28rpx !important;
-  line-height: 64rpx !important;
-  height: 64rpx !important;
-  letter-spacing: 2rpx;
+.search-entry-icon {
+  flex-shrink: 0;
+  font-size: 26rpx;
+  opacity: 0.75;
 }
 
 .results-bar {
