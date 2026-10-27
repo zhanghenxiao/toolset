@@ -5,7 +5,7 @@ const SITE = meta.site || 'https://toolset.site';
 
 /**
  * 详情页「开始阅读」按钮：是否显示
- * 仅作为云端开关（云函数 getConfig 的环境变量 START_READ）不可用时的兜底
+ * 仅作为云端开关（云函数 getRuntime 的环境变量 START_READ）不可用时的兜底
  */
 const START_READ = false;
 

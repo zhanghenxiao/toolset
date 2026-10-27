@@ -1,5 +1,5 @@
 /**
- * 云函数下发的线上开关（见 cloudfunctions/getConfig）
+ * 云函数下发的线上开关（见 cloudfunctions/getRuntime）
  * 云函数不可用时，回退到 utils/config.js 的本地配置
  */
 const { startReadEnabled } = require('./config');
@@ -20,7 +20,7 @@ function getStartReadEnabled() {
       return;
     }
     wx.cloud.callFunction({
-      name: 'getConfig',
+      name: 'getRuntime',
       success: (res) => {
         const r = res.result || {};
         const value = r.ok === false || typeof r.startRead !== 'boolean' ? fallback : r.startRead;
@@ -28,7 +28,7 @@ function getStartReadEnabled() {
         resolve(value);
       },
       fail: (err) => {
-        console.warn('[config] getConfig 失败，使用本地配置', err && (err.errMsg || err));
+        console.warn('[config] 线上开关拉取失败，使用本地配置', err && (err.errMsg || err));
         resolve(fallback);
       },
     });

@@ -3,14 +3,14 @@ const cloud = require('wx-server-sdk');
 cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
 
 /**
- * 线上开关：是否显示「开始阅读」按钮（在线阅读入口）
+ * 线上开关（客户端 utils/remote-config.js 调用）
  *
- * 环境变量（云开发控制台 → 云函数 → getConfig → 配置 → 环境变量）：
- *   START_READ  是否显示在线阅读按钮
- *   取值：1/true/yes/on 显示，0/false/no/off 隐藏；未设置时默认显示。
+ * 环境变量（云开发控制台 → 云函数 → 配置 → 环境变量）：
+ *   START_READ
+ *   取值：1/true/yes/on 显示，0/false/no/off 隐藏；未设置时默认隐藏。
  */
 const KEY = 'START_READ';
-const DEFAULT_VALUE = true;
+const DEFAULT_VALUE = false;
 
 /** 环境变量值 → 布尔；未配置/无法识别返回 null */
 function toBool(v) {
