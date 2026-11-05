@@ -190,18 +190,25 @@
           <text class="modal-close" bindtap="onCloseToc">×</text>
         </view>
 
-        <scroll-view class="toc-list" scroll-y enhanced show-scrollbar="{{false}}">
+        <scroll-view
+          class="toc-list"
+          scroll-y
+          enhanced
+          show-scrollbar="{{false}}"
+          lower-threshold="120"
+          bindscrolltolower="onLoadMoreToc"
+        >
           <view
             wx:for="{{tocList}}"
-            wx:key="index"
-            class="toc-item {{index === chapterIndex ? 'active' : ''}}"
-            data-index="{{index}}"
+            wx:key="i"
+            class="toc-item {{item.i === chapterIndex ? 'active' : ''}}"
+            data-index="{{item.i}}"
             bindtap="onTocItemTap"
           >
-            <text>{{item}}</text>
+            <text>{{item.title}}</text>
           </view>
           <view wx:if="{{tocHasMore}}" class="toc-more" bindtap="onLoadMoreToc">
-            <text>加载更多…</text>
+            <text>加载更多（已显示 {{tocShown}}/{{chapterCount}} 章）</text>
           </view>
         </scroll-view>
       </view>

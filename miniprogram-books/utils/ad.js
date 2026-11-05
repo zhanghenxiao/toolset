@@ -46,6 +46,16 @@ function showRewardedAd() {
   });
 }
 
+// 插屏实例复用：同一广告位反复创建会堆积监听（搜索页每次进入都要弹）
+let interstitialAd = null;
+
+function getInterstitialAd() {
+  if (!interstitialAd) {
+    interstitialAd = wx.createInterstitialAd({ adUnitId: INTERSTITIAL_UNIT_ID });
+  }
+  return interstitialAd;
+}
+
 /**
  * 显示一次插屏广告（弹窗，可随时关闭，无奖励）。
  * - resolve：广告已展示并关闭
@@ -61,7 +71,15 @@ function showInterstitialAd() {
       reject(new Error('当前微信版本不支持插屏广告'));
       return;
     }
-    const ad = wx.createInterstitialAd({ adUnitId: INTERSTITIAL_UNIT_ID });
+    const ad = getInterstitialAd();
+    // 卸载上一轮监听，避免多次调用后重复触发
+    try {
+      if (ad.offLoad) ad.offLoad();
+      if (ad.offError) ad.offError();
+      if (ad.offClose) ad.offClose();
+    } catch (e) {
+      // 忽略
+    }
     let settled = false;
     const finish = (ok, reason) => {
       if (settled) return;

@@ -1,4 +1,6 @@
 const { ensureLoaded, isFailed, getLastError, filterBooks, getMeta } = require('../../utils/books');
+const { showInterstitialAd } = require('../../utils/ad');
+const { INTERSTITIAL_ENABLED } = require('../../utils/ad-config');
 
 const MAX_DISPLAY = 60;
 const HISTORY_KEY = 'search_history';
@@ -28,6 +30,30 @@ Page({
     this._loadMeta(() => {
       if (kw) this.doSearch(kw);
     });
+    // 每次进入搜索页都弹插屏（提示：不加进程内去重、不加频控）
+    this._showEnterInterstitial();
+  },
+
+  /**
+   * 进入搜索页弹插屏
+   * - 只在 onLoad 触发（从详情页返回不会再弹），页面每次被打开都会新建实例
+   * - 延迟一点等页面渲染完成，避免和转场动画抢帧
+   */
+  _showEnterInterstitial() {
+    if (!INTERSTITIAL_ENABLED) return;
+    this._adTimer = setTimeout(() => {
+      this._adTimer = null;
+      showInterstitialAd().catch((err) => {
+        console.warn('[search] 插屏广告未展示：', (err && err.message) || err);
+      });
+    }, 350);
+  },
+
+  onUnload() {
+    if (this._adTimer) {
+      clearTimeout(this._adTimer);
+      this._adTimer = null;
+    }
   },
 
   // 分类/标签选项来自 meta，与首页同源

@@ -80,7 +80,7 @@ function resolveCoverUrl(id, coverMap) {
 
 function parseBooksData(content, coverMap) {
   const books = [];
-  const blockRe = /\{\s*id:\s*(?:"([^"]+)"|(\d+)),[\s\S]*?\n  \},/g;
+  const blockRe = /\{\s*id:\s*(?:"([^"]+)"|(\d+)),[\s\S]*?\n  \},?/g;
   let m;
   while ((m = blockRe.exec(content)) !== null) {
     const block = m[0];

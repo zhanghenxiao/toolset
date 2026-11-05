@@ -73,6 +73,8 @@ const THEMES = [
   { name: '夜间', value: 'night' },
 ];
 const SETTINGS_KEY = 'reader_settings';
+// 目录弹窗每批渲染的章节数（滚动到底或点「加载更多」再追加一批）
+const TOC_PAGE_SIZE = 100;
 
 /**
  * 广告开关：仅正式版（release）启用
@@ -114,6 +116,8 @@ Page({
     showToc: false,
     tocList: [],
     tocHasMore: false,
+    // 目录当前已渲染条数（弹窗底部显示 已显示 x/共 y 章）
+    tocShown: 0,
     scrollTop: 0,
     inShelf: false,
     // 广告：当前正文页是否带信息流（原生模板）广告（内嵌在正文下方，不单独成页）
@@ -140,8 +144,8 @@ Page({
   _touchY: 0,
   // 当前章切出的页内容与正文区可用尺寸（px）
   _pages: [],
-  // 目录弹窗一次渲染的章节数（滚动到底可继续加载）
-  _tocLimit: 100,
+  // 目录弹窗一次渲染的章节数（滚动到底 / 点「加载更多」继续追加）
+  _tocLimit: TOC_PAGE_SIZE,
   // 底部图标切夜间前的原主题，用于退出夜间时还原
   _prevTheme: 'default',
   _bodyHeight: 0,
@@ -1185,28 +1189,35 @@ Page({
   /* ---------------- 章节目录 ---------------- */
 
   onPickChapter() {
-    if (!this._chapters.length) {
+    const total = this._chapters.length;
+    if (!total) {
       wx.showToast({ title: '目录尚未加载完成', icon: 'none' });
       return;
     }
-    this._tocLimit = 100;
+    // 首屏至少渲染到当前章所在批次，否则读到 200 多章时目录里根本看不到当前章
+    const needForCurrent = Math.ceil((this.data.chapterIndex + 1) / TOC_PAGE_SIZE) * TOC_PAGE_SIZE;
+    this._tocLimit = Math.min(Math.max(TOC_PAGE_SIZE, needForCurrent), total);
     this._renderToc();
     this.setData({ showToc: true });
   },
 
   // 一次只渲染 _tocLimit 条，避免上千章一次性 setData 卡顿
+  // 注意：列表项必须是带唯一 key 的对象，字符串数组用 wx:key="index" 会因 key 无效导致新增项不渲染
   _renderToc() {
     const total = this._chapters.length;
     const n = Math.min(this._tocLimit, total);
     const list = [];
     for (let i = 0; i < n; i++) {
-      list.push(this._chapters[i].title || `第${i + 1}章`);
+      list.push({ i, title: this._chapters[i].title || `第${i + 1}章` });
     }
-    this.setData({ tocList: list, tocHasMore: n < total });
+    this.setData({ tocList: list, tocShown: n, tocHasMore: n < total });
   },
 
+  // 滚动到底 / 点「加载更多」都会走这里
   onLoadMoreToc() {
-    this._tocLimit += 100;
+    const total = this._chapters.length;
+    if (!total || this._tocLimit >= total) return;
+    this._tocLimit = Math.min(this._tocLimit + TOC_PAGE_SIZE, total);
     this._renderToc();
   },
 
