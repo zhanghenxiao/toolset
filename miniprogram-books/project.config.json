@@ -9,6 +9,10 @@
       },
       {
         "type": "file",
+        "value": "data/books.json"
+      },
+      {
+        "type": "file",
         "value": "data/remot-books.js"
       },
       {

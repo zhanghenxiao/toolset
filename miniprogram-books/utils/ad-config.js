@@ -1,7 +1,12 @@
 /**
  * 阅读页广告参数（对齐《阅读页广告规则.md》）
  * 信息流（原生模板）= 正文内嵌，非弹窗；插屏 = 章末弹窗；激励视频用于时长里程碑与主动解锁。
+ *
+ * 环境一致性：开发版 / 体验版 / 正式版共用同一套开关与阈值，不再按 envVersion 分支，
+ * 保证本地调试的行为（含广告解锁流程）与线上一致。无填充时由各调用方降级放行。
  */
+// 广告总开关（所有环境一致）
+const AD_ENABLED = true;
 const FEED_ENABLED = true;
 // 前 N 章不插信息流
 const FEED_START_CHAPTER = 2;
@@ -44,21 +49,12 @@ const REWARD_RETRY_MS = 60 * 1000;
 // 两次激励视频最小间隔
 const REWARD_INTERVAL = 5 * 60 * 1000;
 
-/** 当前是否正式版（正式版用线上阈值，开发/体验版用短值方便调试） */
-function isRelease() {
-  try {
-    const info = wx.getAccountInfoSync();
-    return !!(info && info.miniProgram && info.miniProgram.envVersion === 'release');
-  } catch (e) {
-    return false;
-  }
-}
-
-// 累计阅读时长里程碑：首次 / 之后每次间隔
-const REWARD_READER_FIRST_MS = isRelease() ? 10 * 60 * 1000 : 10 * 60 * 1000;
-const REWARD_READER_INTERVAL_MS = isRelease() ? 20 * 60 * 1000 : 20 * 60 * 1000;
+// 累计阅读时长里程碑：首次 / 之后每次间隔（所有环境一致）
+const REWARD_READER_FIRST_MS = 10 * 60 * 1000;
+const REWARD_READER_INTERVAL_MS = 20 * 60 * 1000;
 
 module.exports = {
+  AD_ENABLED,
   FEED_ENABLED,
   FEED_START_CHAPTER,
   FEED_EVERY_CHAPTER,

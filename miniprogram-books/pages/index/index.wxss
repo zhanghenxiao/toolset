@@ -177,7 +177,10 @@
   margin: 8rpx 0 20rpx;
 }
 
+/* 页尾广告在 .book-grid 之外，自己补上与书卡一致的左右留白 */
 .ad-slot-end {
+  padding: 0 24rpx;
+  box-sizing: border-box;
   margin-top: 4rpx;
 }
 

@@ -122,7 +122,8 @@ function parseMeta(content, name) {
   const re = new RegExp(`export const ${name} = (\\[[\\s\\S]*?\\]);`);
   const match = content.match(re);
   if (!match) return [];
-  return JSON.parse(match[1].replace(/'/g, '"'));
+  const inner = match[1].replace(/'/g, '"').replace(/,\s*]/g, ']');
+  return JSON.parse(inner);
 }
 
 const coverMap = buildCoverMap();

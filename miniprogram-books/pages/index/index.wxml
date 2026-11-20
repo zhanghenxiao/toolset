@@ -73,20 +73,22 @@
       </view>
     </block>
 
-    <!-- 列表末尾同样插入原生模板广告 -->
-    <view class="ad-slot ad-slot-end">
-      <ad-custom
-        unit-id="adunit-df43d35ba4890867"
-        bindload="adLoad"
-        binderror="adError"
-        bindclose="adClose"
-      ></ad-custom>
-    </view>
   </view>
 
   <view wx:else class="no-results">
     <text class="no-results-icon">📚</text>
     <text>暂无匹配的书籍</text>
     <text class="no-results-tip">请关注微信公众号「数维探索」留言你想找的书籍</text>
+  </view>
+
+  <!-- 页尾原生模板广告：与书籍数据状态无关，加载中/失败/空列表时也渲染，
+       避免云端数据异常时整页没有任何广告组件 -->
+  <view class="ad-slot ad-slot-end">
+    <ad-custom
+      unit-id="adunit-df43d35ba4890867"
+      bindload="adLoad"
+      binderror="adError"
+      bindclose="adClose"
+    ></ad-custom>
   </view>
 </view>

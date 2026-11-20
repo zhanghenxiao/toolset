@@ -2,6 +2,7 @@
 // 置为 true 时，开发版 / 体验版改为优先读取本地 data/books.js，免去云函数 + 云存储下载，
 // 便于离线调试；该文件已在 project.config.json 的 packOptions.ignore 中排除，不会打进正式包
 // data/meta.js 仅保留 site / totalDisplay 等静态配置，体积极小
+// 环境一致性：必须保持 false，否则开发/体验版的数据与正式版不同，问题无法在本地复现
 const USE_LOCAL_BOOKS = false;
 const localMeta = require('../data/meta');
 
@@ -176,12 +177,22 @@ function readTempFile(tempFilePath) {
 }
 
 // 兼容 books.js（module.exports = [...];）与 books.json 两种文件内容
+// 注意：数组本体必须是严格 JSON（key 加引号、无尾逗号），不能直接上传 JS 对象字面量文件
 function parseBooksText(text) {
   const json = String(text)
     .trim()
     .replace(/^module\.exports\s*=\s*/, '')
     .replace(/;\s*$/, '');
-  const list = JSON.parse(json);
+  let list;
+  try {
+    list = JSON.parse(json);
+  } catch (e) {
+    throw new Error(
+      `书籍数据不是严格 JSON（请上传 JSON 版本，勿直接上传 module.exports 的 js 文件）：${
+        (e && e.message) || e
+      }`,
+    );
+  }
   if (!Array.isArray(list) || !list.length) {
     throw new Error('empty books data');
   }

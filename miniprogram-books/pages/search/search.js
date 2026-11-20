@@ -31,7 +31,7 @@ Page({
       if (kw) this.doSearch(kw);
     });
     // 每次进入搜索页都弹插屏（提示：不加进程内去重、不加频控）
-    this._showEnterInterstitial();
+    // this._showEnterInterstitial();
   },
 
   /**

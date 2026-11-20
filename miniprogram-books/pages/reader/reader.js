@@ -22,6 +22,7 @@ const {
 } = require('../../utils/bookshelf');
 // 阅读页广告规则（见 阅读页广告规则.md）
 const {
+  AD_ENABLED,
   FEED_ENABLED,
   FEED_START_CHAPTER,
   FEED_EVERY_CHAPTER,
@@ -75,20 +76,6 @@ const THEMES = [
 const SETTINGS_KEY = 'reader_settings';
 // 目录弹窗每批渲染的章节数（滚动到底或点「加载更多」再追加一批）
 const TOC_PAGE_SIZE = 100;
-
-/**
- * 广告开关：仅正式版（release）启用
- * 开发版 / 体验版直接放行阅读，方便调试；上线前无需改代码
- */
-function adEnabled() {
-  try {
-    const info = wx.getAccountInfoSync();
-    const env = info && info.miniProgram && info.miniProgram.envVersion;
-    return env === 'release';
-  } catch (e) {
-    return false;
-  }
-}
 
 Page({
   data: {
@@ -250,7 +237,7 @@ Page({
   _maybeUnlock() {
     const unlocked = wx.getStorageSync(this._unlockKey());
     // 免广告时段内直接放行
-    if (!adEnabled() || unlocked || isAdFree()) {
+    if (!AD_ENABLED || unlocked || isAdFree()) {
       this._fetchContent();
       return;
     }
@@ -270,13 +257,24 @@ Page({
           // 环境不支持广告：降级允许阅读，避免硬性阻断
           wx.setStorageSync(this._unlockKey(), '1');
           this._fetchContent();
-        } else {
-          this.setData({ loading: false, error: '需看完广告才能解锁阅读，请重试' });
+          return;
         }
+        if (msg.indexOf('加载失败') >= 0) {
+          // 无填充 / 频控 / 广告位配置异常：不写解锁标记（下次仍会尝试），
+          // 但先放行阅读，避免广告侧问题导致整页卡在错误态（审核环境常见）
+          console.warn('[reader] 激励视频无填充，降级放行阅读');
+          this._fetchContent();
+          return;
+        }
+        // 广告确实展示过、用户提前关闭，才拦住
+        console.warn('[reader] 激励视频失败：', msg, (err && err.code) || '');
+        this.setData({ loading: false, error: '需看完广告才能解锁阅读，请重试' });
       });
   },
 
   onRetry() {
+    // 给一次明确反馈，避免广告侧瞬时失败时看起来「点了没反应」
+    wx.showToast({ title: '正在重试…', icon: 'loading', duration: 1000 });
     if (!this._book) {
       this._loadBook(() => this._maybeUnlock());
     } else {
