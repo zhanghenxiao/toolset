@@ -8,12 +8,14 @@
 const fs = require('fs');
 const path = require('path');
 
-const BOOK_FILE_RE = /^((?:l_\d+(?:__\d+)?|f_\d+|u_[a-z0-9]+|w_\d+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
+const BOOK_FILE_RE = /^((?:lutxt_\d+|l_\d+(?:__\d+)?|f_\d+|u_[a-z0-9]+|w_\d+|m_[a-z0-9]+|[xs]\d+|\d+))(?:_(\d+))?_(.+?)1-(\d+)章\.txt$/i;
 const CUSTOM_ID_RE = /^u_[a-z0-9]+$/i;
 const OOW_ID_RE = /^w_\d+$/i;
 const JCXS_ID_RE = /^s\d+$/;
 const X33XS_ID_RE = /^x\d+$/;
 const MINYUAN_ID_RE = /^m_[a-z0-9]+$/i;
+const LUTXT_ID_RE = /^lutxt_\d+$/i;
+const FALOO_ID_RE = /^f_\d+$/i;
 const LIBAHAO_ID_RE = /^l_\d+(?:__\d+)?$/i;
 
 function isJcxsId(id) {
@@ -26,6 +28,14 @@ function isX33xsId(id) {
 
 function isMinyuanId(id) {
   return MINYUAN_ID_RE.test(String(id));
+}
+
+function isLutxtId(id) {
+  return LUTXT_ID_RE.test(String(id));
+}
+
+function isFalooId(id) {
+  return FALOO_ID_RE.test(String(id));
 }
 
 function isLibahaoId(id) {
@@ -45,7 +55,7 @@ function oowLocalId(siteBookId) {
 }
 
 function isPrefixedSiteBookId(id) {
-  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id);
+  return isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLutxtId(id) || isFalooId(id) || isLibahaoId(id) || isCustomBookId(id) || is00wId(id);
 }
 
 function libahaoLocalId(siteBookId, imageId) {
@@ -312,9 +322,13 @@ module.exports = {
   LEGACY_FLAT_FILE_RE,
   X33XS_ID_RE,
   MINYUAN_ID_RE,
+  LUTXT_ID_RE,
+  FALOO_ID_RE,
   isJcxsId,
   isX33xsId,
   isMinyuanId,
+  isLutxtId,
+  isFalooId,
   isLibahaoId,
   isCustomBookId,
   is00wId,

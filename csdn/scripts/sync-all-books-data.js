@@ -13,6 +13,7 @@ const {
   isJcxsId,
   isX33xsId,
   isMinyuanId,
+  isLutxtId,
   isLibahaoId,
   isFalooId,
   isCustomBookId,
@@ -97,7 +98,7 @@ const READ_URLS = {
 };
 
 function parseBlockId(block) {
-  const fromHead = block.match(/^\n\{\n    id: ([^,]+),/m)?.[1]?.trim();
+  const fromHead = block.match(/^\n\s*\{\n    id: ([^,]+),/m)?.[1]?.trim();
   if (fromHead) {
     return /^\d+$/.test(fromHead) ? Number(fromHead) : fromHead.replace(/^"|"$/g, '');
   }
@@ -111,7 +112,7 @@ function formatBlockId(id) {
   return typeof id === 'string' ? JSON.stringify(id) : String(id);
 }
 
-const BOOK_BLOCK_RE = /\n\{[\s\S]*?\n  \},/g;
+const BOOK_BLOCK_RE = /\n  \{[\s\S]*?\n  \},/g;
 
 function loadExistingReadUrls() {
   if (!fs.existsSync(booksDataPath)) return new Map();
@@ -200,7 +201,9 @@ function discoverDiskBooks() {
           ? `https://www.x33xs6.com/33xs/${Math.floor(Number(String(book.id).slice(1)) / 1000)}/${String(book.id).slice(1)}/`
           : isMinyuanId(book.id)
             ? `https://www.min-yuan.com/txt/${String(book.id).slice(2)}/`
-            : isLibahaoId(book.id)
+            : isLutxtId(book.id)
+              ? `https://www.lutxt.com/txt/${String(book.id).slice(6)}.html`
+              : isLibahaoId(book.id)
               ? libahaoSourceUrl(book.id)
               : isCustomBookId(book.id)
                 ? ''
@@ -347,7 +350,7 @@ for (const disk of diskBooks) {
 if (process.argv.includes('--online')) {
   for (const item of merged) {
     const { id, entry } = item;
-    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLibahaoId(id) || isFalooId(id) || isCustomBookId(id) || is00wId(id)) continue;
+    if (isJcxsId(id) || isX33xsId(id) || isMinyuanId(id) || isLutxtId(id) || isLibahaoId(id) || isFalooId(id) || isCustomBookId(id) || is00wId(id)) continue;
     if (entry.author && entry.author !== '未知' && entry.category && entry.latestChapter) continue;
     try {
       const meta = parseMetadata(curlText(`https://www.deqixs.org/${id}/txt.html`), id);
