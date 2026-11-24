@@ -105248,6 +105248,52 @@ export default [
     "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
   },
   {
+    "id": "lutxt_30081",
+    "title": "在艰苦岁月里当阿姐",
+    "author": "九紫",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-289章",
+    "latestChapter": "第289章",
+    "excerpt": "",
+    "readUrl": "https://pan.baidu.com/s/1x6b7dwhv31KoNrgCwrR5Lw?pwd=g8va",
+    "downloadUrl": "/books/lutxt_30081_在艰苦岁月里当阿姐1-289章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
+    "id": "m_uf",
+    "title": "狂徒！",
+    "author": "不吃葱花",
+    "category": "玄幻",
+    "status": "连载中",
+    "chapters": "1-607章",
+    "latestChapter": "第608章 这个……疯子（大结局）",
+    "excerpt": "算命的说我是一将功成万骨枯。意思就是我得打死一万个人！",
+    "readUrl": "https://pan.baidu.com/s/1vsT2TeG7-J28RYJ3RDWUKA?pwd=g8va",
+    "downloadUrl": "/books/m_uf_狂徒！1-607章.txt",
+    "tags": [
+      {
+        "name": "玄幻",
+        "type": "purple"
+      },
+      {
+        "name": "连载",
+        "type": "blue"
+      }
+    ],
+    "cover": "https://www.deqixs.org/files/article/image/NaN/NaN/NaNs.jpg"
+  },
+  {
     "id": "s114759",
     "title": "掌中香（糙汉h）",
     "author": "穆如归穆旭成",
