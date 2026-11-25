@@ -259,7 +259,7 @@ function readTextFile(filePath) {
   } catch {
     return buffer.toString('utf8');
   }
-  return utf8;
+  return buffer.toString('utf8');
 }
 
 function normalizeBracketSpam(text) {
@@ -515,7 +515,10 @@ function isMinyuanSpamLine(line) {
 
 /** 含 qidian2.com 的站点错误页路径行 */
 function isQidian2SpamLine(line) {
-  return /qidian2\.com/i.test(line);
+  if (/qidian2\.com/i.test(line)) return true;
+  // 站点抓取失败的 PHP 错误拼接行（单独成行，正文不会出现）
+  if (/Cannot acquire reference to \$GLOBALS错误位置/.test(line)) return true;
+  return false;
 }
 
 /** 行首 # 堆栈行、PHP/ThinkPHP 错误页残留（不误删正文中的 名字#名字） */
@@ -716,9 +719,10 @@ function discoverBookTargets() {
 }
 
 const rootDir = path.resolve(__dirname, '../..');
-const targets = discoverBookTargets();
+const fileArg = process.argv[2];
+const targets = fileArg ? [path.resolve(fileArg)] : discoverBookTargets();
 
-console.log('清理书籍 TXT 推广水印...');
+console.log(`清理书籍 TXT 推广水印（${targets.length} 个文件）...`);
 let totalRemoved = 0;
 for (const target of targets) {
   totalRemoved += cleanFile(target);

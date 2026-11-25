@@ -1,4 +1,5 @@
-# 书籍正文纳入版本库；仅排除临时工作目录
+# 书籍正文 TXT 不入库；保留 books/index.html
+books/*.txt
 books/_work/
 
 # 构建时从 csdn/src/assets/images/books 同步，不重复入库
@@ -12,19 +13,3 @@ csdn/scripts/.cache/
 .logs/
 
 .cache/
-
-# 书籍正文纳入版本库；仅排除临时工作目录
-books/_work/
-
-# 构建时从 csdn/src/assets/images/books 同步，不重复入库
-book-covers/*.jpg
-
-# 生成的书籍分享海报与二维码缓存，不入库
-book-posters/
-csdn/scripts/.cache/
-
-# 本地运行日志，不入库
-.logs/
-
-.cache/
-
