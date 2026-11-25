@@ -15,6 +15,7 @@ csdn/scripts/.cache/
 
 # 书籍正文纳入版本库；仅排除临时工作目录
 books/_work/
+books/
 
 # 构建时从 csdn/src/assets/images/books 同步，不重复入库
 book-covers/*.jpg

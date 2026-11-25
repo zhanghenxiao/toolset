@@ -41,44 +41,72 @@ function parseNumText(raw) {
   return cnToArabic(s);
 }
 
+// 两种合法标题：
+//   1) 第38章 标题 / 第三十八章 标题 / 第 ３８ 章 标题（汉字数字、全角数字也支持）
+//      节/回/卷仅在标题后有分隔符时才认，避免正文里的「第三回合…」被误判
+//   2) 38.标题 / 38、标题 / 38 标题（纯数字编号式，如《太尊！》的「1.狐妖月见」）
+const HEADER_PATTERNS = [
+  `(?:^|\\n)([ \\t　]*)(第\\s*([${NUM_CLASS}]{1,12})\\s*(?:章|(?:[节回卷])(?=[\\s　、.．·:：\\-—_]|$))[^\\n]{0,80})`,
+  `(?:^|\\n)([ \\t　]*)(([0-9０-９]{1,4})[.．、](?=[^\\d])[^\\n]{0,80})`,
+];
+
 /**
  * 从 TXT 正文解析章节（与站点书籍格式一致）
- * 兼容「第38章」「第三十八章」「第 ３８ 章」三种写法；
- * 节/回/卷仅在标题后有分隔符时才认，避免正文里的「第三回合…」被误判。
+ * 兼容「第38章」「第三十八章」「第 ３８ 章」，以及「1.狐妖月见」「2.淬体术…」这类数字编号式标题。
  */
 function parseChapters(text) {
   if (!text || !text.trim()) {
     return [{ title: '正文', content: text || '' }];
   }
 
-  const headerRe = new RegExp(
-    `(?:^|\\n)([ \\t　]*)(第\\s*([${NUM_CLASS}]{1,12})\\s*(?:章|(?:[节回卷])(?=[\\s　、.．·:：\\-—_]|$))[^\\n]{0,80})`,
-    'g',
-  );
   const hits = [];
-  let m;
-  let prevNum = NaN;
-  while ((m = headerRe.exec(text)) !== null) {
-    const title = m[2].trim();
-    if (!title || title.length > 80) continue;
-    let num = parseNumText(m[3]);
-    // 解析不出数字时按上一章顺延，保证 num 单调、进度定位可用
-    if (!isFinite(num) || num <= 0) num = isFinite(prevNum) ? prevNum + 1 : hits.length + 1;
-    prevNum = num;
-    hits.push({ index: m.index + (m[0].startsWith('\n') ? 1 : 0), title, num });
-  }
+  HEADER_PATTERNS.forEach((pattern, patternIndex) => {
+    const headerRe = new RegExp(pattern, 'g');
+    let m;
+    while ((m = headerRe.exec(text)) !== null) {
+      const title = m[2].trim();
+      if (!title || title.length > 80) continue;
+      // 只对第二条「数字编号式」规则做排版过滤，别误伤「第39章」
+      if (patternIndex === 1) {
+        // 纯数字编号式：正文里的编号列表也可能长这样，用「前后排版」排除误判
+        // 1) 标题最多 30 字   2) 上一行必须为空行或文件开头   3) 下一行不能也是编号行
+        if (title.replace(/^\d+\s*[.．、]\s*/, '').length > 30) continue;
+        const lineStart = m.index + (m[0].startsWith('\n') ? 1 : 0);
+        if (lineStart > 0) {
+          const before = text.slice(0, lineStart - 1);
+          const p = before.lastIndexOf('\n');
+          const prevLine = p < 0 ? '' : before.slice(p + 1);
+          if (prevLine.trim()) continue;
+        }
+        const rest = text.slice(lineStart + title.length);
+        const nextEnd = rest.indexOf('\n');
+        const nextLine = nextEnd < 0 ? '' : rest.slice(0, nextEnd).trim();
+        if (/^\d{1,4}\s*[.．、]\s*\S/.test(nextLine)) continue;
+      }
+      let num = parseNumText(m[3]);
+      // 解析不出数字时按顺序编号，保证 num 可用
+      if (!isFinite(num) || num <= 0) num = hits.length + 1;
+      hits.push({ index: m.index + (m[0].startsWith('\n') ? 1 : 0), title, num });
+    }
+  });
+  // 两套正则分别扫描，按在正文中的位置合并、排序
+  hits.sort((a, b) => a.index - b.index);
+  const merged = [];
+  hits.forEach((h) => {
+    if (!merged.length || merged[merged.length - 1].index !== h.index) merged.push(h);
+  });
 
-  if (hits.length === 0) {
+  if (merged.length === 0) {
     return [{ title: '正文', content: text.trim() }];
   }
 
   const chapters = [];
-  for (let i = 0; i < hits.length; i++) {
-    const start = hits[i].index;
-    const end = i + 1 < hits.length ? hits[i + 1].index : text.length;
+  for (let i = 0; i < merged.length; i++) {
+    const start = merged[i].index;
+    const end = i + 1 < merged.length ? merged[i + 1].index : text.length;
     chapters.push({
-      num: hits[i].num,
-      title: hits[i].title,
+      num: merged[i].num,
+      title: merged[i].title,
       content: text.slice(start, end).trim(),
     });
   }
